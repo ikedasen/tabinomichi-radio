@@ -589,8 +589,17 @@ function RadioPageInner() {
 
               {/* 左下に小さく ▶/⏸ を常時表示 (再生中は ⏸、停止中は ▶) */}
               <div className="absolute left-3 bottom-3 pointer-events-none z-40">
-                <div className="w-12 h-12 rounded-full bg-black/65 ring-1 ring-white/25 flex items-center justify-center text-xl text-white shadow-lg">
-                  {isPlaying ? '⏸' : '▶'}
+                <div className="w-12 h-12 rounded-full bg-black/65 ring-1 ring-white/25 flex items-center justify-center text-white shadow-lg">
+                  {isPlaying ? (
+                    <svg viewBox="0 0 24 24" className="w-5 h-5" fill="currentColor">
+                      <rect x="6" y="5" width="4" height="14" rx="1" />
+                      <rect x="14" y="5" width="4" height="14" rx="1" />
+                    </svg>
+                  ) : (
+                    <svg viewBox="0 0 24 24" className="w-5 h-5" fill="currentColor">
+                      <path d="M8 5v14l11-7z" />
+                    </svg>
+                  )}
                 </div>
               </div>
 
