@@ -309,7 +309,7 @@ function RadioPageInner() {
       return
     }
     const PATTERNS: number[][] = [
-      [0, 1],            // 短: 閉→中
+      [0, 2],            // 短: 閉→開
       [0, 1, 2],         // 中: 閉→中→開
       [0, 2, 1, 2],      // 長A: 閉→開→中→開
       [0, 1, 2, 1, 2],   // 長B: 閉→中→開→中→開
@@ -591,7 +591,7 @@ function RadioPageInner() {
               )}
 
               {isPlaying && !recentlyStarted && (
-                <div className="absolute inset-0 bg-black/35 backdrop-blur-[1px] flex items-center justify-center pointer-events-none opacity-0 [@media(hover:hover)]:group-hover:opacity-100 transition-opacity duration-200 z-40">
+                <div className="absolute inset-0 bg-black/35 backdrop-blur-[1px] flex items-center justify-center pointer-events-none opacity-0 [@media(pointer:fine)]:group-hover:opacity-100 transition-opacity duration-200 z-40">
                   <div className="w-24 h-24 rounded-full bg-black/75 ring-1 ring-white/25 flex items-center justify-center text-5xl text-white shadow-2xl">
                     ⏸
                   </div>
