@@ -55,6 +55,7 @@ type FeaturedGame = {
   price?: string
   short_description?: string
   image_rel?: string
+  hero_rel?: string
 }
 
 type ProgramMeta = {
