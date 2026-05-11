@@ -700,7 +700,8 @@ function RadioPageInner() {
             </div>
 
             {/* hidden audio */}
-            <audio ref={audioRef} src={audioUrl} preload="metadata" hidden />
+            {/* preload="auto" で MP3 を全体先読み (Cloudflare が Range 非対応のため、シークには full load が必要) */}
+            <audio ref={audioRef} src={audioUrl} preload="auto" hidden />
             </div>
 
             {/* 右カラム (デスクトップのみ): Steam 横長 header (or fallback) + ゲーム概要 */}
