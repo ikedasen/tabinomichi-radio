@@ -372,13 +372,20 @@ function RadioPageInner() {
   }, [program, currentSegment])
 
   const handleSeek = (sec: number) => {
-    if (audioRef.current) audioRef.current.currentTime = Math.max(0, Math.min(duration, sec))
+    const a = audioRef.current
+    if (!a) return
+    // 音声要素の duration を直接参照 (state の遅延を回避)
+    const dur = isFinite(a.duration) && a.duration > 0 ? a.duration : duration
+    a.currentTime = Math.max(0, Math.min(dur, sec))
   }
   const handleSeekFraction = (e: React.MouseEvent<HTMLDivElement>) => {
+    const a = audioRef.current
+    if (!a) return
     const rect = e.currentTarget.getBoundingClientRect()
     const x = e.clientX - rect.left
     const f = Math.max(0, Math.min(1, x / rect.width))
-    handleSeek(f * duration)
+    const dur = isFinite(a.duration) && a.duration > 0 ? a.duration : duration
+    if (dur > 0) a.currentTime = f * dur
   }
   const togglePlay = () => {
     const a = audioRef.current
