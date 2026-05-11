@@ -96,13 +96,13 @@ const WAVEFORM_BARS = Array.from({ length: 72 }, (_, i) => {
   return Math.max(0.18, Math.min(1.0, 0.5 + v))
 })
 
-/** ゲーム情報サイドバーの画像 (カバー + スクリーンショット を 6 秒ごとに切替) */
+/** ゲーム情報サイドバーの画像 (カバー + スクリーンショット を 30 秒ごとに切替) */
 function GameImageRotator({ cover, screenshots, alt }: { cover: string; screenshots: string[]; alt: string }) {
   const images = [cover, ...screenshots.filter((s) => s && s !== cover)].filter(Boolean)
   const [idx, setIdx] = useState(0)
   useEffect(() => {
     if (images.length <= 1) return
-    const id = setInterval(() => setIdx((i) => (i + 1) % images.length), 6000)
+    const id = setInterval(() => setIdx((i) => (i + 1) % images.length), 30000)
     return () => clearInterval(id)
   }, [images.length])
   if (images.length === 0) return null
