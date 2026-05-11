@@ -2,7 +2,7 @@
 // シェル (HTML/CSS/JS) は network-first で常に最新を取りに行く。
 // 立ち絵 PNG・アイコン・MP3 は cache-first で一度落としたら永続的にローカル参照。
 
-const CACHE_VERSION = 'v1-2026-05-11'
+const CACHE_VERSION = 'v2-2026-05-11-noaudio'
 const SHELL_CACHE = `shell-${CACHE_VERSION}`
 const ASSET_CACHE = `assets-${CACHE_VERSION}`
 
@@ -44,10 +44,14 @@ self.addEventListener('fetch', (event) => {
   const url = new URL(req.url)
   if (url.origin !== self.location.origin) return
 
-  // 静的アセット (画像 / 音声 / フォント) は cache-first
-  const isAsset = /\.(png|jpg|jpeg|webp|svg|mp3|wav|woff2?)$/i.test(url.pathname)
+  // 音声ファイルは SW で intercept しない (Range リクエストをブラウザに直接処理させる)
+  // SW のキャッシュ経由だと部分取得が効かず、audio.currentTime によるシークが先頭に戻ってしまう
+  const isMedia = /\.(mp3|wav|m4a|ogg)$/i.test(url.pathname)
+  if (isMedia) return  // ブラウザ標準の挙動に任せる
+
+  // 静的アセット (画像 / フォント / SVG / アイコン) は cache-first
+  const isAsset = /\.(png|jpg|jpeg|webp|svg|woff2?)$/i.test(url.pathname)
     || url.pathname.startsWith('/characters/')
-    || url.pathname.startsWith('/audio/')
     || url.pathname.startsWith('/images/')
     || url.pathname.startsWith('/icons/')
 
