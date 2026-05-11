@@ -212,7 +212,7 @@ function RadioPageInner() {
           } : null,
           script_segments: [],
           news_covers: [],
-          program_background: target.featured_game?.image_rel || target.featured_game?.hero_rel || null,
+          program_background: target.featured_game?.hero_rel || target.featured_game?.image_rel || null,
           featured_game: target.featured_game || null,
           program_description: target.program_description || '',
         }
@@ -704,9 +704,7 @@ function RadioPageInner() {
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img
                   src={
-                    program.featured_game.hero_rel
-                      ? program.featured_game.hero_rel
-                      : program.featured_game.image_rel
+                    program.featured_game.image_rel
                       ? program.featured_game.image_rel
                       : program.featured_game.app_id
                       ? `/images/games/${program.featured_game.app_id}_header.jpg`
