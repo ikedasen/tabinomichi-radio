@@ -580,33 +580,12 @@ function RadioPageInner() {
                 ) : null}
               </div>
 
-              {/* 状態別オーバーレイ:
-                  - 初回 (currentTime ≒ 0 かつ paused): クリーン表示、hover で ▶
-                  - 一時停止中 (currentTime > 0 かつ paused): グレー常時 + ⏸
-                  - 再生中: hover で ⏸ */}
-              {!isPlaying && currentTime < 0.1 && (
-                <div className="absolute left-3 bottom-3 pointer-events-none z-40">
-                  <div className="w-12 h-12 rounded-full bg-black/65 ring-1 ring-white/25 flex items-center justify-center text-xl text-white shadow-lg">
-                    ▶
-                  </div>
+              {/* 左下に小さく ▶/⏸ を常時表示 (再生中は ⏸、停止中は ▶) */}
+              <div className="absolute left-3 bottom-3 pointer-events-none z-40">
+                <div className="w-12 h-12 rounded-full bg-black/65 ring-1 ring-white/25 flex items-center justify-center text-xl text-white shadow-lg">
+                  {isPlaying ? '⏸' : '▶'}
                 </div>
-              )}
-
-              {!isPlaying && currentTime >= 0.1 && (
-                <div className="absolute inset-0 bg-black/45 backdrop-blur-[2px] flex items-center justify-center pointer-events-none transition-opacity z-40">
-                  <div className="w-24 h-24 rounded-full bg-black/75 ring-1 ring-white/25 flex items-center justify-center text-5xl text-white shadow-2xl">
-                    ▶
-                  </div>
-                </div>
-              )}
-
-              {isPlaying && !recentlyStarted && isFinePointer && (
-                <div className="absolute inset-0 bg-black/35 backdrop-blur-[1px] flex items-center justify-center pointer-events-none opacity-0 group-hover:opacity-100 transition-opacity duration-200 z-40">
-                  <div className="w-24 h-24 rounded-full bg-black/75 ring-1 ring-white/25 flex items-center justify-center text-5xl text-white shadow-2xl">
-                    ⏸
-                  </div>
-                </div>
-              )}
+              </div>
 
               {/* 下端: グラデ + 現ニュース or Featured ゲーム表示 */}
               {(() => {
