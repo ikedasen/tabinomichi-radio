@@ -146,7 +146,7 @@ export default function PageClient() {
                   <div className="space-y-4">
                     {dayEpisodes.map((ep) => {
                       const game = ep.featured_game
-                      const bg = game?.image_rel || game?.hero_rel || null
+                      const bg = game?.hero_rel || game?.image_rel || null
                       const shortDesc = shortenDesc(ep.program_description || '', 100)
                       return (
                         <Link
