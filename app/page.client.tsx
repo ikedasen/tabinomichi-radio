@@ -99,11 +99,17 @@ export default function PageClient() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-amber-950 via-orange-900 to-amber-950 text-zinc-100">
       <header className="sticky top-0 z-40 bg-gradient-to-b from-amber-950 to-amber-950/0 backdrop-blur-sm">
-        <div className="max-w-5xl mx-auto px-3 md:px-4 py-4 md:py-5">
+        <div className="max-w-5xl mx-auto px-3 md:px-4 py-4 md:py-5 flex items-center justify-between gap-3">
           <h1 className="text-2xl md:text-3xl font-bold text-white inline-flex items-baseline gap-2.5 tracking-tight">
             <MaskIcon src="/icons/radio.svg" className="w-5 h-5 md:w-6 md:h-6 text-amber-300 -translate-y-0.5 md:-translate-y-1" />
             Tabinomichi Radio
           </h1>
+          <a
+            href="https://tabinomichi.jp/"
+            className="text-xs md:text-sm text-amber-200/80 hover:text-amber-100 tracking-widest border-b border-amber-200/30 hover:border-amber-100 transition-colors pb-px"
+          >
+            ← TABINOMICHI
+          </a>
         </div>
       </header>
 
