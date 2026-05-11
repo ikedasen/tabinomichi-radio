@@ -374,18 +374,32 @@ function RadioPageInner() {
   const handleSeek = (sec: number) => {
     const a = audioRef.current
     if (!a) return
-    // 音声要素の duration を直接参照 (state の遅延を回避)
     const dur = isFinite(a.duration) && a.duration > 0 ? a.duration : duration
     a.currentTime = Math.max(0, Math.min(dur, sec))
   }
-  const handleSeekFraction = (e: React.MouseEvent<HTMLDivElement>) => {
+
+  // 波形のドラッグシーク (pointer events でタッチ・マウス両対応)
+  const seekingRef = useRef(false)
+  const seekFromEvent = (e: React.PointerEvent<HTMLDivElement>) => {
     const a = audioRef.current
     if (!a) return
     const rect = e.currentTarget.getBoundingClientRect()
-    const x = e.clientX - rect.left
-    const f = Math.max(0, Math.min(1, x / rect.width))
+    const f = Math.max(0, Math.min(1, (e.clientX - rect.left) / rect.width))
     const dur = isFinite(a.duration) && a.duration > 0 ? a.duration : duration
     if (dur > 0) a.currentTime = f * dur
+  }
+  const onWaveformPointerDown = (e: React.PointerEvent<HTMLDivElement>) => {
+    e.currentTarget.setPointerCapture(e.pointerId)
+    seekingRef.current = true
+    seekFromEvent(e)
+  }
+  const onWaveformPointerMove = (e: React.PointerEvent<HTMLDivElement>) => {
+    if (!seekingRef.current) return
+    seekFromEvent(e)
+  }
+  const onWaveformPointerUp = (e: React.PointerEvent<HTMLDivElement>) => {
+    seekingRef.current = false
+    try { e.currentTarget.releasePointerCapture(e.pointerId) } catch {}
   }
   const togglePlay = () => {
     const a = audioRef.current
@@ -626,11 +640,14 @@ function RadioPageInner() {
               })()}
             </div>
 
-            {/* 波形 (クリックでシーク) */}
+            {/* 波形 (クリック/ドラッグでシーク) */}
             <div
-              className="relative h-14 mb-2 cursor-pointer select-none"
-              onClick={handleSeekFraction}
-              title="クリックでシーク"
+              className="relative h-14 mb-2 cursor-pointer select-none touch-none"
+              onPointerDown={onWaveformPointerDown}
+              onPointerMove={onWaveformPointerMove}
+              onPointerUp={onWaveformPointerUp}
+              onPointerCancel={onWaveformPointerUp}
+              title="ドラッグでシーク"
             >
               <div className="absolute inset-0 flex items-center gap-[3px]">
                 {WAVEFORM_BARS.map((h, i) => {
