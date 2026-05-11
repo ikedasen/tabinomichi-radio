@@ -146,6 +146,16 @@ function RadioPageInner() {
   const [isPlaying, setIsPlaying] = useState(false)
   // 再生開始直後 3 秒は一時停止オーバーレイ非表示 (操作感のため)
   const [recentlyStarted, setRecentlyStarted] = useState(false)
+  // マウス等の精密ポインタかどうか (タッチデバイスでは ⏸ オーバーレイを完全に非表示)
+  const [isFinePointer, setIsFinePointer] = useState(false)
+  useEffect(() => {
+    if (typeof window === 'undefined' || !window.matchMedia) return
+    const mq = window.matchMedia('(pointer: fine)')
+    setIsFinePointer(mq.matches)
+    const onChange = () => setIsFinePointer(mq.matches)
+    mq.addEventListener('change', onChange)
+    return () => mq.removeEventListener('change', onChange)
+  }, [])
   const [showSegments, setShowSegments] = useState(false)
   const audioRef = useRef<HTMLAudioElement | null>(null)
   // 目パチ・口パク state
@@ -590,8 +600,8 @@ function RadioPageInner() {
                 </div>
               )}
 
-              {isPlaying && !recentlyStarted && (
-                <div className="absolute inset-0 bg-black/35 backdrop-blur-[1px] flex items-center justify-center pointer-events-none opacity-0 [@media(pointer:fine)]:group-hover:opacity-100 transition-opacity duration-200 z-40">
+              {isPlaying && !recentlyStarted && isFinePointer && (
+                <div className="absolute inset-0 bg-black/35 backdrop-blur-[1px] flex items-center justify-center pointer-events-none opacity-0 group-hover:opacity-100 transition-opacity duration-200 z-40">
                   <div className="w-24 h-24 rounded-full bg-black/75 ring-1 ring-white/25 flex items-center justify-center text-5xl text-white shadow-2xl">
                     ⏸
                   </div>
