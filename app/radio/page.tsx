@@ -591,7 +591,7 @@ function RadioPageInner() {
               )}
 
               {isPlaying && !recentlyStarted && (
-                <div className="absolute inset-0 bg-black/35 backdrop-blur-[1px] flex items-center justify-center pointer-events-none opacity-0 group-hover:opacity-100 transition-opacity duration-200 z-40">
+                <div className="absolute inset-0 bg-black/35 backdrop-blur-[1px] flex items-center justify-center pointer-events-none opacity-0 [@media(hover:hover)]:group-hover:opacity-100 transition-opacity duration-200 z-40">
                   <div className="w-24 h-24 rounded-full bg-black/75 ring-1 ring-white/25 flex items-center justify-center text-5xl text-white shadow-2xl">
                     ⏸
                   </div>
