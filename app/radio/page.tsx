@@ -56,6 +56,7 @@ type FeaturedGame = {
   short_description?: string
   image_rel?: string
   hero_rel?: string
+  screenshot_rels?: string[]
 }
 
 type ProgramMeta = {
@@ -94,6 +95,32 @@ const WAVEFORM_BARS = Array.from({ length: 72 }, (_, i) => {
   const v = Math.sin(i * 0.7) * 0.35 + Math.cos(i * 1.3) * 0.25 + Math.sin(i * 0.31) * 0.15
   return Math.max(0.18, Math.min(1.0, 0.5 + v))
 })
+
+/** ゲーム情報サイドバーの画像 (カバー + スクリーンショット を 6 秒ごとに切替) */
+function GameImageRotator({ cover, screenshots, alt }: { cover: string; screenshots: string[]; alt: string }) {
+  const images = [cover, ...screenshots.filter((s) => s && s !== cover)].filter(Boolean)
+  const [idx, setIdx] = useState(0)
+  useEffect(() => {
+    if (images.length <= 1) return
+    const id = setInterval(() => setIdx((i) => (i + 1) % images.length), 6000)
+    return () => clearInterval(id)
+  }, [images.length])
+  if (images.length === 0) return null
+  return (
+    <div className="relative w-full rounded-2xl ring-1 ring-white/10 shadow-2xl overflow-hidden" style={{ aspectRatio: '460 / 215' }}>
+      {images.map((src, i) => (
+        // eslint-disable-next-line @next/next/no-img-element
+        <img
+          key={src}
+          src={src}
+          alt={alt}
+          className="absolute inset-0 w-full h-full object-cover transition-opacity duration-700"
+          style={{ opacity: i === idx ? 1 : 0 }}
+        />
+      ))}
+    </div>
+  )
+}
 
 export default function RadioPage() {
   return (
@@ -745,18 +772,16 @@ function RadioPageInner() {
             {/* 右カラム (デスクトップのみ): Steam 横長 header (or fallback) + ゲーム概要 */}
             {profile === 'indie' && program.featured_game && (program.featured_game.app_id || program.featured_game.image_rel) && (
               <aside className="hidden md:block sticky top-6 self-start space-y-3">
-                {/* eslint-disable-next-line @next/next/no-img-element */}
-                <img
-                  src={
+                <GameImageRotator
+                  cover={
                     program.featured_game.image_rel
                       ? program.featured_game.image_rel
                       : program.featured_game.app_id
                       ? `/images/games/${program.featured_game.app_id}_header.jpg`
                       : ''
                   }
+                  screenshots={program.featured_game.screenshot_rels || []}
                   alt={program.featured_game.title}
-                  className="w-full rounded-2xl ring-1 ring-white/10 shadow-2xl object-cover"
-                  style={{ aspectRatio: '460 / 215' }}
                 />
                 <div className="bg-black/30 backdrop-blur-sm rounded-2xl p-5">
                   <h2 className="text-lg font-bold text-zinc-50 mb-2 leading-tight">
