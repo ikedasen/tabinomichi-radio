@@ -300,6 +300,27 @@ function RadioPageInner() {
     return u
   })()
 
+  // MP3 を Blob として一括ダウンロード → メモリから再生することで Range 非対応サーバ環境でも
+  // シークが効くようにする (Cloudflare Workers Static Assets が Range を返さないため)
+  const [blobUrl, setBlobUrl] = useState<string | null>(null)
+  useEffect(() => {
+    if (!audioUrl) { setBlobUrl(null); return }
+    let canceled = false
+    let createdUrl: string | null = null
+    fetch(audioUrl, { cache: 'force-cache' })
+      .then((r) => r.ok ? r.blob() : Promise.reject(new Error(`status ${r.status}`)))
+      .then((blob) => {
+        if (canceled) return
+        createdUrl = URL.createObjectURL(blob)
+        setBlobUrl(createdUrl)
+      })
+      .catch(() => { if (!canceled) setBlobUrl(audioUrl) })  // 失敗時は通常 URL にフォールバック
+    return () => {
+      canceled = true
+      if (createdUrl) URL.revokeObjectURL(createdUrl)
+    }
+  }, [audioUrl])
+
   const segments: Segment[] = program?.audio_meta?.segments || []
   const currentSegment = segments.find(
     (s) => currentTime >= s.start_sec && currentTime < s.end_sec
@@ -717,8 +738,8 @@ function RadioPageInner() {
             </div>
 
             {/* hidden audio */}
-            {/* preload="auto" で MP3 を全体先読み (Cloudflare が Range 非対応のため、シークには full load が必要) */}
-            <audio ref={audioRef} src={audioUrl} preload="auto" hidden />
+            {/* MP3 を Blob として fetch して in-memory 再生 → どのデバイスでもシーク可能 */}
+            <audio ref={audioRef} src={blobUrl || undefined} preload="auto" hidden />
             </div>
 
             {/* 右カラム (デスクトップのみ): Steam 横長 header (or fallback) + ゲーム概要 */}
