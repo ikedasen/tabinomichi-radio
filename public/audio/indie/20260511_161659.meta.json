@@ -1,0 +1,515 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-05-11T18:58:15.121580",
+  "title": "カニになる運命に抗え！「Everything is Crab」徹底深掘り回",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 327.29,
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 8.19
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "こんばんは、旅の道ラジオです。今夜はですね、ひとつのゲームを番組まるごと深掘りする新企画をやります。",
+      "news_index": 0,
+      "start_sec": 8.19,
+      "end_sec": 15.37
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "深掘り回だ〜！ボクすごく楽しみ！今日は何のゲームなの？",
+      "news_index": 0,
+      "start_sec": 15.52,
+      "end_sec": 19.77
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今夜取り上げるのは、『Everything is Crab』！生物進化ローグライトよ。",
+      "news_index": 0,
+      "start_sec": 19.92,
+      "end_sec": 24.78
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "ぜんぶカニになる？タイトルからしてもう大好きなんだけど！",
+      "news_index": 0,
+      "start_sec": 24.93,
+      "end_sec": 29.16
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "まず基本情報から。Odd Dreams Digital が開発して、Secret Mode がパブリッシュ。発売は今年の5月8日、つい最近よ。",
+      "news_index": 1,
+      "start_sec": 29.31,
+      "end_sec": 38.92
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "え、ほんとに最近！！まだリリースから数日しかたってないんだ。",
+      "news_index": 1,
+      "start_sec": 39.07,
+      "end_sec": 43.65
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。でも、もう販売本数が10万本を突破してて、同時接続プレイヤーのピークが1万6千人超えなの。",
+      "news_index": 1,
+      "start_sec": 43.8,
+      "end_sec": 51.43
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "1万6千人！？インディーでそれはすごくない！？",
+      "news_index": 1,
+      "start_sec": 51.58,
+      "end_sec": 55.13
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "Steamのゲームって99%は同接100人もいかないから、4桁後半ってもう別格よ。インディーとして文句なしの大ヒット。",
+      "news_index": 1,
+      "start_sec": 55.28,
+      "end_sec": 63.97
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "Odd Dreams Digital って名前初めて聞いたけど、一発目でそんな当てちゃうの？",
+      "news_index": 1,
+      "start_sec": 64.12,
+      "end_sec": 69.9
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "これが彼らの代表作っぽくて、コンセプト勝ちって感じがするわ。",
+      "news_index": 1,
+      "start_sec": 70.05,
+      "end_sec": 74.09
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "コンセプト勝ち……気になる！どんなゲームなの？",
+      "news_index": 1,
+      "start_sec": 74.24,
+      "end_sec": 78.08
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ジャンルはローグライトアクションなんだけど、舞台が生態系なの。プレイヤーは小さな生き物を操って、狩って、逃げて、あさって、生き残るの。",
+      "news_index": 2,
+      "start_sec": 78.23,
+      "end_sec": 88.11
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "自然界のサバイバルをローグライトでやる感じか。",
+      "news_index": 2,
+      "start_sec": 88.26,
+      "end_sec": 91.32
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。で、ゲームの肝が進化システムね。125種類以上の進化と特化から選べて、プレイごとに全然違う生物の組み合わせができあがるの。",
+      "news_index": 2,
+      "start_sec": 91.47,
+      "end_sec": 101.9
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "125種類！それはかなり多いね。自分だけのキメラ生物が毎回できる感じ？",
+      "news_index": 2,
+      "start_sec": 102.05,
+      "end_sec": 108.12
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そうそう。速くて鋭い捕食者にするもよし、ステルスで獲物を待ち伏せるもよし。プレイスタイルが全然変わってくるわ。",
+      "news_index": 2,
+      "start_sec": 108.27,
+      "end_sec": 116.03
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ローグライトって毎回違うビルドになるのが楽しいよね。125種類あったらかなり試行回数かかりそう。",
+      "news_index": 2,
+      "start_sec": 116.18,
+      "end_sec": 123.1
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "やり込み要素としては十分ね。で、肝心の「カニ」の話なんだけど……",
+      "news_index": 2,
+      "start_sec": 123.25,
+      "end_sec": 129.04
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "きた！カニの話！",
+      "news_index": 2,
+      "start_sec": 129.19,
+      "end_sec": 131.02
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "タイトルの『Everything is Crab』って、実は収斂進化っていう生物学的な概念から来てるのよ。",
+      "news_index": 3,
+      "start_sec": 131.17,
+      "end_sec": 138.5
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "しゅうれん進化……？なにそれ？",
+      "news_index": 3,
+      "start_sec": 138.65,
+      "end_sec": 141.0
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "遠い親戚の生き物が、別々に進化したのに同じような形に行き着く現象のこと。で、カニ型の体型ってめちゃくちゃ進化しやすい形らしいの。",
+      "news_index": 3,
+      "start_sec": 141.15,
+      "end_sec": 151.04
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "え、カニって最強のフォルムなの？",
+      "news_index": 3,
+      "start_sec": 151.19,
+      "end_sec": 154.09
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "らしいのよ！現実の進化の歴史でも、タコやヤドカリや全然違う生き物が何度も独立してカニっぽい形に進化してきた記録があって、それを「カーシナイゼーション」って呼ぶの。",
+      "news_index": 3,
+      "start_sec": 154.24,
+      "end_sec": 166.13
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "カーシナイゼーション！！なんかかっこいい！世界はカニになろうとしてる！",
+      "news_index": 3,
+      "start_sec": 166.28,
+      "end_sec": 171.45
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。ゲームのルールとして最終的にカニになる運命が設定されてて、プレイヤーはそれに抗いながら生き延びるって設定よ。",
+      "news_index": 3,
+      "start_sec": 171.6,
+      "end_sec": 179.59
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "宿命に抗うって言いながら、でも結局カニになるの？",
+      "news_index": 3,
+      "start_sec": 179.74,
+      "end_sec": 183.63
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "「なりたくなければ生き残れ」って感じよ。カニにならないくらいの強さになれば勝ち、ってゲームデザイン。",
+      "news_index": 3,
+      "start_sec": 183.78,
+      "end_sec": 190.47
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "なんかこれ、ゲームとしてのストーリーとしても面白いし、科学の話としても面白いよね。",
+      "news_index": 3,
+      "start_sec": 190.62,
+      "end_sec": 196.68
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そうなのよ！遊んでたら収斂進化って概念まで覚えちゃう。インディーゲームの良さがここに詰まってる感じ。",
+      "news_index": 3,
+      "start_sec": 196.83,
+      "end_sec": 203.41
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "さっきの数字に戻るんだけど、発売から数日で10万本、同接16,000人って、インディーとしてどのくらいすごいか説明すると……",
+      "news_index": 4,
+      "start_sec": 203.49,
+      "end_sec": 212.27
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "うーん、比較で言うと？",
+      "news_index": 4,
+      "start_sec": 212.42,
+      "end_sec": 214.65
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "Steamは毎日何十本も新作が出るから。そのなかで1万6千人同接ってのは、完全にバイラルしたってことよ。",
+      "news_index": 4,
+      "start_sec": 214.8,
+      "end_sec": 222.35
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "カーシナイゼーションってワードが SNS で拡散したりしたのかな。キャッチーだもんね。",
+      "news_index": 4,
+      "start_sec": 222.5,
+      "end_sec": 228.52
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "多分そういう要素も大きいと思う。コンセプトが説明しやすくて、シェアしやすいのよ。「カニになる運命に抗うゲーム」って言ったら誰でもわかる。",
+      "news_index": 4,
+      "start_sec": 228.67,
+      "end_sec": 238.16
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "「ぜんぶカニになる」ってタイトルもそのままの意味だし、惹かれるよね。",
+      "news_index": 4,
+      "start_sec": 238.31,
+      "end_sec": 243.35
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "このゲームを語るうえで外せないのが、コンセプトの強さよね。「カニになる運命に抗う」って一言で面白さが伝わる。",
+      "news_index": 5,
+      "start_sec": 243.5,
+      "end_sec": 251.39
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "そうだよね！ボク今この会話だけで友達に話したくなってきたもん。",
+      "news_index": 5,
+      "start_sec": 251.54,
+      "end_sec": 256.53
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それがマーケティングとして最強よ。ゲームデザインとコンセプトが一致してて、説明が難しくない。",
+      "news_index": 5,
+      "start_sec": 256.68,
+      "end_sec": 262.93
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "インディーってよくコンセプトで当たるよね。大作より一個のアイデアを信じて突き詰めてる感じが好き。",
+      "news_index": 5,
+      "start_sec": 263.08,
+      "end_sec": 269.32
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "しかも125種類の進化ってのも、リプレイ性をちゃんと担保してる。コンセプトだけじゃなくてゲームとして機能してるのが大事よね。",
+      "news_index": 5,
+      "start_sec": 269.47,
+      "end_sec": 277.49
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "コンセプトがよくてもゲームとして面白くなかったらダメだもんね。両立できてる感じがするんだ。",
+      "news_index": 5,
+      "start_sec": 277.64,
+      "end_sec": 283.63
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこが今年注目したいインディーのひとつになりそうな理由ね。",
+      "news_index": 5,
+      "start_sec": 283.78,
+      "end_sec": 287.35
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "いやあ、Everything is Crab、めちゃくちゃ気になってきた〜！収斂進化の話とか、科学的な背景もあってしかも面白いってなったら、もう買うしかないじゃん。",
+      "news_index": 0,
+      "start_sec": 287.5,
+      "end_sec": 298.08
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そうね。今夜はひとつのゲームをじっくり語ってみたけど、こういう形式どうかしら？",
+      "news_index": 0,
+      "start_sec": 298.23,
+      "end_sec": 303.59
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "ボクは好き！いっぱい話せる感じがして楽しかった〜！",
+      "news_index": 0,
+      "start_sec": 303.74,
+      "end_sec": 307.85
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで、旅の道ラジオの深掘り回、お送りしました！今夜はここまで。ありがとうございました！",
+      "news_index": 0,
+      "start_sec": 308.0,
+      "end_sec": 314.67
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "またね〜！カニになりたくない人はプレイしてみてね！",
+      "news_index": 0,
+      "start_sec": 314.82,
+      "end_sec": 318.49
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 319.19,
+      "end_sec": 327.29
+    }
+  ],
+  "wall_time_sec": 6.78,
+  "audio_url": "/audio/indie/20260511_161659.mp3"
+}
