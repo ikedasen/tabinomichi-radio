@@ -5,10 +5,28 @@ import ServiceWorkerRegister from './sw-register'
 
 const inter = Inter({ subsets: ['latin'] })
 
+const SITE_URL = 'https://news.tabinomichi.jp'
+
 export const metadata: Metadata = {
+  metadataBase: new URL(SITE_URL),
   title: '旅の道ラジオ — Tabinomichi Radio',
   description: 'ずんだもん×めたんが届けるインディーゲームの深夜雑談ラジオ。',
   manifest: '/manifest.json',
+  openGraph: {
+    type: 'website',
+    url: SITE_URL,
+    siteName: '旅の道ラジオ',
+    title: '旅の道ラジオ — Tabinomichi Radio',
+    description: 'ずんだもん×めたんが届けるインディーゲームの深夜雑談ラジオ。',
+    images: [{ url: '/og-image.png', width: 1200, height: 630, alt: '旅の道ラジオ' }],
+    locale: 'ja_JP',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: '旅の道ラジオ — Tabinomichi Radio',
+    description: 'ずんだもん×めたんが届けるインディーゲームの深夜雑談ラジオ。',
+    images: ['/og-image.png'],
+  },
   appleWebApp: {
     capable: true,
     title: '旅の道ラジオ',
