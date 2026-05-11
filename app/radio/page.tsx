@@ -703,7 +703,9 @@ function RadioPageInner() {
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img
                   src={
-                    program.featured_game.image_rel
+                    program.featured_game.hero_rel
+                      ? program.featured_game.hero_rel
+                      : program.featured_game.image_rel
                       ? program.featured_game.image_rel
                       : program.featured_game.app_id
                       ? `/images/games/${program.featured_game.app_id}_header.jpg`
