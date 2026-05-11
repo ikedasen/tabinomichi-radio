@@ -1,0 +1,7 @@
+name = "tabinomichi-radio"
+compatibility_date = "2024-12-01"
+
+# 静的アセット (Next.js export 結果) を ./out から配信する
+[assets]
+directory = "./out"
+not_found_handling = "404-page"
