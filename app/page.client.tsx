@@ -162,7 +162,9 @@ export default function PageClient() {
                                      bg-black/30 backdrop-blur-sm shadow-lg hover:shadow-2xl transition-all duration-300 hover:-translate-y-0.5 hover:ring-white/20"
                         >
                           <div className="md:grid md:grid-cols-[240px_1fr]">
-                            <div className="relative aspect-[16/9] md:aspect-auto md:h-full bg-zinc-900 overflow-hidden">
+                            {/* aspect は Steam header 比率 (460:215 ≒ 2.14) で全機種統一。
+                                portrait の VNDB cover も object-cover で水平スライス化される */}
+                            <div className="relative aspect-[460/215] bg-zinc-900 overflow-hidden">
                               {bg ? (
                                 // eslint-disable-next-line @next/next/no-img-element
                                 <img

@@ -7,7 +7,7 @@ import { Suspense, useEffect, useMemo, useRef, useState } from 'react'
 type SpeechSegment = {
   index: number
   type: 'speech'
-  speaker: 'zunda' | 'metan'
+  speaker: 'zunda' | 'metan' | 'tsumugi'
   text: string
   tone?: string
   news_index?: number | null
@@ -18,7 +18,7 @@ type SpeechSegment = {
 type MusicSegment = {
   index: number
   type: 'music'
-  intro_speaker: 'zunda' | 'metan'
+  intro_speaker: 'zunda' | 'metan' | 'tsumugi'
   intro_text: string
   tone?: string
   news_index?: number | null
@@ -188,9 +188,11 @@ function RadioPageInner() {
   // 目パチ・口パク state
   const [zundaBlink, setZundaBlink] = useState(false)
   const [metanBlink, setMetanBlink] = useState(false)
+  const [tsumugiBlink, setTsumugiBlink] = useState(false)
   // 口パク phase: 0=closed, 1=mid, 2=open (3-state cycle 0→1→2→1→0→1→...)
   const [zundaMouth, setZundaMouth] = useState(0)
   const [metanMouth, setMetanMouth] = useState(0)
+  const [tsumugiMouth, setTsumugiMouth] = useState(0)
 
   // 目パチ: 3-6秒間隔でランダムに 150ms 目を閉じる
   useEffect(() => {
@@ -213,8 +215,18 @@ function RadioPageInner() {
       }, delay)
       return id
     }
+    const scheduleTsumugi = () => {
+      const delay = 2700 + Math.random() * 3800
+      const id = setTimeout(() => {
+        if (cancelled) return
+        setTsumugiBlink(true)
+        setTimeout(() => { if (!cancelled) setTsumugiBlink(false); scheduleTsumugi() }, 160)
+      }, delay)
+      return id
+    }
     scheduleZunda()
     scheduleMetan()
+    scheduleTsumugi()
     return () => { cancelled = true }
   }, [])
 
@@ -364,6 +376,7 @@ function RadioPageInner() {
     if (!isPlaying || !speaker) {
       setZundaMouth(0)
       setMetanMouth(0)
+      setTsumugiMouth(0)
       return
     }
     const PATTERNS: number[][] = [
@@ -384,6 +397,7 @@ function RadioPageInner() {
         if (tInSeg < NARR_WINDOW[0] || tInSeg > NARR_WINDOW[1]) {
           setMetanMouth(0)
           setZundaMouth(0)
+          setTsumugiMouth(0)
           return
         }
       }
@@ -392,9 +406,15 @@ function RadioPageInner() {
       if (speaker === 'zunda') {
         setZundaMouth(frame)
         setMetanMouth(0)
+        setTsumugiMouth(0)
       } else if (speaker === 'metan') {
         setMetanMouth(frame)
         setZundaMouth(0)
+        setTsumugiMouth(0)
+      } else if (speaker === 'tsumugi') {
+        setTsumugiMouth(frame)
+        setZundaMouth(0)
+        setMetanMouth(0)
       }
     }, 100)
     return () => clearInterval(id)
@@ -547,7 +567,8 @@ function RadioPageInner() {
                   />
                 )
               })()}
-              {/* ずんだ (左) + めたん (右) の立ち絵: tone 切替 + 目パチ + 口パク + intro マイク持ち */}
+              {/* ずんだ (左) + めたん or つむぎ (右) の立ち絵: tone 切替 + 目パチ + 口パク + intro マイク持ち
+                  retro 回はめたんの代わりにつむぎが出る (segments を見て自動判定) */}
               {(() => {
                 const VALID_TONES = ['normal','amaama','tsuntsun','sasayaki','sexy','hisohiso','namidame','kangae'] as const
                 type Tone = typeof VALID_TONES[number]
@@ -555,11 +576,17 @@ function RadioPageInner() {
                 const tone: Tone = (segTone && (VALID_TONES as readonly string[]).includes(segTone) ? segTone : 'normal')
                 const isIntro = !!(currentSegment && currentSegment.type === 'intro')
                 const activeSpeaker = currentSegment && currentSegment.type === 'speech' ? currentSegment.speaker : null
-                const zundaActive = activeSpeaker === 'zunda'
-                const metanActive = activeSpeaker === 'metan'
+                const zundaActive   = activeSpeaker === 'zunda'
+                const metanActive   = activeSpeaker === 'metan'
+                const tsumugiActive = activeSpeaker === 'tsumugi'
 
-                const zundaTone: Tone = zundaActive ? tone : 'normal'
-                const metanTone: Tone = metanActive ? tone : 'normal'
+                // Determine cast: if any segment uses tsumugi, this is a retro episode
+                // where tsumugi replaces metan on the right side.
+                const hasTsumugi = segments.some(s => s.type === 'speech' && s.speaker === 'tsumugi')
+
+                const zundaTone:   Tone = zundaActive   ? tone : 'normal'
+                const metanTone:   Tone = metanActive   ? tone : 'normal'
+                const tsumugiTone: Tone = tsumugiActive ? tone : 'normal'
 
                 // mouth phase -> suffix: 0=base, 1=_talk (mid), 2=_talk2 (open)
                 const mouthSuffix = (m: number) => m === 2 ? '_talk2' : m === 1 ? '_talk' : ''
@@ -580,6 +607,13 @@ function RadioPageInner() {
                   ? `/characters/metan/${metanTone}${mouthSuffix(metanMouth)}.png`
                   : `/characters/metan/${metanTone}.png`
 
+                // つむぎ image state (intro マイク持ちポーズはまだ未生成、intro 時も通常立ち絵)
+                const tsumugiSrc = tsumugiBlink
+                  ? `/characters/tsumugi/${tsumugiTone}_blink.png`
+                  : tsumugiActive
+                  ? `/characters/tsumugi/${tsumugiTone}${mouthSuffix(tsumugiMouth)}.png`
+                  : `/characters/tsumugi/${tsumugiTone}.png`
+
                 return (
                   <>
                     {/* eslint-disable-next-line @next/next/no-img-element */}
@@ -598,14 +632,14 @@ function RadioPageInner() {
                     />
                     {/* eslint-disable-next-line @next/next/no-img-element */}
                     <img
-                      src={metanSrc}
+                      src={hasTsumugi ? tsumugiSrc : metanSrc}
                       alt=""
                       className="absolute pointer-events-none drop-shadow-2xl"
                       style={{
                         right: '-22%',
                         bottom: '-32%',
                         height: '100%',
-                        zIndex: metanActive ? 5 : 4,
+                        zIndex: (hasTsumugi ? tsumugiActive : metanActive) ? 5 : 4,
                       }}
                       onError={(e) => { (e.currentTarget as HTMLImageElement).style.display = 'none' }}
                     />
@@ -638,7 +672,11 @@ function RadioPageInner() {
                     'text-center text-base md:text-lg leading-relaxed font-medium',
                     'px-4 py-4 max-w-[92%] max-h-[88%] overflow-hidden',
                     '[text-shadow:_0_0_6px_rgb(0_0_0_/_0.95),_0_2px_4px_rgb(0_0_0_/_0.9),_0_0_2px_rgb(0_0_0_/_1)]',
-                    currentSegment.speaker === 'zunda' ? 'text-emerald-200' : 'text-zinc-50',
+                    currentSegment.speaker === 'zunda'
+                      ? 'text-emerald-200'
+                      : currentSegment.speaker === 'tsumugi'
+                      ? 'text-pink-200'
+                      : 'text-zinc-50',
                   ].join(' ')}>
                     {currentSegment.text}
                   </p>
@@ -740,7 +778,7 @@ function RadioPageInner() {
                       speakerLabel = '🎵'
                       text = seg.text
                     } else if (seg.type === 'speech') {
-                      speakerLabel = seg.speaker === 'zunda' ? '🟢' : '🔴'
+                      speakerLabel = seg.speaker === 'zunda' ? '🟢' : seg.speaker === 'tsumugi' ? '🌸' : '🔴'
                       text = seg.text
                     }
                     return (
