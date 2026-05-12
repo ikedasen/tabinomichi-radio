@@ -90,14 +90,60 @@ function fmt(sec: number) {
   return `${m}:${s}`
 }
 
-function ShareButton({ title, episodeId }: { title?: string; episodeId?: string | null }) {
+function ViewCounter({ episodeId, isPlaying }: { episodeId: string | null; isPlaying: boolean }) {
+  const [count, setCount] = useState<number | null>(null)
+  const incrementedRef = useRef(false)
+
+  useEffect(() => {
+    if (!episodeId) { setCount(null); return }
+    setCount(null)
+    incrementedRef.current = false
+    fetch(`/api/views/${episodeId}`, { cache: 'no-store' })
+      .then((r) => (r.ok ? r.json() : null))
+      .then((d) => { if (d && typeof d.count === 'number') setCount(d.count) })
+      .catch(() => {})
+  }, [episodeId])
+
+  useEffect(() => {
+    if (!episodeId || !isPlaying || incrementedRef.current) return
+    incrementedRef.current = true
+    try {
+      const dedupKey = `viewed:${episodeId}`
+      const last = typeof localStorage !== 'undefined' ? localStorage.getItem(dedupKey) : null
+      const now = Date.now()
+      if (last && now - parseInt(last, 10) < 24 * 3600 * 1000) return
+      fetch(`/api/views/${episodeId}`, { method: 'POST', cache: 'no-store' })
+        .then((r) => (r.ok ? r.json() : null))
+        .then((d) => {
+          if (d && typeof d.count === 'number') setCount(d.count)
+          try { localStorage.setItem(dedupKey, String(now)) } catch {}
+        })
+        .catch(() => {})
+    } catch {}
+  }, [episodeId, isPlaying])
+
+  if (count === null) return null
+  return (
+    <div className="flex items-center gap-1 text-[11px] text-zinc-300/80 drop-shadow whitespace-nowrap shrink-0 mt-1 tabular-nums">
+      <svg viewBox="0 0 16 16" width="10" height="10" fill="currentColor" aria-hidden>
+        <path d="M3 2v12l10-6z" />
+      </svg>
+      <span>{count.toLocaleString()}</span>
+    </div>
+  )
+}
+
+function ShareButton({ title, gameTitle, episodeId }: { title?: string; gameTitle?: string; episodeId?: string | null }) {
   const [copied, setCopied] = useState(false)
   const onClick = async () => {
     let url = typeof window !== 'undefined' ? window.location.href : ''
     if (episodeId && typeof window !== 'undefined') {
       url = `${window.location.origin}/radio/${episodeId}`
     }
-    const data = { title: title || 'Tabinomichi Radio', url }
+    const t = title || 'Tabinomichi Radio'
+    const headline = gameTitle ? `${gameTitle} ${t}` : t
+    const shareText = `${headline}\n${url}`
+    const data = { title: headline, text: shareText, url }
     try {
       if (typeof navigator !== 'undefined' && (navigator as any).share) {
         await (navigator as any).share(data)
@@ -105,7 +151,7 @@ function ShareButton({ title, episodeId }: { title?: string; episodeId?: string 
       }
     } catch {}
     try {
-      await navigator.clipboard.writeText(url)
+      await navigator.clipboard.writeText(shareText)
       setCopied(true)
       setTimeout(() => setCopied(false), 1800)
     } catch {}
@@ -304,7 +350,7 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
           } : null,
           script_segments: [],
           news_covers: [],
-          program_background: target.featured_game?.hero_rel || target.featured_game?.image_rel || null,
+          program_background: target.featured_game?.image_rel || target.featured_game?.hero_rel || null,
           featured_game: target.featured_game || null,
           program_description: target.program_description || '',
         }
@@ -589,7 +635,7 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
             />
             Tabinomichi Radio
           </div>
-          <ShareButton title={program?.title} episodeId={currentEpisode} />
+          <ShareButton title={program?.title} gameTitle={program?.featured_game?.title} episodeId={currentEpisode} />
         </div>
 
         {loading && (
@@ -655,7 +701,7 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
               {/* ずんだ (左) + めたん or つむぎ (右) の立ち絵: tone 切替 + 目パチ + 口パク + intro マイク持ち
                   retro 回はめたんの代わりにつむぎが出る (segments を見て自動判定) */}
               {(() => {
-                const VALID_TONES = ['normal','amaama','tsuntsun','sasayaki','sexy','hisohiso','namidame','kangae','miage','shirake','herohero','kamera','shock','kanashimi','tsukuriwarai'] as const
+                const VALID_TONES = ['normal','amaama','tsuntsun','sasayaki','sexy','hisohiso','namidame','kangae','miage','shirake','herohero','kamera','shock','kanashimi','tsukuriwarai','hazukashi','welcome'] as const
                 type Tone = typeof VALID_TONES[number]
                 const segTone = (currentSegment && 'tone' in currentSegment ? currentSegment.tone : undefined) as Tone | undefined
                 const tone: Tone = (segTone && (VALID_TONES as readonly string[]).includes(segTone) ? segTone : 'normal')
@@ -739,9 +785,12 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
               })()}
               {/* 上端: グラデ + 番組タイトル */}
               <div className="absolute inset-x-0 top-0 pt-5 pb-6 px-5 bg-gradient-to-b from-black/80 via-black/50 to-transparent">
-                <h1 className="text-xl font-bold leading-tight drop-shadow-2xl text-white">
-                  {titleMain || '(無題)'}
-                </h1>
+                <div className="flex items-start justify-between gap-3">
+                  <h1 className="text-xl font-bold leading-tight drop-shadow-2xl text-white flex-1 min-w-0">
+                    {titleMain || '(無題)'}
+                  </h1>
+                  <ViewCounter episodeId={currentEpisode} isPlaying={isPlaying} />
+                </div>
                 {titleSub && (
                   <p className="text-xs text-zinc-200/90 mt-1 drop-shadow leading-snug">
                     〜 {titleSub} 〜
@@ -937,11 +986,9 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
                   {/* eslint-disable-next-line @next/next/no-img-element */}
                   <img
                     src={
-                      program.featured_game.image_rel
-                        ? program.featured_game.image_rel
-                        : program.featured_game.app_id
+                      program.featured_game.app_id
                         ? `/images/games/${program.featured_game.app_id}_header.jpg`
-                        : ''
+                        : program.featured_game.image_rel || ''
                     }
                     alt={program.featured_game.title}
                     className="absolute inset-0 w-full h-full object-cover"

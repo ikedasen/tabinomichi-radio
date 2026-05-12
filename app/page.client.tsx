@@ -70,7 +70,9 @@ function ShareButton({ title }: { title?: string }) {
   const [copied, setCopied] = useState(false)
   const onClick = async () => {
     const url = typeof window !== 'undefined' ? window.location.href : ''
-    const data = { title: title || 'Tabinomichi Radio', url }
+    const t = title || '旅の道ラジオ — Tabinomichi Radio'
+    const shareText = `${t}\n${url}`
+    const data = { title: t, text: shareText, url }
     try {
       if (typeof navigator !== 'undefined' && (navigator as any).share) {
         await (navigator as any).share(data)
@@ -78,7 +80,7 @@ function ShareButton({ title }: { title?: string }) {
       }
     } catch {}
     try {
-      await navigator.clipboard.writeText(url)
+      await navigator.clipboard.writeText(shareText)
       setCopied(true)
       setTimeout(() => setCopied(false), 1800)
     } catch {}

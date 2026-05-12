@@ -1,7 +1,15 @@
 name = "tabinomichi-radio"
+main = "src/worker.ts"
 compatibility_date = "2024-12-01"
 
 # 静的アセット (Next.js export 結果) を ./out から配信する
 [assets]
 directory = "./out"
 not_found_handling = "404-page"
+binding = "ASSETS"
+
+# 再生回数カウンター用 KV namespace
+# wrangler kv namespace create VIEWS_KV で作成し、id をここに貼る
+[[kv_namespaces]]
+binding = "VIEWS_KV"
+id = "REPLACE_WITH_VIEWS_KV_ID"
