@@ -56,6 +56,25 @@ const shortenDesc = (text: string, target = 100): string => {
   return text.slice(0, target) + '…'
 }
 
+function HomeViewCount({ episodeId }: { episodeId: string }) {
+  const [count, setCount] = useState<number | null>(null)
+  useEffect(() => {
+    fetch(`/api/views/${episodeId}`, { cache: 'no-store' })
+      .then((r) => (r.ok ? r.json() : null))
+      .then((d) => { if (d && typeof d.count === 'number') setCount(d.count) })
+      .catch(() => {})
+  }, [episodeId])
+  if (count === null) return null
+  return (
+    <div className="absolute top-2 right-2 inline-flex items-center gap-1 text-[11px] text-white bg-black/55 px-2 py-0.5 rounded-full tabular-nums backdrop-blur-sm">
+      <svg viewBox="0 0 16 16" width="9" height="9" fill="currentColor" aria-hidden>
+        <path d="M3 2v12l10-6z" />
+      </svg>
+      <span>{count.toLocaleString()}</span>
+    </div>
+  )
+}
+
 const MaskIcon = ({ src, className = '', style = {} }: { src: string; className?: string; style?: React.CSSProperties }) => (
   <span aria-hidden className={`inline-block bg-current ${className}`} style={{
     WebkitMaskImage: `url(${src})`, maskImage: `url(${src})`,
@@ -222,6 +241,7 @@ export default function PageClient() {
                                 <div className="absolute inset-0 w-full h-full bg-gradient-to-br from-orange-700 to-amber-900 flex items-center justify-center text-5xl">📻</div>
                               )}
                               <div className="absolute inset-0 bg-gradient-to-t from-black/40 via-transparent to-transparent pointer-events-none" />
+                              <HomeViewCount episodeId={ep.episode_id} />
                             </div>
 
                             {/* タイトル位置を上に上げるため py を控えめに */}
