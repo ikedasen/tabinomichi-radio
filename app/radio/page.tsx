@@ -122,13 +122,11 @@ function ViewCounter({ episodeId, isPlaying }: { episodeId: string | null; isPla
     } catch {}
   }, [episodeId, isPlaying])
 
+  if (count === null) return null
   return (
-    <div className="flex items-center gap-1 text-[12px] text-white/90 drop-shadow whitespace-nowrap shrink-0 mt-1 tabular-nums bg-black/40 px-2 py-0.5 rounded-full">
-      <svg viewBox="0 0 16 16" width="11" height="11" fill="currentColor" aria-hidden>
-        <path d="M3 2v12l10-6z" />
-      </svg>
-      <span>{count === null ? '…' : count.toLocaleString()}</span>
-    </div>
+    <span className="text-xs text-zinc-400 whitespace-nowrap shrink-0 tabular-nums">
+      {count.toLocaleString()}回再生
+    </span>
   )
 }
 
@@ -784,12 +782,9 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
               })()}
               {/* 上端: グラデ + 番組タイトル */}
               <div className="absolute inset-x-0 top-0 pt-5 pb-6 px-5 bg-gradient-to-b from-black/80 via-black/50 to-transparent">
-                <div className="flex items-start justify-between gap-3">
-                  <h1 className="text-xl font-bold leading-tight drop-shadow-2xl text-white flex-1 min-w-0">
-                    {titleMain || '(無題)'}
-                  </h1>
-                  <ViewCounter episodeId={currentEpisode} isPlaying={isPlaying} />
-                </div>
+                <h1 className="text-xl font-bold leading-tight drop-shadow-2xl text-white">
+                  {titleMain || '(無題)'}
+                </h1>
                 {titleSub && (
                   <p className="text-xs text-zinc-200/90 mt-1 drop-shadow leading-snug">
                     〜 {titleSub} 〜
@@ -944,7 +939,10 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
             {/* モバイル時の概要パネル (デスクトップ時は右カラムが同じ情報を持つので非表示) */}
             {profile === 'indie' && program.featured_game && (
               <div className="md:hidden mt-3 bg-black/30 backdrop-blur-sm rounded-2xl p-4 space-y-2 text-zinc-100">
-                <h2 className="text-base font-bold leading-tight">{program.featured_game.title}</h2>
+                <div className="flex items-baseline justify-between gap-3">
+                  <h2 className="text-base font-bold leading-tight">{program.featured_game.title}</h2>
+                  <ViewCounter episodeId={currentEpisode} isPlaying={isPlaying} />
+                </div>
                 <div className="text-[11px] text-zinc-400 flex flex-wrap gap-x-3 gap-y-1">
                   {program.featured_game.developers?.length ? (
                     <span>👤 {program.featured_game.developers.join(' / ')}</span>
@@ -994,9 +992,12 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
                   />
                 </div>
                 <div className="bg-black/30 backdrop-blur-sm rounded-2xl p-5">
-                  <h2 className="text-lg font-bold text-zinc-50 mb-2 leading-tight">
-                    {program.featured_game.title}
-                  </h2>
+                  <div className="flex items-baseline justify-between gap-3 mb-2">
+                    <h2 className="text-lg font-bold text-zinc-50 leading-tight">
+                      {program.featured_game.title}
+                    </h2>
+                    <ViewCounter episodeId={currentEpisode} isPlaying={isPlaying} />
+                  </div>
                   <div className="text-xs text-zinc-400 mb-3 flex flex-wrap gap-x-3 gap-y-1">
                     {program.featured_game.developers?.length ? (
                       <span>👤 {program.featured_game.developers.join(' / ')}</span>
