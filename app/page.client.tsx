@@ -161,25 +161,26 @@ export default function PageClient() {
                           className="group block rounded-2xl overflow-hidden ring-1 ring-white/10
                                      bg-black/30 backdrop-blur-sm shadow-lg hover:shadow-2xl transition-all duration-300 hover:-translate-y-0.5 hover:ring-white/20"
                         >
-                          <div className="md:grid md:grid-cols-[240px_1fr]">
-                            {/* aspect は Steam header 比率 (460:215 ≒ 2.14) で全機種統一。
-                                portrait の VNDB cover も object-cover で水平スライス化される */}
-                            <div className="relative aspect-[460/215] bg-zinc-900 overflow-hidden">
+                          <div className="md:grid md:grid-cols-[240px_1fr] md:h-[180px]">
+                            {/* サムネ 4:3 固定 (240×180)。card 全体も h-[180px] 固定なので、テキストが
+                                短くても長くてもサムネは同サイズ。object-cover で横長は左右トリミング、縦長は上下トリミング */}
+                            <div className="relative w-full bg-zinc-900 overflow-hidden aspect-[4/3] md:aspect-auto md:h-full">
                               {bg ? (
                                 // eslint-disable-next-line @next/next/no-img-element
                                 <img
                                   src={bg}
                                   alt={ep.title}
-                                  className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
+                                  className="absolute inset-0 w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
                                   onError={(e) => { (e.currentTarget as HTMLImageElement).style.visibility = 'hidden' }}
                                 />
                               ) : (
-                                <div className="w-full h-full bg-gradient-to-br from-orange-700 to-amber-900 flex items-center justify-center text-5xl">📻</div>
+                                <div className="absolute inset-0 w-full h-full bg-gradient-to-br from-orange-700 to-amber-900 flex items-center justify-center text-5xl">📻</div>
                               )}
                               <div className="absolute inset-0 bg-gradient-to-t from-black/40 via-transparent to-transparent pointer-events-none" />
                             </div>
 
-                            <div className="p-5 md:p-6 flex flex-col min-w-0">
+                            {/* タイトル位置を上に上げるため py を控えめに */}
+                            <div className="px-5 py-4 md:px-6 md:py-4 flex flex-col min-w-0">
                               <h3 className="text-lg md:text-xl font-bold text-white leading-snug mb-2 line-clamp-2">
                                 {ep.title}
                               </h3>
@@ -193,7 +194,7 @@ export default function PageClient() {
                                 </div>
                               </div>
                               {shortDesc ? (
-                                <p className="text-sm text-zinc-200/80 leading-relaxed line-clamp-3">{shortDesc}</p>
+                                <p className="text-sm text-zinc-200/80 leading-relaxed line-clamp-2">{shortDesc}</p>
                               ) : null}
                             </div>
                           </div>

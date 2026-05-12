@@ -372,7 +372,13 @@ function RadioPageInner() {
   useEffect(() => {
     const isSpeech = currentSegment?.type === 'speech'
     const isIntroSeg = currentSegment?.type === 'intro'
-    const speaker = isSpeech ? currentSegment.speaker : isIntroSeg ? 'metan' : null
+    // tsumugi がいる episode の intro は title call もつむぎが担当
+    const introHasTsumugi = isIntroSeg && segments.some(s => s.type === 'speech' && s.speaker === 'tsumugi')
+    const speaker = isSpeech
+      ? currentSegment.speaker
+      : isIntroSeg
+      ? (introHasTsumugi ? 'tsumugi' : 'metan')
+      : null
     if (!isPlaying || !speaker) {
       setZundaMouth(0)
       setMetanMouth(0)
@@ -570,7 +576,7 @@ function RadioPageInner() {
               {/* ずんだ (左) + めたん or つむぎ (右) の立ち絵: tone 切替 + 目パチ + 口パク + intro マイク持ち
                   retro 回はめたんの代わりにつむぎが出る (segments を見て自動判定) */}
               {(() => {
-                const VALID_TONES = ['normal','amaama','tsuntsun','sasayaki','sexy','hisohiso','namidame','kangae'] as const
+                const VALID_TONES = ['normal','amaama','tsuntsun','sasayaki','sexy','hisohiso','namidame','kangae','miage','shirake','herohero','kamera'] as const
                 type Tone = typeof VALID_TONES[number]
                 const segTone = (currentSegment && 'tone' in currentSegment ? currentSegment.tone : undefined) as Tone | undefined
                 const tone: Tone = (segTone && (VALID_TONES as readonly string[]).includes(segTone) ? segTone : 'normal')
@@ -607,8 +613,10 @@ function RadioPageInner() {
                   ? `/characters/metan/${metanTone}${mouthSuffix(metanMouth)}.png`
                   : `/characters/metan/${metanTone}.png`
 
-                // つむぎ image state (intro マイク持ちポーズはまだ未生成、intro 時も通常立ち絵)
-                const tsumugiSrc = tsumugiBlink
+                // つむぎ image state (intro 時はゆびさし+カメラ目線ポーズ + 口パク)
+                const tsumugiSrc = (isIntro && hasTsumugi)
+                  ? `/characters/tsumugi/intro${mouthSuffix(tsumugiMouth)}.png`
+                  : tsumugiBlink
                   ? `/characters/tsumugi/${tsumugiTone}_blink.png`
                   : tsumugiActive
                   ? `/characters/tsumugi/${tsumugiTone}${mouthSuffix(tsumugiMouth)}.png`
