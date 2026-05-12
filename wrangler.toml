@@ -12,4 +12,4 @@ binding = "ASSETS"
 # wrangler kv namespace create VIEWS_KV で作成し、id をここに貼る
 [[kv_namespaces]]
 binding = "VIEWS_KV"
-id = "REPLACE_WITH_VIEWS_KV_ID"
+id = "b1d8d961315a44b89c2a70e54cc4ffc2"
