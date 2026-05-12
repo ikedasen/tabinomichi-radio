@@ -122,13 +122,12 @@ function ViewCounter({ episodeId, isPlaying }: { episodeId: string | null; isPla
     } catch {}
   }, [episodeId, isPlaying])
 
-  if (count === null) return null
   return (
-    <div className="flex items-center gap-1 text-[11px] text-zinc-300/80 drop-shadow whitespace-nowrap shrink-0 mt-1 tabular-nums">
-      <svg viewBox="0 0 16 16" width="10" height="10" fill="currentColor" aria-hidden>
+    <div className="flex items-center gap-1 text-[12px] text-white/90 drop-shadow whitespace-nowrap shrink-0 mt-1 tabular-nums bg-black/40 px-2 py-0.5 rounded-full">
+      <svg viewBox="0 0 16 16" width="11" height="11" fill="currentColor" aria-hidden>
         <path d="M3 2v12l10-6z" />
       </svg>
-      <span>{count.toLocaleString()}</span>
+      <span>{count === null ? '…' : count.toLocaleString()}</span>
     </div>
   )
 }
