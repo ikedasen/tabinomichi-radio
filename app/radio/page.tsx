@@ -612,7 +612,7 @@ function RadioPageInner() {
               {/* ずんだ (左) + めたん or つむぎ (右) の立ち絵: tone 切替 + 目パチ + 口パク + intro マイク持ち
                   retro 回はめたんの代わりにつむぎが出る (segments を見て自動判定) */}
               {(() => {
-                const VALID_TONES = ['normal','amaama','tsuntsun','sasayaki','sexy','hisohiso','namidame','kangae','miage','shirake','herohero','kamera'] as const
+                const VALID_TONES = ['normal','amaama','tsuntsun','sasayaki','sexy','hisohiso','namidame','kangae','miage','shirake','herohero','kamera','shock','kanashimi','tsukuriwarai'] as const
                 type Tone = typeof VALID_TONES[number]
                 const segTone = (currentSegment && 'tone' in currentSegment ? currentSegment.tone : undefined) as Tone | undefined
                 const tone: Tone = (segTone && (VALID_TONES as readonly string[]).includes(segTone) ? segTone : 'normal')
@@ -626,9 +626,13 @@ function RadioPageInner() {
                 // where tsumugi replaces metan on the right side.
                 const hasTsumugi = segments.some(s => s.type === 'speech' && s.speaker === 'tsumugi')
 
-                const zundaTone:   Tone = zundaActive   ? tone : 'normal'
-                const metanTone:   Tone = metanActive   ? tone : 'normal'
-                const tsumugiTone: Tone = tsumugiActive ? tone : 'normal'
+                // partner_tone: speech segment に付けると「発話してない側」の立ち絵 tone を override
+                const partnerToneRaw = (currentSegment && 'partner_tone' in currentSegment ? (currentSegment as any).partner_tone : undefined) as Tone | undefined
+                const partnerTone: Tone | null = (partnerToneRaw && (VALID_TONES as readonly string[]).includes(partnerToneRaw)) ? partnerToneRaw : null
+
+                const zundaTone:   Tone = zundaActive   ? tone : (partnerTone && !zundaActive   ? partnerTone : 'normal')
+                const metanTone:   Tone = metanActive   ? tone : (partnerTone && !metanActive   ? partnerTone : 'normal')
+                const tsumugiTone: Tone = tsumugiActive ? tone : (partnerTone && !tsumugiActive ? partnerTone : 'normal')
 
                 // mouth phase -> suffix: 0=base, 1=_talk (mid), 2=_talk2 (open)
                 const mouthSuffix = (m: number) => m === 2 ? '_talk2' : m === 1 ? '_talk' : ''
@@ -845,6 +849,36 @@ function RadioPageInner() {
                 </div>
               )}
             </div>
+
+            {/* モバイル時の概要パネル (デスクトップ時は右カラムが同じ情報を持つので非表示) */}
+            {profile === 'indie' && program.featured_game && (
+              <div className="md:hidden mt-3 bg-black/30 backdrop-blur-sm rounded-2xl p-4 space-y-2 text-zinc-100">
+                <h2 className="text-base font-bold leading-tight">{program.featured_game.title}</h2>
+                <div className="text-[11px] text-zinc-400 flex flex-wrap gap-x-3 gap-y-1">
+                  {program.featured_game.developers?.length ? (
+                    <span>👤 {program.featured_game.developers.join(' / ')}</span>
+                  ) : null}
+                  {program.featured_game.release_date ? (
+                    <span>📅 {program.featured_game.release_date}</span>
+                  ) : null}
+                  {program.featured_game.price ? (
+                    <span>💴 {program.featured_game.price}</span>
+                  ) : null}
+                </div>
+                {program.featured_game.genres?.length ? (
+                  <div className="flex flex-wrap gap-1">
+                    {program.featured_game.genres.map((g) => (
+                      <span key={g} className="px-2 py-0.5 text-[10px] bg-white/10 rounded-full text-zinc-300">{g}</span>
+                    ))}
+                  </div>
+                ) : null}
+                {(program.program_description || program.featured_game.short_description) ? (
+                  <p className="text-xs text-zinc-200/85 leading-relaxed">
+                    {program.program_description || program.featured_game.short_description}
+                  </p>
+                ) : null}
+              </div>
+            )}
 
             {/* hidden audio */}
             {/* MP3 を Blob として fetch して in-memory 再生 → どのデバイスでもシーク可能 */}

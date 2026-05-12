@@ -1,0 +1,727 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-05-12T16:04:26.625510",
+  "title": "宝石に刻まれた運命 〜並行世界を渡るADV革命、ユーノ〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 375.07,
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 6.34
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "こんばんは、旅の道ラジオ夜便なのだ！ずんだもん登場なのだー！",
+      "news_index": 0,
+      "start_sec": 6.34,
+      "end_sec": 11.09
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "今日はレトロゲーム回なのだ。",
+      "news_index": 0,
+      "start_sec": 11.17,
+      "end_sec": 13.11
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "やっほー。今回もあーしが担当するっすよ！よろしくっす！",
+      "news_index": 0,
+      "start_sec": 13.26,
+      "end_sec": 17.36
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "今回はどんなゲームを紹介してくれるのだ？",
+      "news_index": 0,
+      "start_sec": 17.51,
+      "end_sec": 20.53
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "1996年、PC-98でエルフが出したこの世の果てで恋を唄う少女ユーノっす！",
+      "news_index": 0,
+      "start_sec": 20.68,
+      "end_sec": 26.68
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "タイトル長くて読めないのだ……",
+      "news_index": 1,
+      "start_sec": 26.83,
+      "end_sec": 28.74
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ですよねー。通称は『ユーノ』っすよ。主人公の名前が入ってるんすけど、なぜそのタイトルなのかも物語の核心に関わるっす。",
+      "news_index": 1,
+      "start_sec": 28.89,
+      "end_sec": 38.58
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "どんなゲームなのだ？",
+      "news_index": 1,
+      "start_sec": 38.73,
+      "end_sec": 40.21
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "夏休みに父親が突然失踪した高校生、有馬たくやが主人公っす。お父さんは歴史学者で、ある日忽然と消えるっす。",
+      "news_index": 1,
+      "start_sec": 40.36,
+      "end_sec": 49.19
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ミステリーっぽいのだ。",
+      "news_index": 1,
+      "start_sec": 49.34,
+      "end_sec": 50.79
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そこから謎の宝石型デバイス『リフレクター・デバイス』を手に入れて、並行世界を旅することになるっすよ。",
+      "news_index": 1,
+      "start_sec": 50.94,
+      "end_sec": 58.79
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "並行世界！？ ＳＦ系なのだ！？",
+      "news_index": 1,
+      "start_sec": 58.94,
+      "end_sec": 62.21
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そうなんすよ先輩！ ここが最高にかっこいいんすけど、このゲームにはADMSっていう独自システムがあって！",
+      "news_index": 1,
+      "start_sec": 62.36,
+      "end_sec": 69.26
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "エーディーエムエス？ 何のことなのだ？",
+      "news_index": 1,
+      "start_sec": 69.41,
+      "end_sec": 72.27
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "『自動分岐マッピングシステム』の略っす。普通のADVって選択肢を選んだら、もう一方のルートはやり直さないと見れないじゃないっすか。",
+      "news_index": 1,
+      "start_sec": 72.42,
+      "end_sec": 81.26
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "そうだよ、セーブ＆ロードするやつなのだ。",
+      "news_index": 1,
+      "start_sec": 81.41,
+      "end_sec": 84.37
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ユーノはそれを全部ひっくり返したっす。マップ画面に今まで歩いた分岐が全部記録されて、どこの世界にいつでも戻れるっす。しかもゲーム内でも宝石を消費して世界線を分岐させられる！",
+      "news_index": 1,
+      "start_sec": 84.52,
+      "end_sec": 96.2
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ゲームの中でもセーブ＆ロードみたいなことができるのだ？",
+      "news_index": 1,
+      "start_sec": 96.35,
+      "end_sec": 100.04
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ただのセーブじゃなくて、世界線そのものを分岐させるっていう設定になってるっすよ。死にそうになっても宝石に戻って別の道を選べる。",
+      "news_index": 1,
+      "start_sec": 100.19,
+      "end_sec": 108.42
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "なんか壮大なのだ……",
+      "news_index": 1,
+      "start_sec": 108.57,
+      "end_sec": 110.01
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "これが1996年のゲームっすよ？ 30年前に、こういう構造を実装してるっす。あーし最初にADMSの画面見た時、震えたっすよ。",
+      "news_index": 1,
+      "start_sec": 110.16,
+      "end_sec": 120.79
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "……ほんとかよ。（ぼそ）",
+      "news_index": 1,
+      "start_sec": 120.94,
+      "end_sec": 122.58
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "先輩、聞こえてるっす。",
+      "news_index": 1,
+      "start_sec": 122.73,
+      "end_sec": 124.65
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "ごめんなさいなのだ……",
+      "news_index": 1,
+      "start_sec": 124.8,
+      "end_sec": 126.51
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "……で、このゲームを作ったのが、菅野ひろゆきさんっす。ゲームデザインもシナリオも全部この人一人でやってるっす。",
+      "news_index": 1,
+      "start_sec": 126.66,
+      "end_sec": 133.84
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "すごいのだ、一人で？",
+      "news_index": 1,
+      "start_sec": 133.99,
+      "end_sec": 135.78
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "エルフって当時ゲーム業界でも有名なメーカーだったっすけど、その中でも菅野さんは別格の天才って言われてたっす。",
+      "news_index": 1,
+      "start_sec": 135.93,
+      "end_sec": 142.93
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "他にもゲーム作ってたのだ？",
+      "news_index": 1,
+      "start_sec": 143.08,
+      "end_sec": 145.03
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "もともとはシーズウェアで「EVE burst error」とか「DESIRE」とかも手がけてた人っす。でもユーノは菅野さんの集大成って呼ばれてて、全力投球の作品っす。",
+      "news_index": 1,
+      "start_sec": 145.18,
+      "end_sec": 157.35
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "sasayaki",
+      "text": "実はこのゲームを開発した菅野さんは、43歳の若さで亡くなってるんすよ。それ知ってから遊ぶと、また重みが違うっすよ……",
+      "news_index": 1,
+      "start_sec": 157.43,
+      "end_sec": 166.4
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "え……そんなに若く？",
+      "news_index": 1,
+      "start_sec": 166.55,
+      "end_sec": 168.66
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "だから続編も菅野さん本人は作れなくて。でもユーノはずっとプレイヤーの心に残り続けてるっす。",
+      "news_index": 1,
+      "start_sec": 168.81,
+      "end_sec": 174.99
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kanashimi",
+      "text": "それだけで、すごく大事な作品だって伝わってくるのだ……",
+      "news_index": 1,
+      "start_sec": 175.14,
+      "end_sec": 179.15
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "っすよ。だからあーしにとっても特別な一本っす。",
+      "news_index": 1,
+      "start_sec": 179.3,
+      "end_sec": 182.62
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "改めてゲームの話に戻るっすけど、このADMSのすごいところって、複数の世界をまたいでパズルを解かないといけない構造になってるとこっすよ。",
+      "news_index": 1,
+      "start_sec": 182.7,
+      "end_sec": 191.78
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "どういうことなのだ？",
+      "news_index": 1,
+      "start_sec": 191.93,
+      "end_sec": 193.41
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "ある世界線でアイテムを取り忘れたり情報を見逃したりすると、別の世界線で詰まることがあるっす！ 世界をまたいで点と点が繋がるパズル構造っすよ！",
+      "news_index": 1,
+      "start_sec": 193.56,
+      "end_sec": 203.13
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "えっ、それヤバいでしょ！ 複数の世界の謎が連動するのだ！？",
+      "news_index": 1,
+      "start_sec": 203.28,
+      "end_sec": 208.36
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そうなんすよ先輩！ あーし初めてここを理解した時、鳥肌が立ったっす。脳みそがシャッフルされる感覚っすよ！",
+      "news_index": 1,
+      "start_sec": 208.51,
+      "end_sec": 215.85
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "それめちゃくちゃ難しそうなのだ……",
+      "news_index": 1,
+      "start_sec": 216.0,
+      "end_sec": 218.09
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "難しいっすよ。当時は攻略本なしでクリアした人がどれだけいるか……あーしも攻略本と交互に見ながら遊んだっす。",
+      "news_index": 1,
+      "start_sec": 218.24,
+      "end_sec": 225.72
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "hisohiso",
+      "text": "（ちなみにこの話、クラスのギャル友達には一ミリも言えない趣味っすよ……）",
+      "news_index": 1,
+      "start_sec": 225.8,
+      "end_sec": 230.93
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "（つむぎの秘密なのだ……）",
+      "news_index": 1,
+      "start_sec": 231.08,
+      "end_sec": 232.46
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "でも攻略本、いまだに手放せないっすよ！ ページめくるたびにエモいっす！ 家宝っすよ家宝！",
+      "news_index": 1,
+      "start_sec": 232.61,
+      "end_sec": 238.91
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "あと、これだけは言わないといけないんすけど——ゲームが途中でガラッと変わるっすよ。",
+      "news_index": 1,
+      "start_sec": 238.99,
+      "end_sec": 244.19
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "どういうことなのだ？",
+      "news_index": 1,
+      "start_sec": 244.34,
+      "end_sec": 245.82
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "前半と後半で、体験がまるで別ゲームみたいになるっす。でもこれ以上はネタバレになるから言えないっすよ。",
+      "news_index": 1,
+      "start_sec": 245.97,
+      "end_sec": 252.68
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "えー！気になるのだ！",
+      "news_index": 1,
+      "start_sec": 252.83,
+      "end_sec": 254.85
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "ダメっす。これは自分で体験してほしいっす。あーしが後半に突入した時、口があんぐりだったっすよ。",
+      "news_index": 1,
+      "start_sec": 255.0,
+      "end_sec": 261.92
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "hisohiso",
+      "text": "（聴いてる皆、後半に何が待ってるか絶対に調べるな、なのだ……）",
+      "news_index": 1,
+      "start_sec": 262.07,
+      "end_sec": 267.4
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "hisohiso",
+      "text": "（そうっす！知らずに遊ぶのが最高の体験っすよ！）",
+      "news_index": 1,
+      "start_sec": 267.55,
+      "end_sec": 271.32
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ユーノどこで遊べるんすかって話っすけど、2019年にHD版リメイクがプレステ4とスイッチとスチームで出てるっすよ。",
+      "news_index": 1,
+      "start_sec": 271.4,
+      "end_sec": 278.84
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ちゃんと今の時代でも遊べるのだ！",
+      "news_index": 1,
+      "start_sec": 278.99,
+      "end_sec": 281.25
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "っすよ。スチームなら割引もよく入るっすし、オタクくんにも手が届くっす。グラフィックはきれいになってるっすけど、あーし的にはやっぱりPC-98版の空気感が最高っすけどね。",
+      "news_index": 1,
+      "start_sec": 281.4,
+      "end_sec": 293.07
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "つむぎはどっちも遊んだのだ！？",
+      "news_index": 1,
+      "start_sec": 293.22,
+      "end_sec": 295.51
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "もちろんっす！ PC-98版は実機で、リメイクはスチームで。攻略本と見比べながら全ルート確認して——もう何周したか数えてないっすよ！",
+      "news_index": 1,
+      "start_sec": 295.66,
+      "end_sec": 305.56
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ほんとにガチ勢なのだ……。……ん？",
+      "news_index": 1,
+      "start_sec": 305.71,
+      "end_sec": 308.11
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "先輩どうかしたんすか？",
+      "news_index": 1,
+      "start_sec": 308.26,
+      "end_sec": 309.96
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "今調べてみたら、YU-NOのPC-9801版って18禁って書いてあるのだ……。",
+      "news_index": 1,
+      "start_sec": 310.11,
+      "end_sec": 316.01
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "shirake",
+      "text": "先輩。",
+      "news_index": 1,
+      "start_sec": 316.16,
+      "end_sec": 317.02
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "ヒッ",
+      "news_index": 1,
+      "start_sec": 317.17,
+      "end_sec": 317.73,
+      "partner_tone": "shirake"
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "記憶違いだったっす。あーしが遊んだのはサターン版っすよ。",
+      "news_index": 1,
+      "start_sec": 317.88,
+      "end_sec": 321.79
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "わ、わかったのだ。つむぎはエッチじゃないのだ。",
+      "news_index": 1,
+      "start_sec": 321.94,
+      "end_sec": 326.58,
+      "partner_tone": "tsukuriwarai"
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ともかく、ユーノって、今でもADVゲーム史に残る傑作って言われてるっすよ。シュタゲとかひぐらし好きなオタクくんは、絶対ルーツを辿ったら辿り着く作品っす。",
+      "news_index": 1,
+      "start_sec": 326.73,
+      "end_sec": 337.39
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "シュタゲ好きな人にも刺さりそうなのだ！",
+      "news_index": 1,
+      "start_sec": 337.54,
+      "end_sec": 339.89
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "刺さるっすよ！ タイムリープもの・ループもの好きな人全員に遊んでほしいっすよ。",
+      "news_index": 1,
+      "start_sec": 340.04,
+      "end_sec": 345.34
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "今日は初めて知る話ばかりで楽しかったのだ！ つむぎ、ありがとうなのだ！",
+      "news_index": 0,
+      "start_sec": 345.49,
+      "end_sec": 350.49
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "ありがとうっす先輩！ また呼んでほしいっす！ あーしのレトロコーナー、まだまだネタあるっすよ！",
+      "news_index": 0,
+      "start_sec": 350.64,
+      "end_sec": 356.69
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "次回もよろしくなのだ！ 聴いてる皆もユーノぜひチェックしてみて欲しいのだ！ またねなのだ！",
+      "news_index": 0,
+      "start_sec": 356.84,
+      "end_sec": 363.03
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "またねっす！ オタクくん、良いゲームライフをっすよ！",
+      "news_index": 0,
+      "start_sec": 363.18,
+      "end_sec": 366.67
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 367.37,
+      "end_sec": 375.07
+    }
+  ],
+  "wall_time_sec": 9.56,
+  "audio_url": "/audio/indie/20260512_190000.mp3"
+}
