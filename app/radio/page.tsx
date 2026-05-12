@@ -90,6 +90,46 @@ function fmt(sec: number) {
   return `${m}:${s}`
 }
 
+function ShareButton({ title }: { title?: string }) {
+  const [copied, setCopied] = useState(false)
+  const onClick = async () => {
+    const url = typeof window !== 'undefined' ? window.location.href : ''
+    const data = { title: title || 'Tabinomichi Radio', url }
+    try {
+      if (typeof navigator !== 'undefined' && (navigator as any).share) {
+        await (navigator as any).share(data)
+        return
+      }
+    } catch {}
+    try {
+      await navigator.clipboard.writeText(url)
+      setCopied(true)
+      setTimeout(() => setCopied(false), 1800)
+    } catch {}
+  }
+  return (
+    <button
+      onClick={onClick}
+      aria-label="共有"
+      title="共有 / リンクをコピー"
+      className="relative inline-flex items-center justify-center w-9 h-9 rounded-full text-zinc-300 hover:text-white hover:bg-white/10 transition-colors"
+    >
+      <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
+        <circle cx="18" cy="5" r="3" />
+        <circle cx="6" cy="12" r="3" />
+        <circle cx="18" cy="19" r="3" />
+        <line x1="8.59" y1="13.51" x2="15.42" y2="17.49" />
+        <line x1="15.41" y1="6.51" x2="8.59" y2="10.49" />
+      </svg>
+      {copied && (
+        <span className="absolute top-full right-0 mt-1 px-2 py-0.5 rounded bg-black/80 text-[10px] text-white whitespace-nowrap">
+          コピーしました
+        </span>
+      )}
+    </button>
+  )
+}
+
 // 静的な波形バー (装飾)
 const WAVEFORM_BARS = Array.from({ length: 72 }, (_, i) => {
   const v = Math.sin(i * 0.7) * 0.35 + Math.cos(i * 1.3) * 0.25 + Math.sin(i * 0.31) * 0.15
@@ -546,7 +586,7 @@ function RadioPageInner() {
             />
             Tabinomichi Radio
           </div>
-          <div className="w-12" />
+          <ShareButton title={program?.title} />
         </div>
 
         {loading && (
