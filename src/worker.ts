@@ -16,6 +16,28 @@ export default {
   async fetch(req: Request, env: Env): Promise<Response> {
     const url = new URL(req.url)
 
+    // /api/views?ids=id1,id2,id3
+    //   GET  -> { counts: { id1: N, id2: M, ... } }
+    // バッチ取得 (トップページで N 並列 fetch しないため)
+    if (url.pathname === '/api/views' && req.method === 'GET') {
+      const idsParam = url.searchParams.get('ids')
+      if (!idsParam) return jsonRes({ counts: {} })
+      const ids = idsParam
+        .split(',')
+        .map((s) => s.trim())
+        .filter((s) => s.length > 0 && /^[A-Za-z0-9_-]{1,64}$/.test(s))
+        .slice(0, 50)
+      const results = await Promise.all(
+        ids.map(async (id) => {
+          const v = await env.VIEWS_KV.get(`ep:${id}`)
+          return [id, v ? parseInt(v, 10) || 0 : 0] as const
+        }),
+      )
+      const counts: Record<string, number> = {}
+      for (const [id, n] of results) counts[id] = n
+      return jsonRes({ counts })
+    }
+
     // /api/views/<episode_id>
     //   GET  -> { count: N }
     //   POST -> increments by 1, returns { count: N+1 }
