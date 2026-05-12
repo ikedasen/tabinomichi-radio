@@ -445,6 +445,26 @@ function RadioPageInner() {
     return program.news_covers[0] || null
   }, [program, currentSegment])
 
+  // 左メインジャケット用のローテーション画像 (program_background + screenshot_rels、30秒周期切替)
+  const bgImages = useMemo(() => {
+    const fg = program?.featured_game
+    const base = program?.program_background || null
+    const screenshots = (fg?.screenshot_rels || []).filter(Boolean)
+    const out: string[] = []
+    if (base) out.push(base)
+    for (const s of screenshots) {
+      if (s && s !== base) out.push(s)
+    }
+    return out
+  }, [program])
+  const [bgIdx, setBgIdx] = useState(0)
+  useEffect(() => { setBgIdx(0) }, [program?.episode_id])
+  useEffect(() => {
+    if (bgImages.length <= 1) return
+    const id = setInterval(() => setBgIdx((i) => (i + 1) % bgImages.length), 30000)
+    return () => clearInterval(id)
+  }, [bgImages.length])
+
   const handleSeek = (sec: number) => {
     const a = audioRef.current
     if (!a) return
@@ -552,25 +572,41 @@ function RadioPageInner() {
               role="button"
               aria-label={isPlaying ? '一時停止' : '再生'}
             >
-              {/* 背景画像: AI 番組は program_background、Indie は記事 og_image */}
+              {/* 背景画像: 30 秒周期で cover + screenshots をクロスフェード rotate */}
               {(() => {
-                const bgSrc = program.program_background || currentCover?.og_image || null
-                if (!bgSrc) {
+                if (bgImages.length === 0) {
+                  const fallback = currentCover?.og_image || null
+                  if (!fallback) {
+                    return (
+                      <div className="w-full h-full bg-gradient-to-br from-orange-800 to-zinc-900 flex items-center justify-center text-7xl">
+                        📻
+                      </div>
+                    )
+                  }
                   return (
-                    <div className="w-full h-full bg-gradient-to-br from-orange-800 to-zinc-900 flex items-center justify-center text-7xl">
-                      📻
-                    </div>
+                    // eslint-disable-next-line @next/next/no-img-element
+                    <img
+                      src={fallback}
+                      alt=""
+                      className="w-full h-full object-cover transition-opacity duration-500"
+                      onError={(e) => { (e.currentTarget as HTMLImageElement).style.visibility = 'hidden' }}
+                    />
                   )
                 }
                 return (
-                  // eslint-disable-next-line @next/next/no-img-element
-                  <img
-                    key={bgSrc}
-                    src={bgSrc}
-                    alt=""
-                    className="w-full h-full object-cover transition-opacity duration-500"
-                    onError={(e) => { (e.currentTarget as HTMLImageElement).style.visibility = 'hidden' }}
-                  />
+                  <>
+                    {bgImages.map((src, i) => (
+                      // eslint-disable-next-line @next/next/no-img-element
+                      <img
+                        key={src}
+                        src={src}
+                        alt=""
+                        className="absolute inset-0 w-full h-full object-cover transition-opacity duration-700"
+                        style={{ opacity: i === bgIdx ? 1 : 0 }}
+                        onError={(e) => { (e.currentTarget as HTMLImageElement).style.visibility = 'hidden' }}
+                      />
+                    ))}
+                  </>
                 )
               })()}
               {/* ずんだ (左) + めたん or つむぎ (右) の立ち絵: tone 切替 + 目パチ + 口パク + intro マイク持ち
@@ -818,17 +854,22 @@ function RadioPageInner() {
             {/* 右カラム (デスクトップのみ): Steam 横長 header (or fallback) + ゲーム概要 */}
             {profile === 'indie' && program.featured_game && (program.featured_game.app_id || program.featured_game.image_rel) && (
               <aside className="hidden md:block sticky top-6 self-start space-y-3">
-                <GameImageRotator
-                  cover={
-                    program.featured_game.image_rel
-                      ? program.featured_game.image_rel
-                      : program.featured_game.app_id
-                      ? `/images/games/${program.featured_game.app_id}_header.jpg`
-                      : ''
-                  }
-                  screenshots={program.featured_game.screenshot_rels || []}
-                  alt={program.featured_game.title}
-                />
+                {/* 右カラム header は固定 (rotation せず)、cover 画像 1 枚を表示。
+                    左メイン jacket の方が 30 秒周期で cover+screenshots を rotate */}
+                <div className="relative w-full rounded-2xl overflow-hidden ring-1 ring-white/10 shadow-2xl" style={{ aspectRatio: '460 / 215' }}>
+                  {/* eslint-disable-next-line @next/next/no-img-element */}
+                  <img
+                    src={
+                      program.featured_game.image_rel
+                        ? program.featured_game.image_rel
+                        : program.featured_game.app_id
+                        ? `/images/games/${program.featured_game.app_id}_header.jpg`
+                        : ''
+                    }
+                    alt={program.featured_game.title}
+                    className="absolute inset-0 w-full h-full object-cover"
+                  />
+                </div>
                 <div className="bg-black/30 backdrop-blur-sm rounded-2xl p-5">
                   <h2 className="text-lg font-bold text-zinc-50 mb-2 leading-tight">
                     {program.featured_game.title}
