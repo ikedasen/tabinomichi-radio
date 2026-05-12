@@ -90,10 +90,13 @@ function fmt(sec: number) {
   return `${m}:${s}`
 }
 
-function ShareButton({ title }: { title?: string }) {
+function ShareButton({ title, episodeId }: { title?: string; episodeId?: string | null }) {
   const [copied, setCopied] = useState(false)
   const onClick = async () => {
-    const url = typeof window !== 'undefined' ? window.location.href : ''
+    let url = typeof window !== 'undefined' ? window.location.href : ''
+    if (episodeId && typeof window !== 'undefined') {
+      url = `${window.location.origin}/radio/${episodeId}`
+    }
     const data = { title: title || 'Tabinomichi Radio', url }
     try {
       if (typeof navigator !== 'undefined' && (navigator as any).share) {
@@ -170,9 +173,9 @@ export default function RadioPage() {
   )
 }
 
-function RadioPageInner() {
+export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } = {}) {
   const searchParams = useSearchParams()
-  const urlEpisode = searchParams?.get('episode') || null
+  const urlEpisode = searchParams?.get('episode') || initialEpisode || null
   const urlDate = searchParams?.get('date') || null  // YYYY-MM-DD: この日付の連続再生キュー
   const urlQueue = searchParams?.get('queue') === '1'
   const profile: 'indie' = 'indie'  // 静的サイトでは indie 固定
@@ -586,7 +589,7 @@ function RadioPageInner() {
             />
             Tabinomichi Radio
           </div>
-          <ShareButton title={program?.title} />
+          <ShareButton title={program?.title} episodeId={currentEpisode} />
         </div>
 
         {loading && (

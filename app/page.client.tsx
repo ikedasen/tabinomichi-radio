@@ -200,7 +200,7 @@ export default function PageClient() {
                       return (
                         <Link
                           key={ep.episode_id}
-                          href={`/radio?episode=${ep.episode_id}`}
+                          href={`/radio/${ep.episode_id}`}
                           className="group block rounded-2xl overflow-hidden ring-1 ring-white/10
                                      bg-black/30 backdrop-blur-sm shadow-lg hover:shadow-2xl transition-all duration-300 hover:-translate-y-0.5 hover:ring-white/20"
                         >
