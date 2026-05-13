@@ -3,6 +3,7 @@
 import Link from 'next/link'
 import { useSearchParams } from 'next/navigation'
 import { Suspense, useEffect, useMemo, useRef, useState } from 'react'
+import SharePopover from '../components/SharePopover'
 
 type SpeechSegment = {
   index: number
@@ -130,50 +131,14 @@ function ViewCounter({ episodeId, isPlaying }: { episodeId: string | null; isPla
   )
 }
 
-function ShareButton({ title, gameTitle, episodeId }: { title?: string; gameTitle?: string; episodeId?: string | null }) {
-  const [copied, setCopied] = useState(false)
-  const onClick = async () => {
-    let url = typeof window !== 'undefined' ? window.location.href : ''
-    if (episodeId && typeof window !== 'undefined') {
-      url = `${window.location.origin}/radio/${episodeId}`
-    }
-    const t = title || 'Tabinomichi Radio'
-    const headline = gameTitle ? `${gameTitle} ${t}` : t
-    const shareText = `${headline}\n${url}`
-    const data = { title: headline, text: shareText, url }
-    try {
-      if (typeof navigator !== 'undefined' && (navigator as any).share) {
-        await (navigator as any).share(data)
-        return
-      }
-    } catch {}
-    try {
-      await navigator.clipboard.writeText(shareText)
-      setCopied(true)
-      setTimeout(() => setCopied(false), 1800)
-    } catch {}
-  }
-  return (
-    <button
-      onClick={onClick}
-      aria-label="共有"
-      title="共有 / リンクをコピー"
-      className="relative inline-flex items-center justify-center w-9 h-9 rounded-full text-zinc-300 hover:text-white hover:bg-white/10 transition-colors"
-    >
-      <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
-        <circle cx="18" cy="5" r="3" />
-        <circle cx="6" cy="12" r="3" />
-        <circle cx="18" cy="19" r="3" />
-        <line x1="8.59" y1="13.51" x2="15.42" y2="17.49" />
-        <line x1="15.41" y1="6.51" x2="8.59" y2="10.49" />
-      </svg>
-      {copied && (
-        <span className="absolute top-full right-0 mt-1 px-2 py-0.5 rounded bg-black/80 text-[10px] text-white whitespace-nowrap">
-          コピーしました
-        </span>
-      )}
-    </button>
-  )
+function EpisodeShare({ title, gameTitle, episodeId }: { title?: string; gameTitle?: string; episodeId?: string | null }) {
+  const [url, setUrl] = useState<string | undefined>(undefined)
+  useEffect(() => {
+    if (typeof window === 'undefined') return
+    setUrl(episodeId ? `${window.location.origin}/radio/${episodeId}` : window.location.href)
+  }, [episodeId])
+  const headline = (gameTitle && title) ? `${gameTitle} ${title}` : (title || 'Tabinomichi Radio')
+  return <SharePopover variant="zinc" title={headline} url={url} />
 }
 
 // 静的な波形バー (装飾)
@@ -632,7 +597,7 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
             />
             Tabinomichi Radio
           </div>
-          <ShareButton title={program?.title} gameTitle={program?.featured_game?.title} episodeId={currentEpisode} />
+          <EpisodeShare title={program?.title} gameTitle={program?.featured_game?.title} episodeId={currentEpisode} />
         </div>
 
         {loading && (
