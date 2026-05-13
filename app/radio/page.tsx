@@ -701,18 +701,22 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
                   ? `/characters/zunda/${zundaTone}${mouthSuffix(zundaMouth)}.png`
                   : `/characters/zunda/${zundaTone}.png`
 
-                // めたん image state (intro 時はマイク持ち専用ポーズ + 口パク)
+                // めたん image state (intro 時はマイク持ち専用ポーズ + 口パク、blink も intro_blink.png 使用)
                 const metanSrc = isIntro
-                  ? `/characters/metan/intro${mouthSuffix(metanMouth)}.png`
+                  ? (metanBlink
+                      ? `/characters/metan/intro_blink.png`
+                      : `/characters/metan/intro${mouthSuffix(metanMouth)}.png`)
                   : metanBlink
                   ? `/characters/metan/${metanTone}_blink.png`
                   : metanActive
                   ? `/characters/metan/${metanTone}${mouthSuffix(metanMouth)}.png`
                   : `/characters/metan/${metanTone}.png`
 
-                // つむぎ image state (intro 時はゆびさし+カメラ目線ポーズ + 口パク)
+                // つむぎ image state (intro 時はゆびさし+カメラ目線ポーズ + 口パク、blink も intro_blink.png 使用)
                 const tsumugiSrc = (isIntro && hasTsumugi)
-                  ? `/characters/tsumugi/intro${mouthSuffix(tsumugiMouth)}.png`
+                  ? (tsumugiBlink
+                      ? `/characters/tsumugi/intro_blink.png`
+                      : `/characters/tsumugi/intro${mouthSuffix(tsumugiMouth)}.png`)
                   : tsumugiBlink
                   ? `/characters/tsumugi/${tsumugiTone}_blink.png`
                   : tsumugiActive
