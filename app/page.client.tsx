@@ -234,10 +234,58 @@ export default function PageClient() {
                           className="group block rounded-2xl overflow-hidden ring-1 ring-white/10
                                      bg-black/40 shadow-lg hover:shadow-2xl transition-shadow duration-200 hover:ring-white/20"
                         >
-                          <div className="md:grid md:grid-cols-[240px_1fr] md:h-[180px]">
-                            {/* サムネ 4:3 固定 (240×180)。card 全体も h-[180px] 固定なので、テキストが
-                                短くても長くてもサムネは同サイズ。object-cover で横長は左右トリミング、縦長は上下トリミング */}
-                            <div className="relative w-full bg-zinc-900 overflow-hidden aspect-[4/3] md:aspect-auto md:h-full">
+                          {/* Mobile: Huxe 風縦カード (画像 16:9 + blur パネル 140px) */}
+                          <div className="md:hidden">
+                            <div className="relative w-full bg-zinc-900 overflow-hidden aspect-[16/9]">
+                              {bg ? (
+                                // eslint-disable-next-line @next/next/no-img-element
+                                <img
+                                  src={bg}
+                                  alt={ep.title}
+                                  loading="eager"
+                                  className="absolute inset-0 w-full h-full object-cover"
+                                  onError={(e) => { (e.currentTarget as HTMLImageElement).style.visibility = 'hidden' }}
+                                />
+                              ) : (
+                                <div className="absolute inset-0 w-full h-full bg-gradient-to-br from-orange-700 to-amber-900 flex items-center justify-center text-5xl">📻</div>
+                              )}
+                              <HomeViewCount count={viewCounts[ep.episode_id]} />
+                            </div>
+
+                            <div className="relative h-[140px] overflow-hidden border-t border-white/15">
+                              {bg ? (
+                                // eslint-disable-next-line @next/next/no-img-element
+                                <img
+                                  src={bg}
+                                  aria-hidden
+                                  className="absolute inset-0 w-full h-full object-cover scale-110 blur-2xl"
+                                />
+                              ) : (
+                                <div className="absolute inset-0 bg-gradient-to-br from-orange-800 to-amber-950" />
+                              )}
+                              <div className="absolute inset-0 bg-zinc-900/45" />
+                              <div className="relative z-10 h-full px-4 py-3 flex flex-col">
+                                <h3 className="font-bold text-base text-white leading-snug line-clamp-2 mb-1.5">
+                                  {ep.title}
+                                </h3>
+                                {shortDesc ? (
+                                  <p className="text-xs text-zinc-100/80 leading-relaxed line-clamp-1 mb-auto">{shortDesc}</p>
+                                ) : <div className="mb-auto" />}
+                                <div className="flex items-center justify-between gap-2 text-xs pt-1">
+                                  <div className="text-amber-300 font-medium truncate">
+                                    {game?.title || ''}
+                                  </div>
+                                  <div className="shrink-0 text-amber-200/80 tabular-nums">
+                                    {ep.generated_at ? formatDate(ep.generated_at) : ''}
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+
+                          {/* Desktop (md+): 既存の横並びレイアウト据え置き */}
+                          <div className="hidden md:grid md:grid-cols-[240px_1fr] md:h-[180px]">
+                            <div className="relative w-full bg-zinc-900 overflow-hidden md:h-full">
                               {bg ? (
                                 // eslint-disable-next-line @next/next/no-img-element
                                 <img
@@ -254,16 +302,15 @@ export default function PageClient() {
                               <HomeViewCount count={viewCounts[ep.episode_id]} />
                             </div>
 
-                            {/* タイトル位置を上に上げるため py を控えめに */}
-                            <div className="px-5 py-4 md:px-6 md:py-4 flex flex-col min-w-0">
-                              <h3 className="text-lg md:text-xl font-bold text-white leading-snug mb-2 line-clamp-2">
+                            <div className="px-6 py-4 flex flex-col min-w-0">
+                              <h3 className="text-xl font-bold text-white leading-snug mb-2 line-clamp-2">
                                 {ep.title}
                               </h3>
                               <div className="flex items-center justify-between gap-3 mb-2">
                                 <div className="text-sm text-amber-300 font-medium truncate">
                                   {game?.title || ''}
                                 </div>
-                                <div className="shrink-0 inline-flex items-center gap-1.5 text-xs md:text-sm font-medium text-amber-200 group-hover:text-amber-100 transition-colors">
+                                <div className="shrink-0 inline-flex items-center gap-1.5 text-sm font-medium text-amber-200 group-hover:text-amber-100 transition-colors">
                                   <MaskIcon src="/icons/radio.svg" className="w-4 h-4 -translate-y-0.5" />
                                   ラジオで聞く
                                 </div>
