@@ -366,10 +366,16 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
     const ms = (navigator as any).mediaSession
     const fg = program.featured_game
     const artUrl = (fg?.image_rel || fg?.hero_rel || '/og-image.png')
+    // artist は常に「旅の道ラジオ」(日本語) に固定して widget の行高ばらつき防止。
+    // ゲーム名 (ASCII or 混合) を artist に入れると Android/iOS の widget が
+    // 行高を再計算してボタン位置がガタつく。title 側にゲーム名を含める。
+    const showTitle = fg?.title
+      ? `${fg.title} — ${program.title || ''}`
+      : (program.title || '旅の道ラジオ')
     try {
       ms.metadata = new (window as any).MediaMetadata({
-        title: program.title || '旅の道ラジオ',
-        artist: fg?.title || '旅の道ラジオ',
+        title: showTitle,
+        artist: '旅の道ラジオ',
         album: '旅の道ラジオ',
         artwork: [
           { src: artUrl, sizes: '512x512', type: 'image/jpeg' },
