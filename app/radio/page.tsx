@@ -448,22 +448,26 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
   // MP3 を Blob として一括ダウンロード → メモリから再生することで Range 非対応サーバ環境でも
   // シークが効くようにする (Cloudflare Workers Static Assets が Range を返さないため)
   const [blobUrl, setBlobUrl] = useState<string | null>(null)
+  const prevBlobUrlRef = useRef<string | null>(null)
   useEffect(() => {
     if (!audioUrl) { setBlobUrl(null); return }
     let canceled = false
-    let createdUrl: string | null = null
     fetch(audioUrl, { cache: 'force-cache' })
       .then((r) => r.ok ? r.blob() : Promise.reject(new Error(`status ${r.status}`)))
       .then((blob) => {
         if (canceled) return
-        createdUrl = URL.createObjectURL(blob)
-        setBlobUrl(createdUrl)
+        const newUrl = URL.createObjectURL(blob)
+        // 古い blob URL は audio element が新 URL に切り替わるまで生かす。
+        // 即時 revoke すると <audio> の src が指す Blob が invalid 化して
+        // 再生が破綻 → MediaSession が落ちる原因になる。新 URL set 後に
+        // 一拍置いてから revoke する。
+        const oldUrl = prevBlobUrlRef.current
+        prevBlobUrlRef.current = newUrl
+        setBlobUrl(newUrl)
+        if (oldUrl) setTimeout(() => URL.revokeObjectURL(oldUrl), 1500)
       })
       .catch(() => { if (!canceled) setBlobUrl(audioUrl) })  // 失敗時は通常 URL にフォールバック
-    return () => {
-      canceled = true
-      if (createdUrl) URL.revokeObjectURL(createdUrl)
-    }
+    return () => { canceled = true }
   }, [audioUrl])
 
   const segments: Segment[] = program?.audio_meta?.segments || []
