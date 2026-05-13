@@ -329,15 +329,14 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
     if (!epId || epId === 'latest') return 0  // 最新 = episodes[0]
     return episodes.findIndex((e) => e.episode_id === epId)
   }, [program, episodes])
-  const hasNewer = currentIndex > 0 || (currentIndex === 0 && currentEpisode !== null)
+  const hasNewer = currentIndex > 0
   const hasOlder = currentIndex >= 0 && currentIndex < episodes.length - 1
 
   const goOlder = () => {
     if (hasOlder) setCurrentEpisode(episodes[currentIndex + 1].episode_id)
   }
   const goNewer = () => {
-    if (currentIndex > 0) setCurrentEpisode(episodes[currentIndex - 1].episode_id)
-    else if (currentEpisode !== null) setCurrentEpisode(null)
+    if (hasNewer) setCurrentEpisode(episodes[currentIndex - 1].episode_id)
   }
 
   useEffect(() => {
