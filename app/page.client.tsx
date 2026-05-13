@@ -269,7 +269,7 @@ export default function PageClient() {
                                   {ep.title}
                                 </h3>
                                 {shortDesc ? (
-                                  <p className="text-xs text-zinc-100/80 leading-relaxed line-clamp-1 mb-auto">{shortDesc}</p>
+                                  <p className="text-xs text-zinc-100/80 leading-relaxed line-clamp-2 mb-auto">{shortDesc}</p>
                                 ) : <div className="mb-auto" />}
                                 <div className="flex items-center justify-between gap-2 text-xs pt-1">
                                   <div className="text-amber-300 font-medium truncate">
