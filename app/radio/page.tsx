@@ -343,11 +343,12 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
       window.history.replaceState(null, '', `/radio/${epId}`)
     }
   }
+  // 再生中ナビ → 移動先で自動再生 / 停止中ナビ → 停止のまま
   const goOlder = () => {
-    if (hasOlder) navigateTo(episodes[currentIndex + 1].episode_id)
+    if (hasOlder) navigateTo(episodes[currentIndex + 1].episode_id, isPlaying)
   }
   const goNewer = () => {
-    if (hasNewer) navigateTo(episodes[currentIndex - 1].episode_id)
+    if (hasNewer) navigateTo(episodes[currentIndex - 1].episode_id, isPlaying)
   }
 
   // MediaSession: ロック画面 / 通知の prev/next ボタンに goNewer/goOlder を割り当て、
