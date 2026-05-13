@@ -6,23 +6,26 @@
     {
       "speaker": "metan",
       "text": "こんばんは、旅の道ラジオです。今夜はですね、ひとつのゲームを番組まるごと深掘りする新企画をやります。",
-      "news_index": 0
+      "news_index": 0,
+      "tone": "kamera"
     },
     {
       "speaker": "zunda",
       "text": "深掘り回だ〜！ボクすごく楽しみ！今日は何のゲームなの？",
-      "news_index": 0
+      "news_index": 0,
+      "tone": "amaama"
     },
     {
       "speaker": "metan",
       "text": "今夜取り上げるのは、『Everything is Crab』！生物進化ローグライトよ。",
-      "news_index": 0
+      "news_index": 0,
+      "tone": "niyari"
     },
     {
       "speaker": "zunda",
       "text": "ぜんぶカニになる？タイトルからしてもう大好きなんだけど！",
       "news_index": 0,
-      "tone": "amaama"
+      "tone": "heart"
     },
     {
       "speaker": "metan",
@@ -32,32 +35,38 @@
     {
       "speaker": "zunda",
       "text": "え、ほんとに最近！！まだリリースから数日しかたってないんだ。",
-      "news_index": 1
+      "news_index": 1,
+      "tone": "shock"
     },
     {
       "speaker": "metan",
       "text": "そう。でも、もう販売本数が10万本を突破してて、同時接続プレイヤーのピークが1万6千人超えなの。",
-      "news_index": 1
+      "news_index": 1,
+      "tone": "niyari"
     },
     {
       "speaker": "zunda",
       "text": "1万6千人！？インディーでそれはすごくない！？",
-      "news_index": 1
+      "news_index": 1,
+      "tone": "shock"
     },
     {
       "speaker": "metan",
       "text": "Steamのゲームって99%は同接100人もいかないから、4桁後半ってもう別格よ。インディーとして文句なしの大ヒット。",
-      "news_index": 1
+      "news_index": 1,
+      "tone": "tsuntsun"
     },
     {
       "speaker": "zunda",
       "text": "Odd Dreams Digital って名前初めて聞いたけど、一発目でそんな当てちゃうの？",
-      "news_index": 1
+      "news_index": 1,
+      "tone": "kangae"
     },
     {
       "speaker": "metan",
       "text": "これが彼らの代表作っぽくて、コンセプト勝ちって感じがするわ。",
-      "news_index": 1
+      "news_index": 1,
+      "tone": "kangae"
     },
     {
       "speaker": "zunda",
@@ -73,17 +82,20 @@
     {
       "speaker": "zunda",
       "text": "自然界のサバイバルをローグライトでやる感じか。",
-      "news_index": 2
+      "news_index": 2,
+      "tone": "kangae"
     },
     {
       "speaker": "metan",
       "text": "そう。で、ゲームの肝が進化システムね。125種類以上の進化と特化から選べて、プレイごとに全然違う生物の組み合わせができあがるの。",
-      "news_index": 2
+      "news_index": 2,
+      "tone": "niyari"
     },
     {
       "speaker": "zunda",
       "text": "125種類！それはかなり多いね。自分だけのキメラ生物が毎回できる感じ？",
-      "news_index": 2
+      "news_index": 2,
+      "tone": "amaama"
     },
     {
       "speaker": "metan",
@@ -93,12 +105,14 @@
     {
       "speaker": "zunda",
       "text": "ローグライトって毎回違うビルドになるのが楽しいよね。125種類あったらかなり試行回数かかりそう。",
-      "news_index": 2
+      "news_index": 2,
+      "tone": "nagomi"
     },
     {
       "speaker": "metan",
       "text": "やり込み要素としては十分ね。で、肝心の「カニ」の話なんだけど……",
-      "news_index": 2
+      "news_index": 2,
+      "tone": "niyari"
     },
     {
       "speaker": "zunda",
@@ -109,17 +123,20 @@
     {
       "speaker": "metan",
       "text": "タイトルの『Everything is Crab』って、実は収斂進化っていう生物学的な概念から来てるのよ。",
-      "news_index": 3
+      "news_index": 3,
+      "tone": "kamera"
     },
     {
       "speaker": "zunda",
       "text": "しゅうれん進化……？なにそれ？",
-      "news_index": 3
+      "news_index": 3,
+      "tone": "kangae"
     },
     {
       "speaker": "metan",
       "text": "遠い親戚の生き物が、別々に進化したのに同じような形に行き着く現象のこと。で、カニ型の体型ってめちゃくちゃ進化しやすい形らしいの。",
-      "news_index": 3
+      "news_index": 3,
+      "tone": "amaama"
     },
     {
       "speaker": "zunda",
@@ -129,13 +146,14 @@
     {
       "speaker": "metan",
       "text": "らしいのよ！現実の進化の歴史でも、ヤドカリとかコシオリエビとかタラバガニとか、甲殻類のなかの全然違う系統が何度も独立してカニっぽい形に進化してきた記録があって、それを「カーシナイゼーション」って呼ぶの。",
-      "news_index": 3
+      "news_index": 3,
+      "tone": "sexy"
     },
     {
       "speaker": "zunda",
       "text": "カーシナイゼーション！！なんかかっこいい！世界はカニになろうとしてる！",
       "news_index": 3,
-      "tone": "amaama"
+      "tone": "heart"
     },
     {
       "speaker": "metan",
@@ -145,42 +163,50 @@
     {
       "speaker": "zunda",
       "text": "宿命に抗うって言いながら、でも結局カニになるの？",
-      "news_index": 3
+      "news_index": 3,
+      "tone": "kangae"
     },
     {
       "speaker": "metan",
       "text": "「なりたくなければ生き残れ」って感じよ。カニにならないくらいの強さになれば勝ち、ってゲームデザイン。",
-      "news_index": 3
+      "news_index": 3,
+      "tone": "tsuntsun"
     },
     {
       "speaker": "zunda",
       "text": "なんかこれ、ゲームとしてのストーリーとしても面白いし、科学の話としても面白いよね。",
-      "news_index": 3
+      "news_index": 3,
+      "tone": "nagomi"
     },
     {
       "speaker": "metan",
       "text": "そうなのよ！遊んでたら収斂進化って概念まで覚えちゃう。インディーゲームの良さがここに詰まってる感じ。",
-      "news_index": 3
+      "news_index": 3,
+      "tone": "amaama"
     },
     {
       "speaker": "metan",
       "text": "さっきの数字に戻るんだけど、発売から数日で10万本、同接16,000人って、インディーとしてどのくらいすごいか説明すると……",
-      "news_index": 4
+      "news_index": 4,
+      "tone": "kamera"
     },
     {
       "speaker": "zunda",
       "text": "うーん、比較で言うと？",
-      "news_index": 4
+      "news_index": 4,
+      "tone": "kangae"
     },
     {
       "speaker": "metan",
       "text": "Steamは毎日何十本も新作が出るから。そのなかで1万6千人同接ってのは、完全にバイラルしたってことよ。",
-      "news_index": 4
+      "news_index": 4,
+      "tone": "niyari"
     },
     {
       "speaker": "zunda",
       "text": "カーシナイゼーションってワードが SNS で拡散したりしたのかな。キャッチーだもんね。",
-      "news_index": 4
+      "news_index": 4,
+      "tone": "niyari"
     },
     {
       "speaker": "metan",
@@ -191,53 +217,61 @@
       "speaker": "zunda",
       "text": "「ぜんぶカニになる」ってタイトルもそのままの意味だし、惹かれるよね。",
       "news_index": 4,
-      "tone": "amaama"
+      "tone": "nagomi"
     },
     {
       "speaker": "metan",
       "text": "このゲームを語るうえではずせないのが、コンセプトの強さよね。「カニになる運命に抗う」って一言で面白さが伝わる。",
-      "news_index": 5
+      "news_index": 5,
+      "tone": "niyari"
     },
     {
       "speaker": "zunda",
       "text": "そうだよね！ボク今この会話だけで友達に話したくなってきたもん。",
       "news_index": 5,
-      "tone": "amaama"
+      "tone": "heart"
     },
     {
       "speaker": "metan",
       "text": "それがマーケティングとして最強よ。ゲームデザインとコンセプトが一致してて、説明が難しくない。",
-      "news_index": 5
+      "news_index": 5,
+      "tone": "tsuntsun"
     },
     {
       "speaker": "zunda",
       "text": "インディーってよくコンセプトで当たるよね。大作より一個のアイデアを信じて突き詰めてる感じが好き。",
-      "news_index": 5
+      "news_index": 5,
+      "tone": "nagomi"
     },
     {
       "speaker": "metan",
       "text": "しかも125種類の進化ってのも、リプレイ性をちゃんと担保してる。コンセプトだけじゃなくてゲームとして機能してるのが大事よね。",
-      "news_index": 5
+      "news_index": 5,
+      "tone": "kangae"
     },
     {
       "speaker": "zunda",
       "text": "コンセプトがよくてもゲームとして面白くなかったらダメだもんね。両立できてる感じがするんだ。",
-      "news_index": 5
+      "news_index": 5,
+      "tone": "kangae"
     },
     {
       "speaker": "metan",
       "text": "そこが今年注目したいインディーのひとつになりそうな理由ね。",
-      "news_index": 5
+      "news_index": 5,
+      "tone": "niyari"
     },
     {
       "speaker": "zunda",
       "text": "いやあ、Everything is Crab、めちゃくちゃ気になってきた〜！収斂進化の話とか、科学的な背景もあってしかも面白いってなったら、もう買うしかないじゃん。",
-      "news_index": 0
+      "news_index": 0,
+      "tone": "heart"
     },
     {
       "speaker": "metan",
       "text": "そうね。今夜はひとつのゲームをじっくり語ってみたけど、こういう形式どうかしら？",
-      "news_index": 0
+      "news_index": 0,
+      "tone": "kamera"
     },
     {
       "speaker": "zunda",
@@ -248,13 +282,14 @@
     {
       "speaker": "metan",
       "text": "というわけで、旅の道ラジオの深掘り回、お送りしました！今夜はここまで。ありがとうございました！",
-      "news_index": 0
+      "news_index": 0,
+      "tone": "amaama"
     },
     {
       "speaker": "zunda",
       "text": "またね〜！カニになりたくない人はプレイしてみてね！",
       "news_index": 0,
-      "tone": "amaama"
+      "tone": "mic"
     }
   ],
   "program_description": "今夜は発売からわずか数日で10万本を突破した生物進化ローグライト『Everything is Crab』をまるごと1回深掘り。「収斂進化（カーシナイゼーション）」という実在の生物学概念を軸に、ずんだもんが「カニって最強フォルムなの？」と純粋に驚き、めたんが「そう、世界はカニになろうとしてるの」と解説するくだりが本日のハイライト。Odd Dreams Digital 開発・Secret Mode パブリッシュで2026年5月8日リリース。125種類以上の進化から毎回違うビルドを組み上げるローグライトシステム、同接ピーク16,000人超えという驚異の数字の背景、そして「コンセプトが一言で伝わる」ことこそインディーゲーム最強のマーケティングだという話まで、ゲームデザイン哲学にも踏み込んだ充実の1回です。",
