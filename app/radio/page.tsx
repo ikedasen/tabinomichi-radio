@@ -772,8 +772,6 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
                     '[text-shadow:_0_0_6px_rgb(0_0_0_/_0.95),_0_2px_4px_rgb(0_0_0_/_0.9),_0_0_2px_rgb(0_0_0_/_1)]',
                     currentSegment.speaker === 'zunda'
                       ? 'text-emerald-200'
-                      : currentSegment.speaker === 'tsumugi'
-                      ? 'text-pink-200'
                       : 'text-zinc-50',
                   ].join(' ')}>
                     {currentSegment.text}
