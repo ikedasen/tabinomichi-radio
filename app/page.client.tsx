@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from 'react'
 import Link from 'next/link'
+import { useSearchParams } from 'next/navigation'
 import LoadingSpinner from './components/LoadingSpinner'
 import SharePopover from './components/SharePopover'
 
@@ -14,6 +15,7 @@ type FeaturedGame = {
   image_rel?: string
   hero_rel?: string
   app_id?: number
+  genres?: string[]
 } | null
 
 type Episode = {
@@ -113,9 +115,16 @@ export default function PageClient() {
     return () => { cancelled = true }
   }, [episodes])
 
+  const searchParams = useSearchParams()
+  const filterGenre = searchParams?.get('genre') || null
+
+  const filteredEpisodes = filterGenre
+    ? episodes.filter((ep) => (ep.featured_game?.genres || []).includes(filterGenre))
+    : episodes
+
   const groupedByDate = (() => {
     const groups: Record<string, Episode[]> = {}
-    for (const ep of episodes) {
+    for (const ep of filteredEpisodes) {
       const key = dateKey(ep.generated_at)
       if (!groups[key]) groups[key] = []
       groups[key].push(ep)
@@ -146,6 +155,16 @@ export default function PageClient() {
       </header>
 
       <div className="max-w-5xl mx-auto px-4 py-8">
+        {filterGenre && (
+          <div className="mb-6 flex items-center gap-2 text-sm">
+            <span className="text-amber-200/80">ジャンルで絞り込み中:</span>
+            <span className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-amber-400/20 ring-1 ring-amber-300/40 text-amber-100">
+              {filterGenre}
+              <Link href="/" className="text-amber-200/70 hover:text-white" aria-label="フィルタ解除">×</Link>
+            </span>
+          </div>
+        )}
+
         {loading && (
           <div className="text-center py-16">
             <LoadingSpinner className="h-8 w-8 text-amber-300 mx-auto mb-3" />
@@ -159,7 +178,16 @@ export default function PageClient() {
           </div>
         )}
 
-        {!loading && episodes.length > 0 && (
+        {!loading && episodes.length > 0 && filteredEpisodes.length === 0 && (
+          <div className="text-center py-16 text-amber-100/70 text-sm">
+            「{filterGenre}」に該当するエピソードはまだ無いっす。
+            <div className="mt-3">
+              <Link href="/" className="text-amber-200 hover:text-white underline">← 全エピソードを表示</Link>
+            </div>
+          </div>
+        )}
+
+        {!loading && filteredEpisodes.length > 0 && (
           <div className="space-y-10">
             {groupedByDate.map(({ key, episodes: dayEpisodes }) => {
               const firstIso = dayEpisodes[0]?.generated_at

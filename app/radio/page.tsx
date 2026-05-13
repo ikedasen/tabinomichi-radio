@@ -930,7 +930,11 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
                 {program.featured_game.genres?.length ? (
                   <div className="flex flex-wrap gap-1">
                     {program.featured_game.genres.map((g) => (
-                      <span key={g} className="px-2 py-0.5 text-[10px] bg-white/10 rounded-full text-zinc-300">{g}</span>
+                      <Link
+                        key={g}
+                        href={`/?genre=${encodeURIComponent(g)}`}
+                        className="px-2 py-0.5 text-[10px] bg-white/10 hover:bg-white/20 rounded-full text-zinc-300 hover:text-white transition-colors"
+                      >{g}</Link>
                     ))}
                   </div>
                 ) : null}
@@ -1013,9 +1017,13 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
                   {program.featured_game.genres?.length ? (
                     <div className="flex flex-wrap gap-1.5 mb-3">
                       {program.featured_game.genres.map((g) => (
-                        <span key={g} className="text-[10px] px-2 py-0.5 rounded-full bg-white/10 text-zinc-200">
+                        <Link
+                          key={g}
+                          href={`/?genre=${encodeURIComponent(g)}`}
+                          className="text-[10px] px-2 py-0.5 rounded-full bg-white/10 hover:bg-white/20 text-zinc-200 hover:text-white transition-colors"
+                        >
                           {g}
-                        </span>
+                        </Link>
                       ))}
                     </div>
                   ) : null}
