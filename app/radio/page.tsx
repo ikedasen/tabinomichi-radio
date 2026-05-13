@@ -332,11 +332,18 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
   const hasNewer = currentIndex > 0
   const hasOlder = currentIndex >= 0 && currentIndex < episodes.length - 1
 
+  // ナビ移動時は URL も同期 (リロード時に同じエピソードに戻れるように)
+  const navigateTo = (epId: string) => {
+    setCurrentEpisode(epId)
+    if (typeof window !== 'undefined') {
+      window.history.replaceState(null, '', `/radio/${epId}`)
+    }
+  }
   const goOlder = () => {
-    if (hasOlder) setCurrentEpisode(episodes[currentIndex + 1].episode_id)
+    if (hasOlder) navigateTo(episodes[currentIndex + 1].episode_id)
   }
   const goNewer = () => {
-    if (hasNewer) setCurrentEpisode(episodes[currentIndex - 1].episode_id)
+    if (hasNewer) navigateTo(episodes[currentIndex - 1].episode_id)
   }
 
   useEffect(() => {
