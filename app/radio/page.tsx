@@ -346,6 +346,33 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
     if (hasNewer) navigateTo(episodes[currentIndex - 1].episode_id)
   }
 
+  // MediaSession: ロック画面 / 通知の prev/next ボタンに goNewer/goOlder を割り当て、
+  // metadata (タイトル/アーティスト/アートワーク) も表示する
+  useEffect(() => {
+    if (typeof navigator === 'undefined' || !('mediaSession' in navigator)) return
+    const ms = (navigator as any).mediaSession
+    if (program) {
+      const fg = program.featured_game
+      const artUrl = (fg?.image_rel || fg?.hero_rel || '/og-image.png')
+      try {
+        ms.metadata = new (window as any).MediaMetadata({
+          title: program.title || '旅の道ラジオ',
+          artist: fg?.title || '旅の道ラジオ',
+          album: '旅の道ラジオ',
+          artwork: [
+            { src: artUrl, sizes: '512x512', type: 'image/jpeg' },
+            { src: artUrl, sizes: '256x256', type: 'image/jpeg' },
+          ],
+        })
+      } catch {}
+    }
+    // prev = 新しい / next = 古い (左=新 / 右=古 の UI ナビ規約に合わせる)
+    try {
+      ms.setActionHandler('previoustrack', hasNewer ? goNewer : null)
+      ms.setActionHandler('nexttrack', hasOlder ? goOlder : null)
+    } catch {}
+  }, [program, hasNewer, hasOlder, currentIndex, episodes])
+
   useEffect(() => {
     const a = audioRef.current
     if (!a) return
