@@ -787,7 +787,7 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
               {/* ずんだ (左) + めたん or つむぎ (右) の立ち絵: tone 切替 + 目パチ + 口パク + intro マイク持ち
                   retro 回はめたんの代わりにつむぎが出る (segments を見て自動判定) */}
               {(() => {
-                const VALID_TONES = ['normal','amaama','tsuntsun','sasayaki','sexy','hisohiso','namidame','kangae','miage','shirake','herohero','kamera','shock','kanashimi','tsukuriwarai','hazukashi','welcome'] as const
+                const VALID_TONES = ['normal','amaama','tsuntsun','sasayaki','sexy','hisohiso','namidame','kangae','miage','shirake','herohero','kamera','shock','kanashimi','tsukuriwarai','hazukashi','welcome','chuuni'] as const
                 type Tone = typeof VALID_TONES[number]
                 const segTone = (currentSegment && 'tone' in currentSegment ? currentSegment.tone : undefined) as Tone | undefined
                 const tone: Tone = (segTone && (VALID_TONES as readonly string[]).includes(segTone) ? segTone : 'normal')
