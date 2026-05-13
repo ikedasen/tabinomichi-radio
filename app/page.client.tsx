@@ -184,7 +184,10 @@ export default function PageClient() {
                   <div className="space-y-4">
                     {dayEpisodes.map((ep) => {
                       const game = ep.featured_game
-                      const bg = game?.hero_rel || game?.image_rel || null
+                      // image_rel を優先 (個別ページ左ジャケットと同じ優先順)。
+                      // hero_rel が *_bg.jpg (Steam Library 背景 = 空) のケースで
+                      // home サムネだけ空表示になる事故を防ぐ
+                      const bg = game?.image_rel || game?.hero_rel || null
                       const shortDesc = shortenDesc(ep.program_description || '', 100)
                       return (
                         <Link
