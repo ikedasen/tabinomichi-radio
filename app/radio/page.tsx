@@ -332,8 +332,12 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
   const hasNewer = currentIndex > 0
   const hasOlder = currentIndex >= 0 && currentIndex < episodes.length - 1
 
+  // ナビ後の auto-play フラグ。次の loadedmetadata で 1 度だけ play する
+  const playOnNextLoadRef = useRef(false)
+
   // ナビ移動時は URL も同期 (リロード時に同じエピソードに戻れるように)
-  const navigateTo = (epId: string) => {
+  const navigateTo = (epId: string, autoplay: boolean = true) => {
+    if (autoplay) playOnNextLoadRef.current = true
     setCurrentEpisode(epId)
     if (typeof window !== 'undefined') {
       window.history.replaceState(null, '', `/radio/${epId}`)
@@ -381,6 +385,11 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
       setDuration(a.duration)
       // queue モード: 自動再生 (1件目含めすべて)
       if (queueIds.length > 0 && currentEpisode && queueIds.includes(currentEpisode)) {
+        a.play().catch(() => {})
+      }
+      // ナビ矢印 / MediaSession prev/next で移動した場合の自動再生
+      if (playOnNextLoadRef.current) {
+        playOnNextLoadRef.current = false
         a.play().catch(() => {})
       }
     }
