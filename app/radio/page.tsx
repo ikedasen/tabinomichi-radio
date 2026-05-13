@@ -334,6 +334,8 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
 
   // ナビ後の auto-play フラグ。次の loadedmetadata で 1 度だけ play する
   const playOnNextLoadRef = useRef(false)
+  // session refresh (muted play → pause) 中の onPlay/onPause を抑制するフラグ
+  const sessionRefreshRef = useRef(false)
 
   // ナビ移動時は URL も同期 (リロード時に同じエピソードに戻れるように)
   const navigateTo = (epId: string, autoplay: boolean = true) => {
@@ -437,19 +439,40 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
       // queue モード: 自動再生 (1件目含めすべて)
       if (queueIds.length > 0 && currentEpisode && queueIds.includes(currentEpisode)) {
         a.play().catch(() => {})
+        return
       }
       // ナビ矢印 / MediaSession prev/next で移動した場合の自動再生
       if (playOnNextLoadRef.current) {
         playOnNextLoadRef.current = false
         a.play().catch(() => {})
+        return
+      }
+      // 停止状態でナビ後の audio: そのままだと iOS/Android が「playback activity 無し」と
+      // 判定して通知枠を dismiss する。muted で一瞬 play → 即 pause して session を refresh。
+      if (a.paused) {
+        const wasMuted = a.muted
+        sessionRefreshRef.current = true
+        a.muted = true
+        a.play().then(() => {
+          a.pause()
+          a.muted = wasMuted
+          sessionRefreshRef.current = false
+        }).catch(() => {
+          a.muted = wasMuted
+          sessionRefreshRef.current = false
+        })
       }
     }
     const onPlay = () => {
+      if (sessionRefreshRef.current) return  // session refresh 中は UI 更新しない
       setIsPlaying(true)
       setRecentlyStarted(true)
       setTimeout(() => setRecentlyStarted(false), 3000)
     }
-    const onPause = () => setIsPlaying(false)
+    const onPause = () => {
+      if (sessionRefreshRef.current) return  // session refresh 中は UI 更新しない
+      setIsPlaying(false)
+    }
     const onEnded = () => {
       // queue モード: 次のエピソードへ。最後なら / にリダイレクト
       if (queueIds.length > 0 && currentEpisode) {
