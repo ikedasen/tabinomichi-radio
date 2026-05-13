@@ -372,11 +372,22 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
       } catch {}
     }
     // prev = 新しい / next = 古い (左=新 / 右=古 の UI ナビ規約に合わせる)
+    // play/pause も同時に bind して、停止中でも MediaSession を「生きてる」状態に保つ
     try {
       ms.setActionHandler('previoustrack', hasNewer ? goNewer : null)
       ms.setActionHandler('nexttrack', hasOlder ? goOlder : null)
+      ms.setActionHandler('play', () => audioRef.current?.play().catch(() => {}))
+      ms.setActionHandler('pause', () => audioRef.current?.pause())
     } catch {}
   }, [program, hasNewer, hasOlder, currentIndex, episodes])
+
+  // playbackState を明示的に更新 (paused でも MediaSession を OS が dismiss しないように)
+  useEffect(() => {
+    if (typeof navigator === 'undefined' || !('mediaSession' in navigator)) return
+    try {
+      ;(navigator as any).mediaSession.playbackState = isPlaying ? 'playing' : 'paused'
+    } catch {}
+  }, [isPlaying])
 
   useEffect(() => {
     const a = audioRef.current
@@ -600,6 +611,10 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
 
   return (
     <main className="min-h-screen bg-gradient-to-br from-amber-950 via-orange-900 to-amber-950 text-zinc-100">
+      {/* hidden audio: ローディング中も DOM に維持してナビ間で MediaSession を継続させる。
+          MP3 を Blob として fetch して in-memory 再生するのでシーク可能 */}
+      <audio ref={audioRef} src={blobUrl || undefined} preload="auto" hidden />
+
       {/* エピソードナビ (画面下部中央、左右配置)。左=新しい / 右=古い */}
       <div className="fixed left-1/2 -translate-x-1/2 bottom-4 md:bottom-6 z-50 flex items-center gap-3 md:gap-4 px-3 py-2 rounded-full bg-black/40 backdrop-blur-md ring-1 ring-white/10">
         <button
@@ -983,9 +998,6 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
               </div>
             )}
 
-            {/* hidden audio */}
-            {/* MP3 を Blob として fetch して in-memory 再生 → どのデバイスでもシーク可能 */}
-            <audio ref={audioRef} src={blobUrl || undefined} preload="auto" hidden />
             </div>
 
             {/* 右カラム (デスクトップのみ): Steam 横長 header (or fallback) + ゲーム概要 */}
