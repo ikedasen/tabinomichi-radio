@@ -371,11 +371,12 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
         })
       } catch {}
     }
-    // prev = 新しい / next = 古い (左=新 / 右=古 の UI ナビ規約に合わせる)
-    // play/pause も同時に bind して、停止中でも MediaSession を「生きてる」状態に保つ
+    // prev = 新しい / next = 古い (左=新 / 右=古 の UI ナビ規約に合わせる)。
+    // 境界 (最新/最古) でも handler を null にせず空関数で渡す。null だと OS が
+    // ボタン枠ごと消してロック画面の再生コントロールが左右に詰まる現象が起きるため。
     try {
-      ms.setActionHandler('previoustrack', hasNewer ? goNewer : null)
-      ms.setActionHandler('nexttrack', hasOlder ? goOlder : null)
+      ms.setActionHandler('previoustrack', hasNewer ? goNewer : () => {})
+      ms.setActionHandler('nexttrack', hasOlder ? goOlder : () => {})
       ms.setActionHandler('play', () => audioRef.current?.play().catch(() => {}))
       ms.setActionHandler('pause', () => audioRef.current?.pause())
     } catch {}
