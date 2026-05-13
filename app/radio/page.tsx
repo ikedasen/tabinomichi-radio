@@ -954,21 +954,6 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
                     }
                     alt={program.featured_game.title}
                     className="absolute inset-0 w-full h-full object-cover"
-                    onError={(e) => {
-                      // _header.jpg が export 時に取得できてない場合のフォールバック
-                      const img = e.currentTarget as HTMLImageElement
-                      const fg = program.featured_game!
-                      const tried = img.dataset.fb || ''
-                      if (!tried.includes('hero') && fg.hero_rel && !fg.hero_rel.endsWith('_bg.jpg')) {
-                        img.dataset.fb = tried + ',hero'
-                        img.src = fg.hero_rel
-                      } else if (!tried.includes('image') && fg.image_rel) {
-                        img.dataset.fb = tried + ',image'
-                        img.src = fg.image_rel
-                      } else {
-                        img.style.visibility = 'hidden'
-                      }
-                    }}
                   />
                 </div>
                 <div className="bg-black/30 backdrop-blur-sm rounded-2xl p-5">
