@@ -605,7 +605,7 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
         <button
           onClick={goNewer}
           disabled={!hasNewer}
-          className="min-w-[36px] text-center text-2xl md:text-3xl font-light leading-none text-white/70 enabled:hover:text-white disabled:text-white/35 disabled:cursor-not-allowed transition-colors"
+          className="w-9 h-9 md:w-10 md:h-10 inline-flex items-center justify-center text-2xl md:text-3xl font-light leading-none text-white/70 enabled:hover:text-white disabled:text-white/30 disabled:cursor-not-allowed transition-colors shrink-0"
           title="新しいエピソード"
           aria-label="新しいエピソード"
         >‹</button>
@@ -613,7 +613,7 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
         <button
           onClick={goOlder}
           disabled={!hasOlder}
-          className="min-w-[36px] text-center text-2xl md:text-3xl font-light leading-none text-white/70 enabled:hover:text-white disabled:text-white/35 disabled:cursor-not-allowed transition-colors"
+          className="w-9 h-9 md:w-10 md:h-10 inline-flex items-center justify-center text-2xl md:text-3xl font-light leading-none text-white/70 enabled:hover:text-white disabled:text-white/30 disabled:cursor-not-allowed transition-colors shrink-0"
           title="古いエピソード"
           aria-label="古いエピソード"
         >›</button>
