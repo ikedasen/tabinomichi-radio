@@ -322,13 +322,13 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
       .finally(() => setLoading(false))
   }, [allEpisodes, currentEpisode])
 
-  // 現在エピソードのリスト内位置
+  // 現在エピソードのリスト内位置。program でなく currentEpisode (state) を参照することで
+  // ナビ後の data refetch 中も index がブレない (両ボタンが一瞬 disabled になる事象を回避)
   const currentIndex = useMemo(() => {
-    if (!program || !episodes.length) return -1
-    const epId = program.episode_id
-    if (!epId || epId === 'latest') return 0  // 最新 = episodes[0]
-    return episodes.findIndex((e) => e.episode_id === epId)
-  }, [program, episodes])
+    if (!episodes.length) return -1
+    if (!currentEpisode) return 0  // 未指定 = 最新
+    return episodes.findIndex((e) => e.episode_id === currentEpisode)
+  }, [currentEpisode, episodes])
   const hasNewer = currentIndex > 0
   const hasOlder = currentIndex >= 0 && currentIndex < episodes.length - 1
 
@@ -605,7 +605,7 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
         <button
           onClick={goNewer}
           disabled={!hasNewer}
-          className="px-3 py-1 text-2xl md:text-3xl font-light text-white/70 hover:text-white transition-colors disabled:opacity-25 disabled:cursor-not-allowed leading-none"
+          className="min-w-[36px] text-center text-2xl md:text-3xl font-light leading-none text-white/70 enabled:hover:text-white disabled:text-white/35 disabled:cursor-not-allowed transition-colors"
           title="新しいエピソード"
           aria-label="新しいエピソード"
         >‹</button>
@@ -613,7 +613,7 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
         <button
           onClick={goOlder}
           disabled={!hasOlder}
-          className="px-3 py-1 text-2xl md:text-3xl font-light text-white/70 hover:text-white transition-colors disabled:opacity-25 disabled:cursor-not-allowed leading-none"
+          className="min-w-[36px] text-center text-2xl md:text-3xl font-light leading-none text-white/70 enabled:hover:text-white disabled:text-white/35 disabled:cursor-not-allowed transition-colors"
           title="古いエピソード"
           aria-label="古いエピソード"
         >›</button>
