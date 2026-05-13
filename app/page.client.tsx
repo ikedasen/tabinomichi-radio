@@ -232,7 +232,7 @@ export default function PageClient() {
                           key={ep.episode_id}
                           href={`/radio/${ep.episode_id}`}
                           className="group block rounded-2xl overflow-hidden ring-1 ring-white/10
-                                     bg-black/30 backdrop-blur-sm shadow-lg hover:shadow-2xl transition-all duration-300 hover:-translate-y-0.5 hover:ring-white/20"
+                                     bg-black/40 shadow-lg hover:shadow-2xl transition-shadow duration-200 hover:ring-white/20"
                         >
                           <div className="md:grid md:grid-cols-[240px_1fr] md:h-[180px]">
                             {/* サムネ 4:3 固定 (240×180)。card 全体も h-[180px] 固定なので、テキストが
@@ -243,7 +243,8 @@ export default function PageClient() {
                                 <img
                                   src={bg}
                                   alt={ep.title}
-                                  className="absolute inset-0 w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
+                                  loading="eager"
+                                  className="absolute inset-0 w-full h-full object-cover"
                                   onError={(e) => { (e.currentTarget as HTMLImageElement).style.visibility = 'hidden' }}
                                 />
                               ) : (
