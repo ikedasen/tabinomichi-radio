@@ -846,11 +846,11 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
               })()}
               {/* 上端: グラデ + 番組タイトル */}
               <div className="absolute inset-x-0 top-0 pt-5 pb-6 px-5 bg-gradient-to-b from-black/80 via-black/50 to-transparent">
-                <h1 className="text-xl font-bold leading-tight drop-shadow-2xl text-white">
+                <h1 className="text-xl font-bold leading-tight drop-shadow-2xl text-white line-clamp-2">
                   {titleMain || '(無題)'}
                 </h1>
                 {titleSub && (
-                  <p className="text-xs text-zinc-200/90 mt-1 drop-shadow leading-snug">
+                  <p className="text-xs text-zinc-200/90 mt-1 drop-shadow leading-snug line-clamp-1">
                     〜 {titleSub} 〜
                   </p>
                 )}
