@@ -557,22 +557,22 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
 
   return (
     <main className="min-h-screen bg-gradient-to-br from-amber-950 via-orange-900 to-amber-950 text-zinc-100">
-      {/* エピソードナビ (画面下部中央、左右配置) */}
+      {/* エピソードナビ (画面下部中央、左右配置)。左=新しい / 右=古い */}
       <div className="fixed left-1/2 -translate-x-1/2 bottom-4 md:bottom-6 z-50 flex items-center gap-3 md:gap-4 px-3 py-2 rounded-full bg-black/40 backdrop-blur-md ring-1 ring-white/10">
-        <button
-          onClick={goOlder}
-          disabled={!hasOlder}
-          className="px-3 py-1 text-2xl md:text-3xl font-light text-white/70 hover:text-white transition-colors disabled:opacity-25 disabled:cursor-not-allowed leading-none"
-          title="前のエピソード (より古い)"
-          aria-label="前のエピソード"
-        >‹</button>
-        <span className="text-[10px] md:text-xs text-zinc-300 tracking-widest select-none">EPISODE</span>
         <button
           onClick={goNewer}
           disabled={!hasNewer}
           className="px-3 py-1 text-2xl md:text-3xl font-light text-white/70 hover:text-white transition-colors disabled:opacity-25 disabled:cursor-not-allowed leading-none"
-          title="次のエピソード (より新しい)"
-          aria-label="次のエピソード"
+          title="新しいエピソード"
+          aria-label="新しいエピソード"
+        >‹</button>
+        <span className="text-[10px] md:text-xs text-zinc-300 tracking-widest select-none">EPISODE</span>
+        <button
+          onClick={goOlder}
+          disabled={!hasOlder}
+          className="px-3 py-1 text-2xl md:text-3xl font-light text-white/70 hover:text-white transition-colors disabled:opacity-25 disabled:cursor-not-allowed leading-none"
+          title="古いエピソード"
+          aria-label="古いエピソード"
         >›</button>
       </div>
 
