@@ -169,7 +169,7 @@ export default function PageClient() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-amber-950 via-orange-900 to-amber-950 text-zinc-100">
       <header className="sticky top-0 z-40 bg-gradient-to-b from-amber-950 to-amber-950/0 backdrop-blur-sm">
-        <div className="max-w-5xl mx-auto px-3 md:px-4 py-4 md:py-5 flex items-center justify-between gap-3">
+        <div className="max-w-5xl mx-auto px-3 md:px-4 py-2 md:py-5 flex items-center justify-between gap-3">
           <h1 className="text-lg md:text-3xl font-bold text-white inline-flex items-center gap-2 md:gap-2.5 tracking-tight whitespace-nowrap">
             <MaskIcon src="/icons/radio.svg" className="w-4 h-4 md:w-6 md:h-6 text-amber-300" />
             Tabinomichi Radio
