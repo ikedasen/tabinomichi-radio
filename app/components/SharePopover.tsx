@@ -31,7 +31,8 @@ export default function SharePopover({ title, url: urlOverride, variant = 'amber
   }, [open])
 
   const getUrl = () => urlOverride || (typeof window !== 'undefined' ? window.location.href : '')
-  const headline = title || '旅の道ラジオ — Tabinomichi Radio'
+  const SITE_NAME = '旅の道ラジオ'
+  const headline = title ? `${title} ー${SITE_NAME}` : SITE_NAME
 
   const onCopy = async () => {
     try {

@@ -137,7 +137,7 @@ function EpisodeShare({ title, gameTitle, episodeId }: { title?: string; gameTit
     if (typeof window === 'undefined') return
     setUrl(episodeId ? `${window.location.origin}/radio/${episodeId}` : window.location.href)
   }, [episodeId])
-  const headline = (gameTitle && title) ? `${gameTitle} ${title}` : (title || 'Tabinomichi Radio')
+  const headline = (gameTitle && title) ? `${gameTitle} ${title}` : title
   return <SharePopover variant="zinc" title={headline} url={url} />
 }
 
