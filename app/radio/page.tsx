@@ -405,6 +405,23 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
     } catch {}
   }, [isPlaying])
 
+  // setPositionState で「音声まだ生きてる」を OS に伝え続ける。
+  // 特に paused 中の連続ナビで iOS が dismiss する事象の対策。
+  // duration/currentTime が変わるたびに ping する。
+  useEffect(() => {
+    if (typeof navigator === 'undefined' || !('mediaSession' in navigator)) return
+    const ms = (navigator as any).mediaSession
+    if (typeof ms.setPositionState !== 'function') return
+    if (!duration || !isFinite(duration)) return
+    try {
+      ms.setPositionState({
+        duration,
+        playbackRate: 1.0,
+        position: Math.min(currentTime, duration),
+      })
+    } catch {}
+  }, [duration, currentTime])
+
   useEffect(() => {
     const a = audioRef.current
     if (!a) return
@@ -640,7 +657,7 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
         <button
           onClick={goNewer}
           disabled={!hasNewer}
-          className="w-9 h-9 md:w-10 md:h-10 inline-flex items-center justify-center text-2xl md:text-3xl font-light leading-none text-white/70 enabled:hover:text-white disabled:text-white/30 disabled:cursor-not-allowed transition-colors shrink-0"
+          className="w-9 h-9 md:w-10 md:h-10 inline-flex items-center justify-center text-2xl md:text-3xl font-light leading-none text-white/70 enabled:hover:text-white disabled:text-white/30 disabled:cursor-not-allowed shrink-0 focus:outline-none appearance-none p-0 m-0 border-0 bg-transparent"
           title="新しいエピソード"
           aria-label="新しいエピソード"
         >‹</button>
@@ -648,7 +665,7 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
         <button
           onClick={goOlder}
           disabled={!hasOlder}
-          className="w-9 h-9 md:w-10 md:h-10 inline-flex items-center justify-center text-2xl md:text-3xl font-light leading-none text-white/70 enabled:hover:text-white disabled:text-white/30 disabled:cursor-not-allowed transition-colors shrink-0"
+          className="w-9 h-9 md:w-10 md:h-10 inline-flex items-center justify-center text-2xl md:text-3xl font-light leading-none text-white/70 enabled:hover:text-white disabled:text-white/30 disabled:cursor-not-allowed shrink-0 focus:outline-none appearance-none p-0 m-0 border-0 bg-transparent"
           title="古いエピソード"
           aria-label="古いエピソード"
         >›</button>
