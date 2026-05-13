@@ -122,9 +122,18 @@ export default function PageClient() {
     ? episodes.filter((ep) => (ep.featured_game?.genres || []).includes(filterGenre))
     : episodes
 
+  // ページネーション: 初期 20 件、「もっと見る」で +20 ずつ
+  const PAGE_SIZE = 20
+  const [displayCount, setDisplayCount] = useState(PAGE_SIZE)
+  // フィルタ切替時は表示件数リセット
+  useEffect(() => { setDisplayCount(PAGE_SIZE) }, [filterGenre])
+
+  const visibleEpisodes = filteredEpisodes.slice(0, displayCount)
+  const hasMore = filteredEpisodes.length > displayCount
+
   const groupedByDate = (() => {
     const groups: Record<string, Episode[]> = {}
-    for (const ep of filteredEpisodes) {
+    for (const ep of visibleEpisodes) {
       const key = dateKey(ep.generated_at)
       if (!groups[key]) groups[key] = []
       groups[key].push(ep)
@@ -317,6 +326,16 @@ export default function PageClient() {
                 </section>
               )
             })}
+            {hasMore && (
+              <div className="flex justify-center pt-4">
+                <button
+                  onClick={() => setDisplayCount((c) => c + PAGE_SIZE)}
+                  className="px-6 py-2.5 rounded-full bg-amber-500/20 hover:bg-amber-400/30 ring-1 ring-amber-300/40 text-sm font-medium text-amber-100 transition-colors"
+                >
+                  もっと見る (残り {filteredEpisodes.length - displayCount} 件)
+                </button>
+              </div>
+            )}
           </div>
         )}
       </div>
