@@ -258,7 +258,7 @@ export default function PageClient() {
                                 <img
                                   src={bg}
                                   aria-hidden
-                                  className="absolute inset-0 w-full h-full object-cover scale-110 blur-2xl"
+                                  className="absolute inset-0 w-full h-full object-cover scale-110 blur-xl"
                                 />
                               ) : (
                                 <div className="absolute inset-0 bg-gradient-to-br from-orange-800 to-amber-950" />
