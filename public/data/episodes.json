@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-05-13T18:07:23.869704",
+  "generated_at": "2026-05-13T18:20:39.979225",
   "episodes": [
+    {
+      "episode_id": "20260513_181622",
+      "profile": "indie",
+      "title": "「サブノーティカ２」直前特集 ～深海の独立戦争と500万の祈り～",
+      "generated_at": "2026-05-13T09:16:22.655254+00:00",
+      "duration_sec": 294.88,
+      "audio_url": "/audio/indie/20260513_181622.mp3?v=1778664039",
+      "meta_url": "/audio/indie/20260513_181622.meta.json",
+      "script_url": "/audio/indie/20260513_181622.script.json",
+      "audio_size_mb": 4.5,
+      "featured_game": {
+        "title": "サブノーティカ２",
+        "app_id": 1962700,
+        "image_rel": "/images/games/1962700_header.jpg",
+        "hero_rel": "/images/games/1962700_hero.jpg",
+        "screenshot_rels": [
+          "/images/games/1962700_ss.jpg",
+          "/images/games/1962700_ss2.jpg",
+          "/images/games/1962700_ss3.jpg",
+          "/images/games/1962700_ss4.jpg"
+        ]
+      },
+      "program_description": "5月14日PDT（日本時間5月15日）に早期アクセス開始を迎える「サブノーティカ２」。開発スタジオUnknown WorldsとKraftонとの法廷闘争を経て自分たちの手でリリースする経緯を掘り下げながら、Steamウィッシュリスト500万件突破の熱量と水中サバイバルの魅力を語ります。ロシアの哀愁キオスク運営シム「I Have No Change」の無料プレイテスト大人気ニュースも。"
+    },
     {
       "episode_id": "20260512_210000",
       "profile": "indie",
@@ -217,21 +241,6 @@
       "program_description": "時間ループ暗殺者サードパーソンシューター『Rewindead』を特集。ターゲット撃破→時間巻き戻し→今度は「過去の自分」も狩らないといけないという独自ループメカニクスの仕組みと、スピード追求ほど将来のループが難しくなるトレードオフ設計を掘り下げる。GMTK Game Jam 2025への出品作「League Of The Ouroboros Assassins」から生まれたゲームジャム発インディーの軌跡、ウロボロスのテーマとサイバーパンク美術についても言及。デモはSteamにて配信中。"
     },
     {
-      "episode_id": "20260511_191248",
-      "profile": "ai",
-      "title": "GPT-5.5からハッキングAIまで：今週のAIニュース深夜雑談",
-      "generated_at": "2026-05-11T10:12:48.945528+00:00",
-      "duration_sec": 412.11,
-      "audio_url": "/audio/ai/20260511_191248.mp3?v=1778494514",
-      "meta_url": "/audio/ai/20260511_191248.meta.json",
-      "script_url": "/audio/ai/20260511_191248.script.json",
-      "audio_size_mb": 6.29,
-      "featured_game": {
-        "screenshot_rels": []
-      },
-      "program_description": ""
-    },
-    {
       "episode_id": "20260511_171013",
       "profile": "indie",
       "title": "『シロナガス島への帰還』コミカライズ復活！インディーメディアミックスの浮き沈みを語る夜",
@@ -297,21 +306,6 @@
         "screenshot_rels": []
       },
       "program_description": "今夜は発売からわずか数日で10万本を突破した生物進化ローグライト『Everything is Crab』をまるごと1回深掘り。「収斂進化（カーシナイゼーション）」という実在の生物学概念を軸に、ずんだもんが「カニって最強フォルムなの？」と純粋に驚き、めたんが「そう、世界はカニになろうとしてるの」と解説するくだりが本日のハイライト。Odd Dreams Digital 開発・Secret Mode パブリッシュで2026年5月8日リリース。125種類以上の進化から毎回違うビルドを組み上げるローグライトシステム、同接ピーク16,000人超えという驚異の数字の背景、そして「コンセプトが一言で伝わる」ことこそインディーゲーム最強のマーケティングだという話まで、ゲームデザイン哲学にも踏み込んだ充実の1回です。"
-    },
-    {
-      "episode_id": "20260511_161658",
-      "profile": "ai",
-      "title": "AI業界大乱！謎の提携・ハッキングAI・3兆円投資の夜",
-      "generated_at": "2026-05-11T07:16:58.737577+00:00",
-      "duration_sec": 338.62,
-      "audio_url": "/audio/ai/20260511_161658.mp3?v=1778493812",
-      "meta_url": "/audio/ai/20260511_161658.meta.json",
-      "script_url": "/audio/ai/20260511_161658.script.json",
-      "audio_size_mb": 5.17,
-      "featured_game": {
-        "screenshot_rels": []
-      },
-      "program_description": ""
     },
     {
       "episode_id": "20260511_132707",
