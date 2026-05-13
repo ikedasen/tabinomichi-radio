@@ -351,36 +351,51 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
     if (hasNewer) navigateTo(episodes[currentIndex - 1].episode_id, isPlaying)
   }
 
-  // MediaSession: ロック画面 / 通知の prev/next ボタンに goNewer/goOlder を割り当て、
-  // metadata (タイトル/アーティスト/アートワーク) も表示する
+  // 最新の goNewer/goOlder/hasNewer/hasOlder を ref で保持。
+  // MediaSession actionHandler は mount 時に 1 度だけ登録し、内部で ref.current を読む。
+  // 毎レンダリングで setActionHandler を呼ぶと iOS Safari で session が再初期化されて
+  // ロック画面の再生枠の表示遅延 / 再生中ナビ時の dismissal が起きる。
+  const navRefs = useRef({ goNewer, goOlder, hasNewer, hasOlder })
+  navRefs.current = { goNewer, goOlder, hasNewer, hasOlder }
+
+  // metadata は episode_id が変わった時だけ更新
+  const currentEpisodeIdForMeta = program?.episode_id || null
+  useEffect(() => {
+    if (typeof navigator === 'undefined' || !('mediaSession' in navigator)) return
+    if (!program) return
+    const ms = (navigator as any).mediaSession
+    const fg = program.featured_game
+    const artUrl = (fg?.image_rel || fg?.hero_rel || '/og-image.png')
+    try {
+      ms.metadata = new (window as any).MediaMetadata({
+        title: program.title || '旅の道ラジオ',
+        artist: fg?.title || '旅の道ラジオ',
+        album: '旅の道ラジオ',
+        artwork: [
+          { src: artUrl, sizes: '512x512', type: 'image/jpeg' },
+          { src: artUrl, sizes: '256x256', type: 'image/jpeg' },
+        ],
+      })
+    } catch {}
+  }, [currentEpisodeIdForMeta])
+
+  // actionHandler は mount 時に 1 度だけ登録 (ref 経由で current 値呼ぶ)
   useEffect(() => {
     if (typeof navigator === 'undefined' || !('mediaSession' in navigator)) return
     const ms = (navigator as any).mediaSession
-    if (program) {
-      const fg = program.featured_game
-      const artUrl = (fg?.image_rel || fg?.hero_rel || '/og-image.png')
-      try {
-        ms.metadata = new (window as any).MediaMetadata({
-          title: program.title || '旅の道ラジオ',
-          artist: fg?.title || '旅の道ラジオ',
-          album: '旅の道ラジオ',
-          artwork: [
-            { src: artUrl, sizes: '512x512', type: 'image/jpeg' },
-            { src: artUrl, sizes: '256x256', type: 'image/jpeg' },
-          ],
-        })
-      } catch {}
-    }
-    // prev = 新しい / next = 古い (左=新 / 右=古 の UI ナビ規約に合わせる)。
-    // 境界 (最新/最古) でも handler を null にせず空関数で渡す。null だと OS が
-    // ボタン枠ごと消してロック画面の再生コントロールが左右に詰まる現象が起きるため。
     try {
-      ms.setActionHandler('previoustrack', hasNewer ? goNewer : () => {})
-      ms.setActionHandler('nexttrack', hasOlder ? goOlder : () => {})
+      ms.setActionHandler('previoustrack', () => {
+        const r = navRefs.current
+        if (r.hasNewer) r.goNewer()
+      })
+      ms.setActionHandler('nexttrack', () => {
+        const r = navRefs.current
+        if (r.hasOlder) r.goOlder()
+      })
       ms.setActionHandler('play', () => audioRef.current?.play().catch(() => {}))
       ms.setActionHandler('pause', () => audioRef.current?.pause())
     } catch {}
-  }, [program, hasNewer, hasOlder, currentIndex, episodes])
+  }, [])
 
   // playbackState を明示的に更新 (paused でも MediaSession を OS が dismiss しないように)
   useEffect(() => {
