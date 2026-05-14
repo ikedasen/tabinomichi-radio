@@ -1,0 +1,525 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-05-14T19:59:46.253137",
+  "title": "廃墟の王国で剣を振るう ～Hollow Knight という伝説～",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 338.17,
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 5.56
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今夜のゲームはHollow Knightです。ずんだもん、知ってる？",
+      "news_index": 0,
+      "start_sec": 5.56,
+      "end_sec": 9.84
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ホロウナイト！ 名前はよく見るのだ！ 虫が主人公のメトロイドヴァニアなのだ？",
+      "news_index": 0,
+      "start_sec": 9.99,
+      "end_sec": 15.24
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kamera",
+      "text": "そう。2017年のインディー傑作で、今夜はこれを深掘りします。ちょうど2026年7月にSilksongの大型拡張ニュースも来てるので——",
+      "news_index": 0,
+      "start_sec": 15.39,
+      "end_sec": 24.93
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "Silksongの拡張！？ それは気になるのだ！",
+      "news_index": 0,
+      "start_sec": 25.08,
+      "end_sec": 28.45
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kamera",
+      "text": "まず基本情報から。Hollow Knightは2017年2月24日にリリースされた2Dアクション探索ゲームです。地下に広がる虫の王国ハロウネストの廃墟を、名前も記憶も持たない小さな虫の戦士が探索するというゲームですよ。",
+      "news_index": 1,
+      "start_sec": 28.6,
+      "end_sec": 42.97
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "名前も記憶もない戦士なのだ？ 謎めいてるのだ。",
+      "news_index": 1,
+      "start_sec": 43.12,
+      "end_sec": 46.64
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "この王国で何があったのか、主人公が誰なのか——それを探索しながら少しずつ明かしていく構造です。物語はほとんど語られないんだけど、アイテムの説明やNPCの言葉から謎を拾っていく感じ。",
+      "news_index": 1,
+      "start_sec": 46.79,
+      "end_sec": 60.22
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "hisohiso",
+      "text": "(廃墟の王国……謎の戦士……なんか怖いけど気になるのだ……)",
+      "news_index": 1,
+      "start_sec": 60.37,
+      "end_sec": 65.15
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "怖い雰囲気なんですよ！ でも引き込まれる。セールスはなんと1500万本以上で、インディーゲームとして世界屈指の記録です。",
+      "news_index": 1,
+      "start_sec": 65.3,
+      "end_sec": 73.92
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "1500万本！！ インディーでそんな数字が出るのだ！？",
+      "news_index": 1,
+      "start_sec": 74.07,
+      "end_sec": 78.24
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "しかもSteamで1,700円という価格で。コスパ破格すぎますよ。",
+      "news_index": 1,
+      "start_sec": 78.39,
+      "end_sec": 82.67
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "1,700円で1500万本……これは絶対遊ぶべきやつなのだ！",
+      "news_index": 1,
+      "start_sec": 82.82,
+      "end_sec": 87.53
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kamera",
+      "text": "作ったのはTeam Cherryというオーストラリア・アデレードのスタジオ。最初はたった2人だったんですよ——アリ・ギブソンとウィリアム・ペレン。",
+      "news_index": 2,
+      "start_sec": 87.68,
+      "end_sec": 96.6
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "2人で作ったのだ！？ あのゲームを！？",
+      "news_index": 2,
+      "start_sec": 96.75,
+      "end_sec": 99.75
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "2013年のゲームジャムがきっかけで、2014年にクラウドファンディングを実施。目標を達成して、そこから約3年かけてコツコツ開発したんです。",
+      "news_index": 2,
+      "start_sec": 99.9,
+      "end_sec": 109.61
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "3年……2人で3年……インディーの物語なのだ……",
+      "news_index": 2,
+      "start_sec": 109.76,
+      "end_sec": 115.07
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "インスピレーションはメトロイドやゼルダII、メガマンXとか——クラシックな横スク探索アクションの系譜を現代に蘇らせた感じで。",
+      "news_index": 2,
+      "start_sec": 115.22,
+      "end_sec": 123.73
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "往年の名作へのリスペクトが詰まってるのだ！",
+      "news_index": 2,
+      "start_sec": 123.88,
+      "end_sec": 127.16
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "後でアーティストを何人か加えたとは言え、本当に少人数でこの密度を作り上げた。その事実がまた伝説感を増してるんですよね。",
+      "news_index": 2,
+      "start_sec": 127.31,
+      "end_sec": 135.87
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "2人の夢がこんな大作になったのだ……！ 胸が熱くなるのだ……！",
+      "news_index": 2,
+      "start_sec": 136.02,
+      "end_sec": 140.53
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "Hollow Knightの魅力を語り始めると止まらないんですが、まずアートが異次元です。全部手描きの2Dで、ゴシックな廃墟の美しさと不気味さが同居してて。",
+      "news_index": 3,
+      "start_sec": 140.68,
+      "end_sec": 150.74
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "手描きで全部……それは大変すぎるのだ。",
+      "news_index": 3,
+      "start_sec": 150.89,
+      "end_sec": 153.82
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "マップが広大で、自分で探索しながら地図を埋めていく感覚が気持ちいいんですよ。最初は真っ暗で、歩いた場所だけが明かされていく。",
+      "news_index": 3,
+      "start_sec": 153.97,
+      "end_sec": 162.62
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "hisohiso",
+      "text": "暗い地図……迷子になりそうなのだ……",
+      "news_index": 3,
+      "start_sec": 162.77,
+      "end_sec": 165.55
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "迷子になるんですよ普通に！ でもそれが楽しいっていう。ボス戦がソウルライク系で難しいんですが、操作感が気持ちいいから死んでも「もう一回！」ってなる。",
+      "news_index": 3,
+      "start_sec": 165.7,
+      "end_sec": 176.0
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "ボク苦手かもなのだ……死んで覚えるやつ……",
+      "news_index": 3,
+      "start_sec": 176.15,
+      "end_sec": 179.84
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "クリアできない難しさじゃなくて、練習すれば必ず越えられる難しさですよ。達成感もすごいんで。",
+      "news_index": 3,
+      "start_sec": 179.99,
+      "end_sec": 186.57
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "やりごたえがあるやつなのだ！ 達成感大きそうなのだ！",
+      "news_index": 3,
+      "start_sec": 186.72,
+      "end_sec": 190.83
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "hisohiso",
+      "text": "ロアの語り方も独特で——世界の謎がNPCの断片的な言葉や壁の絵に散らばってて、集め始めると止まらないんですよ。",
+      "news_index": 3,
+      "start_sec": 190.98,
+      "end_sec": 200.52
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "……虫の王国の謎、深そうなのだ……",
+      "news_index": 3,
+      "start_sec": 200.67,
+      "end_sec": 203.41
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ゲームの雰囲気を作り出しているのは音楽も大きいんですよ。BGMを担当したのはクリストファー・ラーキンというコンポーザーで——",
+      "news_index": 4,
+      "start_sec": 203.56,
+      "end_sec": 211.96
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "どんな音楽なのだ？",
+      "news_index": 4,
+      "start_sec": 212.11,
+      "end_sec": 213.66
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "",
+      "news_index": 4,
+      "start_sec": 213.74,
+      "end_sec": 222.21
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "オーケストラと室内楽の組み合わせで——廃墟の静けさとボス戦の緊迫感、コントラストが完璧なんですよ。",
+      "news_index": 4,
+      "start_sec": 222.36,
+      "end_sec": 229.67
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "なんか壮大なのに静かで、不思議な感じなのだ。",
+      "news_index": 4,
+      "start_sec": 229.82,
+      "end_sec": 233.17
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kamera",
+      "text": "SpotifyやYouTubeでフルOSTが聴けます。ゲームと切り離しても十分名盤なので、未プレイの方もぜひ。",
+      "news_index": 4,
+      "start_sec": 233.32,
+      "end_sec": 240.49
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "さて2026年のニュースです！ Team Cherryが続編シルクソング——Hollow Knight: Silksongの拡張コンテンツ「シー・オブ・ソロウ」を2026年7月リリース予定と発表しました！",
+      "news_index": 5,
+      "start_sec": 240.57,
+      "end_sec": 253.57
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "シルクソングって続編なのだ？",
+      "news_index": 5,
+      "start_sec": 253.72,
+      "end_sec": 256.1
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "2019年発表の続編で、ホーネットというキャラクターが主人公の作品です。長く待望されてきた作品で、シルクソング自体はもうリリース済みで700万本以上売れています。",
+      "news_index": 5,
+      "start_sec": 256.25,
+      "end_sec": 267.84
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "700万本……！ ファンの愛がすごいのだ。",
+      "news_index": 5,
+      "start_sec": 267.99,
+      "end_sec": 270.89
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kamera",
+      "text": "その拡張コンテンツが7月に来るんですが——Team Cherryらしいのが、これ無料なんです。",
+      "news_index": 5,
+      "start_sec": 271.04,
+      "end_sec": 276.4
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "え！？ 無料なのだ！？ 拡張が無料！？",
+      "news_index": 5,
+      "start_sec": 276.55,
+      "end_sec": 280.23
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "Team Cherryって元々Hollow Knightに大型DLC4本を全部無料で追加してきたんですよ。もうほんとに良心的すぎるスタジオで。",
+      "news_index": 5,
+      "start_sec": 280.38,
+      "end_sec": 289.19
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "DLC4本も無料……Team Cherryがありがたすぎるのだ……",
+      "news_index": 5,
+      "start_sec": 289.34,
+      "end_sec": 294.55
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "Hollow Knight Switch 2 Editionも2026年内に予定されてて、高フレームレート対応になるとか。今まさに一番盛り上がってる時期ですよ。",
+      "news_index": 5,
+      "start_sec": 294.7,
+      "end_sec": 304.56
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "今から始めるのが最高のタイミングなのだ！ シー・オブ・ソロウが来る前に本編クリアしたいのだ！",
+      "news_index": 5,
+      "start_sec": 304.71,
+      "end_sec": 310.66
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今夜はTeam Cherry制作、2017年のメトロイドヴァニア傑作『Hollow Knight』を特集しました。",
+      "news_index": 0,
+      "start_sec": 310.81,
+      "end_sec": 317.48
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "虫の王国ハロウネストの謎を解き明かしに行くのだ！",
+      "news_index": 0,
+      "start_sec": 317.63,
+      "end_sec": 321.28
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kamera",
+      "text": "Steamで1,700円。7月のSea of Sorrow前にぜひ今夜から始めてみてください。今夜も良い夜を。",
+      "news_index": 0,
+      "start_sec": 321.43,
+      "end_sec": 328.37
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "また次回なのだ！",
+      "news_index": 0,
+      "start_sec": 328.52,
+      "end_sec": 329.77
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 330.47,
+      "end_sec": 338.17
+    }
+  ],
+  "wall_time_sec": 11.27,
+  "audio_url": "/audio/indie/20260514_193924.mp3?v=1778756408"
+}
