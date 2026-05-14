@@ -5,306 +5,278 @@
   "segments": [
     {
       "speaker": "metan",
-      "tone": "normal",
-      "text": "今夜のゲームはHollow Knightです。ずんだもん、知ってる？",
-      "news_index": 0
-    },
-    {
-      "speaker": "zunda",
-      "tone": "normal",
-      "text": "ホロウナイト！ 名前はよく見るのだ！ 虫が主人公のメトロイドヴァニアなのだ？",
-      "news_index": 0
-    },
-    {
-      "speaker": "metan",
       "tone": "kamera",
-      "text": "そう。2017年のインディー傑作で、今夜はこれを深掘りします。ちょうど2026年7月にSilksongの大型拡張ニュースも来てるので——",
+      "text": "今夜のゲームはホロウナイトよ。2017年のインディー金字塔——深掘りしていくわ。",
       "news_index": 0
     },
     {
       "speaker": "zunda",
       "tone": "amaama",
-      "text": "Silksongの拡張！？ それは気になるのだ！",
+      "text": "ホロウナイト！ 虫が夜中にコソコソ農場を耕すゲームなのだ？",
       "news_index": 0
     },
     {
       "speaker": "metan",
-      "tone": "kamera",
-      "text": "まず基本情報から。Hollow Knightは2017年2月24日にリリースされた2Dアクション探索ゲームです。地下に広がる虫の王国ハロウネストの廃墟を、名前も記憶も持たない小さな虫の戦士が探索するというゲームですよ。",
-      "news_index": 1
+      "tone": "tsuntsun",
+      "text": "農業じゃないわよ！ 廃墟の王国を剣一本で探索する、骨太なアクション探索ゲームなのよ。",
+      "news_index": 0
     },
     {
       "speaker": "zunda",
       "tone": "normal",
-      "text": "名前も記憶もない戦士なのだ？ 謎めいてるのだ。",
+      "text": "要するに「虫が剣で戦う本格アクション」なのだ。ちょうどシルクソングのニュースも来てたのだ！",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、今日はそこまで話すわ。地下に広がる虫の王国の廃墟を、名前も記憶も持たない小さな戦士が探索するの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "名前も記憶もない！？ 自己紹介どうするのだ。「えーと……ボクはたぶんボクなのだ……」って言うのだ？",
       "news_index": 1
     },
     {
       "speaker": "metan",
-      "tone": "kangae",
-      "text": "この王国で何があったのか、主人公が誰なのか——それを探索しながら少しずつ明かしていく構造です。物語はほとんど語られないんだけど、アイテムの説明やNPCの言葉から謎を拾っていく感じ。",
+      "tone": "tsuntsun",
+      "text": "紹介しなくていいのよ！ その謎が物語の核で——アイテムの説明やNPCの言葉から少しずつ真実を拾っていく構造なのよ。",
       "news_index": 1
     },
     {
       "speaker": "zunda",
       "tone": "hisohiso",
-      "text": "(廃墟の王国……謎の戦士……なんか怖いけど気になるのだ……)",
+      "text": "(廃墟の王国……断片から謎を拾う……ダークソウル的な怖さがあるのだ……)",
       "news_index": 1
     },
     {
       "speaker": "metan",
       "tone": "amaama",
-      "text": "怖い雰囲気なんですよ！ でも引き込まれる。セールスはなんと1500万本以上で、インディーゲームとして世界屈指の記録です。",
+      "text": "そのゲームが1500万本以上売れてるわ。インディーで世界屈指の記録よ。",
       "news_index": 1
     },
     {
       "speaker": "zunda",
       "tone": "amaama",
-      "text": "1500万本！！ インディーでそんな数字が出るのだ！？",
+      "text": "1500万本！？ アデレードの人口が100万人だから、市民全員が15回ずつ買ったことになるのだ！",
       "news_index": 1
     },
     {
       "speaker": "metan",
-      "tone": "normal",
-      "text": "しかもSteamで1,700円という価格で。コスパ破格すぎますよ。",
+      "tone": "tsuntsun",
+      "text": "計算しなくていいわ！ しかもスチームで1,700円よ。コスパが破格すぎて逆に怖いわ。",
       "news_index": 1
     },
     {
       "speaker": "zunda",
       "tone": "yubisashi",
-      "text": "1,700円で1500万本……これは絶対遊ぶべきやつなのだ！",
+      "text": "今日の一行まとめは「1,700円で宇宙規模のコスパ」なのだ。遊ばない理由がないのだ！",
       "news_index": 1
     },
     {
       "speaker": "metan",
       "tone": "kamera",
-      "text": "作ったのはTeam Cherryというオーストラリア・アデレードのスタジオ。最初はたった2人だったんですよ——アリ・ギブソンとウィリアム・ペレン。",
+      "text": "作ったのはチームチェリー——オーストラリア・アデレードの小さなスタジオで、最初はたった2人だったわ。",
       "news_index": 2
     },
     {
       "speaker": "zunda",
       "tone": "amaama",
-      "text": "2人で作ったのだ！？ あのゲームを！？",
+      "text": "チームチェリー！ チェリーってさくらんぼなのだ！ 虫が主役なのにフルーツ名はどういうことなのだ！",
       "news_index": 2
     },
     {
       "speaker": "metan",
-      "tone": "normal",
-      "text": "2013年のゲームジャムがきっかけで、2014年にクラウドファンディングを実施。目標を達成して、そこから約3年かけてコツコツ開発したんです。",
+      "tone": "tsuntsun",
+      "text": "スタジオ名に深い意味はないわよ！ アリ・ギブソンとウィリアム・ペレンが2013年のゲームジャムで出会って始めたの。",
       "news_index": 2
     },
     {
       "speaker": "zunda",
-      "tone": "namidame",
-      "text": "3年……2人で3年……インディーの物語なのだ……",
-      "news_index": 2
-    },
-    {
-      "speaker": "metan",
       "tone": "normal",
-      "text": "インスピレーションはメトロイドやゼルダII、メガマンXとか——クラシックな横スク探索アクションの系譜を現代に蘇らせた感じで。",
-      "news_index": 2
-    },
-    {
-      "speaker": "zunda",
-      "tone": "amaama",
-      "text": "往年の名作へのリスペクトが詰まってるのだ！",
+      "text": "ゲームジャムから出会って……そこから何年もかけて作ったのだ？",
       "news_index": 2
     },
     {
       "speaker": "metan",
       "tone": "kangae",
-      "text": "後でアーティストを何人か加えたとは言え、本当に少人数でこの密度を作り上げた。その事実がまた伝説感を増してるんですよね。",
+      "text": "2014年にクラウドファンディングで資金を集めて、約3年かけてコツコツ作ったのよ。後でアーティストを何人か加えたけれど、本質的に少人数の作品だわ。",
       "news_index": 2
     },
     {
       "speaker": "zunda",
-      "tone": "amaama",
-      "text": "2人の夢がこんな大作になったのだ……！ 胸が熱くなるのだ……！",
+      "tone": "namidame",
+      "text": "2人の夢が3年かけて1500万本……今日一番泣けるエピソードなのだ……！",
       "news_index": 2
     },
     {
       "speaker": "metan",
       "tone": "amaama",
-      "text": "Hollow Knightの魅力を語り始めると止まらないんですが、まずアートが異次元です。全部手描きの2Dで、ゴシックな廃墟の美しさと不気味さが同居してて。",
-      "news_index": 3
-    },
-    {
-      "speaker": "zunda",
-      "tone": "normal",
-      "text": "手描きで全部……それは大変すぎるのだ。",
-      "news_index": 3
+      "text": "要するに「情熱が世界を変えた」ってこと——インディー精神の権化ね。",
+      "news_index": 2
     },
     {
       "speaker": "metan",
-      "tone": "normal",
-      "text": "マップが広大で、自分で探索しながら地図を埋めていく感覚が気持ちいいんですよ。最初は真っ暗で、歩いた場所だけが明かされていく。",
+      "tone": "amaama",
+      "text": "ゲームの魅力を語るわ。まずアートが異次元よ——全部手描きの2Dで、ゴシックな廃墟の美しさと不気味さが同居してるの。",
       "news_index": 3
     },
     {
       "speaker": "zunda",
-      "tone": "hisohiso",
-      "text": "暗い地図……迷子になりそうなのだ……",
+      "tone": "normal",
+      "text": "全部手描き！ 60fpsで動かすとしたら1秒60枚——総コマ数に換算すると膨大すぎて——",
       "news_index": 3
     },
     {
       "speaker": "metan",
       "tone": "tsuntsun",
-      "text": "迷子になるんですよ普通に！ でもそれが楽しいっていう。ボス戦がソウルライク系で難しいんですが、操作感が気持ちいいから死んでも「もう一回！」ってなる。",
-      "news_index": 3
-    },
-    {
-      "speaker": "zunda",
-      "tone": "namidame",
-      "text": "ボク苦手かもなのだ……死んで覚えるやつ……",
+      "text": "計算しなくていいのよ！ 要はすごいってこと。それよりマップの話をするわ。",
       "news_index": 3
     },
     {
       "speaker": "metan",
       "tone": "normal",
-      "text": "クリアできない難しさじゃなくて、練習すれば必ず越えられる難しさですよ。達成感もすごいんで。",
+      "text": "マップが広大で、最初は真っ暗——歩いた場所だけが少しずつ明かされていく感覚が気持ちいいわ。",
       "news_index": 3
     },
     {
       "speaker": "zunda",
+      "tone": "hisohiso",
+      "text": "真っ暗なマップ……絶対に同じ行き止まりに3回は戻るやつなのだ……地図が読めない虫になるのだ……",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "普通に戻るわよ！ ボス戦はソウルライク系で難しいけど、操作感がいいから死んでも「もう一回！」ってなるのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "難しいボスは苦手なのだ……ボクでも大丈夫なのだ？",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
       "tone": "amaama",
-      "text": "やりごたえがあるやつなのだ！ 達成感大きそうなのだ！",
+      "text": "大丈夫よ。「練習すれば必ず越えられる難しさ」——理不尽じゃなくて、設計が誠実だわ。",
       "news_index": 3
     },
     {
       "speaker": "metan",
       "tone": "hisohiso",
-      "text": "ロアの語り方も独特で——世界の謎がNPCの断片的な言葉や壁の絵に散らばってて、集め始めると止まらないんですよ。",
+      "text": "ロアの語り方も独特よ——王国の謎がNPCの断片的な言葉や壁の絵に散らばってて、集め始めると止まらないわ。",
       "news_index": 3
     },
     {
       "speaker": "zunda",
       "tone": "sasayaki",
-      "text": "……虫の王国の謎、深そうなのだ……",
+      "text": "虫の王国の過去……壁の絵から謎を解く……なんか考古学者になった気分なのだ……",
       "news_index": 3
     },
     {
       "speaker": "metan",
       "tone": "kangae",
-      "text": "ゲームの雰囲気を作り出しているのは音楽も大きいんですよ。BGMを担当したのはクリストファー・ラーキンというコンポーザーで——",
+      "text": "雰囲気を作ってるもう一つの柱が音楽ね。クリストファー・ラーキンというコンポーザーが担当したOSTよ。",
       "news_index": 4
     },
     {
       "speaker": "zunda",
       "tone": "normal",
-      "text": "どんな音楽なのだ？",
-      "news_index": 4
-    },
-    {
-      "type": "music",
-      "speaker": "zunda",
-      "tone": "amaama",
-      "intro_text": "ホロウナイトのBGMを聴いてほしいのだ！ クリストファー・ラーキンのOSTはインディー音楽史に残る名盤なのだ。",
-      "genre_hint": "orchestral-ambient",
-      "search_query": "Hollow Knight OST Christopher Larkin orchestral ambient",
-      "duration": 90,
+      "text": "ラーキン……「ラ」がラーメンのラーに聞こえるのだ。廃墟でラーメン食べながら戦うシーンがあるのだ？",
       "news_index": 4
     },
     {
       "speaker": "metan",
-      "tone": "amaama",
-      "text": "オーケストラと室内楽の組み合わせで——廃墟の静けさとボス戦の緊迫感、コントラストが完璧なんですよ。",
+      "tone": "tsuntsun",
+      "text": "ラーメンは出てこないわよ！ オーケストラと室内楽の組み合わせで——廃墟の静けさとボス戦の緊迫感、コントラストが完璧なのよ。",
       "news_index": 4
     },
     {
       "speaker": "zunda",
-      "tone": "normal",
-      "text": "なんか壮大なのに静かで、不思議な感じなのだ。",
+      "tone": "hisohiso",
+      "text": "壮大なのに静かで……虫の王国の孤独が音で伝わってくる感じなのだ……",
       "news_index": 4
     },
     {
       "speaker": "metan",
       "tone": "kamera",
-      "text": "SpotifyやYouTubeでフルOSTが聴けます。ゲームと切り離しても十分名盤なので、未プレイの方もぜひ。",
+      "text": "スポティファイやユーチューブでフルOSTが聴けるわ。ゲームと切り離しても十分名盤よ——未プレイの方もぜひ聴いてみてね。",
       "news_index": 4
     },
     {
       "speaker": "metan",
       "tone": "amaama",
-      "text": "さて2026年のニュースです！ Team Cherryが続編シルクソング——Hollow Knight: Silksongの拡張コンテンツ「シー・オブ・ソロウ」を2026年7月リリース予定と発表しました！",
+      "text": "さて2026年の最新情報よ！ シルクソングの拡張コンテンツ「シー・オブ・ソロウ」が2026年7月リリース予定と発表されたわ！",
       "news_index": 5
     },
     {
       "speaker": "zunda",
       "tone": "amaama",
-      "text": "シルクソングって続編なのだ？",
+      "text": "シー・オブ・ソロウ……「悲しみの海」なのだ！？ タイトル聞いただけでボク泣きそうなのだ！",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "タイトルで泣かないの！ でも確かにチームチェリーは感情破壊が得意なスタジオよ——それは否定できないわ。",
       "news_index": 5
     },
     {
       "speaker": "metan",
       "tone": "normal",
-      "text": "2019年発表の続編で、ホーネットというキャラクターが主人公の作品です。長く待望されてきた作品で、シルクソング自体はもうリリース済みで700万本以上売れています。",
+      "text": "シルクソングは2019年発表の続編で、ホーネットが主人公よ。すでに700万本以上売れてるわ。",
       "news_index": 5
     },
     {
       "speaker": "zunda",
       "tone": "normal",
-      "text": "700万本……！ ファンの愛がすごいのだ。",
+      "text": "700万本！ ファンの愛が本物なのだ。",
       "news_index": 5
     },
     {
       "speaker": "metan",
       "tone": "kamera",
-      "text": "その拡張コンテンツが7月に来るんですが——Team Cherryらしいのが、これ無料なんです。",
+      "text": "その拡張コンテンツが——無料なのよ。チームチェリーって、元々ホロウナイトに大型DLCを4本全部無料で追加してきたの。",
       "news_index": 5
     },
     {
       "speaker": "zunda",
       "tone": "amaama",
-      "text": "え！？ 無料なのだ！？ 拡張が無料！？",
+      "text": "DLC4本も無料！？ チームチェリー、商売のやる気がゼロなのだ！ むしろ損してるのでは！？",
       "news_index": 5
     },
     {
       "speaker": "metan",
-      "tone": "amaama",
-      "text": "Team Cherryって元々Hollow Knightに大型DLC4本を全部無料で追加してきたんですよ。もうほんとに良心的すぎるスタジオで。",
-      "news_index": 5
-    },
-    {
-      "speaker": "zunda",
-      "tone": "namidame",
-      "text": "DLC4本も無料……Team Cherryがありがたすぎるのだ……",
+      "tone": "tsuntsun",
+      "text": "損してないわよ！ 要するに「作品を本当に愛してるから出来ること」——だから信頼されてるのよ。",
       "news_index": 5
     },
     {
       "speaker": "metan",
       "tone": "normal",
-      "text": "Hollow Knight Switch 2 Editionも2026年内に予定されてて、高フレームレート対応になるとか。今まさに一番盛り上がってる時期ですよ。",
+      "text": "ホロウナイトのスイッチ2エディションも2026年内に予定されてて、高フレームレート対応になるとか——今が一番乗り時ね。",
       "news_index": 5
     },
     {
       "speaker": "zunda",
       "tone": "yubisashi",
-      "text": "今から始めるのが最高のタイミングなのだ！ シー・オブ・ソロウが来る前に本編クリアしたいのだ！",
+      "text": "シー・オブ・ソロウが来る前に本編クリアするのだ！ 今から始めれば絶対間に合うのだ！",
       "news_index": 5
     },
     {
       "speaker": "metan",
       "tone": "normal",
-      "text": "今夜はTeam Cherry制作、2017年のメトロイドヴァニア傑作『Hollow Knight』を特集しました。",
+      "text": "今夜はチームチェリー制作、2017年の傑作ホロウナイトを特集したわ。スチームで1,700円——7月のシー・オブ・ソロウ前にぜひ今夜から始めてみてね。",
       "news_index": 0
     },
     {
       "speaker": "zunda",
       "tone": "amaama",
-      "text": "虫の王国ハロウネストの謎を解き明かしに行くのだ！",
-      "news_index": 0
-    },
-    {
-      "speaker": "metan",
-      "tone": "kamera",
-      "text": "Steamで1,700円。7月のSea of Sorrow前にぜひ今夜から始めてみてください。今夜も良い夜を。",
-      "news_index": 0
-    },
-    {
-      "speaker": "zunda",
-      "tone": "normal",
-      "text": "また次回なのだ！",
+      "text": "廃墟の王国ハロウネストで待ってるのだ！ また次回なのだ！",
       "news_index": 0
     }
   ],
