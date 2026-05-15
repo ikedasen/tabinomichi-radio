@@ -30,6 +30,7 @@ type Episode = {
   audio_size_mb?: number
   featured_game: FeaturedGame
   program_description: string
+  summary_short?: string
 }
 
 const formatDate = (iso: string | null) => {
@@ -230,7 +231,9 @@ export default function PageClient() {
                       // hero_rel が *_bg.jpg (Steam Library 背景 = 空) のケースで
                       // home サムネだけ空表示になる事故を防ぐ
                       const bg = game?.image_rel || game?.hero_rel || null
-                      const shortDesc = shortenDesc(ep.program_description || '', 150)
+                      const shortDesc = (ep.summary_short && ep.summary_short.trim())
+                        ? ep.summary_short.trim()
+                        : shortenDesc(ep.program_description || '', 150)
                       return (
                         <Link
                           key={ep.episode_id}
