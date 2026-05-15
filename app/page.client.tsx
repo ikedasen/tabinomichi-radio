@@ -46,17 +46,22 @@ const dateKey = (iso: string | null): string => {
   } catch { return iso.slice(0, 10) }
 }
 
-const shortenDesc = (text: string, target = 100): string => {
+const shortenDesc = (text: string, target = 150): string => {
   if (!text) return ''
-  if (text.length <= target + 30) return text
-  const window = text.slice(0, target + 80)
-  const punct = ['。', '！', '!', '？', '?']
-  let bestIdx = -1
-  for (let i = target - 60; i < window.length; i++) {
-    if (punct.includes(window[i])) { bestIdx = i + 1; if (i + 1 >= target - 20) break }
+  if (text.length <= target) return text
+  const window = text.slice(0, target)
+  const sentenceEnd = ['。', '！', '!', '？', '?']
+  const softEnd = ['、', '・']
+  // 1. target 以内で最後の文末記号を探す (target * 0.6 以降に限定して短すぎ防止)
+  for (let i = window.length - 1; i >= Math.floor(target * 0.6); i--) {
+    if (sentenceEnd.includes(window[i])) return window.slice(0, i + 1)
   }
-  if (bestIdx > 0) return text.slice(0, bestIdx)
-  return text.slice(0, target) + '…'
+  // 2. 文末がなければ読点で切って … をつける
+  for (let i = window.length - 1; i >= Math.floor(target * 0.6); i--) {
+    if (softEnd.includes(window[i])) return window.slice(0, i + 1) + '…'
+  }
+  // 3. それも無ければ単純 truncate
+  return window.slice(0, target - 1) + '…'
 }
 
 function HomeViewCount({ count }: { count: number | undefined }) {
