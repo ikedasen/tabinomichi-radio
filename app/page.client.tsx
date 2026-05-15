@@ -225,7 +225,7 @@ export default function PageClient() {
                       // hero_rel が *_bg.jpg (Steam Library 背景 = 空) のケースで
                       // home サムネだけ空表示になる事故を防ぐ
                       const bg = game?.image_rel || game?.hero_rel || null
-                      const shortDesc = shortenDesc(ep.program_description || '', 100)
+                      const shortDesc = shortenDesc(ep.program_description || '', 150)
                       return (
                         <Link
                           key={ep.episode_id}
@@ -315,7 +315,7 @@ export default function PageClient() {
                                 </div>
                               </div>
                               {shortDesc ? (
-                                <p className="text-sm text-zinc-200/80 leading-relaxed line-clamp-2">{shortDesc}</p>
+                                <p className="text-sm text-zinc-200/80 leading-relaxed line-clamp-3">{shortDesc}</p>
                               ) : null}
                             </div>
                           </div>
