@@ -1,0 +1,515 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-05-15T18:06:08.406581",
+  "title": "IndieNews Radio Indie版 — CrossCode開発元・Radical Fishworksの8年ぶり新作『Alabaster Dawn』完全深掘り",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 415.82,
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 5.05
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "深夜のIndieNews Radio、インディーゲーム版です。今夜は複数の新作を浅くさばく回ではなく、1本のゲームをじっくり掘り下げる特集回にします。",
+      "news_index": 1,
+      "start_sec": 5.05,
+      "end_sec": 14.43
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "へえ、今日は特集なの！どのゲームなのだ？",
+      "news_index": 1,
+      "start_sec": 14.58,
+      "end_sec": 18.21
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "『Alabaster Dawn』です。CrossCode、知ってますか？",
+      "news_index": 1,
+      "start_sec": 18.36,
+      "end_sec": 21.58
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "クロスコード！？知ってる知ってる！ボールを投げながら戦う2Dアクションで、難しすぎて何度も泣きそうになったやつ！",
+      "news_index": 1,
+      "start_sec": 21.73,
+      "end_sec": 28.93
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そのCrossCodeを作ったRadical Fishworksが、8年ぶりに新作を出したんです。それが『Alabaster Dawn』です。発売直後から「圧倒的好評」を獲得しています。",
+      "news_index": 1,
+      "start_sec": 29.08,
+      "end_sec": 39.1
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "はちねんぶり！？ちょっと待って、CrossCodeって2018年に完全版が出てたよね？それから8年ずっと作ってたってこと？",
+      "news_index": 1,
+      "start_sec": 39.25,
+      "end_sec": 47.18
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そうなんです。CrossCodeも2015年くらいから早期アクセスで開発していたので、チームは本当にじっくり時間をかける開発スタイルなんですよ。",
+      "news_index": 1,
+      "start_sec": 47.33,
+      "end_sec": 56.06
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "どんなゲームなの？CrossCodeの続編？",
+      "news_index": 1,
+      "start_sec": 56.21,
+      "end_sec": 59.43
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "続編ではないんですが、精神的な進化版という感じですね。2.5Dの世界を自由に疾走するアクションRPGで、CrossCodeのような球を使った戦闘ではなく、もっと自由に動き回れる設計になっているみたいです。",
+      "news_index": 1,
+      "start_sec": 59.58,
+      "end_sec": 73.29
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "2.5Dってどういうこと？2Dでも3Dでもない感じ？",
+      "news_index": 1,
+      "start_sec": 73.44,
+      "end_sec": 77.93
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "斜め見下ろし視点で、世界には高さの概念があって壁を駆け上がったり崖を飛び越えたりできる、というイメージです。CrossCodeもそういう感じでしたよね。",
+      "news_index": 1,
+      "start_sec": 78.08,
+      "end_sec": 87.39
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "あ〜！CrossCodeのあの「見た目は2Dっぽいのに縦方向にも動ける」やつね！わかったのだ！",
+      "news_index": 1,
+      "start_sec": 87.54,
+      "end_sec": 94.77
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "発売直後から「圧倒的好評」というのは、Steamで90%以上のユーザーが好評をつけている状態のことで、インディーゲームでは本当に難しい評価なんです。",
+      "news_index": 1,
+      "start_sec": 94.92,
+      "end_sec": 105.76
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "発売してすぐそれは…本物の期待値の高さだよ！",
+      "news_index": 1,
+      "start_sec": 105.91,
+      "end_sec": 109.26
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "開発元のRadical Fishworksについて話しましょう。ドイツのインディースタジオで、メンバーは十数人規模の小さいチームです。",
+      "news_index": 1,
+      "start_sec": 109.41,
+      "end_sec": 117.32
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "えっドイツなの！？なんかドイツって聞いて急にロールプレイングゲームへの本気度みたいなものを感じるのだ。",
+      "news_index": 1,
+      "start_sec": 117.47,
+      "end_sec": 124.41
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "なんで。でもRadical Fishworksはそういう「じっくり丁寧に作る」スタイルのスタジオではあるかもしれないですね。CrossCodeは早期アクセスから完成まで3〜4年かけて、DLCも追加で出して。",
+      "news_index": 1,
+      "start_sec": 124.56,
+      "end_sec": 136.72
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "CrossCodeのDLCって『A New Home』だよね。あれも良かったなあ。エンディング後の話で泣いたのだ。",
+      "news_index": 1,
+      "start_sec": 136.87,
+      "end_sec": 145.97
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "CrossCodeはシナリオもしっかり作り込まれてましたよね。SFの世界観でオンラインゲーム内のゲームを主人公がプレイするという入れ子構造で。",
+      "news_index": 1,
+      "start_sec": 146.12,
+      "end_sec": 154.66
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "そのシナリオも8年かけて次回作で進化させてきたんだから…期待するなって言う方が無理なのだ！",
+      "news_index": 1,
+      "start_sec": 154.81,
+      "end_sec": 161.59
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "8年という時間は、ファンにとっては長かったですけど、それだけのものを作ってきたということですよね。小規模チームで大作を仕上げるには、それくらいかかることもある。",
+      "news_index": 1,
+      "start_sec": 161.74,
+      "end_sec": 171.46
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "インディーってそういう「時間をかけて本当に作りたいものを作る」スタイルが良いよね。大手と違う魅力なのだ。",
+      "news_index": 1,
+      "start_sec": 171.61,
+      "end_sec": 178.86
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "Steam上の反応ですが、記事によると発売直後から「圧倒的好評」を獲得していて、CrossCodeのファンを中心に大きな盛り上がりを見せています。ヒット作の正統進化、という評価がついています。",
+      "news_index": 1,
+      "start_sec": 179.01,
+      "end_sec": 191.66
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "Steamのレビューってどんな感じで書かれてるの？気になるのだ！",
+      "news_index": 1,
+      "start_sec": 191.81,
+      "end_sec": 196.12
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "CrossCodeが好きな人なら刺さること間違いなし、という感じのレビューが多いみたいですね。あのチームの丁寧な作り込みへの信頼感が評価につながっているという印象です。",
+      "news_index": 1,
+      "start_sec": 196.27,
+      "end_sec": 206.48
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "「ヒット作の正統進化」ってすごい言葉だよ。つまりCrossCodeをやった人は全員やれってこと？",
+      "news_index": 1,
+      "start_sec": 206.63,
+      "end_sec": 212.85
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "かなり強めのおすすめですよね。8年分の進化がどう表れているか、というのが一番の見どころで、CrossCodeのファンにとっては答え合わせみたいな感覚があるかもしれない。",
+      "news_index": 1,
+      "start_sec": 213.0,
+      "end_sec": 223.21
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "「8年ぶり新作」ってだけでSNSで話題になりそうだもんね。CrossCodeファンは待ちに待ってたはずだから！",
+      "news_index": 1,
+      "start_sec": 223.36,
+      "end_sec": 231.12
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ストリーマーやYouTuberが取り上げやすいタイトルでもありますよね。見た目がきれいで戦闘が映えて、ファンがいるIPの続きでもある。",
+      "news_index": 1,
+      "start_sec": 231.27,
+      "end_sec": 238.96
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "配信映えするゲームって今の時代大事だよね。どれだけ良くてもそのゲームを知らない人に見てもらえないと広まらないから。",
+      "news_index": 1,
+      "start_sec": 239.11,
+      "end_sec": 246.38
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "その意味でも「圧倒的好評」スタートというのは、コミュニティが自発的に拡散してくれているということで、最高の状態ですよ。",
+      "news_index": 1,
+      "start_sec": 246.53,
+      "end_sec": 254.46
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "じゃあ実際のプレイ感についてちょっと話しましょうか。2.5D世界を自由に疾走するというのが肝らしいんですが、どんな感じか想像できます？",
+      "news_index": 1,
+      "start_sec": 254.54,
+      "end_sec": 263.87
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "CrossCodeって移動自体も気持ちよかったんだよね。フィールドをビューンって走り回る感じが。だからAlabaster Dawnでそれが進化してるなら…！",
+      "news_index": 1,
+      "start_sec": 264.02,
+      "end_sec": 273.47
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "「自由疾走」という言葉が使われているので、おそらく壁登りや滑空みたいなパルクール要素も強化されているんじゃないかと思います。CrossCodeの世界観に慣れてる人なら、さらに動き回れるイメージですね。",
+      "news_index": 1,
+      "start_sec": 273.62,
+      "end_sec": 285.9
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "ボクもう今すぐやりたいのだ！というかなんで今やってないの！？",
+      "news_index": 1,
+      "start_sec": 286.05,
+      "end_sec": 289.74
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "…今ラジオ収録中ですよ？",
+      "news_index": 1,
+      "start_sec": 289.89,
+      "end_sec": 291.86
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "収録終わったら即買うのだ！",
+      "news_index": 1,
+      "start_sec": 292.01,
+      "end_sec": 294.3
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "私も気になってますよ正直。CrossCodeがあれだけ好評だったので、8年後の進化版がどういう形になってるか。戦闘のシステムもかなり変わってそうで。",
+      "news_index": 1,
+      "start_sec": 294.45,
+      "end_sec": 304.5
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "CrossCodeの戦闘ってボールを壁で跳ね返させながら敵に当てる感じで、最初わけわからなくて苦労したけど慣れると気持ちよかったんだよね。Alabaster Dawnはどう変わってるのかな。",
+      "news_index": 1,
+      "start_sec": 304.65,
+      "end_sec": 315.61
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "2.5D世界を自由に動き回れる分、立体的な戦闘が増えてそうですよね。縦横奥行き全方向で戦うみたいな感じになるのかな。",
+      "news_index": 1,
+      "start_sec": 315.76,
+      "end_sec": 324.67
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "やばい、想像したらワクワクが止まらなくなってきたのだ。でも難しかったらめたんのせいにするのだ。",
+      "news_index": 1,
+      "start_sec": 324.82,
+      "end_sec": 330.68
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "なんで私のせいになるんですか。CrossCodeを紹介したのも私じゃないですよ。",
+      "news_index": 1,
+      "start_sec": 330.83,
+      "end_sec": 335.53
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "じゃあRadical Fishworksのせいにするのだ。でも絶対面白いから許すのだ！",
+      "news_index": 1,
+      "start_sec": 335.68,
+      "end_sec": 341.2
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "さあ、今夜はAlabaster Dawnを1本まるごと深掘りしてきましたが、まとめるとこんな感じです。CrossCode開発元Radical Fishworksの8年ぶり新作で、発売直後から圧倒的好評。2.5D世界を自由に疾走するアクションRPGで、CrossCodeの正統進化という評価を得ています。",
+      "news_index": 1,
+      "start_sec": 341.35,
+      "end_sec": 359.65
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "CrossCodeを遊んだことある人は絶対チェックしてほしいし、知らない人もこれを機に両方遊んでほしいのだ！",
+      "news_index": 1,
+      "start_sec": 359.8,
+      "end_sec": 367.28
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "sasayaki",
+      "text": "CrossCodeはセールで安くなることも多いので、そちらで雰囲気をつかんでからAlabaster Dawnというのもいいかもしれませんね。小規模チームが長い時間をかけて作った作品を、ちゃんとお金を払って遊ぶ。それがインディーゲームを続けてもらうための一番の応援だと思います。",
+      "news_index": 1,
+      "start_sec": 367.43,
+      "end_sec": 384.77
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "めたん、それいいこと言ったのだ。インディーゲームは作ってる人が少ないから、売れると次が作れるんだよね。",
+      "news_index": 1,
+      "start_sec": 384.92,
+      "end_sec": 392.42
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そうです。次の話題作も楽しみにしながら、今夜のIndieNews Radio、ここで終わりにします。気になった方はぜひAlabaster Dawnをチェックしてみてください。おやすみなさい！",
+      "news_index": 1,
+      "start_sec": 392.57,
+      "end_sec": 402.57
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "おやすみなのだ〜！Alabaster Dawn、ボク先に進んでたらごめんね！",
+      "news_index": 1,
+      "start_sec": 402.72,
+      "end_sec": 407.42
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 408.12,
+      "end_sec": 415.82
+    }
+  ],
+  "wall_time_sec": 7.53,
+  "audio_url": "/audio/indie/20260511_130436.mp3?v=1778836174"
+}
