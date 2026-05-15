@@ -1,0 +1,795 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-05-15T20:30:26.680660",
+  "title": "水深51メートルの永遠 〜LeMUに刻まれたSFミステリーの伝説〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 429.3,
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 6.47
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "こんばんは、旅の道ラジオ夜便、ずんだもん登場なのだ！夜遅く働いてるかた、お疲れさまなのだー！",
+      "news_index": 0,
+      "start_sec": 6.47,
+      "end_sec": 13.6
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "またまた、あーしが担当するっすよー！今夜のテーマはキッドが2002年に出した SF ビジュアルノベル『エバーセブンティーン』っす！",
+      "news_index": 0,
+      "start_sec": 13.75,
+      "end_sec": 21.44
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "エバーセブンティーンって、ボクが17歳になったら出会えるゲームなのだ?",
+      "news_index": 0,
+      "start_sec": 21.59,
+      "end_sec": 26.67
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "いやそういう意味じゃないっす先輩。タイトルの17は劇中の世界が2017年って読み込まれてるっす。",
+      "news_index": 0,
+      "start_sec": 26.82,
+      "end_sec": 33.03
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "なるほどなのだー。じゃあ、どんなゲームなのだ?",
+      "news_index": 1,
+      "start_sec": 33.18,
+      "end_sec": 36.41
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "舞台は海底テーマパーク『レム』っす。深海51メートルに沈むゾーンで、なんかの事故で7人が閉じ込められちゃう話っすよ。",
+      "news_index": 1,
+      "start_sec": 36.56,
+      "end_sec": 44.89
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "海底テーマパーク!? それ実在するならボク行きたいのだー！",
+      "news_index": 1,
+      "start_sec": 45.04,
+      "end_sec": 49.46
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "存在したらの話っす先輩。閉じ込められて119時間以内に脱出しないと死ぬっすよ、楽しい場所じゃないっす w",
+      "news_index": 1,
+      "start_sec": 49.61,
+      "end_sec": 56.63
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "あ、デスゲームだったのだ……ボク、楽しいテーマパークだと思って行く気だったのだ……",
+      "news_index": 1,
+      "start_sec": 56.78,
+      "end_sec": 63.88
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに『密室パニックから始まるSFミステリー』っすね。脱出パートが看板に見えて、ガチの本筋は別にあるっす。",
+      "news_index": 1,
+      "start_sec": 64.03,
+      "end_sec": 71.96
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "本筋は別ってどういうことなのだ?",
+      "news_index": 1,
+      "start_sec": 72.11,
+      "end_sec": 74.68
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "そこはネタバレ厳禁っす、オタクくん未プレイの人がいたら今すぐ閉じてほしいっす！",
+      "news_index": 1,
+      "start_sec": 74.83,
+      "end_sec": 79.5
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "あー、つまりラスト一行の衝撃が看板の作品なのだ?",
+      "news_index": 1,
+      "start_sec": 79.65,
+      "end_sec": 84.22
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "それなんすよ先輩!! あーし的にここの構造美はガチで宇宙っす!!",
+      "news_index": 1,
+      "start_sec": 84.37,
+      "end_sec": 88.25
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "うちこしこうたろうって誰なのだ? ボクあんま詳しくないのだ。",
+      "news_index": 1,
+      "start_sec": 88.4,
+      "end_sec": 92.2
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "インフィニティシリーズの企画とシナリオ担当、後の極限脱出シリーズやエーアイ・ソムニウムファイルの作家っす。SFミステリーアドベンチャー界の大物っすよ。",
+      "news_index": 1,
+      "start_sec": 92.35,
+      "end_sec": 101.37
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "極限脱出シリーズか! 善人シボウデスとかの作者だったのだ!?",
+      "news_index": 1,
+      "start_sec": 101.52,
+      "end_sec": 105.92
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "さすが先輩!! その系譜の原点が エバーセブンティーン で、ここから うちこしこうたろうの作風が確立したっす!",
+      "news_index": 1,
+      "start_sec": 106.07,
+      "end_sec": 112.48
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "インフィニティシリーズって全部で何作あるのだ?",
+      "news_index": 1,
+      "start_sec": 112.63,
+      "end_sec": 115.62
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "本編4作っす、ネバーセブン、エバーセブンティーン、リメンバーイレブン、トゥエルブ・リブン。エバーセブンティーンは2作目で、シリーズの代表作っす。",
+      "news_index": 1,
+      "start_sec": 115.77,
+      "end_sec": 125.12
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "とぅえるぶ・りぶん? それ、食べ物なのだ?",
+      "news_index": 1,
+      "start_sec": 125.27,
+      "end_sec": 129.66
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "違うっす先輩、シリーズ最終作のタイトルっす w",
+      "news_index": 1,
+      "start_sec": 129.81,
+      "end_sec": 133.17
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "つむぎ、これ実機で遊んだのだ?",
+      "news_index": 1,
+      "start_sec": 133.32,
+      "end_sec": 135.72
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "あーし、プレステツー版を中古で発掘して全エンドコンプしてるっす!! メモリーカードに『カルマ』のセーブ残ってるっす、家宝っす!!",
+      "news_index": 1,
+      "start_sec": 135.87,
+      "end_sec": 143.82
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "つむぎ、マジでガチなのだ……ギャル友達には絶対言えないやつなのだ?",
+      "news_index": 1,
+      "start_sec": 143.97,
+      "end_sec": 149.23
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "shirake",
+      "text": "……先輩、わざわざ言わなくていいっす。",
+      "news_index": 1,
+      "start_sec": 149.38,
+      "end_sec": 152.09
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "ご、ごめんなさいなのだ……",
+      "news_index": 1,
+      "start_sec": 152.24,
+      "end_sec": 154.64
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "コホン、話戻すっすよ。エバーセブンティーンの魅力をちゃんと語ると、まず雰囲気がガチで唯一無二っす。",
+      "news_index": 1,
+      "start_sec": 154.79,
+      "end_sec": 161.33
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "雰囲気って、どんな感じなのだ?",
+      "news_index": 1,
+      "start_sec": 161.48,
+      "end_sec": 163.87
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kangae",
+      "text": "海底に閉じ込められた静けさと、刻々と迫るタイムリミット、そこにキャラの会話が淡々と積み重なるっす。",
+      "news_index": 1,
+      "start_sec": 164.02,
+      "end_sec": 170.76
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "なんか、聴いてるだけで深海の重圧を感じてきたのだ……",
+      "news_index": 1,
+      "start_sec": 170.91,
+      "end_sec": 174.61
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "BGMはあぼたけし先生っす!! あーし、サウンドコレクションのCDまで持ってるっすよ!!",
+      "news_index": 1,
+      "start_sec": 174.76,
+      "end_sec": 180.34
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "あぼたけしって、響き的にちょっと面白い名前なのだ……ボク失礼なのだ?",
+      "news_index": 1,
+      "start_sec": 180.49,
+      "end_sec": 185.93
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "それ完全に失礼っす先輩 w 先生はガチ職人っす、インフィニティ全作BGM担当の名匠っすよ。",
+      "news_index": 1,
+      "start_sec": 186.08,
+      "end_sec": 192.94
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "ご、ごめんなさいなのだ……名前で笑ったらダメなのだ……",
+      "news_index": 1,
+      "start_sec": 193.09,
+      "end_sec": 197.91
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "タイトル曲『カルマ』はネット上で名曲扱いっす。未聴のかたはガチで聴いてほしいっす。",
+      "news_index": 1,
+      "start_sec": 198.06,
+      "end_sec": 203.74
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "つむぎ、めちゃ詳しいのだ……ガチ勢なのだ……",
+      "news_index": 1,
+      "start_sec": 203.89,
+      "end_sec": 207.75
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "あーし今めっちゃキモいっすね、すんません w",
+      "news_index": 1,
+      "start_sec": 207.9,
+      "end_sec": 210.62
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "いや、好きなものを語れる人はかっこいいのだ。ボク尊敬するのだー。",
+      "news_index": 1,
+      "start_sec": 210.77,
+      "end_sec": 215.24
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "雰囲気の話で言うと、海底ものってだいぶ独特なのだ?",
+      "news_index": 1,
+      "start_sec": 215.32,
+      "end_sec": 219.29
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "深海って、現実から切り離された孤立空間なんすよ。逃げられないし空も見えない、閉じ込められた者だけの宇宙っす。",
+      "news_index": 1,
+      "start_sec": 219.44,
+      "end_sec": 226.91
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "つむぎ、急にポエムなのだ?!",
+      "news_index": 1,
+      "start_sec": 227.06,
+      "end_sec": 229.49
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "ほら出ちゃう、深海ゲー語ると厨二スイッチ入るやつっす……すんません w",
+      "news_index": 1,
+      "start_sec": 229.64,
+      "end_sec": 234.26
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "エバーセブンティーンのもう一個の特徴、ダブル主人公制っす。くらなりたけしって大学生と、記憶喪失の少年、2人視点で同時進行っす。",
+      "news_index": 1,
+      "start_sec": 234.34,
+      "end_sec": 243.61
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ダブル主人公って、テキストアドベンチャーじゃ珍しい構造なのだ?",
+      "news_index": 1,
+      "start_sec": 243.76,
+      "end_sec": 248.19
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ジャンル的には先例あるっすけど、エバーセブンティーンの使い方が後の作品に影響デカいっす。視点の差が、後のオチに効いてくるっす。",
+      "news_index": 1,
+      "start_sec": 248.34,
+      "end_sec": 256.44
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "視点の差……それ言っちゃうとネタバレなのだ?",
+      "news_index": 1,
+      "start_sec": 256.59,
+      "end_sec": 259.65
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "セーフラインっす。これ以上は何も知らずに遊んでほしいっす、それがエバーセブンティーンの楽しみ方っす。",
+      "news_index": 1,
+      "start_sec": 259.8,
+      "end_sec": 266.02
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ヒロインは何人くらいいるのだ?",
+      "news_index": 1,
+      "start_sec": 266.17,
+      "end_sec": 268.35
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "メインヒロイン格は5人っす。ココ、サラ、ツグミ、ユウ、ソラ、それぞれに固有の伏線があるっす。",
+      "news_index": 1,
+      "start_sec": 268.5,
+      "end_sec": 275.52
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ツグミ……ソラ……名前だけで切ない感じがするのだ……",
+      "news_index": 1,
+      "start_sec": 275.67,
+      "end_sec": 279.19
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "オタクくん予備軍の感性っす!! エバーセブンティーンのヒロインは全員ガチで思い入れあるっす!!",
+      "news_index": 1,
+      "start_sec": 279.34,
+      "end_sec": 284.59
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "インフィニティシリーズって、当時どれくらい売れたのだ?",
+      "news_index": 1,
+      "start_sec": 284.74,
+      "end_sec": 288.03
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "正直、爆売れではなかったっす。けど熱狂的なファンが付いて、ネット上で『最終シナリオ特化型アドベンチャーの最高峰』って評価が固定されたっす。",
+      "news_index": 1,
+      "start_sec": 288.18,
+      "end_sec": 297.94
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "なるほど、いわゆるカルト名作なのだ。",
+      "news_index": 1,
+      "start_sec": 298.09,
+      "end_sec": 300.67
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "それっす。後年、エックスボックス360にリメイク移植されたり、ピーエスピーやパソコンにもじわじわ展開して広まったっす。",
+      "news_index": 1,
+      "start_sec": 300.82,
+      "end_sec": 308.87
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "キッドって会社、今もあるのだ?",
+      "news_index": 1,
+      "start_sec": 309.02,
+      "end_sec": 311.54
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "それがっすね……キッドは2006年に倒産しちゃってるっす。メモリーズオフとエバーセブンティーン残して消えた伝説のメーカーっす。",
+      "news_index": 1,
+      "start_sec": 311.69,
+      "end_sec": 319.08
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "せつないのだ……名作残して消えるなんて、職人みたいなのだ……",
+      "news_index": 1,
+      "start_sec": 319.23,
+      "end_sec": 323.39
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "シリーズの権利はその後 メージスに移って、エックスボックス360リメイク版が出た流れっす。",
+      "news_index": 1,
+      "start_sec": 323.54,
+      "end_sec": 329.43
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そして去年っす!! 2025年3月6日、スパイクチュンソフトがスイッチ・プレステフォー・スチームで エバーセブンティーン と ネバーセブンのリマスター版を世界同時発売したっす!!",
+      "news_index": 1,
+      "start_sec": 329.51,
+      "end_sec": 340.16
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "それ、海外初進出なのだ?!",
+      "news_index": 1,
+      "start_sec": 340.31,
+      "end_sec": 342.69
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "正解っす!! 公式英語版が遂に出て20年越しの悲願達成、海外勢ガチで沸いてるっす!!",
+      "news_index": 1,
+      "start_sec": 342.84,
+      "end_sec": 348.85
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "リマスター版の中身は、どっち基準なのだ? 元のドリームキャスト版か、エックスボックス360リメイク版か?",
+      "news_index": 1,
+      "start_sec": 349.0,
+      "end_sec": 356.58
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "エックスボックス360リメイクのシナリオを採用しつつ、グラフィックは原作の絵柄に戻した『決定版』っす。開発はメージスっすね。",
+      "news_index": 1,
+      "start_sec": 356.73,
+      "end_sec": 365.69
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "それは未プレイのオタクくんに朗報なのだ! 今からでも遊べるってことなのだ!",
+      "news_index": 1,
+      "start_sec": 365.84,
+      "end_sec": 370.57
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "スチームなら日本語版もあるっす!! あーし的に、初めて触れるかたはリマスター版がガチでベストっす!!",
+      "news_index": 1,
+      "start_sec": 370.72,
+      "end_sec": 376.54
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "値段はどれくらいなのだ?",
+      "news_index": 1,
+      "start_sec": 376.69,
+      "end_sec": 378.5
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ダウンロード版で数千円台っす、スチームで買えば手軽っすよ。",
+      "news_index": 1,
+      "start_sec": 378.65,
+      "end_sec": 382.45
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "つむぎ、今日めちゃくちゃ熱く語ってたのだ……",
+      "news_index": 1,
+      "start_sec": 382.6,
+      "end_sec": 385.43
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "あーし、今日も完全にオタク仕草入っちゃってたっすね……オタクくん引いてないっすか……",
+      "news_index": 1,
+      "start_sec": 385.58,
+      "end_sec": 390.74
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ボクは引かないのだ。むしろエバーセブンティーンやりたくなったのだー!",
+      "news_index": 1,
+      "start_sec": 390.89,
+      "end_sec": 395.35
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "やったー!! それがあーしの目的っす、実機でもリマスターでも触れてほしいっす!!",
+      "news_index": 1,
+      "start_sec": 395.5,
+      "end_sec": 400.24
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ところでさっきの『海底テーマパーク楽しい』のボク、まだ訂正してないのだ……",
+      "news_index": 1,
+      "start_sec": 400.39,
+      "end_sec": 406.19
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "それガチで楽しい場所じゃないって何回言わせるんすか先輩 w",
+      "news_index": 1,
+      "start_sec": 406.34,
+      "end_sec": 409.8
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "という訳で、今夜はインフィニティシリーズ第2作 エバーセブンティーン 紹介でしたなのだ! また会うのだー!",
+      "news_index": 1,
+      "start_sec": 409.95,
+      "end_sec": 416.15
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "おやすみっす、オタクくん! あーし、また実機の話で帰ってくるっすー!",
+      "news_index": 1,
+      "start_sec": 416.3,
+      "end_sec": 420.9
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 421.6,
+      "end_sec": 429.3
+    }
+  ],
+  "wall_time_sec": 10.18,
+  "audio_url": "/audio/indie/20260515_182113.mp3?v=1778844630"
+}
