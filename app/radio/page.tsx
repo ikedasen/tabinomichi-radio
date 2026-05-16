@@ -323,7 +323,14 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
           } : null,
           script_segments: [],
           news_covers: [],
-          program_background: target.featured_game?.image_rel || target.featured_game?.hero_rel || null,
+          // 大画像 (個別ページ左ジャケット) は hero_rel 優先 → image_rel フォールバック。
+          // hero が "_bg.jpg" (Steam Library 空背景) の場合は空表示防止のため image_rel に下げる。
+          program_background: (() => {
+            const h = target.featured_game?.hero_rel || ''
+            const i = target.featured_game?.image_rel || ''
+            if (h && !h.endsWith('_bg.jpg')) return h
+            return i || h || null
+          })(),
           featured_game: target.featured_game || null,
           program_description: target.program_description || '',
         }
@@ -714,7 +721,7 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
       <div className="max-w-md md:max-w-5xl mx-auto px-4 pt-6 pb-10">
         {/* 上部バー */}
         <div className="flex items-center justify-between mb-5">
-          <Link href="/" className="text-zinc-300 hover:text-white text-sm">← 戻る</Link>
+          <Link href={profile === 'ai' ? '/?profile=ai' : '/'} className="text-zinc-300 hover:text-white text-sm">← 戻る</Link>
           <div className="text-xs text-zinc-300 tracking-widest inline-flex items-baseline gap-1.5">
             <span
               aria-hidden
