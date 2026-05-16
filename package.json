@@ -6,7 +6,8 @@
     "dev": "next dev -p 3211",
     "build": "next build",
     "start": "next start -p 3211",
-    "lint": "next lint"
+    "lint": "next lint",
+    "gen:tones": "node scripts/gen-tones.js"
   },
   "dependencies": {
     "next": "14.2.7",

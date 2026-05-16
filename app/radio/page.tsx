@@ -4,6 +4,7 @@ import Link from 'next/link'
 import { useSearchParams } from 'next/navigation'
 import { Suspense, useEffect, useMemo, useRef, useState } from 'react'
 import SharePopover from '../components/SharePopover'
+import { VALID_TONES } from './generated/valid-tones'
 
 type SpeechSegment = {
   index: number
@@ -57,6 +58,7 @@ type FeaturedGame = {
   short_description?: string
   image_rel?: string
   hero_rel?: string
+  header_url?: string
   screenshot_rels?: string[]
 }
 
@@ -805,7 +807,8 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
               {/* ずんだ (左) + めたん or つむぎ (右) の立ち絵: tone 切替 + 目パチ + 口パク + intro マイク持ち
                   retro 回はめたんの代わりにつむぎが出る (segments を見て自動判定) */}
               {(() => {
-                const VALID_TONES = ['normal','amaama','tsuntsun','sasayaki','sexy','hisohiso','namidame','kangae','miage','shirake','herohero','kamera','shock','kanashimi','tsukuriwarai','hazukashi','welcome','chuuni','niyari','yubisashi','heart','gurugru','nagomi','mic'] as const
+                // VALID_TONES は backend/data/speakers/*.json から自動生成 (npm run gen:tones)。
+                // 新 tone 追加時は speaker JSON 編集 → gen:tones → 自動反映。
                 type Tone = typeof VALID_TONES[number]
                 const segTone = (currentSegment && 'tone' in currentSegment ? currentSegment.tone : undefined) as Tone | undefined
                 const tone: Tone = (segTone && (VALID_TONES as readonly string[]).includes(segTone) ? segTone : 'normal')
@@ -1093,9 +1096,14 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
                   {/* eslint-disable-next-line @next/next/no-img-element */}
                   <img
                     src={
-                      program.featured_game.app_id
-                        ? `/images/games/${program.featured_game.app_id}_header.jpg`
-                        : program.featured_game.image_rel || ''
+                      // header_url は radio_export.py が mtime ?v= 付きで焼く
+                      // (SW が /images/ を cache-first 永続化するため、無いと
+                      // Steam jacket 差し替えても古い画像が出続ける)。
+                      // 旧 ep (header_url 無) は app_id fallback、それも無ければ image_rel。
+                      program.featured_game.header_url
+                        || (program.featured_game.app_id
+                              ? `/images/games/${program.featured_game.app_id}_header.jpg`
+                              : program.featured_game.image_rel || '')
                     }
                     alt={program.featured_game.title}
                     className="absolute inset-0 w-full h-full object-cover"
