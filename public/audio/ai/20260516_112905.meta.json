@@ -1,0 +1,705 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-05-16T11:29:35.361041",
+  "title": "Xアルゴリズム新版を読み解け 〜クリエイター向けインプレ戦略の最適解〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 416.0,
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 6.47
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "こんにちは、旅の道ラジオ、テックニュース回。四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 6.47,
+      "end_sec": 10.51
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! テックの話もボクが盛り上げるのだー!",
+      "news_index": 0,
+      "start_sec": 10.66,
+      "end_sec": 14.88
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "初回のテーマはずばり、Xのアルゴリズム。創作してる人なら絶対気になるやつよ。",
+      "news_index": 0,
+      "start_sec": 15.03,
+      "end_sec": 20.44
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "あのX!? バズる時はバズって、伸びない時は全然伸びない、ボクにはわからん世界なのだ。",
+      "news_index": 0,
+      "start_sec": 20.59,
+      "end_sec": 27.8
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それがね、2026年5月15日に、Xのアルゴリズムの公開ソースコードがガッツリ更新されたのよ。",
+      "news_index": 0,
+      "start_sec": 27.95,
+      "end_sec": 35.02
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "187ファイル変更、1万8000行追加。Phoenix推論パイプラインっていう新しい仕組みも入って、けっこうな大改修よ。",
+      "news_index": 0,
+      "start_sec": 35.1,
+      "end_sec": 43.64
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "1万8000行!? 何が変わったのだ?",
+      "news_index": 0,
+      "start_sec": 43.79,
+      "end_sec": 46.8
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ざっくり言うとね、評価の仕組みが「いいね数の勝負」じゃなくなってる、ってこと。",
+      "news_index": 0,
+      "start_sec": 46.95,
+      "end_sec": 52.0
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "いいねが偉い時代は終わったのだね……",
+      "news_index": 0,
+      "start_sec": 52.15,
+      "end_sec": 54.44
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "終わったとは言わないけど、いいねだけ見てるわけじゃない。複数の行動を全部混ぜて評価する仕組みになってるの。",
+      "news_index": 0,
+      "start_sec": 54.59,
+      "end_sec": 61.12
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "複数の行動って、具体的に何を見られてるのだ?",
+      "news_index": 0,
+      "start_sec": 61.27,
+      "end_sec": 65.03
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "コード読むと、明示的にスコアに入ってる行動はこれ。いいね、返信、リポスト、引用、プロフィールクリック、フォロー、画像展開、動画視聴、滞在時間、DM共有、リンクコピー共有。",
+      "news_index": 0,
+      "start_sec": 65.18,
+      "end_sec": 77.98
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "多すぎなのだー!",
+      "news_index": 0,
+      "start_sec": 78.13,
+      "end_sec": 79.41
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "でも一個ずつ意味を考えると、わかりやすいわよ。たとえばプロフィールクリックって、ポスト見た人があなたのアカウントを覗きに来た行動。",
+      "news_index": 0,
+      "start_sec": 79.56,
+      "end_sec": 87.63
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "あ、それボクの作品ページに来てくれた人ってことなのだね!",
+      "news_index": 0,
+      "start_sec": 87.78,
+      "end_sec": 92.2
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。クリエイターには一番大事な行動のひとつね。固定ポストや作品一覧へ流れる入口になるから。",
+      "news_index": 0,
+      "start_sec": 92.35,
+      "end_sec": 98.99
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "画像展開も意外に重要。画像をタップして大きく見る、その行動そのものが評価されてる。",
+      "news_index": 0,
+      "start_sec": 99.07,
+      "end_sec": 104.88
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ふむ。じゃあ画像投稿は強そうなのだ。",
+      "news_index": 0,
+      "start_sec": 105.03,
+      "end_sec": 107.86
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "動画も同じ。一定の長さ以上の視聴があれば加点。冒頭で離脱されない作りが要よね。",
+      "news_index": 0,
+      "start_sec": 108.01,
+      "end_sec": 113.89
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "あと意外と見られてないけど効くのが、DM共有とリンクコピー。「これ友達に送りたい」「URLコピって誰かに見せたい」って思わせる投稿が強い。",
+      "news_index": 0,
+      "start_sec": 113.97,
+      "end_sec": 123.4
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "保存じゃなくて、人に送るかどうかなのだ?",
+      "news_index": 0,
+      "start_sec": 123.55,
+      "end_sec": 126.76
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこがポイント。ブックマークは公開コードでは専用シグナル見えなかったの。だから「ブクマ狙い」より「シェアしたくなる」設計の方がコード寄り。",
+      "news_index": 0,
+      "start_sec": 126.91,
+      "end_sec": 136.03
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "逆に、マイナスになる行動もあるのだ?",
+      "news_index": 0,
+      "start_sec": 136.18,
+      "end_sec": 139.1
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "あるある。ハッキリ減点なのが、興味なし、ミュート、ブロック、通報、それから「すぐスクロールで飛ばされる」っていう未滞在状態。",
+      "news_index": 0,
+      "start_sec": 139.25,
+      "end_sec": 147.9
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "スルーされるのも減点なのだ!? 厳しいのだー!",
+      "news_index": 0,
+      "start_sec": 148.05,
+      "end_sec": 151.36
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "だから「伸びても嫌われる投稿」は危険。リプは増えても、ミュートとブロックが裏でカウントされてたら結局マイナスよ。",
+      "news_index": 0,
+      "start_sec": 151.51,
+      "end_sec": 158.67
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "よく「投稿者本人が返信すると加点される」って聞くのだ。あれ本当?",
+      "news_index": 0,
+      "start_sec": 158.82,
+      "end_sec": 164.65
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "今回読んだ公開コードでは、その明示的なボーナスは見えなかったわ。",
+      "news_index": 0,
+      "start_sec": 164.8,
+      "end_sec": 169.09
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "えっ、デマだったのだ?",
+      "news_index": 0,
+      "start_sec": 169.24,
+      "end_sec": 171.69
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "全否定はしないけど、少なくとも「返信したから直接加点」って仕組みは確認できなかった。",
+      "news_index": 0,
+      "start_sec": 171.84,
+      "end_sec": 177.88
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ただし、いい会話を作れば、相手のプロフィールクリックやフォローが増えて、間接的に効くのは間違いないわ。",
+      "news_index": 0,
+      "start_sec": 177.96,
+      "end_sec": 184.4
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあボクみたいなクリエイターは、結局どうすればいいのだ?",
+      "news_index": 0,
+      "start_sec": 184.55,
+      "end_sec": 188.47
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "投稿を 4 つに分けて、狙う行動を毎回変えるのがコツよ。",
+      "news_index": 0,
+      "start_sec": 188.62,
+      "end_sec": 192.49
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "1 つ目、作品告知。狙うのは画像展開、動画視聴、プロフィールクリック、フォロー。「リンクだけ貼って買って」じゃ弱い。",
+      "news_index": 0,
+      "start_sec": 192.57,
+      "end_sec": 200.35
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "見せ場の動画 30 秒とか、画像を魅力的に並べてから、プロフィールに誘導するのだね。",
+      "news_index": 0,
+      "start_sec": 200.5,
+      "end_sec": 207.09
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "2 つ目、制作過程。これがクリエイターと一番相性いい。比較画像、ラフから完成、ボツ案。",
+      "news_index": 0,
+      "start_sec": 207.24,
+      "end_sec": 213.86
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "「どっちが見やすそう?」って聞けば、画像展開と滞在時間と返信、3 つ全部狙える。",
+      "news_index": 0,
+      "start_sec": 213.94,
+      "end_sec": 219.65
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "3 つ同時取りはお得なのだ。",
+      "news_index": 0,
+      "start_sec": 219.8,
+      "end_sec": 222.02
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "3 つ目、ノウハウや創作論。ここで効くのが DM 共有とリンクコピー。",
+      "news_index": 0,
+      "start_sec": 222.17,
+      "end_sec": 226.75
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "「あの人に送りたい」「あとで戻ってきたい」と思わせるチェックリストや具体的な失敗談が刺さる。",
+      "news_index": 0,
+      "start_sec": 226.83,
+      "end_sec": 232.39
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "具体的じゃないとシェアされないのだね。",
+      "news_index": 0,
+      "start_sec": 232.54,
+      "end_sec": 234.9
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "4 つ目、ファン交流。返信、引用、滞在を狙う。",
+      "news_index": 0,
+      "start_sec": 235.05,
+      "end_sec": 238.94
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "「感想ください」じゃなくて、「どのシーンが一番印象に残った?」みたいに、具体的に答えやすい問いを置くこと。",
+      "news_index": 0,
+      "start_sec": 239.02,
+      "end_sec": 246.08
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "ボク、感想欲しくて「感想ください」って書きがちなのだー……",
+      "news_index": 0,
+      "start_sec": 246.23,
+      "end_sec": 251.08
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "それは思考停止ワード。返事の質も上がらないから、もう一段具体的にいきなさい。",
+      "news_index": 0,
+      "start_sec": 251.23,
+      "end_sec": 256.45
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ逆に、やっちゃダメな運用は?",
+      "news_index": 0,
+      "start_sec": 256.6,
+      "end_sec": 259.24
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "まずは同じ告知文の連投。コード側に同一作者の連続露出を減衰させる仕組みが入ってる。",
+      "news_index": 0,
+      "start_sec": 259.39,
+      "end_sec": 265.46
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "重要な告知の前後に雑談連投すると、自分の告知を自分で押し下げちゃうわよ。",
+      "news_index": 0,
+      "start_sec": 265.54,
+      "end_sec": 270.88
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "自分で自分の邪魔をするやつなのだ……",
+      "news_index": 0,
+      "start_sec": 271.03,
+      "end_sec": 273.5
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "次に、リンクだけ貼って終わる投稿。直接ペナルティは確認できないけど、画像展開も滞在もプロフィールクリックも取れないから、加点機会を全部捨ててる。",
+      "news_index": 0,
+      "start_sec": 273.65,
+      "end_sec": 283.18
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "あと、対立煽りや炎上狙い。これはハッキリ危険。ミュート、ブロック、通報、興味なし、全部減点要素にカウントされるから。",
+      "news_index": 0,
+      "start_sec": 283.26,
+      "end_sec": 292.04
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "炎上は伸びるけど、その分マイナスもガッツリ受けるのだね。",
+      "news_index": 0,
+      "start_sec": 292.19,
+      "end_sec": 297.25
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "昔から言われてる定番ノウハウもあるよね。あれ今でも有効なのだ?",
+      "news_index": 0,
+      "start_sec": 297.33,
+      "end_sec": 302.47
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "「返信はいいねの150倍」って話、聞いたことあるでしょ。これ、今回公開されてる重み付けの数値は公開されてないから、150倍は根拠不明。",
+      "news_index": 0,
+      "start_sec": 302.62,
+      "end_sec": 312.59
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "返信が大事なのは間違いない、でも「150倍」って具体数字は採用しない方がいい。",
+      "news_index": 0,
+      "start_sec": 312.67,
+      "end_sec": 318.74
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "具体的すぎる数字は逆に怪しいやつなのだね。",
+      "news_index": 0,
+      "start_sec": 318.89,
+      "end_sec": 322.17
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "「外部リンクは絶対不利」も今のコードでは断定できなかった。クリック自体は見られてるけど、外部リンク専用の減点があるかは不明。",
+      "news_index": 0,
+      "start_sec": 322.32,
+      "end_sec": 330.52
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "「ブックマーク強い」も、専用の重みは公開コードに見えなかった。DM 共有とリンクコピーの方がはっきりスコアに入ってる。",
+      "news_index": 0,
+      "start_sec": 330.6,
+      "end_sec": 338.47
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "「認証アカウントが固定で優遇」も、契約レベルの情報はあるけど、それを単純に倍率にかける処理は確認できなかったわ。",
+      "news_index": 0,
+      "start_sec": 338.55,
+      "end_sec": 346.55
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "通説のうち、結構な数が「実は確認できない」だったのだー!",
+      "news_index": 0,
+      "start_sec": 346.7,
+      "end_sec": 351.65
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kamera",
+      "text": "オタクくん、まとめいくわよ。今のXは「いいね数の勝負」じゃなくて、「どんな人に、どんな次の行動を起こさせる投稿か」を多目的に見てる。",
+      "news_index": 0,
+      "start_sec": 351.8,
+      "end_sec": 360.88
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "だから投稿を、告知、制作過程、ノウハウ、交流の 4 つに分けて、それぞれ違う行動を狙う設計に変えるといい。",
+      "news_index": 0,
+      "start_sec": 360.96,
+      "end_sec": 368.57
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "画像展開、動画視聴、プロフィールクリック、フォロー、滞在、DM 共有、リンクコピー、このあたりを意識して投稿フォーマットを組み立てる。",
+      "news_index": 0,
+      "start_sec": 368.65,
+      "end_sec": 377.6
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "逆に、同じ告知の連投、リンクだけ投稿、煽り運用、感想放置、これは現代の X では結構な逆風になるってこと。",
+      "news_index": 0,
+      "start_sec": 377.68,
+      "end_sec": 385.91
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "ボクも今夜から、ただ「見て!」だけじゃなくて、「どこを見てほしいか」「次に何してほしいか」を考えて投稿するのだ!",
+      "news_index": 0,
+      "start_sec": 386.06,
+      "end_sec": 394.65
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それが、いまの X アルゴリズムにいちばん素直に効く運用なのよ。",
+      "news_index": 0,
+      "start_sec": 394.8,
+      "end_sec": 398.91
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kamera",
+      "text": "以上、旅の道ラジオ テックニュース回、X アルゴリズム新版の読み解きでした。",
+      "news_index": 0,
+      "start_sec": 398.99,
+      "end_sec": 404.46
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "次のテックニュースもお楽しみになのだー!",
+      "news_index": 0,
+      "start_sec": 404.61,
+      "end_sec": 407.2
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 407.9,
+      "end_sec": 416.0
+    }
+  ],
+  "wall_time_sec": 9.26,
+  "audio_url": "/audio/ai/20260516_112905.mp3?v=1778898579"
+}

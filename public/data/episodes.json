@@ -1,6 +1,35 @@
 {
-  "generated_at": "2026-05-16T10:50:50.343288",
+  "generated_at": "2026-05-16T11:29:39.356035",
   "episodes": [
+    {
+      "episode_id": "20260516_112905",
+      "profile": "ai",
+      "title": "Xアルゴリズム新版を読み解け 〜クリエイター向けインプレ戦略の最適解〜",
+      "generated_at": "2026-05-16T11:29:05.533171+09:00",
+      "duration_sec": 416.0,
+      "audio_url": "/audio/ai/20260516_112905.mp3?v=1778898579",
+      "meta_url": "/audio/ai/20260516_112905.meta.json",
+      "script_url": "/audio/ai/20260516_112905.script.json",
+      "audio_size_mb": 6.35,
+      "featured_game": {
+        "title": "X (旧 Twitter) / Home Mixer アルゴリズム 2026-05-15 版",
+        "image_rel": "/images/topics/x_algorithm_2026.jpg",
+        "hero_rel": "/images/topics/x_algorithm_2026.jpg",
+        "developers": [
+          "xAI / X Corp."
+        ],
+        "release_date": "2026年5月15日 (公開コード更新)",
+        "short_description": "xai-org/x-algorithm の公開リポジトリで 2026 年 5 月 15 日に commit e414c17 として更新された Home Mixer / Phoenix / ranking_scorer / candidate pipeline。187 ファイル変更、18,263 行追加。Phoenix end-to-end 推論パイプライン、Grok コンテンツ理解、ads blending、query/candidate hydrator、新規 candidate source などが追加された大型更新。",
+        "genres": [
+          "テック",
+          "SNS",
+          "アルゴリズム解説"
+        ],
+        "screenshot_rels": []
+      },
+      "program_description": "2026年5月15日に大幅更新されたXの公開アルゴリズム (Home Mixer / Phoenix / ranking_scorer) を素材に、創作者向けの実践的なインプレ獲得戦略を分かりやすく解説する回。いいね数だけじゃない多目的スコアリングの中身、評価される 11 行動、減点される 5 行動、そしてクリエイター向けの 4 カテゴリ戦略 (告知 / 制作過程 / ノウハウ / 交流) で狙う行動を切り替える具体メソッドまで。さらに「返信はいいねの150倍」「外部リンクは絶対不利」「ブックマーク最強」「認証アカウント優遇」といった定番通説を、最新公開コードと照らし合わせて検証。クリエイター運用の現代的アップデート版として、明日から効く形で持ち帰れる回。",
+      "summary_short": "2026/5/15 公開のXアルゴリズム新版を素材に、創作者向けインプレ獲得戦略を解説。多目的スコアリングの中身、4 カテゴリ別の投稿設計、通説検証まで一気通貫で扱う回。"
+    },
     {
       "episode_id": "20260516_101541",
       "profile": "indie",
