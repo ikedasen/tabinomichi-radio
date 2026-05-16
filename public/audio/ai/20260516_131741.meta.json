@@ -1,0 +1,845 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-05-16T14:05:12.705277",
+  "title": "「噛み砕けば見えるテック 〜朝の業界5本立て〜」",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 482.66,
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 5.05
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "mic",
+      "text": "おはようございます、旅の道ラジオ朝便。今日もテックニュースの回でお送りします、四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 5.05,
+      "end_sec": 11.36
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今日も朝から元気にやってくのだー!",
+      "news_index": 0,
+      "start_sec": 11.51,
+      "end_sec": 15.55
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今朝はAIとか半導体とかIT業界の話題を、5本軽く流していく回。通勤中にサクッと聴ける感じよ。",
+      "news_index": 0,
+      "start_sec": 15.7,
+      "end_sec": 22.95
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "5本ってちょうどいいのだ。重い話だけ続くと、朝から脳みそが疲れちゃうから。",
+      "news_index": 0,
+      "start_sec": 23.1,
+      "end_sec": 28.83
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "専門用語が出てきたら私が日常の言葉に翻訳していくから、聴いてくれてるかたは気楽にどうぞ。",
+      "news_index": 0,
+      "start_sec": 28.98,
+      "end_sec": 34.97
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "ボクが分からなくなったら『それ何なのだ?』って遠慮なく聞くから、期待しててほしいのだ。",
+      "news_index": 0,
+      "start_sec": 35.12,
+      "end_sec": 40.73
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ早速1本目いくわよ。お金の桁がすごい話から。",
+      "news_index": 0,
+      "start_sec": 40.88,
+      "end_sec": 44.54
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "メタがルイジアナ州に作ってる巨大データセンターに、税金免除が33億ドル付くって決まったらしいのよ。",
+      "news_index": 1,
+      "start_sec": 44.62,
+      "end_sec": 51.35
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "データセンターって、ボクの実家のWi-Fiルーターの親分みたいなやつなのだ?",
+      "news_index": 1,
+      "start_sec": 51.5,
+      "end_sec": 57.89
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "全然規模違うわ。データセンターはAIとかクラウドを動かしてる、巨大なサーバー倉庫のこと。",
+      "news_index": 1,
+      "start_sec": 58.04,
+      "end_sec": 63.9
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "メタのやつは『ハイペリオン』って名前で、投資額が100億ドル。日本円でだいたい1兆5,000億円ね。",
+      "news_index": 1,
+      "start_sec": 63.98,
+      "end_sec": 70.75
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "100億ドル!? ボクが宝くじ当てて使い切るには、何百回当選しても無理なやつじゃん!",
+      "news_index": 1,
+      "start_sec": 70.9,
+      "end_sec": 77.45
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "桁違いだから何百回どころじゃないわよ。問題はね、メタが買うGPUの350億ドル分の売上税が、20年間タダになる仕組みなの。",
+      "news_index": 1,
+      "start_sec": 77.6,
+      "end_sec": 86.79
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ちょっと待ってほしいのだ。GPUって何なのだ?",
+      "news_index": 1,
+      "start_sec": 86.94,
+      "end_sec": 90.27
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "AIの計算を爆速でやる専用チップのことよ。今のAIブームを動かしてる、心臓部分ね。",
+      "news_index": 1,
+      "start_sec": 90.42,
+      "end_sec": 96.73
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "そのGPUを350億ドル分も買い込んで、税金は全部タダ。州、めっちゃ太っ腹なのだ……。",
+      "news_index": 1,
+      "start_sec": 96.88,
+      "end_sec": 104.91
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "州側にも理由はあって、建設ピーク時に5,000人、稼働後も500人以上の雇用が出る。",
+      "news_index": 1,
+      "start_sec": 105.06,
+      "end_sec": 110.92
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "ただね、33億ドルってルイジアナ州の警察予算7年分なのよ。地元から批判も出てる。",
+      "news_index": 1,
+      "start_sec": 111.0,
+      "end_sec": 117.19
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "警察予算7年分! メタのデータセンター1個と、州の治安7年が天秤に乗ってるのだ?",
+      "news_index": 1,
+      "start_sec": 117.34,
+      "end_sec": 125.62
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "yubisashi",
+      "text": "要するにね、AIの時代って大手テック企業が、州の予算と渡り合うスケールで動いてるってこと。",
+      "news_index": 1,
+      "start_sec": 125.77,
+      "end_sec": 131.86
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "ボクたちがチャットジーピーティーで遊んでる裏側で、こんなのが動いてるのだ……。",
+      "news_index": 1,
+      "start_sec": 132.01,
+      "end_sec": 136.62
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "あなたの月の電気代とは、全然違う世界よ。じゃ次行きましょ。",
+      "news_index": 1,
+      "start_sec": 136.77,
+      "end_sec": 141.06
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "次はマイクロソフトの話。100体超のAIを競わせて、ウィンドウズのバグを16個見つけたのよ。",
+      "news_index": 2,
+      "start_sec": 141.14,
+      "end_sec": 147.47
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "えっ、AI同士が喧嘩して見つけたってこと!?",
+      "news_index": 2,
+      "start_sec": 147.62,
+      "end_sec": 151.89
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そう、『議論型』って呼ばれてる仕組み。コードの怪しい所を巡って、AIたちが『これバグだ』『いや違う』って言い合うの。",
+      "news_index": 2,
+      "start_sec": 152.04,
+      "end_sec": 160.48
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "それ、ボクの宿題を100人の先生が議論してくれる感じなのだ?",
+      "news_index": 2,
+      "start_sec": 160.63,
+      "end_sec": 165.65
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "規模感は違うけど発想は近いわよ。普通は人間1人がバグ探すんだけど、それをAI100体で並列にやる。",
+      "news_index": 2,
+      "start_sec": 165.8,
+      "end_sec": 172.98
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "100倍速で済むってこと?",
+      "news_index": 2,
+      "start_sec": 173.13,
+      "end_sec": 175.08
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう単純じゃないけど、結果として人間が見落としてた4つの致命バグも、掘り出したらしい。",
+      "news_index": 2,
+      "start_sec": 175.23,
+      "end_sec": 180.78
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "それヤバいのだ。ウィンドウズって世界中のかたが使ってるじゃん!",
+      "news_index": 2,
+      "start_sec": 180.93,
+      "end_sec": 184.66
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、しかも見つかったのは通信周りの基盤部分。攻撃者が先に見つける前に潰せたって意味で、大きいわ。",
+      "news_index": 2,
+      "start_sec": 184.81,
+      "end_sec": 191.78
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "100体の警備ロボが夜通し見回ってるみたいなものなのだ?",
+      "news_index": 2,
+      "start_sec": 191.93,
+      "end_sec": 196.17
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "比喩としては悪くないわ。その『AIロボ警備員』が、現実になり始めてる。",
+      "news_index": 2,
+      "start_sec": 196.32,
+      "end_sec": 201.67
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "yubisashi",
+      "text": "要するに、これから攻撃側のAIと守る側のAIの総力戦。私たちのパソコンを守る競争が、AI同士の戦いに変わるってこと。",
+      "news_index": 2,
+      "start_sec": 201.75,
+      "end_sec": 210.8
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "ボクが寝てる間に、画面の中でバトルが起きてるのだ……。",
+      "news_index": 2,
+      "start_sec": 210.95,
+      "end_sec": 214.46
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "3本目はアンソロピックね。クロードの中小企業向けバージョンを、出してきた。",
+      "news_index": 3,
+      "start_sec": 214.61,
+      "end_sec": 219.4
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "クロードって、あのクロードのことなのだ?",
+      "news_index": 3,
+      "start_sec": 219.55,
+      "end_sec": 222.19
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、あのクロード。今回は会計ソフトとか決済サービスと連携して、業務を自動でこなす仕様。",
+      "news_index": 3,
+      "start_sec": 222.34,
+      "end_sec": 228.65
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "会計ソフトって、クイックブックスとかいう名前のやつ? 図書館の貸出システムみたいな名前なのだ。",
+      "news_index": 3,
+      "start_sec": 228.8,
+      "end_sec": 237.27
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "全然違うわ、アメリカで中小企業がめちゃくちゃ使ってる、会計ソフトよ。",
+      "news_index": 3,
+      "start_sec": 237.42,
+      "end_sec": 242.3
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "クイックブックス、ペイパル、ハブスポット、キャンバとか、業務系のサービス8種類と、最初から繋がる。",
+      "news_index": 3,
+      "start_sec": 242.38,
+      "end_sec": 248.99
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "で、クロードが経理から請求書まで、全部やってくれるってこと?",
+      "news_index": 3,
+      "start_sec": 249.14,
+      "end_sec": 254.17
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "給与計算、月末締め、現金繰り、テンプレが15個最初から入ってる。仕事のパターンが先回りで用意されてる感じ。",
+      "news_index": 3,
+      "start_sec": 254.32,
+      "end_sec": 262.32
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "それ、社長が『クロードにやらせとけ』って丸投げできるじゃん!",
+      "news_index": 3,
+      "start_sec": 262.47,
+      "end_sec": 267.06
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "完全丸投げはまだ無理ね。送信前に『これで送っていい?』って、必ず人間に確認してくる設計。",
+      "news_index": 3,
+      "start_sec": 267.21,
+      "end_sec": 274.4
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "意外と慎重なやつなのだ。",
+      "news_index": 3,
+      "start_sec": 274.55,
+      "end_sec": 276.41
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "yubisashi",
+      "text": "比喩で言うと、新人秘書が書類を全部作ってきて、社長がハンコ押すだけって感じね。",
+      "news_index": 3,
+      "start_sec": 276.56,
+      "end_sec": 281.92
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "つまり、近所のパパママショップでも、事務員を雇わずにAIで回せちゃう時代なのだ……。",
+      "news_index": 3,
+      "start_sec": 282.07,
+      "end_sec": 290.4
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこね。事務系の仕事が一気に減る可能性は、現実的に見えてきたわ。",
+      "news_index": 3,
+      "start_sec": 290.55,
+      "end_sec": 295.27
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "4本目はちょっと重め、マスクとオープンエーアイの訴訟の話。最終弁論が終わったの。",
+      "news_index": 4,
+      "start_sec": 295.35,
+      "end_sec": 300.94
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "あれって、マスクが『金出したのに話が違うじゃん』って怒ってるやつだっけ?",
+      "news_index": 4,
+      "start_sec": 301.09,
+      "end_sec": 306.32
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ざっくりはそう。元々オープンエーアイは非営利の研究所で、マスクも初期に出資してたのよ。",
+      "news_index": 4,
+      "start_sec": 306.47,
+      "end_sec": 312.21
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それが営利企業に切り替わって、マスクは『約束破られた』って言ってる。",
+      "news_index": 4,
+      "start_sec": 312.29,
+      "end_sec": 316.97
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "それ、部活で集めた部費でいきなりお店始めたみたいなものなのだ?",
+      "news_index": 4,
+      "start_sec": 317.12,
+      "end_sec": 322.02
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "雑だけど、マスクの言いたいことはそれに近いわ。",
+      "news_index": 4,
+      "start_sec": 322.17,
+      "end_sec": 325.15
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "でもマスク自身も、エックスエーアイとかグロックとか作ってるよね?",
+      "news_index": 4,
+      "start_sec": 325.3,
+      "end_sec": 329.54
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "そこよ。自分も同じAI競争で稼ぎながら訴訟してるから、オープンエーアイ側は『お前も同じ穴のムジナだろ』って突いてる。",
+      "news_index": 4,
+      "start_sec": 329.69,
+      "end_sec": 337.74
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "訴訟しながら自分の会社も伸ばすって、忙しすぎるのだ。",
+      "news_index": 4,
+      "start_sec": 337.89,
+      "end_sec": 342.97
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "判決自体はまだ出てないけど、争点は『AIを束ねる人間を信頼していいのか』っていう、結構深いテーマなの。",
+      "news_index": 4,
+      "start_sec": 343.12,
+      "end_sec": 350.83
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "信頼ってめっちゃ哲学的なのだ。",
+      "news_index": 4,
+      "start_sec": 350.98,
+      "end_sec": 353.25
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "yubisashi",
+      "text": "要するに、判決次第ではAI企業の組織ルールが変わる。非営利のフリして営利化するのが、法的にNGになる先例になりうる。",
+      "news_index": 4,
+      "start_sec": 353.4,
+      "end_sec": 361.6
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ボクたちのチャットジーピーティー料金には直接関係ないけど、これから出るAI企業の作りに効くってことなのだね。",
+      "news_index": 4,
+      "start_sec": 361.75,
+      "end_sec": 368.99
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ラスト5本目は身近な話。チャットジーピーティーが銀行口座と連携して、家計の管理をしてくれる機能を出した。",
+      "news_index": 5,
+      "start_sec": 369.14,
+      "end_sec": 376.17
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "えっ、チャットジーピーティーが、ボクの銀行残高まで見れちゃうのだ!?",
+      "news_index": 5,
+      "start_sec": 376.32,
+      "end_sec": 382.53
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "見れるのよ。『プレイド』っていう金融データの仲介役を経由してね。",
+      "news_index": 5,
+      "start_sec": 382.68,
+      "end_sec": 387.16
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "プレイド? 初耳なのだ。",
+      "news_index": 5,
+      "start_sec": 387.31,
+      "end_sec": 389.28
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "アメリカでは金融サービス同士を繋ぐ裏方として、標準的なインフラよ。12,000以上の銀行や証券会社と接続済み。",
+      "news_index": 5,
+      "start_sec": 389.43,
+      "end_sec": 397.7
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "で、ボクのコンビニ通い癖が全部、チャットジーピーティーにバレちゃうってことなのだ?",
+      "news_index": 5,
+      "start_sec": 397.85,
+      "end_sec": 404.95
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そうよ。『テイクアウト頼みすぎ』とか『サブスク被ってる』とか、容赦なく指摘してくる。",
+      "news_index": 5,
+      "start_sec": 405.1,
+      "end_sec": 410.6
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "それ、お母さんより厳しいやつなのだ……。",
+      "news_index": 5,
+      "start_sec": 410.75,
+      "end_sec": 414.56
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ただし読み取り専用ね。残高と取引履歴は見えるけど、勝手に振込したり口座番号を全部覗くのはできない設計。",
+      "news_index": 5,
+      "start_sec": 414.71,
+      "end_sec": 422.53
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "それなら少しは安心なのだ。でも見られてるだけでも、恥ずかしいじゃん。",
+      "news_index": 5,
+      "start_sec": 422.68,
+      "end_sec": 427.71
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "便利さと『AI企業に家計の中身を渡す気持ち悪さ』のトレードオフね。今はアメリカのプロプラン向けに、先行公開中。",
+      "news_index": 5,
+      "start_sec": 427.86,
+      "end_sec": 436.01
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "yubisashi",
+      "text": "要するに、お金の管理がアプリで確認する時代から、AIに聞いて答えてもらう時代に変わる兆しよ。",
+      "news_index": 5,
+      "start_sec": 436.09,
+      "end_sec": 442.45
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "日本に来た時、ボクはお菓子代がバレるから、多分使わないのだ……。",
+      "news_index": 5,
+      "start_sec": 442.6,
+      "end_sec": 446.88
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "はい、ということで今朝のテック5本立てでした。",
+      "news_index": 0,
+      "start_sec": 447.03,
+      "end_sec": 449.91
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "データセンターのスケール感が、エグかったのだー!",
+      "news_index": 0,
+      "start_sec": 450.06,
+      "end_sec": 453.67
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "あとはAIがAIのバグ探したり、お金の管理したり。結局AIが全方位に染み出してる回だったわね。",
+      "news_index": 0,
+      "start_sec": 453.82,
+      "end_sec": 460.57
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "気になったやつあったら、自分で調べてみてほしいのだー。",
+      "news_index": 0,
+      "start_sec": 460.72,
+      "end_sec": 464.25
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃ、また明日の朝便で。今日も一日いい日になりますように。",
+      "news_index": 0,
+      "start_sec": 464.4,
+      "end_sec": 468.5
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボクは家でゴロゴロしてるけど、みんなは行ってらっしゃいなのだー!",
+      "news_index": 0,
+      "start_sec": 468.65,
+      "end_sec": 472.49
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "あなたも何かしなさいよ。",
+      "news_index": 0,
+      "start_sec": 472.64,
+      "end_sec": 474.26
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 474.96,
+      "end_sec": 482.66
+    }
+  ],
+  "wall_time_sec": 11.95,
+  "audio_url": "/audio/ai/20260516_131741.mp3?v=1778907954"
+}
