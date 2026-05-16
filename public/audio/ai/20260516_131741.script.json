@@ -5,7 +5,7 @@
   "segments": [
     {
       "speaker": "metan",
-      "tone": "mic",
+      "tone": "normal",
       "text": "おはようございます、旅の道ラジオ朝便。今日もテックニュースの回でお送りします、四国めたんよ。",
       "news_index": 0
     },
@@ -119,7 +119,7 @@
     },
     {
       "speaker": "metan",
-      "tone": "yubisashi",
+      "tone": "niyari",
       "text": "要するにね、AIの時代って大手テック企業が、州の予算と渡り合うスケールで動いてるってこと。",
       "news_index": 1
     },
@@ -203,7 +203,7 @@
     },
     {
       "speaker": "metan",
-      "tone": "yubisashi",
+      "tone": "niyari",
       "text": "要するに、これから攻撃側のAIと守る側のAIの総力戦。私たちのパソコンを守る競争が、AI同士の戦いに変わるってこと。",
       "news_index": 2
     },
@@ -281,7 +281,7 @@
     },
     {
       "speaker": "metan",
-      "tone": "yubisashi",
+      "tone": "niyari",
       "text": "比喩で言うと、新人秘書が書類を全部作ってきて、社長がハンコ押すだけって感じね。",
       "news_index": 3
     },
@@ -365,7 +365,7 @@
     },
     {
       "speaker": "metan",
-      "tone": "yubisashi",
+      "tone": "niyari",
       "text": "要するに、判決次第ではAI企業の組織ルールが変わる。非営利のフリして営利化するのが、法的にNGになる先例になりうる。",
       "news_index": 4
     },
@@ -443,7 +443,7 @@
     },
     {
       "speaker": "metan",
-      "tone": "yubisashi",
+      "tone": "niyari",
       "text": "要するに、お金の管理がアプリで確認する時代から、AIに聞いて答えてもらう時代に変わる兆しよ。",
       "news_index": 5
     },
@@ -498,8 +498,8 @@
   ],
   "program_description": "今朝のテックニュース朝便は5本立て。メタがルイジアナ州に建てる巨大データセンター『ハイペリオン』への33億ドル税制優遇から始まり、マイクロソフトが100体超のAIエージェントを競わせてウィンドウズの脆弱性を16個発見した話、アンソロピックが中小企業向けに出したクロードの業務代行版、最終弁論が終わったマスク対オープンエーアイ訴訟の行方、そしてチャットジーピーティーが銀行口座と連携して家計を管理してくれる新機能まで。専門用語は四国めたんが日常言葉に翻訳しつつ、ずんだもんがリスナー目線で素朴な疑問をぶつけていく雑談回。",
   "featured_game": {
-    "image_rel": "/images/topics/tech_20260516_131741_chars.jpg",
-    "hero_rel": "/images/topics/tech_20260516_131741.jpg",
+    "image_rel": "/images/topics/tech_20260516_131741_chars.webp",
+    "hero_rel": "/images/topics/tech_20260516_131741.webp",
     "title": "「噛み砕けば見えるテック 〜朝の業界5本立て〜」"
   },
   "summary_short": "メタの33億ドル巨大データセンター、AIが自力でWindowsの脆弱性を16個発見、中小企業向けClaude登場、最終弁論を終えたマスク訴訟の行方、ChatGPTの家計管理機能——5本のテックニュースをめたん＆ずんだもんが気軽に噛み砕く。"
