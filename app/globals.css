@@ -2,6 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
+/* スクロールバーの有無で水平 layout が動かないように予約領域を確保
+   (タブ切替でエピソード数が変わって縦スクロールが出る/消える時のガタつき防止) */
+html {
+  scrollbar-gutter: stable;
+}
+
 body {
   color: rgb(255, 255, 255);
   background: #1a0e08;
