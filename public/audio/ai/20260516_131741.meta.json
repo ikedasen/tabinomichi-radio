@@ -1,9 +1,10 @@
 {
   "profile": "ai",
-  "generated_at": "2026-05-16T15:56:02.925201",
+  "generated_at": "2026-05-16T16:40:20.861159",
   "title": "「噛み砕けば見えるテック 〜朝の業界5本立て〜」",
   "audio_path": "ai_latest.wav",
-  "duration_sec": 486.9,
+  "duration_sec": 486.76,
+  "script_hash": "sha256:8cf168e0db5b06e195f833d128408197691315420e31ed660aa982780c991f72",
   "segments": [
     {
       "index": -1,
@@ -437,10 +438,10 @@
       "type": "speech",
       "speaker": "metan",
       "tone": "normal",
-      "text": "給与計算、月末締め、現金繰り、テンプレが15個最初から入ってる。仕事のパターンが先回りで用意されてる感じ。",
+      "text": "給与計算、月末締め、資金繰り、テンプレが15個最初から入ってる。仕事のパターンが先回りで用意されてる感じ。",
       "news_index": 3,
       "start_sec": 258.54,
-      "end_sec": 266.53
+      "end_sec": 266.4
     },
     {
       "index": 43,
@@ -449,8 +450,8 @@
       "tone": "niyari",
       "text": "それ、社長が『クロードにやらせとけ』って丸投げできるじゃん!",
       "news_index": 3,
-      "start_sec": 266.68,
-      "end_sec": 271.27
+      "start_sec": 266.55,
+      "end_sec": 271.13
     },
     {
       "index": 44,
@@ -459,8 +460,8 @@
       "tone": "normal",
       "text": "完全丸投げはまだ無理ね。送信前に『これで送っていい?』って、必ず人間に確認してくる設計。",
       "news_index": 3,
-      "start_sec": 271.42,
-      "end_sec": 278.61
+      "start_sec": 271.28,
+      "end_sec": 278.47
     },
     {
       "index": 45,
@@ -469,8 +470,8 @@
       "tone": "nagomi",
       "text": "意外と慎重なやつなのだ。",
       "news_index": 3,
-      "start_sec": 278.76,
-      "end_sec": 280.62
+      "start_sec": 278.62,
+      "end_sec": 280.48
     },
     {
       "index": 46,
@@ -479,8 +480,8 @@
       "tone": "niyari",
       "text": "比喩で言うと、新人秘書が書類を全部作ってきて、社長がハンコ押すだけって感じね。",
       "news_index": 3,
-      "start_sec": 280.77,
-      "end_sec": 286.13
+      "start_sec": 280.63,
+      "end_sec": 285.99
     },
     {
       "index": 47,
@@ -489,8 +490,8 @@
       "tone": "herohero",
       "text": "つまり、近所のパパママショップでも、事務員を雇わずにAIで回せちゃう時代なのだ……。",
       "news_index": 3,
-      "start_sec": 286.28,
-      "end_sec": 294.61
+      "start_sec": 286.14,
+      "end_sec": 294.47
     },
     {
       "index": 48,
@@ -499,8 +500,8 @@
       "tone": "normal",
       "text": "そこね。事務系の仕事が一気に減る可能性は、現実的に見えてきたわ。",
       "news_index": 3,
-      "start_sec": 294.76,
-      "end_sec": 299.48
+      "start_sec": 294.62,
+      "end_sec": 299.34
     },
     {
       "index": 49,
@@ -509,8 +510,8 @@
       "tone": "normal",
       "text": "4本目はちょっと重め、マスクとオープンエーアイの訴訟の話。最終弁論が終わったの。",
       "news_index": 4,
-      "start_sec": 299.56,
-      "end_sec": 305.12
+      "start_sec": 299.42,
+      "end_sec": 304.99
     },
     {
       "index": 50,
@@ -519,8 +520,8 @@
       "tone": "normal",
       "text": "あれって、マスクが『金出したのに話が違うじゃん』って怒ってるやつだっけ?",
       "news_index": 4,
-      "start_sec": 305.27,
-      "end_sec": 310.55
+      "start_sec": 305.14,
+      "end_sec": 310.42
     },
     {
       "index": 51,
@@ -529,8 +530,8 @@
       "tone": "normal",
       "text": "ざっくりはそう。元々オープンエーアイは非営利の研究所で、マスクも初期に出資してたのよ。",
       "news_index": 4,
-      "start_sec": 310.7,
-      "end_sec": 316.44
+      "start_sec": 310.57,
+      "end_sec": 316.3
     },
     {
       "index": 52,
@@ -539,8 +540,8 @@
       "tone": "normal",
       "text": "それが営利企業に切り替わって、マスクは『約束破られた』って言ってる。",
       "news_index": 4,
-      "start_sec": 316.52,
-      "end_sec": 321.21
+      "start_sec": 316.38,
+      "end_sec": 321.07
     },
     {
       "index": 53,
@@ -549,8 +550,8 @@
       "tone": "amaama",
       "text": "それ、部活で集めた部費でいきなりお店始めたみたいなものなのだ?",
       "news_index": 4,
-      "start_sec": 321.36,
-      "end_sec": 326.25
+      "start_sec": 321.22,
+      "end_sec": 326.11
     },
     {
       "index": 54,
@@ -559,8 +560,8 @@
       "tone": "niyari",
       "text": "雑だけど、マスクの言いたいことはそれに近いわ。",
       "news_index": 4,
-      "start_sec": 326.4,
-      "end_sec": 329.38
+      "start_sec": 326.26,
+      "end_sec": 329.24
     },
     {
       "index": 55,
@@ -569,8 +570,8 @@
       "tone": "normal",
       "text": "でもマスク自身も、エックスエーアイとかグロックとか作ってるよね?",
       "news_index": 4,
-      "start_sec": 329.53,
-      "end_sec": 333.77
+      "start_sec": 329.39,
+      "end_sec": 333.63
     },
     {
       "index": 56,
@@ -579,8 +580,8 @@
       "tone": "tsuntsun",
       "text": "そこよ。自分も同じAI競争で稼ぎながら訴訟してるから、オープンエーアイ側は『お前も同じ穴のムジナだろ』って突いてる。",
       "news_index": 4,
-      "start_sec": 333.92,
-      "end_sec": 341.98
+      "start_sec": 333.78,
+      "end_sec": 341.84
     },
     {
       "index": 57,
@@ -589,8 +590,8 @@
       "tone": "gurugru",
       "text": "訴訟しながら自分の会社も伸ばすって、忙しすぎるのだ。",
       "news_index": 4,
-      "start_sec": 342.13,
-      "end_sec": 347.2
+      "start_sec": 341.99,
+      "end_sec": 347.07
     },
     {
       "index": 58,
@@ -599,8 +600,8 @@
       "tone": "normal",
       "text": "判決自体はまだ出てないけど、争点は『AIを束ねる人間を信頼していいのか』っていう、結構深いテーマなの。",
       "news_index": 4,
-      "start_sec": 347.35,
-      "end_sec": 355.07
+      "start_sec": 347.22,
+      "end_sec": 354.93
     },
     {
       "index": 59,
@@ -609,8 +610,8 @@
       "tone": "normal",
       "text": "信頼ってめっちゃ哲学的なのだ。",
       "news_index": 4,
-      "start_sec": 355.22,
-      "end_sec": 357.48
+      "start_sec": 355.08,
+      "end_sec": 357.34
     },
     {
       "index": 60,
@@ -619,8 +620,8 @@
       "tone": "niyari",
       "text": "要するに、判決次第ではAI企業の組織ルールが変わる。非営利のフリして営利化するのが、法的にNGになる先例になりうる。",
       "news_index": 4,
-      "start_sec": 357.63,
-      "end_sec": 365.83
+      "start_sec": 357.49,
+      "end_sec": 365.69
     },
     {
       "index": 61,
@@ -629,8 +630,8 @@
       "tone": "normal",
       "text": "ボクたちのチャットジーピーティー料金には直接関係ないけど、これから出るAI企業の作りに効くってことなのだね。",
       "news_index": 4,
-      "start_sec": 365.98,
-      "end_sec": 373.22
+      "start_sec": 365.84,
+      "end_sec": 373.08
     },
     {
       "index": 62,
@@ -639,8 +640,8 @@
       "tone": "normal",
       "text": "ラスト5本目は身近な話。チャットジーピーティーが銀行口座と連携して、家計の管理をしてくれる機能を出した。",
       "news_index": 5,
-      "start_sec": 373.37,
-      "end_sec": 380.4
+      "start_sec": 373.23,
+      "end_sec": 380.26
     },
     {
       "index": 63,
@@ -649,8 +650,8 @@
       "tone": "gurugru",
       "text": "えっ、チャットジーピーティーが、ボクの銀行残高まで見れちゃうのだ!?",
       "news_index": 5,
-      "start_sec": 380.55,
-      "end_sec": 386.76
+      "start_sec": 380.41,
+      "end_sec": 386.62
     },
     {
       "index": 64,
@@ -659,8 +660,8 @@
       "tone": "normal",
       "text": "見れるのよ。『プレイド』っていう金融データの仲介役を経由してね。",
       "news_index": 5,
-      "start_sec": 386.91,
-      "end_sec": 391.39
+      "start_sec": 386.77,
+      "end_sec": 391.25
     },
     {
       "index": 65,
@@ -669,8 +670,8 @@
       "tone": "normal",
       "text": "プレイド? 初耳なのだ。",
       "news_index": 5,
-      "start_sec": 391.54,
-      "end_sec": 393.51
+      "start_sec": 391.4,
+      "end_sec": 393.37
     },
     {
       "index": 66,
@@ -679,8 +680,8 @@
       "tone": "normal",
       "text": "アメリカでは金融サービス同士を繋ぐ裏方として、標準的なインフラよ。12,000以上の銀行や証券会社と接続済み。",
       "news_index": 5,
-      "start_sec": 393.66,
-      "end_sec": 401.93
+      "start_sec": 393.52,
+      "end_sec": 401.79
     },
     {
       "index": 67,
@@ -689,8 +690,8 @@
       "tone": "namidame",
       "text": "で、ボクのコンビニ通い癖が全部、チャットジーピーティーにバレちゃうってことなのだ?",
       "news_index": 5,
-      "start_sec": 402.08,
-      "end_sec": 409.18
+      "start_sec": 401.94,
+      "end_sec": 409.05
     },
     {
       "index": 68,
@@ -699,8 +700,8 @@
       "tone": "niyari",
       "text": "そうよ。『テイクアウト頼みすぎ』とか『サブスク被ってる』とか、容赦なく指摘してくる。",
       "news_index": 5,
-      "start_sec": 409.33,
-      "end_sec": 414.84
+      "start_sec": 409.2,
+      "end_sec": 414.7
     },
     {
       "index": 69,
@@ -709,8 +710,8 @@
       "tone": "herohero",
       "text": "それ、お母さんより厳しいやつなのだ……。",
       "news_index": 5,
-      "start_sec": 414.99,
-      "end_sec": 418.81
+      "start_sec": 414.85,
+      "end_sec": 418.67
     },
     {
       "index": 70,
@@ -719,8 +720,8 @@
       "tone": "normal",
       "text": "ただし読み取り専用ね。残高と取引履歴は見えるけど、勝手に振込したり口座番号を全部覗くのはできない設計。",
       "news_index": 5,
-      "start_sec": 418.96,
-      "end_sec": 426.78
+      "start_sec": 418.82,
+      "end_sec": 426.64
     },
     {
       "index": 71,
@@ -729,8 +730,8 @@
       "tone": "amaama",
       "text": "それなら少しは安心なのだ。でも見られてるだけでも、恥ずかしいじゃん。",
       "news_index": 5,
-      "start_sec": 426.93,
-      "end_sec": 431.95
+      "start_sec": 426.79,
+      "end_sec": 431.81
     },
     {
       "index": 72,
@@ -739,8 +740,8 @@
       "tone": "normal",
       "text": "便利さと『AI企業に家計の中身を渡す気持ち悪さ』のトレードオフね。今はアメリカのプロプラン向けに、先行公開中。",
       "news_index": 5,
-      "start_sec": 432.1,
-      "end_sec": 440.25
+      "start_sec": 431.96,
+      "end_sec": 440.11
     },
     {
       "index": 73,
@@ -749,8 +750,8 @@
       "tone": "niyari",
       "text": "要するに、お金の管理がアプリで確認する時代から、AIに聞いて答えてもらう時代に変わる兆しよ。",
       "news_index": 5,
-      "start_sec": 440.33,
-      "end_sec": 446.7
+      "start_sec": 440.19,
+      "end_sec": 446.56
     },
     {
       "index": 74,
@@ -759,8 +760,8 @@
       "tone": "sasayaki",
       "text": "日本に来た時、ボクはお菓子代がバレるから、多分使わないのだ……。",
       "news_index": 5,
-      "start_sec": 446.85,
-      "end_sec": 451.12
+      "start_sec": 446.71,
+      "end_sec": 450.99
     },
     {
       "index": 75,
@@ -769,8 +770,8 @@
       "tone": "normal",
       "text": "はい、ということで今朝のテック5本立てでした。",
       "news_index": 0,
-      "start_sec": 451.27,
-      "end_sec": 454.15
+      "start_sec": 451.14,
+      "end_sec": 454.02
     },
     {
       "index": 76,
@@ -779,8 +780,8 @@
       "tone": "amaama",
       "text": "データセンターのスケール感が、エグかったのだー!",
       "news_index": 0,
-      "start_sec": 454.3,
-      "end_sec": 457.91
+      "start_sec": 454.17,
+      "end_sec": 457.77
     },
     {
       "index": 77,
@@ -789,8 +790,8 @@
       "tone": "normal",
       "text": "あとはAIがAIのバグ探したり、お金の管理したり。結局AIが全方位に染み出してる回だったわね。",
       "news_index": 0,
-      "start_sec": 458.06,
-      "end_sec": 464.81
+      "start_sec": 457.92,
+      "end_sec": 464.67
     },
     {
       "index": 78,
@@ -799,8 +800,8 @@
       "tone": "nagomi",
       "text": "気になったやつあったら、自分で調べてみてほしいのだー。",
       "news_index": 0,
-      "start_sec": 464.96,
-      "end_sec": 468.49
+      "start_sec": 464.82,
+      "end_sec": 468.35
     },
     {
       "index": 79,
@@ -809,8 +810,8 @@
       "tone": "normal",
       "text": "じゃ、また明日の朝便で。今日も一日いい日になりますように。",
       "news_index": 0,
-      "start_sec": 468.64,
-      "end_sec": 472.74
+      "start_sec": 468.5,
+      "end_sec": 472.6
     },
     {
       "index": 80,
@@ -819,8 +820,8 @@
       "tone": "mic",
       "text": "ボクは家でゴロゴロしてるけど、みんなは行ってらっしゃいなのだー!",
       "news_index": 0,
-      "start_sec": 472.89,
-      "end_sec": 476.73
+      "start_sec": 472.75,
+      "end_sec": 476.59
     },
     {
       "index": 81,
@@ -829,17 +830,17 @@
       "tone": "tsuntsun",
       "text": "あなたも何かしなさいよ。",
       "news_index": 0,
-      "start_sec": 476.88,
-      "end_sec": 478.5
+      "start_sec": 476.74,
+      "end_sec": 478.36
     },
     {
       "index": 9999,
       "type": "outro",
       "text": "🎵 ジングル + またね！",
-      "start_sec": 479.2,
-      "end_sec": 486.9
+      "start_sec": 479.06,
+      "end_sec": 486.76
     }
   ],
-  "wall_time_sec": 10.85,
-  "audio_url": "/audio/ai/20260516_131741.mp3?v=1778914566"
+  "wall_time_sec": 11.18,
+  "audio_url": "/audio/ai/20260516_131741.mp3?v=1778917225"
 }
