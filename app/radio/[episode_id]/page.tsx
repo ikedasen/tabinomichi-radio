@@ -33,16 +33,15 @@ export const dynamicParams = false
 
 export async function generateStaticParams() {
   const all = await loadEpisodes()
-  return all
-    .filter((e) => e.profile === 'indie')
-    .map((e) => ({ episode_id: e.episode_id }))
+  // indie / ai 両プロファイル対応
+  return all.map((e) => ({ episode_id: e.episode_id }))
 }
 
 export async function generateMetadata(
   { params }: { params: { episode_id: string } }
 ): Promise<Metadata> {
   const all = await loadEpisodes()
-  const ep = all.find((e) => e.episode_id === params.episode_id && e.profile === 'indie')
+  const ep = all.find((e) => e.episode_id === params.episode_id)
   if (!ep) {
     return { title: '旅の道ラジオ' }
   }
