@@ -186,8 +186,9 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
   const urlEpisode = searchParams?.get('episode') || initialEpisode || null
   const urlDate = searchParams?.get('date') || null  // YYYY-MM-DD: この日付の連続再生キュー
   const urlQueue = searchParams?.get('queue') === '1'
-  const profile: 'indie' = 'indie'  // 静的サイトでは indie 固定
-  const setProfile = (_p: 'ai' | 'indie') => {}
+  // 個別 episode URL (?episode=YYYYMMDD_HHMMSS or /radio/<id>) の profile を
+  // 動的解決する。初期 fetch で all episodes を読んでから決定する。
+  const [profile, setProfile] = useState<'indie' | 'ai'>('indie')
   const [episodes, setEpisodes] = useState<Array<{ episode_id: string; title: string; generated_at: string | null }>>([])
   const [currentEpisode, setCurrentEpisode] = useState<string | null>(urlEpisode)
   const [queueIds, setQueueIds] = useState<string[]>([])  // 連続再生キュー (新しい順)
@@ -203,7 +204,17 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
     fetch('/data/episodes.json', { cache: 'no-store' })
       .then((r) => r.ok ? r.json() : { episodes: [] })
       .then((d) => {
-        const all = (d.episodes || []).filter((e: any) => e.profile === profile)
+        const raw: any[] = d.episodes || []
+        // initialEpisode or URL ?episode= の profile を見て決定 (なければ indie)
+        let resolvedProfile: 'indie' | 'ai' = profile
+        if (urlEpisode) {
+          const target = raw.find((e: any) => e.episode_id === urlEpisode)
+          if (target && (target.profile === 'indie' || target.profile === 'ai')) {
+            resolvedProfile = target.profile
+          }
+        }
+        if (resolvedProfile !== profile) setProfile(resolvedProfile)
+        const all = raw.filter((e: any) => e.profile === resolvedProfile)
         setAllEpisodes(all)
         setEpisodes(all)
         if (urlQueue && urlDate) {
@@ -215,7 +226,7 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
         }
       })
       .catch(() => setEpisodes([]))
-  }, [profile, urlQueue, urlDate])
+  }, [urlEpisode, urlQueue, urlDate])
   const [program, setProgram] = useState<ProgramMeta | null>(null)
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState<string | null>(null)

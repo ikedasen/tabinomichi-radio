@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from 'react'
 import Link from 'next/link'
-import { useSearchParams } from 'next/navigation'
+import { useSearchParams, useRouter, usePathname } from 'next/navigation'
 import LoadingSpinner from './components/LoadingSpinner'
 import SharePopover from './components/SharePopover'
 
@@ -94,6 +94,12 @@ export default function PageClient() {
   const initialProfile: Profile =
     searchParamsForProfile?.get('profile') === 'ai' ? 'ai' : 'indie'
   const [profile, setProfile] = useState<Profile>(initialProfile)
+  // 戻る/進むで URL が変わった時、profile state を URL と同期させる
+  useEffect(() => {
+    const fromUrl: Profile =
+      searchParamsForProfile?.get('profile') === 'ai' ? 'ai' : 'indie'
+    setProfile((prev) => (prev === fromUrl ? prev : fromUrl))
+  }, [searchParamsForProfile])
   const [allEpisodes, setAllEpisodes] = useState<Episode[]>([])
   const [loading, setLoading] = useState(true)
   const [viewCounts, setViewCounts] = useState<Record<string, number>>({})
@@ -132,18 +138,18 @@ export default function PageClient() {
   const filterGenre = searchParams?.get('genre') || null
 
   // タブ切替時に URL を ?profile=ai / 削除で更新 (戻る/共有で復元できるように)
+  // Next.js router.replace を使うことで useSearchParams() も同期させる
+  // (window.history.replaceState だけだと React state が更新されず、戻ったときに
+  //  initial profile に戻ってしまう問題があったため)
+  const router = useRouter()
+  const pathname = usePathname() || '/'
   const handleProfileChange = (next: Profile) => {
     setProfile(next)
-    if (typeof window !== 'undefined') {
-      const url = new URL(window.location.href)
-      if (next === 'indie') {
-        url.searchParams.delete('profile')
-      } else {
-        url.searchParams.set('profile', next)
-      }
-      url.searchParams.delete('genre') // ジャンルフィルタも解除
-      window.history.replaceState({}, '', url.toString())
-    }
+    const params = new URLSearchParams()
+    if (next !== 'indie') params.set('profile', next)
+    // ジャンルフィルタは解除 (タブ切替時は別カテゴリへ移るため)
+    const qs = params.toString()
+    router.replace(qs ? `${pathname}?${qs}` : pathname, { scroll: false })
   }
 
   const filteredEpisodes = filterGenre
