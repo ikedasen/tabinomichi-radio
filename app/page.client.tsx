@@ -87,8 +87,14 @@ const MaskIcon = ({ src, className = '', style = {} }: { src: string; className?
   }} />
 )
 
+type Profile = 'indie' | 'ai'
+
 export default function PageClient() {
-  const [episodes, setEpisodes] = useState<Episode[]>([])
+  const searchParamsForProfile = useSearchParams()
+  const initialProfile: Profile =
+    searchParamsForProfile?.get('profile') === 'ai' ? 'ai' : 'indie'
+  const [profile, setProfile] = useState<Profile>(initialProfile)
+  const [allEpisodes, setAllEpisodes] = useState<Episode[]>([])
   const [loading, setLoading] = useState(true)
   const [viewCounts, setViewCounts] = useState<Record<string, number>>({})
 
@@ -98,13 +104,14 @@ export default function PageClient() {
       .then((r) => r.ok ? r.json() : { episodes: [] })
       .then((d) => {
         if (cancelled) return
-        const all: Episode[] = d.episodes || []
-        setEpisodes(all.filter((e) => e.profile === 'indie'))
+        setAllEpisodes(d.episodes || [])
       })
-      .catch(() => { if (!cancelled) setEpisodes([]) })
+      .catch(() => { if (!cancelled) setAllEpisodes([]) })
       .finally(() => { if (!cancelled) setLoading(false) })
     return () => { cancelled = true }
   }, [])
+
+  const episodes = allEpisodes.filter((e) => e.profile === profile)
 
   // バッチで全エピソードの再生数を 1 リクエストで取得 (N 並列 fetch しない)
   useEffect(() => {
@@ -123,6 +130,21 @@ export default function PageClient() {
 
   const searchParams = useSearchParams()
   const filterGenre = searchParams?.get('genre') || null
+
+  // タブ切替時に URL を ?profile=ai / 削除で更新 (戻る/共有で復元できるように)
+  const handleProfileChange = (next: Profile) => {
+    setProfile(next)
+    if (typeof window !== 'undefined') {
+      const url = new URL(window.location.href)
+      if (next === 'indie') {
+        url.searchParams.delete('profile')
+      } else {
+        url.searchParams.set('profile', next)
+      }
+      url.searchParams.delete('genre') // ジャンルフィルタも解除
+      window.history.replaceState({}, '', url.toString())
+    }
+  }
 
   const filteredEpisodes = filterGenre
     ? episodes.filter((ep) => (ep.featured_game?.genres || []).includes(filterGenre))
@@ -170,6 +192,34 @@ export default function PageClient() {
       </header>
 
       <div className="max-w-5xl mx-auto px-4 py-8">
+        {/* プロファイル切替タブ */}
+        <div className="mb-6 flex items-center gap-2 border-b border-amber-200/15">
+          {([
+            { key: 'indie', label: 'インディーゲーム' },
+            { key: 'ai',    label: 'テックニュース' },
+          ] as { key: Profile; label: string }[]).map((tab) => {
+            const active = profile === tab.key
+            return (
+              <button
+                key={tab.key}
+                type="button"
+                onClick={() => handleProfileChange(tab.key)}
+                className={
+                  'relative px-4 py-2.5 text-sm md:text-base font-medium transition-colors ' +
+                  (active
+                    ? 'text-amber-200'
+                    : 'text-amber-100/50 hover:text-amber-100/80')
+                }
+              >
+                {tab.label}
+                {active && (
+                  <span className="absolute left-0 right-0 -bottom-px h-0.5 bg-amber-300" />
+                )}
+              </button>
+            )
+          })}
+        </div>
+
         {filterGenre && (
           <div className="mb-6 flex items-center gap-2 text-sm">
             <span className="text-amber-200/80">ジャンルで絞り込み中:</span>
