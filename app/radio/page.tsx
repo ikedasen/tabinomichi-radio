@@ -944,7 +944,7 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
                 // Indie で featured_game ある時はゲーム名 + 開発元、それ以外は記事サムネのタイトル
                 let displayTitle = ''
                 let displaySource = ''
-                if (profile === 'indie' && program.featured_game) {
+                if (program.featured_game) {
                   displayTitle = program.featured_game.title
                   const devs = program.featured_game.developers || []
                   displaySource = devs.length > 0 ? devs.join(' / ') : 'Steam'
@@ -1039,7 +1039,7 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
             </div>
 
             {/* モバイル時の概要パネル (デスクトップ時は右カラムが同じ情報を持つので非表示) */}
-            {profile === 'indie' && program.featured_game && (
+            {program.featured_game && (
               <div className="md:hidden mt-3 bg-black/30 backdrop-blur-sm rounded-2xl p-4 space-y-2 text-zinc-100">
                 <div className="flex items-baseline justify-between gap-3">
                   <h2 className="text-base font-bold leading-tight">{program.featured_game.title}</h2>
@@ -1078,7 +1078,7 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
             </div>
 
             {/* 右カラム (デスクトップのみ): Steam 横長 header (or fallback) + ゲーム概要 */}
-            {profile === 'indie' && program.featured_game && (program.featured_game.app_id || program.featured_game.image_rel) && (
+            {program.featured_game && (program.featured_game.app_id || program.featured_game.image_rel) && (
               <aside className="hidden md:block sticky top-6 self-start space-y-3">
                 {/* 右カラム header は固定 (rotation せず)、cover 画像 1 枚を表示。
                     左メイン jacket の方が 30 秒周期で cover+screenshots を rotate */}
