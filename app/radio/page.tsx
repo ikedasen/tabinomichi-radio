@@ -1120,40 +1120,44 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
                     {program.featured_game.developers?.length ? (
                       <span>👤 {program.featured_game.developers.join(' / ')}</span>
                     ) : null}
-                    <span className="inline-flex items-center gap-1">
-                      <span
-                        aria-hidden
-                        className="inline-block w-3.5 h-3.5 bg-current -translate-y-px"
-                        style={{
-                          WebkitMaskImage: "url(/icons/calendar.svg)",
-                          maskImage: "url(/icons/calendar.svg)",
-                          WebkitMaskSize: 'contain',
-                          maskSize: 'contain',
-                          WebkitMaskRepeat: 'no-repeat',
-                          maskRepeat: 'no-repeat',
-                          WebkitMaskPosition: 'center',
-                          maskPosition: 'center',
-                        }}
-                      />
-                      リリース: {program.featured_game.release_date?.trim() || '未定'}
-                    </span>
-                    <span className="inline-flex items-center gap-1">
-                      <span
-                        aria-hidden
-                        className="inline-block w-3.5 h-3.5 bg-current -translate-y-px"
-                        style={{
-                          WebkitMaskImage: "url(/icons/bill.svg)",
-                          maskImage: "url(/icons/bill.svg)",
-                          WebkitMaskSize: 'contain',
-                          maskSize: 'contain',
-                          WebkitMaskRepeat: 'no-repeat',
-                          maskRepeat: 'no-repeat',
-                          WebkitMaskPosition: 'center',
-                          maskPosition: 'center',
-                        }}
-                      />
-                      {program.featured_game.price?.trim() || '価格未定'}
-                    </span>
+                    {program.featured_game.release_date?.trim() ? (
+                      <span className="inline-flex items-center gap-1">
+                        <span
+                          aria-hidden
+                          className="inline-block w-3.5 h-3.5 bg-current -translate-y-px"
+                          style={{
+                            WebkitMaskImage: "url(/icons/calendar.svg)",
+                            maskImage: "url(/icons/calendar.svg)",
+                            WebkitMaskSize: 'contain',
+                            maskSize: 'contain',
+                            WebkitMaskRepeat: 'no-repeat',
+                            maskRepeat: 'no-repeat',
+                            WebkitMaskPosition: 'center',
+                            maskPosition: 'center',
+                          }}
+                        />
+                        リリース: {program.featured_game.release_date.trim()}
+                      </span>
+                    ) : null}
+                    {program.featured_game.price?.trim() ? (
+                      <span className="inline-flex items-center gap-1">
+                        <span
+                          aria-hidden
+                          className="inline-block w-3.5 h-3.5 bg-current -translate-y-px"
+                          style={{
+                            WebkitMaskImage: "url(/icons/bill.svg)",
+                            maskImage: "url(/icons/bill.svg)",
+                            WebkitMaskSize: 'contain',
+                            maskSize: 'contain',
+                            WebkitMaskRepeat: 'no-repeat',
+                            maskRepeat: 'no-repeat',
+                            WebkitMaskPosition: 'center',
+                            maskPosition: 'center',
+                          }}
+                        />
+                        {program.featured_game.price.trim()}
+                      </span>
+                    ) : null}
                   </div>
                   {program.featured_game.genres?.length ? (
                     <div className="flex flex-wrap gap-1.5 mb-3">

@@ -1,10 +1,10 @@
 {
   "profile": "ai",
-  "generated_at": "2026-05-17T11:21:39.790123",
-  "title": "AI のコストは見えないところで膨らむ 〜半導体・データセンター・著作権、朝のテック 5 本〜",
+  "generated_at": "2026-05-17T13:27:50.674507",
+  "title": "AI が世界を解く、世界が AI を問う 〜朝のテック雑談〜",
   "audio_path": "ai_latest.wav",
-  "duration_sec": 487.8,
-  "script_hash": "sha256:ffd37ddc1e81cf443ac9174b1b36013fbb9a680854e94fe3918e66ca61558ce4",
+  "duration_sec": 460.38,
+  "script_hash": "sha256:80d7213d2975839652caa86b06eaa820ca0c32b458ae81f2cf628ae056b07b8d",
   "segments": [
     {
       "index": -1,
@@ -28,849 +28,739 @@
       "type": "speech",
       "speaker": "zunda",
       "tone": "mic",
-      "text": "ボク、ずんだもんなのだー! 今朝もテック界隈の話、軽くサクッといくのだー!",
+      "text": "ボク、ずんだもんなのだー! 今日もテックの話、軽くサクッといく回なのだ!",
       "news_index": 0,
       "start_sec": 11.71,
-      "end_sec": 16.9
+      "end_sec": 16.68
     },
     {
       "index": 2,
       "type": "speech",
       "speaker": "metan",
       "tone": "normal",
-      "text": "通勤・通学のお供にね。今日は AI とかデータセンターの話題から、 5 本拾ってきたわ。",
+      "text": "今日は 5 本立てね。 AI がブラウザの脆弱性を自動攻略した研究、エックスエーアイの新しい開発ツール、アンソロピックとゲイツ財団の提携、オープンエーアイがアップルに不満、それと買ったゲームが消える問題への法案ね。",
       "news_index": 0,
-      "start_sec": 17.05,
-      "end_sec": 22.8
+      "start_sec": 16.83,
+      "end_sec": 31.1
     },
     {
       "index": 3,
       "type": "speech",
       "speaker": "zunda",
       "tone": "amaama",
-      "text": "えっ、5 本もあるのだ!? 朝から濃いのだー!",
+      "text": "通勤・通学のお供にぴったりじゃん!",
       "news_index": 0,
-      "start_sec": 22.95,
-      "end_sec": 26.38
+      "start_sec": 31.25,
+      "end_sec": 33.99
     },
     {
       "index": 4,
       "type": "speech",
       "speaker": "metan",
       "tone": "niyari",
-      "text": "深掘りはしないわよ。サクッと触れて次行く回。",
+      "text": "聴いてくれてるかた、コーヒー片手にゆるくついてきて。",
       "news_index": 0,
-      "start_sec": 26.53,
-      "end_sec": 29.52
+      "start_sec": 34.14,
+      "end_sec": 37.23
     },
     {
       "index": 5,
       "type": "speech",
-      "speaker": "zunda",
+      "speaker": "metan",
       "tone": "normal",
-      "text": "業界の今、 1 本でつかむやつね。じゃあ早速、 1 本目いくのだー!",
-      "news_index": 0,
-      "start_sec": 29.67,
-      "end_sec": 34.53
+      "text": "まず 1 本目。エックスエーアイがコーディング用 AI の「グロック・ビルド」を早期ベータで出したのよ。",
+      "news_index": 1,
+      "start_sec": 37.31,
+      "end_sec": 43.65
     },
     {
       "index": 6,
       "type": "speech",
-      "speaker": "metan",
-      "tone": "normal",
-      "text": "まず 1 本目。メタっていうフェイスブックの会社、覚えてる?",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "えっ、コーディング用 AI ? チャットジーピーティーじゃダメなのだ?",
       "news_index": 1,
-      "start_sec": 34.68,
-      "end_sec": 38.44
+      "start_sec": 43.8,
+      "end_sec": 49.52
     },
     {
       "index": 7,
       "type": "speech",
-      "speaker": "zunda",
+      "speaker": "metan",
       "tone": "normal",
-      "text": "覚えてるのだ! インスタとかワッツアップ持ってるとこね。",
+      "text": "コーディング用 AI ってのはね、プログラマーの代わりにコード書いてくれる AI のこと。クロード・コードとかギットハブのコパイロットが流行ってる分野ね。",
       "news_index": 1,
-      "start_sec": 38.59,
-      "end_sec": 42.02
+      "start_sec": 49.67,
+      "end_sec": 58.28
     },
     {
       "index": 8,
       "type": "speech",
-      "speaker": "metan",
-      "tone": "normal",
-      "text": "そのメタが、ルイジアナ州にバカでかいデータセンターを建ててるのよ。「ハイペリオン」って名前。",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ふむ、その仲間がまた増えたってことなのだ?",
       "news_index": 1,
-      "start_sec": 42.17,
-      "end_sec": 47.75
+      "start_sec": 58.43,
+      "end_sec": 61.54
     },
     {
       "index": 9,
       "type": "speech",
-      "speaker": "zunda",
-      "tone": "kangae",
-      "text": "えっ、データセンターって何なのだ? 倉庫みたいなやつ?",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう。ただし問題は値段でね、「スーパーグロック・ヘビー」っていう月額 300 ドルのプランに入らないと使えないの。",
       "news_index": 1,
-      "start_sec": 47.9,
-      "end_sec": 51.88
+      "start_sec": 61.69,
+      "end_sec": 69.03
     },
     {
       "index": 10,
       "type": "speech",
-      "speaker": "metan",
-      "tone": "normal",
-      "text": "そう、 AI とかクラウドサービスを動かしてる巨大なサーバー倉庫ね。インスタも全部これで動いてる。",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "月 300 ドル!? それ 4 万 5,000 円くらいじゃん!",
       "news_index": 1,
-      "start_sec": 52.03,
-      "end_sec": 58.17
+      "start_sec": 69.18,
+      "end_sec": 72.57
     },
     {
       "index": 11,
       "type": "speech",
-      "speaker": "zunda",
-      "tone": "normal",
-      "text": "なるほどなのだ。それでハイペリオンに何があったのだ?",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そうそう。 1 人の開発者が払う金額としてはなかなか強気な設定よね。",
       "news_index": 1,
-      "start_sec": 58.32,
-      "end_sec": 61.71
+      "start_sec": 72.72,
+      "end_sec": 77.94
     },
     {
       "index": 12,
       "type": "speech",
-      "speaker": "metan",
-      "tone": "normal",
-      "text": "ルイジアナ州が、このデータセンターに 3,300,000,000 ドル分の税金を免除するって決めたのよ。",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "それボクのおこづかい何ヶ月分なのだー!",
       "news_index": 1,
-      "start_sec": 61.86,
-      "end_sec": 67.45
+      "start_sec": 78.09,
+      "end_sec": 81.05
     },
     {
       "index": 13,
       "type": "speech",
-      "speaker": "zunda",
-      "tone": "shock",
-      "text": "さん……さんじゅうさん億ドル!? それボクのお小遣いの何年分なのだ!?",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "面白いのは、ビルドの中で 8 つの AI を並列で走らせて、調査・計画・コード書きを同時並行でやらせる仕組みなの。",
       "news_index": 1,
-      "start_sec": 67.6,
-      "end_sec": 72.48
+      "start_sec": 81.2,
+      "end_sec": 88.62
     },
     {
       "index": 14,
       "type": "speech",
-      "speaker": "metan",
-      "tone": "niyari",
-      "text": "お小遣いと比べるスケールじゃないわよ。GPU を買う時の売上税が、 20 年間ゼロになる仕組みなの。",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "8 体並行!? AI 工場じゃん!",
       "news_index": 1,
-      "start_sec": 72.63,
-      "end_sec": 79.21
+      "start_sec": 88.77,
+      "end_sec": 91.76
     },
     {
       "index": 15,
       "type": "speech",
-      "speaker": "zunda",
-      "tone": "amaama",
-      "text": "GPU って、 AI の計算する高いやつね! それを 20 年免税で買い放題なのだ?",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "比喩としては合ってる。要するに人間が監督して AI 軍団に書かせる時代ね。",
       "news_index": 1,
-      "start_sec": 79.36,
-      "end_sec": 86.36
+      "start_sec": 91.91,
+      "end_sec": 96.79
     },
     {
       "index": 16,
       "type": "speech",
-      "speaker": "metan",
-      "tone": "normal",
-      "text": "メタは GPU を 35,000,000,000 ドル分買う計画よ。そこが全部免税。",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、ボクたち一般人にはどう関係するのだ?",
       "news_index": 1,
-      "start_sec": 86.51,
-      "end_sec": 91.41
+      "start_sec": 96.94,
+      "end_sec": 100.33
     },
     {
       "index": 17,
       "type": "speech",
-      "speaker": "zunda",
-      "tone": "gurugru",
-      "text": "もうケタが違いすぎて、頭がぐるぐるしてきたのだ……",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "直接は無いけど、開発者の生産性が上がれば、アプリやサービスの値段が下がる方向に効くわ。 1 〜 2 年先の話だけどね。",
       "news_index": 1,
-      "start_sec": 91.56,
-      "end_sec": 95.9
+      "start_sec": 100.48,
+      "end_sec": 108.7
     },
     {
       "index": 18,
       "type": "speech",
       "speaker": "metan",
-      "tone": "tsuntsun",
-      "text": "しかもね、この 33 億ドルの免税分、ルイジアナ州警察の予算 7 年分以上に相当するのよ。地元から批判も出てる。",
-      "news_index": 1,
-      "start_sec": 96.05,
-      "end_sec": 104.29
+      "tone": "normal",
+      "text": "2 本目、アンソロピックとビル・ゲイツの財団が 2 億ドルの提携を発表したのよ。",
+      "news_index": 2,
+      "start_sec": 108.78,
+      "end_sec": 113.91
     },
     {
       "index": 19,
       "type": "speech",
       "speaker": "zunda",
       "tone": "shock",
-      "text": "けっ、警察 7 年分!? それは怒られるやつじゃん!",
-      "news_index": 1,
-      "start_sec": 104.44,
-      "end_sec": 108.3
+      "text": "2 億ドル!? 約 300 億円じゃん! どこに使うのだ?",
+      "news_index": 2,
+      "start_sec": 114.06,
+      "end_sec": 118.12
     },
     {
       "index": 20,
       "type": "speech",
       "speaker": "metan",
-      "tone": "kangae",
-      "text": "もう 1 個ヤバいのが、この施設、ルイジアナ州の電力の 20 パーセントを食う可能性があるって試算もあるの。",
-      "news_index": 1,
-      "start_sec": 108.45,
-      "end_sec": 115.18
+      "tone": "normal",
+      "text": "4 年間かけて、途上国の医療・教育・農業に AI を入れていく計画。アフリカやインドが主なフィールドね。",
+      "news_index": 2,
+      "start_sec": 118.27,
+      "end_sec": 124.87
     },
     {
       "index": 21,
       "type": "speech",
       "speaker": "zunda",
-      "tone": "shock",
-      "text": "州の電気の 5 分の 1 を、データセンター 1 個で持ってくのだ!?",
-      "news_index": 1,
-      "start_sec": 115.33,
-      "end_sec": 119.62
+      "tone": "kangae",
+      "text": "具体的にはどんなことやるのだ?",
+      "news_index": 2,
+      "start_sec": 125.02,
+      "end_sec": 127.37
     },
     {
       "index": 22,
       "type": "speech",
       "speaker": "metan",
       "tone": "normal",
-      "text": "で、ここからが大事。これからアメリカ中の州が「うちに建てて、税金まけるよ」って誘致合戦に入っていくの。",
-      "news_index": 1,
-      "start_sec": 119.77,
-      "end_sec": 127.07
+      "text": "ポリオやエイチピーブイ、妊娠中毒症みたいな見過ごされがちな病気のデータ分析。あと、現地語に対応した教育アプリの開発ね。",
+      "news_index": 2,
+      "start_sec": 127.52,
+      "end_sec": 136.13
     },
     {
       "index": 23,
       "type": "speech",
       "speaker": "zunda",
-      "tone": "kangae",
-      "text": "つまり……ボクたちが AI を触ってる裏で、州が税金と電気を出し合って大手を取り合ってる?",
-      "news_index": 1,
-      "start_sec": 127.22,
-      "end_sec": 133.62
+      "tone": "kamera",
+      "text": "ちょっと待つのだ、アフリカで AI が病気を分析するって、それ普通の人にとってどんな意味なのだ?",
+      "news_index": 2,
+      "start_sec": 136.28,
+      "end_sec": 142.6
     },
     {
       "index": 24,
       "type": "speech",
       "speaker": "metan",
       "tone": "niyari",
-      "text": "要するに「 AI のコストは、見えないところで税金と電気代に乗ってる」って話。それがじわじわ膨らんでる。",
-      "news_index": 1,
-      "start_sec": 133.77,
-      "end_sec": 140.83
+      "text": "いい質問ね。ようは、医者が圧倒的に足りてない場所で、看護師や保健所の人が AI に助けてもらう、というルートが現実的に動き始めるってこと。",
+      "news_index": 2,
+      "start_sec": 142.75,
+      "end_sec": 152.02
     },
     {
       "index": 25,
       "type": "speech",
       "speaker": "zunda",
-      "tone": "yubisashi",
-      "text": "AI 使うって、ただチャットするだけじゃなかったのだー!",
-      "news_index": 1,
-      "start_sec": 140.98,
-      "end_sec": 144.45
+      "tone": "heart",
+      "text": "それは……素直に良い話なのだー。",
+      "news_index": 2,
+      "start_sec": 152.17,
+      "end_sec": 154.86
     },
     {
       "index": 26,
       "type": "speech",
       "speaker": "metan",
-      "tone": "normal",
-      "text": "じゃ 2 本目。クロードを作ってるアンソロピックって会社、覚えてる?",
+      "tone": "kangae",
+      "text": "あとね、面白いのが現地のアフリカ言語に対応させるところ。今の AI って英語以外に弱いから、ここは大きな宿題なのよ。",
       "news_index": 2,
-      "start_sec": 144.6,
-      "end_sec": 148.68
+      "start_sec": 155.01,
+      "end_sec": 163.11
     },
     {
       "index": 27,
       "type": "speech",
       "speaker": "zunda",
-      "tone": "normal",
-      "text": "覚えてるのだ! AI で文章書いたり、コード書いたりするやつだね。",
+      "tone": "kamera",
+      "text": "つまり、 AI が英語圏ファーストから世界ファーストになる第一歩ってことなのだ?",
       "news_index": 2,
-      "start_sec": 148.83,
-      "end_sec": 153.29
+      "start_sec": 163.26,
+      "end_sec": 168.56
     },
     {
       "index": 28,
       "type": "speech",
       "speaker": "metan",
-      "tone": "normal",
-      "text": "そこが、著者から訴えられてた著作権の裁判で、 1,500,000,000 ドル払うって和解したのよ。",
+      "tone": "niyari",
+      "text": "そう。それとゲイツ財団は去年オープンエーアイとも組んでるから、事実上 AI 2 大手の実力比較が途上国で始まってる、って構図でもあるわ。",
       "news_index": 2,
-      "start_sec": 153.44,
-      "end_sec": 158.88
+      "start_sec": 168.71,
+      "end_sec": 177.71
     },
     {
       "index": 29,
       "type": "speech",
       "speaker": "zunda",
-      "tone": "shock",
-      "text": "じゅう……じゅうごおくドル!? なんでそんなに払うことになったのだ?",
+      "tone": "normal",
+      "text": "ライバル同士が同じ土俵に降ろされてる感じじゃん。",
       "news_index": 2,
-      "start_sec": 159.03,
-      "end_sec": 163.49
+      "start_sec": 177.86,
+      "end_sec": 181.07
     },
     {
       "index": 30,
       "type": "speech",
       "speaker": "metan",
       "tone": "normal",
-      "text": "AI を学習させる時に、何十万冊の本を勝手に使ったって訴えられたの。海賊版でね。",
-      "news_index": 2,
-      "start_sec": 163.64,
-      "end_sec": 169.93
+      "text": "3 本目、ちょっと重めの話。アンソロピックのトップ性能モデル、クロード・ミュトスが、ブラウザの脆弱性を自分で見つけて攻撃コードまで書ける、って研究が出たの。",
+      "news_index": 3,
+      "start_sec": 181.22,
+      "end_sec": 191.57
     },
     {
       "index": 31,
       "type": "speech",
       "speaker": "zunda",
-      "tone": "kangae",
-      "text": "あー、 AI ってそうやって賢くなってたのか……それで著者が怒ったわけね。",
-      "news_index": 2,
-      "start_sec": 170.08,
-      "end_sec": 175.2
+      "tone": "gurugru",
+      "text": "ミュトス? それ何なのだ? あと脆弱性って?",
+      "news_index": 3,
+      "start_sec": 191.72,
+      "end_sec": 196.3
     },
     {
       "index": 32,
       "type": "speech",
       "speaker": "metan",
-      "tone": "niyari",
-      "text": "AI 著作権訴訟としては史上最大級。ところがね、和解したのに著者側から「少なすぎる」って文句が出てるの。",
-      "news_index": 2,
-      "start_sec": 175.35,
-      "end_sec": 182.91
+      "tone": "normal",
+      "text": "ミュトスはアンソロピックがプレビュー公開してる最新モデル。脆弱性ってのは、ようはソフトの欠陥、ハッカーが入り込める隙間のことね。",
+      "news_index": 3,
+      "start_sec": 196.45,
+      "end_sec": 204.81
     },
     {
       "index": 33,
       "type": "speech",
       "speaker": "zunda",
-      "tone": "gurugru",
-      "text": "えっ、15 億ドルもらえるのに少ないのだ?",
-      "news_index": 2,
-      "start_sec": 183.06,
-      "end_sec": 186.97
+      "tone": "kangae",
+      "text": "ふむ、ふむ。",
+      "news_index": 3,
+      "start_sec": 204.96,
+      "end_sec": 206.19
     },
     {
       "index": 34,
       "type": "speech",
       "speaker": "metan",
       "tone": "normal",
-      "text": "著者が何万人もいるから、頭割りすると 1 作品あたり 3,000 ドルくらいになるのよ。日本円で 45 万円ね。",
-      "news_index": 2,
-      "start_sec": 187.12,
-      "end_sec": 194.16
+      "text": "カーネギーメロン大学が、グーグルの「ブイエイト」っていうブラウザの心臓部に既知の欠陥を 41 個用意して、 AI に攻撃コードを書かせるテストをしたのよ。",
+      "news_index": 3,
+      "start_sec": 206.34,
+      "end_sec": 216.37
     },
     {
       "index": 35,
       "type": "speech",
       "speaker": "zunda",
-      "tone": "kangae",
-      "text": "1 冊書いて 45 万円……それ、書き下ろし 1 冊の印税より安くなるパターンもあるのだ?",
-      "news_index": 2,
-      "start_sec": 194.31,
-      "end_sec": 200.74
+      "tone": "amaama",
+      "text": "結果はどうだったのだ?",
+      "news_index": 3,
+      "start_sec": 216.52,
+      "end_sec": 218.42
     },
     {
       "index": 36,
       "type": "speech",
       "speaker": "metan",
-      "tone": "tsuntsun",
-      "text": "そう。しかも著作権法上は、本来 1 作品 150,000 ドルまで取れるはずなのよ。その 2 パーセントだけ。",
-      "news_index": 2,
-      "start_sec": 200.89,
-      "end_sec": 207.4
+      "tone": "normal",
+      "text": "ミュトスが 41 個中 21 個で、攻撃マシンを実際に乗っ取れるところまで到達。比較対象のジーピーティー 5.5 はたった 2 個。差がエグいわ。",
+      "news_index": 3,
+      "start_sec": 218.57,
+      "end_sec": 227.75
     },
     {
       "index": 37,
       "type": "speech",
       "speaker": "zunda",
       "tone": "shock",
-      "text": "本来取れる金額の 2 パーセント!? それ著者キレるやつなのだ!",
-      "news_index": 2,
-      "start_sec": 207.55,
-      "end_sec": 211.82
+      "text": "つまり、 AI が本物のハッカーレベルに片足突っ込んだってことなのだ?",
+      "news_index": 3,
+      "start_sec": 227.9,
+      "end_sec": 232.95
     },
     {
       "index": 38,
       "type": "speech",
       "speaker": "metan",
-      "tone": "normal",
-      "text": "で、これの意味はね、オープンエーアイも他社も同じ訴訟抱えてるから、 AI 業界全体に「学習データのコスト」が乗っかってくるってこと。",
-      "news_index": 2,
-      "start_sec": 211.97,
-      "end_sec": 220.63
+      "tone": "niyari",
+      "text": "そう。ただし 1 回のテストで 36,400 ドル、約 540 万円かかってる。ジーピーティー 5.5 の 10 倍以上ね。",
+      "news_index": 3,
+      "start_sec": 233.1,
+      "end_sec": 241.07
     },
     {
       "index": 39,
       "type": "speech",
       "speaker": "zunda",
-      "tone": "yubisashi",
-      "text": "つまり……ボクたちが使う AI サービスの値段、これからジワジワ上がる方向なのだー!",
-      "news_index": 2,
-      "start_sec": 220.78,
-      "end_sec": 226.28
+      "tone": "kamera",
+      "text": "えっ、攻撃するのに 540 万円? そんなコストかけて元取れるのだ?",
+      "news_index": 3,
+      "start_sec": 241.22,
+      "end_sec": 246.46
     },
     {
       "index": 40,
       "type": "speech",
       "speaker": "metan",
-      "tone": "normal",
-      "text": "じゃ 3 本目。チャットジーピーティーに「お金の管理」機能が付いたわよ。",
+      "tone": "tsuntsun",
+      "text": "国家ぐるみのサイバー攻撃なら余裕で元取るレベルよ。普通の犯罪者には高いけどね。",
       "news_index": 3,
-      "start_sec": 226.43,
-      "end_sec": 230.89
+      "start_sec": 246.61,
+      "end_sec": 252.09
     },
     {
       "index": 41,
       "type": "speech",
       "speaker": "zunda",
-      "tone": "normal",
-      "text": "えっ、 AI が家計簿つけてくれるってこと?",
+      "tone": "kangae",
+      "text": "で、ボクたち普通のリスナーには、どう影響するのだ?",
       "news_index": 3,
-      "start_sec": 231.04,
-      "end_sec": 234.17
+      "start_sec": 252.24,
+      "end_sec": 256.12
     },
     {
       "index": 42,
       "type": "speech",
       "speaker": "metan",
       "tone": "normal",
-      "text": "もっと踏み込んでて、銀行口座や証券口座と直接つなげるの。残高・支出・サブスク全部見えるダッシュボード。",
+      "text": "ブラウザのアップデート、来た時にすぐ当てて。本気で。サボると数年以内にエグい目に遭うかも、ってフェーズに入ったってことだから。",
       "news_index": 3,
-      "start_sec": 234.32,
-      "end_sec": 241.75
+      "start_sec": 256.27,
+      "end_sec": 263.96
     },
     {
       "index": 43,
       "type": "speech",
       "speaker": "zunda",
-      "tone": "shock",
-      "text": "銀行口座をチャットジーピーティーに見せるのだ!? それ大丈夫なやつ?",
+      "tone": "kamera",
+      "text": "了解なのだ、アプデは即入れる派になるのだ!",
       "news_index": 3,
-      "start_sec": 241.9,
-      "end_sec": 246.64
+      "start_sec": 264.11,
+      "end_sec": 267.15
     },
     {
       "index": 44,
       "type": "speech",
       "speaker": "metan",
-      "tone": "kangae",
-      "text": "まあ議論にはなるわよね。アメリカでは 12,000 以上の金融機関に対応してて、大手証券から普通の銀行までほぼカバーしてる。",
-      "news_index": 3,
-      "start_sec": 246.79,
-      "end_sec": 255.19
+      "tone": "normal",
+      "text": "4 本目、オープンエーアイがアップルに法的措置を検討してる、って話。",
+      "news_index": 4,
+      "start_sec": 267.3,
+      "end_sec": 272.0
     },
     {
       "index": 45,
       "type": "speech",
       "speaker": "zunda",
-      "tone": "amaama",
-      "text": "えっ、もう「先月テイクアウト頼みすぎ」とか言ってくるのだ?",
-      "news_index": 3,
-      "start_sec": 255.34,
-      "end_sec": 260.28
+      "tone": "shock",
+      "text": "えっ、組んでたじゃん、あの 2 社!",
+      "news_index": 4,
+      "start_sec": 272.15,
+      "end_sec": 274.51
     },
     {
       "index": 46,
       "type": "speech",
       "speaker": "metan",
-      "tone": "niyari",
-      "text": "言ってくる。「サブスク 7 個入ってるけど 3 個しか使ってないわよ」みたいな指摘もしてくるの。",
-      "news_index": 3,
-      "start_sec": 260.43,
-      "end_sec": 265.89
+      "tone": "normal",
+      "text": "そうなの。 2024 年にアップルがチャットジーピーティーをアイフォーンに組み込むって発表したじゃない? あれ実は、オープンエーアイ側が思ったほど儲かってなかったらしいのよ。",
+      "news_index": 4,
+      "start_sec": 274.66,
+      "end_sec": 284.79
     },
     {
       "index": 47,
       "type": "speech",
       "speaker": "zunda",
-      "tone": "herohero",
-      "text": "……それ、ボクの普段の生活を全部見透かされるやつなのだ……",
-      "news_index": 3,
-      "start_sec": 266.04,
-      "end_sec": 271.54
+      "tone": "kangae",
+      "text": "へえ……どういうことなのだ?",
+      "news_index": 4,
+      "start_sec": 284.94,
+      "end_sec": 287.08
     },
     {
       "index": 48,
       "type": "speech",
       "speaker": "metan",
-      "tone": "normal",
-      "text": "今は上位プラン限定で、アメリカだけね。でもね、 AI が「相談相手」から「お金見てるアシスタント」に踏み込んだ転換点なのよ。",
-      "news_index": 3,
-      "start_sec": 271.69,
-      "end_sec": 280.41
+      "tone": "niyari",
+      "text": "アイフォーンのシリ経由でチャットジーピーティー使う人より、単独アプリで使う人の方が多くて、有料転換も全然伸びなかったの。アップルからの支払いもゼロ。",
+      "news_index": 4,
+      "start_sec": 287.23,
+      "end_sec": 296.93
     },
     {
       "index": 49,
       "type": "speech",
       "speaker": "zunda",
-      "tone": "kangae",
-      "text": "つまり、これから家計簿アプリって、ぜんぶ AI に呑み込まれていく?",
-      "news_index": 3,
-      "start_sec": 280.56,
-      "end_sec": 285.21
+      "tone": "amaama",
+      "text": "なんか地味につらいやつじゃん。",
+      "news_index": 4,
+      "start_sec": 297.08,
+      "end_sec": 299.08
     },
     {
       "index": 50,
       "type": "speech",
       "speaker": "metan",
-      "tone": "niyari",
-      "text": "短期的にはそういう流れね。便利さと、自分のお金事情を AI に渡す怖さ、そのせめぎ合いがリスナー側に来る話。",
-      "news_index": 3,
-      "start_sec": 285.36,
-      "end_sec": 293.11
+      "tone": "normal",
+      "text": "そう。それで 6 月 8 日発表予定のアイオーエス 27 では、シリにグーグルのジェミニとアンソロピックのクロードも入る予定で、チャットジーピーティーの独占もなくなるのよ。",
+      "news_index": 4,
+      "start_sec": 299.23,
+      "end_sec": 309.64
     },
     {
       "index": 51,
       "type": "speech",
       "speaker": "zunda",
-      "tone": "yubisashi",
-      "text": "家計簿アプリ選ぶ感覚、来年あたり変わってるかもしれないのだー!",
-      "news_index": 3,
-      "start_sec": 293.26,
-      "end_sec": 297.7
+      "tone": "shock",
+      "text": "他社にも開放されたら、もっと埋もれるじゃん!",
+      "news_index": 4,
+      "start_sec": 309.79,
+      "end_sec": 312.87
     },
     {
       "index": 52,
       "type": "speech",
       "speaker": "metan",
-      "tone": "normal",
-      "text": "じゃ 4 本目。アンソロピックがもう 1 個発表してて、中小企業向けのクロードを出したのよ。",
+      "tone": "tsuntsun",
+      "text": "そう。だからキレた、って構図ね。ただし正式な提訴じゃなくて、まだ法律事務所と相談中、って段階。",
       "news_index": 4,
-      "start_sec": 297.85,
-      "end_sec": 303.4
+      "start_sec": 313.02,
+      "end_sec": 319.95
     },
     {
       "index": 53,
       "type": "speech",
       "speaker": "zunda",
-      "tone": "normal",
-      "text": "中小企業向け? 今までと何が違うのだ?",
+      "tone": "kamera",
+      "text": "で、これボクたちにとってはどんな意味があるのだ?",
       "news_index": 4,
-      "start_sec": 303.55,
-      "end_sec": 306.94
+      "start_sec": 320.1,
+      "end_sec": 323.24
     },
     {
       "index": 54,
       "type": "speech",
       "speaker": "metan",
       "tone": "normal",
-      "text": "今までは大企業向けが軸だったの。今回は街の小さい会社でもすぐ使えるパッケージにしたって話。",
+      "text": "教訓は、ビッグテックに乗っかれば安泰、って思ってた AI 企業の前提が崩れたってこと。アップルみたいな配信ルートが意外と機能しないって証明されつつあるわ。",
       "news_index": 4,
-      "start_sec": 307.09,
-      "end_sec": 313.49
+      "start_sec": 323.39,
+      "end_sec": 333.52
     },
     {
       "index": 55,
       "type": "speech",
       "speaker": "zunda",
-      "tone": "kangae",
-      "text": "えっ、 AI ってもう街のお店レベルでも使うのだ?",
+      "tone": "niyari",
+      "text": "AI 業界、誰も安心して座れない椅子取りゲーム継続中なのだー。",
       "news_index": 4,
-      "start_sec": 313.64,
-      "end_sec": 317.5
+      "start_sec": 333.67,
+      "end_sec": 339.09
     },
     {
       "index": 56,
       "type": "speech",
       "speaker": "metan",
       "tone": "normal",
-      "text": "連携してるサービスがね、会計ソフトから決済サービス、顧客管理、デザイン、契約書、グーグルとマイクロソフトの業務ツールまで、ほぼ全部入り。",
-      "news_index": 4,
-      "start_sec": 317.65,
-      "end_sec": 327.11
+      "text": "最後 5 本目、ちょっとテック番外編。カリフォルニア州で「オンラインゲームを守る法案」が大詰めに入ってるのよ。",
+      "news_index": 5,
+      "start_sec": 339.24,
+      "end_sec": 346.51
     },
     {
       "index": 57,
       "type": "speech",
       "speaker": "zunda",
-      "tone": "shock",
-      "text": "ぜ、全部……? それもう新人 1 人雇うより安くなるやつじゃん!",
-      "news_index": 4,
-      "start_sec": 327.26,
-      "end_sec": 331.92
+      "tone": "kangae",
+      "text": "守る、って誰から守るのだ?",
+      "news_index": 5,
+      "start_sec": 346.66,
+      "end_sec": 348.97
     },
     {
       "index": 58,
       "type": "speech",
       "speaker": "metan",
       "tone": "niyari",
-      "text": "そこを狙ってるのよ。 15 個のタスクと 15 個のスキルがプリセットされてて、「請求書作って」「契約書チェックして」みたいに頼める。",
-      "news_index": 4,
-      "start_sec": 332.07,
-      "end_sec": 340.13
+      "text": "サービス終了で消えるゲームから、消費者を守るのよ。きっかけは「ザ・クルー」っていうユービーアイソフトのレースゲームね。サーバー止めた瞬間、買った人のライブラリから消えた事件があったの。",
+      "news_index": 5,
+      "start_sec": 349.12,
+      "end_sec": 361.08
     },
     {
       "index": 59,
       "type": "speech",
       "speaker": "zunda",
-      "tone": "amaama",
-      "text": "ボクが社長なら、経理担当をクロード君に丸投げするのだー!",
-      "news_index": 4,
-      "start_sec": 340.28,
-      "end_sec": 344.82
+      "tone": "shock",
+      "text": "えっ、買ったのに消えるのだ!?",
+      "news_index": 5,
+      "start_sec": 361.23,
+      "end_sec": 363.55
     },
     {
       "index": 60,
       "type": "speech",
       "speaker": "metan",
-      "tone": "tsuntsun",
-      "text": "雑な経営判断ね……でも実際、中小企業ってバックオフィスが回らない悩みが多いから、刺さるのよ。",
-      "news_index": 4,
-      "start_sec": 344.97,
-      "end_sec": 351.68
+      "tone": "normal",
+      "text": "そう、デジタル販売の落とし穴ね。法案だとサービス終了の 60 日前に通知必須。しかも、全額返金かオフライン版の提供か、スタンドアロンで遊べるパッチを出すか、のどれかを義務化する内容よ。",
+      "news_index": 5,
+      "start_sec": 363.7,
+      "end_sec": 376.59
     },
     {
       "index": 61,
       "type": "speech",
-      "speaker": "metan",
-      "tone": "normal",
-      "text": "で、これが意味するのはね、 AI エージェント市場で「普通の会社をどれだけ取れるか」の勝負がここから始まるってこと。",
-      "news_index": 4,
-      "start_sec": 351.76,
-      "end_sec": 359.12
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "それ完全にプレイヤーの味方じゃん!",
+      "news_index": 5,
+      "start_sec": 376.74,
+      "end_sec": 379.36
     },
     {
       "index": 62,
       "type": "speech",
-      "speaker": "zunda",
-      "tone": "kangae",
-      "text": "AI エージェントってつまり、人間の代わりに自動で作業してくれる AI のことね?",
-      "news_index": 4,
-      "start_sec": 359.27,
-      "end_sec": 364.85
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ただし対象は 2027 年 1 月以降に出るゲームだけ。あと、無料ゲームとサブスク限定ゲームは除外ね。",
+      "news_index": 5,
+      "start_sec": 379.51,
+      "end_sec": 386.52
     },
     {
       "index": 63,
       "type": "speech",
-      "speaker": "metan",
-      "tone": "niyari",
-      "text": "そう。これまでは大企業が AI を取り合ってたけど、もう街のお店レベルまで降りてきた。雇用の話とセットで考えないとね。",
-      "news_index": 4,
-      "start_sec": 365.0,
-      "end_sec": 372.64
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ふむ、つまり買い切りで売られたゲームだけ対象、ってことなのだ?",
+      "news_index": 5,
+      "start_sec": 386.67,
+      "end_sec": 391.1
     },
     {
       "index": 64,
       "type": "speech",
-      "speaker": "zunda",
-      "tone": "yubisashi",
-      "text": "業務 AI が、ボクたちの仕事のすぐ隣まで来てるのだー!",
-      "news_index": 4,
-      "start_sec": 372.79,
-      "end_sec": 376.67
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。業界団体は「開発コストが上がる」って猛反発してるけど、 5 月中旬に複数の委員会を突破して、州下院の本会議待ち、ってとこまで来てるわ。",
+      "news_index": 5,
+      "start_sec": 391.25,
+      "end_sec": 402.01
     },
     {
       "index": 65,
       "type": "speech",
-      "speaker": "metan",
-      "tone": "normal",
-      "text": "ラスト 5 本目。オープンエーアイで組織再編があったわよ。",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "ボクたちにとってはどう関係するのだ?",
       "news_index": 5,
-      "start_sec": 376.82,
-      "end_sec": 380.38
+      "start_sec": 402.16,
+      "end_sec": 404.78
     },
     {
       "index": 66,
       "type": "speech",
-      "speaker": "zunda",
+      "speaker": "metan",
       "tone": "normal",
-      "text": "チャットジーピーティーのとこね。今度は何があったのだ?",
+      "text": "アメリカで成立したら日本にも波及する可能性があるし、少なくともパブリッシャーがサービス終了を雑に決めにくくなる方向に動くのは確実ね。",
       "news_index": 5,
-      "start_sec": 380.53,
-      "end_sec": 384.0
+      "start_sec": 404.93,
+      "end_sec": 413.96
     },
     {
       "index": 67,
       "type": "speech",
-      "speaker": "metan",
-      "tone": "normal",
-      "text": "共同創業者のグレッグ・ブロックマンが、製品部門の全権を握ったの。",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "買ったものは消えない、っていう当たり前が、法律になりつつあるのだー!",
       "news_index": 5,
-      "start_sec": 384.15,
-      "end_sec": 389.04
+      "start_sec": 414.11,
+      "end_sec": 419.31
     },
     {
       "index": 68,
       "type": "speech",
-      "speaker": "zunda",
-      "tone": "kangae",
-      "text": "共同創業者って、要するに会社作った人のことだよね? その人が製品を取り仕切るって、何か意味があるの?",
-      "news_index": 5,
-      "start_sec": 389.19,
-      "end_sec": 397.05
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで今朝のテック 5 本立て。グロック・ビルド、アンソロピックとゲイツ財団の提携、クロード・ミュトスのエクスプロイト研究、オープンエーアイ対アップル、それとゲームを守る法案ね。",
+      "news_index": 0,
+      "start_sec": 419.46,
+      "end_sec": 431.08
     },
     {
       "index": 69,
       "type": "speech",
-      "speaker": "metan",
-      "tone": "normal",
-      "text": "大ありよ。オープンエーアイの社内では今、グーグルのジェミニとアンソロピックのクロードに押されてる「コードレッド」状態らしいのよ。",
-      "news_index": 5,
-      "start_sec": 397.2,
-      "end_sec": 404.85
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "情報量が多いのだ。ボクは特にミュトスの話が頭から離れないのだ。",
+      "news_index": 0,
+      "start_sec": 431.23,
+      "end_sec": 436.11
     },
     {
       "index": 70,
       "type": "speech",
-      "speaker": "zunda",
-      "tone": "shock",
-      "text": "コードレッド……それなんか緊急事態みたいな響きなのだ。",
-      "news_index": 5,
-      "start_sec": 405.0,
-      "end_sec": 408.86
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ブラウザのアップデート、ちゃんと当てなさいよ?",
+      "news_index": 0,
+      "start_sec": 436.26,
+      "end_sec": 439.06
     },
     {
       "index": 71,
       "type": "speech",
-      "speaker": "metan",
-      "tone": "niyari",
-      "text": "創業メンバーが戻ってきて舵を取るっていうのは、組織が「生存モード」に入った合図なのよ。",
-      "news_index": 5,
-      "start_sec": 409.01,
-      "end_sec": 415.0
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "アップデートおじさんになるのだー!",
+      "news_index": 0,
+      "start_sec": 439.21,
+      "end_sec": 441.38
     },
     {
       "index": 72,
       "type": "speech",
-      "speaker": "zunda",
-      "tone": "kangae",
-      "text": "つまり、チャットジーピーティー側がピンチってこと?",
-      "news_index": 5,
-      "start_sec": 415.15,
-      "end_sec": 418.52
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "気になったやつあったら、それぞれの記事チェックしてみて。じゃあ今日も一日、頑張りすぎず行きましょ。",
+      "news_index": 0,
+      "start_sec": 441.53,
+      "end_sec": 447.38
     },
     {
       "index": 73,
       "type": "speech",
-      "speaker": "metan",
-      "tone": "normal",
-      "text": "ピンチっていうか、勝負どころね。ソラっていう動画 AI みたいなサイドプロジェクトは外して、チャットジーピーティーとコーデックスを 1 つに統合する方向に絞り込むみたい。",
-      "news_index": 5,
-      "start_sec": 418.67,
-      "end_sec": 428.44
-    },
-    {
-      "index": 74,
-      "type": "speech",
-      "speaker": "zunda",
-      "tone": "shock",
-      "text": "えっ、ソラ、止まっちゃうのだ?",
-      "news_index": 5,
-      "start_sec": 428.59,
-      "end_sec": 430.85
-    },
-    {
-      "index": 75,
-      "type": "speech",
-      "speaker": "metan",
-      "tone": "normal",
-      "text": "メインから外れる感じね。エージェント分野に全リソース突っ込むらしいわよ。",
-      "news_index": 5,
-      "start_sec": 431.0,
-      "end_sec": 435.59
-    },
-    {
-      "index": 76,
-      "type": "speech",
-      "speaker": "metan",
-      "tone": "niyari",
-      "text": "で、リスナー目線で何が変わるかっていうと、チャットジーピーティーがここから半年でガッと変わる可能性が高いの。",
-      "news_index": 5,
-      "start_sec": 435.67,
-      "end_sec": 442.58
-    },
-    {
-      "index": 77,
-      "type": "speech",
-      "speaker": "zunda",
-      "tone": "yubisashi",
-      "text": "つまり、年末あたりのアップデートが熱いってことなのだー!",
-      "news_index": 5,
-      "start_sec": 442.73,
-      "end_sec": 446.52
-    },
-    {
-      "index": 78,
-      "type": "speech",
-      "speaker": "metan",
-      "tone": "normal",
-      "text": "……てな感じで 5 本流したけど、どれが気になった?",
-      "news_index": 0,
-      "start_sec": 446.67,
-      "end_sec": 449.67
-    },
-    {
-      "index": 79,
-      "type": "speech",
-      "speaker": "zunda",
-      "tone": "amaama",
-      "text": "ボクはハイペリオン! ケタが大きすぎて、まだ頭ぐるぐるしてるのだ!",
-      "news_index": 0,
-      "start_sec": 449.82,
-      "end_sec": 454.76
-    },
-    {
-      "index": 80,
-      "type": "speech",
-      "speaker": "metan",
-      "tone": "niyari",
-      "text": "数字遊びになってたわね。でも、 AI 業界がお金とインフラの取り合いで動いてるって構図はつかめたんじゃない?",
-      "news_index": 0,
-      "start_sec": 454.91,
-      "end_sec": 461.81
-    },
-    {
-      "index": 81,
-      "type": "speech",
-      "speaker": "zunda",
-      "tone": "kangae",
-      "text": "……今日の話、全部「 AI の見えない裏側」の話だったのだ。",
-      "news_index": 0,
-      "start_sec": 461.96,
-      "end_sec": 466.69
-    },
-    {
-      "index": 82,
-      "type": "speech",
-      "speaker": "metan",
-      "tone": "normal",
-      "text": "そうそう。表のチャット画面の裏で、税金と電気と訴訟が動いてるのよ、業界って。",
-      "news_index": 0,
-      "start_sec": 466.84,
-      "end_sec": 472.46
-    },
-    {
-      "index": 83,
-      "type": "speech",
       "speaker": "zunda",
       "tone": "mic",
-      "text": "また明日のテック朝便で会おうなのだー! いってらっしゃい!",
+      "text": "またね、テック朝便でお会いするのだー!",
       "news_index": 0,
-      "start_sec": 472.61,
-      "end_sec": 476.14
-    },
-    {
-      "index": 84,
-      "type": "speech",
-      "speaker": "metan",
-      "tone": "normal",
-      "text": "行ってらっしゃい。お仕事も学校も、ぼちぼちでね。",
-      "news_index": 0,
-      "start_sec": 476.29,
-      "end_sec": 479.4
+      "start_sec": 447.53,
+      "end_sec": 450.19
     },
     {
       "index": 9999,
       "type": "outro",
       "text": "🎵 ジングル + またね！",
-      "start_sec": 480.1,
-      "end_sec": 487.8
+      "start_sec": 450.89,
+      "end_sec": 460.38
     }
   ],
-  "wall_time_sec": 14.85,
-  "audio_url": "/audio/ai/20260517_053231.mp3?v=1778984503"
+  "wall_time_sec": 17.38,
+  "audio_url": "/audio/ai/20260517_053231.mp3?v=1778992075"
 }
