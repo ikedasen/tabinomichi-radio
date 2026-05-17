@@ -10,7 +10,7 @@ const SITE_URL = 'https://news.tabinomichi.jp'
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   title: '旅の道ラジオ — Tabinomichi Radio',
-  description: 'ずんだもん×めたんが届けるインディーゲームの深夜雑談ラジオ。',
+  description: 'ずんだもん × めたん × つむぎが届ける、ゲーム & テックニュース雑談ラジオ。',
   manifest: '/manifest.json',
   alternates: {
     types: {
@@ -22,14 +22,14 @@ export const metadata: Metadata = {
     url: SITE_URL,
     siteName: '旅の道ラジオ',
     title: '旅の道ラジオ — Tabinomichi Radio',
-    description: 'ずんだもん×めたんが届けるインディーゲームの深夜雑談ラジオ。',
+    description: 'ずんだもん × めたん × つむぎが届ける、ゲーム & テックニュース雑談ラジオ。',
     images: [{ url: '/og-image.png', width: 1200, height: 630, alt: '旅の道ラジオ' }],
     locale: 'ja_JP',
   },
   twitter: {
     card: 'summary_large_image',
     title: '旅の道ラジオ — Tabinomichi Radio',
-    description: 'ずんだもん×めたんが届けるインディーゲームの深夜雑談ラジオ。',
+    description: 'ずんだもん × めたん × つむぎが届ける、ゲーム & テックニュース雑談ラジオ。',
     images: ['/og-image.png'],
   },
   appleWebApp: {

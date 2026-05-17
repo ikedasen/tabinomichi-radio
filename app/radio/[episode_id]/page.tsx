@@ -49,7 +49,7 @@ export async function generateMetadata(
   const rawDesc = ep.program_description || ''
   const description = rawDesc.length > 0
     ? (rawDesc.length > 200 ? rawDesc.slice(0, 200) + '…' : rawDesc)
-    : 'ずんだもん×めたんが届けるインディーゲームの深夜雑談ラジオ。'
+    : 'ずんだもん × めたん × つむぎが届ける、ゲーム & テックニュース雑談ラジオ。'
   // 1200x630 landscape OG (build_og_image.py) を最優先。Steam capsule 等の
   // 縦長ソースを直接 OG にすると X/Twitter で小さく潰れるため、export 時に
   // 横長カード化したものを使う。fallback は従来通り featured_game の rel。
