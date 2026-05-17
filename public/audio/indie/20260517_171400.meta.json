@@ -1,0 +1,776 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-05-17T18:25:57.394860",
+  "title": "削るは命、当てるは国旗 〜鰹節クリッカーの理不尽な夜〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 348.03,
+  "script_hash": "sha256:9acf8e25d7dc4925e3b75d4c7e23cdd8a07052a3d4d127e42138b105bc08b66c",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 6.34
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "こんばんは、旅の道ラジオ夜便、四国めたんです。仕事帰りの皆さん、お疲れさまでした。",
+      "news_index": 0,
+      "start_sec": 6.34,
+      "end_sec": 12.29
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ずんだもん登場なのだー。夜便は、もう半分布団の中なのだ。",
+      "news_index": 0,
+      "start_sec": 12.44,
+      "end_sec": 16.85
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "始まる前から寝ようとするな。",
+      "news_index": 0,
+      "start_sec": 17.0,
+      "end_sec": 18.9
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今夜はね、ちょっと頭おかしい新作インディゲームを1本掘り下げる回よ。",
+      "news_index": 1,
+      "start_sec": 18.98,
+      "end_sec": 23.68
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "頭おかしいって、開発者の話なのだ?",
+      "news_index": 1,
+      "start_sec": 23.83,
+      "end_sec": 27.27
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "ゲームの仕様の話。人格攻撃じゃないわよ。",
+      "news_index": 1,
+      "start_sec": 27.42,
+      "end_sec": 30.59
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "タイトルがね、『カツオブシクリッカー』。",
+      "news_index": 1,
+      "start_sec": 30.67,
+      "end_sec": 32.87
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "鰹武士? お侍さんが鰹片手に戦うやつなのだ?",
+      "news_index": 1,
+      "start_sec": 33.02,
+      "end_sec": 37.13
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "勝手に擬人化するな。和食の鰹節、削るほうよ。",
+      "news_index": 1,
+      "start_sec": 37.28,
+      "end_sec": 40.99
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "あの茶色いやつなのだ。ボクの中身はずんだ餅だけど鰹節も推せるのだ。",
+      "news_index": 1,
+      "start_sec": 41.14,
+      "end_sec": 45.84
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "張り合うとこそこじゃないでしょ。",
+      "news_index": 1,
+      "start_sec": 45.99,
+      "end_sec": 47.68
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに鰹節を削って削って、貯まったら出荷して稼ぐ系よ。",
+      "news_index": 1,
+      "start_sec": 47.76,
+      "end_sec": 51.97
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "なるほど、鰹節屋さんの経営シミュなのだ。商店街デビューなのだ。",
+      "news_index": 1,
+      "start_sec": 52.12,
+      "end_sec": 56.85
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "経営じゃないの。出荷した瞬間ね、なぜか国旗クイズが始まる。",
+      "news_index": 1,
+      "start_sec": 57.0,
+      "end_sec": 61.24
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "出荷伝票に国旗が印刷されてるのだ? 関税対策なのだ?",
+      "news_index": 1,
+      "start_sec": 61.39,
+      "end_sec": 67.25
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "貿易ゲームじゃないっつーの。",
+      "news_index": 1,
+      "start_sec": 67.4,
+      "end_sec": 69.15
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "hisohiso",
+      "text": "メディアでは「クリッカー×記憶力ゲーム」って紹介されてるのよ。",
+      "news_index": 1,
+      "start_sec": 69.23,
+      "end_sec": 74.14
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "つまり鰹節を削る手と、世界地図を覚える脳を同時稼働させるゲームなのだ。",
+      "news_index": 1,
+      "start_sec": 74.29,
+      "end_sec": 79.62
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要約うますぎ。そう、199カ国の中から6択、3回間違えたらゲームオーバーよ。",
+      "news_index": 1,
+      "start_sec": 79.77,
+      "end_sec": 86.05
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "ボクの中で、鰹節屋の店主がいきなり社会科の先生に転職したのだ。",
+      "news_index": 1,
+      "start_sec": 86.2,
+      "end_sec": 91.72
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "比喩としては、ピザの注文がいきなり数学になる感じね。",
+      "news_index": 1,
+      "start_sec": 91.87,
+      "end_sec": 95.48
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "Lサイズひとつ、ただし円周率を小数点以下5桁言えたらの話なのだ。",
+      "news_index": 1,
+      "start_sec": 95.63,
+      "end_sec": 101.47
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "配達員ブチギレ案件ね。だから理不尽さこそがこのゲームの売り。",
+      "news_index": 1,
+      "start_sec": 101.62,
+      "end_sec": 105.78
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "理不尽の本場、インディゲーム界が誇る逸品なのだ！",
+      "news_index": 1,
+      "start_sec": 105.93,
+      "end_sec": 109.47
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "誇るなよ、そこは。",
+      "news_index": 1,
+      "start_sec": 109.62,
+      "end_sec": 111.06
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "整理するとね、削るパートと国旗パートが交互に来る、ジャンル混合の意欲作よ。",
+      "news_index": 1,
+      "start_sec": 111.14,
+      "end_sec": 116.19
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "開発はね、アシマルゲームズっていう国内のインディスタジオ。",
+      "news_index": 1,
+      "start_sec": 116.27,
+      "end_sec": 119.95
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "アシマル…アザラシっぽい名前なのだ。海獣系スタジオなのだ?",
+      "news_index": 1,
+      "start_sec": 120.1,
+      "end_sec": 124.3
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "勝手に水族館に入れるな。",
+      "news_index": 1,
+      "start_sec": 124.45,
+      "end_sec": 126.31
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "前作がね、『もちじゃんぷ』。高難度の3Dアクションで、お餅が主人公の理不尽ゲーよ。",
+      "news_index": 1,
+      "start_sec": 126.39,
+      "end_sec": 132.11
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "お餅が死ぬのだ? のびて終了なのだ?",
+      "news_index": 1,
+      "start_sec": 132.26,
+      "end_sec": 135.29
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "落下とか踏み潰されとか、死因は色々ね。たぶん作者の趣味で食材を主役にしてるのよ。",
+      "news_index": 1,
+      "start_sec": 135.44,
+      "end_sec": 141.5
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "次は納豆ジャンプか、お煎餅ローグライトか、味噌汁メトロイドヴァニアなのだ。",
+      "news_index": 1,
+      "start_sec": 141.65,
+      "end_sec": 147.3
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "勝手にラインナップ増やすな。",
+      "news_index": 1,
+      "start_sec": 147.45,
+      "end_sec": 149.17
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "もちじゃんぷはね、2023年末リリースで、Steamレビューは少数ながら好評寄り。ニッチに刺さってる感じだわ。",
+      "news_index": 1,
+      "start_sec": 149.25,
+      "end_sec": 156.63
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "数は少ないけど刺さってる人には刺さる、ニッチ実績ありのスタジオなのだ。",
+      "news_index": 1,
+      "start_sec": 156.78,
+      "end_sec": 161.66
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。要は「変なゲームを真面目に作る」実績がある人たち。",
+      "news_index": 1,
+      "start_sec": 161.81,
+      "end_sec": 166.45
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "このカツオブシクリッカーは、Steamストアページが2026年5月14日に公開されたばっかりよ。",
+      "news_index": 1,
+      "start_sec": 166.53,
+      "end_sec": 172.88
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "つい先週なのだ。発売日はもう決まってるのだ?",
+      "news_index": 1,
+      "start_sec": 173.03,
+      "end_sec": 176.46
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ストアページは「近日登場」表記、リリース日は未定ね。",
+      "news_index": 1,
+      "start_sec": 176.61,
+      "end_sec": 180.67
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "未定なのに、ボクのウィッシュリストにはもう枠を確保したのだ。",
+      "news_index": 1,
+      "start_sec": 180.82,
+      "end_sec": 185.09
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "確保するのは枠じゃなくて鰹節でしょ。",
+      "news_index": 1,
+      "start_sec": 185.24,
+      "end_sec": 187.77
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ともあれ、近日登場で発売日未定、現状はウィッシュリスト推奨段階よ。",
+      "news_index": 1,
+      "start_sec": 187.85,
+      "end_sec": 192.89
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "話題になってるのが、この組み合わせの奇妙さよ。インディ系メディアでも取り上げられてるわ。",
+      "news_index": 1,
+      "start_sec": 192.97,
+      "end_sec": 198.08
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "SNSは「理解はできないけど指は動く」みたいな感想で埋まってるのだ?",
+      "news_index": 1,
+      "start_sec": 198.23,
+      "end_sec": 203.46
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ほぼそれ。「意味不明だけど気になる」が大量で、バズの典型形ね。",
+      "news_index": 1,
+      "start_sec": 203.61,
+      "end_sec": 207.96
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "「意味不明だけど気になる」って、最強のキャッチコピーなのだ。",
+      "news_index": 1,
+      "start_sec": 208.11,
+      "end_sec": 212.19
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "あと、可愛い猫娘のアシスタントキャラが登場するらしいわ。",
+      "news_index": 1,
+      "start_sec": 212.34,
+      "end_sec": 216.27
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ボクの中で評価点が3000ポイント加算されたのだ！",
+      "news_index": 1,
+      "start_sec": 216.42,
+      "end_sec": 220.29
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "判断基準が雑すぎる。仕事はちゃんとしてくれるのよ、選択肢を絞ったり報酬を上げたり。",
+      "news_index": 1,
+      "start_sec": 220.44,
+      "end_sec": 226.21
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "…はい、なのだ。猫娘で即神認定したのを反省したのだ。",
+      "news_index": 1,
+      "start_sec": 226.36,
+      "end_sec": 230.7
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "つまり救済システム兼ご褒美キャラ、難易度調整役ってわけね。",
+      "news_index": 1,
+      "start_sec": 230.85,
+      "end_sec": 235.03
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "chuuni",
+      "text": "鰹節を削るとは、命を削ぐということ。出荷の彼方に待つは、世界という名の試練…。",
+      "news_index": 1,
+      "start_sec": 235.11,
+      "end_sec": 241.19
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "急にポエムなのだ? 鰹節からよくそこまで詩情が湧くのだ?",
+      "news_index": 1,
+      "start_sec": 241.34,
+      "end_sec": 245.62
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ふふ、ごめんごめん。鰹節削りって瞑想っぽいなって考えてたらつい。",
+      "news_index": 1,
+      "start_sec": 245.77,
+      "end_sec": 250.31
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "さて、ここからは妄想プレイの時間ね。ずんだもん、国旗いくつ言える?",
+      "news_index": 1,
+      "start_sec": 250.39,
+      "end_sec": 255.08
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "日本、アメリカ、中国、ブラジル、えーと、ずんだ共和国…。",
+      "news_index": 1,
+      "start_sec": 255.23,
+      "end_sec": 262.29
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "最後のは存在しないでしょ。",
+      "news_index": 1,
+      "start_sec": 262.44,
+      "end_sec": 264.29
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ほら詰まった。199カ国は普通に高い壁ね。",
+      "news_index": 1,
+      "start_sec": 264.37,
+      "end_sec": 267.94
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "オーストラリアとニュージーランド、星の数まで覚える自信ないのだ。",
+      "news_index": 1,
+      "start_sec": 268.09,
+      "end_sec": 272.29
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこは6択あるから、消去法と猫娘のスキルでなんとかなる、はずよ。",
+      "news_index": 1,
+      "start_sec": 272.44,
+      "end_sec": 276.97
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "つまり地理力ゼロでも、課金と運でゴリ押せる優しい世界なのだ。",
+      "news_index": 1,
+      "start_sec": 277.12,
+      "end_sec": 281.96
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "課金要素あるとは言ってないわよ。勝手にビジネスモデル決めるな。",
+      "news_index": 1,
+      "start_sec": 282.11,
+      "end_sec": 286.03
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ともかく、削って稼いで覚えてリトライ、ループ自体は遊びと学習が両立する設計ね。",
+      "news_index": 1,
+      "start_sec": 286.11,
+      "end_sec": 291.81
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "鰹節削りながら世界を学ぶ、教育委員会推薦待ったなしなのだ。",
+      "news_index": 1,
+      "start_sec": 291.96,
+      "end_sec": 297.34
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "推薦されるか、こんなもん。",
+      "news_index": 1,
+      "start_sec": 297.49,
+      "end_sec": 299.36
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "hisohiso",
+      "text": "でも親に「これ勉強だから買って」って言われたら、子供は完全に騙されるわよね。",
+      "news_index": 1,
+      "start_sec": 299.44,
+      "end_sec": 305.44
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "次回作はぜひ「ずんだ餅サバイバー」希望なのだ！自社作品最強なのだ！",
+      "news_index": 1,
+      "start_sec": 305.59,
+      "end_sec": 310.86
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "私情挟むな、そして自社って言うな。",
+      "news_index": 1,
+      "start_sec": 311.01,
+      "end_sec": 313.38
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "まとめると、変な組み合わせを真面目に作るスタジオの、期待の理不尽作ってとこね。",
+      "news_index": 1,
+      "start_sec": 313.46,
+      "end_sec": 318.59
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ということで今夜はカツオブシクリッカーの話でした。",
+      "news_index": 1,
+      "start_sec": 318.67,
+      "end_sec": 321.83
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "Steamで「近日登場」表記なので、気になった方はウィッシュリスト入れておくのだ。",
+      "news_index": 1,
+      "start_sec": 321.98,
+      "end_sec": 327.38
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "皆さんも寝る前にコーヒーじゃなくて、お味噌汁でも飲んで休んでくださいね。鰹節入りで。",
+      "news_index": 1,
+      "start_sec": 327.53,
+      "end_sec": 333.01
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "鰹節入りはオシャレなのだ。またねー！",
+      "news_index": 1,
+      "start_sec": 333.16,
+      "end_sec": 336.13
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "またね、おやすみなさい。",
+      "news_index": 1,
+      "start_sec": 336.28,
+      "end_sec": 337.83
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 338.53,
+      "end_sec": 348.03
+    }
+  ],
+  "wall_time_sec": 10.84,
+  "audio_url": "/audio/indie/20260517_171400.mp3?v=1779010731"
+}

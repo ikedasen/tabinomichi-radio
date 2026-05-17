@@ -1,6 +1,45 @@
 {
-  "generated_at": "2026-05-17T18:21:20.581085",
+  "generated_at": "2026-05-17T18:38:54.272959",
   "episodes": [
+    {
+      "episode_id": "20260517_171400",
+      "profile": "indie",
+      "title": "削るは命、当てるは国旗 〜鰹節クリッカーの理不尽な夜〜",
+      "generated_at": "2026-05-17T08:14:00.401350+00:00",
+      "duration_sec": 348.03,
+      "audio_url": "/audio/indie/20260517_171400.mp3?v=1779010731",
+      "meta_url": "/audio/indie/20260517_171400.meta.json",
+      "script_url": "/audio/indie/20260517_171400.script.json",
+      "audio_size_mb": 5.31,
+      "featured_game": {
+        "app_id": 3746080,
+        "title": "KatsuobushiClicker",
+        "image_rel": "/images/games/3746080_header.jpg?v=1779005173",
+        "hero_rel": "/images/games/3746080_ss.jpg?v=1779005177",
+        "screenshot_rels": [
+          "/images/games/3746080_ss.jpg?v=1779005177",
+          "/images/games/3746080_ss2.jpg?v=1779005177",
+          "/images/games/3746080_ss3.jpg?v=1779005178",
+          "/images/games/3746080_ss4.jpg?v=1779005178"
+        ],
+        "developers": [
+          "AshimaruGames"
+        ],
+        "publishers": [
+          "AshimaruGames"
+        ],
+        "genres": [
+          "カジュアル",
+          "シミュレーション"
+        ],
+        "release_date": "近日登場",
+        "price": "",
+        "short_description": "かつお節を削りながら国旗クイズに挑戦する、クリッカー×記憶力ゲーム。削って、答えて、覚えてリトライ。己の記憶力、学習能力が試される国旗クリッカー！",
+        "header_url": "/images/games/3746080_header.jpg?v=1779005173"
+      },
+      "program_description": "今夜は、新作インディゲーム『カツオブシクリッカー』を深掘り。鰹節を延々と削るだけのクリッカーかと思いきや、出荷タイミングで突然199カ国から国旗を当てる6択クイズが始まる、というまさかの記憶力ゲーム。3回間違えればゲームオーバー、可愛い猫娘アシスタントが選択肢を減らしてくれたり報酬を上げてくれる救済システムまである仕様。開発は国内インディスタジオ、アシマルゲームズで、前作は高難度3Dアクション『もちじゃんぷ』、お餅が主人公の理不尽アクション作者。ずんだもんは食材シリーズに過剰反応して「次は納豆ジャンプか」と勝手にラインナップを増やし、めたんは『ピザの注文がいきなり数学になる感じ』と比喩でツッコみつつ、鰹節を削る瞑想的行為で厨二モードまで発病。終盤は『ずんだ餅サバイバー』希望コーナーまで脱線する、仕事帰りのオタクくん向け雑談回。",
+      "summary_short": ""
+    },
     {
       "episode_id": "20260517_053231",
       "profile": "ai",
@@ -138,11 +177,11 @@
       "profile": "indie",
       "title": "嵐の夜の廃屋へ 〜サウンドノベル元祖『弟切草』の鼓動〜",
       "generated_at": "2026-05-16T09:40:03.539471+00:00",
-      "duration_sec": 366.94,
-      "audio_url": "/audio/indie/20260516_184003.mp3?v=1778940226",
+      "duration_sec": 369.97,
+      "audio_url": "/audio/indie/20260516_184003.mp3?v=1779010733",
       "meta_url": "/audio/indie/20260516_184003.meta.json",
       "script_url": "/audio/indie/20260516_184003.script.json",
-      "audio_size_mb": 5.6,
+      "audio_size_mb": 5.65,
       "featured_game": {
         "vndb_id": "v661",
         "title": "弟切草",
