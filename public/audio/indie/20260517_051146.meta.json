@@ -1,0 +1,816 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-05-17T10:47:40.665368",
+  "title": "VRを脱いだ小さな剣士 〜あのネズミが画面の中にやってくる〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 385.64,
+  "script_hash": "sha256:5c5734307535ca551d70c1aaeec81e81322774b6c646bcbd22c8c5fdf775a52b",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 4.69
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便、めたんです。",
+      "news_index": 0,
+      "start_sec": 4.69,
+      "end_sec": 8.46
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "おはようなのだー！ずんだもんも朝から元気いっぱいなのだ！",
+      "news_index": 0,
+      "start_sec": 8.61,
+      "end_sec": 12.29
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "通勤通学のお供、ありがとうございます。今日はね、VR 界のレジェンドが画面の中に降りてくるっていう、けっこう熱いニュースから。",
+      "news_index": 0,
+      "start_sec": 12.44,
+      "end_sec": 20.61
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "降りてくるなのだ！？ なんかすごい言い方じゃん。",
+      "news_index": 0,
+      "start_sec": 20.76,
+      "end_sec": 24.0
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "題材はモス・ザ・フォーガットン・レリック。Polyarc が今夏出すって発表したやつ。",
+      "news_index": 1,
+      "start_sec": 24.15,
+      "end_sec": 29.43
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "聞いたことあるのだー。あれだよね、ちっちゃいネズミが冒険するやつ。",
+      "news_index": 1,
+      "start_sec": 29.58,
+      "end_sec": 33.77
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。主人公はクイルっていう、剣を構えた小さいネズミちゃん。",
+      "news_index": 1,
+      "start_sec": 33.92,
+      "end_sec": 37.99
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ちょっと待つのだ。ネズミが剣を構えるって、ジャンル的にはなんなのだ。猫よけなのだ？",
+      "news_index": 1,
+      "start_sec": 38.14,
+      "end_sec": 44.42
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "ジャンルはパズルアドベンチャー。猫よけはオプションね。",
+      "news_index": 1,
+      "start_sec": 44.57,
+      "end_sec": 47.56
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "オプション扱いなのだ！？",
+      "news_index": 1,
+      "start_sec": 47.71,
+      "end_sec": 49.69
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに絵本の中を歩くみたいな手触りで謎を解いていく作品。これが2018年に PSVR で出て、超高評価だったの。",
+      "news_index": 1,
+      "start_sec": 49.84,
+      "end_sec": 58.16
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ふむふむ。VR ゲームってことなのだね。",
+      "news_index": 1,
+      "start_sec": 58.31,
+      "end_sec": 61.16
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ところがその Moss シリーズが、今度の新作で VR 不要になったの。ここが朝のメインディッシュ。",
+      "news_index": 1,
+      "start_sec": 61.31,
+      "end_sec": 66.99
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ええっ、VR ゲームが VR 不要！？ それはもう VR じゃないじゃん。",
+      "news_index": 1,
+      "start_sec": 67.14,
+      "end_sec": 72.27
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "シリーズ集大成って位置づけね。Moss と Moss: Book II をひとつに合体して、追加 DLC まで全部詰めた決定版。",
+      "news_index": 1,
+      "start_sec": 72.42,
+      "end_sec": 79.76
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "1 と 2 と DLC で 3 本セットなのだ。お得セットじゃん。",
+      "news_index": 1,
+      "start_sec": 79.91,
+      "end_sec": 83.74
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに VR 持ってない人へのお詫び便って感じね。",
+      "news_index": 1,
+      "start_sec": 83.89,
+      "end_sec": 87.23
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "出るプラットフォーム多いのだ？",
+      "news_index": 1,
+      "start_sec": 87.38,
+      "end_sec": 89.51
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "PS5、Xbox Series X|S、Switch、Switch 2、それから PC の Steam。だいたい全機種ね。",
+      "news_index": 1,
+      "start_sec": 89.66,
+      "end_sec": 97.49
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "それもう逃げ場ないのだ！全機種で迫ってくるネズミなのだ！",
+      "news_index": 1,
+      "start_sec": 97.64,
+      "end_sec": 101.38
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "迫ってこないわよ、画面の中だから。",
+      "news_index": 1,
+      "start_sec": 101.53,
+      "end_sec": 104.0
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "……はい、なのだ。",
+      "news_index": 1,
+      "start_sec": 104.15,
+      "end_sec": 105.44
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "発売は2026年の夏予定。Steam ページも既に立ってる状態。",
+      "news_index": 1,
+      "start_sec": 105.59,
+      "end_sec": 110.32
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあ次は開発元の話なのだ？ Polyarc ってどんなところなのだ？",
+      "news_index": 1,
+      "start_sec": 110.47,
+      "end_sec": 115.04
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それね、ちょっと面白い経歴の会社なのよ。シアトルのインディスタジオで、設立は2015年。",
+      "news_index": 1,
+      "start_sec": 115.19,
+      "end_sec": 121.33
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "10年ちょっとなのだね。けっこう若いスタジオじゃん。",
+      "news_index": 1,
+      "start_sec": 121.48,
+      "end_sec": 124.74
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "創設者の3人がね、全員バンジーからの独立組なの。",
+      "news_index": 1,
+      "start_sec": 124.89,
+      "end_sec": 128.89
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ええっ、バンジーってあの Destiny の！？ Halo 作ってたとこじゃん！",
+      "news_index": 1,
+      "start_sec": 129.04,
+      "end_sec": 133.62
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、そのバンジーから3人が抜けて、VR ゲームに賭けるぞって立ち上げたのが Polyarc。",
+      "news_index": 1,
+      "start_sec": 133.77,
+      "end_sec": 139.38
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "hisohiso",
+      "text": "ここだけの話、当時の VR ってまだ業界的に賭けに近かったから、独立してこれに張るのはかなり度胸あるのよ。",
+      "news_index": 1,
+      "start_sec": 139.46,
+      "end_sec": 147.76
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "Destiny 作ってた人がいきなりちっちゃいネズミ作り始めるって振り幅すごいのだ！",
+      "news_index": 1,
+      "start_sec": 147.91,
+      "end_sec": 153.44
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに大作 FPS の人たちが、手のひらサイズの優しい物語に振り切ったって話ね。これが Polyarc のスタートライン。",
+      "news_index": 1,
+      "start_sec": 153.59,
+      "end_sec": 161.23
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "それで 2018 年に Moss が出て、ブレイクしたのだね？",
+      "news_index": 1,
+      "start_sec": 161.38,
+      "end_sec": 165.14
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ブレイクっていうか、VR ゲームの代表作のひとつになった。業界の賞も120以上ノミネートされてる。",
+      "news_index": 1,
+      "start_sec": 165.29,
+      "end_sec": 172.05
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "120！？ ボクの好きなずんだ餅の種類より多いのだ！",
+      "news_index": 1,
+      "start_sec": 172.2,
+      "end_sec": 176.43
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "そっちが少ないだけよ。",
+      "news_index": 1,
+      "start_sec": 176.58,
+      "end_sec": 178.08
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "ずんだ餅にも多様性あるのだ……",
+      "news_index": 1,
+      "start_sec": 178.23,
+      "end_sec": 180.91
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "話戻すと、その代表作を VR ヘッドセットの無い人にも届けようっていうのが今回のフォーガットン・レリック。",
+      "news_index": 1,
+      "start_sec": 181.06,
+      "end_sec": 187.71
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ふーん。でもさ、VR ゲームってヘッドセット前提で作ってあるのだろう？ カメラとか画面どうするのだ？",
+      "news_index": 1,
+      "start_sec": 187.86,
+      "end_sec": 195.15
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "いい質問ね。今回はカメラを完全に再設計して、フラット画面向けに新規カットシーンも足してる。",
+      "news_index": 1,
+      "start_sec": 195.3,
+      "end_sec": 201.67
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあ単なる移植じゃなくて、ガッツリ作り直してるってことなのだ。",
+      "news_index": 1,
+      "start_sec": 201.82,
+      "end_sec": 205.87
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。ビジュアルもアップグレード、パフォーマンス改善、新規カットシーン、全部入り。",
+      "news_index": 1,
+      "start_sec": 206.02,
+      "end_sec": 211.38
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ボク、こういう丁寧な作り直し大好きなのだー。手抜き移植じゃないやつ。",
+      "news_index": 1,
+      "start_sec": 211.53,
+      "end_sec": 217.06
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そうそう。リスペクトを感じる作り方ね、これは。",
+      "news_index": 1,
+      "start_sec": 217.21,
+      "end_sec": 220.55
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "聴いてる皆も VR 持ってなくて Moss 諦めてた人いるじゃん？ その人たちの夏が来るのだー！",
+      "news_index": 1,
+      "start_sec": 220.7,
+      "end_sec": 226.51
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "うん、これね、VR ゲームのフラット化トレンドの象徴的な一本だと思うわ。",
+      "news_index": 1,
+      "start_sec": 226.66,
+      "end_sec": 231.73
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "フラット化トレンドって他にもあるのだ？",
+      "news_index": 1,
+      "start_sec": 231.88,
+      "end_sec": 234.46
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "VR ヘッドセットの普及が頭打ちって状況があって、優秀な VR タイトルが通常画面に降りてくる流れがじわじわ進んでるのよ。",
+      "news_index": 1,
+      "start_sec": 234.61,
+      "end_sec": 243.17
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "なるほど。せっかく作った名作が VR 縛りで埋もれるのもったいないもんね。",
+      "news_index": 1,
+      "start_sec": 243.32,
+      "end_sec": 248.26
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに VR で評価された作品が、メインストリームに引っ越してくる流れが始まってるってこと。",
+      "news_index": 1,
+      "start_sec": 248.41,
+      "end_sec": 254.25
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ということは……ボクが将来 VR ずんだもんゲーム作っても、フラット版で稼げる可能性があるのだ。",
+      "news_index": 1,
+      "start_sec": 254.4,
+      "end_sec": 261.7
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "まず VR 版作れるのか、そこから怪しい。",
+      "news_index": 1,
+      "start_sec": 261.85,
+      "end_sec": 264.82
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "正論で殴らないでほしいのだ……",
+      "news_index": 1,
+      "start_sec": 264.97,
+      "end_sec": 268.01
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "話戻して、ゲームの中身ね。プレイヤーは滅びた王国の遺跡を、クイルと一緒に歩いて謎を解いていく。",
+      "news_index": 1,
+      "start_sec": 268.16,
+      "end_sec": 274.85
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "滅びた王国なのだ……",
+      "news_index": 1,
+      "start_sec": 275.0,
+      "end_sec": 276.56
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "chuuni",
+      "text": "……闇に飲まれた王座、忘れられた魔法の残響、小さき者だけが踏み込める深い静寂……。",
+      "news_index": 1,
+      "start_sec": 276.71,
+      "end_sec": 282.55
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "急に厨二発病なのだ！？",
+      "news_index": 1,
+      "start_sec": 282.7,
+      "end_sec": 284.77
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ふふ、絵本系のゲーム紹介すると、つい詩的に行きたくなるのよ。",
+      "news_index": 1,
+      "start_sec": 284.92,
+      "end_sec": 289.11
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "通勤中の皆さん、朝から厨二モード入りましたのだー！",
+      "news_index": 1,
+      "start_sec": 289.26,
+      "end_sec": 293.46
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "コホン。とにかく、雰囲気の豊かさが評価ポイントね。",
+      "news_index": 1,
+      "start_sec": 293.61,
+      "end_sec": 297.24
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "クイルってクイルって読むのだね。ペンのクイルかと思った。",
+      "news_index": 1,
+      "start_sec": 297.39,
+      "end_sec": 300.88
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "羽根ペンの方のクイルと同じ綴り。ネズミに鳥っぽい名前付けるところに開発のセンスを感じるわね。",
+      "news_index": 1,
+      "start_sec": 301.03,
+      "end_sec": 307.17
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "なんかいいのだ……ちっちゃい子が、ちっちゃい体で剣振り回して旅するの、健気で。",
+      "news_index": 1,
+      "start_sec": 307.32,
+      "end_sec": 312.52
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこの健気さが Moss シリーズの核ね。クイルを応援したくなる構造。",
+      "news_index": 1,
+      "start_sec": 312.67,
+      "end_sec": 316.95
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "ボクも夏にクイル応援するのだー！スイッチツーで買おうかな！",
+      "news_index": 1,
+      "start_sec": 317.1,
+      "end_sec": 321.46
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "スイッチツーのローンチ後の注目ラインナップ枠に綺麗にハマるタイミングよね、夏発売って。",
+      "news_index": 1,
+      "start_sec": 321.61,
+      "end_sec": 327.16
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "戦略的なのだ。",
+      "news_index": 1,
+      "start_sec": 327.31,
+      "end_sec": 328.66
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "hisohiso",
+      "text": "スイッチツーの初年度ソフトラインナップって、こういう元 VR 名作のフラット化が地味に効いてくると思うのよ。",
+      "news_index": 1,
+      "start_sec": 328.81,
+      "end_sec": 336.33
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "なるほどなのだ。プラットフォームホルダーとしても助かるラインナップだね。",
+      "news_index": 1,
+      "start_sec": 336.48,
+      "end_sec": 340.81
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。さて、そろそろまとめに入ろうかしら。",
+      "news_index": 1,
+      "start_sec": 340.96,
+      "end_sec": 344.23
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "今日のおさらいなのだ！",
+      "news_index": 1,
+      "start_sec": 344.38,
+      "end_sec": 345.8
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "Polyarc のモス・ザ・フォーガットン・レリック、Moss 1 と 2 と DLC を統合して、VR 不要で2026年夏に全機種展開。",
+      "news_index": 1,
+      "start_sec": 345.95,
+      "end_sec": 354.66
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "VR ヘッドセット持ってなくて諦めてたかた、夏まで待つのだー！",
+      "news_index": 1,
+      "start_sec": 354.81,
+      "end_sec": 359.17
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに元バンジーのチームが作った、剣を振るうちっちゃいネズミの旅、ぜひチェックして。",
+      "news_index": 1,
+      "start_sec": 359.32,
+      "end_sec": 364.68
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ちなみにジャンルは猫よけじゃないのだ。",
+      "news_index": 1,
+      "start_sec": 364.83,
+      "end_sec": 367.38
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "そこ天丼するのやめなさい。",
+      "news_index": 1,
+      "start_sec": 367.53,
+      "end_sec": 369.32
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "……ごめんなさいなのだ。",
+      "news_index": 1,
+      "start_sec": 369.47,
+      "end_sec": 370.71
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "はい、朝便、これにて。今日も一日いってらっしゃい。",
+      "news_index": 1,
+      "start_sec": 370.86,
+      "end_sec": 374.26
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "またねっ！通勤通学気をつけてなのだー！",
+      "news_index": 1,
+      "start_sec": 374.41,
+      "end_sec": 377.24
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 377.94,
+      "end_sec": 385.64
+    }
+  ],
+  "wall_time_sec": 13.03,
+  "audio_url": "/audio/indie/20260517_051146.mp3?v=1778984510"
+}

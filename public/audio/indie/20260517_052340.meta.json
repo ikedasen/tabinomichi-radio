@@ -1,0 +1,796 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-05-17T11:11:28.265000",
+  "title": "Feeling Heart 〜あの教室の朝、永遠に〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 454.03,
+  "script_hash": "sha256:ec3ed81c889964f73bd9fcc42985bd198040b945ff23ac46908229e5d3900ab5",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 6.47
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "おはようございます、旅の道ラジオ朝便なのだー！ずんだもん登場なのだ！",
+      "news_index": 0,
+      "start_sec": 6.47,
+      "end_sec": 11.48
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "またまた、あーしが担当するっすよー！今朝のテーマは『To Heart』っす！1997年にリーフが出した、学園恋愛ビジュアルノベルの伝説っす！",
+      "news_index": 0,
+      "start_sec": 11.63,
+      "end_sec": 21.4
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "通勤通学中のリスナーのかた、おはようなのだ。To Heartって、心臓を二つ持った人の医療ドラマなのだ？",
+      "news_index": 0,
+      "start_sec": 21.55,
+      "end_sec": 28.61
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "ガチで違うっす先輩、心臓じゃなくて気持ちのほうのハートっす。要するに、ふつうの高校生活が舞台の青春恋愛アドベンチャーっす。",
+      "news_index": 0,
+      "start_sec": 28.76,
+      "end_sec": 37.03
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "そっか、内臓じゃないのだ。じゃあ安心して聴けるのだー。",
+      "news_index": 0,
+      "start_sec": 37.18,
+      "end_sec": 40.85
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "聴く前から内臓の心配しないでほしいっすｗ",
+      "news_index": 0,
+      "start_sec": 41.0,
+      "end_sec": 43.77
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "発売は1997年5月23日、ウィンドウズ版が初出っす。今日が5月17日っすから、ちょうど誕生日まで6日っす。",
+      "news_index": 1,
+      "start_sec": 43.85,
+      "end_sec": 52.77
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "えっ、それガチで誕生日週なのだー！リスナーの皆、これご縁回なのだー！",
+      "news_index": 1,
+      "start_sec": 52.92,
+      "end_sec": 57.99
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "あーしも台本見てテンション爆上がりっすよ！今夜から実機立ち上げ確定っす！",
+      "news_index": 1,
+      "start_sec": 58.14,
+      "end_sec": 63.03
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "それでどんなゲームなのだ？主人公とかいるのだ？",
+      "news_index": 1,
+      "start_sec": 63.18,
+      "end_sec": 66.59
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "主人公は藤田浩之っていう、ふつうの高校2年生っす。朝に幼馴染と待ち合わせて登校して、放課後また帰るっていう日常が舞台っす。",
+      "news_index": 1,
+      "start_sec": 66.74,
+      "end_sec": 75.86
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "あれ？じゃあ途中で隕石とか落ちてくるのだ？",
+      "news_index": 1,
+      "start_sec": 76.01,
+      "end_sec": 79.24
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "隕石は落ちないっす。要するに、事件が起きないことが売りのゲームっす。",
+      "news_index": 1,
+      "start_sec": 79.39,
+      "end_sec": 83.86
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "事件起きないのが売り…つまり、平和すぎてニュースにならない町を覗くゲームなのだ？",
+      "news_index": 1,
+      "start_sec": 84.01,
+      "end_sec": 89.65
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "比喩がうまいっす先輩！まさに、ニュースにならない日常を覗き込む贅沢っす。",
+      "news_index": 1,
+      "start_sec": 89.8,
+      "end_sec": 94.66
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ヒロインが攻略対象で9人くらいいて、その子たちと日常会話を積んでいくっす。あーし、これプレイステーション版で5周してるっす！",
+      "news_index": 1,
+      "start_sec": 94.74,
+      "end_sec": 102.84
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "5周…つむぎ、目が完全にオタクなのだ…",
+      "news_index": 1,
+      "start_sec": 102.99,
+      "end_sec": 106.22
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "あと攻略本も初版で持ってるし、マルチのフィギュアは未開封で保管っす！家宝っす！",
+      "news_index": 1,
+      "start_sec": 106.37,
+      "end_sec": 111.7
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "未開封の家宝…つむぎの部屋、もはやリーフの分館なのだ。",
+      "news_index": 1,
+      "start_sec": 111.85,
+      "end_sec": 115.98
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "分館ｗ あーし今めっちゃキモいっすね、すんません先輩…",
+      "news_index": 1,
+      "start_sec": 116.13,
+      "end_sec": 119.64
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "いやキモいとは言ってないのだー！リスペクトなのだー！",
+      "news_index": 1,
+      "start_sec": 119.79,
+      "end_sec": 123.82
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "要するに、誕生日週に語るにふさわしいガチ勢ホストってことなのだ。",
+      "news_index": 1,
+      "start_sec": 123.9,
+      "end_sec": 128.54
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ここで大事なのが、To Heartはリーフのビジュアルノベルシリーズの3作目なんすよ。",
+      "news_index": 2,
+      "start_sec": 128.69,
+      "end_sec": 133.34
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "1作目が雫、2作目が痕、で3作目がTo Heartっす。シナリオは全部、高橋龍也さんが担当してるっす。",
+      "news_index": 2,
+      "start_sec": 133.42,
+      "end_sec": 141.13
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "雫って、お風呂上がりに天井から落ちてくるアレなのだ？",
+      "news_index": 2,
+      "start_sec": 141.28,
+      "end_sec": 145.08
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "天井から落ちてこないっす、雫はサイコホラー系のかなり重めなノベルっす。脱衣所関係ないっすよ。",
+      "news_index": 2,
+      "start_sec": 145.23,
+      "end_sec": 151.54
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあ痕は？転んで擦りむいた話なのだ？",
+      "news_index": 2,
+      "start_sec": 151.69,
+      "end_sec": 154.94
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "擦り傷じゃないっす、和風ゴシックな伝奇ホラー系で、これもガッツリ暗いっす。",
+      "news_index": 2,
+      "start_sec": 155.09,
+      "end_sec": 159.78
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "つまり、1作目2作目がダーク系で、3作目で急に晴れたってことなのだ？",
+      "news_index": 2,
+      "start_sec": 159.93,
+      "end_sec": 165.36
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "それっす先輩！要するに、ホラー二連発のあとに学園キラキラに振り切った3作目が、結果バカ売れしてジャンルそのものを作っちゃったってわけっす。",
+      "news_index": 2,
+      "start_sec": 165.51,
+      "end_sec": 174.17
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ジャンル作っちゃったって、リーフが新しい部活を立ち上げたみたいな話なのだ？",
+      "news_index": 2,
+      "start_sec": 174.32,
+      "end_sec": 179.43
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "部活というか、業界全体の流行を作ったっす。To Heart以降、学園日常系の恋愛アドベンチャーが各社から雨後の筍みたいに出るっす。",
+      "news_index": 2,
+      "start_sec": 179.58,
+      "end_sec": 188.46
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "雨後の筍…つまり、雨の代わりにTo Heartが降って、各社から筍がにょきにょき生えたのだ？",
+      "news_index": 2,
+      "start_sec": 188.61,
+      "end_sec": 194.99
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "比喩が変な方向に伸びたっすｗ でも近いっす、後のクラナドとかカノンとかも、To Heartの空気を吸って育った後輩っす。",
+      "news_index": 2,
+      "start_sec": 195.14,
+      "end_sec": 202.33
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "えっ、クラナドのご先祖がTo Heartなのだ！？",
+      "news_index": 2,
+      "start_sec": 202.48,
+      "end_sec": 205.8
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そっす、リーフを業界トップに押し上げたのがこの3作目で、ライターの高橋さんはこの仕事で名前が業界に響き渡ったっす。",
+      "news_index": 2,
+      "start_sec": 205.95,
+      "end_sec": 213.86
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "要するに、暗い二連発のあとの晴れ間が一番眩しかった、ってことなのだ。",
+      "news_index": 2,
+      "start_sec": 214.01,
+      "end_sec": 219.0
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そして1999年3月25日、プレイステーション版が発売されて、ここから一気に化けるっす。",
+      "news_index": 3,
+      "start_sec": 219.15,
+      "end_sec": 225.96
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "家庭用テレビでギャルゲやる時代の始まりなのだ？それともコタツの中に入って遊ぶ時代なのだ？",
+      "news_index": 3,
+      "start_sec": 226.11,
+      "end_sec": 232.37
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "コタツ要素はおまけっすｗ シーディーが2枚組で、主人公以外フルボイス、ボーナスゲームも入っててえげつないボリュームっすよ！",
+      "news_index": 3,
+      "start_sec": 232.52,
+      "end_sec": 239.77
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "シーディー2枚組…つまり、2枚目を入れ替える頃にはもう感情移入が後戻りできないやつなのだ。",
+      "news_index": 3,
+      "start_sec": 239.92,
+      "end_sec": 246.31
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "それっす！2枚目入れる頃には、もうヒロイン側の人生にこっちが住んでるっす。",
+      "news_index": 3,
+      "start_sec": 246.46,
+      "end_sec": 251.35
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "しかも1999年4月から地上波でテレビアニメも始まって、ゲームと連動した感じで放送されたっす。",
+      "news_index": 3,
+      "start_sec": 251.43,
+      "end_sec": 258.47
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "オープニング曲のFeeling Heartが、当時のオタクの共通言語になったんすよ。",
+      "news_index": 3,
+      "start_sec": 258.55,
+      "end_sec": 263.11
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "Feeling Heart！ ボクそれ知ってるのだ！",
+      "news_index": 3,
+      "start_sec": 263.26,
+      "end_sec": 266.1
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "イントロ聴いただけで朝の校庭が見える系のメロディなのだー！",
+      "news_index": 3,
+      "start_sec": 266.18,
+      "end_sec": 269.98
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "オタクくんわかるっす！？ あの曲、今聴いてもガチで胸来るっす…あーしカラオケで歌い込んだ口っす！",
+      "news_index": 3,
+      "start_sec": 270.13,
+      "end_sec": 276.07
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "つまり、ゲームからプレイステーション版に来て、アニメと主題歌でさらに広がって、雪だるま式に大きくなったってことなのだ？",
+      "news_index": 3,
+      "start_sec": 276.22,
+      "end_sec": 284.02
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "まさにそれっす。今の言葉でいうメディアミックスの成功例の初期形がTo Heartっす。",
+      "news_index": 3,
+      "start_sec": 284.17,
+      "end_sec": 289.25
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "要するに、シーディー2枚で投げたボールが、アニメと主題歌で大玉に育ったってことなのだ。",
+      "news_index": 3,
+      "start_sec": 289.4,
+      "end_sec": 295.09
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そしてやっぱり外せないのが、エイチエムエックスじゅうにマルチっす。家庭用試作機のメイドロボが、実習で高校に通うっていう設定っす。",
+      "news_index": 4,
+      "start_sec": 295.24,
+      "end_sec": 303.27
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "メイドロボが実習で高校って、それボクから言わせると教育実習生がエプロンで来てるのと変わらないのだ。",
+      "news_index": 4,
+      "start_sec": 303.42,
+      "end_sec": 310.12
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "全然違うっす先輩、教育実習生は人間で給料出るっす。マルチは試作機で、人間社会で暮らす練習をしに来てるっす。",
+      "news_index": 4,
+      "start_sec": 310.27,
+      "end_sec": 318.43
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "つまり、社会科見学のロボ版ってことなのだ？",
+      "news_index": 4,
+      "start_sec": 318.58,
+      "end_sec": 321.85
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "それは近いっす。マルチはガチで時代を作ったキャラっす、萌え系メイドロボのプロトタイプとして、後の創作にめちゃくちゃ影響を残してるっす。",
+      "news_index": 4,
+      "start_sec": 322.0,
+      "end_sec": 330.34
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "つまり、メイドとロボと学校制服の三冠コンボの元祖がマルチってことなのだ！",
+      "news_index": 4,
+      "start_sec": 330.49,
+      "end_sec": 335.69
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "言い方ｗ でも合ってるっす！あーしマルチのおかげで人生の3割くらい歪んだっす！",
+      "news_index": 4,
+      "start_sec": 335.84,
+      "end_sec": 340.52
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "つむぎ、それは胸を張って言うことじゃないのだ…",
+      "news_index": 4,
+      "start_sec": 340.67,
+      "end_sec": 343.87
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "shirake",
+      "text": "…先輩。",
+      "news_index": 4,
+      "start_sec": 344.02,
+      "end_sec": 344.89
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "な、なんでもないのだ…マルチのおかげで素敵な人生なのだー…ごめんなさいなのだ…",
+      "news_index": 4,
+      "start_sec": 345.04,
+      "end_sec": 352.14
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "コホン、要するにマルチは設定もキャラ造形も後続全部の雛形になった、ってことっす。",
+      "news_index": 4,
+      "start_sec": 352.29,
+      "end_sec": 357.86
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ストーリー本編は中身ガッツリエモいんすけど、結末はネタバレなしで温存っす。",
+      "news_index": 4,
+      "start_sec": 357.94,
+      "end_sec": 362.79
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "んー、ボクなんでこれが30年近く語り継がれてるのか、まだ完全には掴めてないのだ。",
+      "news_index": 5,
+      "start_sec": 362.94,
+      "end_sec": 369.0
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "それっす、要するに日常の描写の解像度っす。",
+      "news_index": 5,
+      "start_sec": 369.15,
+      "end_sec": 372.43
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "解像度？プレイステーション版を4Kにアプコンした話なのだ？",
+      "news_index": 5,
+      "start_sec": 372.58,
+      "end_sec": 377.05
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "アプコンじゃないっす、描写の細かさっす！朝の登校道とか、教室前の廊下とか、放課後のファミレスとか、なんでもないシーンを丁寧に積むっす。",
+      "news_index": 5,
+      "start_sec": 377.2,
+      "end_sec": 386.23
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "それまでのギャルゲって、イベントが起きないと話が動かないのが普通だったっす。To Heartは何も起きてない時間に価値を置いたっす。",
+      "news_index": 5,
+      "start_sec": 386.31,
+      "end_sec": 393.72
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "うーん、つまり、特別なことが起きないことが特別、ってことなのだ？",
+      "news_index": 5,
+      "start_sec": 393.87,
+      "end_sec": 399.07
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "オタクくん、それが正解っす！先輩、今日めっちゃ冴えてるっすね！",
+      "news_index": 5,
+      "start_sec": 399.22,
+      "end_sec": 403.49
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "やったのだー！朝から褒められて気分いいのだー！",
+      "news_index": 5,
+      "start_sec": 403.64,
+      "end_sec": 407.12
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに、ニュースにならない朝の景色を、ゲームの中に保存した一本ってことっす。",
+      "news_index": 5,
+      "start_sec": 407.27,
+      "end_sec": 412.41
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "中身ガチで濃かったっすけど、各ルートのオチや結末はネタバレなしで温存しておくっす。気になったオタクくんは実機かリメイクで触ってほしいっす。",
+      "news_index": 5,
+      "start_sec": 412.49,
+      "end_sec": 420.84
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ボクも遊んでみたくなったのだー！誕生日週末の自分へのご褒美にするのだ！",
+      "news_index": 5,
+      "start_sec": 420.99,
+      "end_sec": 426.54
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "あーし、もう実機の電源入れる準備できてるっす！今夜から復習プレイ確定っす！",
+      "news_index": 5,
+      "start_sec": 426.69,
+      "end_sec": 432.02
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "通勤通学中のリスナーの皆、今日も一日いい朝にしてなのだ！旅の道ラジオ朝便、ずんだもんと——",
+      "news_index": 5,
+      "start_sec": 432.17,
+      "end_sec": 439.13
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "春日部つむぎがお送りしたっす！またね、オタクくん！",
+      "news_index": 5,
+      "start_sec": 439.28,
+      "end_sec": 442.67
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "またなのだー！",
+      "news_index": 5,
+      "start_sec": 442.82,
+      "end_sec": 443.83
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 444.53,
+      "end_sec": 454.03
+    }
+  ],
+  "wall_time_sec": 11.21,
+  "audio_url": "/audio/indie/20260517_052340.mp3?v=1778984507"
+}
