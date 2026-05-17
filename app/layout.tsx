@@ -12,6 +12,11 @@ export const metadata: Metadata = {
   title: '旅の道ラジオ — Tabinomichi Radio',
   description: 'ずんだもん×めたんが届けるインディーゲームの深夜雑談ラジオ。',
   manifest: '/manifest.json',
+  alternates: {
+    types: {
+      'application/rss+xml': [{ url: '/feed.xml', title: '旅の道ラジオ — Podcast RSS' }],
+    },
+  },
   openGraph: {
     type: 'website',
     url: SITE_URL,
