@@ -503,7 +503,16 @@
   "featured_game": {
     "image_rel": "/images/topics/tech_20260517_053231_chars.webp",
     "hero_rel": "/images/topics/tech_20260517_053231.webp",
-    "title": "AI が世界を解く、世界が AI を問う 〜朝のテック雑談〜"
+    "title": "AI が世界を解く、世界が AI を問う 〜朝のテック雑談〜",
+    "companies": [
+      "Claude",
+      "OpenAI",
+      "X",
+      "Apple",
+      "Google",
+      "Gemini",
+      "Microsoft"
+    ]
   },
   "summary_short": "ブラウザ脆弱性を自動攻略するAI、月額300ドルの新コーディングAI、2億ドルの途上国支援、オープンAIとアップルの法廷バトル、「買ったゲームを消させない」法案大詰め——攻める側も守る側も、今朝は忙しい。"
 }

@@ -60,6 +60,9 @@ type FeaturedGame = {
   hero_rel?: string
   header_url?: string
   screenshot_rels?: string[]
+  // テック回専用: 言及された企業名 (tech_compose_hero.extract_mentioned_companies)。
+  // 底パネルで developers の代わりに「OpenAI・xAI・Anthropic」のように表示する。
+  companies?: string[]
 }
 
 type ProgramMeta = {
@@ -1014,13 +1017,23 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
 
               {/* 下端: グラデ + 現ニュース or Featured ゲーム表示 */}
               {(() => {
-                // Indie で featured_game ある時はゲーム名 + 開発元、それ以外は記事サムネのタイトル
+                // Indie で featured_game ある時はゲーム名 + 開発元、テック回は
+                // companies 一覧を「・」区切り、それ以外は記事サムネのタイトル
                 let displayTitle = ''
                 let displaySource = ''
                 if (program.featured_game) {
-                  displayTitle = program.featured_game.title
-                  const devs = program.featured_game.developers || []
-                  displaySource = devs.length > 0 ? devs.join(' / ') : 'Steam'
+                  const fg = program.featured_game
+                  const companies = fg.companies || []
+                  if (companies.length > 0) {
+                    // テック回: 企業名を主表示、副表示は「テックニュース」固定
+                    // (featured_game.title は番組タイトルと重複するので使わない)
+                    displayTitle = companies.join('・')
+                    displaySource = 'テックニュース'
+                  } else {
+                    displayTitle = fg.title
+                    const devs = fg.developers || []
+                    displaySource = devs.length > 0 ? devs.join(' / ') : 'Steam'
+                  }
                 } else if (currentCover) {
                   displayTitle = currentCover.title
                   displaySource = currentCover.source
