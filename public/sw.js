@@ -2,7 +2,7 @@
 // シェル (HTML/CSS/JS) は network-first で常に最新を取りに行く。
 // 立ち絵 PNG・アイコン・MP3 は cache-first で一度落としたら永続的にローカル参照。
 
-const CACHE_VERSION = 'v2-2026-05-11-noaudio'
+const CACHE_VERSION = 'v3-2026-05-17-speedbtn'
 const SHELL_CACHE = `shell-${CACHE_VERSION}`
 const ASSET_CACHE = `assets-${CACHE_VERSION}`
 
