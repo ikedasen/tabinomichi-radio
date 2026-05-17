@@ -201,7 +201,7 @@ export default function PageClient() {
         {/* プロファイル切替タブ */}
         <div className="mb-6 flex items-center gap-2 border-b border-amber-200/15">
           {([
-            { key: 'indie', label: 'インディーゲーム' },
+            { key: 'indie', label: 'ゲーム' },
             { key: 'ai',    label: 'テックニュース' },
           ] as { key: Profile; label: string }[]).map((tab) => {
             const active = profile === tab.key
