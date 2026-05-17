@@ -48,7 +48,13 @@ const SIZE = 3000
   }
   composites.push({ input: titleSvg, top: 1900, left: 0 })
 
-  await sharp(bg).composite(composites).png({ compressionLevel: 9 }).toFile(OUT)
+  // Apple Podcasts は RGB 限定 (RGBA NG)。removeAlpha でフラット化。
+  await sharp(bg)
+    .composite(composites)
+    .flatten({ background: { r: 0x45, g: 0x1a, b: 0x03 } })
+    .removeAlpha()
+    .png({ compressionLevel: 9 })
+    .toFile(OUT)
 
   const stat = fs.statSync(OUT)
   console.log(`wrote ${OUT} (${SIZE}x${SIZE}, ${(stat.size / 1024).toFixed(0)} KB)`)
