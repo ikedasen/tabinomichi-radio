@@ -25,6 +25,7 @@ export const VALID_TONES = [
   'shirake',
   'shitazuke',
   'shock',
+  'tsukuriama',
   'tsukuriwarai',
   'tsuntsun',
   'welcome',
