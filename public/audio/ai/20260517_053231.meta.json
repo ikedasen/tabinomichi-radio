@@ -1,17 +1,17 @@
 {
   "profile": "ai",
-  "generated_at": "2026-05-17T13:27:50.674507",
+  "generated_at": "2026-05-17T14:07:29.939389",
   "title": "AI が世界を解く、世界が AI を問う 〜朝のテック雑談〜",
   "audio_path": "ai_latest.wav",
-  "duration_sec": 460.38,
-  "script_hash": "sha256:80d7213d2975839652caa86b06eaa820ca0c32b458ae81f2cf628ae056b07b8d",
+  "duration_sec": 458.58,
+  "script_hash": "sha256:d7d4ea9426260e0538544971b581eea8f5abbb2facc721ebccbc1ed2cb935c20",
   "segments": [
     {
       "index": -1,
       "type": "intro",
       "text": "🎵 ジングル + 旅の道ラジオ！",
       "start_sec": 0.0,
-      "end_sec": 6.34
+      "end_sec": 6.47
     },
     {
       "index": 0,
@@ -20,8 +20,8 @@
       "tone": "normal",
       "text": "おはようございます、旅の道ラジオ朝便。テックニュースの回、四国めたんよ。",
       "news_index": 0,
-      "start_sec": 6.34,
-      "end_sec": 11.56
+      "start_sec": 6.47,
+      "end_sec": 11.68
     },
     {
       "index": 1,
@@ -30,8 +30,8 @@
       "tone": "mic",
       "text": "ボク、ずんだもんなのだー! 今日もテックの話、軽くサクッといく回なのだ!",
       "news_index": 0,
-      "start_sec": 11.71,
-      "end_sec": 16.68
+      "start_sec": 11.83,
+      "end_sec": 16.8
     },
     {
       "index": 2,
@@ -40,8 +40,8 @@
       "tone": "normal",
       "text": "今日は 5 本立てね。 AI がブラウザの脆弱性を自動攻略した研究、エックスエーアイの新しい開発ツール、アンソロピックとゲイツ財団の提携、オープンエーアイがアップルに不満、それと買ったゲームが消える問題への法案ね。",
       "news_index": 0,
-      "start_sec": 16.83,
-      "end_sec": 31.1
+      "start_sec": 16.95,
+      "end_sec": 31.23
     },
     {
       "index": 3,
@@ -50,8 +50,8 @@
       "tone": "amaama",
       "text": "通勤・通学のお供にぴったりじゃん!",
       "news_index": 0,
-      "start_sec": 31.25,
-      "end_sec": 33.99
+      "start_sec": 31.38,
+      "end_sec": 34.12
     },
     {
       "index": 4,
@@ -60,8 +60,8 @@
       "tone": "niyari",
       "text": "聴いてくれてるかた、コーヒー片手にゆるくついてきて。",
       "news_index": 0,
-      "start_sec": 34.14,
-      "end_sec": 37.23
+      "start_sec": 34.27,
+      "end_sec": 37.36
     },
     {
       "index": 5,
@@ -70,8 +70,8 @@
       "tone": "normal",
       "text": "まず 1 本目。エックスエーアイがコーディング用 AI の「グロック・ビルド」を早期ベータで出したのよ。",
       "news_index": 1,
-      "start_sec": 37.31,
-      "end_sec": 43.65
+      "start_sec": 37.44,
+      "end_sec": 43.78
     },
     {
       "index": 6,
@@ -80,8 +80,8 @@
       "tone": "gurugru",
       "text": "えっ、コーディング用 AI ? チャットジーピーティーじゃダメなのだ?",
       "news_index": 1,
-      "start_sec": 43.8,
-      "end_sec": 49.52
+      "start_sec": 43.93,
+      "end_sec": 49.64
     },
     {
       "index": 7,
@@ -90,8 +90,8 @@
       "tone": "normal",
       "text": "コーディング用 AI ってのはね、プログラマーの代わりにコード書いてくれる AI のこと。クロード・コードとかギットハブのコパイロットが流行ってる分野ね。",
       "news_index": 1,
-      "start_sec": 49.67,
-      "end_sec": 58.28
+      "start_sec": 49.79,
+      "end_sec": 58.4
     },
     {
       "index": 8,
@@ -100,8 +100,8 @@
       "tone": "kangae",
       "text": "ふむ、その仲間がまた増えたってことなのだ?",
       "news_index": 1,
-      "start_sec": 58.43,
-      "end_sec": 61.54
+      "start_sec": 58.55,
+      "end_sec": 61.67
     },
     {
       "index": 9,
@@ -110,8 +110,8 @@
       "tone": "niyari",
       "text": "そう。ただし問題は値段でね、「スーパーグロック・ヘビー」っていう月額 300 ドルのプランに入らないと使えないの。",
       "news_index": 1,
-      "start_sec": 61.69,
-      "end_sec": 69.03
+      "start_sec": 61.82,
+      "end_sec": 69.15
     },
     {
       "index": 10,
@@ -120,8 +120,8 @@
       "tone": "shock",
       "text": "月 300 ドル!? それ 4 万 5,000 円くらいじゃん!",
       "news_index": 1,
-      "start_sec": 69.18,
-      "end_sec": 72.57
+      "start_sec": 69.3,
+      "end_sec": 72.7
     },
     {
       "index": 11,
@@ -130,8 +130,8 @@
       "tone": "amaama",
       "text": "そうそう。 1 人の開発者が払う金額としてはなかなか強気な設定よね。",
       "news_index": 1,
-      "start_sec": 72.72,
-      "end_sec": 77.94
+      "start_sec": 72.85,
+      "end_sec": 78.06
     },
     {
       "index": 12,
@@ -140,8 +140,8 @@
       "tone": "niyari",
       "text": "それボクのおこづかい何ヶ月分なのだー!",
       "news_index": 1,
-      "start_sec": 78.09,
-      "end_sec": 81.05
+      "start_sec": 78.21,
+      "end_sec": 81.18
     },
     {
       "index": 13,
@@ -150,8 +150,8 @@
       "tone": "normal",
       "text": "面白いのは、ビルドの中で 8 つの AI を並列で走らせて、調査・計画・コード書きを同時並行でやらせる仕組みなの。",
       "news_index": 1,
-      "start_sec": 81.2,
-      "end_sec": 88.62
+      "start_sec": 81.33,
+      "end_sec": 88.74
     },
     {
       "index": 14,
@@ -160,8 +160,8 @@
       "tone": "amaama",
       "text": "8 体並行!? AI 工場じゃん!",
       "news_index": 1,
-      "start_sec": 88.77,
-      "end_sec": 91.76
+      "start_sec": 88.89,
+      "end_sec": 91.89
     },
     {
       "index": 15,
@@ -170,8 +170,8 @@
       "tone": "tsuntsun",
       "text": "比喩としては合ってる。要するに人間が監督して AI 軍団に書かせる時代ね。",
       "news_index": 1,
-      "start_sec": 91.91,
-      "end_sec": 96.79
+      "start_sec": 92.04,
+      "end_sec": 96.91
     },
     {
       "index": 16,
@@ -180,8 +180,8 @@
       "tone": "kangae",
       "text": "で、ボクたち一般人にはどう関係するのだ?",
       "news_index": 1,
-      "start_sec": 96.94,
-      "end_sec": 100.33
+      "start_sec": 97.06,
+      "end_sec": 100.46
     },
     {
       "index": 17,
@@ -190,8 +190,8 @@
       "tone": "normal",
       "text": "直接は無いけど、開発者の生産性が上がれば、アプリやサービスの値段が下がる方向に効くわ。 1 〜 2 年先の話だけどね。",
       "news_index": 1,
-      "start_sec": 100.48,
-      "end_sec": 108.7
+      "start_sec": 100.61,
+      "end_sec": 108.83
     },
     {
       "index": 18,
@@ -200,8 +200,8 @@
       "tone": "normal",
       "text": "2 本目、アンソロピックとビル・ゲイツの財団が 2 億ドルの提携を発表したのよ。",
       "news_index": 2,
-      "start_sec": 108.78,
-      "end_sec": 113.91
+      "start_sec": 108.91,
+      "end_sec": 114.04
     },
     {
       "index": 19,
@@ -210,8 +210,8 @@
       "tone": "shock",
       "text": "2 億ドル!? 約 300 億円じゃん! どこに使うのだ?",
       "news_index": 2,
-      "start_sec": 114.06,
-      "end_sec": 118.12
+      "start_sec": 114.19,
+      "end_sec": 118.24
     },
     {
       "index": 20,
@@ -220,8 +220,8 @@
       "tone": "normal",
       "text": "4 年間かけて、途上国の医療・教育・農業に AI を入れていく計画。アフリカやインドが主なフィールドね。",
       "news_index": 2,
-      "start_sec": 118.27,
-      "end_sec": 124.87
+      "start_sec": 118.39,
+      "end_sec": 125.0
     },
     {
       "index": 21,
@@ -230,8 +230,8 @@
       "tone": "kangae",
       "text": "具体的にはどんなことやるのだ?",
       "news_index": 2,
-      "start_sec": 125.02,
-      "end_sec": 127.37
+      "start_sec": 125.15,
+      "end_sec": 127.49
     },
     {
       "index": 22,
@@ -240,8 +240,8 @@
       "tone": "normal",
       "text": "ポリオやエイチピーブイ、妊娠中毒症みたいな見過ごされがちな病気のデータ分析。あと、現地語に対応した教育アプリの開発ね。",
       "news_index": 2,
-      "start_sec": 127.52,
-      "end_sec": 136.13
+      "start_sec": 127.64,
+      "end_sec": 136.25
     },
     {
       "index": 23,
@@ -250,8 +250,8 @@
       "tone": "kamera",
       "text": "ちょっと待つのだ、アフリカで AI が病気を分析するって、それ普通の人にとってどんな意味なのだ?",
       "news_index": 2,
-      "start_sec": 136.28,
-      "end_sec": 142.6
+      "start_sec": 136.4,
+      "end_sec": 142.73
     },
     {
       "index": 24,
@@ -260,8 +260,8 @@
       "tone": "niyari",
       "text": "いい質問ね。ようは、医者が圧倒的に足りてない場所で、看護師や保健所の人が AI に助けてもらう、というルートが現実的に動き始めるってこと。",
       "news_index": 2,
-      "start_sec": 142.75,
-      "end_sec": 152.02
+      "start_sec": 142.88,
+      "end_sec": 152.15
     },
     {
       "index": 25,
@@ -270,8 +270,8 @@
       "tone": "heart",
       "text": "それは……素直に良い話なのだー。",
       "news_index": 2,
-      "start_sec": 152.17,
-      "end_sec": 154.86
+      "start_sec": 152.3,
+      "end_sec": 154.98
     },
     {
       "index": 26,
@@ -280,8 +280,8 @@
       "tone": "kangae",
       "text": "あとね、面白いのが現地のアフリカ言語に対応させるところ。今の AI って英語以外に弱いから、ここは大きな宿題なのよ。",
       "news_index": 2,
-      "start_sec": 155.01,
-      "end_sec": 163.11
+      "start_sec": 155.13,
+      "end_sec": 163.24
     },
     {
       "index": 27,
@@ -290,8 +290,8 @@
       "tone": "kamera",
       "text": "つまり、 AI が英語圏ファーストから世界ファーストになる第一歩ってことなのだ?",
       "news_index": 2,
-      "start_sec": 163.26,
-      "end_sec": 168.56
+      "start_sec": 163.39,
+      "end_sec": 168.68
     },
     {
       "index": 28,
@@ -300,8 +300,8 @@
       "tone": "niyari",
       "text": "そう。それとゲイツ財団は去年オープンエーアイとも組んでるから、事実上 AI 2 大手の実力比較が途上国で始まってる、って構図でもあるわ。",
       "news_index": 2,
-      "start_sec": 168.71,
-      "end_sec": 177.71
+      "start_sec": 168.83,
+      "end_sec": 177.83
     },
     {
       "index": 29,
@@ -310,8 +310,8 @@
       "tone": "normal",
       "text": "ライバル同士が同じ土俵に降ろされてる感じじゃん。",
       "news_index": 2,
-      "start_sec": 177.86,
-      "end_sec": 181.07
+      "start_sec": 177.98,
+      "end_sec": 181.19
     },
     {
       "index": 30,
@@ -320,8 +320,8 @@
       "tone": "normal",
       "text": "3 本目、ちょっと重めの話。アンソロピックのトップ性能モデル、クロード・ミュトスが、ブラウザの脆弱性を自分で見つけて攻撃コードまで書ける、って研究が出たの。",
       "news_index": 3,
-      "start_sec": 181.22,
-      "end_sec": 191.57
+      "start_sec": 181.34,
+      "end_sec": 191.69
     },
     {
       "index": 31,
@@ -330,8 +330,8 @@
       "tone": "gurugru",
       "text": "ミュトス? それ何なのだ? あと脆弱性って?",
       "news_index": 3,
-      "start_sec": 191.72,
-      "end_sec": 196.3
+      "start_sec": 191.84,
+      "end_sec": 196.43
     },
     {
       "index": 32,
@@ -340,8 +340,8 @@
       "tone": "normal",
       "text": "ミュトスはアンソロピックがプレビュー公開してる最新モデル。脆弱性ってのは、ようはソフトの欠陥、ハッカーが入り込める隙間のことね。",
       "news_index": 3,
-      "start_sec": 196.45,
-      "end_sec": 204.81
+      "start_sec": 196.58,
+      "end_sec": 204.94
     },
     {
       "index": 33,
@@ -350,8 +350,8 @@
       "tone": "kangae",
       "text": "ふむ、ふむ。",
       "news_index": 3,
-      "start_sec": 204.96,
-      "end_sec": 206.19
+      "start_sec": 205.09,
+      "end_sec": 206.32
     },
     {
       "index": 34,
@@ -360,8 +360,8 @@
       "tone": "normal",
       "text": "カーネギーメロン大学が、グーグルの「ブイエイト」っていうブラウザの心臓部に既知の欠陥を 41 個用意して、 AI に攻撃コードを書かせるテストをしたのよ。",
       "news_index": 3,
-      "start_sec": 206.34,
-      "end_sec": 216.37
+      "start_sec": 206.47,
+      "end_sec": 216.49
     },
     {
       "index": 35,
@@ -370,8 +370,8 @@
       "tone": "amaama",
       "text": "結果はどうだったのだ?",
       "news_index": 3,
-      "start_sec": 216.52,
-      "end_sec": 218.42
+      "start_sec": 216.64,
+      "end_sec": 218.54
     },
     {
       "index": 36,
@@ -380,8 +380,8 @@
       "tone": "normal",
       "text": "ミュトスが 41 個中 21 個で、攻撃マシンを実際に乗っ取れるところまで到達。比較対象のジーピーティー 5.5 はたった 2 個。差がエグいわ。",
       "news_index": 3,
-      "start_sec": 218.57,
-      "end_sec": 227.75
+      "start_sec": 218.69,
+      "end_sec": 227.88
     },
     {
       "index": 37,
@@ -390,8 +390,8 @@
       "tone": "shock",
       "text": "つまり、 AI が本物のハッカーレベルに片足突っ込んだってことなのだ?",
       "news_index": 3,
-      "start_sec": 227.9,
-      "end_sec": 232.95
+      "start_sec": 228.03,
+      "end_sec": 233.07
     },
     {
       "index": 38,
@@ -400,8 +400,8 @@
       "tone": "niyari",
       "text": "そう。ただし 1 回のテストで 36,400 ドル、約 540 万円かかってる。ジーピーティー 5.5 の 10 倍以上ね。",
       "news_index": 3,
-      "start_sec": 233.1,
-      "end_sec": 241.07
+      "start_sec": 233.22,
+      "end_sec": 241.2
     },
     {
       "index": 39,
@@ -410,8 +410,8 @@
       "tone": "kamera",
       "text": "えっ、攻撃するのに 540 万円? そんなコストかけて元取れるのだ?",
       "news_index": 3,
-      "start_sec": 241.22,
-      "end_sec": 246.46
+      "start_sec": 241.35,
+      "end_sec": 246.59
     },
     {
       "index": 40,
@@ -420,8 +420,8 @@
       "tone": "tsuntsun",
       "text": "国家ぐるみのサイバー攻撃なら余裕で元取るレベルよ。普通の犯罪者には高いけどね。",
       "news_index": 3,
-      "start_sec": 246.61,
-      "end_sec": 252.09
+      "start_sec": 246.74,
+      "end_sec": 252.22
     },
     {
       "index": 41,
@@ -430,8 +430,8 @@
       "tone": "kangae",
       "text": "で、ボクたち普通のリスナーには、どう影響するのだ?",
       "news_index": 3,
-      "start_sec": 252.24,
-      "end_sec": 256.12
+      "start_sec": 252.37,
+      "end_sec": 256.24
     },
     {
       "index": 42,
@@ -440,8 +440,8 @@
       "tone": "normal",
       "text": "ブラウザのアップデート、来た時にすぐ当てて。本気で。サボると数年以内にエグい目に遭うかも、ってフェーズに入ったってことだから。",
       "news_index": 3,
-      "start_sec": 256.27,
-      "end_sec": 263.96
+      "start_sec": 256.39,
+      "end_sec": 264.08
     },
     {
       "index": 43,
@@ -450,8 +450,8 @@
       "tone": "kamera",
       "text": "了解なのだ、アプデは即入れる派になるのだ!",
       "news_index": 3,
-      "start_sec": 264.11,
-      "end_sec": 267.15
+      "start_sec": 264.23,
+      "end_sec": 267.27
     },
     {
       "index": 44,
@@ -460,8 +460,8 @@
       "tone": "normal",
       "text": "4 本目、オープンエーアイがアップルに法的措置を検討してる、って話。",
       "news_index": 4,
-      "start_sec": 267.3,
-      "end_sec": 272.0
+      "start_sec": 267.42,
+      "end_sec": 272.13
     },
     {
       "index": 45,
@@ -470,8 +470,8 @@
       "tone": "shock",
       "text": "えっ、組んでたじゃん、あの 2 社!",
       "news_index": 4,
-      "start_sec": 272.15,
-      "end_sec": 274.51
+      "start_sec": 272.28,
+      "end_sec": 274.63
     },
     {
       "index": 46,
@@ -480,8 +480,8 @@
       "tone": "normal",
       "text": "そうなの。 2024 年にアップルがチャットジーピーティーをアイフォーンに組み込むって発表したじゃない? あれ実は、オープンエーアイ側が思ったほど儲かってなかったらしいのよ。",
       "news_index": 4,
-      "start_sec": 274.66,
-      "end_sec": 284.79
+      "start_sec": 274.78,
+      "end_sec": 284.92
     },
     {
       "index": 47,
@@ -490,8 +490,8 @@
       "tone": "kangae",
       "text": "へえ……どういうことなのだ?",
       "news_index": 4,
-      "start_sec": 284.94,
-      "end_sec": 287.08
+      "start_sec": 285.07,
+      "end_sec": 287.2
     },
     {
       "index": 48,
@@ -500,8 +500,8 @@
       "tone": "niyari",
       "text": "アイフォーンのシリ経由でチャットジーピーティー使う人より、単独アプリで使う人の方が多くて、有料転換も全然伸びなかったの。アップルからの支払いもゼロ。",
       "news_index": 4,
-      "start_sec": 287.23,
-      "end_sec": 296.93
+      "start_sec": 287.35,
+      "end_sec": 297.06
     },
     {
       "index": 49,
@@ -510,8 +510,8 @@
       "tone": "amaama",
       "text": "なんか地味につらいやつじゃん。",
       "news_index": 4,
-      "start_sec": 297.08,
-      "end_sec": 299.08
+      "start_sec": 297.21,
+      "end_sec": 299.2
     },
     {
       "index": 50,
@@ -520,8 +520,8 @@
       "tone": "normal",
       "text": "そう。それで 6 月 8 日発表予定のアイオーエス 27 では、シリにグーグルのジェミニとアンソロピックのクロードも入る予定で、チャットジーピーティーの独占もなくなるのよ。",
       "news_index": 4,
-      "start_sec": 299.23,
-      "end_sec": 309.64
+      "start_sec": 299.35,
+      "end_sec": 309.76
     },
     {
       "index": 51,
@@ -530,8 +530,8 @@
       "tone": "shock",
       "text": "他社にも開放されたら、もっと埋もれるじゃん!",
       "news_index": 4,
-      "start_sec": 309.79,
-      "end_sec": 312.87
+      "start_sec": 309.91,
+      "end_sec": 313.0
     },
     {
       "index": 52,
@@ -540,8 +540,8 @@
       "tone": "tsuntsun",
       "text": "そう。だからキレた、って構図ね。ただし正式な提訴じゃなくて、まだ法律事務所と相談中、って段階。",
       "news_index": 4,
-      "start_sec": 313.02,
-      "end_sec": 319.95
+      "start_sec": 313.15,
+      "end_sec": 320.08
     },
     {
       "index": 53,
@@ -550,8 +550,8 @@
       "tone": "kamera",
       "text": "で、これボクたちにとってはどんな意味があるのだ?",
       "news_index": 4,
-      "start_sec": 320.1,
-      "end_sec": 323.24
+      "start_sec": 320.23,
+      "end_sec": 323.36
     },
     {
       "index": 54,
@@ -560,8 +560,8 @@
       "tone": "normal",
       "text": "教訓は、ビッグテックに乗っかれば安泰、って思ってた AI 企業の前提が崩れたってこと。アップルみたいな配信ルートが意外と機能しないって証明されつつあるわ。",
       "news_index": 4,
-      "start_sec": 323.39,
-      "end_sec": 333.52
+      "start_sec": 323.51,
+      "end_sec": 333.65
     },
     {
       "index": 55,
@@ -570,8 +570,8 @@
       "tone": "niyari",
       "text": "AI 業界、誰も安心して座れない椅子取りゲーム継続中なのだー。",
       "news_index": 4,
-      "start_sec": 333.67,
-      "end_sec": 339.09
+      "start_sec": 333.8,
+      "end_sec": 339.22
     },
     {
       "index": 56,
@@ -580,8 +580,8 @@
       "tone": "normal",
       "text": "最後 5 本目、ちょっとテック番外編。カリフォルニア州で「オンラインゲームを守る法案」が大詰めに入ってるのよ。",
       "news_index": 5,
-      "start_sec": 339.24,
-      "end_sec": 346.51
+      "start_sec": 339.37,
+      "end_sec": 346.5
     },
     {
       "index": 57,
@@ -590,7 +590,7 @@
       "tone": "kangae",
       "text": "守る、って誰から守るのだ?",
       "news_index": 5,
-      "start_sec": 346.66,
+      "start_sec": 346.65,
       "end_sec": 348.97
     },
     {
@@ -601,7 +601,7 @@
       "text": "サービス終了で消えるゲームから、消費者を守るのよ。きっかけは「ザ・クルー」っていうユービーアイソフトのレースゲームね。サーバー止めた瞬間、買った人のライブラリから消えた事件があったの。",
       "news_index": 5,
       "start_sec": 349.12,
-      "end_sec": 361.08
+      "end_sec": 361.07
     },
     {
       "index": 59,
@@ -610,7 +610,7 @@
       "tone": "shock",
       "text": "えっ、買ったのに消えるのだ!?",
       "news_index": 5,
-      "start_sec": 361.23,
+      "start_sec": 361.22,
       "end_sec": 363.55
     },
     {
@@ -651,7 +651,7 @@
       "text": "ふむ、つまり買い切りで売られたゲームだけ対象、ってことなのだ?",
       "news_index": 5,
       "start_sec": 386.67,
-      "end_sec": 391.1
+      "end_sec": 391.09
     },
     {
       "index": 64,
@@ -660,7 +660,7 @@
       "tone": "normal",
       "text": "そういうこと。業界団体は「開発コストが上がる」って猛反発してるけど、 5 月中旬に複数の委員会を突破して、州下院の本会議待ち、ってとこまで来てるわ。",
       "news_index": 5,
-      "start_sec": 391.25,
+      "start_sec": 391.24,
       "end_sec": 402.01
     },
     {
@@ -681,7 +681,7 @@
       "text": "アメリカで成立したら日本にも波及する可能性があるし、少なくともパブリッシャーがサービス終了を雑に決めにくくなる方向に動くのは確実ね。",
       "news_index": 5,
       "start_sec": 404.93,
-      "end_sec": 413.96
+      "end_sec": 413.95
     },
     {
       "index": 67,
@@ -690,7 +690,7 @@
       "tone": "amaama",
       "text": "買ったものは消えない、っていう当たり前が、法律になりつつあるのだー!",
       "news_index": 5,
-      "start_sec": 414.11,
+      "start_sec": 414.1,
       "end_sec": 419.31
     },
     {
@@ -751,16 +751,16 @@
       "text": "またね、テック朝便でお会いするのだー!",
       "news_index": 0,
       "start_sec": 447.53,
-      "end_sec": 450.19
+      "end_sec": 450.18
     },
     {
       "index": 9999,
       "type": "outro",
       "text": "🎵 ジングル + またね！",
-      "start_sec": 450.89,
-      "end_sec": 460.38
+      "start_sec": 450.88,
+      "end_sec": 458.58
     }
   ],
-  "wall_time_sec": 17.38,
-  "audio_url": "/audio/ai/20260517_053231.mp3?v=1778992075"
+  "wall_time_sec": 13.74,
+  "audio_url": "/audio/ai/20260517_053231.mp3?v=1778994453"
 }

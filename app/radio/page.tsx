@@ -248,6 +248,9 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
     return () => mq.removeEventListener('change', onChange)
   }, [])
   const [showSegments, setShowSegments] = useState(false)
+  // 倍速再生 (×1 / ×1.25 / ×1.5 / ×1.75 / ×2 から選択)。クリックで popup 開閉。
+  const [playbackRate, setPlaybackRate] = useState(1)
+  const [showSpeedMenu, setShowSpeedMenu] = useState(false)
   const audioRef = useRef<HTMLAudioElement | null>(null)
   // 目パチ・口パク state
   const [zundaBlink, setZundaBlink] = useState(false)
@@ -444,11 +447,24 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
     try {
       ms.setPositionState({
         duration,
-        playbackRate: 1.0,
+        playbackRate,
         position: Math.min(currentTime, duration),
       })
     } catch {}
-  }, [duration, currentTime])
+  }, [duration, currentTime, playbackRate])
+
+  // speed menu の外クリックで閉じる (playbackRate 反映 effect は blobUrl
+  // declare 後に置く必要があるので下方)
+  useEffect(() => {
+    if (!showSpeedMenu) return
+    const onDocClick = (e: MouseEvent) => {
+      const t = e.target as HTMLElement | null
+      if (t && t.closest('[data-speed-menu]')) return
+      setShowSpeedMenu(false)
+    }
+    document.addEventListener('click', onDocClick)
+    return () => document.removeEventListener('click', onDocClick)
+  }, [showSpeedMenu])
 
   useEffect(() => {
     const a = audioRef.current
@@ -550,6 +566,14 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
       .catch(() => { if (!canceled) setBlobUrl(audioUrl) })  // 失敗時は通常 URL にフォールバック
     return () => { canceled = true }
   }, [audioUrl])
+
+  // audio 要素に playbackRate を反映 (speed menu からの変更 + 新 blob load 時)
+  // 注: browser は src 切替で playbackRate を 1.0 にリセットするので blobUrl 依存必須。
+  useEffect(() => {
+    const a = audioRef.current
+    if (!a) return
+    a.playbackRate = playbackRate
+  }, [playbackRate, blobUrl])
 
   const segments: Segment[] = program?.audio_meta?.segments || []
   const currentSegment = segments.find(
@@ -933,9 +957,11 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
                 ) : null}
               </div>
 
-              {/* 左下に小さく ▶/⏸ を常時表示 (再生中は ⏸、停止中は ▶) */}
-              <div className="absolute left-3 bottom-3 pointer-events-none z-40">
-                <div className="w-12 h-12 rounded-full bg-black/65 ring-1 ring-white/25 flex items-center justify-center text-white shadow-lg">
+              {/* 左下: ▶/⏸ インジケータ + 倍速切替ボタン (popup 式)。
+                  ▶/⏸ は pointer-events-none でジャケットクリック (togglePlay) を素通り。
+                  速度ボタンだけは pointer-events-auto + stopPropagation でジャケットクリックを抑止。 */}
+              <div className="absolute left-3 bottom-3 z-40 flex items-end gap-2">
+                <div className="w-12 h-12 rounded-full bg-black/65 ring-1 ring-white/25 flex items-center justify-center text-white shadow-lg pointer-events-none">
                   {isPlaying ? (
                     <svg viewBox="0 0 24 24" className="w-5 h-5" fill="currentColor">
                       <rect x="6" y="5" width="4" height="14" rx="1" />
@@ -945,6 +971,43 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
                     <svg viewBox="0 0 24 24" className="w-5 h-5" fill="currentColor">
                       <path d="M8 5v14l11-7z" />
                     </svg>
+                  )}
+                </div>
+                <div className="relative pointer-events-auto" data-speed-menu>
+                  <button
+                    type="button"
+                    onClick={(e) => { e.stopPropagation(); setShowSpeedMenu((v) => !v) }}
+                    aria-label="再生速度"
+                    aria-haspopup="menu"
+                    aria-expanded={showSpeedMenu}
+                    className="w-10 h-10 rounded-full bg-black/65 ring-1 ring-white/25 flex items-center justify-center text-white text-[11px] font-bold shadow-lg hover:bg-black/85 active:scale-95 transition-all"
+                  >
+                    ×{playbackRate}
+                  </button>
+                  {showSpeedMenu && (
+                    <div
+                      role="menu"
+                      onClick={(e) => e.stopPropagation()}
+                      className="absolute left-0 bottom-12 mb-1 bg-zinc-900/95 backdrop-blur-sm ring-1 ring-white/15 rounded-xl py-1 shadow-2xl min-w-[88px]"
+                    >
+                      {[1, 1.25, 1.5, 1.75, 2].map((r) => (
+                        <button
+                          key={r}
+                          type="button"
+                          role="menuitemradio"
+                          aria-checked={playbackRate === r}
+                          onClick={(e) => { e.stopPropagation(); setPlaybackRate(r); setShowSpeedMenu(false) }}
+                          className={[
+                            'block w-full px-4 py-1.5 text-sm text-left transition-colors',
+                            playbackRate === r
+                              ? 'text-emerald-300 font-bold bg-white/5'
+                              : 'text-zinc-100 hover:bg-white/10',
+                          ].join(' ')}
+                        >
+                          ×{r}
+                        </button>
+                      ))}
+                    </div>
                   )}
                 </div>
               </div>
