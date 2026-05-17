@@ -645,7 +645,13 @@
   "featured_game": {
     "image_rel": "/images/topics/tech_20260516_205037_chars.webp",
     "hero_rel": "/images/topics/tech_20260516_205037.webp",
-    "title": "OpenAIを問う9人 〜営利転換は約束破りなのか、評決を待つ夜〜"
+    "title": "OpenAIを問う9人 〜営利転換は約束破りなのか、評決を待つ夜〜",
+    "companies": [
+      "OpenAI",
+      "Microsoft",
+      "X",
+      "Claude"
+    ]
   },
   "summary_short": "マスク対アルトマン裁判がいよいよ評決審議へ。OpenAIの非営利→営利転換は「約束破り」なのか、慈善信託違反・利益相反・マイクロソフトの幇助責任という三層の争点を解きほぐし、Azure依存のAIサービスへの波及まで見通す。"
 }
