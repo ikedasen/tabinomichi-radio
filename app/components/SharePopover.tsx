@@ -48,13 +48,18 @@ export default function SharePopover({ title, url: urlOverride, variant = 'amber
   }
 
   const onX = () => {
-    // text に title のみ prefilled (= user が編集 box で自由にコメント追加可能)。
-    // card preview にも同 title が出るので X 表示上は重複するが、X の仕様で URL を
-    // 渡すと card preview が必ず og:title を表示するため避けられない。
-    // 過去対応で text 完全削除 → 「タイトル何も入らない、不便」となったため、
-    // 中間案として "title のみ" (サイト名サフィックス無し)。user は不要なら削除可能。
+    // X side の OG card cache 対策: tweet URL に unique query (timestamp) を
+    // 付与して、X が「別 URL」と認識して fresh fetch するよう仕向ける。
+    // 元 URL のまま渡すと X 側の cache が永続表示されて、site 側で OG を更新
+    // しても新 card が反映されない事故が起きる (= viviON 回で発覚)。
+    // _t は 5 分単位の epoch にして、短時間の連続押下では同 URL になるよう丸める
+    // (= 同 user の即連続シェアで X の "url ですでに見たことある" 挙動も活かす)。
+    const targetUrl = getUrl()
+    const sep = targetUrl.includes('?') ? '&' : '?'
+    const bucket = Math.floor(Date.now() / (5 * 60 * 1000))  // 5 min バケット
+    const freshUrl = `${targetUrl}${sep}_card=${bucket}`
     const shareText = title || SITE_NAME
-    const u = `https://x.com/intent/post?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(getUrl())}`
+    const u = `https://x.com/intent/post?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(freshUrl)}`
     openIntent(u)
   }
 
