@@ -1,17 +1,17 @@
 {
   "profile": "ai",
-  "generated_at": "2026-05-18T10:05:06.681475",
+  "generated_at": "2026-05-18T10:22:53.031220",
   "title": "アンソロピック逆転の朝 〜AI が暮らしに迫ってくる5つの動き〜",
   "audio_path": "ai_latest.wav",
-  "duration_sec": 438.25,
-  "script_hash": "sha256:9c50e8c4285b598ef7332a6d8404afdec4917b6a9ed10bcb034c8cee72a370d7",
+  "duration_sec": 441.5,
+  "script_hash": "sha256:8bb991b8a7c9153cbe19a052e95146de2a801e04ee4d1b434734024480bfb4ef",
   "segments": [
     {
       "index": -1,
       "type": "intro",
       "text": "🎵 ジングル + 旅の道ラジオ！",
       "start_sec": 0.0,
-      "end_sec": 6.34
+      "end_sec": 9.59
     },
     {
       "index": 0,
@@ -20,8 +20,8 @@
       "tone": "normal",
       "text": "おはようございます、旅の道ラジオ朝便、テックニュースの回。四国めたんよ。",
       "news_index": 0,
-      "start_sec": 6.34,
-      "end_sec": 11.56
+      "start_sec": 9.59,
+      "end_sec": 14.81
     },
     {
       "index": 1,
@@ -30,8 +30,8 @@
       "tone": "mic",
       "text": "ボク、ずんだもんなのだー! 今朝もテックの話題、軽くサクッといくのだー!",
       "news_index": 0,
-      "start_sec": 11.71,
-      "end_sec": 16.51
+      "start_sec": 14.96,
+      "end_sec": 19.76
     },
     {
       "index": 2,
@@ -40,8 +40,8 @@
       "tone": "amaama",
       "text": "今朝は AI 業界の話題を 5 本立てでね、軽く流していくわよ。",
       "news_index": 0,
-      "start_sec": 16.66,
-      "end_sec": 21.04
+      "start_sec": 19.91,
+      "end_sec": 24.29
     },
     {
       "index": 3,
@@ -50,8 +50,8 @@
       "tone": "normal",
       "text": "5 本も!? お腹いっぱいなのだー。",
       "news_index": 0,
-      "start_sec": 21.19,
-      "end_sec": 23.51
+      "start_sec": 24.44,
+      "end_sec": 26.76
     },
     {
       "index": 4,
@@ -60,8 +60,8 @@
       "tone": "tsuntsun",
       "text": "朝食より軽いって。専門用語も全部かみ砕いていくから安心しなさい。",
       "news_index": 0,
-      "start_sec": 23.66,
-      "end_sec": 28.16
+      "start_sec": 26.91,
+      "end_sec": 31.41
     },
     {
       "index": 5,
@@ -70,8 +70,8 @@
       "tone": "kamera",
       "text": "で、最初は何なのだ?",
       "news_index": 0,
-      "start_sec": 28.31,
-      "end_sec": 30.25
+      "start_sec": 31.56,
+      "end_sec": 33.5
     },
     {
       "index": 6,
@@ -80,8 +80,8 @@
       "tone": "niyari",
       "text": "AI 業界の「番付がひっくり返った」話から。",
       "news_index": 0,
-      "start_sec": 30.4,
-      "end_sec": 33.89
+      "start_sec": 33.65,
+      "end_sec": 37.14
     },
     {
       "index": 7,
@@ -90,8 +90,8 @@
       "tone": "normal",
       "text": "まず 1 本目。ランプっていう、アメリカで企業の支出データを集めてる会社があるのよ。",
       "news_index": 1,
-      "start_sec": 33.97,
-      "end_sec": 39.21
+      "start_sec": 37.22,
+      "end_sec": 42.47
     },
     {
       "index": 8,
@@ -100,8 +100,8 @@
       "tone": "gurugru",
       "text": "ランプ? 電気のランプなのだ?",
       "news_index": 1,
-      "start_sec": 39.36,
-      "end_sec": 42.36
+      "start_sec": 42.62,
+      "end_sec": 45.61
     },
     {
       "index": 9,
@@ -110,8 +110,8 @@
       "tone": "tsuntsun",
       "text": "違う、会社の名前。「どこの会社が、毎月 AI にいくら払ってるか」を集計してる場所ね。",
       "news_index": 1,
-      "start_sec": 42.51,
-      "end_sec": 48.5
+      "start_sec": 45.76,
+      "end_sec": 51.75
     },
     {
       "index": 10,
@@ -120,8 +120,8 @@
       "tone": "normal",
       "text": "そこの 4 月データで、アンソロピックが初めてオープンエーアイを抜いたの。",
       "news_index": 1,
-      "start_sec": 48.58,
-      "end_sec": 52.76
+      "start_sec": 51.83,
+      "end_sec": 56.01
     },
     {
       "index": 11,
@@ -130,8 +130,8 @@
       "tone": "shock",
       "text": "抜いた!? あの、チャットジーピーティーの会社を、なのだ?",
       "news_index": 1,
-      "start_sec": 52.91,
-      "end_sec": 56.93
+      "start_sec": 56.16,
+      "end_sec": 60.18
     },
     {
       "index": 12,
@@ -140,8 +140,8 @@
       "tone": "niyari",
       "text": "そう。アンソロピックが 34.4%、オープンエーアイが 32.3%。1 年前のアンソロピックは、たった 9% だったのよ。",
       "news_index": 1,
-      "start_sec": 57.08,
-      "end_sec": 66.63
+      "start_sec": 60.33,
+      "end_sec": 69.88
     },
     {
       "index": 13,
@@ -150,8 +150,8 @@
       "tone": "kangae",
       "text": "1 年で 9% から 34% って、ボクの貯金が 1 年で 4 倍に化けるみたいな伸び方なのだ……。",
       "news_index": 1,
-      "start_sec": 66.78,
-      "end_sec": 73.94
+      "start_sec": 70.03,
+      "end_sec": 77.19
     },
     {
       "index": 14,
@@ -160,8 +160,8 @@
       "tone": "normal",
       "text": "で、なんでそんなに伸びたのだ?",
       "news_index": 1,
-      "start_sec": 74.02,
-      "end_sec": 76.23
+      "start_sec": 77.27,
+      "end_sec": 79.48
     },
     {
       "index": 15,
@@ -170,8 +170,8 @@
       "tone": "amaama",
       "text": "一番の理由は「クロード・コード」っていう、コードを書いてくれる AI ね。これがエンジニアにバカ刺さりしてるの。",
       "news_index": 1,
-      "start_sec": 76.38,
-      "end_sec": 83.6
+      "start_sec": 79.63,
+      "end_sec": 86.85
     },
     {
       "index": 16,
@@ -180,8 +180,8 @@
       "tone": "heart",
       "text": "そんなに人気なのだ?",
       "news_index": 1,
-      "start_sec": 83.75,
-      "end_sec": 85.47
+      "start_sec": 87.0,
+      "end_sec": 88.72
     },
     {
       "index": 17,
@@ -190,8 +190,8 @@
       "tone": "normal",
       "text": "ウーバーが、今年 1 年分の AI 予算を、たった 4 ヶ月で使い切ったって話まで出てるわよ。",
       "news_index": 1,
-      "start_sec": 85.62,
-      "end_sec": 91.58
+      "start_sec": 88.87,
+      "end_sec": 94.83
     },
     {
       "index": 18,
@@ -200,8 +200,8 @@
       "tone": "shock",
       "text": "えっ! 1 年分を 4 ヶ月で!? ボクの 1 年の予算が 3 倍速で蒸発するペースなのだ!?",
       "news_index": 1,
-      "start_sec": 91.73,
-      "end_sec": 98.43
+      "start_sec": 94.98,
+      "end_sec": 101.68
     },
     {
       "index": 19,
@@ -210,8 +210,8 @@
       "tone": "niyari",
       "text": "要するに「コードを書く現場では、AI に金を出す方が、人を増やすより速い」って判断が広がってる、って話。",
       "news_index": 1,
-      "start_sec": 98.58,
-      "end_sec": 106.2
+      "start_sec": 101.83,
+      "end_sec": 109.45
     },
     {
       "index": 20,
@@ -220,8 +220,8 @@
       "tone": "kamera",
       "text": "ボクたちが毎日使ってるアプリの裏側、もう人間より AI の方が書いてる時代に入ってるのだー。",
       "news_index": 1,
-      "start_sec": 106.35,
-      "end_sec": 112.69
+      "start_sec": 109.6,
+      "end_sec": 115.95
     },
     {
       "index": 21,
@@ -230,8 +230,8 @@
       "tone": "normal",
       "text": "で、その「ボロ負けしかけたオープンエーアイ」がどう動いたか、ってのが 2 本目の話。",
       "news_index": 2,
-      "start_sec": 112.84,
-      "end_sec": 118.42
+      "start_sec": 116.1,
+      "end_sec": 121.67
     },
     {
       "index": 22,
@@ -240,8 +240,8 @@
       "tone": "normal",
       "text": "反撃なのだ?",
       "news_index": 2,
-      "start_sec": 118.57,
-      "end_sec": 119.83
+      "start_sec": 121.82,
+      "end_sec": 123.08
     },
     {
       "index": 23,
@@ -250,8 +250,8 @@
       "tone": "normal",
       "text": "グレッグ・ブロックマンっていう、共同創業者が、製品戦略のトップに正式に就任したの。",
       "news_index": 2,
-      "start_sec": 119.98,
-      "end_sec": 126.0
+      "start_sec": 123.23,
+      "end_sec": 129.25
     },
     {
       "index": 24,
@@ -260,8 +260,8 @@
       "tone": "gurugru",
       "text": "誰なのだ、その人?",
       "news_index": 2,
-      "start_sec": 126.15,
-      "end_sec": 128.47
+      "start_sec": 129.4,
+      "end_sec": 131.72
     },
     {
       "index": 25,
@@ -270,8 +270,8 @@
       "tone": "tsuntsun",
       "text": "オープンエーアイ立ち上げメンバーの 1 人。1 年くらい休んでた人が、復帰して全権握ったわけ。",
       "news_index": 2,
-      "start_sec": 128.62,
-      "end_sec": 134.49
+      "start_sec": 131.87,
+      "end_sec": 137.74
     },
     {
       "index": 26,
@@ -280,8 +280,8 @@
       "tone": "niyari",
       "text": "で、戻ってきて何やったかというと——チャットジーピーティーとコーデックスを 1 つに統合した。",
       "news_index": 2,
-      "start_sec": 134.57,
-      "end_sec": 140.03
+      "start_sec": 137.82,
+      "end_sec": 143.28
     },
     {
       "index": 27,
@@ -290,8 +290,8 @@
       "tone": "gurugru",
       "text": "コーデックス? それも AI なのだ?",
       "news_index": 2,
-      "start_sec": 140.18,
-      "end_sec": 143.5
+      "start_sec": 143.43,
+      "end_sec": 146.75
     },
     {
       "index": 28,
@@ -300,8 +300,8 @@
       "tone": "amaama",
       "text": "そう、コードを書く側のオープンエーアイ製品ね。これをチャットジーピーティーと合体させて「全部入りのスーパーアプリ」にする方針なの。",
       "news_index": 2,
-      "start_sec": 143.65,
-      "end_sec": 152.3
+      "start_sec": 146.9,
+      "end_sec": 155.55
     },
     {
       "index": 29,
@@ -310,8 +310,8 @@
       "tone": "normal",
       "text": "合体ロボなのだ……。動画作るソラとかはどうなるのだ?",
       "news_index": 2,
-      "start_sec": 152.45,
-      "end_sec": 155.98
+      "start_sec": 155.7,
+      "end_sec": 159.23
     },
     {
       "index": 30,
@@ -320,8 +320,8 @@
       "tone": "tsuntsun",
       "text": "ソラは停止。要するに「サイドの遊びは全部やめる、本業 1 個に集中する」って戦略よ。",
       "news_index": 2,
-      "start_sec": 156.13,
-      "end_sec": 162.45
+      "start_sec": 159.38,
+      "end_sec": 165.71
     },
     {
       "index": 31,
@@ -330,8 +330,8 @@
       "tone": "kangae",
       "text": "つまり、近いうちにチャットジーピーティー 1 個で、調べ物・コード・全部やってくれる「何でも屋」になるってことなのだ?",
       "news_index": 2,
-      "start_sec": 162.6,
-      "end_sec": 170.66
+      "start_sec": 165.86,
+      "end_sec": 173.91
     },
     {
       "index": 32,
@@ -340,8 +340,8 @@
       "tone": "normal",
       "text": "その通り。便利になる反面、ボクたちの「AI 接点」が 1 社にどんどん集約されていく流れ、ってことね。",
       "news_index": 2,
-      "start_sec": 170.81,
-      "end_sec": 177.86
+      "start_sec": 174.06,
+      "end_sec": 181.11
     },
     {
       "index": 33,
@@ -350,8 +350,8 @@
       "tone": "normal",
       "text": "3 本目、ちょっと毛色変えて法律の話。",
       "news_index": 3,
-      "start_sec": 177.94,
-      "end_sec": 180.8
+      "start_sec": 181.19,
+      "end_sec": 184.05
     },
     {
       "index": 34,
@@ -360,8 +360,8 @@
       "tone": "normal",
       "text": "お、堅い話なのだ。",
       "news_index": 3,
-      "start_sec": 180.95,
-      "end_sec": 182.81
+      "start_sec": 184.2,
+      "end_sec": 186.07
     },
     {
       "index": 35,
@@ -370,8 +370,8 @@
       "tone": "normal",
       "text": "アンソロピックが、本の著者たちと 15 億ドルの和解で揉めてるって話。",
       "news_index": 3,
-      "start_sec": 182.96,
-      "end_sec": 187.33
+      "start_sec": 186.22,
+      "end_sec": 190.58
     },
     {
       "index": 36,
@@ -380,8 +380,8 @@
       "tone": "shock",
       "text": "15 億ドル!? それ、AI が本を勝手に学習に使ったことへの賠償なのだ?",
       "news_index": 3,
-      "start_sec": 187.48,
-      "end_sec": 193.41
+      "start_sec": 190.73,
+      "end_sec": 196.66
     },
     {
       "index": 37,
@@ -390,8 +390,8 @@
       "tone": "niyari",
       "text": "そう。約 2,300 億円分。AI と著作権の裁判の中では、今のところ史上最大の和解額。",
       "news_index": 3,
-      "start_sec": 193.56,
-      "end_sec": 200.62
+      "start_sec": 196.81,
+      "end_sec": 203.87
     },
     {
       "index": 38,
@@ -400,8 +400,8 @@
       "tone": "kangae",
       "text": "……でも、揉めてるってどういうことなのだ? 払う側はもう払う気なのに。",
       "news_index": 3,
-      "start_sec": 200.77,
-      "end_sec": 205.38
+      "start_sec": 204.02,
+      "end_sec": 208.63
     },
     {
       "index": 39,
@@ -410,8 +410,8 @@
       "tone": "tsuntsun",
       "text": "著者の中で 53 人が「この和解、納得いかない」って異議を申し立てたの。",
       "news_index": 3,
-      "start_sec": 205.53,
-      "end_sec": 210.68
+      "start_sec": 208.78,
+      "end_sec": 213.93
     },
     {
       "index": 40,
@@ -420,8 +420,8 @@
       "tone": "normal",
       "text": "えっ、なんでなのだ? 払ってもらえるんじゃないのか?",
       "news_index": 3,
-      "start_sec": 210.83,
-      "end_sec": 214.41
+      "start_sec": 214.08,
+      "end_sec": 217.66
     },
     {
       "index": 41,
@@ -430,8 +430,8 @@
       "tone": "amaama",
       "text": "不満の中身は、まず分配が出版社優先で著者の取り分が薄いってこと。あと「数十億ドル払えば海賊行為が許される、危ない前例になる」って懸念ね。",
       "news_index": 3,
-      "start_sec": 214.56,
-      "end_sec": 225.43
+      "start_sec": 217.81,
+      "end_sec": 228.68
     },
     {
       "index": 42,
@@ -440,8 +440,8 @@
       "tone": "heart",
       "text": "あー……「金で殴れば著作権は無視できる」って判例になっちゃう、ってことなのだ?",
       "news_index": 3,
-      "start_sec": 225.58,
-      "end_sec": 231.84
+      "start_sec": 228.83,
+      "end_sec": 235.09
     },
     {
       "index": 43,
@@ -450,8 +450,8 @@
       "tone": "niyari",
       "text": "そういう懸念ね。判事も判断を先延ばしにしてる状況で、要するにこの裁判、AI に文章を学習されてる全クリエイターの今後を決める前例になりかねないってこと。",
       "news_index": 3,
-      "start_sec": 231.99,
-      "end_sec": 242.62
+      "start_sec": 235.24,
+      "end_sec": 245.87
     },
     {
       "index": 44,
@@ -460,8 +460,8 @@
       "tone": "kamera",
       "text": "ボクが書いた日記も、いつの間にか AI の学習データになってる時代だから……他人事じゃないのだー。",
       "news_index": 3,
-      "start_sec": 242.77,
-      "end_sec": 249.0
+      "start_sec": 246.02,
+      "end_sec": 252.25
     },
     {
       "index": 45,
@@ -470,8 +470,8 @@
       "tone": "normal",
       "text": "4 本目、これは身近なプライバシーの話。",
       "news_index": 4,
-      "start_sec": 249.15,
-      "end_sec": 252.01
+      "start_sec": 252.4,
+      "end_sec": 255.26
     },
     {
       "index": 46,
@@ -480,8 +480,8 @@
       "tone": "normal",
       "text": "あ、ボクの個人情報、大丈夫なやつなのだ?",
       "news_index": 4,
-      "start_sec": 252.16,
-      "end_sec": 255.68
+      "start_sec": 255.41,
+      "end_sec": 258.93
     },
     {
       "index": 47,
@@ -490,8 +490,8 @@
       "tone": "tsuntsun",
       "text": "……大丈夫じゃない話を、今からするのよ。",
       "news_index": 4,
-      "start_sec": 255.83,
-      "end_sec": 258.52
+      "start_sec": 259.08,
+      "end_sec": 261.78
     },
     {
       "index": 48,
@@ -500,8 +500,8 @@
       "tone": "shock",
       "text": "えっ!?",
       "news_index": 4,
-      "start_sec": 258.67,
-      "end_sec": 259.23
+      "start_sec": 261.93,
+      "end_sec": 262.48
     },
     {
       "index": 49,
@@ -510,8 +510,8 @@
       "tone": "normal",
       "text": "マサチューセッツ工科大学の技術系メディアが調査したら、AI のチャットボットに「○○さんの電話番号教えて」って聞くと、実在する人の本物の番号を答えちゃうケースが多発してる、って判明したの。",
       "news_index": 4,
-      "start_sec": 259.38,
-      "end_sec": 272.47
+      "start_sec": 262.63,
+      "end_sec": 275.72
     },
     {
       "index": 50,
@@ -520,8 +520,8 @@
       "tone": "gurugru",
       "text": "えっ、なんでそんなことに?",
       "news_index": 4,
-      "start_sec": 272.62,
-      "end_sec": 275.4
+      "start_sec": 275.87,
+      "end_sec": 278.65
     },
     {
       "index": 51,
@@ -530,8 +530,8 @@
       "tone": "amaama",
       "text": "AI を作るときに「ネット中の文章を全部読ませて学習」するから、その中に昔ネットに載っちゃった電話番号も混ざってるのよ。",
       "news_index": 4,
-      "start_sec": 275.55,
-      "end_sec": 284.16
+      "start_sec": 278.8,
+      "end_sec": 287.41
     },
     {
       "index": 52,
@@ -540,8 +540,8 @@
       "tone": "kangae",
       "text": "つまり、過去にうっかりネットに載った番号は、AI の中に保存されたまま、誰でも引き出せる状態ってことなのだ?",
       "news_index": 4,
-      "start_sec": 284.31,
-      "end_sec": 292.07
+      "start_sec": 287.56,
+      "end_sec": 295.33
     },
     {
       "index": 53,
@@ -550,8 +550,8 @@
       "tone": "niyari",
       "text": "雑に言うとそう。本人は知らないうちに自分の番号が拡散されるリスクがあるわけ。",
       "news_index": 4,
-      "start_sec": 292.22,
-      "end_sec": 297.41
+      "start_sec": 295.48,
+      "end_sec": 300.66
     },
     {
       "index": 54,
@@ -560,8 +560,8 @@
       "tone": "namidame",
       "text": "それ、ボクの母さんの番号も大丈夫かな……。",
       "news_index": 4,
-      "start_sec": 297.56,
-      "end_sec": 301.49
+      "start_sec": 300.81,
+      "end_sec": 304.75
     },
     {
       "index": 55,
@@ -570,8 +570,8 @@
       "tone": "tsuntsun",
       "text": "心配なら、家族の番号がネットに載ってないか一度ググるしかないわね。要するに「AI の頭の中には、忘れてほしい個人情報まで丸ごと残ってる」って話。",
       "news_index": 4,
-      "start_sec": 301.64,
-      "end_sec": 312.03
+      "start_sec": 304.9,
+      "end_sec": 315.28
     },
     {
       "index": 56,
@@ -580,8 +580,8 @@
       "tone": "kamera",
       "text": "「AI が便利になるほど、過去のうっかりも掘り起こされる」ってことなのだ。怖いのだー。",
       "news_index": 4,
-      "start_sec": 312.18,
-      "end_sec": 317.72
+      "start_sec": 315.43,
+      "end_sec": 320.97
     },
     {
       "index": 57,
@@ -590,8 +590,8 @@
       "tone": "normal",
       "text": "ラスト 5 本目、ちょっと希望のある話で締めるわよ。",
       "news_index": 5,
-      "start_sec": 317.87,
-      "end_sec": 321.08
+      "start_sec": 321.12,
+      "end_sec": 324.33
     },
     {
       "index": 58,
@@ -600,8 +600,8 @@
       "tone": "normal",
       "text": "お、いいのだー。プライバシー怖い話のあとに、何なのだ?",
       "news_index": 5,
-      "start_sec": 321.23,
-      "end_sec": 325.65
+      "start_sec": 324.48,
+      "end_sec": 328.9
     },
     {
       "index": 59,
@@ -610,8 +610,8 @@
       "tone": "normal",
       "text": "中国のスマホメーカー「オッポ」が、アンドロイドで動く AI エージェントをオープンソースで公開したの。",
       "news_index": 5,
-      "start_sec": 325.8,
-      "end_sec": 332.26
+      "start_sec": 329.05,
+      "end_sec": 335.51
     },
     {
       "index": 60,
@@ -620,8 +620,8 @@
       "tone": "gurugru",
       "text": "AI エージェントって何なのだ?",
       "news_index": 5,
-      "start_sec": 332.41,
-      "end_sec": 335.23
+      "start_sec": 335.66,
+      "end_sec": 338.48
     },
     {
       "index": 61,
@@ -630,8 +630,8 @@
       "tone": "amaama",
       "text": "AI が人間に代わって、スマホを自動で操作してくれる仕組みね。画面見て、カメラ使って、必要ならアプリ開いて買い物までやってくれるの。",
       "news_index": 5,
-      "start_sec": 335.38,
-      "end_sec": 344.59
+      "start_sec": 338.63,
+      "end_sec": 347.84
     },
     {
       "index": 62,
@@ -640,8 +640,8 @@
       "tone": "kamera",
       "text": "えっ、AI がボクのスマホを乗っ取って、何でもやってくれるってことなのだ?",
       "news_index": 5,
-      "start_sec": 344.74,
-      "end_sec": 349.76
+      "start_sec": 347.99,
+      "end_sec": 353.01
     },
     {
       "index": 63,
@@ -650,8 +650,8 @@
       "tone": "tsuntsun",
       "text": "乗っ取られるって言うな。委任するの。",
       "news_index": 5,
-      "start_sec": 349.91,
-      "end_sec": 352.13
+      "start_sec": 353.16,
+      "end_sec": 355.39
     },
     {
       "index": 64,
@@ -660,8 +660,8 @@
       "tone": "normal",
       "text": "で、何がそんなに新しいのだ? グーグルもアップルも似たの作ってるじゃん。",
       "news_index": 5,
-      "start_sec": 352.28,
-      "end_sec": 357.11
+      "start_sec": 355.54,
+      "end_sec": 360.36
     },
     {
       "index": 65,
@@ -670,8 +670,8 @@
       "tone": "niyari",
       "text": "一番の違いは「全部スマホの中で完結する」って点。クラウドにデータを送らずに、端末上だけで処理するから、プライバシー的に強いの。",
       "news_index": 5,
-      "start_sec": 357.26,
-      "end_sec": 366.13
+      "start_sec": 360.51,
+      "end_sec": 369.38
     },
     {
       "index": 66,
@@ -680,8 +680,8 @@
       "tone": "heart",
       "text": "えっ、さっきの電話番号漏洩の話とつながってるのだ!? クラウドに送らないなら、漏れる場所もないってことなのだ?",
       "news_index": 5,
-      "start_sec": 366.28,
-      "end_sec": 374.7
+      "start_sec": 369.53,
+      "end_sec": 377.95
     },
     {
       "index": 67,
@@ -690,8 +690,8 @@
       "tone": "amaama",
       "text": "そう、まさにそこ。オープンソースだから他のアンドロイドのメーカーも参考に作れて、「端末内で AI が動く」流れが本気で来てる合図ね。",
       "news_index": 5,
-      "start_sec": 374.85,
-      "end_sec": 384.03
+      "start_sec": 378.1,
+      "end_sec": 387.28
     },
     {
       "index": 68,
@@ -700,8 +700,8 @@
       "tone": "kamera",
       "text": "ボクのスマホが、ボクの秘密を外に出さずに、勝手に仕事してくれる時代がそこまで来てるのだー。",
       "news_index": 5,
-      "start_sec": 384.18,
-      "end_sec": 390.26
+      "start_sec": 387.43,
+      "end_sec": 393.51
     },
     {
       "index": 69,
@@ -710,8 +710,8 @@
       "tone": "normal",
       "text": "……ってことで、今朝のテックニュースは以上 5 本ね。",
       "news_index": 0,
-      "start_sec": 390.41,
-      "end_sec": 393.25
+      "start_sec": 393.66,
+      "end_sec": 396.5
     },
     {
       "index": 70,
@@ -720,8 +720,8 @@
       "tone": "normal",
       "text": "振り返ると、アンソロピックがオープンエーアイ抜いて、その反撃で組織再編、著作権で揉めて、AI が個人情報漏らして、最後にオッポが「端末内で完結」で希望、って流れだったのだー。",
       "news_index": 0,
-      "start_sec": 393.4,
-      "end_sec": 406.34
+      "start_sec": 396.65,
+      "end_sec": 409.59
     },
     {
       "index": 71,
@@ -730,8 +730,8 @@
       "tone": "niyari",
       "text": "1 本でテック業界の今がだいたい見える感じね。",
       "news_index": 0,
-      "start_sec": 406.49,
-      "end_sec": 409.67
+      "start_sec": 409.74,
+      "end_sec": 412.92
     },
     {
       "index": 72,
@@ -740,8 +740,8 @@
       "tone": "kangae",
       "text": "朝から濃かったのだー……でも、5 本のうち 3 本が AI と人間の権利の話だったって気がするのだ。",
       "news_index": 0,
-      "start_sec": 409.82,
-      "end_sec": 416.52
+      "start_sec": 413.07,
+      "end_sec": 419.78
     },
     {
       "index": 73,
@@ -750,8 +750,8 @@
       "tone": "amaama",
       "text": "鋭いじゃない。AI が便利になればなるほど「これってボクたちの権利、大丈夫?」って問いが増えていく時代なのよ。",
       "news_index": 0,
-      "start_sec": 416.67,
-      "end_sec": 424.41
+      "start_sec": 419.93,
+      "end_sec": 427.66
     },
     {
       "index": 74,
@@ -760,8 +760,8 @@
       "tone": "mic",
       "text": "それでは、また明日のテック朝便で会いましょうなのだー!",
       "news_index": 0,
-      "start_sec": 424.56,
-      "end_sec": 428.1
+      "start_sec": 427.81,
+      "end_sec": 431.35
     },
     {
       "index": 75,
@@ -770,17 +770,17 @@
       "tone": "normal",
       "text": "お仕事、行ってらっしゃい。",
       "news_index": 0,
-      "start_sec": 428.25,
-      "end_sec": 429.85
+      "start_sec": 431.5,
+      "end_sec": 433.1
     },
     {
       "index": 9999,
       "type": "outro",
       "text": "🎵 ジングル + またね！",
-      "start_sec": 430.55,
-      "end_sec": 438.25
+      "start_sec": 433.8,
+      "end_sec": 441.5
     }
   ],
-  "wall_time_sec": 10.47,
-  "audio_url": "/audio/ai/20260518_052636.mp3?v=1779066310"
+  "wall_time_sec": 10.69,
+  "audio_url": "/audio/ai/20260518_052636.mp3?v=1779067376"
 }
