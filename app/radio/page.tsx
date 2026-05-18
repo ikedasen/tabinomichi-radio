@@ -4,7 +4,7 @@ import Link from 'next/link'
 import { useSearchParams } from 'next/navigation'
 import { Suspense, useEffect, useMemo, useRef, useState } from 'react'
 import SharePopover from '../components/SharePopover'
-import { VALID_TONES } from './generated/valid-tones'
+import { VALID_TONES, type Tone } from './generated/valid-tones'
 
 type SpeechSegment = {
   index: number
@@ -263,6 +263,15 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
   const [zundaMouth, setZundaMouth] = useState(0)
   const [metanMouth, setMetanMouth] = useState(0)
   const [tsumugiMouth, setTsumugiMouth] = useState(0)
+
+  // 各キャラの最後に active だった時の tone を覚えておくための ref。
+  // 自分の次の発話まで前回の表情を保持するため (例: つむぎが kanashimi で
+  // 話した直後にずんだのターンに切り替わっても、つむぎは kanashimi のまま
+  // 待機させる)。normal で initial、speech segment 切替時に該当 speaker
+  // の tone を update する。
+  const lastZundaTone = useRef<Tone>('normal')
+  const lastMetanTone = useRef<Tone>('normal')
+  const lastTsumugiTone = useRef<Tone>('normal')
 
   // 目パチ: 3-6秒間隔でランダムに 150ms 目を閉じる
   useEffect(() => {
@@ -583,6 +592,19 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
     (s) => currentTime >= s.start_sec && currentTime < s.end_sec
   )
 
+  // Speech segment が変わるたびに、その speaker の最後の active tone を ref に焼き付ける。
+  // これで「自分の次の発話まで前回の表情を保持」が成立する (zunda が話してる間も
+  // tsumugi は前回の kanashimi 等を維持、partner_tone 経由で normal にリセットされない)。
+  useEffect(() => {
+    if (currentSegment?.type === 'speech') {
+      const segTone = (currentSegment as any).tone || 'normal'
+      const t: Tone = (VALID_TONES as readonly string[]).includes(segTone) ? (segTone as Tone) : 'normal'
+      if (currentSegment.speaker === 'zunda') lastZundaTone.current = t
+      else if (currentSegment.speaker === 'metan') lastMetanTone.current = t
+      else if (currentSegment.speaker === 'tsumugi') lastTsumugiTone.current = t
+    }
+  }, [currentSegment])
+
   // 口パク: 4 種のランダムパターンをセグメントごとに選び、100ms フレームで cycle 回す
   // (他ゲームの kuti1-4 アルゴリズムを参考に、機械的な開閉でなく自然なリズム差を作る)
   // 0=closed, 1=mid, 2=open
@@ -853,9 +875,18 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
                 const partnerToneRaw = (currentSegment && 'partner_tone' in currentSegment ? (currentSegment as any).partner_tone : undefined) as Tone | undefined
                 const partnerTone: Tone | null = (partnerToneRaw && (VALID_TONES as readonly string[]).includes(partnerToneRaw)) ? partnerToneRaw : null
 
-                const zundaTone:   Tone = zundaActive   ? tone : (partnerTone && !zundaActive   ? partnerTone : 'normal')
-                const metanTone:   Tone = metanActive   ? tone : (partnerTone && !metanActive   ? partnerTone : 'normal')
-                const tsumugiTone: Tone = tsumugiActive ? tone : (partnerTone && !tsumugiActive ? partnerTone : 'normal')
+                // 非 active キャラは「自分の最後の active 時の tone」を維持。
+                // partnerTone がセグメントで明示されている場合のみそれを優先 (= 反応指定)。
+                // ref ベースで保持するので、自分の次の発話まで表情が normal に戻らない。
+                const zundaTone:   Tone = zundaActive
+                  ? tone
+                  : (partnerTone ?? lastZundaTone.current)
+                const metanTone:   Tone = metanActive
+                  ? tone
+                  : (partnerTone ?? lastMetanTone.current)
+                const tsumugiTone: Tone = tsumugiActive
+                  ? tone
+                  : (partnerTone ?? lastTsumugiTone.current)
 
                 // mouth phase -> suffix: 0=base, 1=_talk (mid), 2=_talk2 (open)
                 const mouthSuffix = (m: number) => m === 2 ? '_talk2' : m === 1 ? '_talk' : ''
