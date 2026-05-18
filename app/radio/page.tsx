@@ -580,11 +580,24 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
   }, [audioUrl])
 
   // audio 要素に playbackRate を反映 (speed menu からの変更 + 新 blob load 時)
-  // 注: browser は src 切替で playbackRate を 1.0 にリセットするので blobUrl 依存必須。
+  // 注: browser は src 切替で playbackRate を 1.0 にリセットするので blobUrl 依存 + defaultPlaybackRate も併用。
+  // defaultPlaybackRate は src の reload 後にブラウザが自動再適用する property なので、
+  // playbackRate だけ set してると new src load の race で 1.0 に戻る事象を防ぐ。
+  // さらに 'loadeddata' / 'play' イベントでも playbackRate を再注入して保険をかける。
   useEffect(() => {
     const a = audioRef.current
     if (!a) return
+    a.defaultPlaybackRate = playbackRate
     a.playbackRate = playbackRate
+    const reapply = () => { a.playbackRate = playbackRate }
+    a.addEventListener('loadeddata', reapply)
+    a.addEventListener('play', reapply)
+    a.addEventListener('ratechange', reapply)
+    return () => {
+      a.removeEventListener('loadeddata', reapply)
+      a.removeEventListener('play', reapply)
+      a.removeEventListener('ratechange', reapply)
+    }
   }, [playbackRate, blobUrl])
 
   const segments: Segment[] = program?.audio_meta?.segments || []
