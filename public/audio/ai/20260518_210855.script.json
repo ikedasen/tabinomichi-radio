@@ -1,0 +1,677 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-05-18T12:08:55.490455+00:00",
+  "title": "viviON GAMES 着弾の夜 〜スマホで PC ゲームを買い切る、その地図〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "intro",
+      "text": "こんばんは、旅の道ラジオ夜便、テックニュース深掘りの時間よ。四国めたんがお届けするわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボクはずんだもんなのだ! 今夜もよろしくお願いするのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今夜は 1 本がっつり掘り下げる回。テーマはね、今日の夕方に発表されたばっかりのホヤホヤニュースよ。",
+      "news_index": 0,
+      "reading": "今夜はいっぽんがっつり掘り下げる回。テーマはね、今日の夕方に発表されたばっかりのホヤホヤニュースよ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ホヤホヤって、どんな話なのだ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "viviON っていう会社が、スマホで PC ゲームを遊べる新サービスを発表したの。名前は viviON GAMES。",
+      "reading": "viviオンっていう会社が、スマホでピーシーゲームを遊べる新サービスを発表したの。名前はviviオンゲームズ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、スマホで PC ゲーム!? それマジなのだ!?",
+      "reading": "えっ、スマホでピーシーゲーム!?それマジなのだ!?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "マジよ。しかも 2026 年内にスタート予定、ってアナウンスしたばっかり。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "気になるのだ! めたん、教えてほしいのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "じゃあ今夜は、背景から技術、影響、これからの話まで、しっかり 4 章立てで掘り下げていくわよ。",
+      "news_index": 0,
+      "reading": "じゃあ今夜は、背景から技術、影響、これからの話まで、しっかり4しょうだててで掘り下げていくわよ。"
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "まず viviON ってどんな会社なのか、から始めましょ。",
+      "reading": "まずviviオンってどんな会社なのか、から始めましょ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "あんま聞いたことない名前なのだ。何屋さんなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ずんだ、DLsite って知ってる?",
+      "reading": "ずんだ、ディーエルsiteって知ってる?",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "あー、ボク聞いたことあるのだ! 同人ゲームとか売ってるサイトなのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そうそう。DLsite を運営してるエイシスっていう会社の親会社が、viviON なのよ。",
+      "reading": "そうそう。ディーエルsiteを運営してるエイシスっていう会社の親会社が、viviオンなのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "親会社! じゃあ結構大きい会社じゃん!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "設立は 2021 年 10 月、本社は秋葉原駅前。資本金は 900 万円だけど、その上にゲオホールディングスがいるの。",
+      "news_index": 1,
+      "reading": "設立は2021年10月、本社は秋葉原駅前。資本金は900万円だけど、そのうえにゲオホールディングスがいるの。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "ゲオ? あのレンタルとか中古販売のゲオなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、東証プライム上場の大手よ。連結売上高 4,812 億円、グループ従業員 7,129 名。",
+      "news_index": 1,
+      "reading": "そう、東証プライム上場の大手よ。連結売上高4,812億円、グループ従業員7,129めい。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、4,800 億!? ボクのお小遣いの何百万倍なのだ!?",
+      "news_index": 1,
+      "reading": "えっ、4,800億!?ボクのおこづかいいの何百万倍なのだ!?"
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そういう大企業の傘下で、viviON グループだけでも登録利用者 1,685 万人、グループ売上高 562 億円って規模なの。",
+      "reading": "そういう大企業の傘下で、viviオングループだけでも登録利用者1,685万人、グループ売上高562億円って規模なの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "規模はガチなのだ! でもなんで今、スマホでゲーム遊ばせる話になったのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "実はね、viviON は 2026 年をゲーム強化年って明言してるの。今回の発表は単発じゃなくて、流れの一部。",
+      "reading": "実はね、viviオンは2026年をゲーム強化年って明言してるの。今回の発表は単発じゃなくて、流れの一部。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "流れって、どういうことなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "5 月 8 日に viviON Lab っていうインディーゲームのレーベルを立ち上げてるの。それが第 1 弾。",
+      "reading": "5月8日にviviオンらぼっていうインディーゲームのレーベルを立ち上げてるの。それが第1弾。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "レーベル? 音楽の CD レーベルみたいなやつなのだ?",
+      "reading": "レーベル?音楽のシーディーレーベルみたいなやつなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ゲームを発掘して、翻訳して、海外に売って、移植までやる「販売社」みたいなものよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "で、第 2 弾が今日の viviON GAMES ってことなのだ!?",
+      "reading": "で、第2弾が今日のviviオンゲームズってことなのだ!?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。Lab がゲームを「作る・育てる」側だとしたら、GAMES は「配信・販売する」側。両輪を揃えにきた格好ね。",
+      "reading": "そういうこと。Labがゲームを「作る・育てる」側だとしたら、ゲームズは「配信・販売する」側。両輪を揃えにきた格好ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "マジか! ガチで本気の戦略じゃん!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "しかも技術の中核は OOParts Engine っていうクラウドゲーミング基盤。これも実は去年すでに買ってたのよ。",
+      "reading": "しかも技術の中核はオーパーツartsEngineっていうクラウドゲーミング基盤。これも実は去年すでに買ってたのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "買ってた!? 何それ、どこから買ったのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "2025 年 8 月、エイシスが株式会社ブラックっていう会社から事業譲受したの。",
+      "news_index": 2,
+      "reading": "2025年8月、エイシスが株式会社ブラックっていう会社からじぎょうじょうじゅしたの。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "事業譲受って、どういう意味なのだ?",
+      "news_index": 2,
+      "reading": "じぎょうじょうじゅって、どういう意味なのだ?"
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "OOParts Engine の技術ごと、関連特許 3 件もまとめて買い取ったってこと。",
+      "reading": "オーパーツartsEngineの技術ごと、関連特許3件もまとめて買い取ったってこと。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "特許まで! 本気だったのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "面白いのが、当初は技術を借りる相談だったらしいの。でも結局、丸ごと取りに行った。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "めたん、その OOParts Engine って、具体的に何ができるエンジンなのだ?",
+      "reading": "めたん、そのオーパーツartsEngineって、具体的に何ができるエンジンなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "PC ゲームを viviON のサーバー上で動かして、その映像をリアルタイムでスマホに配信する仕組みよ。",
+      "reading": "ピーシーゲームをviviオンのサーバー上で動かして、その映像をリアルタイムでスマホに配信する仕組みよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "待つのだ、なんでわざわざサーバーで動かすのだ? スマホで動かせばいいじゃん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "PC ゲームをスマホで動かそうとすると、移植作業が必要なのよ。それが大変で開発者の負担になる。",
+      "reading": "ピーシーゲームをスマホで動かそうとすると、移植作業が必要なのよ。それが大変で開発者の負担になる。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "あー、それで「移植不要」っていうのが売りなのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう。サーバーで PC 版がそのまま動くから、開発者は何もせず、ユーザーはスマホで遊べる。理屈はキレイ。",
+      "reading": "そう。サーバーでピーシー版がそのまま動くから、開発者は何もせず、ユーザーはスマホで遊べる。理屈はキレイ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "理屈は、って言い方が気になるのだ。実際どうなのだ?",
+      "news_index": 2,
+      "reading": "理屈は、って言いかたが気になるのだ。実際どうなのだ?"
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ここで避けて通れないのが、クラウドゲーミング全体の昔話。Google Stadia って覚えてる?",
+      "reading": "ここで避けて通れないのが、クラウドゲーミング全体の昔話。グーグルスタディア って覚えてる?",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "うっすら聞いたことあるのだ。なんか消えた気がするのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "2019 年に Google が始めて、2023 年 1 月に終了。ユーザーが思ったほど増えなくて、独占タイトル不足、コントローラー在庫処分の損まで出した。",
+      "reading": "2019 年に グーグル が始めて、2023 年 1 月に終了。ユーザーが思ったほど増えなくて、独占タイトル不足、コントローラー在庫処分の損まで出した。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "あの Google が撤退!? 技術の問題じゃないのだ?",
+      "reading": "あの グーグル が撤退!? 技術の問題じゃないのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "技術自体は動いてた。でも「誰のためのどんなゲームを、いくらで売るか」を絞らなかった。汎用 AAA 全部を狙って、結局誰の心も掴めなかったの。",
+      "reading": "技術自体は動いてた。でも「誰のためのどんなゲームを、いくらで売るか」を絞らなかった。汎用トリプルエー全部を狙って、結局誰の心も掴めなかったの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ふむ。viviON GAMES は対照的なのだ?",
+      "reading": "ふむ。viviオンゲームズは対照的なのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "対照的。日本のインディー・同人寄り、プラス買い切り、っていう絞り方。これは Stadia の真逆。",
+      "reading": "対照的。日本のインディー・同人寄り、プラス買い切り、っていう絞りかた。これはStadiaの真逆。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "狙いがめっちゃハッキリしてるのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "で、技術の話に戻ると、クラウドゲーミングには構造的な壁があるの。それが「遅延」。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "遅延?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "入力からサーバー処理、そして映像配信。この往復で 30 ミリ秒から 80 ミリ秒の遅延が必ず出るの。Wi-Fi 経由ならもっと揺れる。",
+      "reading": "入力からサーバー処理、そして映像配信。この往復で30ミリびょうから80ミリびょうの遅延が必ず出るの。Wi-Fi経由ならもっと揺れる。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ええっ、80 ミリ秒も!? アクションゲーム死ぬのだ!",
+      "news_index": 2,
+      "reading": "ええっ、80ミリびょうも!?アクションゲーム死ぬのだ!"
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "するどい。1 フレーム単位の応答が命の格闘・FPS・リズム・落ちものは、クラウドだと体験が壊れる。",
+      "reading": "するどい。1フレーム単位の応答が命の格闘・エフピーエス・リズム・落ちものは、クラウドだと体験が壊れる。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、viviON GAMES はそういうの遊べないってこと?",
+      "reading": "じゃあ、viviオンゲームズはそういうの遊べないってこと?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "全部じゃない。逆に、ビジュアルノベルとかアドベンチャー、ターン制 RPG、戦略系は遅延の影響がほぼ無いのよ。",
+      "reading": "全部じゃない。逆に、ビジュアルノベルとかアドベンチャー、ターン制アールピージー、戦略系は遅延の影響がほぼ無いのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "タップしてから少し遅れて応答しても気にならないやつなのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そうそう。BitSummit PUNCH っていうイベントの先行試遊、ラインアップ 7 本がまさにその証拠なの。",
+      "reading": "そうそう。BitSummitパンチっていうイベントの先行試遊、ラインアップ7本がまさにその証拠なの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "ラインアップって、どんなのなのだ? 教えてほしいのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "夜廻三、制服カノジョ、ケモノミクス Re、片道勇者プラス、Terminus Historia 境界戦役、シロナガス島への帰還、だる絡み背後霊。この 7 本よ。",
+      "reading": "よまわりさん、せいふくカノジョ、ケモノミクスRe、かたみちゆうしゃプラス、TerminusHistoriaきょうかいせんえき、シロナガスとうへの帰還、だる絡み背後霊。この7本よ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "シロナガス島、ボク知ってるのだ! あれってノベルゲームじゃなかったっけ?",
+      "news_index": 3,
+      "reading": "シロナガスとう、ボク知ってるのだ!あれってノベルゲームじゃなかったっけ?"
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "正解。クリックで読み進める形式の名作ね。タップ応答に数百ミリ秒のラグがあっても全く気にならないジャンル。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "7 本中ガチアクションが無いの、偶然じゃないのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "偶然じゃない。「ラグが許容されるジャンル」を意図的に先行配置してる、って読むのが妥当よ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "賢いのだ。じゃあ含意の話に移っていいのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ええ、ここからが本題ね。「我々一般ユーザーにどう影響するか」よ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "ボクとしては、PC 持ってない人が PC ゲーム遊べるようになるのは嬉しいのだ。",
+      "reading": "ボクとしては、ピーシー持ってない人がピーシーゲーム遊べるようになるのは嬉しいのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこが第一の影響。家に PC が無い人、子育て中で PC 前の時間を取れない人、通勤中にちょっと遊びたい人。新しいゲーマー層への入り口になる。",
+      "reading": "そこが第一の影響。家にピーシーが無い人、子育て中でピーシー前の時間を取れない人、通勤中にちょっとあそびたいひと。新しいゲーマー層への入り口になる。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "ボクの友達でスマホしか持ってない人いっぱいいるのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "日本のスマホ保有割合は 8 割以上、モバイルゲームの課金額は年間 110 億ドル規模。市場としては十分でかい。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "110 億ドル!? それいくらなのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "日本円で 1 兆 6,000 億円ぐらいかな。日本のモバイルゲーム市場、世界トップクラスよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "ガチで巨大なのだ! クリエイター側にとってもいい話なのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "クリエイター側は素直に福音ね。スマホ移植の予算ゼロで、新しい販路が増える。しかも DLsite の既存基盤に乗っかれる。",
+      "reading": "クリエイター側は素直に福音ね。スマホ移植の予算ゼロで、新しい販路が増える。しかもディーエルsiteの既存基盤に乗っかれる。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "ただ気になるのだ。サーバーで動かすコスト、誰が払うのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "鋭い。そこが買い切り型の本当の課題。プレイされるたびにサーバー実行コストが発生するけど、ユーザーは 1 回しか払わない。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ええっ、それじゃ viviON が赤字になっちゃうのだ!?",
+      "reading": "ええっ、それじゃviviオンが赤字になっちゃうのだ!?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "だから売上の分配率設計が重要になる。クリエイター何パーセント、プラットフォーム何パーセントっていう数字は未発表。今後の最大の注目点ね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "めたん、消費者目線でいうと、買い切りって正直どうなのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "サブスク疲れの今、買い切りはむしろ追い風よ。GeForce NOW も Xbox Cloud Gaming も会員制中心、Amazon Luna は個別購入をやめる方向に進んでる。",
+      "reading": "サブスク疲れの今、買い切りはむしろ追い風よ。GeForceナウもえっくすぼっくすCloudGamingも会員制中心、AmazonLunaは個別購入をやめる方向に進んでる。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "あれ、世界の大手はサブスクなのに viviON GAMES は買い切り、ってめっちゃズレてるじゃん。",
+      "reading": "あれ、世界の大手はサブスクなのにviviオンゲームズは買い切り、ってめっちゃズレてるじゃん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ズレてる、というより、戦略的に違う土俵を選んでる。日本人のゲーム所有感覚と買い切り型の相性は良い、と踏んでるんでしょうね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "これからどうなるか、見どころは?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "まず一番近い関門は、BitSummit PUNCH の先行試遊。来場者の生レビューが、実際の遅延と画質を可視化するわ。",
+      "reading": "まず一番近い関門は、BitSummitパンチの先行試遊。来場者のなまレビューが、実際の遅延と画質を可視化するわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "そこでコケたら厳しいのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう、これは品質の最初の関門。次が、未発表ファクトの解禁ラッシュ。料金、対応地域、対応 OS、コントローラー、ローンチタイトル数。",
+      "reading": "そう、これは品質の最初の関門。次が、未発表ファクトの解禁ラッシュ。料金、対応地域、対応オーエス、コントローラー、ローンチタイトル数。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "全部まだ謎なのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "中長期では、クラウドゲーミングの普及はジャンルから順番に進むと予想されてるの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "順番?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "まずノベルとアドベンチャー。次にターン制 RPG や戦略系。最後にようやくアクションが追いついてくる。viviON GAMES も同じ順で広がる可能性が高い。",
+      "reading": "まずノベルとアドベンチャー。次にターン制アールピージーや戦略系。最後にようやくアクションが追いついてくる。viviオンゲームズも同じ順で広がる可能性が高い。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "ノベル先行は確かに viviON GAMES の試遊リストとピッタリなのだ!",
+      "reading": "ノベル先行は確かにviviオンゲームズの試遊リストとピッタリなのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "結局、技術が成熟しつつ、消費者の期待値もジャンルごとに合うようになってくる、というのが現実的なシナリオね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "めたん、リスナーのみんなに聞いてほしいのだ。スマホで PC ゲーム遊ぶの、ジャンルによっては全然アリなのだ。あなたが遊んでみたいタイトルは、何なのだ?",
+      "reading": "めたん、リスナーのみんなに聞いてほしいのだ。スマホでピーシーゲーム遊ぶの、ジャンルによっては全然アリなのだ。あなたが遊んでみたいタイトルは、何なのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで、今夜のテック深掘りは「viviON GAMES 着弾の夜」。DLsite の親会社が動いた、その戦略地図を見てきたわ。",
+      "reading": "というわけで、今夜のテック深掘りは「viviオンゲームズ着弾の夜」。ディーエルsiteの親会社が動いた、その戦略地図を見てきたわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "PC ゲームをスマホで、買い切りで、移植不要で。これからじっくり見届けたいのだ!",
+      "reading": "ピーシーゲームをスマホで、買い切りで、移植不要で。これからじっくり見届けたいのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "BitSummit PUNCH の試遊レポと、続報がいつ出るかが次のチェックポイントね。",
+      "reading": "BitSummitパンチの試遊レポと、続報がいつ出るかが次のチェックポイントね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボクたちも追いかけるのだ! みんなも気になるタイトルが出てきたら、ぜひチェックしてほしいのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "intro",
+      "text": "今夜の旅の道ラジオ夜便、四国めたんと、",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ずんだもんがお届けしました! おやすみなのだ!",
+      "news_index": 0
+    }
+  ],
+  "program_description": "DLsite の親会社・viviON が 2026 年内開始予定で発表した「viviON GAMES」を深掘り。スマホのブラウザで PC ゲームを買い切り型で遊ばせる、というクラウドゲーミングの新サービス。技術中核は 2025 年 8 月にエイシスが取得した OOParts Engine、BitSummit PUNCH で先行試遊。背景にゲオホールディングス連結 4,812 億円の体力、Google Stadia 撤退の教訓、入力遅延 30 から 80 ミリ秒というクラウド構造的壁、ノベル・アドベンチャーから普及するという業界の常識まで、4 章立てで深く語った。リスナーへの問いかけで締め。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20260518_210855_chars.webp",
+    "hero_rel": "/images/topics/tech_20260518_210855.webp",
+    "title": "viviON GAMES 着弾の夜 〜スマホで PC ゲームを買い切る、その地図〜",
+    "companies": [
+      "Google",
+      "Amazon"
+    ]
+  },
+  "summary_short": "スマホのブラウザだけで PC ゲームが遊べる時代は来るか。viviON GAMES が描く青写真を、OOParts Engine の技術力から Google Stadia の失敗、入力遅延の壁まで4章で徹底解剖する。"
+}
