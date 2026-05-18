@@ -48,7 +48,11 @@ export default function SharePopover({ title, url: urlOverride, variant = 'amber
   }
 
   const onX = () => {
-    const u = `https://x.com/intent/post?text=${encodeURIComponent(headline)}&url=${encodeURIComponent(getUrl())}`
+    // X は url パラメータの og:title/og:image を card preview として自動展開する。
+    // text にも title を入れると tweet 本文と card preview の両方に同じタイトルが
+    // 出て二重表示になるため、text は省略して url のみ渡す (user が編集 box で
+    // 自由にコメント追加できる)。サイト名は card preview の og:site_name に頼る。
+    const u = `https://x.com/intent/post?url=${encodeURIComponent(getUrl())}`
     openIntent(u)
   }
 
