@@ -49,16 +49,15 @@ export default function SharePopover({ title, url: urlOverride, variant = 'amber
 
   const onX = () => {
     // X side の OG card cache 対策: tweet URL に unique query (timestamp) を
-    // 付与して、X が「別 URL」と認識して fresh fetch するよう仕向ける。
-    // 元 URL のまま渡すと X 側の cache が永続表示されて、site 側で OG を更新
-    // しても新 card が反映されない事故が起きる (= viviON 回で発覚)。
-    // _t は 5 分単位の epoch にして、短時間の連続押下では同 URL になるよう丸める
-    // (= 同 user の即連続シェアで X の "url ですでに見たことある" 挙動も活かす)。
+    // 付与して、X が「別 URL」と認識して fresh fetch するよう仕向ける (= 5 min バケット)。
     const targetUrl = getUrl()
     const sep = targetUrl.includes('?') ? '&' : '?'
-    const bucket = Math.floor(Date.now() / (5 * 60 * 1000))  // 5 min バケット
+    const bucket = Math.floor(Date.now() / (5 * 60 * 1000))
     const freshUrl = `${targetUrl}${sep}_card=${bucket}`
-    const shareText = title || SITE_NAME
+    // tweet 本文に title + サイト名 suffix を含める (= ブランド表記が末尾に出る)。
+    // card preview にも title が出るので title 部分は重複するが、user 要望で
+    // サイト名がないと「どこのラジオか分からない」体感なので suffix は必須扱い。
+    const shareText = title ? `${title} ー${SITE_NAME}` : SITE_NAME
     const u = `https://x.com/intent/post?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(freshUrl)}`
     openIntent(u)
   }
