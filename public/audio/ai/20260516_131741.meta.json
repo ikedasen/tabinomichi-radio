@@ -1,9 +1,10 @@
 {
   "profile": "ai",
-  "generated_at": "2026-05-16T17:11:43.759288",
+  "generated_at": "2026-05-18T10:30:01.763000",
   "title": "「噛み砕けば見えるテック 〜朝の業界5本立て〜」",
   "audio_path": "ai_latest.wav",
-  "duration_sec": 483.51,
+  "duration_sec": 481.76,
+  "script_hash": "sha256:ab4baee70c4d7b589747037fd2bd1b6bc1d50e951c6209df3c11f72577926df8",
   "segments": [
     {
       "index": -1,
@@ -707,10 +708,10 @@
       "type": "speech",
       "speaker": "zunda",
       "tone": "herohero",
-      "text": "それ、お母さんより厳しいやつなのだ……。",
+      "text": "それ、きりたんより厳しいやつなのだ……。",
       "news_index": 5,
       "start_sec": 411.6,
-      "end_sec": 415.42
+      "end_sec": 415.33
     },
     {
       "index": 70,
@@ -719,8 +720,8 @@
       "tone": "normal",
       "text": "ただし読み取り専用ね。残高と取引履歴は見えるけど、勝手に振込したり口座番号を全部覗くのはできない設計。",
       "news_index": 5,
-      "start_sec": 415.57,
-      "end_sec": 423.39
+      "start_sec": 415.48,
+      "end_sec": 423.3
     },
     {
       "index": 71,
@@ -729,8 +730,8 @@
       "tone": "amaama",
       "text": "それなら少しは安心なのだ。でも見られてるだけでも、恥ずかしいじゃん。",
       "news_index": 5,
-      "start_sec": 423.54,
-      "end_sec": 428.56
+      "start_sec": 423.45,
+      "end_sec": 428.47
     },
     {
       "index": 72,
@@ -739,8 +740,8 @@
       "tone": "normal",
       "text": "便利さと『AI企業に家計の中身を渡す気持ち悪さ』のトレードオフね。今はアメリカのプロプラン向けに、先行公開中。",
       "news_index": 5,
-      "start_sec": 428.71,
-      "end_sec": 436.86
+      "start_sec": 428.62,
+      "end_sec": 436.77
     },
     {
       "index": 73,
@@ -749,8 +750,8 @@
       "tone": "niyari",
       "text": "要するに、お金の管理がアプリで確認する時代から、AIに聞いて答えてもらう時代に変わる兆しよ。",
       "news_index": 5,
-      "start_sec": 436.94,
-      "end_sec": 443.31
+      "start_sec": 436.85,
+      "end_sec": 443.22
     },
     {
       "index": 74,
@@ -759,8 +760,8 @@
       "tone": "sasayaki",
       "text": "日本に来た時、ボクはお菓子代がバレるから、多分使わないのだ……。",
       "news_index": 5,
-      "start_sec": 443.46,
-      "end_sec": 447.73
+      "start_sec": 443.37,
+      "end_sec": 447.65
     },
     {
       "index": 75,
@@ -769,8 +770,8 @@
       "tone": "normal",
       "text": "はい、ということで今朝のテック5本立てでした。",
       "news_index": 0,
-      "start_sec": 447.88,
-      "end_sec": 450.76
+      "start_sec": 447.8,
+      "end_sec": 450.68
     },
     {
       "index": 76,
@@ -779,8 +780,8 @@
       "tone": "amaama",
       "text": "データセンターのスケール感が、エグかったのだー!",
       "news_index": 0,
-      "start_sec": 450.91,
-      "end_sec": 454.52
+      "start_sec": 450.83,
+      "end_sec": 454.43
     },
     {
       "index": 77,
@@ -789,8 +790,8 @@
       "tone": "normal",
       "text": "あとはAIがAIのバグ探したり、お金の管理したり。結局AIが全方位に染み出してる回だったわね。",
       "news_index": 0,
-      "start_sec": 454.67,
-      "end_sec": 461.42
+      "start_sec": 454.58,
+      "end_sec": 461.34
     },
     {
       "index": 78,
@@ -799,8 +800,8 @@
       "tone": "nagomi",
       "text": "気になったやつあったら、自分で調べてみてほしいのだー。",
       "news_index": 0,
-      "start_sec": 461.57,
-      "end_sec": 465.1
+      "start_sec": 461.49,
+      "end_sec": 465.02
     },
     {
       "index": 79,
@@ -809,8 +810,8 @@
       "tone": "normal",
       "text": "じゃ、また明日の朝便で。今日も一日いい日になりますように。",
       "news_index": 0,
-      "start_sec": 465.25,
-      "end_sec": 469.35
+      "start_sec": 465.17,
+      "end_sec": 469.26
     },
     {
       "index": 80,
@@ -819,8 +820,8 @@
       "tone": "mic",
       "text": "ボクは家でゴロゴロしてるけど、みんなは行ってらっしゃいなのだー!",
       "news_index": 0,
-      "start_sec": 469.5,
-      "end_sec": 473.34
+      "start_sec": 469.41,
+      "end_sec": 473.25
     },
     {
       "index": 81,
@@ -829,18 +830,17 @@
       "tone": "tsuntsun",
       "text": "あなたも何かしなさいよ。",
       "news_index": 0,
-      "start_sec": 473.49,
-      "end_sec": 475.11
+      "start_sec": 473.4,
+      "end_sec": 475.02
     },
     {
       "index": 9999,
       "type": "outro",
       "text": "🎵 ジングル + またね！",
-      "start_sec": 475.81,
-      "end_sec": 483.51
+      "start_sec": 475.72,
+      "end_sec": 481.76
     }
   ],
-  "wall_time_sec": 11.11,
-  "script_hash": "sha256:b684956429abb1ab9480b54892f6b1d4ef04eb80efea403ccad7ace7357c6a45",
-  "audio_url": "/audio/ai/20260516_131741.mp3?v=1778933055"
+  "wall_time_sec": 10.68,
+  "audio_url": "/audio/ai/20260516_131741.mp3?v=1779067806"
 }
