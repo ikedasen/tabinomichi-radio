@@ -580,23 +580,38 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
   }, [audioUrl])
 
   // audio 要素に playbackRate を反映 (speed menu からの変更 + 新 blob load 時)
-  // 注: browser は src 切替で playbackRate を 1.0 にリセットするので blobUrl 依存 + defaultPlaybackRate も併用。
-  // defaultPlaybackRate は src の reload 後にブラウザが自動再適用する property なので、
-  // playbackRate だけ set してると new src load の race で 1.0 に戻る事象を防ぐ。
-  // さらに 'loadeddata' / 'play' イベントでも playbackRate を再注入して保険をかける。
+  // 多重防御で「効いたり効かなかったり」事象を確実に潰す:
+  //  1. defaultPlaybackRate: src reload 後にブラウザが自動再適用
+  //  2. playbackRate: 直接 set
+  //  3. loadeddata / play / ratechange イベントで再注入
+  //  4. 500ms polling で実値と state の乖離を強制補正 (SUPER VIDEO SPEED
+  //     CONTROLLER 拡張機能と同じ手法、React の useEffect race を吸収)
+  //  5. preservesPitch: 倍速時の声の高さを維持 (Safari/Firefox 旧名も併用)
   useEffect(() => {
     const a = audioRef.current
     if (!a) return
-    a.defaultPlaybackRate = playbackRate
-    a.playbackRate = playbackRate
-    const reapply = () => { a.playbackRate = playbackRate }
-    a.addEventListener('loadeddata', reapply)
-    a.addEventListener('play', reapply)
-    a.addEventListener('ratechange', reapply)
+    const apply = () => {
+      try {
+        ;(a as any).preservesPitch = true
+        ;(a as any).mozPreservesPitch = true
+        ;(a as any).webkitPreservesPitch = true
+      } catch {}
+      a.defaultPlaybackRate = playbackRate
+      if (Math.abs(a.playbackRate - playbackRate) > 0.001) {
+        a.playbackRate = playbackRate
+      }
+    }
+    apply()
+    a.addEventListener('loadeddata', apply)
+    a.addEventListener('play', apply)
+    a.addEventListener('ratechange', apply)
+    // 500ms polling: React state と audio.playbackRate が drift したら強制補正
+    const pollId = setInterval(apply, 500)
     return () => {
-      a.removeEventListener('loadeddata', reapply)
-      a.removeEventListener('play', reapply)
-      a.removeEventListener('ratechange', reapply)
+      a.removeEventListener('loadeddata', apply)
+      a.removeEventListener('play', apply)
+      a.removeEventListener('ratechange', apply)
+      clearInterval(pollId)
     }
   }, [playbackRate, blobUrl])
 
