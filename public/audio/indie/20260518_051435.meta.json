@@ -1,0 +1,726 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-05-18T09:50:46.917654",
+  "title": "廃屋の朝 〜慟哭、ようこそ大中山町〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 396.34,
+  "script_hash": "sha256:c676fb2c887e66ccafae74de8672d9f06404cde701522b4d3357ab1ffeea94c9",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 9.59
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "おはようございますなのだー！旅の道ラジオ朝便、ずんだもん登場なのだ！",
+      "news_index": 0,
+      "start_sec": 9.59,
+      "end_sec": 14.53
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "通勤通学のお供に聴いてくれてるかた、おはようなのだー。",
+      "news_index": 0,
+      "start_sec": 14.61,
+      "end_sec": 18.43
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "intro",
+      "text": "ちっす！またまた、あーしが担当するっすよー！今朝のテーマは『慟哭 そして…』っす！",
+      "news_index": 0,
+      "start_sec": 18.58,
+      "end_sec": 24.21
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "どうこく？ボクが朝起きるときの鳴き声みたいな響きなのだ。",
+      "news_index": 1,
+      "start_sec": 24.36,
+      "end_sec": 28.61
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "先輩の朝の鳴き声、激しく泣き叫びすぎっす。慟哭は『泣き叫ぶ』って意味の漢字っすよ。",
+      "news_index": 1,
+      "start_sec": 28.76,
+      "end_sec": 35.14
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "じゃあボクの目覚まし、毎朝慟哭してるってことなのだ？通勤のかた引いてないのだ？",
+      "news_index": 1,
+      "start_sec": 35.29,
+      "end_sec": 41.52
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "先輩の朝の話はいったん置くっす。要は、朝便にホラー題材ぶっこんだ我々が悪いっす。",
+      "news_index": 1,
+      "start_sec": 41.67,
+      "end_sec": 47.88
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "でも語り甲斐ガチであるんで聴いてほしいっす！1998年セガサターン末期の脱出サスペンスADVっすよ。",
+      "news_index": 1,
+      "start_sec": 47.96,
+      "end_sec": 54.85
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "データイーストって、ボク、バーガーバーガー作ったとこなのだ？",
+      "news_index": 1,
+      "start_sec": 55.0,
+      "end_sec": 59.3
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "それアートディンクっす、先輩。データイーストは『探偵 神宮寺三郎』とか『ヘラクレスの栄光』の老舗っすよ。",
+      "news_index": 1,
+      "start_sec": 59.45,
+      "end_sec": 66.98
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ハンバーガーから神宮寺三郎まで一瞬で移動したのだ、頭がバグるのだ。",
+      "news_index": 1,
+      "start_sec": 67.13,
+      "end_sec": 71.88
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "つまり、ADV制作のノウハウ持った老舗が、SS末期に渾身の脱出ADVをぶつけた、って構図っす。",
+      "news_index": 1,
+      "start_sec": 72.03,
+      "end_sec": 79.16
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "で、どんな話なのだ？廃屋ってことは、空き家を耕すゲームなのだ？",
+      "news_index": 1,
+      "start_sec": 79.31,
+      "end_sec": 84.23
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "廃屋を耕さないっす先輩、脱出するんすよ。主人公がバス事故で意識飛ばして、目覚めたら知らない廃屋に閉じ込められてるっす。",
+      "news_index": 1,
+      "start_sec": 84.38,
+      "end_sec": 92.6
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "乗り合わせた乗客と協力して脱出を目指すっすけど、罠だらけで、選択ミスると死人が出るっす。",
+      "news_index": 1,
+      "start_sec": 92.68,
+      "end_sec": 98.75
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "ボク絶対、最初の罠で死ぬタイプなのだ。通勤前にゲームオーバー画面見せられる気分なのだ。",
+      "news_index": 1,
+      "start_sec": 98.9,
+      "end_sec": 107.29
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そこで効いてくるのが、このゲームの売りのTDSシステムっす！",
+      "news_index": 1,
+      "start_sec": 107.44,
+      "end_sec": 111.16
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "TDS…Tシャツデザインスタジオの略なのだ？廃屋でTシャツ作るのだ？",
+      "news_index": 1,
+      "start_sec": 111.31,
+      "end_sec": 117.37
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "誰がTシャツ作るっすか、トラップダイバージェントストーリー、罠で分岐する物語って意味っす。",
+      "news_index": 1,
+      "start_sec": 117.52,
+      "end_sec": 123.07
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "つまり、同じ罠でも解き方を変えるとシナリオが枝分かれする、ってことなのだね。",
+      "news_index": 1,
+      "start_sec": 123.22,
+      "end_sec": 128.76
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "それなっす！しかも選択ミスると時間が進んで、取り返しつかない展開もあるっす。",
+      "news_index": 1,
+      "start_sec": 128.91,
+      "end_sec": 134.05
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "朝の通勤前に聞かせる話じゃないのだ、胃カメラ案件なのだ。",
+      "news_index": 1,
+      "start_sec": 134.2,
+      "end_sec": 138.63
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要約すると、SS末期に出た罠分岐の脱出サスペンス、っす。ここまでで一旦切るっす。",
+      "news_index": 1,
+      "start_sec": 138.78,
+      "end_sec": 144.81
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあ次、誰が作ったゲームなのだ？",
+      "news_index": 1,
+      "start_sec": 144.96,
+      "end_sec": 147.62
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "シナリオは小島早紀子さんと岩崎哲久さんっす。",
+      "news_index": 1,
+      "start_sec": 147.77,
+      "end_sec": 150.83
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "コジマって、メタルギアのほうの監督なのだ？",
+      "news_index": 1,
+      "start_sec": 150.98,
+      "end_sec": 154.07
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "別のコジマっす先輩、ヒデオじゃなくてサキコっす。同じ苗字でジャンル違いすぎっす。",
+      "news_index": 1,
+      "start_sec": 154.22,
+      "end_sec": 159.49
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "小島早紀子さんは『学校であった怖い話』にも関わってた、廃屋系ホラーの肌触りが上手いかたっす。",
+      "news_index": 1,
+      "start_sec": 159.57,
+      "end_sec": 166.44
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ホラー畑のかたがシナリオって時点で、もう朝便向きじゃないのだ。",
+      "news_index": 1,
+      "start_sec": 166.59,
+      "end_sec": 170.94
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "で、キャラデザは横田守先生っす！この人が、ガチで、この作品の評価を二分してる張本人っす！",
+      "news_index": 1,
+      "start_sec": 171.09,
+      "end_sec": 177.82
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "張本人？容疑者みたいな扱いなのだ、何やらかしたのだ？",
+      "news_index": 1,
+      "start_sec": 177.97,
+      "end_sec": 182.42
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "横田守先生のキャラは色っぽさが特徴で、本作も女の子の描き方がかなり艶っぽいっす。",
+      "news_index": 1,
+      "start_sec": 182.57,
+      "end_sec": 188.52
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "なのでネット上では『パンチラゲー』って揶揄されたりもするっす。",
+      "news_index": 1,
+      "start_sec": 188.6,
+      "end_sec": 192.4
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "通勤途中のリスナーのかた、今のとこ聞こえてないことにしてほしいのだ！",
+      "news_index": 1,
+      "start_sec": 192.55,
+      "end_sec": 197.47
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ただ一方で、サスペンスADVとしての完成度を高く評価する声もガチで多いっす。",
+      "news_index": 1,
+      "start_sec": 197.62,
+      "end_sec": 202.97
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "つまり、表紙で笑われて中身で泣かされる、お弁当でいう見た目地味だけど味は本格派ってやつなのだ？",
+      "news_index": 1,
+      "start_sec": 203.12,
+      "end_sec": 210.72
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "比喩うますぎっす先輩。まさにそれっす、お色気で持ち上げ落とされてるけどミステリの中身は真っ当、典型的なカルト枠っす。",
+      "news_index": 1,
+      "start_sec": 210.87,
+      "end_sec": 218.51
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "要するに、見た目で損して中身で得してる作品、ってことで一旦まとめるのだ。",
+      "news_index": 1,
+      "start_sec": 218.66,
+      "end_sec": 223.98
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "あーし的にはサスペンスのほうを推したいっす！廃屋の閉塞感、誰が敵か味方か分からない緊張感、ガチで震えるっす！",
+      "news_index": 1,
+      "start_sec": 224.13,
+      "end_sec": 231.64
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "あとBGMが滅茶苦茶いいっす。作曲は山崎慎一さん、SIN名義で活動してたかたっす。",
+      "news_index": 1,
+      "start_sec": 231.72,
+      "end_sec": 237.77
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "シン…エヴァのシンジくんと、仮面ライダーと、どっちなのだ？",
+      "news_index": 1,
+      "start_sec": 237.92,
+      "end_sec": 242.2
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "どっちでもないっす、作曲家のSINっす。シン繋がりで世界広げないでほしいっす。",
+      "news_index": 1,
+      "start_sec": 242.35,
+      "end_sec": 247.43
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "エンディングの『終局』って曲、あーしガチで脳に焼き付いてるっす。",
+      "news_index": 1,
+      "start_sec": 247.51,
+      "end_sec": 251.86
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "急に静かになったのだ、つむぎマジで好きなのだね。",
+      "news_index": 1,
+      "start_sec": 252.01,
+      "end_sec": 255.76
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "あーし今めっちゃキモいっすね、すんません先輩。",
+      "news_index": 1,
+      "start_sec": 255.91,
+      "end_sec": 259.03
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "キモくないのだ、好きなBGM語れるオタクは正義なのだ。気になったオタクくんは検索して聴いてみてほしいのだ。",
+      "news_index": 1,
+      "start_sec": 259.18,
+      "end_sec": 266.3
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "で、ここからが朝便向きの良い話っす。この作品、今でも遊べるっすよ！",
+      "news_index": 1,
+      "start_sec": 266.45,
+      "end_sec": 271.51
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "えっ、1998年のSS末期作なのに？化石が動いてるのだ？",
+      "news_index": 1,
+      "start_sec": 271.66,
+      "end_sec": 277.38
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "化石どころか現役っす！2018年4月にPS4とVitaでリマスター版が出て、未使用イベントCG追加とシナリオ加筆もされたっす！",
+      "news_index": 1,
+      "start_sec": 277.53,
+      "end_sec": 286.29
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "2019年11月にSwitch版、2023年1月にはWindows10と11対応のPC版も出てるっす。",
+      "news_index": 1,
+      "start_sec": 286.37,
+      "end_sec": 293.89
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "25年経ってもハードを渡り歩いて移植されるって、廃屋から脱出するのに成功してるのだ。",
+      "news_index": 1,
+      "start_sec": 294.04,
+      "end_sec": 301.04
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "比喩うますぎっす、そういうことっす。カルト枠でも買う人がいるから移植が続く、これがファンの強さっす。",
+      "news_index": 1,
+      "start_sec": 301.19,
+      "end_sec": 307.61
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "オタクくん、起き抜けに気になったらSwitch版かPC版で試してほしいっす。",
+      "news_index": 1,
+      "start_sec": 307.69,
+      "end_sec": 312.21
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "ただし夜遊ぶの推奨っす、朝に廃屋脱出は緊張感バグるっす。",
+      "news_index": 1,
+      "start_sec": 312.29,
+      "end_sec": 316.69
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "ボクも遊んでみたいのだー！廃屋脱出、TDSシステム、罠で分岐、ワクワクするのだ。",
+      "news_index": 1,
+      "start_sec": 316.84,
+      "end_sec": 324.1
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "先輩、最初の罠で死ぬって言ってたじゃないっすか。",
+      "news_index": 1,
+      "start_sec": 324.25,
+      "end_sec": 327.38
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "そうだった…ボク、5分でゲームオーバーなのだ。",
+      "news_index": 1,
+      "start_sec": 327.53,
+      "end_sec": 331.86
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そんなときはあーしが攻略本貸してあげるっす！初版持ってるっすから！",
+      "news_index": 1,
+      "start_sec": 332.01,
+      "end_sec": 336.1
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "つむぎ、攻略本の初版って、ギャル友達には絶対言えないやつなのだ。",
+      "news_index": 1,
+      "start_sec": 336.25,
+      "end_sec": 341.82
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "shirake",
+      "text": "…先輩。",
+      "news_index": 1,
+      "start_sec": 341.97,
+      "end_sec": 342.83
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "な、なんでもないのだ、ごめんなさいなのだ。",
+      "news_index": 1,
+      "start_sec": 342.98,
+      "end_sec": 345.76
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "コホン、まとめるっす。SS末期の脱出サスペンス、罠で分岐するTDSシステム、お色気で揶揄されつつも25年愛されてる賛否両論カルト作っす。",
+      "news_index": 1,
+      "start_sec": 345.91,
+      "end_sec": 355.75
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "気になったオタクくんは、まずSwitch版かPC版から触ってほしいっす。",
+      "news_index": 1,
+      "start_sec": 355.83,
+      "end_sec": 360.17
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "あっ、ボク冒頭で『慟哭ってボクの朝の鳴き声みたい』って言ったのだ。",
+      "news_index": 1,
+      "start_sec": 360.32,
+      "end_sec": 365.5
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "言ってたっすね先輩、忘れてたっす。",
+      "news_index": 1,
+      "start_sec": 365.65,
+      "end_sec": 368.08
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "今ならどうこく〜って通勤の皆と一緒に叫べるのだ、目覚まし完了なのだ！",
+      "news_index": 1,
+      "start_sec": 368.23,
+      "end_sec": 374.01
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "朝便の締めに集団慟哭の提案するのやめてほしいっす、お弁当の蓋閉まらないっす。",
+      "news_index": 1,
+      "start_sec": 374.16,
+      "end_sec": 379.71
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "というわけで、今朝の旅の道ラジオ朝便、これで終わりなのだ！",
+      "news_index": 1,
+      "start_sec": 379.86,
+      "end_sec": 384.05
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "今日も一日、頑張るっすよオタクくん！",
+      "news_index": 1,
+      "start_sec": 384.2,
+      "end_sec": 386.78
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "またなのだー！",
+      "news_index": 1,
+      "start_sec": 386.93,
+      "end_sec": 387.94
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 388.64,
+      "end_sec": 396.34
+    }
+  ],
+  "wall_time_sec": 9.77,
+  "audio_url": "/audio/indie/20260518_051435.mp3?v=1779066313"
+}
