@@ -1,0 +1,746 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-05-18T17:42:43.807848",
+  "title": "灯火が消えた島 〜ショベルナイトの作り手、4年越しのムチ〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 342.33,
+  "script_hash": "sha256:280a2b05774f3ea31b251d329c9e5360710451aedb341e552a0a8c75e355d5f8",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 9.59
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "こんばんは、旅の道ラジオ夜便です。今夜のお相手は、四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 9.59,
+      "end_sec": 14.55
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ずんだもん登場なのだー。仕事帰りのみんな、布団に潜ったみんな、お疲れさまなのだ。",
+      "news_index": 0,
+      "start_sec": 14.7,
+      "end_sec": 20.53
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今夜はね、ちょうど来週発売のあの新作、深掘りしようかなと。",
+      "news_index": 0,
+      "start_sec": 20.68,
+      "end_sec": 24.98
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "おっ、発売直前のやつなのだ? わくわくするのだ。",
+      "news_index": 0,
+      "start_sec": 25.13,
+      "end_sec": 29.31
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "題材は、ヤット・クラブ・ゲームズの新作、ミナ・ザ・ホロワー。",
+      "news_index": 1,
+      "start_sec": 29.46,
+      "end_sec": 34.3
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ホロワー? なんなのだそれ、ホラーの仲間なのだ?",
+      "news_index": 1,
+      "start_sec": 34.45,
+      "end_sec": 37.93
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "違うわよ。穴を掘る人、穴掘り職人って意味の造語。",
+      "news_index": 1,
+      "start_sec": 38.08,
+      "end_sec": 41.75
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "あー、ハローワークで穴掘りって登録したらブロックされるやつなのだ。",
+      "news_index": 1,
+      "start_sec": 41.9,
+      "end_sec": 46.73
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "別の業界の話してるじゃない。要するに、地面に潜れる敏腕の発明家が主人公ってこと。",
+      "news_index": 1,
+      "start_sec": 46.88,
+      "end_sec": 52.97
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "なるほどなのだ。で、その人何しに行くのだ?",
+      "news_index": 1,
+      "start_sec": 53.12,
+      "end_sec": 56.31
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "テネブラス島っていう島で、灯火が全部消えた原因を探りに行くの。",
+      "news_index": 1,
+      "start_sec": 56.46,
+      "end_sec": 60.92
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "おーっ、もう設定の時点でゴシックホラーの匂いするのだ。",
+      "news_index": 1,
+      "start_sec": 61.07,
+      "end_sec": 65.15
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "戦闘の武器がね、ムチなのよ。",
+      "news_index": 1,
+      "start_sec": 65.3,
+      "end_sec": 67.45
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "ムチ! それ完全にキャッスルヴァニアの後輩なのだ。",
+      "news_index": 1,
+      "start_sec": 67.6,
+      "end_sec": 70.97
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "察しがいいわね。ゴシックの伝統に乗っかってる感あるのよ。",
+      "news_index": 1,
+      "start_sec": 71.12,
+      "end_sec": 74.88
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、地面に潜るって……どゆこと? モグラ状態なのだ?",
+      "news_index": 1,
+      "start_sec": 75.03,
+      "end_sec": 79.2
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ボタン押すと地面に沈んで、別の場所からポンと出る。トンネル経由で移動できるの。",
+      "news_index": 1,
+      "start_sec": 79.35,
+      "end_sec": 84.5
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "それ、モグラ叩きの逆バージョンなのだ。叩かれる側じゃなく叩く側で出てくる。",
+      "news_index": 1,
+      "start_sec": 84.65,
+      "end_sec": 90.29
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに、ムチで殴る・地面に潜るの二択がこのゲームのキモってこと。",
+      "news_index": 1,
+      "start_sec": 90.44,
+      "end_sec": 94.9
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあ次、作ってるとこ気になるのだ。誰なのだ?",
+      "news_index": 1,
+      "start_sec": 95.05,
+      "end_sec": 98.46
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ヤット・クラブ・ゲームズ。聞き覚えない?",
+      "news_index": 1,
+      "start_sec": 98.61,
+      "end_sec": 101.6
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "ヤット……ヤット……あれなのだ、ヤッターマンの仲間なのだ?",
+      "news_index": 1,
+      "start_sec": 101.75,
+      "end_sec": 107.17
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "違う。ショベルナイト作ったとこ。",
+      "news_index": 1,
+      "start_sec": 107.32,
+      "end_sec": 109.39
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ショベルナイト!! ボク知ってるのだー! ショベルでズコズコ掘って戦うやつなのだ!",
+      "news_index": 1,
+      "start_sec": 109.54,
+      "end_sec": 114.83
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、二〇一四年発売のドット・アクションね。インディーの金字塔。",
+      "news_index": 1,
+      "start_sec": 114.98,
+      "end_sec": 119.59
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ショベルの次がムチ……武器どんどん原始的になってないのだ?",
+      "news_index": 1,
+      "start_sec": 119.74,
+      "end_sec": 124.06
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "言われてみればそうね。掘る道具から鞭打つ道具へ。退化してる感あるけど、味があるのよ。",
+      "news_index": 1,
+      "start_sec": 124.21,
+      "end_sec": 130.07
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、この新作までどのくらいかかったのだ?",
+      "news_index": 1,
+      "start_sec": 130.22,
+      "end_sec": 133.15
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "アナウンス自体は二〇二二年の二月。発売は二〇二六年五月二十九日。だいたい四年三ヶ月。",
+      "news_index": 1,
+      "start_sec": 133.3,
+      "end_sec": 140.17
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "四年……ボク待ちすぎて、もう三十歳超えそうなのだ……。",
+      "news_index": 1,
+      "start_sec": 140.32,
+      "end_sec": 145.64
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "あんた何歳設定なのよ。永遠の少年ボイスでしょ。",
+      "news_index": 1,
+      "start_sec": 145.79,
+      "end_sec": 149.37
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "……ごめんなさいなのだ。",
+      "news_index": 1,
+      "start_sec": 149.52,
+      "end_sec": 150.75
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、ここからが面白いんだけど、このゲーム最初キックスターターから始まったの。",
+      "news_index": 1,
+      "start_sec": 150.9,
+      "end_sec": 155.8
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "クラウドファンディングなのだね。目標いくらだったのだ?",
+      "news_index": 1,
+      "start_sec": 155.95,
+      "end_sec": 159.44
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "約三十一万ドル。日本円でだいたい四千八百万円くらい。",
+      "news_index": 1,
+      "start_sec": 159.59,
+      "end_sec": 163.84
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ふむふむ、で結果どうだったのだ?",
+      "news_index": 1,
+      "start_sec": 163.99,
+      "end_sec": 166.41
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "二十四時間以内に目標達成。最終的に百二十万ドル、目標の四倍超。",
+      "news_index": 1,
+      "start_sec": 166.56,
+      "end_sec": 172.39
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "百二十万ドル!? それ、ボクのずんだ餅何個分なのだ!?",
+      "news_index": 1,
+      "start_sec": 172.54,
+      "end_sec": 176.63
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "ずんだ餅換算すな。バッカー二万一千人超よ。",
+      "news_index": 1,
+      "start_sec": 176.78,
+      "end_sec": 180.18
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "二万一千人……それ、深夜ラジオ聴いてくれてるかた何回分なのだ?",
+      "news_index": 1,
+      "start_sec": 180.33,
+      "end_sec": 185.02
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "自虐すな。要するにファンの信頼が厚いって証拠なの。",
+      "news_index": 1,
+      "start_sec": 185.17,
+      "end_sec": 188.69
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "ショベルナイトでみんな信用したから、続編じゃない新IPでもみんな乗ってくれたのだね。",
+      "news_index": 1,
+      "start_sec": 188.84,
+      "end_sec": 194.25
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。新規IPでこの数字は普通インディーでは出ない。",
+      "news_index": 1,
+      "start_sec": 194.4,
+      "end_sec": 198.37
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "hisohiso",
+      "text": "(ここだけの話、新規IPは続編より売るの倍くらい大変だから、四年かけたのも納得なのよ)",
+      "news_index": 1,
+      "start_sec": 198.45,
+      "end_sec": 205.64
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "なるほどなのだ。雰囲気で言うと、舞台もかなり攻めてるのだ?",
+      "news_index": 1,
+      "start_sec": 205.79,
+      "end_sec": 209.88
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "島の名前、テネブラス島。ラテン語で『闇』って意味ね。",
+      "news_index": 1,
+      "start_sec": 210.03,
+      "end_sec": 214.05
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "chuuni",
+      "text": "……灯火の絶えた島、テネブラス。深淵の名を冠せし地で、ホロワーは何を掘り当てるのか……。",
+      "news_index": 1,
+      "start_sec": 214.13,
+      "end_sec": 220.01
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "うわっ、急に発病したのだ!? めたんまた中二発作なのだ!?",
+      "news_index": 1,
+      "start_sec": 220.16,
+      "end_sec": 224.57
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "ふふ、ごめん。夜便だからつい解放しちゃった。",
+      "news_index": 1,
+      "start_sec": 224.72,
+      "end_sec": 228.0
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "夜は人を発病させるのだね……。",
+      "news_index": 1,
+      "start_sec": 228.15,
+      "end_sec": 231.19
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、見た目の話もしとくと、これゲームボーイカラー風のドットなの。",
+      "news_index": 1,
+      "start_sec": 231.34,
+      "end_sec": 235.5
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "ゲームボーイカラー……ボク、実機触ったことないのだ。",
+      "news_index": 1,
+      "start_sec": 235.65,
+      "end_sec": 240.15
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そりゃそうよ。一九九八年発売の携帯機だもの。あんたの年齢じゃ無理。",
+      "news_index": 1,
+      "start_sec": 240.3,
+      "end_sec": 246.01
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "つまり、当時のかたが懐かしむための見た目なのだ?",
+      "news_index": 1,
+      "start_sec": 246.16,
+      "end_sec": 249.67
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それもあるけど、制約があるからこそ味が出るって設計思想ね。",
+      "news_index": 1,
+      "start_sec": 249.82,
+      "end_sec": 253.95
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "見た目めっちゃ可愛いのだ! ボクこういうドット好きなのだー!",
+      "news_index": 1,
+      "start_sec": 254.1,
+      "end_sec": 258.05
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "公式は『ピクセルパーフェクト』って言ってる。一ドット単位で詰めてるってこと。",
+      "news_index": 1,
+      "start_sec": 258.2,
+      "end_sec": 262.96
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "ピクセルパーフェクトなのだー! 言葉の響きだけでもう買いたいのだ!",
+      "news_index": 1,
+      "start_sec": 263.11,
+      "end_sec": 267.57
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "気が早いわね。ちなみに価格はアメリカで十九ドル九十九セント。日本円で三千円ちょい。",
+      "news_index": 1,
+      "start_sec": 267.72,
+      "end_sec": 273.84
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "お小遣いで余裕なのだ! これは買いなのだ!",
+      "news_index": 1,
+      "start_sec": 273.99,
+      "end_sec": 276.78
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "対応はスイッチ、スイッチ2、PS5、Xbox、PC、Mac、Linux。だいたい全部行ける。",
+      "news_index": 1,
+      "start_sec": 276.93,
+      "end_sec": 284.42
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "要するに、四年待った価値があるか、来週の金曜日に答え合わせなのだね。",
+      "news_index": 1,
+      "start_sec": 284.57,
+      "end_sec": 289.71
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。ショベルナイトの作り手の本気が見れるかどうか。",
+      "news_index": 1,
+      "start_sec": 289.86,
+      "end_sec": 293.49
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "……でもさ、結局ホロワーって肩書き、ハローワーク行ったら何の仕事なのだろね。",
+      "news_index": 1,
+      "start_sec": 293.64,
+      "end_sec": 299.38
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "またそこ戻るの? もう冒頭から一周してるじゃない。",
+      "news_index": 1,
+      "start_sec": 299.53,
+      "end_sec": 302.73
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "穴掘って発明して世界救う人なのだ。それ普通にロマンあるのだ。",
+      "news_index": 1,
+      "start_sec": 302.88,
+      "end_sec": 307.2
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そうね、ただの穴掘りじゃなくて発明家でもあるっていうの、結構グッとくる設定だと思う。",
+      "news_index": 1,
+      "start_sec": 307.35,
+      "end_sec": 313.17
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ということで、来週五月二十九日発売、ミナ・ザ・ホロワー。気になったかたはチェックしてみて。",
+      "news_index": 0,
+      "start_sec": 313.25,
+      "end_sec": 319.66
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "ボク、寝る前に予告ムービー何度も見てから寝るのだー。",
+      "news_index": 0,
+      "start_sec": 319.81,
+      "end_sec": 323.89
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "夢にホロワー出てきそうね。",
+      "news_index": 0,
+      "start_sec": 324.04,
+      "end_sec": 325.84
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "それじゃ、今夜の旅の道ラジオ夜便はここまでなのだ。お休みなさいなのだー。",
+      "news_index": 0,
+      "start_sec": 325.99,
+      "end_sec": 331.26
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "また夜にお会いしましょう。お休みなさい。",
+      "news_index": 0,
+      "start_sec": 331.41,
+      "end_sec": 333.93
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 334.63,
+      "end_sec": 342.33
+    }
+  ],
+  "wall_time_sec": 5.97,
+  "audio_url": "/audio/indie/20260518_171644.mp3?v=1779095580"
+}

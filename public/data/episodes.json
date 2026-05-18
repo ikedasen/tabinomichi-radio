@@ -1,6 +1,70 @@
 {
-  "generated_at": "2026-05-18T17:17:23.895292",
+  "generated_at": "2026-05-18T18:13:01.158477",
   "episodes": [
+    {
+      "episode_id": "20260518_175716",
+      "profile": "ai",
+      "title": "ヘルメス着弾の夜 〜サブスクで動かす常駐エージェントの新しい地図〜",
+      "generated_at": "2026-05-18T08:57:16.707986+00:00",
+      "duration_sec": 702.13,
+      "audio_url": "/audio/ai/20260518_175716.mp3?v=1779095578",
+      "meta_url": "/audio/ai/20260518_175716.meta.json",
+      "script_url": "/audio/ai/20260518_175716.script.json",
+      "audio_size_mb": 10.71,
+      "featured_game": {
+        "image_rel": "/images/topics/tech_20260518_175716_chars.webp",
+        "hero_rel": "/images/topics/tech_20260518_175716.webp",
+        "title": "ヘルメス着弾の夜 〜サブスクで動かす常駐エージェントの新しい地図〜",
+        "companies": [
+          "X",
+          "Claude",
+          "OpenAI",
+          "Gemini"
+        ],
+        "screenshot_rels": []
+      },
+      "program_description": "今夜のテック深掘りは、エックスエーアイがナウスリサーチのオープンソースエージェント「ヘルメス」と組み、エックスプレミアムのサブスク権利のままエージェント実行できる仕組みを公開した話。背景ではグロックのアプリダウンロード半減と巻き返しの動き、技術詳細ではヘルメスの常駐アーキテクチャとエックスサーチが画像・動画まで読む仕様、含意では月8ドルから個人運用に届く価格構造とエーピーアイ課金の予測しにくさ、展望ではサブスク権利を外部ツールへ流す流れの加速と、レート制限非公開や事業継続性のリスクまで掘り下げました。",
+      "summary_short": "月8ドルのXプレミアムでエージェントを動かせる時代が到来。xAIとヘルメスの連携が拓く「サブスク権利の外部転用」という新潮流から、API課金の予測不能さ・レート制限の不透明さというリスクまで鋭く問い直す。"
+    },
+    {
+      "episode_id": "20260518_171644",
+      "profile": "indie",
+      "title": "灯火が消えた島 〜ショベルナイトの作り手、4年越しのムチ〜",
+      "generated_at": "2026-05-18T08:16:44.441510+00:00",
+      "duration_sec": 342.33,
+      "audio_url": "/audio/indie/20260518_171644.mp3?v=1779095580",
+      "meta_url": "/audio/indie/20260518_171644.meta.json",
+      "script_url": "/audio/indie/20260518_171644.script.json",
+      "audio_size_mb": 5.22,
+      "featured_game": {
+        "app_id": 1875580,
+        "title": "Mina the Hollower",
+        "image_rel": "/images/games/1875580_header.jpg?v=1779091697",
+        "hero_rel": "/images/games/1875580_hero.jpg?v=1779091699",
+        "screenshot_rels": [
+          "/images/games/1875580_ss.jpg?v=1779091700",
+          "/images/games/1875580_ss2.jpg?v=1779091700",
+          "/images/games/1875580_ss3.jpg?v=1779091701",
+          "/images/games/1875580_ss4.jpg?v=1779091701"
+        ],
+        "developers": [
+          "Yacht Club Games"
+        ],
+        "publishers": [
+          "Yacht Club Games"
+        ],
+        "genres": [
+          "アクション",
+          "アドベンチャー"
+        ],
+        "release_date": "2026年5月29日",
+        "price": "$19.99",
+        "short_description": "敏腕ホロワーのミナを操作し、島の呪いを解くため決死のミッションに向かいましょう。『ショベルナイト』の制作陣が手掛ける新作タイトル『Mina the Hollower』で、ムチで敵を倒し、地面に潜って進みつつ、ピクセルパーフェクトなドット世界での冒険をお楽しみください！",
+        "header_url": "/images/games/1875580_header.jpg?v=1779091697"
+      },
+      "program_description": "今夜は5月29日に発売を控えた話題作『Mina the Hollower』を深掘り。あのショベルナイトを世に出したヤット・クラブ・ゲームズが新IPに挑む4年がかりの大作で、敏腕の穴掘り職人ミナが、灯火が消えたテネブラス島の呪いを解くために、ムチで敵をしばきつつ地面に潜って進むゲームボーイカラー風のドット・アクション。キックスターターで目標の4倍となる百二十万ドルを二万一千人超のバッカーから集めて二〇二二年に始動した本作、ずんだもんは『ホロワーって肩書き、ハローワーク行ったら絶対通らないのだ』と意味不明なツッコミを入れ、めたんは島の名前テネブラスから中二発作を起こす。レトロな見た目に隠れたショベルナイト級のポリッシュへの期待と、待たされた四年への愛憎が交錯する、寝る前に予告ムービー何回も見たくなる深夜トーク回。",
+      "summary_short": ""
+    },
     {
       "episode_id": "20260518_052636",
       "profile": "ai",
