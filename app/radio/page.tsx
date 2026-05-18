@@ -903,7 +903,11 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
                         zIndex: zundaActive ? 5 : 4,
                         transform: 'scaleX(-1)',
                       }}
+                      // 404 で hidden にした後、次に src が変わって load 成功した時に
+                      // 立ち絵が二度と戻らない事故 (1 枚読み込み失敗で以降全消失)
+                      // を防ぐため、onError で display:none、onLoad で復帰させる。
                       onError={(e) => { (e.currentTarget as HTMLImageElement).style.display = 'none' }}
+                      onLoad={(e) => { (e.currentTarget as HTMLImageElement).style.display = '' }}
                     />
                     {/* eslint-disable-next-line @next/next/no-img-element */}
                     <img
@@ -917,6 +921,7 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
                         zIndex: (hasTsumugi ? tsumugiActive : metanActive) ? 5 : 4,
                       }}
                       onError={(e) => { (e.currentTarget as HTMLImageElement).style.display = 'none' }}
+                      onLoad={(e) => { (e.currentTarget as HTMLImageElement).style.display = '' }}
                     />
                   </>
                 )
