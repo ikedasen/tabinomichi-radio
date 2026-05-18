@@ -48,11 +48,13 @@ export default function SharePopover({ title, url: urlOverride, variant = 'amber
   }
 
   const onX = () => {
-    // X は url パラメータの og:title/og:image を card preview として自動展開する。
-    // text にも title を入れると tweet 本文と card preview の両方に同じタイトルが
-    // 出て二重表示になるため、text は省略して url のみ渡す (user が編集 box で
-    // 自由にコメント追加できる)。サイト名は card preview の og:site_name に頼る。
-    const u = `https://x.com/intent/post?url=${encodeURIComponent(getUrl())}`
+    // text に title のみ prefilled (= user が編集 box で自由にコメント追加可能)。
+    // card preview にも同 title が出るので X 表示上は重複するが、X の仕様で URL を
+    // 渡すと card preview が必ず og:title を表示するため避けられない。
+    // 過去対応で text 完全削除 → 「タイトル何も入らない、不便」となったため、
+    // 中間案として "title のみ" (サイト名サフィックス無し)。user は不要なら削除可能。
+    const shareText = title || SITE_NAME
+    const u = `https://x.com/intent/post?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(getUrl())}`
     openIntent(u)
   }
 
