@@ -273,6 +273,64 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
   const lastMetanTone = useRef<Tone>('normal')
   const lastTsumugiTone = useRef<Tone>('normal')
 
+  // 2026-05-19: Wake Lock API でスリープ抑制。
+  // YouTube/Spotify Web Player と同様、再生中は画面/CPU sleep を防ぐ。
+  // user 報告: 風呂場で再生中に時間経過で省電力モードに入って画面暗くなる事象、対策。
+  // visibilitychange listener で tab 復帰時にも re-acquire (= Wake Lock は tab inactive で自動 release される仕様)
+  const wakeLockRef = useRef<WakeLockSentinel | null>(null)
+  useEffect(() => {
+    if (typeof navigator === 'undefined' || !('wakeLock' in navigator)) return
+    let cancelled = false
+
+    const acquireWakeLock = async () => {
+      if (cancelled || !isPlaying) return
+      try {
+        // すでに取得済みなら何もしない (= 重複 release 防止)
+        if (wakeLockRef.current && !wakeLockRef.current.released) return
+        const sentinel = await (navigator as Navigator & { wakeLock: { request: (kind: 'screen') => Promise<WakeLockSentinel> } }).wakeLock.request('screen')
+        if (cancelled) {
+          sentinel.release().catch(() => {})
+          return
+        }
+        wakeLockRef.current = sentinel
+        sentinel.addEventListener('release', () => {
+          // システム経由の release (= tab 切替等) の後 ref を null 化、再 acquire 用
+          if (wakeLockRef.current === sentinel) wakeLockRef.current = null
+        })
+      } catch {
+        // 失敗してもアプリの動作に影響なし (= スリープ抑制が効かないだけ)
+      }
+    }
+
+    const releaseWakeLock = () => {
+      const sentinel = wakeLockRef.current
+      wakeLockRef.current = null
+      if (sentinel && !sentinel.released) {
+        sentinel.release().catch(() => {})
+      }
+    }
+
+    if (isPlaying) {
+      acquireWakeLock()
+    } else {
+      releaseWakeLock()
+    }
+
+    // tab 復帰時に再 acquire (= visibilitychange で自動 release される対策)
+    const onVis = () => {
+      if (document.visibilityState === 'visible' && isPlaying) {
+        acquireWakeLock()
+      }
+    }
+    document.addEventListener('visibilitychange', onVis)
+
+    return () => {
+      cancelled = true
+      document.removeEventListener('visibilitychange', onVis)
+      releaseWakeLock()
+    }
+  }, [isPlaying])
+
   // 目パチ: 3-6秒間隔でランダムに 150ms 目を閉じる
   useEffect(() => {
     let cancelled = false
