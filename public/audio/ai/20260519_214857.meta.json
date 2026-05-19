@@ -1,17 +1,17 @@
 {
   "profile": "ai",
   "generated_at": "2026-05-19T21:48:57+09:00",
-  "title": "インクベーター着弾の夜 〜静かに動くAIアニメ工房と、議論の土俵移動〜",
+  "title": "NetflixがAIアニメ工房を設立 〜インクベーター始動と、業界の構造シフト〜",
   "audio_path": "ai_latest.wav",
-  "duration_sec": 744.69,
-  "script_hash": "sha256:2b10020eae03263fd45e269d0366cfa8e076e6116ab9bc5c567d0ef129648942",
+  "duration_sec": 731.94,
+  "script_hash": "sha256:11e7777af4c7a3bb520b0966614ab115744246a10e6961406d69c1302f578808",
   "segments": [
     {
       "index": -1,
       "type": "intro",
       "text": "🎵 ジングル + 旅の道ラジオ！",
       "start_sec": 0.0,
-      "end_sec": 5.56
+      "end_sec": 6.34
     },
     {
       "index": 0,
@@ -20,1047 +20,887 @@
       "tone": "welcome",
       "text": "こんばんは、旅の道ラジオ夜便、テックニュース深掘り回。四国めたんよ。",
       "news_index": 0,
-      "start_sec": 5.56,
-      "end_sec": 11.01
+      "start_sec": 6.34,
+      "end_sec": 11.79
     },
     {
       "index": 1,
       "type": "speech",
       "speaker": "zunda",
       "tone": "mic",
-      "text": "ボク、ずんだもんなのだー。今夜も 1 本がっつり聴く準備、できてるのだ。",
+      "text": "ボク、ずんだもんなのだ。今夜も 1 本、しっかり聴く準備、できてるのだ。",
       "news_index": 0,
-      "start_sec": 11.16,
-      "end_sec": 16.03
+      "start_sec": 11.94,
+      "end_sec": 16.98
     },
     {
       "index": 2,
       "type": "speech",
       "speaker": "metan",
       "tone": "normal",
-      "text": "今夜は AI とアニメの話。ネットフリックスが、AI アニメスタジオを静かに立ち上げてた、って件よ。",
+      "text": "今夜のテーマは、AI とアニメ。ネットフリックスが、AI アニメ専門のスタジオを、静かに立ち上げてた、って話よ。",
       "news_index": 0,
-      "start_sec": 16.18,
-      "end_sec": 22.84
+      "start_sec": 17.13,
+      "end_sec": 24.77
     },
     {
       "index": 3,
       "type": "speech",
       "speaker": "zunda",
       "tone": "shock",
-      "text": "えっ、ネットフリックスが AI アニメスタジオ!? それボク、ニュースで見た覚えないのだ。",
+      "text": "えっ、ネットフリックスが AI アニメスタジオ!? それボク、聞いたことないのだ。",
       "news_index": 0,
-      "start_sec": 22.99,
-      "end_sec": 28.87
+      "start_sec": 24.92,
+      "end_sec": 30.32
     },
     {
       "index": 4,
       "type": "speech",
       "speaker": "metan",
       "tone": "niyari",
-      "text": "そう、それが今夜の主役。インクベーターって名前で、5 月 14 日にザ・バージって媒体が暴いて、世間に知られた。",
+      "text": "そう、それが今夜の主役。名前は、インクベーター。3 月から静かに動いてて、5 月 14 日に、ザ・バージって媒体が報じて世間に出たの。",
       "news_index": 0,
-      "start_sec": 29.02,
-      "end_sec": 36.13
+      "start_sec": 30.47,
+      "end_sec": 39.56
     },
     {
       "index": 5,
       "type": "speech",
       "speaker": "zunda",
       "tone": "kangae",
-      "text": "インクベーター、卵を温める孵化器、みたいな名前なのだ。それを暴かれた、って言い方も気になるのだ。",
+      "text": "インクベーター、昔流行ったアーケードゲームみたいな名前なのだ。それを暴かれた、って言い方も気になるのだ。",
       "news_index": 0,
-      "start_sec": 36.28,
-      "end_sec": 43.3
+      "start_sec": 39.71,
+      "end_sec": 46.72
     },
     {
       "index": 6,
       "type": "speech",
       "speaker": "metan",
       "tone": "normal",
-      "text": "そこに、ベン・アフレックって俳優が作った AI 会社、インターポジティブの買収もセットで絡んでる。これが伏線。",
-      "news_index": 0,
-      "start_sec": 43.45,
-      "end_sec": 50.85
+      "text": "まず、何が分かってるか整理するわよ。ネットフリックスが 3 月に、AI 専門の社内スタジオ、インクベーターを発足させた。",
+      "news_index": 1,
+      "start_sec": 46.87,
+      "end_sec": 54.79
     },
     {
       "index": 7,
       "type": "speech",
       "speaker": "zunda",
-      "tone": "heart",
-      "text": "ベン・アフレックって、映画俳優のあの人なのだ!? アニメの話なのに俳優出てくるのだ!?",
-      "news_index": 0,
-      "start_sec": 51.0,
-      "end_sec": 58.16
+      "tone": "yubisashi",
+      "text": "3 月、ってもう 2 ヶ月以上前なのだ! 静かにしすぎなのだ。",
+      "news_index": 1,
+      "start_sec": 54.94,
+      "end_sec": 59.16
     },
     {
       "index": 8,
       "type": "speech",
       "speaker": "metan",
       "tone": "normal",
-      "text": "じゃあまず背景から。今夜の話は、3 つの動きが重なってる、って整理から行くわよ。",
+      "text": "公式発表は無いんだけど、ネットフリックスの採用ページに、部署インクベーターって書かれた求人がずらっと並んでて、実在が確定したわ。統括はセレナ・アイヤー、ドリームワークス・アニメーションと、独立系映画の出身、アーティスト寄りの船長を据えた人選よ。",
       "news_index": 1,
-      "start_sec": 58.31,
-      "end_sec": 63.9
+      "start_sec": 59.31,
+      "end_sec": 75.82
     },
     {
       "index": 9,
       "type": "speech",
       "speaker": "zunda",
-      "tone": "yubisashi",
-      "text": "3 つ! 整理しないと迷子になりそうなのだ。",
+      "tone": "heart",
+      "text": "採用ページで自白パターンなのだ! しかも船長はアーティスト寄り、テック畑じゃないってのが意外なのだ。",
       "news_index": 1,
-      "start_sec": 64.05,
-      "end_sec": 66.99
+      "start_sec": 75.97,
+      "end_sec": 83.36
     },
     {
       "index": 10,
       "type": "speech",
       "speaker": "metan",
-      "tone": "normal",
-      "text": "1 つ目、ネットフリックスがインターポジティブを買収した。これは公式発表済み、3 月 5 日付よ。",
+      "tone": "niyari",
+      "text": "求人文には、クリエイター主導、生成 AI 前提、って繰り返し書かれてる。建前は、アーティスト中心の AI 環境ね。",
       "news_index": 1,
-      "start_sec": 67.14,
-      "end_sec": 73.5
+      "start_sec": 83.51,
+      "end_sec": 91.46
     },
     {
       "index": 11,
       "type": "speech",
       "speaker": "zunda",
-      "tone": "kangae",
-      "text": "公式、ってことは株主向けの書類にもちゃんと書いてある、ガチのやつなのだ?",
+      "tone": "yubisashi",
+      "text": "建前って言ったのだ! 本音は別なのだ?",
       "news_index": 1,
-      "start_sec": 73.65,
-      "end_sec": 79.02
+      "start_sec": 91.61,
+      "end_sec": 94.44
     },
     {
       "index": 12,
       "type": "speech",
       "speaker": "metan",
       "tone": "normal",
-      "text": "そう、四半期ごとの株主書簡と、米国の証券取引委員会への提出資料にも入ってる。リークじゃなく、公式に動いてる。",
+      "text": "本流のネットフリックス・アニメ・スタジオは、従来手法を続ける、って明確に線引きしてる。インクベーターは別建ての実験部署。建前と本音を分けて読むのが、今夜のテーマよ。",
       "news_index": 1,
-      "start_sec": 79.17,
-      "end_sec": 87.48
+      "start_sec": 94.59,
+      "end_sec": 105.99
     },
     {
       "index": 13,
       "type": "speech",
       "speaker": "zunda",
       "tone": "normal",
-      "text": "そこまで届いてるなら、もう本当に買ったんだね。じゃあ 2 つ目は何なのだ?",
+      "text": "本流は本流、新部署は AI 実験、新しいおもちゃ箱を別の部屋に置いた、っていう棲み分けなのだ。",
       "news_index": 1,
-      "start_sec": 87.63,
-      "end_sec": 92.49
+      "start_sec": 106.14,
+      "end_sec": 113.16
     },
     {
       "index": 14,
       "type": "speech",
       "speaker": "metan",
-      "tone": "kangae",
-      "text": "2 つ目、その買収金額。ブルームバーグが最大 6 億ドルって報じてるんだけど、これは公式にはどこも認めてない。",
+      "tone": "normal",
+      "text": "それから、同じ 3 月にもう一つ、買収もセットで動いてる。ベン・アフレックって俳優が 2022 年に作った AI 技術会社、インターポジティブを、ネットフリックスが買った。",
       "news_index": 1,
-      "start_sec": 92.64,
-      "end_sec": 100.14
+      "start_sec": 113.31,
+      "end_sec": 124.43
     },
     {
       "index": 15,
       "type": "speech",
       "speaker": "zunda",
       "tone": "shock",
-      "text": "6 億ドル!? 円にすると 900 億くらいなのだ!? それが公式じゃない、って、どういうことなのだ?",
+      "text": "ベン・アフレック、あの映画俳優なのだ!? アニメの話なのに俳優出てくるのだ!?",
       "news_index": 1,
-      "start_sec": 100.29,
-      "end_sec": 107.41
+      "start_sec": 124.58,
+      "end_sec": 130.62
     },
     {
       "index": 16,
       "type": "speech",
       "speaker": "metan",
-      "tone": "tsuntsun",
-      "text": "関係者情報ベースの上限評価、ってこと。実際の現金はもっと下、業績達成で追加支払いがある、ってブルームバーグも書いてる。",
+      "tone": "normal",
+      "text": "意外性はあるけど、技術自体は、撮影済み素材を後から AI で制御する、後工程ツール寄り。16 人のチームを丸ごと吸収、ベン・アフレック本人は顧問。あくまでネットフリックスの AI 戦略を技術面で支える駒、って位置づけよ。",
       "news_index": 1,
-      "start_sec": 107.56,
-      "end_sec": 116.53
+      "start_sec": 130.77,
+      "end_sec": 146.44
     },
     {
       "index": 17,
       "type": "speech",
-      "speaker": "zunda",
-      "tone": "niyari",
-      "text": "みんな知ってるけど、誰も認めない金額ってことなのだ。ハリウッドっぽい話なのだ。",
-      "news_index": 1,
-      "start_sec": 116.68,
-      "end_sec": 122.43
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあここから、ネットフリックスの本当の狙いを読んでいくわよ。なぜ今、AI アニメスタジオを作ったのか。",
+      "news_index": 2,
+      "start_sec": 146.52,
+      "end_sec": 153.13
     },
     {
       "index": 18,
       "type": "speech",
-      "speaker": "metan",
-      "tone": "normal",
-      "text": "で、3 つ目。今夜の主役、インクベーター。公式発表がまだ無い、けど実在性はかなり高い、っていう微妙な位置にある。",
-      "news_index": 1,
-      "start_sec": 122.58,
-      "end_sec": 130.76
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "そこ気になるのだ! なんで今、なんでアニメなのだ?",
+      "news_index": 2,
+      "start_sec": 153.28,
+      "end_sec": 156.72
     },
     {
       "index": 19,
       "type": "speech",
-      "speaker": "zunda",
-      "tone": "kangae",
-      "text": "公式発表が無いのに実在、ってどういう状態なのだ? 幽霊なのだ?",
-      "news_index": 1,
-      "start_sec": 130.91,
-      "end_sec": 136.16
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "鍵は、ネットフリックスが準備中の、縦型ショート動画フィード。ティックトックみたいに、スマホで親指でスクロールする画面。そこに AI で大量の短編アニメを流す、っていう絵が、業界の中で一番強い読み筋よ。",
+      "news_index": 2,
+      "start_sec": 156.87,
+      "end_sec": 170.44
     },
     {
       "index": 20,
       "type": "speech",
-      "speaker": "metan",
+      "speaker": "zunda",
       "tone": "niyari",
-      "text": "ネットフリックスの公式採用ページに、部署インクベーターって書かれた求人が並んでる。これは隠せない痕跡ね。",
-      "news_index": 1,
-      "start_sec": 136.31,
-      "end_sec": 142.88
+      "text": "巨大な賭けを一発じゃなくて、小さい賭けを大量に。だから AI で短編、ってわけなのだ。",
+      "news_index": 2,
+      "start_sec": 170.59,
+      "end_sec": 177.08
     },
     {
       "index": 21,
       "type": "speech",
-      "speaker": "zunda",
-      "tone": "heart",
-      "text": "採用ページで自白してるパターンなのだ! それ、ボクでも気付いちゃうのだ。",
-      "news_index": 1,
-      "start_sec": 143.03,
-      "end_sec": 148.17
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。ここで、ディズニーの動きを並べると、ネットフリックスの選択がぐっと立体的になるわ。",
+      "news_index": 2,
+      "start_sec": 177.23,
+      "end_sec": 183.03
     },
     {
       "index": 22,
       "type": "speech",
-      "speaker": "metan",
-      "tone": "normal",
-      "text": "統括は、セレナ・アイヤーって人。ドリームワークス・アニメーションと、独立系映画会社の出身よ。",
-      "news_index": 1,
-      "start_sec": 148.32,
-      "end_sec": 154.92
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ディズニーは AI どうしてたのだ?",
+      "news_index": 2,
+      "start_sec": 183.18,
+      "end_sec": 185.42
     },
     {
       "index": 23,
       "type": "speech",
-      "speaker": "zunda",
-      "tone": "kangae",
-      "text": "独立系の映画会社、ってことは、王道のディズニー系じゃない感性の人、ってことなのだ?",
-      "news_index": 1,
-      "start_sec": 155.07,
-      "end_sec": 161.5
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "去年の 12 月、ディズニーが、オープンエーアイと、3 年契約 + 10 億ドル出資 + 200 を超えるディズニー・マーベル・ピクサー・スターウォーズのキャラを、ソラっていう動画生成 AI で扱える、っていう大型提携を結んだ。",
+      "news_index": 2,
+      "start_sec": 185.57,
+      "end_sec": 199.49
     },
     {
       "index": 24,
       "type": "speech",
-      "speaker": "metan",
-      "tone": "normal",
-      "text": "そう。本流のスタジオを通って、独立系の感性も持ってる人を据えた、って人選にも意図はあると思うわ。",
-      "news_index": 1,
-      "start_sec": 161.65,
-      "end_sec": 168.52
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "10 億ドル、200 キャラ、ってフルパワー提携なのだ!",
+      "news_index": 2,
+      "start_sec": 199.64,
+      "end_sec": 203.43
     },
     {
       "index": 25,
       "type": "speech",
-      "speaker": "zunda",
-      "tone": "nagomi",
-      "text": "アーティスト寄りの人が、AI スタジオの船長、ってことなのだ。",
-      "news_index": 1,
-      "start_sec": 168.67,
-      "end_sec": 172.85
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "それが、3 月に完全に白紙。原因は、ユーザーがソラでディズニーのキャラを勝手に使った著作権侵害動画を量産しちゃって、ディズニー側が手を引いた。ソラ自体も、4 月で閉鎖よ。",
+      "news_index": 2,
+      "start_sec": 203.58,
+      "end_sec": 215.13
     },
     {
       "index": 26,
       "type": "speech",
-      "speaker": "metan",
-      "tone": "normal",
-      "text": "求人文には、クリエイター主導、生成 AI 前提、って繰り返し出てくる。建前は、アーティストの環境を打ち出してる。",
-      "news_index": 1,
-      "start_sec": 173.0,
-      "end_sec": 180.89
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "3 ヶ月で爆死!? 10 億ドルがフッ飛んだのだ!?",
+      "news_index": 2,
+      "start_sec": 215.28,
+      "end_sec": 218.84
     },
     {
       "index": 27,
       "type": "speech",
-      "speaker": "zunda",
-      "tone": "yubisashi",
-      "text": "建前って言ったのだ! 本音は別ってこと?",
-      "news_index": 1,
-      "start_sec": 181.04,
-      "end_sec": 183.99
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ここで勘違いされやすいんだけど、ディズニーが AI から撤退したわけじゃない。やめたのは、外部ライセンス型の提携モデル、だけよ。",
+      "news_index": 2,
+      "start_sec": 218.99,
+      "end_sec": 227.16
     },
     {
       "index": 28,
       "type": "speech",
-      "speaker": "metan",
-      "tone": "niyari",
-      "text": "建前と本音を分けて見るのが、今夜のテーマよ。ネットフリックス自身は、本流のネットフリックス・アニメ・スタジオは従来の手法を続ける、って線引きしてる。",
-      "news_index": 1,
-      "start_sec": 184.14,
-      "end_sec": 193.62
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ内製は続けてるってこと?",
+      "news_index": 2,
+      "start_sec": 227.31,
+      "end_sec": 229.64
     },
     {
       "index": 29,
       "type": "speech",
-      "speaker": "zunda",
-      "tone": "kangae",
-      "text": "別建てなのだ。本流は本流、新部署は実験、っていう棲み分け方なのだ。",
-      "news_index": 1,
-      "start_sec": 193.77,
-      "end_sec": 199.27
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "むしろ加速してる。ソラ崩壊の数日後、ディズニーのイマジニアリング部門が、AI ファーストプラットフォームを作るエグゼクティブの求人を出した。社内 AI のディズニージーピーティー、エージェントのジャービス、中割り自動化ツール、全部内製で進めてる。4 月にはアニメーター含めて 1000 人レイオフ。",
+      "news_index": 2,
+      "start_sec": 229.79,
+      "end_sec": 246.81
     },
     {
       "index": 30,
       "type": "speech",
-      "speaker": "metan",
-      "tone": "normal",
-      "text": "要するに、インターポジティブ買収は公式、金額は非公式、インクベーターは未広報だけど高確度、この三層構造を一緒くたにしない、が今夜の出発点。",
-      "news_index": 1,
-      "start_sec": 199.42,
-      "end_sec": 209.66
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "数日後!? 撤退どころか走り出してて、しかも 1000 人切ってるのだ。シビアなのだ。",
+      "news_index": 2,
+      "start_sec": 246.96,
+      "end_sec": 253.15
     },
     {
       "index": 31,
       "type": "speech",
       "speaker": "metan",
       "tone": "normal",
-      "text": "じゃあ技術の話。インターポジティブが何をやってる会社か、から行くわよ。",
+      "text": "業界が学んだ教訓は、外部ライセンス型は無理、内製しかない、ってこと。ディズニーがそれを失敗で見せた直後に、ネットフリックスは最初から内製で行ってる、っていうのがインクベーターの本質よ。",
       "news_index": 2,
-      "start_sec": 209.74,
-      "end_sec": 214.36
+      "start_sec": 253.3,
+      "end_sec": 265.76
     },
     {
       "index": 32,
       "type": "speech",
-      "speaker": "zunda",
-      "tone": "yubisashi",
-      "text": "ベン・アフレックの AI 会社、って言われてもピンと来ないのだ。",
-      "news_index": 2,
-      "start_sec": 214.51,
-      "end_sec": 218.82
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあここから、業界全体と、日本の話に入っていくわよ。",
+      "news_index": 3,
+      "start_sec": 265.84,
+      "end_sec": 270.02
     },
     {
       "index": 33,
       "type": "speech",
-      "speaker": "metan",
-      "tone": "normal",
-      "text": "ベン・アフレックが 2022 年に設立。今のチームは 16 人。エンジニア、研究者、クリエイターの混成よ。",
-      "news_index": 2,
-      "start_sec": 218.97,
-      "end_sec": 226.68
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "業界全体! 待ってたのだ!",
+      "news_index": 3,
+      "start_sec": 270.17,
+      "end_sec": 272.29
     },
     {
       "index": 34,
       "type": "speech",
-      "speaker": "zunda",
-      "tone": "shock",
-      "text": "16 人!? もっと巨大な会社かと思ったのだ。900 億円の値札つくのに、16 人ってことあるのだ!?",
-      "news_index": 2,
-      "start_sec": 226.83,
-      "end_sec": 234.45
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ハリウッド大手の対応マップ。ディズニーは外部提携で失敗してから内製シフト。ライオンズゲートは特定の AI 会社と組んで専用モデル。ソニーは全社の AI ガバナンス整備で慎重。ネットフリックスは最初から内製と技術買収。同じ業界なのに、四社四様よ。",
+      "news_index": 3,
+      "start_sec": 272.44,
+      "end_sec": 289.51
     },
     {
       "index": 35,
       "type": "speech",
-      "speaker": "metan",
-      "tone": "niyari",
-      "text": "そこが特許で勝負してる会社の特徴ね。頭数より、抱えてる権利と人材の質、で値が付く世界。",
-      "news_index": 2,
-      "start_sec": 234.6,
-      "end_sec": 240.78
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "それぞれの事情で、AI への触り方が違うのだ。",
+      "news_index": 3,
+      "start_sec": 289.66,
+      "end_sec": 293.31
     },
     {
       "index": 36,
       "type": "speech",
-      "speaker": "zunda",
-      "tone": "kangae",
-      "text": "特許、何かすごいやつ持ってるのだ?",
-      "news_index": 2,
-      "start_sec": 240.93,
-      "end_sec": 243.69
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、ここから本題。日本のアニメ業界はどう絡むのか、っていう話よ。",
+      "news_index": 3,
+      "start_sec": 293.46,
+      "end_sec": 298.48
     },
     {
       "index": 37,
       "type": "speech",
-      "speaker": "metan",
-      "tone": "normal",
-      "text": "例えばね、カメラの設定、構図、照明、ライダーって呼ばれるレーザー測距のデータ、こういう映画の文法を AI に理解させる特許がある。",
-      "news_index": 2,
-      "start_sec": 243.84,
-      "end_sec": 252.63
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "そこ! 日本はどう動いてるのだ?",
+      "news_index": 3,
+      "start_sec": 298.63,
+      "end_sec": 301.17
     },
     {
       "index": 38,
       "type": "speech",
-      "speaker": "zunda",
-      "tone": "kangae",
-      "text": "映画の文法って、つまり、ここはカメラ寄りで、ここは光こっちから、みたいな、現場の作法のことなのだ?",
-      "news_index": 2,
-      "start_sec": 252.78,
-      "end_sec": 260.27
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "日本のアニメ業界とネットフリックスは、もう深いつながりがあるわ。ネットフリックスは日本のアニメ制作会社にバンバン発注してて、しかも、買い切り型、って言われる発注スタイルが特徴。",
+      "news_index": 3,
+      "start_sec": 301.32,
+      "end_sec": 312.95
     },
     {
       "index": 39,
       "type": "speech",
-      "speaker": "metan",
-      "tone": "normal",
-      "text": "大正解。世の中の動画生成 AI は、たいてい文章から映像を作るんだけど、インターポジティブの方向はちょっと違う。",
-      "news_index": 2,
-      "start_sec": 260.42,
-      "end_sec": 268.19
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "買い切り、って何なのだ?",
+      "news_index": 3,
+      "start_sec": 313.1,
+      "end_sec": 315.16
     },
     {
       "index": 40,
       "type": "speech",
-      "speaker": "zunda",
-      "tone": "yubisashi",
-      "text": "どう違うのだ?",
-      "news_index": 2,
-      "start_sec": 268.34,
-      "end_sec": 269.6
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "通常の日本アニメは、製作委員会方式で複数社が共同出資して、配信権、商品化権、海外権、ってバラバラに権利を分散させる。一方ネットフリックスは、配信権だけじゃなく、二次利用、派生、海外、まで全部含めて買い切る、っていう契約スタイルが多いのよ。",
+      "news_index": 3,
+      "start_sec": 315.31,
+      "end_sec": 333.63
     },
     {
       "index": 41,
       "type": "speech",
-      "speaker": "metan",
-      "tone": "normal",
-      "text": "すでに撮った素材を、後から制御できるようにする、が中心。背景の差し替え、照明のやり直し、つながりの修正、こういう後工程の制御寄りね。",
-      "news_index": 2,
-      "start_sec": 269.75,
-      "end_sec": 279.38
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "全権利を一社で抱える、ってことなのだ。じゃあネットフリックスは、もう、自社の中で二次利用も派生も自由にできる作品を、たくさん持ってる、ってことなのだ?",
+      "news_index": 3,
+      "start_sec": 333.78,
+      "end_sec": 345.79
     },
     {
       "index": 42,
       "type": "speech",
-      "speaker": "zunda",
-      "tone": "nagomi",
-      "text": "あー、テキストからゼロ生成じゃなく、現場のお助けツール寄りなのだ。",
-      "news_index": 2,
-      "start_sec": 279.53,
-      "end_sec": 284.2
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこが、ネットフリックスの構造的な切り札よ。自社で抱え込んでる原作群を、社内の AI に学ばせて、派生コンテンツを内製で作る、っていう将来像が、論理的にスッと通る位置にいるのよ。",
+      "news_index": 3,
+      "start_sec": 345.94,
+      "end_sec": 357.72
     },
     {
       "index": 43,
       "type": "speech",
-      "speaker": "metan",
-      "tone": "normal",
-      "text": "そう、現場ベース。だから既存のアーティストや監督と、技術として並走しやすい設計なのよ。",
-      "news_index": 2,
-      "start_sec": 284.35,
-      "end_sec": 290.46
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ディズニーが踏んだ、ユーザーが勝手にキャラ使って著作権侵害、っていう地雷も、自社の権利の中なら踏まないのだ!",
+      "news_index": 3,
+      "start_sec": 357.87,
+      "end_sec": 365.36
     },
     {
       "index": 44,
       "type": "speech",
-      "speaker": "zunda",
-      "tone": "kangae",
-      "text": "全部 AI で作るんじゃなくて、人間の作業を後押しする方向。意外と地味に堅い設計なのだ。",
-      "news_index": 2,
-      "start_sec": 290.61,
-      "end_sec": 297.27
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、構造的にね。ディズニーは、既存ライセンス先、玩具メーカー、テーマパーク、提携先、いろんな関係者と AI 利用の調整を取る必要がある。ネットフリックスは、買い切りで取ってる作品については、その調整が要らない。",
+      "news_index": 3,
+      "start_sec": 365.51,
+      "end_sec": 380.07
     },
     {
       "index": 45,
       "type": "speech",
-      "speaker": "metan",
-      "tone": "normal",
-      "text": "で、買収後はインターポジティブのチーム全員がネットフリックスに合流、ベン・アフレック本人はシニアアドバイザー、相談役よ。",
-      "news_index": 2,
-      "start_sec": 297.42,
-      "end_sec": 305.82
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ日本の現場のアニメーターやスタッフは、どう感じてるのだ?",
+      "news_index": 3,
+      "start_sec": 380.22,
+      "end_sec": 384.55
     },
     {
       "index": 46,
       "type": "speech",
-      "speaker": "zunda",
-      "tone": "heart",
-      "text": "創業者は経営から退いて顧問、ってパターンなのだ。",
-      "news_index": 2,
-      "start_sec": 305.97,
-      "end_sec": 310.21
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこは複雑よ。ネットフリックスの発注で経済的に潤ってる会社が多い、一方、AI アニメが普及すれば、原画、中割り、彩色、こういう人手の工程の仕事が減る可能性がある。",
+      "news_index": 3,
+      "start_sec": 384.7,
+      "end_sec": 397.07
     },
     {
       "index": 47,
       "type": "speech",
-      "speaker": "metan",
-      "tone": "normal",
-      "text": "次にインクベーターの中身。求人文を集めると、当面のミッションは短編アニメと特番を作ること、って書かれてる。",
-      "news_index": 2,
-      "start_sec": 310.36,
-      "end_sec": 317.76
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "潤いと、雇用不安と、両方なのだ。",
+      "news_index": 3,
+      "start_sec": 397.22,
+      "end_sec": 400.4
     },
     {
       "index": 48,
       "type": "speech",
-      "speaker": "zunda",
-      "tone": "shock",
-      "text": "短編なのだ!? 長編劇場アニメじゃないのだ? 意外なのだ。",
-      "news_index": 2,
-      "start_sec": 317.91,
-      "end_sec": 322.39
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "日本国内の AI アニメ動向も整理しておくと、推進派、慎重派、反対派、で意見が分かれてる。スタジオによって温度差が大きいし、個人クリエイターも同じ。",
+      "news_index": 3,
+      "start_sec": 400.55,
+      "end_sec": 411.11
     },
     {
       "index": 49,
       "type": "speech",
-      "speaker": "metan",
-      "tone": "normal",
-      "text": "そこが大事。ネットフリックスは今、縦型のショート動画フィードを準備してる、って報道がある。ティックトックみたいに、スマホで縦にスクロールする画面ね。",
-      "news_index": 2,
-      "start_sec": 322.54,
-      "end_sec": 331.86
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "日本国内で意見が割れてるところに、ネットフリックスが外から AI でガサッと来る、っていう構図なのだ。",
+      "news_index": 3,
+      "start_sec": 411.26,
+      "end_sec": 418.34
     },
     {
       "index": 50,
       "type": "speech",
-      "speaker": "zunda",
-      "tone": "kangae",
-      "text": "あー、あれ、スマホでサクッと観るやつ。あそこに AI で大量の短編アニメを流す、って絵なのだ?",
-      "news_index": 2,
-      "start_sec": 332.01,
-      "end_sec": 339.01
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そして、ネットフリックスの次の一手が、ここで日本にとって決定的な意味を持つかもしれない、っていう読み筋があるのよ。",
+      "news_index": 3,
+      "start_sec": 418.49,
+      "end_sec": 425.38
     },
     {
       "index": 51,
       "type": "speech",
       "speaker": "metan",
       "tone": "normal",
-      "text": "その読み筋、業界の中で一番強い。長編の劇場アニメじゃなく、まず短い、低リスクの所から AI を試す戦略。",
-      "news_index": 2,
-      "start_sec": 339.16,
-      "end_sec": 347.43
+      "text": "次の一手、予想込みだけど、構造的にわりとはっきり見える筋があるの。",
+      "news_index": 4,
+      "start_sec": 425.46,
+      "end_sec": 430.13
     },
     {
       "index": 52,
       "type": "speech",
       "speaker": "zunda",
-      "tone": "niyari",
-      "text": "巨大な賭けを一発じゃなくて、小さい賭けを大量に、ってやり方なのだ。",
-      "news_index": 2,
-      "start_sec": 347.58,
-      "end_sec": 352.67
+      "tone": "yubisashi",
+      "text": "予想でいいのだ! 教えてほしいのだ!",
+      "news_index": 4,
+      "start_sec": 430.28,
+      "end_sec": 432.74
     },
     {
       "index": 53,
       "type": "speech",
       "speaker": "metan",
-      "tone": "normal",
-      "text": "大手の動きと比べると分かりやすいわ。ディズニーは去年の 12 月、オープンエーアイと 3 年契約を結んで、10 億ドル出資した。",
-      "news_index": 2,
-      "start_sec": 352.82,
-      "end_sec": 361.35
+      "tone": "niyari",
+      "text": "日本の IP ホルダーに、ネットフリックスが直接アプローチして、相手の作品を AI アニメ化する権利を買いに行く、っていう動き。これが、論理的に一番自然な次の手よ。",
+      "news_index": 4,
+      "start_sec": 432.89,
+      "end_sec": 443.32
     },
     {
       "index": 54,
       "type": "speech",
       "speaker": "zunda",
       "tone": "shock",
-      "text": "10 億ドル!? ディズニーが AI 会社に出資した側なのだ!?",
-      "news_index": 2,
-      "start_sec": 361.5,
-      "end_sec": 365.76
+      "text": "日本の作家に、AI アニメ化させてくれって、直接交渉、ってことなのだ!?",
+      "news_index": 4,
+      "start_sec": 443.47,
+      "end_sec": 449.25
     },
     {
       "index": 55,
       "type": "speech",
       "speaker": "metan",
       "tone": "normal",
-      "text": "そう、出資者側。さらに 200 を超えるディズニー、マーベル、ピクサー、スターウォーズのキャラを、ソラっていうオープンエーアイの動画生成サービスで扱える契約。",
-      "news_index": 2,
-      "start_sec": 365.91,
-      "end_sec": 375.6
+      "text": "そう。漫画家、小説家、ゲームクリエイター、出版社、こういう所に、AI アニメ化の権利を含めた、まとめ買いの提案を持っていく、っていう可能性が、現実的に高いと思うのよ。",
+      "news_index": 4,
+      "start_sec": 449.4,
+      "end_sec": 461.59
     },
     {
       "index": 56,
       "type": "speech",
       "speaker": "zunda",
-      "tone": "yubisashi",
-      "text": "自分とこのキャラを、丸ごと AI に貸し出す方向なのだ。ネットフリックスとはやり方が全然違うのだ。",
-      "news_index": 2,
-      "start_sec": 375.75,
-      "end_sec": 382.44
+      "tone": "kangae",
+      "text": "もし IP ホルダー本人が OK 出したら、どうなるのだ?",
+      "news_index": 4,
+      "start_sec": 461.74,
+      "end_sec": 465.65
     },
     {
       "index": 57,
       "type": "speech",
       "speaker": "metan",
       "tone": "niyari",
-      "text": "そう、ディズニーは提携、ネットフリックスは内製と買収。ライオンズゲートは外部の AI 会社と専用モデル、ソニーは全社のガバナンス整備。",
-      "news_index": 2,
-      "start_sec": 382.59,
-      "end_sec": 391.34
+      "text": "権利問題が、根本から消える。",
+      "news_index": 4,
+      "start_sec": 465.8,
+      "end_sec": 467.94
     },
     {
       "index": 58,
       "type": "speech",
       "speaker": "zunda",
-      "tone": "kangae",
-      "text": "同じ業界なのに、4 社 4 様なのだ。それぞれの会社の DNA で、AI への触り方が違うってことなのだ。",
-      "news_index": 2,
-      "start_sec": 391.49,
-      "end_sec": 399.22
+      "tone": "heart",
+      "text": "あ! 権利者本人が同意してれば、ディズニーのソラみたいな、勝手にキャラ使われて炎上、っていうのが、起こらないのだ!",
+      "news_index": 4,
+      "start_sec": 468.09,
+      "end_sec": 476.95
     },
     {
       "index": 59,
       "type": "speech",
       "speaker": "metan",
       "tone": "normal",
-      "text": "じゃあ今夜のメイン、我々一般人にどう影響するか、よ。",
-      "news_index": 3,
-      "start_sec": 399.37,
-      "end_sec": 403.49
+      "text": "そう、構造的にね。そしてここからが重要。権利者の同意があれば、反対派の論拠が、急に弱くなる。",
+      "news_index": 4,
+      "start_sec": 477.1,
+      "end_sec": 484.02
     },
     {
       "index": 60,
       "type": "speech",
       "speaker": "zunda",
-      "tone": "yubisashi",
-      "text": "来たのだ! 視聴者目線で、何が変わるのだ?",
-      "news_index": 3,
-      "start_sec": 403.64,
-      "end_sec": 406.89
+      "tone": "kangae",
+      "text": "どういうことなのだ?",
+      "news_index": 4,
+      "start_sec": 484.17,
+      "end_sec": 485.68
     },
     {
       "index": 61,
       "type": "speech",
       "speaker": "metan",
       "tone": "normal",
-      "text": "視聴者の立場だと、まず、縦型短編アニメが大量に来る、未来が近い。スマホで親指でスクロールすると、AI 製のアニメが連発で流れる、っていう体験ね。",
-      "news_index": 3,
-      "start_sec": 407.04,
-      "end_sec": 417.7
+      "text": "AI アニメに対する反対論の大きな柱は、作家の権利を侵害してる、勝手に作品を学習データに使われてる、っていう著作権ベースの議論だった。けど、権利者本人が同意してたら、その柱が崩れる。",
+      "news_index": 4,
+      "start_sec": 485.83,
+      "end_sec": 499.23
     },
     {
       "index": 62,
       "type": "speech",
       "speaker": "zunda",
-      "tone": "kangae",
-      "text": "それ、面白いのか面白くないのか、ボク微妙な気持ちなのだ。",
-      "news_index": 3,
-      "start_sec": 417.85,
-      "end_sec": 422.13
+      "tone": "yubisashi",
+      "text": "じゃあ反対派は、どこに論拠を移すのだ?",
+      "news_index": 4,
+      "start_sec": 499.38,
+      "end_sec": 502.29
     },
     {
       "index": 63,
       "type": "speech",
       "speaker": "metan",
       "tone": "niyari",
-      "text": "そこが面白いところ。クオリティが追いつくか、トーンが揃うか、繰り返し観たくなるか。技術より、選別と編集の話になる可能性が高い。",
-      "news_index": 3,
-      "start_sec": 422.28,
-      "end_sec": 430.72
+      "text": "そこで、議論の重心が、著作権の問題から、構造的な問題に、シフトするのよ。雇用、産業構造、文化保護、誰が AI 生成の利益を取るのか、っていう、もっと厄介な層に降りる。",
+      "news_index": 4,
+      "start_sec": 502.44,
+      "end_sec": 514.61
     },
     {
       "index": 64,
       "type": "speech",
       "speaker": "zunda",
-      "tone": "heart",
-      "text": "AI で大量生産じゃなくて、大量の中から誰が良いやつを選ぶか、で勝負が決まるのだ?",
-      "news_index": 3,
-      "start_sec": 430.87,
-      "end_sec": 437.87
+      "tone": "kangae",
+      "text": "著作権、はわりと白黒つけやすかったけど、構造の話は、答えが無いのだ。",
+      "news_index": 4,
+      "start_sec": 514.76,
+      "end_sec": 520.42
     },
     {
       "index": 65,
       "type": "speech",
       "speaker": "metan",
       "tone": "normal",
-      "text": "その視点よ。次に制作現場の影響。ここで有名な発言を持ち出すわ、アニメーターの 90% が要らなくなる、って話、聞いたことある?",
-      "news_index": 3,
-      "start_sec": 438.02,
-      "end_sec": 447.5
+      "text": "そう、答えが無い。そして、日本のクリエイター側も、推進派と反対派で分かれるはず。一部の作家は積極的に AI アニメ化を歓迎、一部は拒否、っていう個別判断になっていって、業界全体で揃った意見、っていうのが、もう作れなくなる。",
+      "news_index": 4,
+      "start_sec": 520.57,
+      "end_sec": 536.33
     },
     {
       "index": 66,
       "type": "speech",
-      "speaker": "zunda",
-      "tone": "shock",
-      "text": "90%!? それ、業界丸ごと消える感じなのだ!?",
-      "news_index": 3,
-      "start_sec": 447.65,
-      "end_sec": 452.2
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ最後に、これがリスナーの皆さんの生活に、いつ、どう降りてくるか、時間軸で整理するわよ。",
+      "news_index": 4,
+      "start_sec": 536.41,
+      "end_sec": 542.68
     },
     {
       "index": 67,
       "type": "speech",
-      "speaker": "metan",
-      "tone": "tsuntsun",
-      "text": "そこが誤読されてるのよ。元の発言は、ジェフリー・カッツェンバーグっていうドリームワークス元創業者が、2023 年にシンガポールで言ったやつ。",
-      "news_index": 3,
-      "start_sec": 452.35,
-      "end_sec": 461.32
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "時間軸! ようやく具体的になってくるのだ!",
+      "news_index": 4,
+      "start_sec": 542.83,
+      "end_sec": 545.85
     },
     {
       "index": 68,
       "type": "speech",
-      "speaker": "zunda",
-      "tone": "yubisashi",
-      "text": "元発言、どう言ってたのだ?",
-      "news_index": 3,
-      "start_sec": 461.47,
-      "end_sec": 463.68
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "短期、1 年から 2 年で見るのは、インクベーターの初作品。これがネットフリックスの縦型フィードで実際に流れた時の、視聴者の反応が、市場の試金石になる。",
+      "news_index": 4,
+      "start_sec": 546.0,
+      "end_sec": 556.26
     },
     {
       "index": 69,
       "type": "speech",
-      "speaker": "metan",
-      "tone": "normal",
-      "text": "昔は世界級のアニメ映画を作るのに 500 人で 5 年かかった、3 年後にはその 10% も要らなくなる、って予測ね。",
-      "news_index": 3,
-      "start_sec": 463.83,
-      "end_sec": 471.52
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "視聴者が好意的に観るか、不気味で離れるか、ってことなのだ。",
+      "news_index": 4,
+      "start_sec": 556.41,
+      "end_sec": 560.8
     },
     {
       "index": 70,
       "type": "speech",
-      "speaker": "zunda",
-      "tone": "kangae",
-      "text": "つまり、必要な労働投入が 10% で済む、って話で、アニメーターが業界から消える、じゃないのだ。",
-      "news_index": 3,
-      "start_sec": 471.67,
-      "end_sec": 479.19
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。同時に、日本の IP ホルダー側の最初の動きも、1 年以内に出てくる可能性が高い。誰かが、ネットフリックスの話に乗った、っていう報道がいつ出てくるか。これが大事な観察ポイントよ。",
+      "news_index": 4,
+      "start_sec": 560.95,
+      "end_sec": 573.54
     },
     {
       "index": 71,
       "type": "speech",
-      "speaker": "metan",
-      "tone": "normal",
-      "text": "正確には、そう。さらに彼は経営者であって労働経済学者じゃない。強いレトリックの枠で出た話、っていうのが冷静な評価。",
-      "news_index": 3,
-      "start_sec": 479.34,
-      "end_sec": 487.85
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "あ、報道が出始めたら、ネットフリックスの次の一手が動き始めた、っていうサインなのだ。",
+      "news_index": 4,
+      "start_sec": 573.69,
+      "end_sec": 580.43
     },
     {
       "index": 72,
       "type": "speech",
-      "speaker": "zunda",
-      "tone": "nagomi",
-      "text": "ニュースになる時に、見出しが派手になりすぎたパターンなのだ。",
-      "news_index": 3,
-      "start_sec": 488.0,
-      "end_sec": 491.77
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "中期、3 年から 5 年で見るのは、業界全体の構造変化。製作委員会方式と、買い切り型 IP、の主導権争いが本格化する。",
+      "news_index": 4,
+      "start_sec": 580.58,
+      "end_sec": 590.1
     },
     {
       "index": 73,
       "type": "speech",
-      "speaker": "metan",
-      "tone": "kangae",
-      "text": "実証的な数字も出てる。米国の映像・アニメ業界の調査では、2026 年までに 21.4%、約 118,500 件の仕事が、AI で統合や削減の対象になり得る、って試算ね。",
-      "news_index": 3,
-      "start_sec": 491.92,
-      "end_sec": 506.21
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "委員会方式、っていう日本のやり方が、海外の AI 投資マネーに引っ張られる、ってことなのだ?",
+      "news_index": 4,
+      "start_sec": 590.25,
+      "end_sec": 597.05
     },
     {
       "index": 74,
       "type": "speech",
-      "speaker": "zunda",
-      "tone": "shock",
-      "text": "21.4%、それでもかなりの数なのだ。10 人に 2 人なのだ。",
-      "news_index": 3,
-      "start_sec": 506.36,
-      "end_sec": 511.67
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、引っ張られる側面はある。けど、日本のクリエイター個人の意思とか、ファン文化とか、海外発のマネーで簡単に押し切れない要素もある。ここの綱引きが見どころよ。",
+      "news_index": 4,
+      "start_sec": 597.2,
+      "end_sec": 607.71
     },
     {
       "index": 75,
       "type": "speech",
-      "speaker": "metan",
-      "tone": "normal",
-      "text": "楽観できる数字じゃない。けど、90% 消えると、21.4% が影響圏は、規模が全然違う、ってのが大事。",
-      "news_index": 3,
-      "start_sec": 511.82,
-      "end_sec": 520.49
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "綱引き、長引くのだ。",
+      "news_index": 4,
+      "start_sec": 607.86,
+      "end_sec": 609.7
     },
     {
       "index": 76,
       "type": "speech",
-      "speaker": "zunda",
-      "tone": "kangae",
-      "text": "言葉の解像度を上げて聞かないと、現実の見立てを間違えるのだ。",
-      "news_index": 3,
-      "start_sec": 520.64,
-      "end_sec": 525.15
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "長期、5 年超で見るのは、AI アニメと手作りアニメの棲み分け。短編で大量供給の市場は AI、長編で作家性の市場は手作り、っていう棲み分けで安定するのか、それとも、AI が手作りまで侵食するのか。",
+      "news_index": 4,
+      "start_sec": 609.85,
+      "end_sec": 624.14
     },
     {
       "index": 77,
       "type": "speech",
-      "speaker": "metan",
-      "tone": "normal",
-      "text": "で、日本のアニメ業界はどうかというと、状況が結構複雑よ。市場規模は 2023 年で 3 兆 3,000 億円を超えてる。",
-      "news_index": 3,
-      "start_sec": 525.3,
-      "end_sec": 533.73
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "棲み分けで終わるか、駆逐まで進むか、まだ分からない、ってことなのだ。",
+      "news_index": 4,
+      "start_sec": 624.29,
+      "end_sec": 629.66
     },
     {
       "index": 78,
       "type": "speech",
-      "speaker": "zunda",
-      "tone": "heart",
-      "text": "3 兆 3,000 億! 日本のソフトパワーの主力なのだ。",
-      "news_index": 3,
-      "start_sec": 533.88,
-      "end_sec": 538.12
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今の段階では分からない。けど、ネットフリックスのインクベーターと、ディズニーの内製シフトが、その分岐点の起点になる、っていうのは、ほぼ間違いない。",
+      "news_index": 4,
+      "start_sec": 629.81,
+      "end_sec": 639.3
     },
     {
       "index": 79,
       "type": "speech",
-      "speaker": "metan",
-      "tone": "normal",
-      "text": "ただ、現場の労働環境は厳しい。月収 20 万円以下が全体の 38%、20 代に絞ると 67% っていう調査がある。",
-      "news_index": 3,
-      "start_sec": 538.27,
-      "end_sec": 547.71
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "じゃあ、リスナーの皆さんが、これから何を注目してたらいいのだ?",
+      "news_index": 4,
+      "start_sec": 639.45,
+      "end_sec": 643.9
     },
     {
       "index": 80,
       "type": "speech",
-      "speaker": "zunda",
-      "tone": "shock",
-      "text": "20 代の 3 人に 2 人が、月 20 万円以下!? それは、ちょっと、辛いのだ。",
-      "news_index": 3,
-      "start_sec": 547.86,
-      "end_sec": 553.65
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "3 つ挙げるとしたら、まず、インクベーターの初作品が出た時の反応。次に、日本の IP ホルダーがネットフリックスの提案を受けた、っていう報道。最後に、日本国内の AI アニメ規制とか自主ルールが、どんな形で立ち上がるか。この 3 つを追いかけてれば、業界の流れの大枠は掴めるわ。",
+      "news_index": 4,
+      "start_sec": 644.05,
+      "end_sec": 661.76
     },
     {
       "index": 81,
       "type": "speech",
-      "speaker": "metan",
-      "tone": "tsuntsun",
-      "text": "そう、辛い構造。AI に対する反応も、業界団体ごとに割れてる。動画協会は労働環境は改善傾向、ナフカっていう個人加盟の団体は中央値で見ると最低賃金割れの実態が残ってる、って言ってる。",
-      "news_index": 3,
-      "start_sec": 553.8,
-      "end_sec": 567.68
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "初作品、IP ホルダーの動き、日本のルール作り、なのだ。覚えておくのだ。",
+      "news_index": 4,
+      "start_sec": 661.91,
+      "end_sec": 667.83
     },
     {
       "index": 82,
       "type": "speech",
-      "speaker": "zunda",
-      "tone": "kangae",
-      "text": "同じ業界の中で、現状認識からして揃ってないのだ。じゃあ、AI でラクになる、って話の意味も、人によって違うのだ。",
-      "news_index": 3,
-      "start_sec": 567.83,
-      "end_sec": 576.71
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そして、賛否どっちの立場でも、議論はもう、著作権の話から構造の話にシフトする、っていう前提で考えた方がいい。そっちの方が、本質に近い。",
+      "news_index": 4,
+      "start_sec": 667.98,
+      "end_sec": 677.97
     },
     {
       "index": 83,
       "type": "speech",
-      "speaker": "metan",
-      "tone": "normal",
-      "text": "AI で長時間労働が緩和されるって読む人もいれば、新人の修練の場である動画工程が消えて、若手の養成ラインが断たれるって読む人もいる。両方とも論理は成立する。",
-      "news_index": 3,
-      "start_sec": 576.86,
-      "end_sec": 587.87
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "著作権の話が終わったんじゃなくて、議論の主戦場が動いた、っていうことなのだ。",
+      "news_index": 4,
+      "start_sec": 678.12,
+      "end_sec": 683.68
     },
     {
       "index": 84,
       "type": "speech",
-      "speaker": "zunda",
-      "tone": "nagomi",
-      "text": "賛成も反対も、どっちにも一理あるパターンなのだ。",
-      "news_index": 3,
-      "start_sec": 588.02,
-      "end_sec": 591.56
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ、まとめに入るわね。今夜の話は、ネットフリックスがインクベーターっていう AI アニメスタジオを 3 月に静かに立ち上げてた、って件。根っこにあるのは、内製で AI アニメに踏み込んだ、っていう事実。それが業界の地図を書き換えてるところよ。",
+      "news_index": 4,
+      "start_sec": 683.83,
+      "end_sec": 699.4
     },
     {
       "index": 85,
       "type": "speech",
-      "speaker": "metan",
+      "speaker": "zunda",
       "tone": "normal",
-      "text": "じゃあ展望、これから何を見ればいいか、ね。",
+      "text": "外部ライセンス型はディズニーの失敗で終わって、ネットフリックスの買い切り IP モデルが構造的に強い。次の一手は、日本の IP ホルダーへの直アプローチ。議論は著作権から構造の話にシフト。盛り沢山だったのだ。",
       "news_index": 4,
-      "start_sec": 591.71,
-      "end_sec": 594.66
+      "start_sec": 699.55,
+      "end_sec": 714.19
     },
     {
       "index": 86,
       "type": "speech",
-      "speaker": "zunda",
-      "tone": "yubisashi",
-      "text": "何をチェックすればいいのだ? ボク、追いかけたいのだ。",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そういうこと。じゃあ、今夜もお聴きいただいてありがとう。また次回、旅の道ラジオで会いましょう。",
       "news_index": 4,
-      "start_sec": 594.81,
-      "end_sec": 598.26
+      "start_sec": 714.34,
+      "end_sec": 720.36
     },
     {
       "index": 87,
       "type": "speech",
-      "speaker": "metan",
-      "tone": "normal",
-      "text": "短期、1 年から 2 年で見るのは、インクベーターの初作品よ。これが縦型フィードで実際に流れた時の、観客の反応が市場の試金石。",
-      "news_index": 4,
-      "start_sec": 598.41,
-      "end_sec": 607.49
-    },
-    {
-      "index": 88,
-      "type": "speech",
-      "speaker": "zunda",
-      "tone": "kangae",
-      "text": "その時、面白いって思われるか、薄いって思われるかで、勢いが決まるのだ。",
-      "news_index": 4,
-      "start_sec": 607.64,
-      "end_sec": 613.18
-    },
-    {
-      "index": 89,
-      "type": "speech",
-      "speaker": "metan",
-      "tone": "normal",
-      "text": "中期、3 年から 5 年で見るのは、公式 AI アニメ化のルートね。権利者が公認して AI で作る、っていう形よ。",
-      "news_index": 4,
-      "start_sec": 613.33,
-      "end_sec": 621.12
-    },
-    {
-      "index": 90,
-      "type": "speech",
-      "speaker": "zunda",
-      "tone": "heart",
-      "text": "公認なら、絵柄が似てる似てないの争いも起きないのだ。スッキリ作れちゃう。",
-      "news_index": 4,
-      "start_sec": 621.27,
-      "end_sec": 626.85
-    },
-    {
-      "index": 91,
-      "type": "speech",
-      "speaker": "metan",
-      "tone": "niyari",
-      "text": "その代わり、論点が著作権から雇用と産業構造に完全に移動する。これが今夜一番大事な観察軸かもしれない。",
-      "news_index": 4,
-      "start_sec": 627.0,
-      "end_sec": 634.28
-    },
-    {
-      "index": 92,
-      "type": "speech",
-      "speaker": "zunda",
-      "tone": "kangae",
-      "text": "戦場が変わるのだ。今までの絵柄パクリ論争じゃなくて、誰が稼いで、誰が下請けになるか、の話になるのだ。",
-      "news_index": 4,
-      "start_sec": 634.43,
-      "end_sec": 642.14
-    },
-    {
-      "index": 93,
-      "type": "speech",
-      "speaker": "metan",
-      "tone": "normal",
-      "text": "そう。長期、5 年から 10 年で見ると、少数精鋭プラス AI 型の監督型制作、って体制が一般化するかもしれない。",
-      "news_index": 4,
-      "start_sec": 642.29,
-      "end_sec": 650.55
-    },
-    {
-      "index": 94,
-      "type": "speech",
-      "speaker": "zunda",
-      "tone": "kangae",
-      "text": "残るのは、原作者、監督、演出、キャラデザ、作画監督、AI 運用ディレクター、みたいな層なのだ?",
-      "news_index": 4,
-      "start_sec": 650.7,
-      "end_sec": 658.83
-    },
-    {
-      "index": 95,
-      "type": "speech",
-      "speaker": "metan",
-      "tone": "normal",
-      "text": "ほぼ、その並び。逆に量産系の動画とか、第二原画みたいな中間工程は再編される可能性が高い。ネガティブな意味というより、構造の問題ね。",
-      "news_index": 4,
-      "start_sec": 658.98,
-      "end_sec": 668.74
-    },
-    {
-      "index": 96,
-      "type": "speech",
-      "speaker": "zunda",
-      "tone": "nagomi",
-      "text": "そこに新人を入れて育てる、っていう日本のアニメの伝統と、まともにぶつかるのだ。",
-      "news_index": 4,
-      "start_sec": 668.89,
-      "end_sec": 674.47
-    },
-    {
-      "index": 97,
-      "type": "speech",
-      "speaker": "metan",
-      "tone": "normal",
-      "text": "そこが議論の中心になる。海外資本が日本のキャラと直接組む、って構図も加速する可能性がある。これも要観察。",
-      "news_index": 4,
-      "start_sec": 674.62,
-      "end_sec": 682.44
-    },
-    {
-      "index": 98,
-      "type": "speech",
-      "speaker": "zunda",
-      "tone": "yubisashi",
-      "text": "チェックポイント、整理すると 3 つなのだ。インクベーターの初作品、公式 AI アニメ化の事例、日本国内の新人育成の話、なのだ。",
-      "news_index": 4,
-      "start_sec": 682.59,
-      "end_sec": 692.26
-    },
-    {
-      "index": 99,
-      "type": "speech",
-      "speaker": "metan",
-      "tone": "normal",
-      "text": "というわけで今夜の深掘りは、ネットフリックス インクベーター。AI アニメスタジオの静かな始動、っていう一見地味な話だったけど、業界の議論の土俵が動いた瞬間、って読み筋の方が大きい話だったわ。",
-      "news_index": 0,
-      "start_sec": 692.41,
-      "end_sec": 705.54
-    },
-    {
-      "index": 100,
-      "type": "speech",
-      "speaker": "zunda",
-      "tone": "heart",
-      "text": "90% 消えるって脅し文句より、議論の戦場が著作権から雇用へ移った、って観察の方が、ボクには響くのだ。",
-      "news_index": 0,
-      "start_sec": 705.69,
-      "end_sec": 715.1
-    },
-    {
-      "index": 101,
-      "type": "speech",
-      "speaker": "metan",
-      "tone": "niyari",
-      "text": "賛否どちらにも寄らない、構造を見る目を持っといて、って今夜の主旨ね。次の大きいニュースがあったら、また夜便で深掘りするわ。",
-      "news_index": 0,
-      "start_sec": 715.25,
-      "end_sec": 722.85
-    },
-    {
-      "index": 102,
-      "type": "speech",
       "speaker": "zunda",
       "tone": "mic",
-      "text": "ボクは今夜は、家のテレビで人間が描いた長編アニメ観てから寝るのだ。あなたなら、AI 製の縦型短編、どれくらい観てみたいですか?",
-      "news_index": 0,
-      "start_sec": 723.0,
-      "end_sec": 732.16
-    },
-    {
-      "index": 103,
-      "type": "speech",
-      "speaker": "metan",
-      "tone": "normal",
-      "text": "旅の道ラジオ夜便、四国めたんでした。おやすみなさい。",
-      "news_index": 0,
-      "start_sec": 732.31,
-      "end_sec": 736.29
+      "text": "ボクも今夜の話、しっかり覚えとくのだ。じゃあまた次回、なのだー。",
+      "news_index": 4,
+      "start_sec": 720.51,
+      "end_sec": 725.2
     },
     {
       "index": 9999,
       "type": "outro",
       "text": "🎵 ジングル + またね！",
-      "start_sec": 736.99,
-      "end_sec": 744.69
+      "start_sec": 725.9,
+      "end_sec": 731.94
     }
   ],
-  "wall_time_sec": 9.29,
-  "audio_url": "/audio/ai/20260519_214857.mp3?v=1779196182"
+  "wall_time_sec": 8.25,
+  "audio_url": "/audio/ai/20260519_214857.mp3?v=1779200402"
 }
