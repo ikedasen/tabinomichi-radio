@@ -1,0 +1,705 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-05-19T18:55:11+09:00",
+  "title": "夜の十二時、森の灯り 〜The Rat Zoneがふるまう不気味なごちそう〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 349.72,
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 8.19
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "こんばんは、旅の道ラジオ夜便です。めたんよ。",
+      "news_index": 0,
+      "start_sec": 8.19,
+      "end_sec": 11.31
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ずんだもん登場なのだ。夜便、のんびりした時間始まったのだ。",
+      "news_index": 0,
+      "start_sec": 11.46,
+      "end_sec": 15.74
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "仕事終わりとか、寝る前にお茶でも飲みながら聴いてるかた、お疲れさま。",
+      "news_index": 0,
+      "start_sec": 15.89,
+      "end_sec": 20.28
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "今日はちょっと不気味で、ちょっとおいしい話を持ってきたのだ。",
+      "news_index": 0,
+      "start_sec": 20.43,
+      "end_sec": 24.54
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、スチームで99パーセント好評キープしてる、噂のあの料理ゲームよ。",
+      "news_index": 0,
+      "start_sec": 24.69,
+      "end_sec": 29.98
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "タイトルは『クリーチャーキッチン』。森の一軒家で、近くに住む野生の生き物に料理を振る舞うの。",
+      "news_index": 1,
+      "start_sec": 30.06,
+      "end_sec": 35.96
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "クリーチャー、キッチン。ボクには2つの解釈が見えるのだ。",
+      "news_index": 1,
+      "start_sec": 36.11,
+      "end_sec": 40.02
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "クリーチャーを料理して食べるか、クリーチャーが料理してくれるか、どっちなのだ?",
+      "news_index": 1,
+      "start_sec": 40.1,
+      "end_sec": 45.65
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "どっちでもないわよ。クリーチャーに料理を振る舞う側、つまりあなたがシェフよ。",
+      "news_index": 1,
+      "start_sec": 45.8,
+      "end_sec": 50.4
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "あ、なるほどなのだ。ボクが厨房に立つやつなのだ。",
+      "news_index": 1,
+      "start_sec": 50.55,
+      "end_sec": 54.08
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに、森の不気味なお客さんを相手にする深夜の定食屋ね。",
+      "news_index": 1,
+      "start_sec": 54.23,
+      "end_sec": 58.34
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ローポリのちょっと不気味なクリーチャーがいて、まずカメラで撮るのよ。",
+      "news_index": 1,
+      "start_sec": 58.42,
+      "end_sec": 62.13
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "撮るのだ? それはもう客じゃなくて被写体なのだ。",
+      "news_index": 1,
+      "start_sec": 62.28,
+      "end_sec": 65.44
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "撮らないと好物がわからないの。写真から好みを読み取って、40種類以上のレシピが解放されるのよ。",
+      "news_index": 1,
+      "start_sec": 65.59,
+      "end_sec": 72.09
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "40レシピ、ボクのずんだ餅は何番目で出てくるのだ?",
+      "news_index": 1,
+      "start_sec": 72.24,
+      "end_sec": 76.53
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "ずんだ餅、ないわよ。",
+      "news_index": 1,
+      "start_sec": 76.68,
+      "end_sec": 78.29
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "嘘でしょ。ボクの存在意義が森に没収されたのだ。",
+      "news_index": 1,
+      "start_sec": 78.44,
+      "end_sec": 82.08
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "つまり、撮って、作って、関係を育てる。それが2時間ちょっとで一周できるコンパクトな体験ね。",
+      "news_index": 1,
+      "start_sec": 82.23,
+      "end_sec": 88.38
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "作ってるのはどこのスタジオなのだ?",
+      "news_index": 1,
+      "start_sec": 88.53,
+      "end_sec": 90.89
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "『ザ・ラット・ゾーン』っていう、小ぶりなインディーコレクティブよ。",
+      "news_index": 1,
+      "start_sec": 91.04,
+      "end_sec": 95.27
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ラット・ゾーン……つまり、ねずみの縄張りってことなのだ?",
+      "news_index": 1,
+      "start_sec": 95.42,
+      "end_sec": 100.04
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "直訳するとそうね。ねずみが見張る怪しい区画、いい名前じゃない。",
+      "news_index": 1,
+      "start_sec": 100.19,
+      "end_sec": 104.38
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "ボクは『ずんだもんゾーン』を立ち上げるのだー!",
+      "news_index": 1,
+      "start_sec": 104.53,
+      "end_sec": 107.97
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "なんで便乗するのよ。あなたゾーン作る前にゲームの話聞きなさい。",
+      "news_index": 1,
+      "start_sec": 108.12,
+      "end_sec": 112.32
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "過去作もあって、2023年に『センダー』、2024年に『チェアーズ』を出してるの。",
+      "news_index": 1,
+      "start_sec": 112.4,
+      "end_sec": 118.48
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "センダーって、何かを送る系のゲームなのだ?",
+      "news_index": 1,
+      "start_sec": 118.63,
+      "end_sec": 121.82
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "極寒のツンドラを古びた探検車で走る、雰囲気ホラーよ。送り手って意味の英語ね。",
+      "news_index": 1,
+      "start_sec": 121.97,
+      "end_sec": 127.32
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ホラーやってた人たちが急に料理シム作るの、振れ幅で殴られた気分なのだ。",
+      "news_index": 1,
+      "start_sec": 127.47,
+      "end_sec": 132.48
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "hisohiso",
+      "text": "(ここだけの話、クリーチャーキッチンの中に冷蔵庫マグネットで『チェアーズ』って綴られるイースターエッグがあるらしいわよ)",
+      "news_index": 1,
+      "start_sec": 132.63,
+      "end_sec": 141.04
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "ええ、それガチで面白いやつなのだ!",
+      "news_index": 1,
+      "start_sec": 141.19,
+      "end_sec": 144.08
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに、雰囲気ホラー職人が森のレストランも握ってる、そういう布陣ね。",
+      "news_index": 1,
+      "start_sec": 144.23,
+      "end_sec": 149.08
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、評価がすごくて、レビュー6,000件超えで99パーセントが好評。",
+      "news_index": 1,
+      "start_sec": 149.16,
+      "end_sec": 154.04
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "99? 残りの1パーセントが何を不満に思ってるのか、ボク気になって眠れないのだ。",
+      "news_index": 1,
+      "start_sec": 154.19,
+      "end_sec": 162.27
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "気にしなくていいわよ。",
+      "news_index": 1,
+      "start_sec": 162.42,
+      "end_sec": 163.88
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "いや絶対その1パーは『クリーチャーをもっと食べさせろ』派なのだ!",
+      "news_index": 1,
+      "start_sec": 164.03,
+      "end_sec": 168.29
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "だから食べる側じゃないって。要するに、買った人ほぼ全員が満足してる数字よ。",
+      "news_index": 1,
+      "start_sec": 168.44,
+      "end_sec": 173.61
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "スチームの2026年ベスト評価リリースで、現時点トップらしいわ。",
+      "news_index": 1,
+      "start_sec": 173.69,
+      "end_sec": 178.21
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "2026年トップ、ヤバいのだー!",
+      "news_index": 1,
+      "start_sec": 178.36,
+      "end_sec": 181.46
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "面白いのが、ホラーテイストなのに居心地がいい、っていう矛盾ジャンルが刺さってるところね。",
+      "news_index": 1,
+      "start_sec": 181.61,
+      "end_sec": 186.86
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ホラーで居心地いい? それ、心霊スポットでこたつ出してるみたいなのだ。",
+      "news_index": 1,
+      "start_sec": 187.01,
+      "end_sec": 191.63
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "わりと近いわよ。怖いけど可愛い、暗いけど暖かい、それで『クリーピーコージー』って呼ばれてるの。",
+      "news_index": 1,
+      "start_sec": 191.78,
+      "end_sec": 198.23
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "クリーピーコージー。ボクこういう、矛盾を畳んだ新ジャンル名好きなのだ。",
+      "news_index": 1,
+      "start_sec": 198.38,
+      "end_sec": 203.73
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに、怖さと癒しを同じ皿に盛った料理ゲーム、そういうパッケージね。",
+      "news_index": 1,
+      "start_sec": 203.88,
+      "end_sec": 208.65
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "chuuni",
+      "text": "…夜の十二時を回ったばかり。深い森に灯る、ただ一つの明かり。訪れる者は獣か、それとも私の中の獣か…",
+      "news_index": 1,
+      "start_sec": 208.73,
+      "end_sec": 216.86
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "うわー! また厨二発作出たのだ! 夜にやるとガチで森から呼び戻されるのだ!",
+      "news_index": 1,
+      "start_sec": 217.01,
+      "end_sec": 222.16
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ふふ、スチームの紹介文がそのまま中二病のトリガー引いてくるのよ。ごめんなさい。",
+      "news_index": 1,
+      "start_sec": 222.31,
+      "end_sec": 227.44
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "ボク、心臓止まるかと思ったのだ。",
+      "news_index": 1,
+      "start_sec": 227.59,
+      "end_sec": 231.31
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "つまり紹介文の時点で雰囲気がすでに完成してる、ってことね。",
+      "news_index": 1,
+      "start_sec": 231.46,
+      "end_sec": 235.61
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、日本語対応の話。5月のアップデートで日本語含む複数言語に追加対応したの。今は11言語サポートよ。",
+      "news_index": 1,
+      "start_sec": 235.69,
+      "end_sec": 243.54
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ちょっと前まで英語だけだったのだ?",
+      "news_index": 1,
+      "start_sec": 243.69,
+      "end_sec": 245.97
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。海外インディーで言語の壁にぶつかってた人にとって、今がちょうど入りどきね。",
+      "news_index": 1,
+      "start_sec": 246.12,
+      "end_sec": 251.35
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "リスナーの皆、これ夜に1人で遊ぶゲームっぽいから、明日仕事の人はほどほどなのだ。",
+      "news_index": 1,
+      "start_sec": 251.5,
+      "end_sec": 257.11
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "価格は920円、5月25日まで20パーセントオフの736円。2時間ちょっとで一周だから、週末の夜にちょうどいいわ。",
+      "news_index": 1,
+      "start_sec": 257.26,
+      "end_sec": 266.52
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ボク、クリーチャーにごはん出すところに完全に持ってかれたのだ。可愛いに決まってるのだ。",
+      "news_index": 1,
+      "start_sec": 266.67,
+      "end_sec": 272.85
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ローポリだから可愛さもあるし、ちょっと不気味さもあるし、塩梅がちょうどいいらしいわよ。",
+      "news_index": 1,
+      "start_sec": 273.0,
+      "end_sec": 278.13
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "待って、好み外したらどうなるのだ? クリーチャー、キレて店ごとひっくり返すのだ?",
+      "news_index": 1,
+      "start_sec": 278.28,
+      "end_sec": 285.83
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこは試しながら好み探っていく作りよ。失敗してもループする、ゆるい設計みたい。",
+      "news_index": 1,
+      "start_sec": 285.98,
+      "end_sec": 291.41
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "夜遅くに、おいしいごはんで動物と仲良くなる。これ、いい話なのだ。",
+      "news_index": 1,
+      "start_sec": 291.56,
+      "end_sec": 296.5
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "うん、こういう叫ばないインディーって増えてほしいのよね。",
+      "news_index": 1,
+      "start_sec": 296.65,
+      "end_sec": 300.19
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに、コンパクトで、可愛くて、ほんのり不気味な深夜向け一品、で結論ね。",
+      "news_index": 1,
+      "start_sec": 300.27,
+      "end_sec": 305.52
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "めたん、最後に確認なのだ。ボクがクリーチャー側になって、めたんが料理する路線もアリだと思うのだ。",
+      "news_index": 1,
+      "start_sec": 305.67,
+      "end_sec": 313.1
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "ない。冒頭で却下したやつ、二周目こすってこないで。",
+      "news_index": 1,
+      "start_sec": 313.25,
+      "end_sec": 316.75
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "やっぱりダメなのだー。",
+      "news_index": 1,
+      "start_sec": 316.9,
+      "end_sec": 318.85
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今夜の深掘りはここまで。クリーチャーキッチン、不気味と癒しを両方味わいたいかたにオススメ。",
+      "news_index": 1,
+      "start_sec": 319.0,
+      "end_sec": 324.94
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ザ・ラット・ゾーンの過去作も気になった人はスチームで探してみるのだ。",
+      "news_index": 1,
+      "start_sec": 325.09,
+      "end_sec": 329.87
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "sasayaki",
+      "text": "夜便はこのあともゆっくり続くわ。寝る前に聴いてくれた人、いい夢を。",
+      "news_index": 1,
+      "start_sec": 330.02,
+      "end_sec": 334.89
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "リスナーの皆、また次の夜便で会うのだー! ずんだもんでした!",
+      "news_index": 1,
+      "start_sec": 335.04,
+      "end_sec": 339.01
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四国めたんでした。おやすみなさい。",
+      "news_index": 1,
+      "start_sec": 339.16,
+      "end_sec": 341.32
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 342.02,
+      "end_sec": 349.72
+    }
+  ],
+  "wall_time_sec": 5.88,
+  "audio_url": "/audio/indie/20260519_185511.mp3?v=1779186478"
+}

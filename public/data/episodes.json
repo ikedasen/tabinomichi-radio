@@ -1,6 +1,31 @@
 {
-  "generated_at": "2026-05-19T19:51:30.156119",
+  "generated_at": "2026-05-19T19:57:09.075360",
   "episodes": [
+    {
+      "episode_id": "20260519_193622",
+      "profile": "ai",
+      "title": "メタ再編前夜 〜8,000人を切り、7,000人をAIに移す朝〜",
+      "generated_at": "2026-05-19T19:36:22+09:00",
+      "duration_sec": 553.73,
+      "audio_url": "/audio/ai/20260519_193622.mp3?v=1779188227",
+      "meta_url": "/audio/ai/20260519_193622.meta.json",
+      "script_url": "/audio/ai/20260519_193622.script.json",
+      "audio_size_mb": 8.45,
+      "featured_game": {
+        "image_rel": "/images/topics/tech_20260519_193622_chars.webp?v=1779187509",
+        "hero_rel": "/images/topics/tech_20260519_193622.webp?v=1779187509",
+        "title": "メタ再編前夜 〜8,000人を切り、7,000人をAIに移す朝〜",
+        "companies": [
+          "Meta",
+          "Amazon",
+          "Google",
+          "Microsoft"
+        ],
+        "screenshot_rels": []
+      },
+      "program_description": "旅の道ラジオ夜便、テックニュース深掘り回。今夜はメタの大規模組織再編、明日5月20日から始まる8,000人レイオフと7,000人のAI組織移籍を取り上げます。背景では業績絶好調なのに人を切るパラドックス、スケールAIから引き抜いた28歳の最高AI責任者アレクサンダー・ワンとメタ・スーパーインテリジェンス・ラボの立ち上げを紹介。技術詳細ではAIポッド型組織と新役職、6,000ポストの採用凍結まで含めた実質1万4,000人規模の作り替えを掘り下げます。含意ではインスタグラム・ワッツアップの中身が変わる話、他ビッグテックへの波及、エンジニア就職市場への現実的影響を多角展開。展望は2026年下半期の追加レイオフと膨らみ続けるAI設備投資、半年後に効果が見えるかのウォッチポイントまで深く語ります。",
+      "summary_short": "業績絶好調なのに8,000人を解雇し、7,000人をAI部門へ移すメタの大再編。28歳の最高AI責任者登用、スーパーインテリジェンス・ラボ新設、実質1万4,000人規模の組織作り替えが、インスタやワッツアップをどう変えるか徹底解剖。"
+    },
     {
       "episode_id": "20260519_185520",
       "profile": "indie",
@@ -57,7 +82,7 @@
       "featured_game": {
         "app_id": 3097300,
         "title": "Creature Kitchen",
-        "image_rel": "/images/games/3097300_header.jpg?v=1779184134",
+        "image_rel": "/images/topics/indie_20260519_185511_chars.webp?v=1779188228",
         "hero_rel": "/images/games/3097300_hero.jpg?v=1779184136",
         "screenshot_rels": [
           "/images/games/3097300_ss.jpg?v=1779184136",
