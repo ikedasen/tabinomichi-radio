@@ -7,8 +7,8 @@
     <description>ずんだもん × めたん × つむぎが届ける、ゲーム &amp; テックニュース雑談ラジオ。朝便と夜便で毎日更新、レトロから新作まで、最新 AI 動向から業界マクロまで雑談形式でサクッと。</description>
     <language>ja</language>
     <copyright>© 2026 tabinomichi</copyright>
-    <lastBuildDate>Tue, 19 May 2026 15:14:28 +0900</lastBuildDate>
-    <pubDate>Tue, 19 May 2026 13:55:59 +0900</pubDate>
+    <lastBuildDate>Tue, 19 May 2026 15:41:26 +0900</lastBuildDate>
+    <pubDate>Tue, 19 May 2026 05:25:46 +0900</pubDate>
     <generator>build_rss_feed.py (tabinomichi radio)</generator>
     <image>
       <url>https://news.tabinomichi.jp/podcast-cover.png?v=1779005902</url>
@@ -29,21 +29,6 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <item>
-      <title>コンポーザー 2.5 を読み解く夜 〜速さじゃない、厳しさが主役だった〜</title>
-      <link>https://news.tabinomichi.jp/radio/20260519_135559</link>
-      <guid isPermaLink="false">tabinomichi-radio-20260519_135559</guid>
-      <pubDate>Tue, 19 May 2026 13:55:59 +0900</pubDate>
-      <description>コンポーザー 2.5 を読み解く夜。PHP の依存管理ツール、コンポーザーの 2.5 系を取り上げる回。背景では年間数十億回ダウンロードと約 40 万パッケージを支える基盤としての立ち位置、そして大きな性能ジャンプは 2.0 で起きていたという事実を整理。技術詳細ではロックファイルと設定ファイルの不整合を許さない厳格化、リクワイアのバージョン推定改善、シンフォニー流カスタムコマンド対応、ダウンロード・オンリーモード、認証情報まわりのハードフェイル化など 2.5 の中身を噛み砕く。含意では PHP 開発者・シーアイ運用・自動更新ボット利用者それぞれの影響、そして我々一般人が Web サービスの裏で受けてる恩恵まで広げる。展望では 2026 年 5 月時点の最新は 2.9.8、CVE 対応は 2.7 以降に集中、レガシー保守の難所も整理する。</description>
-      <content:encoded><![CDATA[コンポーザー 2.5 を読み解く夜。PHP の依存管理ツール、コンポーザーの 2.5 系を取り上げる回。背景では年間数十億回ダウンロードと約 40 万パッケージを支える基盤としての立ち位置、そして大きな性能ジャンプは 2.0 で起きていたという事実を整理。技術詳細ではロックファイルと設定ファイルの不整合を許さない厳格化、リクワイアのバージョン推定改善、シンフォニー流カスタムコマンド対応、ダウンロード・オンリーモード、認証情報まわりのハードフェイル化など 2.5 の中身を噛み砕く。含意では PHP 開発者・シーアイ運用・自動更新ボット利用者それぞれの影響、そして我々一般人が Web サービスの裏で受けてる恩恵まで広げる。展望では 2026 年 5 月時点の最新は 2.9.8、CVE 対応は 2.7 以降に集中、レガシー保守の難所も整理する。]]></content:encoded>
-      <enclosure url="https://news.tabinomichi.jp/audio/ai/20260519_135559.mp3?v=1779167458" length="8963177" type="audio/mpeg"/>
-      <itunes:title>コンポーザー 2.5 を読み解く夜 〜速さじゃない、厳しさが主役だった〜</itunes:title>
-      <itunes:summary>コンポーザー 2.5 を読み解く夜。PHP の依存管理ツール、コンポーザーの 2.5 系を取り上げる回。背景では年間数十億回ダウンロードと約 40 万パッケージを支える基盤としての立ち位置、そして大きな性能ジャンプは 2.0 で起きていたという事実を整理。技術詳細ではロックファイルと設定ファイルの不整合を許さない厳格化、リクワイアのバージョン推定改善、シンフォニー流カスタムコマンド対応、ダウンロード・オンリーモード、認証情報まわりのハードフェイル化など 2.5 の中身を噛み砕く。含意では PHP 開発者・シーアイ運用・自動更新ボット利用者それぞれの影響、そして我々一般人が Web サービスの裏で受けてる恩恵まで広げる。展望では 2026 年 5 月時点の最新は 2.9.8、CVE 対応は 2.7 以降に集中、レガシー保守の難所も整理する。</itunes:summary>
-      <itunes:image href="https://news.tabinomichi.jp/images/og/20260519_135559.jpg"/>
-      <itunes:duration>9:20</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
     <item>
       <title>AI業界 5本立ての朝 〜独占・オンプレ・スマホ・軍・宇宙〜</title>
       <link>https://news.tabinomichi.jp/radio/20260519_052546</link>
