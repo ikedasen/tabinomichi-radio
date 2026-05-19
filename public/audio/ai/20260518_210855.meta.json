@@ -3,14 +3,15 @@
   "generated_at": "2026-05-18T21:08:55+09:00",
   "title": "viviON GAMES 着弾の夜 〜スマホで PC ゲームを買い切る、その地図〜",
   "audio_path": "ai_latest.wav",
-  "duration_sec": 587.42,
+  "duration_sec": 597.45,
+  "script_hash": "sha256:fb7d9a73f6e8b50cc11fc86787a5c8281a4ff87c2b4a3bb3f736fceade8600c5",
   "segments": [
     {
       "index": -1,
       "type": "intro",
       "text": "🎵 ジングル + 旅の道ラジオ！",
       "start_sec": 0.0,
-      "end_sec": 5.05
+      "end_sec": 8.19
     },
     {
       "index": 0,
@@ -19,8 +20,8 @@
       "tone": "intro",
       "text": "こんばんは、旅の道ラジオ夜便、テックニュース深掘りの時間よ。四国めたんがお届けするわ。",
       "news_index": 0,
-      "start_sec": 5.05,
-      "end_sec": 11.38
+      "start_sec": 8.19,
+      "end_sec": 14.51
     },
     {
       "index": 1,
@@ -29,8 +30,8 @@
       "tone": "mic",
       "text": "ボクはずんだもんなのだ! 今夜もよろしくお願いするのだ!",
       "news_index": 0,
-      "start_sec": 11.53,
-      "end_sec": 15.1
+      "start_sec": 14.66,
+      "end_sec": 18.23
     },
     {
       "index": 2,
@@ -39,8 +40,8 @@
       "tone": "niyari",
       "text": "今夜は 1 本がっつり掘り下げる回。テーマはね、今日の夕方に発表されたばっかりのホヤホヤニュースよ。",
       "news_index": 0,
-      "start_sec": 15.25,
-      "end_sec": 21.59
+      "start_sec": 18.38,
+      "end_sec": 24.72
     },
     {
       "index": 3,
@@ -49,8 +50,8 @@
       "tone": "kangae",
       "text": "ホヤホヤって、どんな話なのだ?",
       "news_index": 0,
-      "start_sec": 21.74,
-      "end_sec": 24.2
+      "start_sec": 24.87,
+      "end_sec": 27.33
     },
     {
       "index": 4,
@@ -59,8 +60,8 @@
       "tone": "normal",
       "text": "viviON っていう会社が、スマホで PC ゲームを遊べる新サービスを発表したの。名前は viviON GAMES。",
       "news_index": 0,
-      "start_sec": 24.35,
-      "end_sec": 30.96
+      "start_sec": 27.48,
+      "end_sec": 34.1
     },
     {
       "index": 5,
@@ -69,8 +70,8 @@
       "tone": "shock",
       "text": "えっ、スマホで PC ゲーム!? それマジなのだ!?",
       "news_index": 0,
-      "start_sec": 31.11,
-      "end_sec": 34.78
+      "start_sec": 34.25,
+      "end_sec": 37.92
     },
     {
       "index": 6,
@@ -79,8 +80,8 @@
       "tone": "tsuntsun",
       "text": "マジよ。しかも 2026 年内にスタート予定、ってアナウンスしたばっかり。",
       "news_index": 0,
-      "start_sec": 34.93,
-      "end_sec": 39.82
+      "start_sec": 38.07,
+      "end_sec": 42.95
     },
     {
       "index": 7,
@@ -89,8 +90,8 @@
       "tone": "amaama",
       "text": "気になるのだ! めたん、教えてほしいのだ!",
       "news_index": 0,
-      "start_sec": 39.97,
-      "end_sec": 43.22
+      "start_sec": 43.1,
+      "end_sec": 46.35
     },
     {
       "index": 8,
@@ -99,8 +100,8 @@
       "tone": "niyari",
       "text": "じゃあ今夜は、背景から技術、影響、これからの話まで、しっかり 4 章立てで掘り下げていくわよ。",
       "news_index": 0,
-      "start_sec": 43.37,
-      "end_sec": 49.96
+      "start_sec": 46.5,
+      "end_sec": 52.91
     },
     {
       "index": 9,
@@ -109,8 +110,8 @@
       "tone": "kangae",
       "text": "まず viviON ってどんな会社なのか、から始めましょ。",
       "news_index": 1,
-      "start_sec": 50.04,
-      "end_sec": 53.33
+      "start_sec": 52.99,
+      "end_sec": 56.28
     },
     {
       "index": 10,
@@ -119,8 +120,8 @@
       "tone": "gurugru",
       "text": "あんま聞いたことない名前なのだ。何屋さんなのだ?",
       "news_index": 1,
-      "start_sec": 53.48,
-      "end_sec": 57.94
+      "start_sec": 56.43,
+      "end_sec": 60.89
     },
     {
       "index": 11,
@@ -129,8 +130,8 @@
       "tone": "normal",
       "text": "ずんだ、DLsite って知ってる?",
       "news_index": 1,
-      "start_sec": 58.09,
-      "end_sec": 60.42
+      "start_sec": 61.04,
+      "end_sec": 63.37
     },
     {
       "index": 12,
@@ -139,8 +140,8 @@
       "tone": "amaama",
       "text": "あー、ボク聞いたことあるのだ! 同人ゲームとか売ってるサイトなのだ!",
       "news_index": 1,
-      "start_sec": 60.57,
-      "end_sec": 65.42
+      "start_sec": 63.52,
+      "end_sec": 68.37
     },
     {
       "index": 13,
@@ -149,8 +150,8 @@
       "tone": "niyari",
       "text": "そうそう。DLsite を運営してるエイシスっていう会社の親会社が、viviON なのよ。",
       "news_index": 1,
-      "start_sec": 65.57,
-      "end_sec": 70.91
+      "start_sec": 68.52,
+      "end_sec": 73.83
     },
     {
       "index": 14,
@@ -159,8 +160,8 @@
       "tone": "shock",
       "text": "親会社! じゃあ結構大きい会社じゃん!",
       "news_index": 1,
-      "start_sec": 71.06,
-      "end_sec": 73.99
+      "start_sec": 73.98,
+      "end_sec": 76.91
     },
     {
       "index": 15,
@@ -169,8 +170,8 @@
       "tone": "kangae",
       "text": "設立は 2021 年 10 月、本社は秋葉原駅前。資本金は 900 万円だけど、その上にゲオホールディングスがいるの。",
       "news_index": 1,
-      "start_sec": 74.14,
-      "end_sec": 82.57
+      "start_sec": 77.06,
+      "end_sec": 85.49
     },
     {
       "index": 16,
@@ -179,8 +180,8 @@
       "tone": "gurugru",
       "text": "ゲオ? あのレンタルとか中古販売のゲオなのだ?",
       "news_index": 1,
-      "start_sec": 82.72,
-      "end_sec": 87.11
+      "start_sec": 85.64,
+      "end_sec": 90.03
     },
     {
       "index": 17,
@@ -189,8 +190,8 @@
       "tone": "normal",
       "text": "そう、東証プライム上場の大手よ。連結売上高 4,812 億円、グループ従業員 7,129 名。",
       "news_index": 1,
-      "start_sec": 87.26,
-      "end_sec": 95.36
+      "start_sec": 90.18,
+      "end_sec": 98.78
     },
     {
       "index": 18,
@@ -199,8 +200,8 @@
       "tone": "shock",
       "text": "えっ、4,800 億!? ボクのお小遣いの何百万倍なのだ!?",
       "news_index": 1,
-      "start_sec": 95.51,
-      "end_sec": 100.5
+      "start_sec": 98.93,
+      "end_sec": 103.92
     },
     {
       "index": 19,
@@ -209,8 +210,8 @@
       "tone": "niyari",
       "text": "そういう大企業の傘下で、viviON グループだけでも登録利用者 1,685 万人、グループ売上高 562 億円って規模なの。",
       "news_index": 1,
-      "start_sec": 100.65,
-      "end_sec": 109.54
+      "start_sec": 104.07,
+      "end_sec": 113.37
     },
     {
       "index": 20,
@@ -219,8 +220,8 @@
       "tone": "amaama",
       "text": "規模はガチなのだ! でもなんで今、スマホでゲーム遊ばせる話になったのだ?",
       "news_index": 1,
-      "start_sec": 109.69,
-      "end_sec": 115.22
+      "start_sec": 113.52,
+      "end_sec": 119.06
     },
     {
       "index": 21,
@@ -229,8 +230,8 @@
       "tone": "kangae",
       "text": "実はね、viviON は 2026 年をゲーム強化年って明言してるの。今回の発表は単発じゃなくて、流れの一部。",
       "news_index": 1,
-      "start_sec": 115.37,
-      "end_sec": 123.32
+      "start_sec": 119.21,
+      "end_sec": 127.99
     },
     {
       "index": 22,
@@ -239,8 +240,8 @@
       "tone": "gurugru",
       "text": "流れって、どういうことなのだ?",
       "news_index": 1,
-      "start_sec": 123.47,
-      "end_sec": 126.51
+      "start_sec": 128.14,
+      "end_sec": 131.18
     },
     {
       "index": 23,
@@ -249,8 +250,8 @@
       "tone": "normal",
       "text": "5 月 8 日に viviON Lab っていうインディーゲームのレーベルを立ち上げてるの。それが第 1 弾。",
       "news_index": 1,
-      "start_sec": 126.66,
-      "end_sec": 132.02
+      "start_sec": 131.33,
+      "end_sec": 136.8
     },
     {
       "index": 24,
@@ -259,8 +260,8 @@
       "tone": "kangae",
       "text": "レーベル? 音楽の CD レーベルみたいなやつなのだ?",
       "news_index": 1,
-      "start_sec": 132.17,
-      "end_sec": 135.92
+      "start_sec": 136.95,
+      "end_sec": 140.71
     },
     {
       "index": 25,
@@ -269,8 +270,8 @@
       "tone": "niyari",
       "text": "ゲームを発掘して、翻訳して、海外に売って、移植までやる「販売社」みたいなものよ。",
       "news_index": 1,
-      "start_sec": 136.07,
-      "end_sec": 141.98
+      "start_sec": 140.86,
+      "end_sec": 146.77
     },
     {
       "index": 26,
@@ -279,8 +280,8 @@
       "tone": "amaama",
       "text": "で、第 2 弾が今日の viviON GAMES ってことなのだ!?",
       "news_index": 1,
-      "start_sec": 142.13,
-      "end_sec": 146.09
+      "start_sec": 146.92,
+      "end_sec": 150.87
     },
     {
       "index": 27,
@@ -289,8 +290,8 @@
       "tone": "normal",
       "text": "そういうこと。Lab がゲームを「作る・育てる」側だとしたら、GAMES は「配信・販売する」側。両輪を揃えにきた格好ね。",
       "news_index": 1,
-      "start_sec": 146.24,
-      "end_sec": 154.87
+      "start_sec": 151.02,
+      "end_sec": 159.65
     },
     {
       "index": 28,
@@ -299,8 +300,8 @@
       "tone": "shock",
       "text": "マジか! ガチで本気の戦略じゃん!",
       "news_index": 1,
-      "start_sec": 155.02,
-      "end_sec": 157.59
+      "start_sec": 159.8,
+      "end_sec": 162.37
     },
     {
       "index": 29,
@@ -309,8 +310,8 @@
       "tone": "kangae",
       "text": "しかも技術の中核は OOParts Engine っていうクラウドゲーミング基盤。これも実は去年すでに買ってたのよ。",
       "news_index": 1,
-      "start_sec": 157.74,
-      "end_sec": 164.58
+      "start_sec": 162.52,
+      "end_sec": 169.37
     },
     {
       "index": 30,
@@ -319,8 +320,8 @@
       "tone": "gurugru",
       "text": "買ってた!? 何それ、どこから買ったのだ?",
       "news_index": 1,
-      "start_sec": 164.73,
-      "end_sec": 168.87
+      "start_sec": 169.52,
+      "end_sec": 173.66
     },
     {
       "index": 31,
@@ -329,8 +330,8 @@
       "tone": "kangae",
       "text": "2025 年 8 月、エイシスが株式会社ブラックっていう会社から事業譲受したの。",
       "news_index": 2,
-      "start_sec": 169.02,
-      "end_sec": 174.67
+      "start_sec": 173.81,
+      "end_sec": 179.48
     },
     {
       "index": 32,
@@ -339,8 +340,8 @@
       "tone": "gurugru",
       "text": "事業譲受って、どういう意味なのだ?",
       "news_index": 2,
-      "start_sec": 174.82,
-      "end_sec": 178.17
+      "start_sec": 179.63,
+      "end_sec": 182.98
     },
     {
       "index": 33,
@@ -349,8 +350,8 @@
       "tone": "normal",
       "text": "OOParts Engine の技術ごと、関連特許 3 件もまとめて買い取ったってこと。",
       "news_index": 2,
-      "start_sec": 178.32,
-      "end_sec": 183.32
+      "start_sec": 183.13,
+      "end_sec": 187.83
     },
     {
       "index": 34,
@@ -359,8 +360,8 @@
       "tone": "shock",
       "text": "特許まで! 本気だったのだ!",
       "news_index": 2,
-      "start_sec": 183.47,
-      "end_sec": 185.57
+      "start_sec": 187.98,
+      "end_sec": 190.08
     },
     {
       "index": 35,
@@ -369,8 +370,8 @@
       "tone": "niyari",
       "text": "面白いのが、当初は技術を借りる相談だったらしいの。でも結局、丸ごと取りに行った。",
       "news_index": 2,
-      "start_sec": 185.72,
-      "end_sec": 191.33
+      "start_sec": 190.23,
+      "end_sec": 195.84
     },
     {
       "index": 36,
@@ -379,8 +380,8 @@
       "tone": "amaama",
       "text": "めたん、その OOParts Engine って、具体的に何ができるエンジンなのだ?",
       "news_index": 2,
-      "start_sec": 191.48,
-      "end_sec": 197.15
+      "start_sec": 195.99,
+      "end_sec": 201.66
     },
     {
       "index": 37,
@@ -389,8 +390,8 @@
       "tone": "kangae",
       "text": "PC ゲームを viviON のサーバー上で動かして、その映像をリアルタイムでスマホに配信する仕組みよ。",
       "news_index": 2,
-      "start_sec": 197.3,
-      "end_sec": 203.7
+      "start_sec": 201.81,
+      "end_sec": 208.22
     },
     {
       "index": 38,
@@ -399,8 +400,8 @@
       "tone": "gurugru",
       "text": "待つのだ、なんでわざわざサーバーで動かすのだ? スマホで動かせばいいじゃん。",
       "news_index": 2,
-      "start_sec": 203.85,
-      "end_sec": 210.12
+      "start_sec": 208.37,
+      "end_sec": 214.64
     },
     {
       "index": 39,
@@ -409,8 +410,8 @@
       "tone": "normal",
       "text": "PC ゲームをスマホで動かそうとすると、移植作業が必要なのよ。それが大変で開発者の負担になる。",
       "news_index": 2,
-      "start_sec": 210.27,
-      "end_sec": 216.88
+      "start_sec": 214.79,
+      "end_sec": 221.4
     },
     {
       "index": 40,
@@ -419,8 +420,8 @@
       "tone": "kangae",
       "text": "あー、それで「移植不要」っていうのが売りなのだ!",
       "news_index": 2,
-      "start_sec": 217.03,
-      "end_sec": 220.72
+      "start_sec": 221.55,
+      "end_sec": 225.24
     },
     {
       "index": 41,
@@ -429,8 +430,8 @@
       "tone": "niyari",
       "text": "そう。サーバーで PC 版がそのまま動くから、開発者は何もせず、ユーザーはスマホで遊べる。理屈はキレイ。",
       "news_index": 2,
-      "start_sec": 220.87,
-      "end_sec": 228.12
+      "start_sec": 225.39,
+      "end_sec": 233.08
     },
     {
       "index": 42,
@@ -439,8 +440,8 @@
       "tone": "amaama",
       "text": "理屈は、って言い方が気になるのだ。実際どうなのだ?",
       "news_index": 2,
-      "start_sec": 228.27,
-      "end_sec": 232.48
+      "start_sec": 233.23,
+      "end_sec": 237.43
     },
     {
       "index": 43,
@@ -449,8 +450,8 @@
       "tone": "kangae",
       "text": "ここで避けて通れないのが、クラウドゲーミング全体の昔話。Google Stadia って覚えてる?",
       "news_index": 2,
-      "start_sec": 232.63,
-      "end_sec": 238.61
+      "start_sec": 237.58,
+      "end_sec": 243.57
     },
     {
       "index": 44,
@@ -459,8 +460,8 @@
       "tone": "gurugru",
       "text": "うっすら聞いたことあるのだ。なんか消えた気がするのだ。",
       "news_index": 2,
-      "start_sec": 238.76,
-      "end_sec": 243.12
+      "start_sec": 243.72,
+      "end_sec": 248.08
     },
     {
       "index": 45,
@@ -469,8 +470,8 @@
       "tone": "normal",
       "text": "2019 年に Google が始めて、2023 年 1 月に終了。ユーザーが思ったほど増えなくて、独占タイトル不足、コントローラー在庫処分の損まで出した。",
       "news_index": 2,
-      "start_sec": 243.27,
-      "end_sec": 253.42
+      "start_sec": 248.23,
+      "end_sec": 259.66
     },
     {
       "index": 46,
@@ -479,8 +480,8 @@
       "tone": "shock",
       "text": "あの Google が撤退!? 技術の問題じゃないのだ?",
       "news_index": 2,
-      "start_sec": 253.57,
-      "end_sec": 257.19
+      "start_sec": 259.81,
+      "end_sec": 263.44
     },
     {
       "index": 47,
@@ -489,8 +490,8 @@
       "tone": "niyari",
       "text": "技術自体は動いてた。でも「誰のためのどんなゲームを、いくらで売るか」を絞らなかった。汎用 AAA 全部を狙って、結局誰の心も掴めなかったの。",
       "news_index": 2,
-      "start_sec": 257.34,
-      "end_sec": 267.24
+      "start_sec": 263.59,
+      "end_sec": 273.49
     },
     {
       "index": 48,
@@ -499,8 +500,8 @@
       "tone": "kangae",
       "text": "ふむ。viviON GAMES は対照的なのだ?",
       "news_index": 2,
-      "start_sec": 267.39,
-      "end_sec": 270.59
+      "start_sec": 273.64,
+      "end_sec": 276.84
     },
     {
       "index": 49,
@@ -509,8 +510,8 @@
       "tone": "normal",
       "text": "対照的。日本のインディー・同人寄り、プラス買い切り、っていう絞り方。これは Stadia の真逆。",
       "news_index": 2,
-      "start_sec": 270.74,
-      "end_sec": 277.3
+      "start_sec": 276.99,
+      "end_sec": 283.5
     },
     {
       "index": 50,
@@ -519,8 +520,8 @@
       "tone": "amaama",
       "text": "狙いがめっちゃハッキリしてるのだ!",
       "news_index": 2,
-      "start_sec": 277.45,
-      "end_sec": 279.79
+      "start_sec": 283.65,
+      "end_sec": 285.98
     },
     {
       "index": 51,
@@ -529,8 +530,8 @@
       "tone": "kangae",
       "text": "で、技術の話に戻ると、クラウドゲーミングには構造的な壁があるの。それが「遅延」。",
       "news_index": 2,
-      "start_sec": 279.94,
-      "end_sec": 286.11
+      "start_sec": 286.13,
+      "end_sec": 292.31
     },
     {
       "index": 52,
@@ -539,8 +540,8 @@
       "tone": "gurugru",
       "text": "遅延?",
       "news_index": 2,
-      "start_sec": 286.26,
-      "end_sec": 287.44
+      "start_sec": 292.46,
+      "end_sec": 293.63
     },
     {
       "index": 53,
@@ -549,8 +550,8 @@
       "tone": "normal",
       "text": "入力からサーバー処理、そして映像配信。この往復で 30 ミリ秒から 80 ミリ秒の遅延が必ず出るの。Wi-Fi 経由ならもっと揺れる。",
       "news_index": 2,
-      "start_sec": 287.59,
-      "end_sec": 296.43
+      "start_sec": 293.78,
+      "end_sec": 302.7
     },
     {
       "index": 54,
@@ -559,8 +560,8 @@
       "tone": "shock",
       "text": "ええっ、80 ミリ秒も!? アクションゲーム死ぬのだ!",
       "news_index": 2,
-      "start_sec": 296.58,
-      "end_sec": 300.39
+      "start_sec": 302.85,
+      "end_sec": 306.66
     },
     {
       "index": 55,
@@ -569,8 +570,8 @@
       "tone": "niyari",
       "text": "するどい。1 フレーム単位の応答が命の格闘・FPS・リズム・落ちものは、クラウドだと体験が壊れる。",
       "news_index": 2,
-      "start_sec": 300.54,
-      "end_sec": 307.73
+      "start_sec": 306.81,
+      "end_sec": 314.28
     },
     {
       "index": 56,
@@ -579,8 +580,8 @@
       "tone": "kangae",
       "text": "じゃあ、viviON GAMES はそういうの遊べないってこと?",
       "news_index": 2,
-      "start_sec": 307.88,
-      "end_sec": 311.63
+      "start_sec": 314.43,
+      "end_sec": 318.19
     },
     {
       "index": 57,
@@ -589,8 +590,8 @@
       "tone": "normal",
       "text": "全部じゃない。逆に、ビジュアルノベルとかアドベンチャー、ターン制 RPG、戦略系は遅延の影響がほぼ無いのよ。",
       "news_index": 2,
-      "start_sec": 311.78,
-      "end_sec": 319.34
+      "start_sec": 318.34,
+      "end_sec": 326.65
     },
     {
       "index": 58,
@@ -599,8 +600,8 @@
       "tone": "amaama",
       "text": "タップしてから少し遅れて応答しても気にならないやつなのだ!",
       "news_index": 2,
-      "start_sec": 319.49,
-      "end_sec": 323.76
+      "start_sec": 326.8,
+      "end_sec": 331.06
     },
     {
       "index": 59,
@@ -609,8 +610,8 @@
       "tone": "niyari",
       "text": "そうそう。BitSummit PUNCH っていうイベントの先行試遊、ラインアップ 7 本がまさにその証拠なの。",
       "news_index": 2,
-      "start_sec": 323.91,
-      "end_sec": 330.03
+      "start_sec": 331.21,
+      "end_sec": 337.77
     },
     {
       "index": 60,
@@ -619,8 +620,8 @@
       "tone": "gurugru",
       "text": "ラインアップって、どんなのなのだ? 教えてほしいのだ!",
       "news_index": 2,
-      "start_sec": 330.18,
-      "end_sec": 334.98
+      "start_sec": 337.92,
+      "end_sec": 342.72
     },
     {
       "index": 61,
@@ -629,8 +630,8 @@
       "tone": "normal",
       "text": "夜廻三、制服カノジョ、ケモノミクス Re、片道勇者プラス、Terminus Historia 境界戦役、シロナガス島への帰還、だる絡み背後霊。この 7 本よ。",
       "news_index": 3,
-      "start_sec": 335.13,
-      "end_sec": 345.73
+      "start_sec": 342.87,
+      "end_sec": 353.63
     },
     {
       "index": 62,
@@ -639,8 +640,8 @@
       "tone": "kangae",
       "text": "シロナガス島、ボク知ってるのだ! あれってノベルゲームじゃなかったっけ?",
       "news_index": 3,
-      "start_sec": 345.88,
-      "end_sec": 350.43
+      "start_sec": 353.78,
+      "end_sec": 358.33
     },
     {
       "index": 63,
@@ -649,8 +650,8 @@
       "tone": "niyari",
       "text": "正解。クリックで読み進める形式の名作ね。タップ応答に数百ミリ秒のラグがあっても全く気にならないジャンル。",
       "news_index": 3,
-      "start_sec": 350.58,
-      "end_sec": 357.89
+      "start_sec": 358.48,
+      "end_sec": 365.79
     },
     {
       "index": 64,
@@ -659,8 +660,8 @@
       "tone": "amaama",
       "text": "7 本中ガチアクションが無いの、偶然じゃないのだ!",
       "news_index": 3,
-      "start_sec": 358.04,
-      "end_sec": 361.86
+      "start_sec": 365.94,
+      "end_sec": 369.76
     },
     {
       "index": 65,
@@ -669,8 +670,8 @@
       "tone": "normal",
       "text": "偶然じゃない。「ラグが許容されるジャンル」を意図的に先行配置してる、って読むのが妥当よ。",
       "news_index": 3,
-      "start_sec": 362.01,
-      "end_sec": 367.89
+      "start_sec": 369.91,
+      "end_sec": 375.79
     },
     {
       "index": 66,
@@ -679,8 +680,8 @@
       "tone": "kangae",
       "text": "賢いのだ。じゃあ含意の話に移っていいのだ?",
       "news_index": 3,
-      "start_sec": 368.04,
-      "end_sec": 371.46
+      "start_sec": 375.94,
+      "end_sec": 379.36
     },
     {
       "index": 67,
@@ -689,8 +690,8 @@
       "tone": "kangae",
       "text": "ええ、ここからが本題ね。「我々一般ユーザーにどう影響するか」よ。",
       "news_index": 3,
-      "start_sec": 371.61,
-      "end_sec": 376.76
+      "start_sec": 379.51,
+      "end_sec": 384.66
     },
     {
       "index": 68,
@@ -699,8 +700,8 @@
       "tone": "gurugru",
       "text": "ボクとしては、PC 持ってない人が PC ゲーム遊べるようになるのは嬉しいのだ。",
       "news_index": 3,
-      "start_sec": 376.91,
-      "end_sec": 383.55
+      "start_sec": 384.81,
+      "end_sec": 391.46
     },
     {
       "index": 69,
@@ -709,8 +710,8 @@
       "tone": "normal",
       "text": "そこが第一の影響。家に PC が無い人、子育て中で PC 前の時間を取れない人、通勤中にちょっと遊びたい人。新しいゲーマー層への入り口になる。",
       "news_index": 3,
-      "start_sec": 383.7,
-      "end_sec": 394.01
+      "start_sec": 391.61,
+      "end_sec": 402.45
     },
     {
       "index": 70,
@@ -719,8 +720,8 @@
       "tone": "amaama",
       "text": "ボクの友達でスマホしか持ってない人いっぱいいるのだ!",
       "news_index": 3,
-      "start_sec": 394.16,
-      "end_sec": 397.92
+      "start_sec": 402.6,
+      "end_sec": 406.37
     },
     {
       "index": 71,
@@ -729,8 +730,8 @@
       "tone": "niyari",
       "text": "日本のスマホ保有割合は 8 割以上、モバイルゲームの課金額は年間 110 億ドル規模。市場としては十分でかい。",
       "news_index": 3,
-      "start_sec": 398.07,
-      "end_sec": 405.8
+      "start_sec": 406.52,
+      "end_sec": 414.24
     },
     {
       "index": 72,
@@ -739,8 +740,8 @@
       "tone": "shock",
       "text": "110 億ドル!? それいくらなのだ?",
       "news_index": 3,
-      "start_sec": 405.95,
-      "end_sec": 408.68
+      "start_sec": 414.39,
+      "end_sec": 417.12
     },
     {
       "index": 73,
@@ -749,8 +750,8 @@
       "tone": "kangae",
       "text": "日本円で 1 兆 6,000 億円ぐらいかな。日本のモバイルゲーム市場、世界トップクラスよ。",
       "news_index": 3,
-      "start_sec": 408.83,
-      "end_sec": 414.6
+      "start_sec": 417.27,
+      "end_sec": 423.04
     },
     {
       "index": 74,
@@ -759,8 +760,8 @@
       "tone": "amaama",
       "text": "ガチで巨大なのだ! クリエイター側にとってもいい話なのだ?",
       "news_index": 3,
-      "start_sec": 414.75,
-      "end_sec": 419.23
+      "start_sec": 423.19,
+      "end_sec": 427.67
     },
     {
       "index": 75,
@@ -769,8 +770,8 @@
       "tone": "normal",
       "text": "クリエイター側は素直に福音ね。スマホ移植の予算ゼロで、新しい販路が増える。しかも DLsite の既存基盤に乗っかれる。",
       "news_index": 3,
-      "start_sec": 419.38,
-      "end_sec": 427.42
+      "start_sec": 427.82,
+      "end_sec": 435.87
     },
     {
       "index": 76,
@@ -779,8 +780,8 @@
       "tone": "gurugru",
       "text": "ただ気になるのだ。サーバーで動かすコスト、誰が払うのだ?",
       "news_index": 3,
-      "start_sec": 427.57,
-      "end_sec": 432.99
+      "start_sec": 436.02,
+      "end_sec": 441.43
     },
     {
       "index": 77,
@@ -789,8 +790,8 @@
       "tone": "niyari",
       "text": "鋭い。そこが買い切り型の本当の課題。プレイされるたびにサーバー実行コストが発生するけど、ユーザーは 1 回しか払わない。",
       "news_index": 3,
-      "start_sec": 433.14,
-      "end_sec": 441.26
+      "start_sec": 441.58,
+      "end_sec": 449.7
     },
     {
       "index": 78,
@@ -799,8 +800,8 @@
       "tone": "shock",
       "text": "ええっ、それじゃ viviON が赤字になっちゃうのだ!?",
       "news_index": 3,
-      "start_sec": 441.41,
-      "end_sec": 444.76
+      "start_sec": 449.85,
+      "end_sec": 453.2
     },
     {
       "index": 79,
@@ -809,8 +810,8 @@
       "tone": "kangae",
       "text": "だから売上の分配率設計が重要になる。クリエイター何パーセント、プラットフォーム何パーセントっていう数字は未発表。今後の最大の注目点ね。",
       "news_index": 3,
-      "start_sec": 444.91,
-      "end_sec": 454.89
+      "start_sec": 453.35,
+      "end_sec": 463.33
     },
     {
       "index": 80,
@@ -819,8 +820,8 @@
       "tone": "amaama",
       "text": "めたん、消費者目線でいうと、買い切りって正直どうなのだ?",
       "news_index": 3,
-      "start_sec": 455.04,
-      "end_sec": 459.75
+      "start_sec": 463.48,
+      "end_sec": 468.2
     },
     {
       "index": 81,
@@ -829,8 +830,8 @@
       "tone": "niyari",
       "text": "サブスク疲れの今、買い切りはむしろ追い風よ。GeForce NOW も Xbox Cloud Gaming も会員制中心、Amazon Luna は個別購入をやめる方向に進んでる。",
       "news_index": 3,
-      "start_sec": 459.9,
-      "end_sec": 470.08
+      "start_sec": 468.35,
+      "end_sec": 478.49
     },
     {
       "index": 82,
@@ -839,8 +840,8 @@
       "tone": "kangae",
       "text": "あれ、世界の大手はサブスクなのに viviON GAMES は買い切り、ってめっちゃズレてるじゃん。",
       "news_index": 3,
-      "start_sec": 470.23,
-      "end_sec": 475.92
+      "start_sec": 478.64,
+      "end_sec": 484.33
     },
     {
       "index": 83,
@@ -849,8 +850,8 @@
       "tone": "kangae",
       "text": "ズレてる、というより、戦略的に違う土俵を選んでる。日本人のゲーム所有感覚と買い切り型の相性は良い、と踏んでるんでしょうね。",
       "news_index": 4,
-      "start_sec": 476.07,
-      "end_sec": 484.95
+      "start_sec": 484.48,
+      "end_sec": 493.36
     },
     {
       "index": 84,
@@ -859,8 +860,8 @@
       "tone": "gurugru",
       "text": "これからどうなるか、見どころは?",
       "news_index": 4,
-      "start_sec": 485.1,
-      "end_sec": 488.14
+      "start_sec": 493.51,
+      "end_sec": 496.55
     },
     {
       "index": 85,
@@ -869,8 +870,8 @@
       "tone": "normal",
       "text": "まず一番近い関門は、BitSummit PUNCH の先行試遊。来場者の生レビューが、実際の遅延と画質を可視化するわ。",
       "news_index": 4,
-      "start_sec": 488.29,
-      "end_sec": 495.99
+      "start_sec": 496.7,
+      "end_sec": 504.41
     },
     {
       "index": 86,
@@ -879,8 +880,8 @@
       "tone": "kangae",
       "text": "そこでコケたら厳しいのだ?",
       "news_index": 4,
-      "start_sec": 496.14,
-      "end_sec": 498.17
+      "start_sec": 504.56,
+      "end_sec": 506.58
     },
     {
       "index": 87,
@@ -889,8 +890,8 @@
       "tone": "niyari",
       "text": "そう、これは品質の最初の関門。次が、未発表ファクトの解禁ラッシュ。料金、対応地域、対応 OS、コントローラー、ローンチタイトル数。",
       "news_index": 4,
-      "start_sec": 498.32,
-      "end_sec": 508.1
+      "start_sec": 506.73,
+      "end_sec": 516.51
     },
     {
       "index": 88,
@@ -899,8 +900,8 @@
       "tone": "amaama",
       "text": "全部まだ謎なのだ!",
       "news_index": 4,
-      "start_sec": 508.25,
-      "end_sec": 509.93
+      "start_sec": 516.66,
+      "end_sec": 518.34
     },
     {
       "index": 89,
@@ -909,8 +910,8 @@
       "tone": "kangae",
       "text": "中長期では、クラウドゲーミングの普及はジャンルから順番に進むと予想されてるの。",
       "news_index": 4,
-      "start_sec": 510.08,
-      "end_sec": 515.33
+      "start_sec": 518.49,
+      "end_sec": 523.75
     },
     {
       "index": 90,
@@ -919,8 +920,8 @@
       "tone": "gurugru",
       "text": "順番?",
       "news_index": 4,
-      "start_sec": 515.48,
-      "end_sec": 516.53
+      "start_sec": 523.9,
+      "end_sec": 524.94
     },
     {
       "index": 91,
@@ -929,8 +930,8 @@
       "tone": "normal",
       "text": "まずノベルとアドベンチャー。次にターン制 RPG や戦略系。最後にようやくアクションが追いついてくる。viviON GAMES も同じ順で広がる可能性が高い。",
       "news_index": 4,
-      "start_sec": 516.68,
-      "end_sec": 526.43
+      "start_sec": 525.09,
+      "end_sec": 534.79
     },
     {
       "index": 92,
@@ -939,8 +940,8 @@
       "tone": "amaama",
       "text": "ノベル先行は確かに viviON GAMES の試遊リストとピッタリなのだ!",
       "news_index": 4,
-      "start_sec": 526.58,
-      "end_sec": 531.31
+      "start_sec": 534.94,
+      "end_sec": 539.67
     },
     {
       "index": 93,
@@ -949,8 +950,8 @@
       "tone": "niyari",
       "text": "結局、技術が成熟しつつ、消費者の期待値もジャンルごとに合うようになってくる、というのが現実的なシナリオね。",
       "news_index": 4,
-      "start_sec": 531.46,
-      "end_sec": 538.61
+      "start_sec": 539.82,
+      "end_sec": 546.97
     },
     {
       "index": 94,
@@ -959,8 +960,8 @@
       "tone": "kangae",
       "text": "めたん、リスナーのみんなに聞いてほしいのだ。スマホで PC ゲーム遊ぶの、ジャンルによっては全然アリなのだ。あなたが遊んでみたいタイトルは、何なのだ?",
       "news_index": 4,
-      "start_sec": 538.76,
-      "end_sec": 548.89
+      "start_sec": 547.12,
+      "end_sec": 557.22
     },
     {
       "index": 95,
@@ -969,8 +970,8 @@
       "tone": "normal",
       "text": "というわけで、今夜のテック深掘りは「viviON GAMES 着弾の夜」。DLsite の親会社が動いた、その戦略地図を見てきたわ。",
       "news_index": 0,
-      "start_sec": 549.04,
-      "end_sec": 557.25
+      "start_sec": 557.37,
+      "end_sec": 565.59
     },
     {
       "index": 96,
@@ -979,8 +980,8 @@
       "tone": "amaama",
       "text": "PC ゲームをスマホで、買い切りで、移植不要で。これからじっくり見届けたいのだ!",
       "news_index": 0,
-      "start_sec": 557.4,
-      "end_sec": 563.63
+      "start_sec": 565.74,
+      "end_sec": 571.96
     },
     {
       "index": 97,
@@ -989,8 +990,8 @@
       "tone": "niyari",
       "text": "BitSummit PUNCH の試遊レポと、続報がいつ出るかが次のチェックポイントね。",
       "news_index": 0,
-      "start_sec": 563.78,
-      "end_sec": 568.44
+      "start_sec": 572.11,
+      "end_sec": 576.8
     },
     {
       "index": 98,
@@ -999,8 +1000,8 @@
       "tone": "mic",
       "text": "ボクたちも追いかけるのだ! みんなも気になるタイトルが出てきたら、ぜひチェックしてほしいのだ!",
       "news_index": 0,
-      "start_sec": 568.59,
-      "end_sec": 574.08
+      "start_sec": 576.95,
+      "end_sec": 582.44
     },
     {
       "index": 99,
@@ -1009,8 +1010,8 @@
       "tone": "intro",
       "text": "今夜の旅の道ラジオ夜便、四国めたんと、",
       "news_index": 0,
-      "start_sec": 574.23,
-      "end_sec": 577.61
+      "start_sec": 582.59,
+      "end_sec": 585.97
     },
     {
       "index": 100,
@@ -1019,17 +1020,17 @@
       "tone": "mic",
       "text": "ずんだもんがお届けしました! おやすみなのだ!",
       "news_index": 0,
-      "start_sec": 577.76,
-      "end_sec": 580.69
+      "start_sec": 586.12,
+      "end_sec": 589.04
     },
     {
       "index": 9999,
       "type": "outro",
       "text": "🎵 ジングル + またね！",
-      "start_sec": 581.39,
-      "end_sec": 587.42
+      "start_sec": 589.74,
+      "end_sec": 597.45
     }
   ],
-  "wall_time_sec": 8.59,
-  "audio_url": "/audio/ai/20260518_210855.mp3?v=1779106997"
+  "wall_time_sec": 8.38,
+  "audio_url": "/audio/ai/20260518_210855.mp3?v=1779171241"
 }

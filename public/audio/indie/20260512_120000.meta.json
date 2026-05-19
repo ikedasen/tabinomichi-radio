@@ -1,16 +1,17 @@
 {
   "profile": "indie",
-  "generated_at": "2026-05-15T23:02:43.671252",
+  "generated_at": "2026-05-12T12:00:00+09:00",
   "title": "自分の過去を撃ち殺せ 〜時間ループ暗殺者シューター『Rewindead』を掘り下げる〜",
   "audio_path": "indie_latest.wav",
-  "duration_sec": 320.93,
+  "duration_sec": 321.81,
+  "script_hash": "sha256:72d366f7e3f6143e5c4e24776c13b39fd5544a14e887a1dd1693cc5e7b2989f2",
   "segments": [
     {
       "index": -1,
       "type": "intro",
       "text": "🎵 ジングル + 旅の道ラジオ！",
       "start_sec": 0.0,
-      "end_sec": 5.05
+      "end_sec": 6.34
     },
     {
       "index": 0,
@@ -19,8 +20,8 @@
       "tone": "kamera",
       "text": "旅の道ラジオ、今夜は深掘り回。取り上げます。『Rewindead』について語ってほしい、とのこと。",
       "news_index": null,
-      "start_sec": 5.05,
-      "end_sec": 11.43
+      "start_sec": 6.34,
+      "end_sec": 12.72
     },
     {
       "index": 1,
@@ -29,8 +30,8 @@
       "tone": "heart",
       "text": "おお！ リウィンデッド……タイトルからして何か漂ってるのだ！",
       "news_index": null,
-      "start_sec": 11.58,
-      "end_sec": 15.92
+      "start_sec": 12.87,
+      "end_sec": 17.21
     },
     {
       "index": 2,
@@ -39,8 +40,8 @@
       "tone": "niyari",
       "text": "Rewind＋Deadで「Rewindead」ね。時間を巻き戻す、そして死。このタイトルだけでゲームの核心が見えてるの、すごいなと思う。",
       "news_index": null,
-      "start_sec": 16.07,
-      "end_sec": 24.59
+      "start_sec": 17.36,
+      "end_sec": 25.88
     },
     {
       "index": 3,
@@ -49,8 +50,8 @@
       "tone": "kangae",
       "text": "確かに！ Rewindとdeadがくっついてる。何をするゲームなのだ？",
       "news_index": null,
-      "start_sec": 24.74,
-      "end_sec": 29.26
+      "start_sec": 26.03,
+      "end_sec": 30.55
     },
     {
       "index": 4,
@@ -59,8 +60,8 @@
       "tone": "normal",
       "text": "一言で言うと、時間ループ仕掛けの暗殺者を操るサードパーソンシューター。開発はSpellworkというインディースタジオで、デモが2026年5月14日に配信予定。",
       "news_index": null,
-      "start_sec": 29.41,
-      "end_sec": 40.09
+      "start_sec": 30.7,
+      "end_sec": 41.39
     },
     {
       "index": 5,
@@ -69,8 +70,8 @@
       "tone": "amaama",
       "text": "デモがもうすぐ出るのだ！ 暗殺者ゲーか、かっこいいのだ！",
       "news_index": null,
-      "start_sec": 40.24,
-      "end_sec": 44.54
+      "start_sec": 41.54,
+      "end_sec": 45.84
     },
     {
       "index": 6,
@@ -79,8 +80,8 @@
       "tone": "niyari",
       "text": "ここからが面白くて。ターゲットを仕留めると、時間が巻き戻って同じミッションの最初に戻る。でも戻ったあとに何が起きるかというと……",
       "news_index": null,
-      "start_sec": 44.69,
-      "end_sec": 52.79
+      "start_sec": 45.99,
+      "end_sec": 53.97
     },
     {
       "index": 7,
@@ -89,8 +90,8 @@
       "tone": "kangae",
       "text": "また最初からやり直し、じゃないのだ？",
       "news_index": null,
-      "start_sec": 52.94,
-      "end_sec": 55.72
+      "start_sec": 54.12,
+      "end_sec": 56.91
     },
     {
       "index": 8,
@@ -99,8 +100,8 @@
       "tone": "sexy",
       "text": "そこが違う。戻ったあと、今度は「さっきの自分」が残ってるの。まえのループで自分が動いた経路、撃った弾、すべての行動を繰り返しながら動く「過去の自分」が出現して、その自分もターゲットを狙いにいく。",
       "news_index": null,
-      "start_sec": 55.87,
-      "end_sec": 72.86
+      "start_sec": 57.06,
+      "end_sec": 74.05
     },
     {
       "index": 9,
@@ -109,8 +110,8 @@
       "tone": "shock",
       "text": "えっ！？ 自分が増えるのだ？",
       "news_index": null,
-      "start_sec": 73.01,
-      "end_sec": 75.14
+      "start_sec": 74.2,
+      "end_sec": 76.32
     },
     {
       "index": 10,
@@ -119,8 +120,8 @@
       "tone": "normal",
       "text": "そう。だから過去の自分にターゲットを先に取られるまえに、今の自分がどちらも仕留めないといけない。ループが重なるたびに「さっきの自分」がどんどん積み上がっていく。",
       "news_index": null,
-      "start_sec": 75.29,
-      "end_sec": 85.38
+      "start_sec": 76.47,
+      "end_sec": 86.43
     },
     {
       "index": 11,
@@ -129,8 +130,8 @@
       "tone": "niyari",
       "text": "つまり、敵が過去の自分……！ これ、自分のプレイングがそのまま難易度になってくるのだ",
       "news_index": null,
-      "start_sec": 85.53,
-      "end_sec": 91.8
+      "start_sec": 86.58,
+      "end_sec": 92.86
     },
     {
       "index": 12,
@@ -139,8 +140,8 @@
       "tone": "kangae",
       "text": "まさにそこ。最初のループで素早くターゲットを倒せるほど、次のループで「速く動く過去の自分」を相手にすることになる。慎重にじっくり動けば、将来のループは楽になる。でもリーダーボードのスコアは下がる。",
       "news_index": null,
-      "start_sec": 91.95,
-      "end_sec": 105.23
+      "start_sec": 93.01,
+      "end_sec": 106.29
     },
     {
       "index": 13,
@@ -149,8 +150,8 @@
       "tone": "amaama",
       "text": "速さとそのあとの難しさのトレードオフ……頭を使うのだ！ パズルっぽさがあるのだ",
       "news_index": null,
-      "start_sec": 105.38,
-      "end_sec": 111.52
+      "start_sec": 106.44,
+      "end_sec": 112.58
     },
     {
       "index": 14,
@@ -159,8 +160,8 @@
       "tone": "kangae",
       "text": "シューターとパズルが同時に動いてる、っていう感覚。ゲームデザインとして相当尖ってると思う。",
       "news_index": null,
-      "start_sec": 111.67,
-      "end_sec": 117.74
+      "start_sec": 112.73,
+      "end_sec": 118.8
     },
     {
       "index": 15,
@@ -169,8 +170,8 @@
       "tone": "kangae",
       "text": "このゲーム、どこから生まれたのだ？",
       "news_index": null,
-      "start_sec": 117.89,
-      "end_sec": 120.43
+      "start_sec": 118.95,
+      "end_sec": 121.37
     },
     {
       "index": 16,
@@ -179,8 +180,8 @@
       "tone": "kamera",
       "text": "これがまたいい話で。元々はGMTKゲームジャム2025というゲーム制作イベントへの出品作品なの。4日間、約100時間でゲームを作る、あの大会。",
       "news_index": null,
-      "start_sec": 120.58,
-      "end_sec": 131.16
+      "start_sec": 121.52,
+      "end_sec": 132.09
     },
     {
       "index": 17,
@@ -189,8 +190,8 @@
       "tone": "amaama",
       "text": "あの時間制限でゲームを作るやつだ！ そこから生まれたのだ？",
       "news_index": null,
-      "start_sec": 131.31,
-      "end_sec": 135.94
+      "start_sec": 132.24,
+      "end_sec": 136.87
     },
     {
       "index": 18,
@@ -199,8 +200,8 @@
       "tone": "normal",
       "text": "そのときのタイトルが『League Of The Ouroboros Assassins』。ウロボロスというのは、自分の尾を飲み込んでいる蛇の古代シンボルで、無限のサイクルを表してる。",
       "news_index": null,
-      "start_sec": 136.09,
-      "end_sec": 145.22
+      "start_sec": 137.02,
+      "end_sec": 146.15
     },
     {
       "index": 19,
@@ -209,8 +210,8 @@
       "tone": "miage",
       "text": "ウロボロス……自分で自分を食べる蛇。それを暗殺者の時間ループに重ねてるのだ",
       "news_index": null,
-      "start_sec": 145.37,
-      "end_sec": 151.15
+      "start_sec": 146.3,
+      "end_sec": 152.08
     },
     {
       "index": 20,
@@ -219,8 +220,8 @@
       "tone": "amaama",
       "text": "まさに。1回の暗殺が無限のループを生み出して、自分自身が自分を追い詰める存在になる。ゲームジャムのコンセプト設計の時点でそこまで考えられてたって、センスが光るな、と。",
       "news_index": null,
-      "start_sec": 151.3,
-      "end_sec": 163.29
+      "start_sec": 152.23,
+      "end_sec": 164.27
     },
     {
       "index": 21,
@@ -229,8 +230,8 @@
       "tone": "heart",
       "text": "それをゲームジャムで作ってたの、すごいのだ！ そこからフルゲームになったのだ",
       "news_index": null,
-      "start_sec": 163.44,
-      "end_sec": 168.75
+      "start_sec": 164.42,
+      "end_sec": 169.73
     },
     {
       "index": 22,
@@ -239,8 +240,8 @@
       "tone": "normal",
       "text": "ゲームジャム版が評判を呼んで、そこからSpellworkとして展開していく流れ。インディーゲームのよくある原石パターンではあるけど、元のコンセプトの強度があるとこうなる。",
       "news_index": null,
-      "start_sec": 168.9,
-      "end_sec": 178.93
+      "start_sec": 169.88,
+      "end_sec": 179.91
     },
     {
       "index": 23,
@@ -249,8 +250,8 @@
       "tone": "kangae",
       "text": "見た目はどんな感じなのだ？",
       "news_index": null,
-      "start_sec": 179.08,
-      "end_sec": 181.1
+      "start_sec": 180.06,
+      "end_sec": 182.08
     },
     {
       "index": 24,
@@ -259,8 +260,8 @@
       "tone": "sexy",
       "text": "レトロフューチャーなサイバーパンク。ネオンで光る路地裏、高層ビルが立ち並ぶメガシティ。ビジュアルの作り方が、渋くてかっこいい。",
       "news_index": null,
-      "start_sec": 181.25,
-      "end_sec": 191.15
+      "start_sec": 182.23,
+      "end_sec": 192.13
     },
     {
       "index": 25,
@@ -269,8 +270,8 @@
       "tone": "heart",
       "text": "サイバーパンクなのだ！ 暗殺者がネオンのなかを動く絵がもうかっこいいのだ",
       "news_index": null,
-      "start_sec": 191.3,
-      "end_sec": 196.52
+      "start_sec": 192.28,
+      "end_sec": 197.5
     },
     {
       "index": 26,
@@ -279,8 +280,8 @@
       "tone": "kangae",
       "text": "ミッションの舞台がワシントンD.C.やらシアトルやら、世界各地を巡る構成にもなってる。各都市の雰囲気がゲームのなかで出てくるのかどうか、デモで確認したいところ。",
       "news_index": null,
-      "start_sec": 196.67,
-      "end_sec": 206.89
+      "start_sec": 197.65,
+      "end_sec": 207.87
     },
     {
       "index": 27,
@@ -289,8 +290,8 @@
       "tone": "amaama",
       "text": "シアトルのステージがあるのだ！ どんな雰囲気の街になるのか気になるのだ",
       "news_index": null,
-      "start_sec": 207.04,
-      "end_sec": 212.27
+      "start_sec": 208.02,
+      "end_sec": 213.25
     },
     {
       "index": 28,
@@ -299,8 +300,8 @@
       "tone": "kangae",
       "text": "シアトルといえばグランジとかコーヒーカルチャーで知られる街よね。サイバーパンク的解釈でどう変質するのか、デモで確認したいところ。",
       "news_index": null,
-      "start_sec": 212.42,
-      "end_sec": 220.64
+      "start_sec": 213.4,
+      "end_sec": 221.62
     },
     {
       "index": 29,
@@ -309,8 +310,8 @@
       "tone": "amaama",
       "text": "それはプレイして確かめたいのだ！ デモはいつ出るのだ？",
       "news_index": null,
-      "start_sec": 220.79,
-      "end_sec": 224.67
+      "start_sec": 221.77,
+      "end_sec": 225.65
     },
     {
       "index": 30,
@@ -319,8 +320,8 @@
       "tone": "niyari",
       "text": "もうすぐ出るわよ。5月14日リリースだから、本当にもうすぐね。",
       "news_index": null,
-      "start_sec": 224.82,
-      "end_sec": 229.0
+      "start_sec": 225.8,
+      "end_sec": 230.09
     },
     {
       "index": 31,
@@ -329,8 +330,8 @@
       "tone": "shock",
       "text": "今週！！ めちゃくちゃ近いのだ！",
       "news_index": null,
-      "start_sec": 229.15,
-      "end_sec": 231.32
+      "start_sec": 230.24,
+      "end_sec": 232.42
     },
     {
       "index": 32,
@@ -339,8 +340,8 @@
       "tone": "normal",
       "text": "デモには9ミッション＋チャレンジモード3つが入ってるそうで、ループメカニクスの手触りをちゃんと試せる規模だと思う。",
       "news_index": null,
-      "start_sec": 231.47,
-      "end_sec": 238.24
+      "start_sec": 232.57,
+      "end_sec": 239.33
     },
     {
       "index": 33,
@@ -349,8 +350,8 @@
       "tone": "yubisashi",
       "text": "9ミッション！ デモにしてはかなり多いのだ",
       "news_index": null,
-      "start_sec": 238.39,
-      "end_sec": 241.16
+      "start_sec": 239.48,
+      "end_sec": 242.26
     },
     {
       "index": 34,
@@ -359,8 +360,8 @@
       "tone": "kangae",
       "text": "この手のメカニクスって、一番大事なのが「プレイヤーが仕組みを理解して、自分で考えて動けるようになる瞬間」だと思うから。その体験を届けるのに必要なボリュームを入れてきた感じがする。",
       "news_index": null,
-      "start_sec": 241.31,
-      "end_sec": 253.34
+      "start_sec": 242.41,
+      "end_sec": 254.55
     },
     {
       "index": 35,
@@ -369,8 +370,8 @@
       "tone": "nagomi",
       "text": "最初は戸惑っても、慣れると「あ、自分のループをちゃんとコントロールできた」ってなる瞬間が来るのだ",
       "news_index": null,
-      "start_sec": 253.49,
-      "end_sec": 260.45
+      "start_sec": 254.7,
+      "end_sec": 261.65
     },
     {
       "index": 36,
@@ -379,8 +380,8 @@
       "tone": "amaama",
       "text": "そこが気持ちいいゲームなんだと思う。スコア狙いで突き詰めるプレイヤーも、パズル的に解く楽しさを味わいたい人も、同じゲームで遊べるデザイン。",
       "news_index": null,
-      "start_sec": 260.6,
-      "end_sec": 269.72
+      "start_sec": 261.8,
+      "end_sec": 270.92
     },
     {
       "index": 37,
@@ -389,8 +390,8 @@
       "tone": "niyari",
       "text": "時間を巻き戻す系のゲームって他にもあるけど、自分自身を敵として戦うって発想は独自性があるのだ",
       "news_index": null,
-      "start_sec": 269.87,
-      "end_sec": 277.79
+      "start_sec": 271.07,
+      "end_sec": 279.0
     },
     {
       "index": 38,
@@ -399,8 +400,8 @@
       "tone": "normal",
       "text": "「過去の自分が敵」というコンセプト自体は、このジャンルでたまに見るけど、シューターとして徹底してここまで組み立てたのは相当な密度。ゲームジャム発のシンプルなアイデアが、こう膨らむんだなと思う。",
       "news_index": null,
-      "start_sec": 277.94,
-      "end_sec": 289.61
+      "start_sec": 279.15,
+      "end_sec": 290.79
     },
     {
       "index": 39,
@@ -409,8 +410,8 @@
       "tone": "kamera",
       "text": "聴いてくれてる皆、いいゲーム持ってきてくれたのだ。ボクも気になってきたのだ",
       "news_index": null,
-      "start_sec": 289.76,
-      "end_sec": 294.5
+      "start_sec": 290.94,
+      "end_sec": 295.76
     },
     {
       "index": 40,
@@ -419,8 +420,8 @@
       "tone": "niyari",
       "text": "Steam でウィッシュリストしておいて、デモを遊んでみるのがいちばんの入口だと思う。ゲームジャムから育ったこのアイデアがどこまで広がるか、見ていきたいタイトル。",
       "news_index": null,
-      "start_sec": 294.65,
-      "end_sec": 303.64
+      "start_sec": 295.91,
+      "end_sec": 304.91
     },
     {
       "index": 41,
@@ -429,8 +430,8 @@
       "tone": "mic",
       "text": "明後日5月14日にデモ遊んでみるのだ！ 今夜も聴いてくれてありがとうなのだ！",
       "news_index": null,
-      "start_sec": 303.79,
-      "end_sec": 308.87
+      "start_sec": 305.06,
+      "end_sec": 310.13
     },
     {
       "index": 42,
@@ -439,17 +440,17 @@
       "tone": "kamera",
       "text": "今夜の旅の道ラジオ、ここまで。また来週。",
       "news_index": null,
-      "start_sec": 309.02,
-      "end_sec": 312.14
+      "start_sec": 310.28,
+      "end_sec": 313.41
     },
     {
       "index": 9999,
       "type": "outro",
       "text": "🎵 ジングル + またね！",
-      "start_sec": 312.84,
-      "end_sec": 320.93
+      "start_sec": 314.11,
+      "end_sec": 321.81
     }
   ],
-  "wall_time_sec": 6.54,
-  "audio_url": "/audio/indie/20260512_120000.mp3?v=1778853966"
+  "wall_time_sec": 4.25,
+  "audio_url": "/audio/indie/20260512_120000.mp3?v=1779171264"
 }
