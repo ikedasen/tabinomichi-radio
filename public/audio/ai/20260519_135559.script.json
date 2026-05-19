@@ -1,0 +1,647 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-05-19T04:55:59.728276+00:00",
+  "title": "コンポーザー 2.5 を読み解く夜 〜速さじゃない、厳しさが主役だった〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "intro",
+      "text": "こんばんは、旅の道ラジオ夜便、テック深掘り回よ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今夜も付き合うのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今夜のテーマは、ちょっと地味だけど効くやつ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "地味だけど効く、って漢方みたいなのだ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いい例えね。今夜の主役はコンポーザー 2.5 系、PHP の依存管理ツール。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "コンポーザー!? 音楽の作曲家のやつなのだ!?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "違う、エンジニアが毎日触ってる、ライブラリ部品を集める道具のほう。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "なんで今、わざわざ昔のバージョンを深掘りするのだ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "コンポーザーが今、PHP 開発の血流みたいな存在だから。背景から押さえないと、2.5 の意味が見えてこないのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "順番に教えてほしいのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "まず PHP って言語、Web の裏側で世界中の Web サイトを動かしてる、超メジャーな言語ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ワードプレスとか、Web のあれこれの裏で動いてるやつなのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "正解。で、そのプロジェクトに必要な部品を、ネットの倉庫から取ってきてくれる自販機が、コンポーザーね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "自販機わかりやすいのだ! ボタン押したらガコッと出てくるのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "もうちょっと賢い。「これとこれ入れて」って書くと、その部品が必要な別の部品まで芋づる式に揃えてくれる。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "芋づる、ってその連鎖を全部計算してくれるのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。で、部品の倉庫がパッケージスト、っていう公式の場所。年間で数十億回ダウンロードされてる。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "数十億回!? 全人類が毎日 1 回呼んでも届かないのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ほぼ世界中の PHP プロジェクトが使ってる、って思っていい規模ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "倉庫には今、約 40 万パッケージ、450 万バージョンが並んでる。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "40 万!? 図書館どころじゃないのだ、倉庫が街なのだ!",
+      "news_index": 1,
+      "reading": "40まん!?としょかんどころじゃないのだ、そうこがまちなのだ!"
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "その街を捌くために、コンポーザー本体もずっと進化してきた。今夜の 2.5 は、2022 年 12 月 20 日のリリースよ。",
+      "news_index": 1,
+      "reading": "そのまちをさばくために、コンポーザーほんたいもずっとしんかしてきた。こんやの2.5は、2022ねん12つき20にじゅうにちのリリースよ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "約 3 年半前のバージョンを、今ほじくるのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。なぜなら 2.5 は「中期安定化リリース」って呼びたくなる、いいポジションにいるから。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "中期安定化、ってなんなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "大きな性能革命は前の 2.0 で起きてた。2020 年に、コンポーザーが空キャッシュ条件でだいたい 60 パーセント時間削減、っていう大ジャンプ。",
+      "news_index": 1,
+      "reading": "おおきなせいのうかくめいはまえの2.0でおきてた。2020ねんに、コンポーザーがからキャッシュ条件でだいたい60じかんさくげん、っていうだいジャンプ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "半分以下になったのだ!? それは盛大なジャンプなのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "で、その速さを引き継いだ上で、別のところを磨きにいったのが 2.5。速さが主役じゃない、別の主役がいる回ってこと。",
+      "news_index": 1,
+      "reading": "で、その速さを引き継いだうえで、べつのところをみがきにいったのが2.5。はやさがしゅやくじゃない、べつのしゅやくがいるかいってこと。"
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ技術詳細、2.5 が具体的に何をやったかね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "待ってましたなのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一番現場に刺さったのが、ロックファイルと設定ファイルがズレてたら install を止める、って厳格化。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ロックファイル? 設定ファイル? それぞれ何なのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "設定ファイルが「欲しい部品リスト」で、ロックファイルが「実際に入れた結果メモ」。両者がズレてたら、もう動かさない仕様にしたの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "急に厳しいのだ! 前は許されてたのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "許されてた、曖昧でも修復しながら進めてたの。2.5 からはハード・フェイル、強制エラー。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "学校の先生が、宿題チェック急に厳しくなった感じなのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "その例えそのもの。本番と検証で違う部品が入る事故を防ぐから、長い目では正しい方向。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも、慣れてる自動化ツール側は混乱するのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "した。リノベートっていう依存自動更新ボットが、この仕様で壊れたって issue 立つ騒ぎになった。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "機械同士で揉めてるのだ…。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "二つ目、コンポーザー・リクワイアっていう「部品追加」コマンドが賢くなった。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "どう賢くなったのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "前は「とりあえず最新タグ」だったのが、「あなたの環境で実際に入る一番いいやつ」を選ぶ仕様に変わった。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "こっちの方が親切なのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "でも副作用もあって、開発途中のブランチを選んでララベル系で CI 乱れる事案が出た。2.5.2 で警告出すよう修正された。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ポイント・リリースで速攻直してる、開発チーム真面目なのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三つ目、拡張性。シンフォニー・コンソール・コマンドっていう書式で、自前コマンドをコンポーザーに組み込めるようになった。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "シンフォニー? オーケストラ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "違う、PHP の超有名フレームワーク、シンフォニー。そこの書式が業界標準だから、それに乗っかれるようにしたってこと。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "業界標準に揃えると、覚え直しが要らないのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四つ目、インストール・ダウンロード・オンリーっていう「部品だけ先取りしてキャッシュ温める」モード。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "キャッシュ、って?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "一時保管庫ね。CI で毎回ネットから取らずに、先に温めとけば本番 install で爆速、っていう設計ができる。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "段取り上手なエンジニアの味方なのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "あとは認証情報の環境変数も「壊れた JSON なら即エラー」、プラグインも要らないやつは CI で自動 disable、って細かい厳格化が続く。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "全部「曖昧だと止める、要らないやつは退けとく」って方向性なのだ。",
+      "news_index": 2,
+      "reading": "ぜんぶ「あいまいだととめる、要らないやつはのけとく」ってほうこうせいなのだ。"
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう。2.5 のキーワードは、厳格・拡張・CI 配慮・対話 UX で、速度の話じゃない。",
+      "news_index": 2,
+      "reading": "そう。2.5のキーワードは、げんかく・かくちょう・CIはいりょ・たいわUXで、そくどのはなしじゃない。"
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあここからメインディッシュ、我々一般人にどう影響するか、よ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "来たのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "まず PHP 触ってる人、Web 開発者やララベル使いから言うと、2.5 以降は「ロックファイルをチーム全員で共有」がほぼ必須ルールになった。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "共有してないと、どうなるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "「リストとロックが合ってない」って 2.5 が怒って止まる場面が増える。チームでバラバラの結果持っちゃダメ、ってこと。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "全員、同じレシピで料理しろってことなのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いい比喩ね。それまで「料理人ごとに微妙にレシピ違う」が許されてた厨房に、「写しを揃えろ」が来た感じ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二つ目、CI 運用してる人。これは恩恵側ね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "CI ってまた何?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "コードを git に push したら、自動でテストやビルドが走る仕組み。ダウンロード・オンリーやプラグイン・オプショナルで、CI の段取りが組みやすくなった。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "自動化マニアにはご褒美なのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "三つ目、リノベートやデペンダボットみたいな自動更新ボット使ってる人。ここは要注意。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "また悲しい話なのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "2.5 の strict 仕様に古い設定が引っ掛かって、ボットが出す PR が一時的にコケる事象が出てた。ボット側の対応待ち、っていう時期があった。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "機械が機械の都合に対応する、不思議な時代なのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四つ目、これがリスナーの普段に一番響くかも。あなたが使ってる Web サービスが PHP 製なら、その裏で動いてるデプロイの厳しさが一段上がった、って話。",
+      "news_index": 3,
+      "reading": "よっつめ、これがリスナーのふだんにいちばんひびくかも。あなたがつかってるWebサービスがPHPせいなら、そのうらでうごいてるデプロイのきびしさがいちだんあがった、ってはなし。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "えっ、ボクのスマホアプリにも関係あるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "直接じゃないけど、PHP 製の Web サービスの安定度が一段上がる。エンジニアが「本番と検証でズレた部品」って事故を起こす確率が下がるの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "静かに恩恵うけてるのだ、ボクら。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "最後、開発体制。コンポーザーって、中心メンテナーは事実上 2 人で支えてる構造なの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "たった 2 人なのだ!? 世界中の PHP の土台を!?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "正確には多数の貢献者がいるけど、コアの責任者は 2 人。資金面はプライベート・パッケージストっていう商用サブスクと、ギットハブ・スポンサーズで回してる。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "世界規模の基盤が、サブスクとカンパで回ってる、ってちょっと信じられないのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "OSS の典型的な姿ね。だから 2.5 みたいな地味リリースを支えてるのは、巨大企業じゃなく、商用 SaaS の利益とコミュニティの寄付ってことになる。",
+      "news_index": 3,
+      "reading": "OSSのてんけいてきなすがたね。だから2.5みたいなじみリリースをささえてるのは、きょだいきぎょうじゃなく、しょうようサースのりえきとコミュニティのきふってことになる。"
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ最後、これからどうなるか。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "未来の話、ボク好きなのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "まず、2.5 系自体は 2023 年 6 月の 2.5.8 で止まってる。今、2026 年 5 月時点で最新は 2.9.8。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "その間に 0.4 進んだのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そう。で、2.7 系以降では CVE っていう公表されたセキュリティ脆弱性の修正が継続して入ってる。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "つまり、今 2.5 のまま使い続けてる人は…?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "推奨されない。今から新規で 2.5 を入れる理由は、レガシー互換や歴史的再現のためだけで、普通は最新の 2.x へ上げるべき。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "2.5 はもう「歴史の本」にいるのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう、でもその本は読む価値ある。2.5 が選んだ「厳しさ・拡張性・CI 配慮」の方向性は、その後の 2.7、2.8、2.9 までまっすぐ繋がってる流れだから。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "起源を知ると、今が分かるのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "もう一つ watch ポイント、PHP 自体のバージョン要件問題ね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "何が問題なのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "コンポーザー本体は PHP 7.2.5 以上が必要。古い PHP のアプリを抱えてる現場は、別建ての 2.2 LTS で耐えるか、PHP 自体を上げるか、の二択を迫られてる。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "古いものを抱えてる人ほど、選択肢が辛くなるパターンなのだ。",
+      "news_index": 4,
+      "reading": "ふるいものをかかえてるひとほど、選択肢がつらくなるパターンなのだ。"
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。これはコンポーザーに限らず、IT 全般のレガシー問題の縮図ね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで、今夜のテック深掘りは「コンポーザー 2.5 を読み解く夜」。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "速さの主役じゃなかった、厳しさの主役だった、ってのが結論なのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう。技術界の主役って、派手なリリースだけじゃない、って話ね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "地味な整え役にも、ちゃんと役割があるのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "PHP 触ってる人もそうでない人も、自分が毎日使ってる Web サービスの裏で、こういう人たちが整えてくれてる、って知っとくと味わい深い夜になるわ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "明日からの世界の見え方、ちょっと変わるのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "次の big news があれば、また夜便で深掘りするわ。おやすみなさい。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "明日もテック追いかけるのだ! おやすみなさいなのだー!",
+      "news_index": 5
+    }
+  ],
+  "program_description": "コンポーザー 2.5 を読み解く夜。PHP の依存管理ツール、コンポーザーの 2.5 系を取り上げる回。背景では年間数十億回ダウンロードと約 40 万パッケージを支える基盤としての立ち位置、そして大きな性能ジャンプは 2.0 で起きていたという事実を整理。技術詳細ではロックファイルと設定ファイルの不整合を許さない厳格化、リクワイアのバージョン推定改善、シンフォニー流カスタムコマンド対応、ダウンロード・オンリーモード、認証情報まわりのハードフェイル化など 2.5 の中身を噛み砕く。含意では PHP 開発者・シーアイ運用・自動更新ボット利用者それぞれの影響、そして我々一般人が Web サービスの裏で受けてる恩恵まで広げる。展望では 2026 年 5 月時点の最新は 2.9.8、CVE 対応は 2.7 以降に集中、レガシー保守の難所も整理する。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20260519_135559_chars.webp",
+    "hero_rel": "/images/topics/tech_20260519_135559.webp",
+    "title": "コンポーザー 2.5 を読み解く夜 〜速さじゃない、厳しさが主役だった〜"
+  },
+  "summary_short": "速さへのジャンプは 2.0 で済んでいた——Composer 2.5 の主役は「厳しさ」だ。ロックファイル不整合のブロック、認証ハードフェイル、バージョン推定改善。40 万パッケージを支える基盤の締め付けを、PHP 開発者目線で解剖する。"
+}
