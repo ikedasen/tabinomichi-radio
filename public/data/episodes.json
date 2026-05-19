@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-05-19T22:06:52.088724",
+  "generated_at": "2026-05-19T22:09:46.099933",
   "episodes": [
     {
       "episode_id": "20260519_214857",
       "profile": "ai",
       "title": "インクベーター着弾の夜 〜静かに動くAIアニメ工房と、議論の土俵移動〜",
       "generated_at": "2026-05-19T21:48:57+09:00",
-      "duration_sec": 745.48,
-      "audio_url": "/audio/ai/20260519_214857.mp3?v=1779196011",
+      "duration_sec": 744.69,
+      "audio_url": "/audio/ai/20260519_214857.mp3?v=1779196182",
       "meta_url": "/audio/ai/20260519_214857.meta.json",
       "script_url": "/audio/ai/20260519_214857.script.json",
-      "audio_size_mb": 11.38,
+      "audio_size_mb": 11.36,
       "featured_game": {
         "image_rel": "/images/topics/tech_20260519_214857_chars.webp?v=1779195783",
         "hero_rel": "/images/topics/tech_20260519_214857.webp?v=1779195783",
@@ -284,6 +284,50 @@
       },
       "program_description": "DLsite の親会社・viviON が 2026 年内開始予定で発表した「viviON GAMES」を深掘り。スマホのブラウザで PC ゲームを買い切り型で遊ばせる、というクラウドゲーミングの新サービス。技術中核は 2025 年 8 月にエイシスが取得した OOParts Engine、BitSummit PUNCH で先行試遊。背景にゲオホールディングス連結 4,812 億円の体力、Google Stadia 撤退の教訓、入力遅延 30 から 80 ミリ秒というクラウド構造的壁、ノベル・アドベンチャーから普及するという業界の常識まで、4 章立てで深く語った。リスナーへの問いかけで締め。",
       "summary_short": "スマホのブラウザだけで PC ゲームが遊べる時代は来るか。viviON GAMES が描く青写真を、OOParts Engine の技術力から Google Stadia の失敗、入力遅延の壁まで4章で徹底解剖する。"
+    },
+    {
+      "episode_id": "20260518_190409",
+      "profile": "indie",
+      "title": "松明が燃え尽きるまでに 〜シャドウゲイト、死にゲーの祖と朝便〜",
+      "generated_at": "2026-05-18T19:04:09+09:00",
+      "duration_sec": 363.03,
+      "audio_url": "/audio/indie/20260518_190409.mp3?v=1779196185",
+      "meta_url": "/audio/indie/20260518_190409.meta.json",
+      "script_url": "/audio/indie/20260518_190409.script.json",
+      "audio_size_mb": 5.54,
+      "featured_game": {
+        "app_id": null,
+        "igdb_id": 8697,
+        "title": "シャドウゲイト",
+        "image_rel": "/images/topics/indie_20260518_190409_chars.webp?v=1779181558",
+        "hero_rel": "/images/games/igdb_8697.jpg?v=1779089082",
+        "screenshot_rels": [
+          "/images/games/igdb_8697_ss1.jpg?v=1779089082",
+          "/images/games/igdb_8697_ss2.jpg?v=1779089083",
+          "/images/games/igdb_8697_ss3.jpg?v=1779089083"
+        ],
+        "developers": [
+          "ICOM Simulations"
+        ],
+        "publishers": [
+          "Mindscape",
+          "Kotobuki Systems",
+          "Kemco"
+        ],
+        "genres": [
+          "レトロ",
+          "Point-and-click",
+          "Puzzle",
+          "Adventure",
+          "Indie"
+        ],
+        "release_date": "1987-07-30",
+        "short_description": "Thrust into the role of \"The Seed of Prophecy,\" players travel deep into the living castle, in hopes of defeating the evil that dwells within – the dreaded Warlock Lord.",
+        "alttitle": "Shadowgate",
+        "price": "6,200円(ファミコン版・税抜)"
+      },
+      "program_description": "旅の道ラジオ朝便、今朝は1987年のレトロアドベンチャー『シャドウゲイト』を掘り下げる回っす。アメリカのアイコム・シミュレーションズが作って、日本ではケムコが89年3月にファミコン移植した、死にゲーの祖と呼ばれる名作。松明が消えたら即死、扉を開けたら槍が飛んでくる、毒も落とし穴も罠だらけ、60種類超の死に様が用意された魔王ワーロックの城を、預言の子として攻略していくという、現代の優しいゲームに慣れた人には信じられない理不尽ぶり。BGMを担当した増野宏之さんの仕事ぶりや、マックベンチャーシリーズの系譜、当時のプレイヤーが攻略情報もないまま手探りで死にまくっていた話まで、つむぎがガチ勢の熱量で語り、ずんだもんが「預言の子なのに扉開けるだけで死ぬのだ?!」と素朴にツッコむ朝便っす。",
+      "summary_short": ""
     },
     {
       "episode_id": "20260518_175716",
