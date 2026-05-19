@@ -1,0 +1,786 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-05-19T05:18:42+09:00",
+  "title": "南海の孤島で目覚める朝 〜デザイア、ふたつの視点が交わる時〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 364.72,
+  "script_hash": "sha256:9bd684c68d6e0ed5c49abbce2ae5343d27292ffb8493bb1ea42c8ef9fd7717bb",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 6.34
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "おはようございます、旅の道ラジオ朝便、ずんだもんなのだー！",
+      "news_index": 0,
+      "start_sec": 6.34,
+      "end_sec": 10.51
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "intro",
+      "text": "またまた、あーしが担当するっすよー！ オタクくん、目覚めてるっすかー？",
+      "news_index": 0,
+      "start_sec": 10.66,
+      "end_sec": 15.09
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "今日のテーマは『でかい大豆の螺旋』なのだ？",
+      "news_index": 0,
+      "start_sec": 15.24,
+      "end_sec": 18.79
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "違うっす、デザイアっす。先輩、出だしから枝豆に寄せるのやめてほしいっす。",
+      "news_index": 0,
+      "start_sec": 18.94,
+      "end_sec": 24.07
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "正解は『デザイア・背徳の螺旋』、1994年シーズウェアのSFアドベンチャーっす！",
+      "news_index": 1,
+      "start_sec": 24.15,
+      "end_sec": 30.31
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "通勤通学のオタクくん、今朝のお供はガチのレトロ名作なのだー！",
+      "news_index": 1,
+      "start_sec": 30.46,
+      "end_sec": 34.93
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "舞台は南海の孤島にある巨大研究所、その名も「デザイア」っす。",
+      "news_index": 1,
+      "start_sec": 35.08,
+      "end_sec": 39.77
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "デザイアって、ボクが大好きなずんだ餅を求める気持ちのことなのだ？",
+      "news_index": 1,
+      "start_sec": 39.92,
+      "end_sec": 44.92
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "ガチ違うっす、デザイアは英語で「欲望」っす。",
+      "news_index": 1,
+      "start_sec": 45.07,
+      "end_sec": 48.75
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあボクの欲望、ずんだ餅で合ってるのだ？",
+      "news_index": 1,
+      "start_sec": 48.9,
+      "end_sec": 51.95
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "対象が餅に固定されてるのは別の病気っす。要するにタイトル直訳で「欲望が螺旋状に絡みあう物語」っすね。",
+      "news_index": 1,
+      "start_sec": 52.1,
+      "end_sec": 59.9
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "主人公は新聞記者のアルバート・マクドガル、デザイア研究所の取材権を得た数少ない記者っす。",
+      "news_index": 1,
+      "start_sec": 59.98,
+      "end_sec": 66.18
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "南海の孤島に取材って、絶対帰りの船なくなるやつなのだ。",
+      "news_index": 1,
+      "start_sec": 66.33,
+      "end_sec": 71.82
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そこっす！ 帰れない箱に閉じ込められる感覚がデザイアの肝っすよ！",
+      "news_index": 1,
+      "start_sec": 71.97,
+      "end_sec": 76.16
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "つまり「孤島ホラーの祖先」枠ってことなのだ？",
+      "news_index": 1,
+      "start_sec": 76.31,
+      "end_sec": 79.69
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "yubisashi",
+      "text": "そういうことっす。閉鎖空間サスペンスのご先祖さまっす。",
+      "news_index": 1,
+      "start_sec": 79.84,
+      "end_sec": 83.46
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "誰が作ったゲームなのだ？",
+      "news_index": 1,
+      "start_sec": 83.61,
+      "end_sec": 85.55
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "yubisashi",
+      "text": "シナリオは剣乃ゆきひろ名義のかた、アドベンチャー史の伝説脚本家っす！",
+      "news_index": 1,
+      "start_sec": 85.7,
+      "end_sec": 90.05
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "剣乃ゆきひろ……剣の達人みたいな響きなのだ。",
+      "news_index": 1,
+      "start_sec": 90.2,
+      "end_sec": 93.51
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "剣士じゃないっす、ペンの達人っす。後に菅野ひろゆき名義で活躍するかたっすよ。",
+      "news_index": 1,
+      "start_sec": 93.66,
+      "end_sec": 99.01
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "デザイア、イヴ・バーストエラー、ユーノの三部作を書いた人っす！",
+      "news_index": 1,
+      "start_sec": 99.09,
+      "end_sec": 103.46
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "三部作なのだ……完全に伝説のかたなのだー。",
+      "news_index": 1,
+      "start_sec": 103.61,
+      "end_sec": 106.89
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kangae",
+      "text": "しかも2011年に43歳で亡くなってるっすよ。もう新作は出ないっす。",
+      "news_index": 1,
+      "start_sec": 107.04,
+      "end_sec": 112.08
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "うえーん、早すぎなのだー。",
+      "news_index": 1,
+      "start_sec": 112.23,
+      "end_sec": 115.26
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "だからこそ残された三部作を遊んでほしいっす。要するにデザイアは「遺された一作目」っす。",
+      "news_index": 1,
+      "start_sec": 115.41,
+      "end_sec": 121.5
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "音楽は梅本竜さん、「FM音源の魔術師」って呼ばれた伝説のかたっす！",
+      "news_index": 1,
+      "start_sec": 121.58,
+      "end_sec": 126.62
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "FM音源って、ラジオ放送のことなのだ？",
+      "news_index": 1,
+      "start_sec": 126.77,
+      "end_sec": 130.91
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "ラジオじゃないっす、シンセサイザーの方式っす。先輩、局名出さないでほしいっす。",
+      "news_index": 1,
+      "start_sec": 131.06,
+      "end_sec": 136.48
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ピロロロローって電子音が鳴る古い音源で、当時のパソコンゲーマーの耳に焼き付いてるやつっす。",
+      "news_index": 1,
+      "start_sec": 136.56,
+      "end_sec": 142.02
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ピロロロロー、ボク響きで好きになったのだ！",
+      "news_index": 1,
+      "start_sec": 142.17,
+      "end_sec": 145.35
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "要するに、平成初期のパソコン少年の魂を直撃した音色っす。",
+      "news_index": 1,
+      "start_sec": 145.5,
+      "end_sec": 149.94
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ゲームの中身はどんなシステムなのだ？",
+      "news_index": 1,
+      "start_sec": 150.09,
+      "end_sec": 152.59
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "yubisashi",
+      "text": "「マルチサイトシステム」っす！ これがデザイア最大の発明っすよ！",
+      "news_index": 1,
+      "start_sec": 152.74,
+      "end_sec": 156.85
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "マルチサイトって、複数のホームページを同時に運営するやつなのだ？",
+      "news_index": 1,
+      "start_sec": 157.0,
+      "end_sec": 162.07
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "ウェブ管理の話じゃないっす。サイトは視点って意味の方っす。",
+      "news_index": 1,
+      "start_sec": 162.22,
+      "end_sec": 165.81
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "主人公がふたりいて、片方の視点と片方の視点を交互に進めて謎を解くシステムっす。",
+      "news_index": 1,
+      "start_sec": 165.89,
+      "end_sec": 171.33
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "つまり、ふたりぶんの日記を並べて答え合わせするゲームってこと？",
+      "news_index": 1,
+      "start_sec": 171.48,
+      "end_sec": 175.75
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "比喩がガチでうまいっす！ そう、交換日記の謎解き版っすよ！",
+      "news_index": 1,
+      "start_sec": 175.9,
+      "end_sec": 179.92
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに、ふたつの視点が補完しあって初めて全貌が見える構造っす。",
+      "news_index": 1,
+      "start_sec": 180.0,
+      "end_sec": 184.44
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "もうひとりの主人公マコトってどんな人なのだ？",
+      "news_index": 1,
+      "start_sec": 184.59,
+      "end_sec": 187.65
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "デザイア研究所で働いてる女性で、しかもアルバートの恋人っす。",
+      "news_index": 1,
+      "start_sec": 187.8,
+      "end_sec": 191.96
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "彼氏の職場潜入取材なのだ？ もはや浮気調査の構図なのだ。",
+      "news_index": 1,
+      "start_sec": 192.11,
+      "end_sec": 196.92
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "浮気調査じゃないっす、彼女側が中の人っす。話の方向、先輩がワイドショーに引っ張ってるっす。",
+      "news_index": 1,
+      "start_sec": 197.07,
+      "end_sec": 203.55
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "要するに「恋人同士が同じ事件を別角度で目撃する」エモシチュっす。そして研究所では不気味な事件が連続するんすよ。",
+      "news_index": 1,
+      "start_sec": 203.63,
+      "end_sec": 211.48
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "うわー、ちょっと聞いただけで先が気になってヤバいのだ。",
+      "news_index": 1,
+      "start_sec": 211.63,
+      "end_sec": 216.2
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kangae",
+      "text": "南海の孤島、軍事研究の噂、四日間の不可思議。世界から切り離された箱の中で、人がゆっくり壊れていくっす。",
+      "news_index": 1,
+      "start_sec": 216.35,
+      "end_sec": 224.53
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "つむぎ、急に詩人モード入ったのだ！？",
+      "news_index": 1,
+      "start_sec": 224.68,
+      "end_sec": 227.54
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "ごめんっす、デザイアの話するとあーしのスイッチ勝手に入っちゃうんすよ。",
+      "news_index": 1,
+      "start_sec": 227.69,
+      "end_sec": 232.08
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "ガチオタクなのだ、愛が深いのだー。",
+      "news_index": 1,
+      "start_sec": 232.23,
+      "end_sec": 234.69
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "で、なんでこれが名作って言われてるか、っすけど——",
+      "news_index": 1,
+      "start_sec": 234.84,
+      "end_sec": 238.07
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ふたつの視点を行き来して真相を組み立てるゲームデザインが、当時マジで革命的だったっす。",
+      "news_index": 1,
+      "start_sec": 238.15,
+      "end_sec": 243.33
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "じゃあ後のサウンドノベルとかマルチエンディング系の親戚みたいなやつ？",
+      "news_index": 1,
+      "start_sec": 243.48,
+      "end_sec": 247.86
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "親戚どころか直系の祖父っす！ ここからイヴ、ユーノ、街、エバーセブンティーンの系譜が広がってくんすよ！",
+      "news_index": 1,
+      "start_sec": 248.01,
+      "end_sec": 254.95
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "じゃあデザイアは「種」みたいな存在なのだ！",
+      "news_index": 1,
+      "start_sec": 255.1,
+      "end_sec": 258.1
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "要するに、群像劇アドベンチャーの原点が1994年に立ってるってことっす。",
+      "news_index": 1,
+      "start_sec": 258.25,
+      "end_sec": 263.59
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ストーリーの中身は詳しく言わないっす、ネタバレ厳禁ゲーっすからね。",
+      "news_index": 1,
+      "start_sec": 263.67,
+      "end_sec": 267.77
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kangae",
+      "text": "孤島で四日間、ひとつひとつ違和感が積み上がって、最後に全部繋がる構造っす。",
+      "news_index": 1,
+      "start_sec": 267.85,
+      "end_sec": 273.35
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "それ聞いただけでゾクっとするのだー！",
+      "news_index": 1,
+      "start_sec": 273.5,
+      "end_sec": 276.02
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "クリアした時の鳥肌、絶対忘れないっすよ。要するに、人生で一回は通っておくべき名作っす。",
+      "news_index": 1,
+      "start_sec": 276.17,
+      "end_sec": 282.9
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "今からデザイアやりたい人はどうすればいいのだ？",
+      "news_index": 1,
+      "start_sec": 283.05,
+      "end_sec": 286.18
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "yubisashi",
+      "text": "2017年にエルディアってメーカーがリマスター版出してるっす！ ウィンドウズとプレイステーションヴィータで遊べるっす！",
+      "news_index": 1,
+      "start_sec": 286.33,
+      "end_sec": 292.69
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "プレイステーションヴィータ、ボクが妖精として目覚める前のマシンなのだー。",
+      "news_index": 1,
+      "start_sec": 292.84,
+      "end_sec": 297.76
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "妖精史いらないっす。要するに、現代機からレトロ携帯機まで間口が広いっすよ。",
+      "news_index": 1,
+      "start_sec": 297.91,
+      "end_sec": 303.21
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "2019年からはニンテンドースイッチ版も出てるんで、携帯機派のオタクくんも安心っす。",
+      "news_index": 1,
+      "start_sec": 303.29,
+      "end_sec": 308.63
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "全年齢版とアダルト版があるんすけど、ストーリー楽しむなら全年齢版で十分っす。",
+      "news_index": 1,
+      "start_sec": 308.71,
+      "end_sec": 314.04
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ところでつむぎ、もしかして当時のPC-9801版も持ってるのだ？",
+      "news_index": 1,
+      "start_sec": 314.19,
+      "end_sec": 320.23
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "持ってるっす、中古屋で発掘した家宝っすよ！",
+      "news_index": 1,
+      "start_sec": 320.38,
+      "end_sec": 323.29
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "つむぎの彼氏に「あーしの宝物っす」って自慢してそうなのだ。",
+      "news_index": 1,
+      "start_sec": 323.44,
+      "end_sec": 328.31
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "shirake",
+      "text": "……先輩。",
+      "news_index": 1,
+      "start_sec": 328.46,
+      "end_sec": 329.33
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "な、なんでもないのだ、ごめんなさいなのだ。",
+      "news_index": 1,
+      "start_sec": 329.48,
+      "end_sec": 333.41
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "コホン、話戻すっす。要するにデザイアは「アドベンチャーゲームはここまで深くなれる」を最初に証明した作品っす！",
+      "news_index": 1,
+      "start_sec": 333.56,
+      "end_sec": 340.89
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "オタクくんも気になったらリマスター版チェックなのだー！",
+      "news_index": 1,
+      "start_sec": 341.04,
+      "end_sec": 344.15
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "ふたつの視点が交わる瞬間、一緒に体験してほしいっす！",
+      "news_index": 1,
+      "start_sec": 344.3,
+      "end_sec": 348.02
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "それじゃ、旅の道ラジオ朝便、今日はここまでなのだー！",
+      "news_index": 1,
+      "start_sec": 348.17,
+      "end_sec": 351.93
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "オタクくん、今日もいい一日をー！ あーしの担当回はまたっす！",
+      "news_index": 1,
+      "start_sec": 352.08,
+      "end_sec": 356.03
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "またなのだー！",
+      "news_index": 1,
+      "start_sec": 356.18,
+      "end_sec": 357.19
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 357.89,
+      "end_sec": 364.72
+    }
+  ],
+  "wall_time_sec": 9.84,
+  "audio_url": "/audio/indie/20260519_051842.mp3?v=1779149837"
+}
