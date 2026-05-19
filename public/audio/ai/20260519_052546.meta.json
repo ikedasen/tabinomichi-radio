@@ -3,15 +3,15 @@
   "generated_at": "2026-05-19T05:25:46+09:00",
   "title": "AI業界 5本立ての朝 〜独占・オンプレ・スマホ・軍・著作権〜",
   "audio_path": "ai_latest.wav",
-  "duration_sec": 434.28,
-  "script_hash": "sha256:9786f62d4a2fd7252fd10907ead18957b58dd4702a534d521cecff8063569833",
+  "duration_sec": 432.82,
+  "script_hash": "sha256:7a33ff03ace0ab99eeff6927485b6bf5d8c771a263187012d1236322484b3f33",
   "segments": [
     {
       "index": -1,
       "type": "intro",
       "text": "🎵 ジングル + 旅の道ラジオ！",
       "start_sec": 0.0,
-      "end_sec": 9.59
+      "end_sec": 6.47
     },
     {
       "index": 0,
@@ -20,8 +20,8 @@
       "tone": "normal",
       "text": "おはようございます。旅の道ラジオ朝便、テックニュースの回ね。四国めたんよ。",
       "news_index": 0,
-      "start_sec": 9.59,
-      "end_sec": 14.98
+      "start_sec": 6.47,
+      "end_sec": 11.85
     },
     {
       "index": 1,
@@ -30,8 +30,8 @@
       "tone": "mic",
       "text": "ボク、ずんだもんなのだー! 今日もテックの話、軽くサクッといくのだー!",
       "news_index": 0,
-      "start_sec": 15.13,
-      "end_sec": 19.89
+      "start_sec": 12.0,
+      "end_sec": 16.76
     },
     {
       "index": 2,
@@ -40,8 +40,8 @@
       "tone": "normal",
       "text": "朝のうちに業界の今を、ざっくり5本立てで流すわよ。",
       "news_index": 0,
-      "start_sec": 20.04,
-      "end_sec": 23.7
+      "start_sec": 16.91,
+      "end_sec": 20.57
     },
     {
       "index": 3,
@@ -50,8 +50,8 @@
       "tone": "normal",
       "text": "通勤・通学のおともにどうぞなのだ。",
       "news_index": 0,
-      "start_sec": 23.85,
-      "end_sec": 26.62
+      "start_sec": 20.72,
+      "end_sec": 23.49
     },
     {
       "index": 4,
@@ -60,8 +60,8 @@
       "tone": "niyari",
       "text": "今日はAI業界の『お金』と『規制』と『スマホ』が全部入った詰め合わせよ。",
       "news_index": 0,
-      "start_sec": 26.77,
-      "end_sec": 32.64
+      "start_sec": 23.64,
+      "end_sec": 29.51
     },
     {
       "index": 5,
@@ -70,8 +70,8 @@
       "tone": "amaama",
       "text": "詰め合わせ嬉しいのだ! じゃあ早速1本目にいくのだ!",
       "news_index": 0,
-      "start_sec": 32.79,
-      "end_sec": 36.86
+      "start_sec": 29.66,
+      "end_sec": 33.73
     },
     {
       "index": 6,
@@ -80,8 +80,8 @@
       "tone": "normal",
       "text": "1本目。AIスタートアップ全体の年間収益が、800億ドルに乗ったらしいのよ。",
       "news_index": 1,
-      "start_sec": 37.01,
-      "end_sec": 42.68
+      "start_sec": 33.88,
+      "end_sec": 39.56
     },
     {
       "index": 7,
@@ -90,8 +90,8 @@
       "tone": "shock",
       "text": "えっ、800億ドル!? それ円にするといくらなのだ!?",
       "news_index": 1,
-      "start_sec": 42.83,
-      "end_sec": 46.76
+      "start_sec": 39.71,
+      "end_sec": 43.63
     },
     {
       "index": 8,
@@ -100,8 +100,8 @@
       "tone": "normal",
       "text": "ざっくり12兆円くらいね。半年で2倍以上に膨らんだの。",
       "news_index": 1,
-      "start_sec": 46.91,
-      "end_sec": 50.88
+      "start_sec": 43.78,
+      "end_sec": 47.75
     },
     {
       "index": 9,
@@ -110,8 +110,8 @@
       "tone": "amaama",
       "text": "半年で2倍以上!? AI業界、走るの速すぎじゃん!",
       "news_index": 1,
-      "start_sec": 51.03,
-      "end_sec": 55.8
+      "start_sec": 47.9,
+      "end_sec": 52.67
     },
     {
       "index": 10,
@@ -120,8 +120,8 @@
       "tone": "niyari",
       "text": "で、ここからが面白いんだけど、この800億ドルのうち89%を、たった2社が独占してるのよ。",
       "news_index": 1,
-      "start_sec": 55.95,
-      "end_sec": 62.83
+      "start_sec": 52.82,
+      "end_sec": 59.7
     },
     {
       "index": 11,
@@ -130,8 +130,8 @@
       "tone": "normal",
       "text": "2社って…どこなのだ?",
       "news_index": 1,
-      "start_sec": 62.98,
-      "end_sec": 64.69
+      "start_sec": 59.85,
+      "end_sec": 61.57
     },
     {
       "index": 12,
@@ -140,8 +140,8 @@
       "tone": "normal",
       "text": "アンソロピックとオープンエーアイ。残り32社が11%を分け合ってる感じ。",
       "news_index": 1,
-      "start_sec": 64.84,
-      "end_sec": 70.1
+      "start_sec": 61.72,
+      "end_sec": 66.98
     },
     {
       "index": 13,
@@ -150,8 +150,8 @@
       "tone": "shock",
       "text": "えっ、それほぼ『AI業界イコール、その2社』じゃん!",
       "news_index": 1,
-      "start_sec": 70.25,
-      "end_sec": 74.56
+      "start_sec": 67.13,
+      "end_sec": 71.44
     },
     {
       "index": 14,
@@ -160,8 +160,8 @@
       "tone": "normal",
       "text": "そういう構図ね。要するに、コンビニ業界の売上の9割を2社で持ってる、みたいなレベルよ。",
       "news_index": 1,
-      "start_sec": 74.71,
-      "end_sec": 80.66
+      "start_sec": 71.59,
+      "end_sec": 77.54
     },
     {
       "index": 15,
@@ -170,8 +170,8 @@
       "tone": "normal",
       "text": "で、ボクたちの生活にどう影響するのだ?",
       "news_index": 1,
-      "start_sec": 80.81,
-      "end_sec": 83.93
+      "start_sec": 77.69,
+      "end_sec": 80.8
     },
     {
       "index": 16,
@@ -180,8 +180,8 @@
       "tone": "niyari",
       "text": "投資家のお金がさらに2社に集中するから、AIサービス選ぶときに『結局その2社の派生』って事故が増えるってこと。",
       "news_index": 1,
-      "start_sec": 84.08,
-      "end_sec": 91.78
+      "start_sec": 80.95,
+      "end_sec": 88.65
     },
     {
       "index": 17,
@@ -190,8 +190,8 @@
       "tone": "kangae",
       "text": "色んなAI試したつもりが、裏は全部同じ会社、ってやつなのだ…",
       "news_index": 1,
-      "start_sec": 91.93,
-      "end_sec": 96.71
+      "start_sec": 88.8,
+      "end_sec": 93.58
     },
     {
       "index": 18,
@@ -200,8 +200,8 @@
       "tone": "normal",
       "text": "じゃあ2本目。オープンエーアイがデルと組んだのよ。",
       "news_index": 2,
-      "start_sec": 96.86,
-      "end_sec": 99.76
+      "start_sec": 93.73,
+      "end_sec": 96.63
     },
     {
       "index": 19,
@@ -210,8 +210,8 @@
       "tone": "normal",
       "text": "デルって、あのパソコンのデル?",
       "news_index": 2,
-      "start_sec": 99.91,
-      "end_sec": 102.07
+      "start_sec": 96.78,
+      "end_sec": 98.95
     },
     {
       "index": 20,
@@ -220,8 +220,8 @@
       "tone": "normal",
       "text": "そう、あのデル。コーデックスっていうオープンエーアイのコーディングAIを、お客の会社のサーバー内で動かせるようにする提携。",
       "news_index": 2,
-      "start_sec": 102.22,
-      "end_sec": 109.84
+      "start_sec": 99.1,
+      "end_sec": 106.71
     },
     {
       "index": 21,
@@ -230,8 +230,8 @@
       "tone": "normal",
       "text": "コーデックスって何なのだ?",
       "news_index": 2,
-      "start_sec": 109.99,
-      "end_sec": 111.84
+      "start_sec": 106.86,
+      "end_sec": 108.71
     },
     {
       "index": 22,
@@ -240,8 +240,8 @@
       "tone": "normal",
       "text": "プログラマーの隣で一緒にコード書いてくれるAI、って思えばいいわ。今、400万人の開発者が毎週使ってるらしい。",
       "news_index": 2,
-      "start_sec": 111.99,
-      "end_sec": 119.92
+      "start_sec": 108.86,
+      "end_sec": 116.8
     },
     {
       "index": 23,
@@ -250,8 +250,8 @@
       "tone": "shock",
       "text": "400万人!? それすごい数なのだ…",
       "news_index": 2,
-      "start_sec": 120.07,
-      "end_sec": 122.86
+      "start_sec": 116.95,
+      "end_sec": 119.73
     },
     {
       "index": 24,
@@ -260,8 +260,8 @@
       "tone": "normal",
       "text": "今までは『クラウド経由で使ってね』が前提だったの。だから銀行とか病院とか、ソースコードを外に出せない業界が使えなかった。",
       "news_index": 2,
-      "start_sec": 123.01,
-      "end_sec": 131.26
+      "start_sec": 119.88,
+      "end_sec": 128.14
     },
     {
       "index": 25,
@@ -270,8 +270,8 @@
       "tone": "kangae",
       "text": "なるほど、外に出せない情報のかたまりってあるよね。",
       "news_index": 2,
-      "start_sec": 131.41,
-      "end_sec": 134.92
+      "start_sec": 128.29,
+      "end_sec": 131.8
     },
     {
       "index": 26,
@@ -280,8 +280,8 @@
       "tone": "niyari",
       "text": "それを『会社の中のサーバーで動かしていいよ』に変えたわけ。デルのサーバーの上でね。",
       "news_index": 2,
-      "start_sec": 135.07,
-      "end_sec": 140.46
+      "start_sec": 131.95,
+      "end_sec": 137.33
     },
     {
       "index": 27,
@@ -290,8 +290,8 @@
       "tone": "amaama",
       "text": "つまり『お外に出ないAI』が買えるようになるってことなのだ!",
       "news_index": 2,
-      "start_sec": 140.61,
-      "end_sec": 145.33
+      "start_sec": 137.48,
+      "end_sec": 142.21
     },
     {
       "index": 28,
@@ -300,8 +300,8 @@
       "tone": "normal",
       "text": "ご名答。要するに、これまでAI導入を諦めてた業界が一気に開く合図ね。",
       "news_index": 2,
-      "start_sec": 145.48,
-      "end_sec": 150.98
+      "start_sec": 142.36,
+      "end_sec": 147.85
     },
     {
       "index": 29,
@@ -310,8 +310,8 @@
       "tone": "normal",
       "text": "銀行とか病院にもAIが入ってくる…ボクたちの振込手続きも変わるのだ?",
       "news_index": 2,
-      "start_sec": 151.13,
-      "end_sec": 156.53
+      "start_sec": 148.0,
+      "end_sec": 153.41
     },
     {
       "index": 30,
@@ -320,8 +320,8 @@
       "tone": "niyari",
       "text": "数年スパンでは確実に変わるでしょうね。『いつもの窓口』がAI経由になる日も、そう遠くないわよ。",
       "news_index": 2,
-      "start_sec": 156.68,
-      "end_sec": 163.26
+      "start_sec": 153.56,
+      "end_sec": 160.13
     },
     {
       "index": 31,
@@ -330,8 +330,8 @@
       "tone": "normal",
       "text": "3本目、スマホの話に行くわよ。",
       "news_index": 3,
-      "start_sec": 163.34,
-      "end_sec": 165.8
+      "start_sec": 160.21,
+      "end_sec": 162.67
     },
     {
       "index": 32,
@@ -340,8 +340,8 @@
       "tone": "normal",
       "text": "スマホ嬉しいのだ! 何があったのだ?",
       "news_index": 3,
-      "start_sec": 165.95,
-      "end_sec": 168.56
+      "start_sec": 162.82,
+      "end_sec": 165.44
     },
     {
       "index": 33,
@@ -350,8 +350,8 @@
       "tone": "normal",
       "text": "オッポが『エックス・オムニクロー』っていう、アンドロイド用のAIエージェントをオープンソースで公開したのよ。",
       "news_index": 3,
-      "start_sec": 168.71,
-      "end_sec": 175.44
+      "start_sec": 165.59,
+      "end_sec": 172.32
     },
     {
       "index": 34,
@@ -360,8 +360,8 @@
       "tone": "normal",
       "text": "エックス・オムニクロー…技名みたいなのだ。",
       "news_index": 3,
-      "start_sec": 175.59,
-      "end_sec": 178.7
+      "start_sec": 172.47,
+      "end_sec": 175.57
     },
     {
       "index": 35,
@@ -370,8 +370,8 @@
       "tone": "niyari",
       "text": "技名じゃないわよ。スマホのカメラと画面と音声、3つを全部使ってアプリ操作を自動でやってくれるAI。",
       "news_index": 3,
-      "start_sec": 178.85,
-      "end_sec": 185.67
+      "start_sec": 175.72,
+      "end_sec": 182.55
     },
     {
       "index": 36,
@@ -380,8 +380,8 @@
       "tone": "shock",
       "text": "全部!? それスマホ乗っ取られてないのだ!?",
       "news_index": 3,
-      "start_sec": 185.82,
-      "end_sec": 188.84
+      "start_sec": 182.7,
+      "end_sec": 185.72
     },
     {
       "index": 37,
@@ -390,8 +390,8 @@
       "tone": "normal",
       "text": "乗っ取りじゃなくて代行ね。商品を撮影したら勝手に価格比較してくれたり、問題集を順番に解いてくれたり。",
       "news_index": 3,
-      "start_sec": 188.99,
-      "end_sec": 195.82
+      "start_sec": 185.87,
+      "end_sec": 192.69
     },
     {
       "index": 38,
@@ -400,8 +400,8 @@
       "tone": "amaama",
       "text": "宿題やらせるとか、強すぎるのだ!",
       "news_index": 3,
-      "start_sec": 195.97,
-      "end_sec": 198.81
+      "start_sec": 192.84,
+      "end_sec": 195.68
     },
     {
       "index": 39,
@@ -410,8 +410,8 @@
       "tone": "tsuntsun",
       "text": "それで宿題やるな、自分でやりなさい。",
       "news_index": 3,
-      "start_sec": 198.96,
-      "end_sec": 201.45
+      "start_sec": 195.83,
+      "end_sec": 198.33
     },
     {
       "index": 40,
@@ -420,8 +420,8 @@
       "tone": "amaama",
       "text": "いやでもボクはAIネイティブ世代なのだー!",
       "news_index": 3,
-      "start_sec": 201.6,
-      "end_sec": 204.7
+      "start_sec": 198.48,
+      "end_sec": 201.57
     },
     {
       "index": 41,
@@ -430,8 +430,8 @@
       "tone": "normal",
       "text": "…話戻すわよ。注目すべきは、これ全部スマホの中で完結してて、データを外に出さないこと。",
       "news_index": 3,
-      "start_sec": 204.85,
-      "end_sec": 211.02
+      "start_sec": 201.72,
+      "end_sec": 207.9
     },
     {
       "index": 42,
@@ -440,8 +440,8 @@
       "tone": "kangae",
       "text": "あ、それじゃプライバシー守られるのだ?",
       "news_index": 3,
-      "start_sec": 211.17,
-      "end_sec": 214.01
+      "start_sec": 208.05,
+      "end_sec": 210.88
     },
     {
       "index": 43,
@@ -450,8 +450,8 @@
       "tone": "niyari",
       "text": "そういうこと。しかも端末メーカーが自分でオープンソース出してるから、他のメーカーも追随しやすい流れになるわ。",
       "news_index": 3,
-      "start_sec": 214.16,
-      "end_sec": 221.0
+      "start_sec": 211.03,
+      "end_sec": 217.87
     },
     {
       "index": 44,
@@ -460,8 +460,8 @@
       "tone": "normal",
       "text": "で、ボクたちのスマホはこれからどうなるのだ?",
       "news_index": 3,
-      "start_sec": 221.15,
-      "end_sec": 224.18
+      "start_sec": 218.02,
+      "end_sec": 221.05
     },
     {
       "index": 45,
@@ -470,8 +470,8 @@
       "tone": "normal",
       "text": "来年あたりから『スマホのAI機能』の主戦場が、端末メーカー側に移るかもね。グーグル一強じゃなくなる、って話。",
       "news_index": 3,
-      "start_sec": 224.33,
-      "end_sec": 232.27
+      "start_sec": 221.2,
+      "end_sec": 229.15
     },
     {
       "index": 46,
@@ -480,8 +480,8 @@
       "tone": "normal",
       "text": "4本目、ちょっと毛色変わってヨーロッパの話。",
       "news_index": 4,
-      "start_sec": 232.35,
-      "end_sec": 235.31
+      "start_sec": 229.23,
+      "end_sec": 232.18
     },
     {
       "index": 47,
@@ -490,8 +490,8 @@
       "tone": "normal",
       "text": "急にヨーロッパ?",
       "news_index": 4,
-      "start_sec": 235.46,
-      "end_sec": 236.84
+      "start_sec": 232.33,
+      "end_sec": 233.72
     },
     {
       "index": 48,
@@ -500,8 +500,8 @@
       "tone": "normal",
       "text": "ミストラルっていうフランスのAI会社の代表が、議会で警告したのよ。『アンソロピックのミュトスに、フランス軍のソースコードをスキャンさせるな』って。",
       "news_index": 4,
-      "start_sec": 236.99,
-      "end_sec": 245.98
+      "start_sec": 233.87,
+      "end_sec": 242.85
     },
     {
       "index": 49,
@@ -510,8 +510,8 @@
       "tone": "shock",
       "text": "えっ、軍のソースコード!?",
       "news_index": 4,
-      "start_sec": 246.13,
-      "end_sec": 248.28
+      "start_sec": 243.0,
+      "end_sec": 245.15
     },
     {
       "index": 50,
@@ -520,8 +520,8 @@
       "tone": "normal",
       "text": "ようは、戦闘機とかレーダーとか、軍が使ってるシステムのプログラムね。",
       "news_index": 4,
-      "start_sec": 248.43,
-      "end_sec": 252.78
+      "start_sec": 245.3,
+      "end_sec": 249.66
     },
     {
       "index": 51,
@@ -530,8 +530,8 @@
       "tone": "normal",
       "text": "それをAIに見せるとマズいのだ?",
       "news_index": 4,
-      "start_sec": 252.93,
-      "end_sec": 255.29
+      "start_sec": 249.81,
+      "end_sec": 252.16
     },
     {
       "index": 52,
@@ -540,8 +540,8 @@
       "tone": "niyari",
       "text": "マズいのよ。ミュトスっていうAIは、脆弱性を見つけて、攻撃のやり方まで提案できるレベルになってるの。",
       "news_index": 4,
-      "start_sec": 255.44,
-      "end_sec": 262.2
+      "start_sec": 252.31,
+      "end_sec": 259.08
     },
     {
       "index": 53,
@@ -550,8 +550,8 @@
       "tone": "kangae",
       "text": "…つまり『便利だから入れた』が、そのまま敵に手の内見せることになる、と。",
       "news_index": 4,
-      "start_sec": 262.35,
-      "end_sec": 267.61
+      "start_sec": 259.23,
+      "end_sec": 264.48
     },
     {
       "index": 54,
@@ -560,8 +560,8 @@
       "tone": "normal",
       "text": "ご名答。代表は『2年以内に欧州独自のAI基盤を作らないと、アメリカの属国になる』とまで言ってる。",
       "news_index": 4,
-      "start_sec": 267.76,
-      "end_sec": 274.78
+      "start_sec": 264.63,
+      "end_sec": 271.65
     },
     {
       "index": 55,
@@ -570,8 +570,8 @@
       "tone": "shock",
       "text": "属国って言葉、強すぎるのだ…",
       "news_index": 4,
-      "start_sec": 274.93,
-      "end_sec": 277.41
+      "start_sec": 271.8,
+      "end_sec": 274.29
     },
     {
       "index": 56,
@@ -580,8 +580,8 @@
       "tone": "normal",
       "text": "で、これがボクたち一般人にどう関係するか、なんだけど。",
       "news_index": 4,
-      "start_sec": 277.56,
-      "end_sec": 281.4
+      "start_sec": 274.44,
+      "end_sec": 278.28
     },
     {
       "index": 57,
@@ -590,8 +590,8 @@
       "tone": "normal",
       "text": "うんうん。",
       "news_index": 4,
-      "start_sec": 281.55,
-      "end_sec": 282.31
+      "start_sec": 278.43,
+      "end_sec": 279.19
     },
     {
       "index": 58,
@@ -600,8 +600,8 @@
       "tone": "niyari",
       "text": "『使うAIを国で選ぶ時代』が来る、ってこと。日本だって今は普通にオープンエーアイ使ってるけど、政府調達からは弾かれる動きが出るかもね。",
       "news_index": 4,
-      "start_sec": 282.46,
-      "end_sec": 291.68
+      "start_sec": 279.34,
+      "end_sec": 288.55
     },
     {
       "index": 59,
@@ -610,8 +610,8 @@
       "tone": "kangae",
       "text": "国境のあるAI、なのだ…",
       "news_index": 4,
-      "start_sec": 291.83,
-      "end_sec": 294.06
+      "start_sec": 288.7,
+      "end_sec": 290.93
     },
     {
       "index": 60,
@@ -620,8 +620,8 @@
       "tone": "kamera",
       "text": "最後5本目。NASAが大変なものを発表したのよ。手のひらサイズで宇宙船を賢くする、新型プロセッサーですって。",
       "news_index": 5,
-      "start_sec": 294.21,
-      "end_sec": 301.57
+      "start_sec": 291.08,
+      "end_sec": 298.44
     },
     {
       "index": 61,
@@ -630,8 +630,8 @@
       "tone": "kamera",
       "text": "えっ、宇宙船が頭良くなるのだ? なんだかSF映画みたいな予感がするのだ。",
       "news_index": 5,
-      "start_sec": 301.72,
-      "end_sec": 307.35
+      "start_sec": 298.59,
+      "end_sec": 304.22
     },
     {
       "index": 62,
@@ -640,8 +640,8 @@
       "tone": "normal",
       "text": "JPLとMicrochip Technologyの合同開発で、その名もHPSC、ハイ・パフォーマンス・スペースフライト・コンピューティングよ。5月12日にJPLが公式公開したわ。",
       "news_index": 5,
-      "start_sec": 307.5,
-      "end_sec": 319.57
+      "start_sec": 304.37,
+      "end_sec": 316.45
     },
     {
       "index": 63,
@@ -650,8 +650,8 @@
       "tone": "shock",
       "text": "ちょっと待つのだ、現行チップの500倍の性能って書いてあるのだ! 500倍は盛り過ぎじゃないのだ?",
       "news_index": 5,
-      "start_sec": 319.72,
-      "end_sec": 326.42
+      "start_sec": 316.6,
+      "end_sec": 323.3
     },
     {
       "index": 64,
@@ -660,8 +660,8 @@
       "tone": "kangae",
       "text": "比較対象は今ジェイムズ・ウェッブ望遠鏡や火星探査機に積まれている耐放射線チップなのよ。設計値は100倍、実テストで500倍まで伸びたのですって。",
       "news_index": 5,
-      "start_sec": 326.57,
-      "end_sec": 336.73
+      "start_sec": 323.45,
+      "end_sec": 333.6
     },
     {
       "index": 65,
@@ -670,18 +670,18 @@
       "tone": "niyari",
       "text": "つまりボクのずんだ餅が500個に増殖するくらい凄いのだ! 500倍のずんだパワーで宇宙征服なのだ!",
       "news_index": 5,
-      "start_sec": 336.88,
-      "end_sec": 344.3
+      "start_sec": 333.75,
+      "end_sec": 341.18
     },
     {
       "index": 66,
       "type": "speech",
       "speaker": "metan",
-      "tone": "yubisashi",
+      "tone": "niyari",
       "text": "全然関係ないわよ。要は手のひらサイズのSoCにCPU・ネットワーク・メモリーまで詰めて、放射線にも耐える設計なのよ。",
       "news_index": 5,
-      "start_sec": 344.45,
-      "end_sec": 352.88
+      "start_sec": 341.33,
+      "end_sec": 349.75
     },
     {
       "index": 67,
@@ -690,8 +690,8 @@
       "tone": "kangae",
       "text": "でもなぜ宇宙でそんなに頭脳パワーが要るのだ? 地球から指示すれば良いんじゃないのだ?",
       "news_index": 5,
-      "start_sec": 353.03,
-      "end_sec": 358.51
+      "start_sec": 349.9,
+      "end_sec": 355.38
     },
     {
       "index": 68,
@@ -700,8 +700,8 @@
       "tone": "normal",
       "text": "火星まで片道で通信に20分以上かかるのよ。岩に突っ込みそうな瞬間に、次どうしましょうって聞いてたら手遅れだもの。",
       "news_index": 5,
-      "start_sec": 358.66,
-      "end_sec": 366.38
+      "start_sec": 355.53,
+      "end_sec": 363.26
     },
     {
       "index": 69,
@@ -710,8 +710,8 @@
       "tone": "namidame",
       "text": "確かに、ボクが火星で迷子になってもずんだの里に通信できないのだ…。AIが一緒なら安心なのだ。",
       "news_index": 5,
-      "start_sec": 366.53,
-      "end_sec": 375.21
+      "start_sec": 363.41,
+      "end_sec": 372.08
     },
     {
       "index": 70,
@@ -720,8 +720,8 @@
       "tone": "normal",
       "text": "認証完了は今年末を狙っていて、2028年早期のArtemis IV、つまり初の有人月着陸ミッションに搭載される予定よ。",
       "news_index": 5,
-      "start_sec": 375.36,
-      "end_sec": 384.26
+      "start_sec": 372.23,
+      "end_sec": 381.14
     },
     {
       "index": 71,
@@ -730,8 +730,8 @@
       "tone": "amaama",
       "text": "月でも火星でもAIと一緒に頑張れるのだ! 自分で考えて動く宇宙船、なんだかカッコイイのだ!",
       "news_index": 5,
-      "start_sec": 384.41,
-      "end_sec": 391.93
+      "start_sec": 381.29,
+      "end_sec": 388.81
     },
     {
       "index": 72,
@@ -740,8 +740,8 @@
       "tone": "niyari",
       "text": "大手AIラボの数字遊びとは違う、ハードウェアから攻めるAI自律化ってわけよ。さあ、これで朝の5本も走り切ったわね。",
       "news_index": 5,
-      "start_sec": 392.08,
-      "end_sec": 400.03
+      "start_sec": 388.96,
+      "end_sec": 396.9
     },
     {
       "index": 73,
@@ -750,8 +750,8 @@
       "tone": "normal",
       "text": "というわけで今日のテック朝便、5本立てだったわね。",
       "news_index": 0,
-      "start_sec": 400.11,
-      "end_sec": 403.4
+      "start_sec": 396.98,
+      "end_sec": 400.28
     },
     {
       "index": 74,
@@ -760,8 +760,8 @@
       "tone": "amaama",
       "text": "800億ドルの独占、デルとの提携、オッポのAIエージェント、ミストラルの軍コード警告、アンソロピックの和解…盛りだくさんなのだ!",
       "news_index": 0,
-      "start_sec": 403.55,
-      "end_sec": 414.07
+      "start_sec": 400.43,
+      "end_sec": 410.95
     },
     {
       "index": 75,
@@ -770,8 +770,8 @@
       "tone": "niyari",
       "text": "ちゃんと覚えてて偉い。",
       "news_index": 0,
-      "start_sec": 414.22,
-      "end_sec": 415.62
+      "start_sec": 411.1,
+      "end_sec": 412.49
     },
     {
       "index": 76,
@@ -780,8 +780,8 @@
       "tone": "amaama",
       "text": "今日のお小遣いほしいのだ!",
       "news_index": 0,
-      "start_sec": 415.77,
-      "end_sec": 417.76
+      "start_sec": 412.64,
+      "end_sec": 414.64
     },
     {
       "index": 77,
@@ -790,8 +790,8 @@
       "tone": "tsuntsun",
       "text": "出ません。",
       "news_index": 0,
-      "start_sec": 417.91,
-      "end_sec": 418.61
+      "start_sec": 414.79,
+      "end_sec": 415.48
     },
     {
       "index": 78,
@@ -800,8 +800,8 @@
       "tone": "normal",
       "text": "気になったやつあったら、ニュース検索してみて。",
       "news_index": 0,
-      "start_sec": 418.69,
-      "end_sec": 421.52
+      "start_sec": 415.56,
+      "end_sec": 418.4
     },
     {
       "index": 79,
@@ -810,8 +810,8 @@
       "tone": "mic",
       "text": "それじゃ、また明日のテック朝便で会いましょうなのだー!",
       "news_index": 0,
-      "start_sec": 421.67,
-      "end_sec": 425.12
+      "start_sec": 418.55,
+      "end_sec": 421.99
     },
     {
       "index": 80,
@@ -820,17 +820,17 @@
       "tone": "normal",
       "text": "四国めたんでした。よい一日を。",
       "news_index": 0,
-      "start_sec": 425.27,
-      "end_sec": 427.54
+      "start_sec": 422.14,
+      "end_sec": 424.42
     },
     {
       "index": 9999,
       "type": "outro",
       "text": "🎵 ジングル + またね！",
-      "start_sec": 428.24,
-      "end_sec": 434.28
+      "start_sec": 425.12,
+      "end_sec": 432.82
     }
   ],
-  "wall_time_sec": 6.72,
-  "audio_url": "/audio/ai/20260519_052546.mp3?v=1779156729"
+  "wall_time_sec": 6.65,
+  "audio_url": "/audio/ai/20260519_052546.mp3?v=1779158121"
 }
