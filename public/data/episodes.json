@@ -1,6 +1,89 @@
 {
-  "generated_at": "2026-05-19T18:21:22.592696",
+  "generated_at": "2026-05-19T19:27:59.032979",
   "episodes": [
+    {
+      "episode_id": "20260519_185520",
+      "profile": "indie",
+      "title": "推理ゲーの祖、神戸へ 〜1983年、堀井雄二が拓いた扉〜",
+      "generated_at": "2026-05-19T18:55:20+09:00",
+      "duration_sec": 461.97,
+      "audio_url": "/audio/indie/20260519_185520.mp3?v=1779186476",
+      "meta_url": "/audio/indie/20260519_185520.meta.json",
+      "script_url": "/audio/indie/20260519_185520.script.json",
+      "audio_size_mb": 7.05,
+      "featured_game": {
+        "app_id": null,
+        "vndb_id": "v4511",
+        "title": "ポートピア連続殺人事件",
+        "alttitle": "Portopia Renzoku Satsujin Jiken",
+        "image_rel": "/images/games/vndb_v4511.jpg?v=1779089073",
+        "hero_rel": "/images/games/vndb_v4511.jpg?v=1779089073",
+        "screenshot_rels": [
+          "/images/games/vndb_v4511_ss1.jpg?v=1779089075",
+          "/images/games/vndb_v4511_ss2.jpg?v=1779089076",
+          "/images/games/vndb_v4511_ss3.jpg?v=1779089077",
+          "/images/games/vndb_v4511_ss4.jpg?v=1779089078"
+        ],
+        "developers": [
+          "株式会社チュンソフト",
+          "堀井 雄二",
+          "Takahiro Ikawa",
+          "T. Yoshimine",
+          "スクウェア・エニックス",
+          "Armor Project"
+        ],
+        "publishers": [],
+        "genres": [
+          "レトロ",
+          "ビジュアルノベル"
+        ],
+        "release_date": "1983-06",
+        "price": "5,500円（ファミコン版・1985年初出時定価）",
+        "short_description": "Kouzou Yamakawa, the president of the Loan and Savings Company, was found dead inside his mansion. Despite all the evidence indicating that it was a suicide, a detective (i.e. you) and his assistant arrive at the scene for further investigation. \nThe player must resolve the mystery of a murder by searching for clues, interacting with characters, and solving item-based puzzles.\n\n[summary from Wikipedia and [url=http://pixelmenu.22web.net/features/enix/enix1.html]Japan Adventure Attack[/url]]"
+      },
+      "program_description": "今朝の朝便は、1983年に登場したアドベンチャーゲーム『ポートピア連続殺人事件』を深掘り。エニックスから出たPC-6001版に始まり、1985年11月29日にファミコン初のアドベンチャーゲームとして発売され、堀井雄二がほぼ1人で書いた原作からチュンソフトと組んだファミコン移植、コマンド選択式という日本ADVのスタンダードを定着させた瞬間、小島秀夫監督がゲーム制作を志すきっかけの一作として語ったエピソードまで、日本アドベンチャーゲームの源流をつむぎとずんだが語る回。神戸を舞台にした事件、相棒ヤスと二人三脚で進める捜査、後のドラゴンクエストへ繋がる堀井+チュンソフト体制の原点、そして犯人の名前が日本一有名なネタバレ文化として独り歩きした社会現象まで触れる。事件の核心はネタバレ厳禁、ADVジャンルがファミコンに定着していった文化史として味わう構成。",
+      "summary_short": ""
+    },
+    {
+      "episode_id": "20260519_185511",
+      "profile": "indie",
+      "title": "夜の十二時、森の灯り 〜The Rat Zoneがふるまう不気味なごちそう〜",
+      "generated_at": "2026-05-19T18:55:11+09:00",
+      "duration_sec": 349.72,
+      "audio_url": "/audio/indie/20260519_185511.mp3?v=1779186478",
+      "meta_url": "/audio/indie/20260519_185511.meta.json",
+      "script_url": "/audio/indie/20260519_185511.script.json",
+      "audio_size_mb": 5.34,
+      "featured_game": {
+        "app_id": 3097300,
+        "title": "Creature Kitchen",
+        "image_rel": "/images/games/3097300_header.jpg?v=1779184134",
+        "hero_rel": "/images/games/3097300_hero.jpg?v=1779184136",
+        "screenshot_rels": [
+          "/images/games/3097300_ss.jpg?v=1779184136",
+          "/images/games/3097300_ss2.jpg?v=1779184136",
+          "/images/games/3097300_ss3.jpg?v=1779184137",
+          "/images/games/3097300_ss4.jpg?v=1779184137"
+        ],
+        "developers": [
+          "The Rat Zone"
+        ],
+        "publishers": [
+          "The Rat Zone"
+        ],
+        "genres": [
+          "カジュアル",
+          "インディー",
+          "シミュレーション"
+        ],
+        "release_date": "2026年2月6日",
+        "price": "920円",
+        "short_description": "ちょっと不気味で癒やされる料理シム。近くに住む野生の生き物と仲良くなって、それぞれの好みに合ったおやつをあげよう！不思議な家と、近くの森も探検してみてね。時計の針は夜の12時を回ったばかり…",
+        "header_url": "/images/games/3097300_header.jpg?v=1779184134"
+      },
+      "program_description": "夜便で深掘りするのは、スチームで圧倒的好評99パーセントを叩き出してる『クリーチャーキッチン』。森の不気味な一軒家で、近くに住む野生のクリーチャーへごちそうを振る舞う、ホラーテイストとほっこりが同居する創作料理シム。開発はセンダーやチェアーズで知られるインディーコレクティブ『ザ・ラット・ゾーン』で、クリーピーコージーという矛盾ジャンルがSNSでバズ継続中。5月のアップデートでついに日本語対応、5月25日まで20パーセントオフの736円。ずんだもんが「クリーチャー食べる側? 食べさせる側?」と取り違え、めたんが厨二発作で深夜の森の語りを始める、夜にぴったりの一回。",
+      "summary_short": ""
+    },
     {
       "episode_id": "20260519_172420",
       "profile": "ai",
