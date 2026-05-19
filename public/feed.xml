@@ -7,8 +7,8 @@
     <description>ずんだもん × めたん × つむぎが届ける、ゲーム &amp; テックニュース雑談ラジオ。朝便と夜便で毎日更新、レトロから新作まで、最新 AI 動向から業界マクロまで雑談形式でサクッと。</description>
     <language>ja</language>
     <copyright>© 2026 tabinomichi</copyright>
-    <lastBuildDate>Tue, 19 May 2026 15:41:26 +0900</lastBuildDate>
-    <pubDate>Tue, 19 May 2026 05:25:46 +0900</pubDate>
+    <lastBuildDate>Tue, 19 May 2026 17:39:08 +0900</lastBuildDate>
+    <pubDate>Tue, 19 May 2026 17:24:20 +0900</pubDate>
     <generator>build_rss_feed.py (tabinomichi radio)</generator>
     <image>
       <url>https://news.tabinomichi.jp/podcast-cover.png?v=1779005902</url>
@@ -29,6 +29,21 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>コンポーザー2.5 着弾の夜 〜カーソルが描く、AIエンジニアの最強コスパ地図〜</title>
+      <link>https://news.tabinomichi.jp/radio/20260519_172420</link>
+      <guid isPermaLink="false">tabinomichi-radio-20260519_172420</guid>
+      <pubDate>Tue, 19 May 2026 17:24:20 +0900</pubDate>
+      <description>今夜のテック深掘りは、カーソル・コンポーザー2.5。エニースフィアが2026年5月18日に公開した自社AIコーディングエージェントの最新版を、背景・技術詳細・含意・展望の4軸で掘り下げる。初代から1.5、2、2.5と半年で4バージョン目に達したスピード感、ムーンショット・エーアイのオープンソース・キミ・ケーツーポイントゴをベースに、計算量の85%を追加学習で乗せた構造、ターミナル・ベンチ69.3%でクロード・オーパス4.7と並ぶ性能、標準価格はオーパスやジーピーティー5.5の10分の1という強烈なコスパ、セールスフォースやエヌビディアでの大規模採用事例、そしてスペースエックスとの学習計算提携やクラウドエージェント路線まで、AI支援が「労働時間そのものを削る道具」へ変わる夜の地図を描く。</description>
+      <content:encoded><![CDATA[今夜のテック深掘りは、カーソル・コンポーザー2.5。エニースフィアが2026年5月18日に公開した自社AIコーディングエージェントの最新版を、背景・技術詳細・含意・展望の4軸で掘り下げる。初代から1.5、2、2.5と半年で4バージョン目に達したスピード感、ムーンショット・エーアイのオープンソース・キミ・ケーツーポイントゴをベースに、計算量の85%を追加学習で乗せた構造、ターミナル・ベンチ69.3%でクロード・オーパス4.7と並ぶ性能、標準価格はオーパスやジーピーティー5.5の10分の1という強烈なコスパ、セールスフォースやエヌビディアでの大規模採用事例、そしてスペースエックスとの学習計算提携やクラウドエージェント路線まで、AI支援が「労働時間そのものを削る道具」へ変わる夜の地図を描く。]]></content:encoded>
+      <enclosure url="https://news.tabinomichi.jp/audio/ai/20260519_172420.mp3?v=1779179947" length="8006887" type="audio/mpeg"/>
+      <itunes:title>コンポーザー2.5 着弾の夜 〜カーソルが描く、AIエンジニアの最強コスパ地図〜</itunes:title>
+      <itunes:summary>今夜のテック深掘りは、カーソル・コンポーザー2.5。エニースフィアが2026年5月18日に公開した自社AIコーディングエージェントの最新版を、背景・技術詳細・含意・展望の4軸で掘り下げる。初代から1.5、2、2.5と半年で4バージョン目に達したスピード感、ムーンショット・エーアイのオープンソース・キミ・ケーツーポイントゴをベースに、計算量の85%を追加学習で乗せた構造、ターミナル・ベンチ69.3%でクロード・オーパス4.7と並ぶ性能、標準価格はオーパスやジーピーティー5.5の10分の1という強烈なコスパ、セールスフォースやエヌビディアでの大規模採用事例、そしてスペースエックスとの学習計算提携やクラウドエージェント路線まで、AI支援が「労働時間そのものを削る道具」へ変わる夜の地図を描く。</itunes:summary>
+      <itunes:image href="https://news.tabinomichi.jp/images/og/20260519_172420.jpg"/>
+      <itunes:duration>8:20</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AI業界 5本立ての朝 〜独占・オンプレ・スマホ・軍・宇宙〜</title>
       <link>https://news.tabinomichi.jp/radio/20260519_052546</link>

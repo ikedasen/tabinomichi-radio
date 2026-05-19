@@ -1,0 +1,625 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-05-19T08:24:20.292754+00:00",
+  "title": "コンポーザー2.5 着弾の夜 〜カーソルが描く、AIエンジニアの最強コスパ地図〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "intro",
+      "text": "こんばんは、旅の道ラジオ夜便、テック深掘り回。四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今夜もよろしくなのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今夜のテーマは「カーソル・コンポーザー2.5」。1本ガッツリ深掘りするわよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "カーソル? あの矢印のカーソルなのだ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "違う違う、エディタの名前。プログラマーがコード書くアプリね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "アプリ自体に2.5って番号付いてるのだ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "アプリじゃなくて、そのアプリに乗ってる自社AIの新バージョン。昨日5月18日に公開ホヤホヤよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "24時間も経ってない、ほぼリアルタイムなのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "じゃあまず、カーソルって会社の話から始めるわよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "お願いするのだ! ボク知らない会社なのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "運営してるのはエニースフィアっていう、アメリカのスタートアップだわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "スタートアップ、最近よく聞くのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "自社を「プログラミングの未来をやる研究所」って自称してる、ちょっと変わった会社。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "研究所? 大学みたいなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "違う、株式会社よ。ただビジョンが「コード書くこと自体の抽象度を上げる」って書いてあるの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "抽象度? 何だか難しいのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに「50行のメモから2,000行のコードを自動で書かせたい」って話だわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、40倍なのだ!? 1枚のメモが40枚の作文になる魔法なのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "その魔法の実体が、「コンポーザー」っていうカーソル自社のAIね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "自社AI…どういう意味なのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "普通のエディタは外部のAIを呼んで使うだけ。でもカーソルは自分でAIモデルも作っちゃってる。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "自前で持ってるのだ! 強そうなのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "初代コンポーザーは2025年10月、1.5が2026年2月、2が3月、そして今回の2.5が5月だわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "半年で4バージョン!? ペース速すぎなのだ!",
+      "news_index": 1,
+      "reading": "はんとしで4バージョン!?ペースはやすぎなのだ!"
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "AI業界は半年が一般業界の1年分くらいの進化、って言われるくらいね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "普通の会社の倍速で歳取るのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "で、今回の2.5の位置づけは「2からの大幅改良版」よ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "メジャーアップデートじゃないけど中身はガッツリ、ってことなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "chuuni",
+      "text": "「2の正常進化系」、ただし中身はかなり詰めてきた。じゃあ技術の話、いくわよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ベンチマーク、出てきたのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "出てる。ターミナル・ベンチっていうコマンドライン操作の評価で69.3%だわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "69%、いい数字なのか悪い数字なのか分からないのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "比較対象がある。アンソロピックのクロード・オーパス4.7が69.4%、オープンエーアイのジーピーティー5.5が82.7%。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "クロードとほぼ同じ! ジーピーティー5.5には負けてるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "でも別のスウィー・ベンチって実コードのバグ修正評価では、79.8%でジーピーティー5.5の77.8%を上回ったの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "勝った負けたが項目ごとに違うのだ!",
+      "news_index": 2,
+      "reading": "かった負けたが項目ごとに違うのだ!"
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに「最高一点突破」じゃなくて、「全体的にトップ群に並んだ」って評価ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "それが2.5の立ち位置なのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "で、ここからが面白いところ。コンポーザー2.5は、実はゼロから作ったAIじゃない。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、土台があるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "中国のムーンショット・エーアイっていう会社が出してる、オープンソースのキミ・ケーツーポイントゴをベースにしてるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "中国製の上に乗っかってるってことなのだ!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。ただし計算量の比率で見ると、ベース部分が7.5%、その上にカーソルが追加学習を85%乗せてるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "85%が後乗せ! ほぼ別物まで持ってってるのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "「単なるラッパー」でも「素のキミ」でもない、っていうのが公式の言い分ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ラッパーって何なのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "中身は他社製で、外側だけ自社で被せた包み紙、みたいな製品のことだわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "包み紙だけじゃなくて、中身も8割以上いじってる、ってことなのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、「OSSをガッツリ改造して、自社モデルに仕上げた」って読み方が一番正確だわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "仕上げ職人感あるのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "で、もう一つ今回の重要ポイントが、価格よ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "価格、上がったのだ? 下がったのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "標準は据え置きで、100万トークンあたり入力50セント、出力2.5ドル。でも高速版だけ大きく上げてる。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "高速版だけ値上げ? いくらになったのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "入力1.5ドルが3ドル、出力7.5ドルが15ドル。きっちり倍だわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ファスト、ちょうど倍になったのだ! ちょい上げじゃなく完全な値上げなのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに「ふだん使いは安く、急ぐ人からはガッツリ取る」って二段構えね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "shitazuke",
+      "text": "じゃあここから今夜のメイン、「我々一般人にどう影響するか」よ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "来たのだ! プログラマーじゃない人にも関係あるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "段階に分けて話すわね。まず本職のエンジニアと、小規模から中規模のチーム。",
+      "news_index": 3,
+      "reading": "段階に分けてはなすわね。まずほんしょくのエンジニアと、しょうきぼからちゅうきぼのチーム。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "そういう人たちが一番恩恵あるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、コンポーザー2.5は「日常のバグ修正、複数ファイル編集、テスト反復、軽中程度の機能追加」をかなり速く回せるわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "毎日の作業がサクサクってことなのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "しかも安い。標準価格はクロード・オーパス4.7やジーピーティー5.5の10分の1くらいで動くわ。",
+      "news_index": 3,
+      "reading": "しかもやすい。ひょうじゅんかかくはクロード・オーパス4.7やジーピーティー5.5のじゅうぶんのいちくらいでうごくわ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "10分の1!? ファミレスとコンビニおにぎりくらい差があるのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "性能はトップ群に並んでるのに、価格は1桁安い。ここがコスパの強烈なところね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ボクのお小遣いでもAIエンジニア雇える時代なのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "個人プランで月20ドル。学生でも手が届く範囲ね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "普段使いはコレ、デカい案件は他社、って棲み分けになるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう、レディットでも「日常作業はカーソルが上手いけど、本番環境のシビアな設計はオーパスとかジーピーティー使いたい」って声が多いわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "完璧じゃないけど、得意分野がハッキリしてるってことなのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、企業導入の話。セールスフォースは開発者の75%以上がカーソル使ってて、プルリク速度が30%以上改善してるの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "プルリク? 何の略なのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "コード変更の提案、みたいなもの。「コード書く→上司にレビューしてもらう」のサイクルが3割速くなった、って意味ね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "3割速い、これ大企業だと相当の節約なのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "エヌビディアは3万人以上の開発者が日常使用で、コミット量が3倍以上になったって発表してるわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "3倍! AIが開発の手数を3倍化してるのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "日本だとマネーフォワードが、開発者1人あたり週15〜20時間節約って報告してるわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "週20時間…ボクの夏休みの宿題、全部終わる時間なのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに、AI支援が「便利ツール」じゃなくて「労働時間そのものを削る道具」に変わりつつある、って話だわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "そりゃ企業も飛びつくのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "最後、これからの見通しね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "未来の話、好きなのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "namidame",
+      "text": "2.5に対しては「専用の技術レポートがまだ出てない」って批判もあるわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、性能だけ自慢して中身は伏せてるのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこは課題。ベンチマークも一部は自社評価だし、他社モデルの数値は自己申告含んでる、って注釈付きなのよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "公平比較じゃないとこは、正直に書いてはあるのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "で、次に見るべき動きが2つ。1つ目はスペースエックスとの計算資源の提携だわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "スペースエックス!? あのロケット会社なのだ!?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。4月にカーソルとモデル学習で組むって発表があった。電力もデータセンターも余ってる相手と組んでる、って見立てね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "ロケット会社の電力でAI鍛えるって、なんかSFみたいなのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "2つ目は「クラウドエージェント」。エディタを開かなくても、クラウド上でAIが勝手にコード書いて待ってる方向だわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ボクが寝てる間にコードが進むのだ!?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういう世界に、ここ半年で本格的に入る、ってカーソルは言ってるわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで今夜のテック深掘りは「カーソル・コンポーザー2.5」。半年で4バージョン目、性能はトップ群並、価格は10分の1、って話だったわ。",
+      "news_index": 5,
+      "reading": "というわけでこんやのテックふかぼりは「カーソル・コンポーザー2.5」。はんとしで4よんバージョンめ、せいのうはトップぐんなみ、かかくはじゅうぶんのいち、ってはなしだったわ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "本職エンジニアのかたには朗報、それ以外の人にも「AIに労働を任せる時代」が近づいてるって実感できる話なのだ!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "気になるかたは、まず無料枠で試して、自分の作業がどれくらい速くなるか測ってみるのが一番ね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "数値で見ると説得力ありそうなのだ!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "次の大ニュースがあったら、また夜便で深掘りするわ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "明日もテック追いかけるのだ、おやすみなのだー!",
+      "news_index": 5
+    }
+  ],
+  "program_description": "今夜のテック深掘りは、カーソル・コンポーザー2.5。エニースフィアが2026年5月18日に公開した自社AIコーディングエージェントの最新版を、背景・技術詳細・含意・展望の4軸で掘り下げる。初代から1.5、2、2.5と半年で4バージョン目に達したスピード感、ムーンショット・エーアイのオープンソース・キミ・ケーツーポイントゴをベースに、計算量の85%を追加学習で乗せた構造、ターミナル・ベンチ69.3%でクロード・オーパス4.7と並ぶ性能、標準価格はオーパスやジーピーティー5.5の10分の1という強烈なコスパ、セールスフォースやエヌビディアでの大規模採用事例、そしてスペースエックスとの学習計算提携やクラウドエージェント路線まで、AI支援が「労働時間そのものを削る道具」へ変わる夜の地図を描く。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20260519_172420_chars.webp",
+    "hero_rel": "/images/topics/tech_20260519_172420.webp",
+    "title": "コンポーザー2.5 着弾の夜 〜カーソルが描く、AIエンジニアの最強コスパ地図〜",
+    "companies": [
+      "Claude",
+      "NVIDIA",
+      "OpenAI",
+      "Meta"
+    ]
+  },
+  "summary_short": "オーパス並みの性能を10分の1のコストで実現したコンポーザー2.5の全貌を解剖。半年4バージョンという異常な開発速度、エヌビディア・セールスフォースへの大規模導入、スペースエックスとの計算提携まで、AIが「労働時間を削る道具」へ変質する臨界点を読み解く。"
+}
