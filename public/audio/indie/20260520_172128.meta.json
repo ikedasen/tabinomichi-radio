@@ -1,0 +1,635 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-05-20T17:21:28+09:00",
+  "title": "灰と童話の夜更け 〜赤ずきんたちが踊る侵食ローグライト〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 378.38,
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 5.05
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "こんばんは、旅の道ラジオ夜便、めたんです。",
+      "news_index": 0,
+      "start_sec": 5.05,
+      "end_sec": 8.44
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ずんだもん登場なのだー! 夜更けまでお疲れさまなのだ。",
+      "news_index": 0,
+      "start_sec": 8.59,
+      "end_sec": 12.29
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "夜遅くまで仕事してたかた、寝る前にちょっと聴いてくれてるかた、ありがとう。今夜は最近Steamで沸騰してる新作インディを1本まるごと深掘りするわよ。",
+      "news_index": 0,
+      "start_sec": 12.44,
+      "end_sec": 21.91
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "おっ、なんていうゲームなのだ?",
+      "news_index": 0,
+      "start_sec": 22.06,
+      "end_sec": 24.49
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "シンデリア。3月末に早期アクセスが始まったローグライトアクションね。",
+      "news_index": 0,
+      "start_sec": 24.64,
+      "end_sec": 29.04
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "シンデレラ? かぼちゃの馬車で敵を轢いていくゲームなのだ?",
+      "news_index": 1,
+      "start_sec": 29.19,
+      "end_sec": 33.21
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "違う。シ・ン・デ・リ・ア。発音もキャラもガラスの靴も全部別物よ。",
+      "news_index": 1,
+      "start_sec": 33.36,
+      "end_sec": 40.12
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "……ごめんなさいなのだ。",
+      "news_index": 1,
+      "start_sec": 40.27,
+      "end_sec": 41.5
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "中国語タイトルが灰烬之国、灰の王国って意味でね。魔女が世界を焼き払った後の童話世界が舞台になってるの。",
+      "news_index": 1,
+      "start_sec": 41.65,
+      "end_sec": 49.11
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "灰の王国……響きだけでもうカッコいいじゃん。",
+      "news_index": 1,
+      "start_sec": 49.26,
+      "end_sec": 52.27
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "chuuni",
+      "text": "灰塵の中で目覚める赤き影、燃え尽きた地を駆ける者は、呪いと刃の境界線で踊るのよ……。",
+      "news_index": 1,
+      "start_sec": 52.42,
+      "end_sec": 58.59
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "出たー! めたんの厨二発作なのだー! ダークファンタジーって単語に弱すぎでしょ!",
+      "news_index": 1,
+      "start_sec": 58.74,
+      "end_sec": 63.97
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "ふふ、灰の王国って言葉に脳が反応しちゃってね。",
+      "news_index": 1,
+      "start_sec": 64.12,
+      "end_sec": 67.57
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "夜の番組でこれが出るとリスナーが二度寝できなくなるのだ……。",
+      "news_index": 1,
+      "start_sec": 67.72,
+      "end_sec": 73.03
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "コホン、話戻すわね。開発元はマイエーシージースタジオっていう中国のスタジオなんだけど、面白いのが元々東方Projectの二次創作で名を上げたサークルなのよ。",
+      "news_index": 1,
+      "start_sec": 73.18,
+      "end_sec": 83.59
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "えっ、東方の同人から商業作品作るとこまで来たのだ?",
+      "news_index": 1,
+      "start_sec": 83.74,
+      "end_sec": 88.02
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そうそう。永遠消失的幻想郷っていう東方二次のアクション作品が代表作で、ヨウグァイハンターとかトウホウ・ビッグ・ビッグ・バトルみたいなタイトルも出してるわ。",
+      "news_index": 1,
+      "start_sec": 88.17,
+      "end_sec": 98.51
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "東方Projectってもう商業デビューの登竜門になってるのだ。原作勢が知ったら泣いて喜ぶレベルなのだ。",
+      "news_index": 1,
+      "start_sec": 98.66,
+      "end_sec": 106.39
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに東方二次が中華インディの修行場ってこと。今回のシンデリアはその修行を経た最新形態ね。",
+      "news_index": 1,
+      "start_sec": 106.54,
+      "end_sec": 112.98
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "パブリッシャーはどこなのだ?",
+      "news_index": 1,
+      "start_sec": 113.13,
+      "end_sec": 114.98
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "マイエーシージースタジオ本人とエヌピーシーエンタテインメントの共同体制。海外配信もちゃんと用意してリリースしてる感じね。",
+      "news_index": 1,
+      "start_sec": 115.13,
+      "end_sec": 122.95
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、肝心のゲーム本体。ジャンルは2.5Dのダークファンタジー・ローグライトアクション。明確にハデスをリスペクトした構造ね。",
+      "news_index": 1,
+      "start_sec": 123.03,
+      "end_sec": 131.11
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "あ、ハデス系なのだね。ダッシュしてスキル撃って部屋クリアして次の扉、っていうあの感じ?",
+      "news_index": 1,
+      "start_sec": 131.26,
+      "end_sec": 137.26
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、骨格はまさにそれ。差別化ポイントはエンバーフュージョンっていう独自のビルドシステムね。",
+      "news_index": 1,
+      "start_sec": 137.41,
+      "end_sec": 143.1
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "エンバーフュージョン……名前からして燃えるのだ。",
+      "news_index": 1,
+      "start_sec": 143.25,
+      "end_sec": 146.36
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "アクティブスキル100種以上、アップグレード500種以上、装備130種以上を自由に組み合わせて、自分だけのビルドを毎ラン構築するの。",
+      "news_index": 1,
+      "start_sec": 146.51,
+      "end_sec": 155.12
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "100種!? 500種!? もう数えられないのだー! 組み合わせ何通りなのだー!?",
+      "news_index": 1,
+      "start_sec": 155.27,
+      "end_sec": 162.16
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "数えなくていいわよ。要するに試行錯誤しまくれるって一行で済む話。",
+      "news_index": 1,
+      "start_sec": 162.31,
+      "end_sec": 166.9
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "そっか……ボクすぐ数えようとして爆発するクセあるのだ。",
+      "news_index": 1,
+      "start_sec": 167.05,
+      "end_sec": 171.56
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、このゲームで一番気が利いてるのが、イロージョン、侵食メカニクスね。",
+      "news_index": 1,
+      "start_sec": 171.71,
+      "end_sec": 176.36
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "侵食? 身体が削れていくシステムなのだ?",
+      "news_index": 1,
+      "start_sec": 176.51,
+      "end_sec": 179.7
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "近い。強力なアップグレードを取ると堕落メーターが溜まって、閾値を超えるとそのラン中ずっと付き纏う呪いが付与されるのよ。",
+      "news_index": 1,
+      "start_sec": 179.85,
+      "end_sec": 187.33
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "おお……強い装備を欲しがるほど呪われていくのだ。ドラクエの呪いの装備が常時発動してる世界線じゃん。",
+      "news_index": 1,
+      "start_sec": 187.48,
+      "end_sec": 194.36
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "比喩は正しい。違うのはシンデリアの呪いはそのラン限定の一発勝負って点ね。それで1個1個の選択に緊張感が乗るのよ。",
+      "news_index": 1,
+      "start_sec": 194.51,
+      "end_sec": 202.51
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "誘惑に勝てないのがテーマなのだね……ボクなら3秒で呪われるのだ。絶対強い方を取るタイプなのだ!",
+      "news_index": 1,
+      "start_sec": 202.66,
+      "end_sec": 209.99
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "ふふ、それはそれで正解よ。呪い込みで楽しむゲームだから。",
+      "news_index": 1,
+      "start_sec": 210.14,
+      "end_sec": 214.21
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "プレイアブルキャラは現在4人。ルー、リヴェット、イスドラ、ウマね。",
+      "news_index": 1,
+      "start_sec": 214.29,
+      "end_sec": 218.88
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "4人もいるのだ! どんなキャラなのだ?",
+      "news_index": 1,
+      "start_sec": 219.03,
+      "end_sec": 221.53
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ルーがスタート時の主人公で、赤ずきんモチーフの影の暗殺者。リヴェットが機械工で大砲使い、イスドラが角の生えたドラゴンナイト、ウマが森の姫の召喚士よ。",
+      "news_index": 1,
+      "start_sec": 221.68,
+      "end_sec": 231.84
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "完全に童話オマージュ揃いなのだ! 赤ずきん×ダークファンタジーの組み合わせ、刺さるかたには刺さるやつでしょ!",
+      "news_index": 1,
+      "start_sec": 231.99,
+      "end_sec": 239.84
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それね。全員美少女デザインだから、ローグライト初心者でもキャラ目当てで入れる入口の広さがあるわ。",
+      "news_index": 1,
+      "start_sec": 239.99,
+      "end_sec": 246.2
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "リスナーの皆! 入口が広いゲームはそのまま間口デカいから、迷ったら触ってみるのだー!",
+      "news_index": 1,
+      "start_sec": 246.35,
+      "end_sec": 252.2
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "Steam評価ね。早期アクセス開始から2ヶ月弱で2,164件のレビュー、うち87%が非常に好評。早期アクセスとしては破格の数字よ。",
+      "news_index": 1,
+      "start_sec": 252.35,
+      "end_sec": 262.52
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "2000件超えで87%! 完成品レベルの評価じゃん! ボクの脳内殿堂入りなのだー!",
+      "news_index": 1,
+      "start_sec": 262.67,
+      "end_sec": 270.03
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "高評価ポイントはビルドの多様性、キャラデザの魅力、それと開発の対応速度。Discordでフィードバック集めてバランス調整してるのが効いてるのよ。",
+      "news_index": 1,
+      "start_sec": 270.18,
+      "end_sec": 279.34
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "ローグライトは調整命なのだ! 開発が動くスタジオは伸びるパターンしか見たことないのだ!",
+      "news_index": 1,
+      "start_sec": 279.49,
+      "end_sec": 285.21
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ただし批判もちゃんとある。被弾時の無敵時間がない設計で、ボスの連撃で一気に持ってかれるって声が多いの。",
+      "news_index": 1,
+      "start_sec": 285.36,
+      "end_sec": 292.08
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "無敵時間なし!? ボクみたいな初心者は3秒で塵になるのだ!? 灰の王国で本物の灰になるのだ!?",
+      "news_index": 1,
+      "start_sec": 292.23,
+      "end_sec": 301.11
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "灰の王国で灰になるな。要は反射神経勝負って意味で、序盤難易度が高めに振ってあるってことよ。",
+      "news_index": 1,
+      "start_sec": 301.26,
+      "end_sec": 307.57
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "ごめんなさいなのだ……ボク言葉遊びしたかっただけなのだ。",
+      "news_index": 1,
+      "start_sec": 307.72,
+      "end_sec": 312.36
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "中盤からビルドが噛み合い出すと一気に化けるって声も多いから、序盤を乗り越えた人ほど評価が高くなる構造ね。",
+      "news_index": 1,
+      "start_sec": 312.51,
+      "end_sec": 319.26
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ハデスもそんな感じだったのだ。最初の数時間がいちばんつらいやつ。",
+      "news_index": 1,
+      "start_sec": 319.41,
+      "end_sec": 323.79
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういう意味でハデス好きにはとことん刺さる構造になってるわ。",
+      "news_index": 1,
+      "start_sec": 323.94,
+      "end_sec": 327.57
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "そういえばさっきのシンデレラ説、今思うと魔女・呪い・灰って要素入ってるからまんざらでもないじゃん。",
+      "news_index": 1,
+      "start_sec": 327.72,
+      "end_sec": 334.3
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "まあ、灰被り姫って意味では遠縁よ。でも本筋はもっと赤ずきん寄り、そこは譲らないわよ。",
+      "news_index": 1,
+      "start_sec": 334.45,
+      "end_sec": 340.67
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "……了解なのだ。ガラスの靴は二度と出さないのだ。",
+      "news_index": 1,
+      "start_sec": 340.82,
+      "end_sec": 343.78
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ということで今夜は『シンデリア』の話でした。Steamで現在10%オフのセール中、2,000円で手が出る価格帯ね。",
+      "news_index": 1,
+      "start_sec": 343.93,
+      "end_sec": 351.58
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ボクこれ気になるのだー! ハデスで脳が焼かれた身としては、侵食システムでさらに脳汁出そうなのだ!",
+      "news_index": 1,
+      "start_sec": 351.73,
+      "end_sec": 358.63
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "夜更けにじっくり潜るには丁度いいテーマよね。灰の王国に降りていくには、夜の方が似合うわ。",
+      "news_index": 1,
+      "start_sec": 358.78,
+      "end_sec": 364.65
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "今日も最後まで聴いてくれてありがとうなのだー! また夜便で会いましょうなのだー!",
+      "news_index": 1,
+      "start_sec": 364.8,
+      "end_sec": 369.62
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おやすみなさい、めたんでした。",
+      "news_index": 1,
+      "start_sec": 369.77,
+      "end_sec": 371.64
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 372.34,
+      "end_sec": 378.38
+    }
+  ],
+  "wall_time_sec": 9.13,
+  "audio_url": "/audio/indie/20260520_172128.mp3?v=1779276189"
+}
