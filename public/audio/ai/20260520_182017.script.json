@@ -1,0 +1,663 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-05-20T09:20:17.269666+00:00",
+  "title": "Googleが「リンクを返す会社」をやめる 〜AI検索とUniversal Cart、創業25年最大の刷新〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "mic",
+      "text": "こんばんは、旅の道ラジオ夜便、テックニュース深掘り回。四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今夜もテックの深掘り、楽しみなのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今夜のテーマはずばり「グーグルが『リンクを返す会社』をやめる」って話よ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、リンク返す会社やめるって、それ会社ごと畳むのだ!? まさかの解散発表なのだ!?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "落ち着いて、解散じゃないわ。検索の中身を全部変える、創業25年で最大の変革をスンダー・ピチャイが宣言したのよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "25年で最大!? それグーグル始まって以来ってことなのだ! 何があったのだ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "舞台はグーグル・アイオー2026。毎年恒例の開発者向け大会の今年版ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "アイオー、朝便でも夜便でもチラチラ話題に出てたやつなのだ。今夜は何が新しいのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今夜は別軸。グーグルが検索エンジン自体を「AI代読型」に作り変える、っていう本丸の話よ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "AI代読……ってどういうことなのだ? ボクの代わりに AI が読むってこと?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。今までの検索は「キーワード入れたらリンクが10本並ぶ」だったわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "それが普通の検索なのだ、ボクも毎日やってるのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "これからは「キーワード入れたら AI が代わりに10本読んで、答えだけ返す」に切り替わる。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、ボクが読まなくていいってこと!? 楽じゃん! でも待つのだ、なんでグーグルが急に方針変えたのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "sasayaki",
+      "text": "理由は危機感、ってのが正直なところね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "危機感? 検索の王様グーグルが、なんで危機感なのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "去年から「チャットジーピーティー・サーチ」っていう、オープンエーアイのウェブ検索が出てるの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "あ、聞いたことあるのだ! チャットジーピーティーで普通にウェブ検索できるやつなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "あれを使い始めた人が増えて、グーグルからじわじわ流れたの。AI系メディアの集計だと、検索全体の流入が前年比33%減ったって数字も出てる。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "33%減!? 3本に1本吹き飛んでるのだ! それは確かに焦るのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "もう1つ大事な数字。「AIオーバービュー」っていう、検索結果の上に AI 要約が出る機能が、もう数年前から動いてるの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ああ、検索したら上に AI のまとめが出るやつなのだ。便利でちょっと得した気分なのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "ユーザーは便利。でもメディア側は地獄で、上位ページのクリック率が58%減ったって調査も出てるわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "58%減!? メディアサイト、半分以下しかクリックされなくなったのだ!?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "業界用語で「ゼロクリック検索」って言うんだけど、要は「検索したけどリンクは踏まなかった」が全クエリの69%に膨らんでる。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "あれっ、グーグル自分のメシのタネ食ってるのだ? 検索広告で稼いでるんじゃないのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "鋭い。そこが今夜の核心ね、グーグルは自分の旧モデルを壊しながら、新しいモデルに飛び込んでる。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "自分のはしごを自分で外すスタイルなのだ……。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ「新しいモデル」って具体的に何か、技術の話に行くわよ。柱は3本ある。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "3本! どんな3本なのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "1本目、AI検索の中身。2本目、AIが買い物を代行する「ユニバーサル・カート」。3本目、ユーチューブの検索を会話型にする「アスク・ユーチューブ」よ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "おお、3本ぜんぶ違う方向なのだ。順番に教えて欲しいのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "1本目、検索コア。新しい AI 検索モードの標準モデルは「ジェミニ3.5フラッシュ」っていう軽量モデルね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ジェミニ……朝便で値段の話してたやつなのだ。確かフラッシュ系の値段、けっこう上がったって話だったのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "覚えてたの偉いわ。その軽量モデルが、検索バーの裏側でぐるぐる回って、ウェブを代読してくれる。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "1日に何億回も検索されるのだ。それ全部 AI で回せるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "回せる前提で動かす、っていう判断ね。コストは膨大でも、検索でいい体験を返さないとシェアごと失う、っていう逆算よ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "「金かかってもいい、シェア守る方が大事」って、腹くくったのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そして検索ボックス自体も作り直し。検索を「キーワード入れる窓」じゃなくて「AI エージェントの入口」として再設計したの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "エージェントの入口、ってどういう意味なのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "例えば「来週パリ行くから、その時の天気と現地のおすすめカフェと、ホテル空き状況まとめて」って、文章で投げ込める箱になったのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "それ全部 AI が裏で動いて、まとめて返してくれるのだ!? ボクの旅行計画、検索バーだけで終わるじゃん!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ2本目、ユニバーサル・カート。これがまた重い話よ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ユニバーサル・カート、カートって買い物カゴのカートなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、買い物カゴ。グーグル横断で、いろんなお店の商品を1つのカゴにまとめられるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "今までできなかったのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今までは店ごとに別カゴ。アマゾンはアマゾンのカゴ、ナイキはナイキのカゴ。これが全部1つになるわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "あ、それ便利なのだ! でも待つのだ、それだけじゃ「最大の変革」って感じしないのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう、ここからが本番。カートに入れた商品に対して、AI が裏で価格監視・在庫通知・値引き提案を全部勝手にやる仕組みなの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "へえ、AI が見張ってくれるのだ。サンタの逆みたいなのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "さらに「この商品が指定の値段以下になったら買って」って設定しておくと、AI が代わりに決済まで完結させる。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、AI がボクのお財布、勝手に開けるのだ!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "勝手じゃない。「エーピーツー」っていう AI 代理決済のプロトコルが用意されてて、ブランド指定や上限金額のガードレール付きよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ガードレール、ありがたいのだ。じゃないとボクの口座、AI が空っぽにするやつなのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "対応店舗もそろえてきた。ナイキ、セフォラ、ターゲット、ウォルマート、ウェイフェア、それにショッピファイ系のフェンティやスティーブ・マデンも。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "アメリカの大手ばっかなのだ。日本ではまだなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今夏アメリカで先行、その後グーグルメールやユーチューブにも広がる予定。日本展開はまだ未公表ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあ3本目、アスク・ユーチューブね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "対話型のユーチューブ検索。「うちの子に自転車教えるコツ」みたいな複雑な質問を投げたら、長尺・ショーツ両方からまとめた答えを返してくれる。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "今のユーチューブ検索じゃダメなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今は「自転車 教え方 子供」みたいなキーワード分解が必要。新しい検索は文章のまま、複数動画を横断して構造化した答えを返すわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "あー、ユーチューブも検索体験ごっそり変わるのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ついでに朝便でも触れた「ジェミニ・オムニ」、これがユーチューブショーツのリミックス機能にも統合されたわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "動画AIなのだ。ユーチューブで作る側にも、AI が降りてきたのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに、検索・買い物・動画、3本同時にエージェント化された。これが「25年最大の変革」の中身よ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "なるほど、3本セットで「グーグルの仕事を全部 AI が引き継ぐ」絵が見えてきたのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ今夜のメイン、「我々一般人にどう影響するか」。3つの目線で話すわよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "3つの目線! 待ってたのだ! 順番に教えて欲しいのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "1つ目、普通の使う人。検索は「リンクを選ぶ」から「答えを受け取る」に変わる、買い物は「AI に頼んで寝てる間に届く」に近づく。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "寝てる間に届く!? それ便利すぎなのだ! でも、ちょっと怖いのだ……",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "怖さの正体は「自分で選ばなくなる」こと。AI が出してきた答えが、正しいかどうか自分で確かめる動機が薄くなるの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "確かに、AI が「これが最安値」って言ったら、ボク疑わないかもなのだ……",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "2つ目、コンテンツを作る側。これは普通の人より遥かに深刻ね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "メディアとかブログ書いてる人なのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。さっき言ったクリック率58%減、トラフィック33%減、これが AI モード全展開でさらに加速する見込み。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "さらに加速!? メディア、もう半分以下なのに、もっと減るのだ!?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "アメリカではすでに「ペンスキー・メディア」っていう大手出版社が、グーグルを反トラスト法違反で訴えてるの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ペンスキー・メディア、聞き慣れないのだ。何の会社なのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ローリングストーンとかバラエティとかを抱える老舗ね。「記事のトラフィックを AI が食い潰してる」って主張してる。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ロック雑誌のとこなのだ! ガチで怒ってるのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "3つ目、イーシー業界、つまりネット通販ね。これがアマゾン対グーグルの新戦線になる。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "あれっ、アマゾンってグーグル検索とは別の話じゃないのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今までは別。アマゾンで買う人は最初からアマゾンのアプリを開いてた。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "確かに、ボクもアマゾンはアプリから直接行くのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "でもユニバーサル・カートが浸透すると、入口がグーグル検索に戻る。グーグルが「商品どこで一番安いか」を AI で代理判断する世界よ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "アマゾンの中じゃなくて、グーグルが「アマゾンとウォルマートとターゲットで一番安いの選ぶ」のだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。イーシー市場の競争軸が「品揃え」から「AI代行精度」にシフトする可能性、ってこと。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "それアマゾン、本気で殴られてるのだ……反撃するに決まってるのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ最後、これからの見通し。3ヶ月から6ヶ月で何を見ればいいかね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ウォッチポイント教えて欲しいのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "1つ目、オープンエーアイとマイクロソフトの反撃。チャットジーピーティー・サーチも当然エージェント化を急ぐはず。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "「向こうも買い物代行つけてくる」感じなのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "可能性高い。マイクロソフトはビング検索とコパイロットを抱えてるから、似た構造を組みやすい立場ね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "業界全体が「検索から決済まで」の自動化レースに入るのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "2つ目、アマゾンの防衛戦ね。自社のAI買い物エージェントをもっと前面に出すか、似た代理決済の仕組みで応戦するか、見どころよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "アマゾンの逆襲、見たいのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "3つ目、コンテンツ業界の集団訴訟。ペンスキーに続いて他の出版社も同調すれば、AI 検索の足元から揺らぐ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "メディア側の連帯次第なのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "4つ目、これが面白いとこ。エーピーツーっていう代理決済プロトコルが業界標準になるかどうか、これで「AI が買い物する」常識化が決まる。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "プロトコル、ってのが鍵を握るのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そして昨日の夜便で話したスマートグラスとセットで考えると、グーグルは「メガネで検索、AI が買い物、寝てる間に届く」までの線を全部抑えにきてる。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクの生活、グーグルの線路の上で寝てるだけになるのだ……?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこをどう距離取るか、っていうのが2026年後半のリテラシー課題ね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで今夜のテック深掘りは「グーグルがリンク返す会社をやめる」回。検索・買い物・動画、3本まとめてAI代行に切り替わる、って話だったわ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "創業25年最大の変革、自分の足元を壊しながら新天地に飛び込む賭けなのだ!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "気になるかたは、まず夏に来るユニバーサル・カートのアメリカ展開と、AIモードの精度を見るのが最短ルートよ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ボクは、グーグルに「AIに何を任せ、自分で何を選ぶか」を考え直すきっかけにするのだ!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "mic",
+      "text": "今夜の夜便はここまで。明日も大ニュースあれば、また深掘りでお会いしましょ、おやすみなさい。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "おやすみなのだー!",
+      "news_index": 5
+    }
+  ],
+  "program_description": "創業25年で最大の変革を自ら宣言したグーグル・アイオー2026を深掘り。検索コアをジェミニ3.5フラッシュに据え、リンクを返す検索からAI代読型へ。買い物はユニバーサル・カートとAI代理決済プロトコル「エーピーツー」、ユーチューブは対話型「アスク・ユーチューブ」と、3本同時にエージェント化する設計を整理した。背景にはチャットジーピーティー・サーチの侵食、AIオーバービューによる出版社トラフィック58%減の危機感あり。一般ユーザーの選択体験、出版社の広告モデル崩壊、アマゾンとのイーシー競争軸まで、グーグルの自己破壊型変革を多角的に読み解いた。",
+  "_touched_for_reading_fixes": "2026-05-20 21:30"
+}
