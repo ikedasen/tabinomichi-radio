@@ -1,0 +1,805 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-05-20T12:49:16+09:00",
+  "title": "30年越しのフリッパー 〜サターン名作ピンボールが令和に転がる〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 384.7,
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 4.64
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "こんばんは、旅の道ラジオ夜便、めたんよ。",
+      "news_index": 0,
+      "start_sec": 4.64,
+      "end_sec": 7.7
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ずんだもん登場なのだー!今夜もよろしくなのだ!",
+      "news_index": 0,
+      "start_sec": 7.85,
+      "end_sec": 11.06
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今夜はね、ちょっとしっとりめの話題。30年越しの復活劇よ。",
+      "news_index": 1,
+      "start_sec": 11.21,
+      "end_sec": 15.51
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "30年越し!?それボクがまだ枝豆としてずんだの里で揺れてた時代なのだ?",
+      "news_index": 1,
+      "start_sec": 15.66,
+      "end_sec": 21.44
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "盛りすぎ。妖精として目覚めてないだけで、枝豆時代まで遡らないで。",
+      "news_index": 1,
+      "start_sec": 21.59,
+      "end_sec": 26.25
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "…はい、なのだ。",
+      "news_index": 1,
+      "start_sec": 26.4,
+      "end_sec": 27.69
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "正体はセガサターンで1995年に出た『デジタルピンボール ラストグラディエーターズ』よ。",
+      "news_index": 1,
+      "start_sec": 27.84,
+      "end_sec": 34.07
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "ピンボール!あの銀の玉をパシパシ打って、最後に台ごと持って帰るやつなのだ?",
+      "news_index": 1,
+      "start_sec": 34.22,
+      "end_sec": 40.11
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "持って帰らないわよ。台はゲーセンに置いてくの。",
+      "news_index": 1,
+      "start_sec": 40.26,
+      "end_sec": 43.23
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "作ったのはカゼっていう日本のスタジオ。1995年6月23日発売の話題作よ。",
+      "news_index": 1,
+      "start_sec": 43.31,
+      "end_sec": 49.76
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "カゼ…名前カッコいいのだー。風邪薬のメーカーなのだ?",
+      "news_index": 1,
+      "start_sec": 49.91,
+      "end_sec": 54.39
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "風邪じゃなくて風のほうよ。当時サターンのピンボールで一世を風靡したスタジオ。",
+      "news_index": 1,
+      "start_sec": 54.54,
+      "end_sec": 59.24
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "サターンの高解像度表示と丁寧なボール挙動で、家でじっくり遊べるピンボールって評価されてたの。",
+      "news_index": 1,
+      "start_sec": 59.32,
+      "end_sec": 65.5
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "えっ、家でアーケード級!?じゃあ家にゲーセンのおじさんも一緒に住んでたのだ?",
+      "news_index": 1,
+      "start_sec": 65.65,
+      "end_sec": 71.66
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "おじさんは付いてこないわよ。あくまでアーケード級の遊び心地ね。",
+      "news_index": 1,
+      "start_sec": 71.81,
+      "end_sec": 75.87
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "要するに、家でじっくり遊べるピンボールの代表格、ってこと。",
+      "news_index": 1,
+      "start_sec": 75.95,
+      "end_sec": 80.37
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ふぇー、カゼってもうレジェンド級のピンボールメーカーなのだ。",
+      "news_index": 1,
+      "start_sec": 80.52,
+      "end_sec": 84.34
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "しかも1997年9月に、ボールの挙動を作り直した「バージョン9.7」って改良版まで出してるの。",
+      "news_index": 1,
+      "start_sec": 84.49,
+      "end_sec": 91.89
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "バージョン9.7?なんで小数なのだ?キリよく10にすればいいのだ。",
+      "news_index": 1,
+      "start_sec": 92.04,
+      "end_sec": 96.88
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "9.7の由来は実は公式にハッキリしてないのよ。物理を作り込んだ証じゃないかって言われてる、ファンの推測ね。",
+      "news_index": 1,
+      "start_sec": 97.03,
+      "end_sec": 104.35
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "あっ、わかったのだ。9.7億円かけた超大作なのだ?",
+      "news_index": 1,
+      "start_sec": 104.5,
+      "end_sec": 109.28
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "桁が銀河規模よ。ピンボールに9.7億どこ使うの。",
+      "news_index": 1,
+      "start_sec": 109.43,
+      "end_sec": 113.1
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "じゃあ銀の玉、純銀製にしたのだ?",
+      "news_index": 1,
+      "start_sec": 113.25,
+      "end_sec": 116.24
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "純銀の玉で遊んだら重すぎてフリッパーが折れるわよ。",
+      "news_index": 1,
+      "start_sec": 116.39,
+      "end_sec": 119.78
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "ともかく9.7は、ボール挙動を中心に細かくチューニングし直した版、ってことね。",
+      "news_index": 1,
+      "start_sec": 119.86,
+      "end_sec": 125.51
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、今夜の本題。このラストグラディエーターズが、2026年内にスチーム、スイッチ、スイッチ2で復活するってビサイドから発表されたの。",
+      "news_index": 1,
+      "start_sec": 125.59,
+      "end_sec": 134.82
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "えっ、マジか!30年寝てた銀の玉、令和でようやく目覚めるのだ!",
+      "news_index": 1,
+      "start_sec": 134.97,
+      "end_sec": 139.84
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "玉は寝てなかったと思うけど、そういうこと。しかもこれがちょっと技術ニュースなのよ。",
+      "news_index": 1,
+      "start_sec": 139.99,
+      "end_sec": 145.03
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "エミュレータじゃなくて「ソースコード」ベースで移植するんですって。",
+      "news_index": 1,
+      "start_sec": 145.11,
+      "end_sec": 148.9
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ソースコードベース?エミュレータとどう違うのだ?",
+      "news_index": 1,
+      "start_sec": 149.05,
+      "end_sec": 152.46
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "エミュレータはサターンのハードを丸ごと模擬するから動作が重くて遅延も乗るの。",
+      "news_index": 1,
+      "start_sec": 152.61,
+      "end_sec": 157.13
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ソースコードがあれば現代機にネイティブで移植できて、サクサク動くのよ。",
+      "news_index": 1,
+      "start_sec": 157.21,
+      "end_sec": 161.53
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "なるほどなのだ。家にサターンの幽霊を住まわせるか、サターンのDNAだけ移植するかの違いなのだ?",
+      "news_index": 1,
+      "start_sec": 161.68,
+      "end_sec": 168.86
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "今のたとえ、結構うまいわよ。要は「サターンの心を現代機に植え替える」って話ね。",
+      "news_index": 1,
+      "start_sec": 169.01,
+      "end_sec": 175.21
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "やったのだ!めたんに褒められたのだー!",
+      "news_index": 1,
+      "start_sec": 175.36,
+      "end_sec": 178.12
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "収録テーブルはオリジナルと同じ4種類。グラディエーターズ、ナイト・オブ・ザ・ローゼズ、ドラゴン・ショウダウン、ウォーロックよ。",
+      "news_index": 1,
+      "start_sec": 178.27,
+      "end_sec": 186.57
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "ナイト・オブ・ザ・ローゼズって、夜中に薔薇園でこっそり遊ぶやつなのだ?",
+      "news_index": 1,
+      "start_sec": 186.72,
+      "end_sec": 192.98
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "夜のナイトじゃなくて騎士のナイトよ。直訳すると「薔薇の騎士」。",
+      "news_index": 1,
+      "start_sec": 193.13,
+      "end_sec": 197.05
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "剣闘士、薔薇の騎士、龍、魔法使い…完全に厨二の四天王ね。",
+      "news_index": 1,
+      "start_sec": 197.13,
+      "end_sec": 202.49
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "厨二の四天王なのだ!カゼのセンス、もう国宝級なのだ!",
+      "news_index": 1,
+      "start_sec": 202.64,
+      "end_sec": 206.94
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "chuuni",
+      "text": "深淵から銀の球が転がり来る…剣闘士の血と薔薇の棘、龍の咆哮と魔の囁き…",
+      "news_index": 1,
+      "start_sec": 207.09,
+      "end_sec": 212.79
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "出たのだ!めたんの厨二スイッチ、テーブル名で発動したのだ!",
+      "news_index": 1,
+      "start_sec": 212.94,
+      "end_sec": 217.38
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ふふ、ファンタジー系の単語見ると出ちゃうのよ。ごめんなさい。",
+      "news_index": 1,
+      "start_sec": 217.53,
+      "end_sec": 221.15
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "テーブル名だけでこれなのだ。4つ全部やったら黒歴史ノート1冊書き上がるのだ。",
+      "news_index": 1,
+      "start_sec": 221.3,
+      "end_sec": 228.86
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "つまり、テーブル名のセンスも含めてカゼらしさが残ってるってことよ。",
+      "news_index": 1,
+      "start_sec": 229.01,
+      "end_sec": 233.39
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "新機能としてはオンラインランキングも実装予定。世界中の人とハイスコアを競えるの。",
+      "news_index": 1,
+      "start_sec": 233.47,
+      "end_sec": 238.88
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "30年前のテーブルで現代のガチ勢が殴り合うのだ?異種格闘技なのだ!",
+      "news_index": 1,
+      "start_sec": 239.03,
+      "end_sec": 244.9
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "格闘技じゃないけど、時代をまたいだ真剣勝負ね。古いゲームの新しい遊び方よ。",
+      "news_index": 1,
+      "start_sec": 245.05,
+      "end_sec": 250.91
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ピンボールのガチ勢って、もうおじさんになってるのだ?",
+      "news_index": 1,
+      "start_sec": 251.06,
+      "end_sec": 254.47
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "hisohiso",
+      "text": "ここだけの話、ピンボール界隈は世界中に頑固な現役勢が残っててね。",
+      "news_index": 1,
+      "start_sec": 254.62,
+      "end_sec": 260.23
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "hisohiso",
+      "text": "デジタル版でもガチでスコア掘ってるかたたちがいるのよ。",
+      "news_index": 1,
+      "start_sec": 260.31,
+      "end_sec": 263.84
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "hisohiso",
+      "text": "怖いのだ…ボクが入る隙ないのだ…",
+      "news_index": 1,
+      "start_sec": 263.99,
+      "end_sec": 266.37
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、これ京都のインディーゲームイベント「ビットサミット・パンチ」でもお披露目があるのよ。",
+      "news_index": 1,
+      "start_sec": 266.52,
+      "end_sec": 272.21
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ビットサミット・パンチ!みやこめっせなのだ?",
+      "news_index": 1,
+      "start_sec": 272.36,
+      "end_sec": 275.59
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、5月22日から24日まで、みやこめっせ。今年のテーマが「ハイインパクト」よ。",
+      "news_index": 1,
+      "start_sec": 275.74,
+      "end_sec": 282.03
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "ハイインパクトって聞くと、ボクのおなかでビッグバンが起きそうなのだ。",
+      "news_index": 1,
+      "start_sec": 282.18,
+      "end_sec": 286.77
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "おなかの天体観測はいいから。テーマの話に戻して。",
+      "news_index": 1,
+      "start_sec": 286.92,
+      "end_sec": 290.46
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "要は「限られた予算でもガツンと爪痕を残す」ってメッセージ、ね。インディーらしいテーマよ。",
+      "news_index": 1,
+      "start_sec": 290.54,
+      "end_sec": 297.27
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "でもさ、ピンボールって今ピンとこないかた、いるよね。",
+      "news_index": 1,
+      "start_sec": 297.42,
+      "end_sec": 300.93
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "いる。実物のピンボール台、街のゲーセンでもなかなかお目にかかれないでしょ。",
+      "news_index": 1,
+      "start_sec": 301.08,
+      "end_sec": 305.85
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "それなのだ。だから当時、家でじっくりピンボールが遊べるって、サターンキッズ涙だったのだ。",
+      "news_index": 1,
+      "start_sec": 306.0,
+      "end_sec": 312.09
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "つまり「失われゆく文化」を現代に持ってきてくれる、結構ありがたい話よ。",
+      "news_index": 1,
+      "start_sec": 312.24,
+      "end_sec": 317.79
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "30年前のオタクが、30年後に同じテーブルで遊べる…ロマンなのだ。",
+      "news_index": 1,
+      "start_sec": 317.94,
+      "end_sec": 323.7
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "ロマンよね。当時遊んでた人も、生まれてなかった世代も、同じスコアで競える。",
+      "news_index": 1,
+      "start_sec": 323.85,
+      "end_sec": 329.11
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "しかもオンランキング込みなのだ!父と子の頂上決戦なのだ!",
+      "news_index": 1,
+      "start_sec": 329.26,
+      "end_sec": 333.68
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "サターン世代のお父さんが、現代っ子の子供にスコアで完敗するパターンね。",
+      "news_index": 1,
+      "start_sec": 333.83,
+      "end_sec": 338.42
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "やめてあげるのだ!お父さんのプライド、銀の玉と一緒に転がり落ちるのだ!",
+      "news_index": 1,
+      "start_sec": 338.57,
+      "end_sec": 343.78
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "上手いこと言うわね。要は世代をまたぐ一台になりそう、ってこと。",
+      "news_index": 1,
+      "start_sec": 343.93,
+      "end_sec": 348.29
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "あー、あと発売日と価格は今のところ未発表。続報待ちね。",
+      "news_index": 1,
+      "start_sec": 348.37,
+      "end_sec": 352.65
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "9.7億円じゃないことだけ祈るのだ。",
+      "news_index": 1,
+      "start_sec": 352.8,
+      "end_sec": 355.89
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "またそれ言うの。",
+      "news_index": 1,
+      "start_sec": 356.04,
+      "end_sec": 357.07
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "…天丼なのだ。",
+      "news_index": 1,
+      "start_sec": 357.22,
+      "end_sec": 358.16
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そろそろお時間ね。",
+      "news_index": 1,
+      "start_sec": 358.31,
+      "end_sec": 359.6
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "今夜の話、しっとり聞いてもらえたかな。",
+      "news_index": 1,
+      "start_sec": 359.75,
+      "end_sec": 362.59
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "仕事帰りや寝る前に聴いてくれてるかた、お疲れさまでした。",
+      "news_index": 1,
+      "start_sec": 362.74,
+      "end_sec": 366.42
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボクももうお布団なのだ。フリッパー打ちながら寝るのだー。",
+      "news_index": 1,
+      "start_sec": 366.57,
+      "end_sec": 370.12
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "夢の中でも打ちすぎないようにね。じゃあまた次の夜便で。",
+      "news_index": 1,
+      "start_sec": 370.27,
+      "end_sec": 374.1
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "またなのだー!おやすみなのだ!",
+      "news_index": 1,
+      "start_sec": 374.25,
+      "end_sec": 376.3
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 377.0,
+      "end_sec": 384.7
+    }
+  ],
+  "wall_time_sec": 6.3,
+  "audio_url": "/audio/indie/20260520_124916.mp3?v=1779252596"
+}

@@ -1,0 +1,1096 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-05-20T13:33:45+09:00",
+  "title": "Googleがスマホの次に踏み込む夜 〜Gemini Sparkと、眼鏡で動くAIの輪郭〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 587.7,
+  "script_hash": "sha256:0fb910c0074e2379d99cc22cf7152b13684f8dba97c60b049fc71994f2253657",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 4.64
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "こんばんは、旅の道ラジオ夜便、テック深掘り回。四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 4.64,
+      "end_sec": 9.46
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今夜は何掘るのだ?",
+      "news_index": 0,
+      "start_sec": 9.61,
+      "end_sec": 12.98
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "グーグル・アイオー2026の本丸ね。朝便でサブスクとオムニとシンスIDは話したから、今夜は『そこじゃない方』に行くわ。",
+      "news_index": 0,
+      "start_sec": 13.13,
+      "end_sec": 21.34
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "そこじゃない方……? アイオーって他に何かあったのだ?",
+      "news_index": 0,
+      "start_sec": 21.49,
+      "end_sec": 24.98
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "2つあるのよ。スマートグラスと、ジェミニ・スパークっていう常時起動のクラウドAI秘書。両方とも『スマホの次のUI』を狙ってる発表ね。",
+      "news_index": 0,
+      "start_sec": 25.13,
+      "end_sec": 34.27
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "メガネ型AIと、消えないAI秘書!? それ朝便で全然出てこなかったのだ!",
+      "news_index": 0,
+      "start_sec": 34.42,
+      "end_sec": 39.98
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "朝便5本立てに収まらなかったから、深掘りで分けたの。今夜じっくり噛み砕くわ。",
+      "news_index": 0,
+      "start_sec": 40.13,
+      "end_sec": 45.0
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "お願いするのだー!",
+      "news_index": 0,
+      "start_sec": 45.15,
+      "end_sec": 46.49
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあまず、グーグル・アイオー2026って、そもそも何があったかから整理するわよ。",
+      "news_index": 1,
+      "start_sec": 46.64,
+      "end_sec": 52.06
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "お願いするのだ。朝便でもサクッと聞いたけど、全体像まだ掴めてないのだ。",
+      "news_index": 1,
+      "start_sec": 52.21,
+      "end_sec": 57.34
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "2026年5月14日にカリフォルニアで開幕、グーグルが毎年やってる開発者向けの大会よ。今年の目玉は大きく4つ。",
+      "news_index": 1,
+      "start_sec": 57.49,
+      "end_sec": 65.76
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "4つ……。何と何なのだ?",
+      "news_index": 1,
+      "start_sec": 65.91,
+      "end_sec": 67.93
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "サブスク3段階制、ジェミニ・オムニって動画AI、シンスIDの業界横断採用、それから今夜の主役、スパークとスマートグラスね。",
+      "news_index": 1,
+      "start_sec": 68.08,
+      "end_sec": 77.02
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "前3つが朝便で、後ろ2つが今夜なのだ!",
+      "news_index": 1,
+      "start_sec": 77.17,
+      "end_sec": 80.49
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "正解。で、この2つは別々の発表に見えて、実は『スマホの次の入口』っていう1本の軸でつながってるの。",
+      "news_index": 1,
+      "start_sec": 80.64,
+      "end_sec": 88.4
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "1本の軸!? スマホを置き換える話なのだ!?",
+      "news_index": 1,
+      "start_sec": 88.55,
+      "end_sec": 92.04
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ところでグーグル、実は10年以上前にもメガネ型デバイス出してるの。グーグル・グラス、覚えてる?",
+      "news_index": 1,
+      "start_sec": 92.19,
+      "end_sec": 98.76
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "うーん、ボク当時は生まれてないかもなのだ……。",
+      "news_index": 1,
+      "start_sec": 98.91,
+      "end_sec": 102.55
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "2013年に出して、プライバシー問題と高すぎる値段で2015年に消費者向けは撤退したのよ。約11年越しの再挑戦ね。",
+      "news_index": 1,
+      "start_sec": 102.7,
+      "end_sec": 111.25
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "11年!? それは執念なのだ!",
+      "news_index": 1,
+      "start_sec": 111.4,
+      "end_sec": 114.07
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、今回がちょっと違うのは『一人でやらない』こと。サムスンとクアルコム、両方と組んで3社共同開発なの。",
+      "news_index": 1,
+      "start_sec": 114.22,
+      "end_sec": 121.57
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "サムスンって、あの韓国のスマホ会社? クアルコムは誰?",
+      "news_index": 1,
+      "start_sec": 121.72,
+      "end_sec": 125.97
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "サムスンはスマホで世界トップシェア、クアルコムはスマホの心臓部品、エスオーシーって呼ばれる頭脳チップを作ってる米国の会社よ。",
+      "news_index": 1,
+      "start_sec": 126.12,
+      "end_sec": 134.0
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "両方ともスマホ業界の超大手じゃん! 3社揃ったらガチなのだ!",
+      "news_index": 1,
+      "start_sec": 134.15,
+      "end_sec": 138.78
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "しかもメガネ側のパートナーが、ジェントル・モンスターとワービー・パーカーって2社。",
+      "news_index": 1,
+      "start_sec": 138.93,
+      "end_sec": 143.33
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "またカタカナ増えたのだ……。何の会社なのだ?",
+      "news_index": 1,
+      "start_sec": 143.48,
+      "end_sec": 146.55
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "どっちもファッション眼鏡ブランドよ。ジェントル・モンスターは韓国発のおしゃれ系、ワービー・パーカーは米国で人気のオンライン老舗。",
+      "news_index": 1,
+      "start_sec": 146.7,
+      "end_sec": 154.49
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "テック企業じゃなくて、おしゃれ眼鏡ブランドと組んだのだ!?",
+      "news_index": 1,
+      "start_sec": 154.64,
+      "end_sec": 158.44
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこが11年前との大きな違いね。テック感を消して、ファッションで日常に溶け込ませる作戦よ。",
+      "news_index": 1,
+      "start_sec": 158.59,
+      "end_sec": 164.82
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "グーグル・グラス時代の『見るからにテック』って外見、確かに浮いてたのだ。",
+      "news_index": 1,
+      "start_sec": 164.97,
+      "end_sec": 170.17
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、ライバルは去年からのメタね。レイバンと組んでるメタ・レイバン・スマートが先行して市場で売れてるの。",
+      "news_index": 1,
+      "start_sec": 170.32,
+      "end_sec": 176.9
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "メタ、先に動いてたのだ!? グーグル、後追いになっちゃったのだ?",
+      "news_index": 1,
+      "start_sec": 177.05,
+      "end_sec": 181.65
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ技術の話に入るわよ。まずスマートグラス側から。",
+      "news_index": 2,
+      "start_sec": 181.8,
+      "end_sec": 185.38
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "うん、お願いするのだ!",
+      "news_index": 2,
+      "start_sec": 185.53,
+      "end_sec": 187.3
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "グーグルのスマートグラスはアンドロイド・エックスアールっていうOSで動くの。",
+      "news_index": 2,
+      "start_sec": 187.45,
+      "end_sec": 191.93
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "アンドロイド・エックスアール? 普通のアンドロイドと違うのだ?",
+      "news_index": 2,
+      "start_sec": 192.08,
+      "end_sec": 196.45
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "エックスアールは『エクステンデッド・リアリティ』の略で、拡張現実とか混合現実を指すジャンルよ。要は『目の前の風景にデジタル情報を重ねる』ためのOSね。",
+      "news_index": 2,
+      "start_sec": 196.6,
+      "end_sec": 207.35
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "現実の上に情報を重ねる、ってアイフォンのカメラに翻訳が出てくる、ああいう感じ?",
+      "news_index": 2,
+      "start_sec": 207.5,
+      "end_sec": 213.55
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "方向は同じ。ただ眼鏡型は『カメラを取り出さなくていい』のが違いね。",
+      "news_index": 2,
+      "start_sec": 213.7,
+      "end_sec": 218.35
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、それだけで全然違うじゃん!",
+      "news_index": 2,
+      "start_sec": 218.5,
+      "end_sec": 220.95
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "操作は『OK グーグル』って声か、フレームをタップするかの2通り。",
+      "news_index": 2,
+      "start_sec": 221.1,
+      "end_sec": 225.73
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "フレームタップって、メガネの横をトントン触る感じなのだ?",
+      "news_index": 2,
+      "start_sec": 225.88,
+      "end_sec": 229.87
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。で、まず最初に発売されるのは『オーディオグラス』。これはレンズに何も映さないタイプよ。",
+      "news_index": 2,
+      "start_sec": 230.02,
+      "end_sec": 236.09
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、映さないのだ!? じゃあメガネにする意味は?",
+      "news_index": 2,
+      "start_sec": 236.24,
+      "end_sec": 239.84
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "内蔵スピーカーとマイクとカメラだけ。目の前の本を撮影して翻訳音声を流すとか、道案内を音声で聞くとか、そういう用途ね。",
+      "news_index": 2,
+      "start_sec": 239.99,
+      "end_sec": 248.4
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ほぼ無線イヤホンプラスカメラ、って感じなのだ?",
+      "news_index": 2,
+      "start_sec": 248.55,
+      "end_sec": 251.88
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "正確よ。レンズに情報を映す『ディスプレイグラス』はその次のステップ、第2弾扱い。",
+      "news_index": 2,
+      "start_sec": 252.03,
+      "end_sec": 257.99
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "段階を踏むのだ。",
+      "news_index": 2,
+      "start_sec": 258.14,
+      "end_sec": 259.52
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ここがポイント。アイオーエスにも対応するの。",
+      "news_index": 2,
+      "start_sec": 259.67,
+      "end_sec": 262.38
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、グーグル製なのにアイフォンでも使えるのだ!?",
+      "news_index": 2,
+      "start_sec": 262.53,
+      "end_sec": 266.06
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "メタ・レイバンも一応アイフォンで動くけど、グーグルは公式で対応を謳ってる。世界中に普及させたいなら正しい判断ね。",
+      "news_index": 2,
+      "start_sec": 266.21,
+      "end_sec": 274.0
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "アンドロイドユーザーだけじゃ規模が足りないのだ。",
+      "news_index": 2,
+      "start_sec": 274.15,
+      "end_sec": 277.02
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "次にジェミニ・スパーク。これがアイオー2026のもう1つの目玉よ。",
+      "news_index": 2,
+      "start_sec": 277.17,
+      "end_sec": 281.74
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "いよいよ秘書AIの方、来るのだ!",
+      "news_index": 2,
+      "start_sec": 281.89,
+      "end_sec": 284.31
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ジェミニ・スパークは『クラウド常時起動エージェント』って呼ばれてて、ユーザーのスマホがオフでも、ジーメールやドックスを横断してタスクをこなすの。",
+      "news_index": 2,
+      "start_sec": 284.46,
+      "end_sec": 293.19
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "スマホ切っててもなのだ!? どこで動いてるのだ?",
+      "news_index": 2,
+      "start_sec": 293.34,
+      "end_sec": 296.61
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "グーグルのクラウド、つまりグーグルが持ってる巨大なデータセンターで動くの。だからスマホの電源とは無関係。",
+      "news_index": 2,
+      "start_sec": 296.76,
+      "end_sec": 303.29
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "待ってのだ。じゃあボクが寝てる間も、勝手に働いてるってこと?",
+      "news_index": 2,
+      "start_sec": 303.44,
+      "end_sec": 307.81
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ありえるわね。例えば『明日朝までに3つの会議の議事録を要約して、関係者にメール下書きしておいて』って寝る前に指示して、朝起きたら全部仕上がってる、って絵。",
+      "news_index": 2,
+      "start_sec": 307.96,
+      "end_sec": 318.69
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、社畜の友達なのだ!?",
+      "news_index": 2,
+      "start_sec": 318.84,
+      "end_sec": 321.28
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "それ言うと角立つけど、まあ近い。で、これにアクセスできるのはサブスク最上位のウルトラだけ。月99.99ドル。",
+      "news_index": 2,
+      "start_sec": 321.43,
+      "end_sec": 328.74
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "100ドル!? それ月1万5,000円じゃん!",
+      "news_index": 2,
+      "start_sec": 328.89,
+      "end_sec": 331.86
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあここからが今夜のメイン、『我々一般人にどう影響するか』ね。",
+      "news_index": 3,
+      "start_sec": 332.01,
+      "end_sec": 336.64
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "来たのだ! ボクの生活、何変わるのだ!?",
+      "news_index": 3,
+      "start_sec": 336.79,
+      "end_sec": 339.83
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "まずスマートグラス側ね。買うか? の判断軸を一緒に整理するわよ。",
+      "news_index": 3,
+      "start_sec": 339.98,
+      "end_sec": 344.54
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクは正直、メガネ慣れてないのだ。重いし、汗で滑るのだ……。",
+      "news_index": 3,
+      "start_sec": 344.69,
+      "end_sec": 349.24
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこが業界全体の最大の壁なのよ。『1日中かけていたいか?』っていう習慣の問題。",
+      "news_index": 3,
+      "start_sec": 349.39,
+      "end_sec": 355.38
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "メタ・レイバンも、買った人がずっとかけてるかは別問題なのだ?",
+      "news_index": 3,
+      "start_sec": 355.53,
+      "end_sec": 361.4
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "実際メタの公表数字を見ると、出荷は伸びてるけど常用率はまだ3割前後ってデータが出てる。買って試して、しまっちゃう人が多いの。",
+      "news_index": 3,
+      "start_sec": 361.55,
+      "end_sec": 370.15
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "やっぱり……。ボクみたいに『重いから外したい』ってなるのだ。",
+      "news_index": 3,
+      "start_sec": 370.3,
+      "end_sec": 374.4
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "だからファッションブランドと組むの、すごく合理的なのよ。『眼鏡として続けて使える』物を作らないと、技術だけ良くても負ける。",
+      "news_index": 3,
+      "start_sec": 374.55,
+      "end_sec": 382.21
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "テック企業が初めて『おしゃれ』を真面目に考えてる感じなのだ。",
+      "news_index": 3,
+      "start_sec": 382.36,
+      "end_sec": 386.66
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "次にスパーク側。これが面白いのは、スマホの存在意義を揺さぶる構造なの。",
+      "news_index": 3,
+      "start_sec": 386.81,
+      "end_sec": 391.74
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "スマホの意味、揺さぶる?",
+      "news_index": 3,
+      "start_sec": 391.89,
+      "end_sec": 393.82
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "考えてみて。スパークが寝てる間も動いてくれるなら、朝『何が来てるか』をスマホで確認する必要が薄れるでしょ。",
+      "news_index": 3,
+      "start_sec": 393.97,
+      "end_sec": 401.43
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "待ってのだ、スマホ見る必要なくなるって、グーグル的に良いのだ?",
+      "news_index": 3,
+      "start_sec": 401.58,
+      "end_sec": 406.21
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "鋭いところ突くわね。グーグル収益はスマホ広告依存だから、本来は危ない一手なのよ。",
+      "news_index": 3,
+      "start_sec": 406.36,
+      "end_sec": 411.89
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあなんで踏み込んだのだ?",
+      "news_index": 3,
+      "start_sec": 412.04,
+      "end_sec": 413.92
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "アンドロイドOS自体を握ってるから、UIそのものを作り変えにいく賭けに出てる、って読み筋ね。負ければ広告収入も食われるけど、勝てば『次の入口』を独占できる。",
+      "news_index": 3,
+      "start_sec": 414.07,
+      "end_sec": 424.98
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "リスク取ってでも『次の入口』を確保したいのだ。",
+      "news_index": 3,
+      "start_sec": 425.13,
+      "end_sec": 428.58
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "クリエイター目線も話すわね。ジェミニ・オムニで動画編集が会話化、シンスIDで出所証明、スパークでバックグラウンド作業。全部つながってるの。",
+      "news_index": 3,
+      "start_sec": 428.73,
+      "end_sec": 438.13
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "『編集して保存して公開準備』を全部AIに任せて、人間は最終確認だけのフローになるのだ?",
+      "news_index": 3,
+      "start_sec": 438.28,
+      "end_sec": 445.61
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "2026年中にそこまで来る可能性、十分あると思う。アドビとかランウェイみたいな動画ツール側は対応急ぐはずよ。",
+      "news_index": 3,
+      "start_sec": 445.76,
+      "end_sec": 453.47
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "業界全部が同時に動くのだ……。",
+      "news_index": 3,
+      "start_sec": 453.62,
+      "end_sec": 455.86
+    },
+    {
+      "index": 84,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "もう1つ、競合の話。オープンエーアイとアンソロピックは『モデル単体』で戦ってるけど、グーグルは『デバイスプラスクラウドプラスサブスク』のセットで攻めてる。",
+      "news_index": 3,
+      "start_sec": 456.01,
+      "end_sec": 465.77
+    },
+    {
+      "index": 85,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "土俵が違うのだ。",
+      "news_index": 3,
+      "start_sec": 465.92,
+      "end_sec": 467.32
+    },
+    {
+      "index": 86,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。だから他社が反応するなら、ハードを持ってるアップルかサムスンが先に動くと思う。アップルはビジョン・プロを眼鏡型に寄せる検討中、ってウワサが既に出てる。",
+      "news_index": 3,
+      "start_sec": 467.47,
+      "end_sec": 477.6
+    },
+    {
+      "index": 87,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "業界がぐらっと動く感じなのだ。",
+      "news_index": 3,
+      "start_sec": 477.75,
+      "end_sec": 480.08
+    },
+    {
+      "index": 88,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ最後、展望ね。何を見ればいいか。",
+      "news_index": 4,
+      "start_sec": 480.23,
+      "end_sec": 482.98
+    },
+    {
+      "index": 89,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "いつから買えるのだ?",
+      "news_index": 4,
+      "start_sec": 483.13,
+      "end_sec": 484.6
+    },
+    {
+      "index": 90,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "スマートグラスのオーディオ版は2026年秋後半、つまり10月から11月の予定。価格はまだ未公開。",
+      "news_index": 4,
+      "start_sec": 484.75,
+      "end_sec": 491.89
+    },
+    {
+      "index": 91,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "あと5、6ヶ月、思ったより近いのだ!",
+      "news_index": 4,
+      "start_sec": 492.04,
+      "end_sec": 495.06
+    },
+    {
+      "index": 92,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ディスプレイ版はその先、おそらく2027年以降ね。スパークはウルトラ加入者向けに既に提供が始まってる。",
+      "news_index": 4,
+      "start_sec": 495.21,
+      "end_sec": 502.32
+    },
+    {
+      "index": 93,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ウルトラ月100ドルは厳しいけど、いつかプロやプラスにも降りてくるのだ?",
+      "news_index": 4,
+      "start_sec": 502.47,
+      "end_sec": 507.25
+    },
+    {
+      "index": 94,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "グーグルの過去パターン見ると、半年から1年で下位プランに段階的に降りる傾向ね。我々が触れるのは早くて2026年末から2027年春くらい。",
+      "news_index": 4,
+      "start_sec": 507.4,
+      "end_sec": 517.32
+    },
+    {
+      "index": 95,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "待てる範囲なのだ。",
+      "news_index": 4,
+      "start_sec": 517.47,
+      "end_sec": 518.8
+    },
+    {
+      "index": 96,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ウォッチポイントを3つ挙げとくわね。1つ目、メタの反応。レイバン・スマートに新機能をかぶせてくるはず。",
+      "news_index": 4,
+      "start_sec": 518.95,
+      "end_sec": 525.26
+    },
+    {
+      "index": 97,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "2つ目は?",
+      "news_index": 4,
+      "start_sec": 525.41,
+      "end_sec": 526.42
+    },
+    {
+      "index": 98,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "2つ目はアップル。ビジョン・プロを縮小して眼鏡型に寄せるか、別ラインを立てるか。3つ目はサムスンが『グーグル経由ではなく独自』でも出すかどうか。",
+      "news_index": 4,
+      "start_sec": 526.57,
+      "end_sec": 536.21
+    },
+    {
+      "index": 99,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "同盟組んでる相手と裏では競合、って構図なのだ?",
+      "news_index": 4,
+      "start_sec": 536.36,
+      "end_sec": 540.2
+    },
+    {
+      "index": 100,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "テック業界では普通よ。",
+      "news_index": 4,
+      "start_sec": 540.35,
+      "end_sec": 542.03
+    },
+    {
+      "index": 101,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで今夜のテック深掘りは『グーグルがスマホの次に踏み込む夜』。スマートグラスとジェミニ・スパーク、2つの発表が同じ軸でつながってた、って話だったわ。",
+      "news_index": 5,
+      "start_sec": 542.11,
+      "end_sec": 552.28
+    },
+    {
+      "index": 102,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "メガネ型AIと、消えないAI秘書。両方とも『スマホ依存をずらす』方向なのだ。",
+      "news_index": 5,
+      "start_sec": 552.43,
+      "end_sec": 558.41
+    },
+    {
+      "index": 103,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "気になるかたは、まずは2026年秋の発売情報を要チェック。価格次第で『買う人』と『見送る人』の判断が分かれそうね。",
+      "news_index": 5,
+      "start_sec": 558.56,
+      "end_sec": 567.27
+    },
+    {
+      "index": 104,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kanashimi",
+      "text": "ボクは……メガネだけは買ってから後悔したくないのだ。",
+      "news_index": 5,
+      "start_sec": 567.42,
+      "end_sec": 571.02
+    },
+    {
+      "index": 105,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "試着できる店舗が増えるはずだから、慌てなくていいわよ。",
+      "news_index": 5,
+      "start_sec": 571.17,
+      "end_sec": 574.53
+    },
+    {
+      "index": 106,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "次の big news、また夜便で深掘ってほしいのだ! おやすみなのだー!",
+      "news_index": 5,
+      "start_sec": 574.68,
+      "end_sec": 579.29
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 579.99,
+      "end_sec": 587.7
+    }
+  ],
+  "wall_time_sec": 14.09,
+  "audio_url": "/audio/ai/20260520_133345.mp3?v=1779252586"
+}

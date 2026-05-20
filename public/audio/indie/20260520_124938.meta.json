@@ -1,0 +1,705 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-05-20T12:49:38+09:00",
+  "title": "ブライトンに眠る道化師 〜1985年、シンキングラビットの密室サーカス〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 345.05,
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 8.19
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "旅の道ラジオへようこそなのだ、パーソナリティのずんだもんなのだー！",
+      "news_index": 0,
+      "start_sec": 8.19,
+      "end_sec": 12.66
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "またまた、あーしが担当するっすよー！今回のテーマは1985年に出たディスクミステリーの傑作、『道化師殺人事件』っす！",
+      "news_index": 0,
+      "start_sec": 12.81,
+      "end_sec": 21.32
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "1985年って……ボク、生まれる前の前の前くらいなのだ？",
+      "news_index": 0,
+      "start_sec": 21.47,
+      "end_sec": 26.67
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "先輩、それ盛り過ぎっすw 普通に40年前っす、生まれる前一回でじゅうぶんっすよ。",
+      "news_index": 0,
+      "start_sec": 26.82,
+      "end_sec": 32.05
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃ、いったいどんなゲームなのだ？",
+      "news_index": 1,
+      "start_sec": 32.2,
+      "end_sec": 34.6
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "シンキングラビットってメーカーが出した推理アドベンチャーっす。あーし的にはガチ名作枠っすね。",
+      "news_index": 1,
+      "start_sec": 34.75,
+      "end_sec": 40.22
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "シンキングラビット？ボク、ウサギが推理してる絵しか浮かばないのだ。",
+      "news_index": 1,
+      "start_sec": 40.37,
+      "end_sec": 44.85
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "兵庫の宝塚にあったソフトハウスっす！実はあの『倉庫番』作ったとこなんすよ！",
+      "news_index": 1,
+      "start_sec": 45.0,
+      "end_sec": 50.34
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "倉庫番って、ウサギの代わりに箱押すゲームなのだ？",
+      "news_index": 1,
+      "start_sec": 50.49,
+      "end_sec": 54.33
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "押すのは人間っす！要するに、パズル屋がガチ推理に殴り込んだ会社っすね。",
+      "news_index": 1,
+      "start_sec": 54.48,
+      "end_sec": 59.38
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "箱押しから殺人事件って、振れ幅えぐすぎなのだ。",
+      "news_index": 1,
+      "start_sec": 59.53,
+      "end_sec": 63.44
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "それなっす、パズルの腕で『手がかりを噛み合わせる』方向に進化したっす。",
+      "news_index": 1,
+      "start_sec": 63.59,
+      "end_sec": 68.47
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、舞台はどこの話なのだ？",
+      "news_index": 1,
+      "start_sec": 68.62,
+      "end_sec": 70.98
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "1932年の英国、ロンドンから南へ50マイルの港町ブライトンっす。サーカス団の興行中に道化師がぶっ殺される話っすね。",
+      "news_index": 1,
+      "start_sec": 71.13,
+      "end_sec": 80.09
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "1932年って、第一次と第二次の世界大戦の谷間あたりなのだ？",
+      "news_index": 1,
+      "start_sec": 80.24,
+      "end_sec": 87.35
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そっす、戦間期の英国っすね。霧の英国と海辺のサーカス、絵的にもエモい組み合わせっす。",
+      "news_index": 1,
+      "start_sec": 87.5,
+      "end_sec": 93.74
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "ピエロが死ぬってこと？ボク、ピエロちょっと苦手なのだ……",
+      "news_index": 1,
+      "start_sec": 93.89,
+      "end_sec": 97.57
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "あーしも苦手っす。パッケージのピエロ絵がガチで怖くて、子ども時代は伏せて棚に置いてたっす。",
+      "news_index": 1,
+      "start_sec": 97.72,
+      "end_sec": 103.82
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "被害者の名前は何なのだ？",
+      "news_index": 1,
+      "start_sec": 103.97,
+      "end_sec": 106.21
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "シャルル・デュボワっす！サーカスの花形道化師っすよ。",
+      "news_index": 1,
+      "start_sec": 106.36,
+      "end_sec": 109.95
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "シャルル・デュボワって、なんかフランス料理のフルコース出てきそうな名前なのだ。",
+      "news_index": 1,
+      "start_sec": 110.1,
+      "end_sec": 115.43
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "先輩、それシェフと混ぜてないっすかw コースじゃなくてナイフで一突きされたかたっす。",
+      "news_index": 1,
+      "start_sec": 115.58,
+      "end_sec": 120.27
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "殺し方はどうやってだったのだ？",
+      "news_index": 1,
+      "start_sec": 120.42,
+      "end_sec": 122.64
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "シャワー馬車の中で、背後から心臓を一突きっす。武器はナイフっすね。",
+      "news_index": 1,
+      "start_sec": 122.79,
+      "end_sec": 127.48
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "シャワー馬車って、馬がシャワー浴びる馬車なのだ？",
+      "news_index": 1,
+      "start_sec": 127.63,
+      "end_sec": 130.78
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "馬じゃなくて人間が浴びるっす、サーカス団の移動式シャワー室っすよ。",
+      "news_index": 1,
+      "start_sec": 130.93,
+      "end_sec": 135.12
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "馬車にシャワー、想像つかないのだー、ボクの脳がぐるぐるなのだ。",
+      "news_index": 1,
+      "start_sec": 135.27,
+      "end_sec": 140.75
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに『お風呂屋さんが車輪付きで巡業してる』感じっす、画像検索してほしいっす。",
+      "news_index": 1,
+      "start_sec": 140.9,
+      "end_sec": 146.76
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、プレイヤーは何をするのだ？",
+      "news_index": 1,
+      "start_sec": 146.91,
+      "end_sec": 149.34
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "ロンドン警視庁、スコットランド・ヤードから派遣された刑事になって、証拠集めて容疑者を絞り込んでくっす！",
+      "news_index": 1,
+      "start_sec": 149.49,
+      "end_sec": 156.35
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "操作はどんな感じなのだ？",
+      "news_index": 1,
+      "start_sec": 156.5,
+      "end_sec": 158.45
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "名詞と動詞をキーボードで打ち込むコマンド入力式っす。『ナイフ・調べる』みたいなノリっすね。",
+      "news_index": 1,
+      "start_sec": 158.6,
+      "end_sec": 164.61
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "つむぎ・ハグする、って打ったら何か起きるのだ？",
+      "news_index": 1,
+      "start_sec": 164.76,
+      "end_sec": 168.42
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "shirake",
+      "text": "……先輩。",
+      "news_index": 1,
+      "start_sec": 168.57,
+      "end_sec": 169.43
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "な、なんでもないのだ……ごめんなさいなのだ……",
+      "news_index": 1,
+      "start_sec": 169.58,
+      "end_sec": 173.52
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "コホン。要するに、ちゃんと推理できないと一歩も進まない硬派ADVっす。",
+      "news_index": 1,
+      "start_sec": 173.67,
+      "end_sec": 178.55
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "総当たりじゃ無理ってこと？単語の組み合わせ、無限にありそうなのだ。",
+      "news_index": 1,
+      "start_sec": 178.7,
+      "end_sec": 183.61
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "無限ではないっすけど、閃きが要るっす。『これとこれを噛み合わせたら』ってハマる瞬間がガチで気持ちいいっす。",
+      "news_index": 1,
+      "start_sec": 183.76,
+      "end_sec": 190.22
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "それ、現代のポイントクリックADVよりハードル高くないのだ？",
+      "news_index": 1,
+      "start_sec": 190.37,
+      "end_sec": 194.81
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "ハードル高いっすよ！要するに自分の頭で殴り合うゲームっす！",
+      "news_index": 1,
+      "start_sec": 194.96,
+      "end_sec": 198.84
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "作った代表のかたの名前は分かるのだ？",
+      "news_index": 1,
+      "start_sec": 198.99,
+      "end_sec": 201.8
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "今林宏行っていうかたっす。倉庫番作った張本人で、この『道化師』のシナリオもこのかたの担当っす。",
+      "news_index": 1,
+      "start_sec": 201.95,
+      "end_sec": 209.21
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "じゃあ、箱押しの脳みそでミステリーを組み立てたかたなのだね。",
+      "news_index": 1,
+      "start_sec": 209.36,
+      "end_sec": 213.37
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "それなっす！パズル屋の血が、手がかりの噛み合わせに全振りされてるっす！",
+      "news_index": 1,
+      "start_sec": 213.52,
+      "end_sec": 218.05
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "最初に出たのは何の機種なのだ？",
+      "news_index": 1,
+      "start_sec": 218.2,
+      "end_sec": 220.5
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "1985年3月にPC-9801で初出っす。価格は7,800円っすね。",
+      "news_index": 1,
+      "start_sec": 220.65,
+      "end_sec": 227.2
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "7,800円って、当時の相場としては高いのだ？安いのだ？",
+      "news_index": 1,
+      "start_sec": 227.35,
+      "end_sec": 233.56
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ビジネス機向けADVとしては妥当ラインっす。要するに、大人のお小遣い狙いの価格帯っすね。",
+      "news_index": 1,
+      "start_sec": 233.71,
+      "end_sec": 239.75
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "他の機種にも出てるのだ？",
+      "news_index": 1,
+      "start_sec": 239.9,
+      "end_sec": 241.77
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "翌1986年春にPC-8801版、その後MZ-2500版、1988年にはBGM付きでX68000版も出てるっす！",
+      "news_index": 1,
+      "start_sec": 241.92,
+      "end_sec": 253.4
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "X68000のBGM版って、ガチ勢の憧れポジなのだ？",
+      "news_index": 1,
+      "start_sec": 253.55,
+      "end_sec": 258.62
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そっす、当時のオタク垂涎の決定版っすー。",
+      "news_index": 1,
+      "start_sec": 258.77,
+      "end_sec": 261.76
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "評価としてはどうだったのだ？",
+      "news_index": 1,
+      "start_sec": 261.91,
+      "end_sec": 263.92
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "ガチ名作扱いっす！シナリオが二転三転して、終盤で伏線がドカドカ繋がるタイプっす。",
+      "news_index": 1,
+      "start_sec": 264.07,
+      "end_sec": 269.89
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "それ、サウンドノベルでよくあるどんでん返しのご先祖なのだね。",
+      "news_index": 1,
+      "start_sec": 270.04,
+      "end_sec": 274.56
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに、サウンドノベル前夜のミステリADVっす。今でも語り継がれてるっす。",
+      "news_index": 1,
+      "start_sec": 274.71,
+      "end_sec": 279.87
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "中身めっちゃ気になるけど、ネタバレされたら泣くのだ……",
+      "news_index": 1,
+      "start_sec": 280.02,
+      "end_sec": 284.41
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "もちろん犯人もトリックも言わないっすよ！あーしそんな野暮じゃないっす！",
+      "news_index": 1,
+      "start_sec": 284.56,
+      "end_sec": 288.57
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ところで、今でも遊べるのだ？",
+      "news_index": 1,
+      "start_sec": 288.72,
+      "end_sec": 291.02
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "それなっす！2026年5月14日にEGGコンソールでPC-8801版がNintendo Switch向けに配信開始されたばっかなんすよ、税込880円、今が旬っす！",
+      "news_index": 1,
+      "start_sec": 291.17,
+      "end_sec": 303.24
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "えっ、ガチで今買えるのだ！オタクくん、これは試すしかないのだ！",
+      "news_index": 1,
+      "start_sec": 303.39,
+      "end_sec": 307.7
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "ピエロが大丈夫なオタクくんは特に必修っす！霧のブライトンで一晩過ごしてみてほしいっす！",
+      "news_index": 1,
+      "start_sec": 307.85,
+      "end_sec": 313.48
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "つむぎ、今回もガチでマニア成分濃かったのだ。",
+      "news_index": 0,
+      "start_sec": 313.63,
+      "end_sec": 316.91
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "へへ、サークルじゃ絶対できない話なんで、あーし的にはガス抜きっす……",
+      "news_index": 0,
+      "start_sec": 317.06,
+      "end_sec": 321.73
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "ボクも1932年のブライトン、ちょっと行ってみたくなったのだ。",
+      "news_index": 0,
+      "start_sec": 321.88,
+      "end_sec": 326.33
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "ピエロ恐怖症のオタクくんも、勇気あったらパッケージだけでも見てほしいっす！",
+      "news_index": 0,
+      "start_sec": 326.48,
+      "end_sec": 330.97
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "それじゃ、また次の旅の道ラジオで会いましょうなのだー！",
+      "news_index": 0,
+      "start_sec": 331.12,
+      "end_sec": 334.67
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "会いましょうっす！またっすー！",
+      "news_index": 0,
+      "start_sec": 334.82,
+      "end_sec": 336.64
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 337.34,
+      "end_sec": 345.05
+    }
+  ],
+  "wall_time_sec": 5.69,
+  "audio_url": "/audio/indie/20260520_124938.mp3?v=1779252591"
+}
