@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-05-21T21:08:43.704261",
+  "generated_at": "2026-05-21T21:16:11.908851",
   "episodes": [
+    {
+      "episode_id": "20260521_203211",
+      "profile": "ai",
+      "title": "AIが汎用を捨てる春 〜Sora撤退・Claude Code躍進、AGI仮説の逆転〜",
+      "generated_at": "2026-05-21T20:32:11+09:00",
+      "duration_sec": 584.99,
+      "audio_url": "/audio/ai/20260521_203211.mp3?v=1779365771",
+      "meta_url": "/audio/ai/20260521_203211.meta.json",
+      "script_url": "/audio/ai/20260521_203211.script.json",
+      "audio_size_mb": 8.93,
+      "featured_game": {
+        "image_rel": "/images/topics/tech_20260521_203211_chars.webp?v=1779364884",
+        "hero_rel": "/images/topics/tech_20260521_203211.webp?v=1779364883",
+        "title": "AIが汎用を捨てる春 〜Sora撤退・Claude Code躍進、AGI仮説の逆転〜",
+        "companies": [
+          "Claude",
+          "OpenAI",
+          "Google",
+          "Gemini",
+          "X"
+        ],
+        "screenshot_rels": []
+      },
+      "program_description": "2026年春、AI業界が静かに大転換。背景セクションでは「広く浅い汎用モデルこそAGIへの道」という長年の業界仮説と、ここ半年で「狭く深く特化したら汎用性が副産物として出てきた」という新仮説の対立を整理。技術詳細ではSora動画アプリのshutdownとディズニー10億ドル提携崩壊、OpenAIの機密IPO申請とCodex集中戦略、Claude Codeの躍進を支えるドライバー・ワーカー運用パターンを解説。含意ではエンジニア、一般ユーザー、業界構造それぞれへの影響を多角的に考察。展望では2026後半から2027にかけて見るべき3つのチェックポイントを提示。Google構造的リスクと、特化スタートアップ優位の時代を落ち着いたトーンで掘り下げます。",
+      "summary_short": "汎用こそAGIへの道」という業界の定説が静かに崩れ始めた2026年春。Sora撤退とClaude Code躍進を軸に、特化型AIが汎用性を副産物として生む新仮説の台頭と、エンジニア・業界構造への影響を冷静に読み解く。"
+    },
     {
       "episode_id": "20260521_172216",
       "profile": "indie",
