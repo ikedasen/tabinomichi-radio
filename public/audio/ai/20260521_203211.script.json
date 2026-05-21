@@ -424,6 +424,72 @@
     },
     {
       "speaker": "metan",
+      "tone": "niyari",
+      "text": "クロード・コード躍進の裏で、対照的に方向を見誤った会社がエックスエーアイね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "エックスエーアイ? イーロン・マスクの会社なのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、グロクってチャット AI を出してる。けどオープンエーアイ・アンソロピック・グーグルと同じ「汎用 AI」路線で戦ってる。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "同じ土俵だと、後発は不利じゃないのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "実はね、エックスエーアイには他社にない決定的なデータ資産があったの。エックス、旧ツイッターのフィード全体。リアルタイム流行、ミーム、画像、動画、エンゲージメントデータ、全部独占で持ってる。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "それ強そう! オープンエーアイにもアンソロピックにも無いやつ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "本来なら、エックス・ネイティブ創作 AI、SNS クリエイター運用 AI、っていう \"特化軸\" で独走できたはずなのよ。汎用競争に参戦せず、エックスの強みを最大化する方向。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも今はどうなってるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "汎用モデルとしては OpenAI / Anthropic に対して二番手以下、エックス内ではユーザー数だけ多いけどガチ用途では選ばれない、特化軸ゼロの中途半端なポジション。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "強みを活かせなかった、ってことなのだ……。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "これも「持っていた特化資産を使わず、汎用路線に乗っかると勝てない」っていう、今夜の主題の別バージョンね。エックスエーアイが方向性を再検討するかどうか、業界の見どころよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
       "tone": "kamera",
       "text": "じゃあここから今夜のメイン、「我々一般人にどう影響するか」よ。",
       "news_index": 3,
@@ -488,21 +554,20 @@
     },
     {
       "speaker": "metan",
-      "tone": "normal",
-      "text": "動画AIは当面、おもちゃの域から出ない可能性が高い。ソラ撤退はその象徴。",
+      "tone": "niyari",
+      "text": "動画 AI 全体がおもちゃ、って意味じゃないわよ。汎用おもちゃ路線 (= Sora) は失敗、でもエンタメ特化型 (= バイトダンスのシーダンス 2) はプロユースで伸びてる。\"狭く深く\" の構造はここでも当てはまる。",
       "news_index": 3
     },
     {
       "speaker": "zunda",
-      "tone": "shock",
-      "text": "じゃあ動画AIで遊んでも、未来は無いのだ?",
-      "news_index": 3,
-      "reading": "じゃあどうがエーアイであそんでも、みらいはないのだ?"
+      "tone": "kangae",
+      "text": "シーダンス 2 ってどんなのなのだ?",
+      "news_index": 3
     },
     {
       "speaker": "metan",
       "tone": "normal",
-      "text": "「楽しい」用途は残るけど、「お金を生むサービス」としては縮小、って意味ね。",
+      "text": "中国系のエンタメ特化動画 AI。短尺アニメ、PV、MV、ゲーム OP みたいな商業利用に最適化されてて、汎用 Veo より実用面で勝ってる、って評価。プロワークフローへの食い込み方が違うの。",
       "news_index": 3
     },
     {
