@@ -1,6 +1,77 @@
 {
-  "generated_at": "2026-05-21T11:14:55.070910",
+  "generated_at": "2026-05-21T19:48:51.601454",
   "episodes": [
+    {
+      "episode_id": "20260521_172216",
+      "profile": "indie",
+      "title": "セレステ・ブルーの行方 〜2006年冬、消えた同人ノベルの面影〜",
+      "generated_at": "2026-05-21T17:22:16+09:00",
+      "duration_sec": 456.6,
+      "audio_url": "/audio/indie/20260521_172216.mp3?v=1779360527",
+      "meta_url": "/audio/indie/20260521_172216.meta.json",
+      "script_url": "/audio/indie/20260521_172216.script.json",
+      "audio_size_mb": 6.97,
+      "featured_game": {
+        "app_id": null,
+        "vndb_id": "v14186",
+        "title": "Celeste",
+        "alttitle": "Celeste Blue",
+        "image_rel": "/images/topics/indie_20260521_172216_chars.webp?v=1779360523",
+        "hero_rel": "/images/games/vndb_v14186.jpg?v=1779170975",
+        "screenshot_rels": [],
+        "developers": [
+          "Present for My Last Lover"
+        ],
+        "publishers": [],
+        "genres": [
+          "レトロ",
+          "ビジュアルノベル"
+        ],
+        "release_date": "2006-12-27",
+        "short_description": ""
+      },
+      "program_description": "今回は超ニッチなレトロ同人ノベルゲーム『セレステ・ブルー』を掘り下げる回。VNDB上で2006年12月27日リリースとされる、サークル『プレゼント・フォー・マイ・ラスト・ラバー』の一本きりの乙女ADV。VNDBにすら詳細あらすじが残ってない超レア作品を、つむぎが「ガチ勢として保護したい」テンションで愛を語り、ずんだもんが「最後の恋人にプレゼントって別れる前提のサークル名なのだ?」と斜め45度から殴り、つむぎが『先輩……』と静かにキレる脱線パートも完備。コミケ71本体は12月29〜31日開催だったので会場頒布そのものではなく、冬コミ直前リリースという扱いを正しく整理。同人ノベルの保存問題、CD-R頒布の儚さ、フランス語『天の・空の』に響くタイトルの詩情、現代Windowsで動かない問題まで掘って、忘れられかけた一本の面影を残す回。",
+      "summary_short": ""
+    },
+    {
+      "episode_id": "20260521_172209",
+      "profile": "indie",
+      "title": "カプセルの中の80年代 〜ナムコ伝説、ボクセルで蘇る夜〜",
+      "generated_at": "2026-05-21T17:22:09+09:00",
+      "duration_sec": 327.13,
+      "audio_url": "/audio/indie/20260521_172209.mp3?v=1779360531",
+      "meta_url": "/audio/indie/20260521_172209.meta.json",
+      "script_url": "/audio/indie/20260521_172209.script.json",
+      "audio_size_mb": 4.99,
+      "featured_game": {
+        "app_id": 4459850,
+        "title": "NAMCO LEGENDARY Mountains",
+        "image_rel": "/images/topics/indie_20260521_172209_chars.webp?v=1779360528",
+        "screenshot_rels": [
+          "/images/games/4459850_ss.jpg?v=1779351269",
+          "/images/games/4459850_ss2.jpg?v=1779351269",
+          "/images/games/4459850_ss3.jpg?v=1779351270",
+          "/images/games/4459850_ss4.jpg?v=1779351270"
+        ],
+        "developers": [
+          "BeXide Inc."
+        ],
+        "publishers": [
+          "BeXide Inc."
+        ],
+        "genres": [
+          "カジュアル",
+          "パズル"
+        ],
+        "release_date": "2026年夏予定",
+        "price": "未定",
+        "short_description": "ナムコの名作アーケードが、3Dパズルゲームで登場！ 80年代のキャラクターたちが、新しいカタチで蘇る！",
+        "hero_rel": "/images/games/4459850_ss.jpg?v=1779351269",
+        "header_url": "/images/games/4459850_header.jpg?v=1779351266"
+      },
+      "program_description": "夜便で今回深掘りするのは、ビサイドが2026年夏にリリースする3Dパズル『ナムコ レジェンダリー マウンテンズ』。パックマン、ディグダグ、マッピー、ドルアーガの塔、ゼビウスというナムコ伝説アーケード5本のキャラがボクセルに姿を変え、カプセルに詰めて投げて積み上げる「3Dスイカゲーム風」設計が話題。開発元のビサイドは『どこでもいっしょ』のトロを生んだ立川のスタジオで、フルーツマウンテン、東方ゆっくりマウンテンに続くマウンテンシリーズ第3弾という流れも面白い。BitSummit PUNCH (5月22〜24日、京都みやこめっせ) で初試遊が出る直前のタイミング、80年代アーケード黄金期メンバーへの世代別反応、自分だけのナムコ博物館を作れるコレクションルーム機能まで掘り下げる回。ずんだもんがずんだ餅も積みたいと連呼してめたんに却下され続ける夜。",
+      "summary_short": ""
+    },
     {
       "episode_id": "20260521_052426",
       "profile": "ai",

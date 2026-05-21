@@ -13,7 +13,8 @@
       "speaker": "zunda",
       "tone": "mic",
       "text": "ボク、ずんだもんなのだー! 今朝もテックの話題、軽くサクッといくのだー!",
-      "news_index": 0
+      "news_index": 0,
+      "reading": "ボク、ずんだもんなのだー!けさもテックの話題、軽くサクッといくのだー!"
     },
     {
       "speaker": "metan",
@@ -26,7 +27,8 @@
       "speaker": "zunda",
       "tone": "normal",
       "text": "5 本も!? お腹いっぱいなのだー。",
-      "news_index": 0
+      "news_index": 0,
+      "reading": "ごほんも!?お腹いっぱいなのだー。"
     },
     {
       "speaker": "metan",
@@ -62,7 +64,8 @@
       "speaker": "metan",
       "tone": "tsuntsun",
       "text": "違う、会社の名前。「どこの会社が、毎月 AI にいくら払ってるか」を集計してる場所ね。",
-      "news_index": 1
+      "news_index": 1,
+      "reading": "違う、会社のなまえ。「どこの会社が、毎月AIにいくら払ってるか」を集計してる場所ね。"
     },
     {
       "speaker": "metan",
@@ -81,13 +84,15 @@
       "speaker": "metan",
       "tone": "niyari",
       "text": "そう。アンソロピックが 34.4%、オープンエーアイが 32.3%。1 年前のアンソロピックは、たった 9% だったのよ。",
-      "news_index": 1
+      "news_index": 1,
+      "reading": "そう。アンソロピックが34.4%、オープンエーアイが32.3%。いちねんまえのアンソロピックは、たった9%だったのよ。"
     },
     {
       "speaker": "zunda",
       "tone": "kangae",
       "text": "1 年で 9% から 34% って、ボクの貯金が 1 年で 4 倍に化けるみたいな伸び方なのだ……。",
-      "news_index": 1
+      "news_index": 1,
+      "reading": "いちねんで9%から34%って、ボクのちょきんがいちねんでよんばいに化けるみたいな伸び方なのだ……。"
     },
     {
       "speaker": "zunda",
@@ -111,13 +116,15 @@
       "speaker": "metan",
       "tone": "normal",
       "text": "ウーバーが、今年 1 年分の AI 予算を、たった 4 ヶ月で使い切ったって話まで出てるわよ。",
-      "news_index": 1
+      "news_index": 1,
+      "reading": "ウーバーが、ことしいちねんぶんのAI予算を、たったよんかげつで使い切ったって話まで出てるわよ。"
     },
     {
       "speaker": "zunda",
       "tone": "shock",
       "text": "えっ! 1 年分を 4 ヶ月で!? ボクの 1 年の予算が 3 倍速で蒸発するペースなのだ!?",
-      "news_index": 1
+      "news_index": 1,
+      "reading": "えっ!1年分を4ヶ月で!?ボクの1年の予算がさんばいそくで蒸発するペースなのだ!?"
     },
     {
       "speaker": "metan",
@@ -130,7 +137,8 @@
       "speaker": "zunda",
       "tone": "kamera",
       "text": "ボクたちが毎日使ってるアプリの裏側、もう人間より AI の方が書いてる時代に入ってるのだー。",
-      "news_index": 1
+      "news_index": 1,
+      "reading": "ボクたちが毎日使ってるアプリの裏側、もう人間よりAIの方が書いてる時代にはいってるのだー。"
     },
     {
       "speaker": "metan",
@@ -166,7 +174,8 @@
       "speaker": "metan",
       "tone": "niyari",
       "text": "で、戻ってきて何やったかというと——チャットジーピーティーとコーデックスを 1 つに統合した。",
-      "news_index": 2
+      "news_index": 2,
+      "reading": "で、戻ってきて何やったかというと——チャットジーピーティーとコーデックスをひとつに統合した。"
     },
     {
       "speaker": "zunda",
@@ -190,7 +199,8 @@
       "speaker": "metan",
       "tone": "tsuntsun",
       "text": "ソラは停止。要するに「サイドの遊びは全部やめる、本業 1 個に集中する」って戦略よ。",
-      "news_index": 2
+      "news_index": 2,
+      "reading": "ソラは停止。要するに「サイドの遊びは全部やめる、本業いっこに集中する」って戦略よ。"
     },
     {
       "speaker": "zunda",
@@ -203,13 +213,15 @@
       "speaker": "metan",
       "tone": "normal",
       "text": "その通り。便利になる反面、ボクたちの「AI 接点」が 1 社にどんどん集約されていく流れ、ってことね。",
-      "news_index": 2
+      "news_index": 2,
+      "reading": "その通り。便利になる反面、ボクたちの「AI接点」がいっしゃにどんどん集約されていく流れ、ってことね。"
     },
     {
       "speaker": "metan",
       "tone": "normal",
       "text": "3 本目、ちょっと毛色変えて法律の話。",
-      "news_index": 3
+      "news_index": 3,
+      "reading": "さんぼんめ、ちょっと毛色変えて法律の話。"
     },
     {
       "speaker": "zunda",
@@ -221,7 +233,8 @@
       "speaker": "metan",
       "tone": "normal",
       "text": "アンソロピックが、本の著者たちと 15 億ドルの和解で揉めてるって話。",
-      "news_index": 3
+      "news_index": 3,
+      "reading": "アンソロピックが、本の著者たちと15億ドルの和解で揉めてるってはなし。"
     },
     {
       "speaker": "zunda",
@@ -245,7 +258,8 @@
       "speaker": "metan",
       "tone": "tsuntsun",
       "text": "著者の中で 53 人が「この和解、納得いかない」って異議を申し立てたの。",
-      "news_index": 3
+      "news_index": 3,
+      "reading": "著者の中でごじゅうさんにんが「この和解、納得いかない」って異議を申し立てたの。"
     },
     {
       "speaker": "zunda",
@@ -282,7 +296,8 @@
       "speaker": "metan",
       "tone": "normal",
       "text": "4 本目、これは身近なプライバシーの話。",
-      "news_index": 4
+      "news_index": 4,
+      "reading": "4本目、これは身近なプライバシーの話。"
     },
     {
       "speaker": "zunda",
@@ -306,7 +321,8 @@
       "speaker": "metan",
       "tone": "normal",
       "text": "マサチューセッツ工科大学の技術系メディアが調査したら、AI のチャットボットに「○○さんの電話番号教えて」って聞くと、実在する人の本物の番号を答えちゃうケースが多発してる、って判明したの。",
-      "news_index": 4
+      "news_index": 4,
+      "reading": "マサチューセッツ工科大学の技術系メディアが調査したら、AIのチャットボットに「○○さんのでんわばんごう教えて」って聞くと、実在する人の本物の番号を答えちゃうケースが多発してる、って判明したの。"
     },
     {
       "speaker": "zunda",
@@ -343,7 +359,8 @@
       "speaker": "metan",
       "tone": "tsuntsun",
       "text": "心配なら、家族の番号がネットに載ってないか一度ググるしかないわね。要するに「AI の頭の中には、忘れてほしい個人情報まで丸ごと残ってる」って話。",
-      "news_index": 4
+      "news_index": 4,
+      "reading": "心配なら、家族の番号がネットに載ってないか一度ググるしかないわね。要するに「AIの頭の中には、忘れてほしい個人情報まで丸ごと残ってる」ってはなし。"
     },
     {
       "speaker": "zunda",
@@ -355,7 +372,8 @@
       "speaker": "metan",
       "tone": "normal",
       "text": "ラスト 5 本目、ちょっと希望のある話で締めるわよ。",
-      "news_index": 5
+      "news_index": 5,
+      "reading": "ラスト5本目、ちょっと希望のある話で締めるわよ。"
     },
     {
       "speaker": "zunda",
@@ -409,7 +427,8 @@
       "speaker": "zunda",
       "tone": "heart",
       "text": "えっ、さっきの電話番号漏洩の話とつながってるのだ!? クラウドに送らないなら、漏れる場所もないってことなのだ?",
-      "news_index": 5
+      "news_index": 5,
+      "reading": "えっ、さっきのでんわばんごう漏洩の話とつながってるのだ!?クラウドに送らないなら、漏れる場所もないってことなのだ?"
     },
     {
       "speaker": "metan",
@@ -427,7 +446,8 @@
       "speaker": "metan",
       "tone": "normal",
       "text": "……ってことで、今朝のテックニュースは以上 5 本ね。",
-      "news_index": 0
+      "news_index": 0,
+      "reading": "……ってことで、けさのテックニュースは以上ごほんね。"
     },
     {
       "speaker": "zunda",
@@ -446,7 +466,8 @@
       "speaker": "zunda",
       "tone": "kangae",
       "text": "朝から濃かったのだー……でも、5 本のうち 3 本が AI と人間の権利の話だったって気がするのだ。",
-      "news_index": 0
+      "news_index": 0,
+      "reading": "朝から濃かったのだー……でも、5本のうちさんぼんがAIと人間の権利の話だったって気がするのだ。"
     },
     {
       "speaker": "metan",
