@@ -54,9 +54,10 @@ export default function SharePopover({ title, url: urlOverride, variant = 'amber
     const sep = targetUrl.includes('?') ? '&' : '?'
     const bucket = Math.floor(Date.now() / (5 * 60 * 1000))
     const freshUrl = `${targetUrl}${sep}_card=${bucket}`
-    // tweet 本文には title は載せない (= card preview に title が自動表示されるので重複)
-    // SITE_NAME だけ残すことでブランド表記を確保しつつ title 二重表示を防ぐ。
-    const shareText = SITE_NAME
+    // tweet 本文には title を入れる (= user が編集領域で何を共有してるか分かる)。
+    // サイト名 suffix は card preview の description で出るので post compose には載せない
+    // (= 元の「{title} ー{SITE_NAME}」だと card title と suffix 部分が並んで重複感)。
+    const shareText = title || SITE_NAME
     const u = `https://x.com/intent/post?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(freshUrl)}`
     openIntent(u)
   }
