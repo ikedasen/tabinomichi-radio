@@ -54,10 +54,9 @@ export default function SharePopover({ title, url: urlOverride, variant = 'amber
     const sep = targetUrl.includes('?') ? '&' : '?'
     const bucket = Math.floor(Date.now() / (5 * 60 * 1000))
     const freshUrl = `${targetUrl}${sep}_card=${bucket}`
-    // tweet 本文に title + サイト名 suffix を含める (= ブランド表記が末尾に出る)。
-    // card preview にも title が出るので title 部分は重複するが、user 要望で
-    // サイト名がないと「どこのラジオか分からない」体感なので suffix は必須扱い。
-    const shareText = title ? `${title} ー${SITE_NAME}` : SITE_NAME
+    // tweet 本文には title は載せない (= card preview に title が自動表示されるので重複)
+    // SITE_NAME だけ残すことでブランド表記を確保しつつ title 二重表示を防ぐ。
+    const shareText = SITE_NAME
     const u = `https://x.com/intent/post?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(freshUrl)}`
     openIntent(u)
   }
