@@ -3,15 +3,15 @@
   "generated_at": "2026-05-22T17:21:48+09:00",
   "title": "グーグルドライブで全部消える夜 〜クリエーターの垢BAN、NAS自衛と暗号化の地図〜",
   "audio_path": "ai_latest.wav",
-  "duration_sec": 640.37,
-  "script_hash": "sha256:3eb3422705eeb80dac13e0ae1cf2a90dc2e8d5ca40d01abef10ec92f4ab6105d",
+  "duration_sec": 641.65,
+  "script_hash": "sha256:86f1f75bd201607b3fa00fe4620d6ee62f8a0ad1feda5e1ddcfa1f099e7c5c6c",
   "segments": [
     {
       "index": -1,
       "type": "intro",
       "text": "🎵 ジングル + 旅の道ラジオ！",
       "start_sec": 0.0,
-      "end_sec": 4.69
+      "end_sec": 4.64
     },
     {
       "index": 0,
@@ -20,8 +20,8 @@
       "tone": "intro",
       "text": "こんばんは、旅の道ラジオ夜便、テック深掘り回。四国めたんよ。",
       "news_index": 0,
-      "start_sec": 4.69,
-      "end_sec": 9.23
+      "start_sec": 4.64,
+      "end_sec": 9.18
     },
     {
       "index": 1,
@@ -30,8 +30,8 @@
       "tone": "mic",
       "text": "ボク、ずんだもんなのだー! 今夜は1本がっつりいくのだ!",
       "news_index": 0,
-      "start_sec": 9.38,
-      "end_sec": 13.18
+      "start_sec": 9.33,
+      "end_sec": 13.13
     },
     {
       "index": 2,
@@ -40,8 +40,8 @@
       "tone": "normal",
       "text": "今夜のテーマはね、「イラスト保管しちゃダメなオンラインストレージ」の危険度ランキングよ。",
       "news_index": 0,
-      "start_sec": 13.33,
-      "end_sec": 18.5
+      "start_sec": 13.28,
+      "end_sec": 18.45
     },
     {
       "index": 3,
@@ -50,8 +50,8 @@
       "tone": "shock",
       "text": "えっ、保管しちゃダメ!? ボク、クラウドに何でも置いてるのだ!",
       "news_index": 0,
-      "start_sec": 18.65,
-      "end_sec": 22.88
+      "start_sec": 18.6,
+      "end_sec": 22.83
     },
     {
       "index": 4,
@@ -60,8 +60,8 @@
       "tone": "kangae",
       "text": "その「何でも置く」が今、一番ヤバい使い方なのよ。今夜は危険度ランキング、なぜ消されるか、どう保管するか、をセットで話すわ。",
       "news_index": 0,
-      "start_sec": 23.03,
-      "end_sec": 31.85
+      "start_sec": 22.98,
+      "end_sec": 31.8
     },
     {
       "index": 5,
@@ -70,8 +70,8 @@
       "tone": "normal",
       "text": "警告と対策の二段重ねなのだ! 助かるのだー!",
       "news_index": 0,
-      "start_sec": 32.0,
-      "end_sec": 35.48
+      "start_sec": 31.95,
+      "end_sec": 35.42
     },
     {
       "index": 6,
@@ -80,8 +80,8 @@
       "tone": "normal",
       "text": "じゃあフックから。今月5月16日、エックスで一本のポストがバズったの。約504万表示まで伸びた、垢BAN報告ね。",
       "news_index": 1,
-      "start_sec": 35.63,
-      "end_sec": 43.68
+      "start_sec": 35.57,
+      "end_sec": 43.63
     },
     {
       "index": 7,
@@ -90,8 +90,8 @@
       "tone": "shock",
       "text": "504万!? お祭り騒ぎなのだ!",
       "news_index": 1,
-      "start_sec": 43.83,
-      "end_sec": 46.61
+      "start_sec": 43.78,
+      "end_sec": 46.56
     },
     {
       "index": 8,
@@ -100,8 +100,8 @@
       "tone": "normal",
       "text": "投稿主はある漫画家のかた。昔描いた漫画のデータを、グーグルドライブにアップロードした後に警告が出たそうよ。",
       "news_index": 1,
-      "start_sec": 46.76,
-      "end_sec": 54.03
+      "start_sec": 46.71,
+      "end_sec": 53.62
     },
     {
       "index": 9,
@@ -110,8 +110,8 @@
       "tone": "kangae",
       "text": "アップロード後に警告!?",
       "news_index": 1,
-      "start_sec": 54.18,
-      "end_sec": 56.1
+      "start_sec": 53.77,
+      "end_sec": 55.69
     },
     {
       "index": 10,
@@ -120,8 +120,8 @@
       "tone": "normal",
       "text": "止めるどころか、再審査請求も却下されて、結果はグーグルアカウントごとBANだわ。",
       "news_index": 1,
-      "start_sec": 56.25,
-      "end_sec": 61.52
+      "start_sec": 55.84,
+      "end_sec": 61.11
     },
     {
       "index": 11,
@@ -130,8 +130,8 @@
       "tone": "shock",
       "text": "アカウントごと!? メールもチャンネルも何もかも、なのだ!?",
       "news_index": 1,
-      "start_sec": 61.67,
-      "end_sec": 65.59
+      "start_sec": 61.26,
+      "end_sec": 65.19
     },
     {
       "index": 12,
@@ -140,8 +140,8 @@
       "tone": "normal",
       "text": "そう。そのかた、いろんなサービスのログインをグーグル一本にまとめてたから、影響が芋づる式に広がってるって話よ。",
       "news_index": 1,
-      "start_sec": 65.74,
-      "end_sec": 72.89
+      "start_sec": 65.34,
+      "end_sec": 72.49
     },
     {
       "index": 13,
@@ -150,8 +150,8 @@
       "tone": "namidame",
       "text": "アップロード後の警告から、全アカ消失まで、ノンストップなのだ…。",
       "news_index": 1,
-      "start_sec": 73.04,
-      "end_sec": 79.05
+      "start_sec": 72.64,
+      "end_sec": 78.67
     },
     {
       "index": 14,
@@ -160,8 +160,8 @@
       "tone": "normal",
       "text": "ちなみにこれが初めてじゃない。過去にもイラストレーターのかたが添削用データを置いてて、垢BANされた例があるのよ。",
       "news_index": 1,
-      "start_sec": 79.2,
-      "end_sec": 85.99
+      "start_sec": 78.82,
+      "end_sec": 85.61
     },
     {
       "index": 15,
@@ -170,8 +170,8 @@
       "tone": "kangae",
       "text": "つまり、他人事じゃないのだ。",
       "news_index": 1,
-      "start_sec": 86.14,
-      "end_sec": 88.15
+      "start_sec": 85.76,
+      "end_sec": 87.77
     },
     {
       "index": 16,
@@ -180,8 +180,8 @@
       "tone": "normal",
       "text": "じゃあ危険度ランキング、いくわよ。第1位、グーグルドライブ。",
       "news_index": 1,
-      "start_sec": 88.3,
-      "end_sec": 92.2
+      "start_sec": 87.92,
+      "end_sec": 91.82
     },
     {
       "index": 17,
@@ -190,8 +190,8 @@
       "tone": "normal",
       "text": "ど真ん中なのだ。",
       "news_index": 1,
-      "start_sec": 92.35,
-      "end_sec": 93.56
+      "start_sec": 91.97,
+      "end_sec": 93.18
     },
     {
       "index": 18,
@@ -200,8 +200,8 @@
       "tone": "normal",
       "text": "公開してない、自分しか見ない設定で置いた18禁同人誌でも、BAN報告があるのよ。",
       "news_index": 1,
-      "start_sec": 93.71,
-      "end_sec": 99.53
+      "start_sec": 93.33,
+      "end_sec": 99.15
     },
     {
       "index": 19,
@@ -210,8 +210,8 @@
       "tone": "shock",
       "text": "自分しか見てないのに!? それで消されるのだ!?",
       "news_index": 1,
-      "start_sec": 99.68,
-      "end_sec": 102.83
+      "start_sec": 99.3,
+      "end_sec": 102.45
     },
     {
       "index": 20,
@@ -220,8 +220,8 @@
       "tone": "normal",
       "text": "凶悪なのはここから。ドライブ単体じゃなくて、グーグルアカウントが丸ごと巻き込まれるわ。Gメール、ユーチューブのアカウント、ユーチューブチャンネルまで一緒に飛ぶの。",
       "news_index": 1,
-      "start_sec": 102.98,
-      "end_sec": 112.67
+      "start_sec": 102.6,
+      "end_sec": 112.29
     },
     {
       "index": 21,
@@ -230,8 +230,8 @@
       "tone": "shock",
       "text": "何年も育てたチャンネルがゼロ!? それは取り返し不能じゃん!",
       "news_index": 1,
-      "start_sec": 112.82,
-      "end_sec": 116.89
+      "start_sec": 112.44,
+      "end_sec": 116.51
     },
     {
       "index": 22,
@@ -240,8 +240,8 @@
       "tone": "normal",
       "text": "第2位、グーグルフォト。連鎖BANのリスクは1位と同じ仕組みよ。",
       "news_index": 1,
-      "start_sec": 117.04,
-      "end_sec": 121.17
+      "start_sec": 116.66,
+      "end_sec": 120.79
     },
     {
       "index": 23,
@@ -250,8 +250,8 @@
       "tone": "normal",
       "text": "なら、なんで2位なのだ?",
       "news_index": 1,
-      "start_sec": 121.32,
-      "end_sec": 123.12
+      "start_sec": 120.94,
+      "end_sec": 122.74
     },
     {
       "index": 24,
@@ -260,8 +260,8 @@
       "tone": "kangae",
       "text": "落とし穴の場所が違うのよ。多いのは、スマホのギャラリーが裏で勝手に同期されてるパターンね。",
       "news_index": 1,
-      "start_sec": 123.27,
-      "end_sec": 129.07
+      "start_sec": 122.89,
+      "end_sec": 128.69
     },
     {
       "index": 25,
@@ -270,8 +270,8 @@
       "tone": "shock",
       "text": "勝手に同期!? それ怖いのだー!",
       "news_index": 1,
-      "start_sec": 129.22,
-      "end_sec": 131.74
+      "start_sec": 128.84,
+      "end_sec": 131.36
     },
     {
       "index": 26,
@@ -280,8 +280,8 @@
       "tone": "normal",
       "text": "エックスで保存したエロ絵をスマホ内に置いただけのつもりが、裏でグーグルフォトに同期されて凍結、ってのが現実に起こりうるわ。",
       "news_index": 1,
-      "start_sec": 131.89,
-      "end_sec": 139.5
+      "start_sec": 131.51,
+      "end_sec": 139.12
     },
     {
       "index": 27,
@@ -290,8 +290,8 @@
       "tone": "yubisashi",
       "text": "番組のあと、自動バックアップ設定見るのだ!",
       "news_index": 1,
-      "start_sec": 139.65,
-      "end_sec": 142.82
+      "start_sec": 139.27,
+      "end_sec": 142.44
     },
     {
       "index": 28,
@@ -300,8 +300,8 @@
       "tone": "normal",
       "text": "第3位、マイクロソフトのワンドライブ。凍結のされやすさはグーグルドライブと同じくらい、って報告があるわ。",
       "news_index": 1,
-      "start_sec": 142.97,
-      "end_sec": 149.78
+      "start_sec": 142.59,
+      "end_sec": 149.4
     },
     {
       "index": 29,
@@ -310,8 +310,8 @@
       "tone": "kangae",
       "text": "「報告がある」って、確定じゃないのだ?",
       "news_index": 1,
-      "start_sec": 149.93,
-      "end_sec": 153.08
+      "start_sec": 149.55,
+      "end_sec": 152.7
     },
     {
       "index": 30,
@@ -320,8 +320,8 @@
       "tone": "normal",
       "text": "ここは利用者の体感ベース。だから断定は避けるけど、似たケースが目立つって扱いね。",
       "news_index": 1,
-      "start_sec": 153.23,
-      "end_sec": 158.71
+      "start_sec": 152.85,
+      "end_sec": 158.33
     },
     {
       "index": 31,
@@ -330,8 +330,8 @@
       "tone": "normal",
       "text": "慎重に扱う話なのだ。",
       "news_index": 1,
-      "start_sec": 158.86,
-      "end_sec": 160.89
+      "start_sec": 158.48,
+      "end_sec": 160.51
     },
     {
       "index": 32,
@@ -340,8 +340,8 @@
       "tone": "normal",
       "text": "落とし穴はウィンドウズ11の「PCフォルダーのバックアップ」、いわゆる既知フォルダーの移動ね。デスクトップ、ドキュメント、ピクチャの3つを自動でワンドライブに上げる設定があるのよ。",
       "news_index": 1,
-      "start_sec": 161.04,
-      "end_sec": 171.88
+      "start_sec": 160.66,
+      "end_sec": 171.5
     },
     {
       "index": 33,
@@ -350,8 +350,8 @@
       "tone": "shock",
       "text": "ローカル保存のつもりが、勝手にクラウドに飛んでるパターンなのだ!?",
       "news_index": 1,
-      "start_sec": 172.03,
-      "end_sec": 176.45
+      "start_sec": 171.65,
+      "end_sec": 176.07
     },
     {
       "index": 34,
@@ -360,8 +360,8 @@
       "tone": "normal",
       "text": "そう。お絵かきデータをパソコンの中に置いた、と思ってたら実は同期済み、これが起きるわ。新規セットアップだと既定で有効になってる場合もあるから要注意ね。",
       "news_index": 1,
-      "start_sec": 176.6,
-      "end_sec": 186.18
+      "start_sec": 176.22,
+      "end_sec": 185.8
     },
     {
       "index": 35,
@@ -370,8 +370,8 @@
       "tone": "kangae",
       "text": "「ピクチャ」だけは外したい気持ちなのだ。",
       "news_index": 1,
-      "start_sec": 186.33,
-      "end_sec": 188.92
+      "start_sec": 185.95,
+      "end_sec": 188.54
     },
     {
       "index": 36,
@@ -380,8 +380,8 @@
       "tone": "normal",
       "text": "豆知識ね。児童虐待画像の検出で広く使われてる技術「フォトディーエヌエー」、これはそもそもマイクロソフト発祥よ。",
       "news_index": 1,
-      "start_sec": 189.07,
-      "end_sec": 196.68
+      "start_sec": 188.69,
+      "end_sec": 196.3
     },
     {
       "index": 37,
@@ -390,8 +390,8 @@
       "tone": "kangae",
       "text": "親会社が、検出技術の元締めなのだ…。",
       "news_index": 1,
-      "start_sec": 196.83,
-      "end_sec": 199.86
+      "start_sec": 196.45,
+      "end_sec": 199.48
     },
     {
       "index": 38,
@@ -400,8 +400,8 @@
       "tone": "normal",
       "text": "第4位、アドビ・クリエイティブクラウド。フォトショップで色調補正してローカル保存のつもりが、クラウドファイル同期と繋がってる場合があるのよ。",
       "news_index": 1,
-      "start_sec": 200.01,
-      "end_sec": 208.46
+      "start_sec": 199.63,
+      "end_sec": 208.08
     },
     {
       "index": 39,
@@ -410,8 +410,8 @@
       "tone": "shock",
       "text": "フォトショからも!? どこまで監視されてるのだ!",
       "news_index": 1,
-      "start_sec": 208.61,
-      "end_sec": 211.56
+      "start_sec": 208.23,
+      "end_sec": 211.18
     },
     {
       "index": 40,
@@ -420,8 +420,8 @@
       "tone": "normal",
       "text": "アドビのアカウントが停止されると、サブスクで動いてる各種アドビ製ソフトの利用にも影響しうるから、影響範囲はかなり広いわ。",
       "news_index": 1,
-      "start_sec": 211.71,
-      "end_sec": 219.66
+      "start_sec": 211.33,
+      "end_sec": 219.28
     },
     {
       "index": 41,
@@ -430,8 +430,8 @@
       "tone": "normal",
       "text": "番外編、ドロップボックスとアイクラウド。ドロップボックスもハッシュ照合で検出してるし、アイクラウドはこの後話す潮流のど真ん中ね。",
       "news_index": 1,
-      "start_sec": 219.74,
-      "end_sec": 227.81
+      "start_sec": 219.36,
+      "end_sec": 227.43
     },
     {
       "index": 42,
@@ -440,8 +440,8 @@
       "tone": "normal",
       "text": "4位までに入らなかっただけ、なのだ?",
       "news_index": 1,
-      "start_sec": 227.96,
-      "end_sec": 230.68
+      "start_sec": 227.58,
+      "end_sec": 230.3
     },
     {
       "index": 43,
@@ -450,8 +450,8 @@
       "tone": "tsuntsun",
       "text": "油断するな、ってことよ。",
       "news_index": 1,
-      "start_sec": 230.83,
-      "end_sec": 232.64
+      "start_sec": 230.45,
+      "end_sec": 232.25
     },
     {
       "index": 44,
@@ -460,8 +460,8 @@
       "tone": "normal",
       "text": "じゃあここから技術の話、なぜBANされるのか。",
       "news_index": 2,
-      "start_sec": 232.72,
-      "end_sec": 235.69
+      "start_sec": 232.33,
+      "end_sec": 235.31
     },
     {
       "index": 45,
@@ -470,8 +470,8 @@
       "tone": "normal",
       "text": "そこ気になってたのだ!",
       "news_index": 2,
-      "start_sec": 235.84,
-      "end_sec": 237.31
+      "start_sec": 235.46,
+      "end_sec": 236.93
     },
     {
       "index": 46,
@@ -480,8 +480,8 @@
       "tone": "normal",
       "text": "クラウド各社はアップロードされた画像を自動でスキャンしてるわ。方式は大きく2つ、「ハッシュ照合」と「AI画像分類器」よ。",
       "news_index": 2,
-      "start_sec": 237.46,
-      "end_sec": 245.97
+      "start_sec": 237.08,
+      "end_sec": 245.58
     },
     {
       "index": 47,
@@ -490,8 +490,8 @@
       "tone": "kangae",
       "text": "ハッシュ照合ってなんなのだ?",
       "news_index": 2,
-      "start_sec": 246.12,
-      "end_sec": 248.13
+      "start_sec": 245.73,
+      "end_sec": 247.75
     },
     {
       "index": 48,
@@ -500,8 +500,8 @@
       "tone": "normal",
       "text": "ざっくり言うと、画像から短い指紋を作って、既知の違法画像の指紋一覧と一致するか調べる仕組みね。中身そのものを見比べないでも、同じ画像かが分かるのよ。",
       "news_index": 2,
-      "start_sec": 248.28,
-      "end_sec": 258.56
+      "start_sec": 247.9,
+      "end_sec": 258.18
     },
     {
       "index": 49,
@@ -510,8 +510,8 @@
       "tone": "normal",
       "text": "指紋認証の画像版なのだ!",
       "news_index": 2,
-      "start_sec": 258.71,
-      "end_sec": 260.79
+      "start_sec": 258.33,
+      "end_sec": 260.41
     },
     {
       "index": 50,
@@ -520,8 +520,8 @@
       "tone": "normal",
       "text": "もう一個のAI画像分類器は、AIに絵を見せて「何が写ってる絵か」を当てさせる方式ね。",
       "news_index": 2,
-      "start_sec": 260.94,
-      "end_sec": 267.19
+      "start_sec": 260.56,
+      "end_sec": 266.81
     },
     {
       "index": 51,
@@ -530,8 +530,8 @@
       "tone": "kangae",
       "text": "で、無警告・即BANの主犯はどっちなのだ?",
       "news_index": 2,
-      "start_sec": 267.34,
-      "end_sec": 270.83
+      "start_sec": 266.96,
+      "end_sec": 270.45
     },
     {
       "index": 52,
@@ -540,8 +540,8 @@
       "tone": "normal",
       "text": "特に厳しいのが、児童性的虐待コンテンツ、英語の頭文字でシーサムって呼ばれるカテゴリの判定よ。",
       "news_index": 2,
-      "start_sec": 270.98,
-      "end_sec": 277.5
+      "start_sec": 270.6,
+      "end_sec": 277.12
     },
     {
       "index": 53,
@@ -550,8 +550,8 @@
       "tone": "shock",
       "text": "シーサム、初めて聞く言葉なのだ。",
       "news_index": 2,
-      "start_sec": 277.65,
-      "end_sec": 280.23
+      "start_sec": 277.27,
+      "end_sec": 279.85
     },
     {
       "index": 54,
@@ -560,8 +560,8 @@
       "tone": "normal",
       "text": "米国の規制が極めて厳しくて、これに当たると判定された画像は警告なしで処理されることがあるわ。",
       "news_index": 2,
-      "start_sec": 280.38,
-      "end_sec": 286.57
+      "start_sec": 280.0,
+      "end_sec": 286.19
     },
     {
       "index": 55,
@@ -570,8 +570,8 @@
       "tone": "kangae",
       "text": "それって「成人向けエロが全部即BAN」って意味なのだ?",
       "news_index": 2,
-      "start_sec": 286.72,
-      "end_sec": 290.85
+      "start_sec": 286.34,
+      "end_sec": 290.46
     },
     {
       "index": 56,
@@ -580,8 +580,8 @@
       "tone": "normal",
       "text": "そこは違うのよ。「NSFWは全部即BAN」って単純化はできない。要するに、AIに未成年と誤判定されうる絵、ここが一番危険な領域ね。",
       "news_index": 2,
-      "start_sec": 291.0,
-      "end_sec": 301.2
+      "start_sec": 290.61,
+      "end_sec": 300.82
     },
     {
       "index": 57,
@@ -590,8 +590,8 @@
       "tone": "kangae",
       "text": "誤判定…合法な大人の絵まで巻き込まれてる、ってことなのだ?",
       "news_index": 2,
-      "start_sec": 301.35,
-      "end_sec": 305.86
+      "start_sec": 300.97,
+      "end_sec": 305.47
     },
     {
       "index": 58,
@@ -600,8 +600,8 @@
       "tone": "normal",
       "text": "そこが論点よ。明白に合法な「大人の絵」までシーサム判定に巻き込まれうるのが、今のリスクの一面ね。",
       "news_index": 2,
-      "start_sec": 306.01,
-      "end_sec": 312.93
+      "start_sec": 305.62,
+      "end_sec": 312.55
     },
     {
       "index": 59,
@@ -610,8 +610,8 @@
       "tone": "kangae",
       "text": "それで「私的保存への検閲って疑問じゃない?」って話につながるのだ。",
       "news_index": 2,
-      "start_sec": 313.08,
-      "end_sec": 318.02
+      "start_sec": 312.7,
+      "end_sec": 317.64
     },
     {
       "index": 60,
@@ -620,8 +620,8 @@
       "tone": "normal",
       "text": "そう。そして一度BANされると復旧は極めて困難だわ。違反内容によってはデータのダウンロードすらできないことがあるのよ。",
       "news_index": 2,
-      "start_sec": 318.17,
-      "end_sec": 325.57
+      "start_sec": 317.79,
+      "end_sec": 325.19
     },
     {
       "index": 61,
@@ -630,8 +630,8 @@
       "tone": "shock",
       "text": "ダウンロードすらできない!? 過去のデータ全部消えるパターンなのだ!?",
       "news_index": 2,
-      "start_sec": 325.72,
-      "end_sec": 330.19
+      "start_sec": 325.34,
+      "end_sec": 329.81
     },
     {
       "index": 62,
@@ -640,8 +640,8 @@
       "tone": "normal",
       "text": "取り戻したいなら、再審査請求は早い段階で出すのが鉄則ね。",
       "news_index": 2,
-      "start_sec": 330.34,
-      "end_sec": 334.63
+      "start_sec": 329.96,
+      "end_sec": 334.25
     },
     {
       "index": 63,
@@ -650,8 +650,8 @@
       "tone": "normal",
       "text": "じゃあここからが今夜のメイン、「我々はどう保管すればいいか」よ。",
       "news_index": 3,
-      "start_sec": 334.71,
-      "end_sec": 339.01
+      "start_sec": 334.33,
+      "end_sec": 338.62
     },
     {
       "index": 64,
@@ -660,8 +660,8 @@
       "tone": "normal",
       "text": "来たのだ、解決編なのだ!",
       "news_index": 3,
-      "start_sec": 339.16,
-      "end_sec": 341.2
+      "start_sec": 338.77,
+      "end_sec": 340.82
     },
     {
       "index": 65,
@@ -670,8 +670,8 @@
       "tone": "normal",
       "text": "基本方針はNAS、ネットワーク接続型のストレージね。専用の高耐久HDDを2台買って、RAID1っていうミラーリングでファイルを二重化するのよ。",
       "news_index": 3,
-      "start_sec": 341.35,
-      "end_sec": 351.05
+      "start_sec": 340.97,
+      "end_sec": 350.67
     },
     {
       "index": 66,
@@ -680,8 +680,8 @@
       "tone": "kangae",
       "text": "ミラーリングって、同じものをコピーするやつなのだ?",
       "news_index": 3,
-      "start_sec": 351.2,
-      "end_sec": 354.68
+      "start_sec": 350.82,
+      "end_sec": 354.3
     },
     {
       "index": 67,
@@ -690,8 +690,8 @@
       "tone": "normal",
       "text": "2台のHDDに同じ内容を常に書くの。1台壊れてももう1台が残る、って構成ね。",
       "news_index": 3,
-      "start_sec": 354.83,
-      "end_sec": 361.05
+      "start_sec": 354.45,
+      "end_sec": 360.66
     },
     {
       "index": 68,
@@ -700,8 +700,8 @@
       "tone": "tsuntsun",
       "text": "ただ、ここで一番大事な誤解を解くわよ。RAID1はバックアップじゃない。",
       "news_index": 3,
-      "start_sec": 361.13,
-      "end_sec": 365.63
+      "start_sec": 360.74,
+      "end_sec": 365.25
     },
     {
       "index": 69,
@@ -710,8 +710,8 @@
       "tone": "shock",
       "text": "えっ、バックアップじゃないのだ!?",
       "news_index": 3,
-      "start_sec": 365.78,
-      "end_sec": 368.18
+      "start_sec": 365.4,
+      "end_sec": 367.8
     },
     {
       "index": 70,
@@ -720,8 +720,8 @@
       "tone": "normal",
       "text": "RAID1が守るのは「HDDが物理的に壊れた時」だけ。守らないのは、操作ミスでの削除、ランサムウェア、火事や盗難、落雷ね。",
       "news_index": 3,
-      "start_sec": 368.33,
-      "end_sec": 377.51
+      "start_sec": 367.95,
+      "end_sec": 377.13
     },
     {
       "index": 71,
@@ -730,8 +730,8 @@
       "tone": "kangae",
       "text": "同期だから、消したら両方から消えるのだ?",
       "news_index": 3,
-      "start_sec": 377.66,
-      "end_sec": 380.76
+      "start_sec": 377.28,
+      "end_sec": 380.38
     },
     {
       "index": 72,
@@ -740,8 +740,8 @@
       "tone": "normal",
       "text": "そういうこと。事故が両コピーに瞬時に伝播するわ。だから「複数台同時に壊れない限り安全」って言い回しは厳密には誤りなのよ。",
       "news_index": 3,
-      "start_sec": 380.91,
-      "end_sec": 389.95
+      "start_sec": 380.53,
+      "end_sec": 389.57
     },
     {
       "index": 73,
@@ -750,8 +750,8 @@
       "tone": "normal",
       "text": "ミラーは「壊れない保険」、バックアップは別物なのだ。",
       "news_index": 3,
-      "start_sec": 390.1,
-      "end_sec": 393.76
+      "start_sec": 389.72,
+      "end_sec": 393.38
     },
     {
       "index": 74,
@@ -760,8 +760,8 @@
       "tone": "normal",
       "text": "で、本当のバックアップの考え方が「3-2-1ルール」。データは3つ、媒体は2種類、うち1つは別の場所かオフラインに、ね。",
       "news_index": 3,
-      "start_sec": 393.91,
-      "end_sec": 402.46
+      "start_sec": 393.53,
+      "end_sec": 402.08
     },
     {
       "index": 75,
@@ -770,8 +770,8 @@
       "tone": "kangae",
       "text": "3-2-1、覚えやすいのだ!",
       "news_index": 3,
-      "start_sec": 402.61,
-      "end_sec": 404.93
+      "start_sec": 402.23,
+      "end_sec": 404.55
     },
     {
       "index": 76,
@@ -780,8 +780,8 @@
       "tone": "normal",
       "text": "一番手軽な実践は、使ってないHDDを1台、電源抜いて引き出しにしまっておくこと。これだけでランサムウェア対策になるわ。",
       "news_index": 3,
-      "start_sec": 405.08,
-      "end_sec": 413.28
+      "start_sec": 404.7,
+      "end_sec": 412.9
     },
     {
       "index": 77,
@@ -790,8 +790,8 @@
       "tone": "normal",
       "text": "「引き出しのHDD」、必殺の予備なのだ!",
       "news_index": 3,
-      "start_sec": 413.43,
-      "end_sec": 416.47
+      "start_sec": 413.05,
+      "end_sec": 416.09
     },
     {
       "index": 78,
@@ -800,8 +800,8 @@
       "tone": "normal",
       "text": "次に重要なのが、クライアントサイド暗号化。手元で暗号化してからクラウドに上げる方式ね。",
       "news_index": 3,
-      "start_sec": 416.62,
-      "end_sec": 422.5
+      "start_sec": 416.24,
+      "end_sec": 422.12
     },
     {
       "index": 79,
@@ -810,8 +810,8 @@
       "tone": "kangae",
       "text": "暗号化って、中身を読めなくする鍵かけるやつなのだ?",
       "news_index": 3,
-      "start_sec": 422.65,
-      "end_sec": 426.52
+      "start_sec": 422.27,
+      "end_sec": 426.14
     },
     {
       "index": 80,
@@ -820,8 +820,8 @@
       "tone": "normal",
       "text": "そう。クリプトメーターとか、ピークラウド・クリプト、シノロジーのNASならハイパーバックアップでできるわ。",
       "news_index": 3,
-      "start_sec": 426.67,
-      "end_sec": 432.59
+      "start_sec": 426.29,
+      "end_sec": 432.21
     },
     {
       "index": 81,
@@ -830,8 +830,8 @@
       "tone": "normal",
       "text": "「読めないから検閲もできない」って理屈なのだ?",
       "news_index": 3,
-      "start_sec": 432.74,
-      "end_sec": 435.98
+      "start_sec": 432.36,
+      "end_sec": 435.6
     },
     {
       "index": 82,
@@ -840,8 +840,8 @@
       "tone": "normal",
       "text": "検閲が嫌なら見られない状態にして預ければいい、って前向きな解決策ね。NASのクラウド連携と組み合わせれば、BANされても痛手の少ない構成にできるわ。",
       "news_index": 3,
-      "start_sec": 436.13,
-      "end_sec": 445.96
+      "start_sec": 435.75,
+      "end_sec": 445.57
     },
     {
       "index": 83,
@@ -850,8 +850,8 @@
       "tone": "normal",
       "text": "そしてアカウント巻き添え対策。グーグルが丸ごと飛ぶのが凶悪なら、対策もセットね。",
       "news_index": 3,
-      "start_sec": 446.04,
-      "end_sec": 451.48
+      "start_sec": 445.65,
+      "end_sec": 451.09
     },
     {
       "index": 84,
@@ -860,8 +860,8 @@
       "tone": "normal",
       "text": "そっちも大事なのだ!",
       "news_index": 3,
-      "start_sec": 451.63,
-      "end_sec": 453.07
+      "start_sec": 451.24,
+      "end_sec": 452.68
     },
     {
       "index": 85,
@@ -870,8 +870,8 @@
       "tone": "normal",
       "text": "重要サービスのログインを、Gメール一本に集中させない。リスクのある用途には、本命とは別のグーグルアカウントを使う、ね。",
       "news_index": 3,
-      "start_sec": 453.22,
-      "end_sec": 461.35
+      "start_sec": 452.83,
+      "end_sec": 460.97
     },
     {
       "index": 86,
@@ -880,8 +880,8 @@
       "tone": "normal",
       "text": "他サービスの登録メアドが全部Gメールだと、BAN後にどこにもログインできなくなって連鎖的に詰む、ってパターンが多いのよ。",
       "news_index": 3,
-      "start_sec": 461.43,
-      "end_sec": 468.89
+      "start_sec": 461.05,
+      "end_sec": 468.51
     },
     {
       "index": 87,
@@ -890,8 +890,8 @@
       "tone": "shock",
       "text": "それは想像するだけで震えるのだ…。",
       "news_index": 3,
-      "start_sec": 469.04,
-      "end_sec": 471.5
+      "start_sec": 468.66,
+      "end_sec": 471.12
     },
     {
       "index": 88,
@@ -900,8 +900,8 @@
       "tone": "tsuntsun",
       "text": "最後にNAS過信への注意。NASなら絶対安全、って言い切らないでね。",
       "news_index": 3,
-      "start_sec": 471.65,
-      "end_sec": 476.38
+      "start_sec": 471.27,
+      "end_sec": 476.0
     },
     {
       "index": 89,
@@ -910,8 +910,8 @@
       "tone": "kangae",
       "text": "NASにも穴があるのだ?",
       "news_index": 3,
-      "start_sec": 476.53,
-      "end_sec": 478.31
+      "start_sec": 476.15,
+      "end_sec": 477.93
     },
     {
       "index": 90,
@@ -920,8 +920,8 @@
       "tone": "normal",
       "text": "NAS自身を狙うランサムウェアの実例があるわ。インターネットに直接公開しない、ファームウェアを更新する、この2つは最低限ね。",
       "news_index": 3,
-      "start_sec": 478.46,
-      "end_sec": 486.75
+      "start_sec": 478.08,
+      "end_sec": 486.37
     },
     {
       "index": 91,
@@ -930,8 +930,8 @@
       "tone": "yubisashi",
       "text": "外に晒さない、最新に保つ、なのだ!",
       "news_index": 3,
-      "start_sec": 486.9,
-      "end_sec": 489.88
+      "start_sec": 486.52,
+      "end_sec": 489.49
     },
     {
       "index": 92,
@@ -940,8 +940,8 @@
       "tone": "normal",
       "text": "じゃあ最後、展望と締め。今夜のオチは「ローカル検閲」の話よ。",
       "news_index": 4,
-      "start_sec": 490.03,
-      "end_sec": 494.59
+      "start_sec": 489.64,
+      "end_sec": 494.21
     },
     {
       "index": 93,
@@ -950,8 +950,8 @@
       "tone": "kangae",
       "text": "ろーかる検閲? 自分のパソコンやスマホの中身まで見られる、って意味なのだ?",
       "news_index": 4,
-      "start_sec": 494.74,
-      "end_sec": 500.17
+      "start_sec": 494.36,
+      "end_sec": 499.79
     },
     {
       "index": 94,
@@ -960,8 +960,8 @@
       "tone": "normal",
       "text": "そう。これね、「来るのでは」じゃなくて、一度ガチで来かけた歴史があるのよ。",
       "news_index": 4,
-      "start_sec": 500.32,
-      "end_sec": 504.95
+      "start_sec": 499.94,
+      "end_sec": 504.57
     },
     {
       "index": 95,
@@ -970,8 +970,8 @@
       "tone": "shock",
       "text": "来かけた!? いつ!?",
       "news_index": 4,
-      "start_sec": 505.1,
-      "end_sec": 506.72
+      "start_sec": 504.72,
+      "end_sec": 506.34
     },
     {
       "index": 96,
@@ -980,8 +980,8 @@
       "tone": "normal",
       "text": "2021年8月、アップルが発表したのよ。「アイクラウドに写真を上げる前に、端末側でシーサム照合する」っていう機能、名前はニューラルハッシュ。",
       "news_index": 4,
-      "start_sec": 506.87,
-      "end_sec": 516.8
+      "start_sec": 506.49,
+      "end_sec": 516.42
     },
     {
       "index": 97,
@@ -990,8 +990,8 @@
       "tone": "shock",
       "text": "端末側で照合!? アイフォーンの中身を、アップルが見るってことなのだ!?",
       "news_index": 4,
-      "start_sec": 516.95,
-      "end_sec": 522.07
+      "start_sec": 516.57,
+      "end_sec": 521.69
     },
     {
       "index": 98,
@@ -1000,8 +1000,8 @@
       "tone": "normal",
       "text": "そういう仕組みね。発表直後から、セキュリティ研究者や人権団体から強烈な批判が出て、2021年9月に導入を延期。",
       "news_index": 4,
-      "start_sec": 522.22,
-      "end_sec": 530.72
+      "start_sec": 521.84,
+      "end_sec": 530.34
     },
     {
       "index": 99,
@@ -1010,8 +1010,8 @@
       "tone": "normal",
       "text": "そこから先はどうなったのだ?",
       "news_index": 4,
-      "start_sec": 530.87,
-      "end_sec": 532.97
+      "start_sec": 530.49,
+      "end_sec": 532.59
     },
     {
       "index": 100,
@@ -1020,8 +1020,8 @@
       "tone": "normal",
       "text": "議論が続いて、最終的に2022年12月、アップルはアイクラウド写真のシーサム検出計画そのものを撤回したわ。",
       "news_index": 4,
-      "start_sec": 533.12,
-      "end_sec": 541.02
+      "start_sec": 532.74,
+      "end_sec": 540.64
     },
     {
       "index": 101,
@@ -1030,8 +1030,8 @@
       "tone": "kangae",
       "text": "発表から撤回まで、1年4ヶ月かかったのだなあ。",
       "news_index": 4,
-      "start_sec": 541.17,
-      "end_sec": 545.0
+      "start_sec": 540.79,
+      "end_sec": 544.62
     },
     {
       "index": 102,
@@ -1040,8 +1040,8 @@
       "tone": "normal",
       "text": "そう。だから「ローカル検閲が来るかも」じゃなくて、「一度ガチで来かけた」って事実が、このオチの重みなのよ。",
       "news_index": 4,
-      "start_sec": 545.15,
-      "end_sec": 551.99
+      "start_sec": 544.77,
+      "end_sec": 551.61
     },
     {
       "index": 103,
@@ -1050,8 +1050,8 @@
       "tone": "normal",
       "text": "検閲は嫌だけど、向こうにも事情はあるのだね?",
       "news_index": 4,
-      "start_sec": 552.14,
-      "end_sec": 555.73
+      "start_sec": 551.76,
+      "end_sec": 555.35
     },
     {
       "index": 104,
@@ -1060,8 +1060,8 @@
       "tone": "normal",
       "text": "そこは大事なポイントね。プラットフォームのスキャンには米国の法的責任を回避する側面もあって、単純な悪役じゃない。ただ、明白に合法な私的保存まで巻き込まれてるのは別問題、っていう精密な立場よ。",
       "news_index": 4,
-      "start_sec": 555.88,
-      "end_sec": 569.34
+      "start_sec": 555.5,
+      "end_sec": 568.96
     },
     {
       "index": 105,
@@ -1070,8 +1070,8 @@
       "tone": "kangae",
       "text": "警戒しつつ、敵視はしない、なのだ。",
       "news_index": 4,
-      "start_sec": 569.49,
-      "end_sec": 572.28
+      "start_sec": 569.11,
+      "end_sec": 571.9
     },
     {
       "index": 106,
@@ -1080,8 +1080,8 @@
       "tone": "normal",
       "text": "じゃあ「今すぐやることリスト」、4つ読むわよ。",
       "news_index": 4,
-      "start_sec": 572.43,
-      "end_sec": 575.53
+      "start_sec": 572.05,
+      "end_sec": 575.15
     },
     {
       "index": 107,
@@ -1090,8 +1090,8 @@
       "tone": "yubisashi",
       "text": "ボクもメモするのだ!",
       "news_index": 4,
-      "start_sec": 575.68,
-      "end_sec": 577.09
+      "start_sec": 575.3,
+      "end_sec": 576.71
     },
     {
       "index": 108,
@@ -1100,8 +1100,8 @@
       "tone": "normal",
       "text": "1つ、グーグルフォトとスマホの自動バックアップ設定をチェック。2つ、ウィンドウズのワンドライブ「PCフォルダーのバックアップ」を確認。",
       "news_index": 4,
-      "start_sec": 577.24,
-      "end_sec": 585.42
+      "start_sec": 576.86,
+      "end_sec": 585.04
     },
     {
       "index": 109,
@@ -1110,8 +1110,8 @@
       "tone": "normal",
       "text": "3つ、重要サービスの登録メアドを見直して、本命グーグルアカウントへの一極集中を解消。4つ、余裕があればNAS検討、もしくは使ってないHDDでのオフラインバックアップから始める。",
       "news_index": 4,
-      "start_sec": 585.5,
-      "end_sec": 597.67
+      "start_sec": 585.12,
+      "end_sec": 597.29
     },
     {
       "index": 110,
@@ -1120,8 +1120,8 @@
       "tone": "normal",
       "text": "1つ目と2つ目は、今夜寝る前にできそうなのだ。",
       "news_index": 4,
-      "start_sec": 597.82,
-      "end_sec": 601.16
+      "start_sec": 597.44,
+      "end_sec": 600.78
     },
     {
       "index": 111,
@@ -1130,8 +1130,8 @@
       "tone": "normal",
       "text": "というわけで今夜のテック深掘りは「イラスト保管しちゃダメなオンラインストレージランキング」なぜBAN、自衛策、ローカル検閲の歴史、ってフルコースだったわ。",
       "news_index": 0,
-      "start_sec": 601.31,
-      "end_sec": 610.8
+      "start_sec": 600.93,
+      "end_sec": 610.42
     },
     {
       "index": 112,
@@ -1140,8 +1140,8 @@
       "tone": "normal",
       "text": "警告と対策がワンセット、っていう今夜のテーマ通りだったのだ!",
       "news_index": 0,
-      "start_sec": 610.95,
-      "end_sec": 615.34
+      "start_sec": 610.57,
+      "end_sec": 614.96
     },
     {
       "index": 113,
@@ -1150,8 +1150,8 @@
       "tone": "normal",
       "text": "気になるかたは、まず自動バックアップ設定の見直しから。重い対策の前に、軽い予防が一番効くわ。",
       "news_index": 0,
-      "start_sec": 615.49,
-      "end_sec": 621.99
+      "start_sec": 615.11,
+      "end_sec": 621.61
     },
     {
       "index": 114,
@@ -1160,8 +1160,8 @@
       "tone": "mic",
       "text": "あなたの大事な絵、ちゃんと自衛してあげるのだ! ボクは寝る前にスマホ設定見直すのだー!",
       "news_index": 0,
-      "start_sec": 622.14,
-      "end_sec": 627.87
+      "start_sec": 621.76,
+      "end_sec": 627.49
     },
     {
       "index": 115,
@@ -1170,8 +1170,8 @@
       "tone": "intro",
       "text": "旅の道ラジオ夜便、四国めたんと、",
       "news_index": 0,
-      "start_sec": 628.02,
-      "end_sec": 630.7
+      "start_sec": 627.64,
+      "end_sec": 630.32
     },
     {
       "index": 116,
@@ -1180,17 +1180,17 @@
       "tone": "mic",
       "text": "ずんだもんでお届けしたのだー! また明日!",
       "news_index": 0,
-      "start_sec": 630.85,
-      "end_sec": 633.63
+      "start_sec": 630.47,
+      "end_sec": 633.25
     },
     {
       "index": 9999,
       "type": "outro",
       "text": "🎵 ジングル + またね！",
-      "start_sec": 634.33,
-      "end_sec": 640.37
+      "start_sec": 633.95,
+      "end_sec": 641.65
     }
   ],
-  "wall_time_sec": 9.93,
-  "audio_url": "/audio/ai/20260522_172148.mp3?v=1779446129"
+  "wall_time_sec": 9.83,
+  "audio_url": "/audio/ai/20260522_172148.mp3?v=1779446456"
 }
