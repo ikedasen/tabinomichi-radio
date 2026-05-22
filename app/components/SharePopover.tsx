@@ -54,10 +54,10 @@ export default function SharePopover({ title, url: urlOverride, variant = 'amber
     const sep = targetUrl.includes('?') ? '&' : '?'
     const bucket = Math.floor(Date.now() / (5 * 60 * 1000))
     const freshUrl = `${targetUrl}${sep}_card=${bucket}`
-    // tweet 本文には title を入れる (= user が編集領域で何を共有してるか分かる)。
-    // サイト名 suffix は card preview の description で出るので post compose には載せない
-    // (= 元の「{title} ー{SITE_NAME}」だと card title と suffix 部分が並んで重複感)。
-    const shareText = title || SITE_NAME
+    // X 共有では post body にサイト名だけ + URL を貼る。
+    // X の OG card preview に title + 画像が表示されるので、post body に title を
+    // 入れると card title と並んで「同じ title 2 回」の重複見えになる (5/22 user 確認)。
+    const shareText = SITE_NAME
     const u = `https://x.com/intent/post?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(freshUrl)}`
     openIntent(u)
   }
