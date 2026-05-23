@@ -1,16 +1,17 @@
 {
   "profile": "indie",
   "generated_at": "2026-05-19T18:55:20+09:00",
-  "title": "推理ゲーの祖、神戸へ 〜1983年、堀井雄二が拓いた扉〜",
+  "title": "ファミコン推理ADVの金字塔、神戸へ 〜1983年、堀井雄二が拓いた扉〜",
   "audio_path": "indie_latest.wav",
-  "duration_sec": 478.59,
+  "duration_sec": 484.3,
+  "script_hash": "sha256:98f630ac36feb34c50d28a17883030669d1a11ba76bb77c4f38e0d111501a64f",
   "segments": [
     {
       "index": -1,
       "type": "intro",
       "text": "🎵 ジングル + 旅の道ラジオ！",
       "start_sec": 0.0,
-      "end_sec": 6.47
+      "end_sec": 8.19
     },
     {
       "index": 0,
@@ -19,8 +20,8 @@
       "tone": "normal",
       "text": "こんばんはなのだー！旅の道ラジオ夜便、ずんだもんなのだー！",
       "news_index": 1,
-      "start_sec": 6.47,
-      "end_sec": 10.66
+      "start_sec": 8.19,
+      "end_sec": 12.39
     },
     {
       "index": 1,
@@ -29,8 +30,8 @@
       "tone": "amaama",
       "text": "またまた、あーしも来たっすよー！今夜のテーマは『ポートピア連続殺人事件』っす！",
       "news_index": 1,
-      "start_sec": 10.81,
-      "end_sec": 16.39
+      "start_sec": 12.54,
+      "end_sec": 18.12
     },
     {
       "index": 2,
@@ -39,18 +40,18 @@
       "tone": "kamera",
       "text": "夜のお供のオタクくん、ボクらと一緒に深掘りするのだー！",
       "news_index": 1,
-      "start_sec": 16.54,
-      "end_sec": 20.27
+      "start_sec": 18.27,
+      "end_sec": 22.0
     },
     {
       "index": 3,
       "type": "speech",
       "speaker": "tsumugi",
       "tone": "normal",
-      "text": "今夜は日本のアドベンチャーゲームの祖を掘るっす。1983年に出たやつっす。",
+      "text": "今夜はファミコンADVの礎を築いたとも言われる名作を掘るっす。1983年に出たやつっす。",
       "news_index": 1,
-      "start_sec": 20.42,
-      "end_sec": 25.64
+      "start_sec": 22.15,
+      "end_sec": 28.71
     },
     {
       "index": 4,
@@ -59,8 +60,8 @@
       "tone": "shock",
       "text": "1983年!? ボクがまだ枝豆としてずんだの里で揺れてた時代かもしれないのだー",
       "news_index": 1,
-      "start_sec": 25.79,
-      "end_sec": 32.25
+      "start_sec": 28.86,
+      "end_sec": 35.32
     },
     {
       "index": 5,
@@ -69,8 +70,8 @@
       "tone": "tsuntsun",
       "text": "先輩、妖精に枝豆時代とかあるんすか w。普通におじいちゃんおばあちゃんが小学生の頃っすよ",
       "news_index": 1,
-      "start_sec": 32.4,
-      "end_sec": 38.52
+      "start_sec": 35.47,
+      "end_sec": 41.6
     },
     {
       "index": 6,
@@ -79,8 +80,8 @@
       "tone": "normal",
       "text": "誰が作ったやつなのだ?",
       "news_index": 1,
-      "start_sec": 38.67,
-      "end_sec": 40.52
+      "start_sec": 41.75,
+      "end_sec": 43.59
     },
     {
       "index": 7,
@@ -89,8 +90,8 @@
       "tone": "amaama",
       "text": "堀井雄二っす! そう、ドラクエの堀井雄二っすよ!",
       "news_index": 1,
-      "start_sec": 40.67,
-      "end_sec": 44.23
+      "start_sec": 43.74,
+      "end_sec": 47.3
     },
     {
       "index": 8,
@@ -99,8 +100,8 @@
       "tone": "miage",
       "text": "ええっ、ドラクエの堀井さんの作品なのだ!? でもドラクエより前なのだ?",
       "news_index": 1,
-      "start_sec": 44.38,
-      "end_sec": 49.62
+      "start_sec": 47.45,
+      "end_sec": 52.69
     },
     {
       "index": 9,
@@ -109,8 +110,8 @@
       "tone": "normal",
       "text": "そうっす。ドラクエの3年前に出した、堀井さんの代表作の1つっす",
       "news_index": 1,
-      "start_sec": 49.77,
-      "end_sec": 54.37
+      "start_sec": 52.84,
+      "end_sec": 57.44
     },
     {
       "index": 10,
@@ -119,8 +120,8 @@
       "tone": "niyari",
       "text": "つまり国民的RPGの前に、国民的探偵ゲーがあったってことなのだ",
       "news_index": 1,
-      "start_sec": 54.52,
-      "end_sec": 60.16
+      "start_sec": 57.59,
+      "end_sec": 63.23
     },
     {
       "index": 11,
@@ -129,18 +130,18 @@
       "tone": "kamera",
       "text": "要するに、ADVは堀井さんの原点っす。オタクくん、ここ覚えとくっす",
       "news_index": 1,
-      "start_sec": 60.31,
-      "end_sec": 65.26
+      "start_sec": 63.38,
+      "end_sec": 68.33
     },
     {
       "index": 12,
       "type": "speech",
       "speaker": "tsumugi",
       "tone": "normal",
-      "text": "あーしね、これMSX2版を中古屋で発掘して遊んだっす。カートリッジまだ動くっすよ",
+      "text": "あーしね、これMSX版を中古屋で発掘して遊んだっす。カートリッジまだ動くっすよ",
       "news_index": 1,
-      "start_sec": 65.34,
-      "end_sec": 71.17
+      "start_sec": 68.41,
+      "end_sec": 74.08
     },
     {
       "index": 13,
@@ -149,8 +150,8 @@
       "tone": "shock",
       "text": "発掘って、つむぎ考古学者なのだ?",
       "news_index": 1,
-      "start_sec": 71.32,
-      "end_sec": 74.23
+      "start_sec": 74.23,
+      "end_sec": 77.15
     },
     {
       "index": 14,
@@ -159,8 +160,8 @@
       "tone": "amaama",
       "text": "ゲーム考古学者っす! ギャル友達には絶対言えない趣味っすね",
       "news_index": 1,
-      "start_sec": 74.38,
-      "end_sec": 78.31
+      "start_sec": 77.3,
+      "end_sec": 81.22
     },
     {
       "index": 15,
@@ -169,8 +170,8 @@
       "tone": "niyari",
       "text": "ギャル友達って実在するのだ? イマージナリーフレンド説あるのだ",
       "news_index": 1,
-      "start_sec": 78.46,
-      "end_sec": 83.21
+      "start_sec": 81.37,
+      "end_sec": 86.12
     },
     {
       "index": 16,
@@ -179,8 +180,8 @@
       "tone": "shirake",
       "text": "先輩。そういうの一番効くからやめてほしいっす",
       "news_index": 1,
-      "start_sec": 83.36,
-      "end_sec": 86.92
+      "start_sec": 86.27,
+      "end_sec": 89.83
     },
     {
       "index": 17,
@@ -189,8 +190,8 @@
       "tone": "namidame",
       "text": "ご、ごめんなさいなのだ。ボクが悪かったのだ",
       "news_index": 1,
-      "start_sec": 87.07,
-      "end_sec": 91.34
+      "start_sec": 89.98,
+      "end_sec": 94.25
     },
     {
       "index": 18,
@@ -199,8 +200,8 @@
       "tone": "normal",
       "text": "コホン。初出は1983年6月、PC-6001版から始まったっす",
       "news_index": 1,
-      "start_sec": 91.49,
-      "end_sec": 97.22
+      "start_sec": 94.4,
+      "end_sec": 100.14
     },
     {
       "index": 19,
@@ -209,8 +210,8 @@
       "tone": "gurugru",
       "text": "PC-6001。なんかロボットの型番みたいなのだ",
       "news_index": 1,
-      "start_sec": 97.37,
-      "end_sec": 102.31
+      "start_sec": 100.29,
+      "end_sec": 105.23
     },
     {
       "index": 20,
@@ -219,8 +220,8 @@
       "tone": "normal",
       "text": "NECの8ビットパソコンっす。当時パソコンが家庭に入り始めた頃っす",
       "news_index": 1,
-      "start_sec": 102.46,
-      "end_sec": 107.36
+      "start_sec": 105.38,
+      "end_sec": 110.27
     },
     {
       "index": 21,
@@ -229,8 +230,8 @@
       "tone": "normal",
       "text": "じゃあ最初はファミコンじゃなかったのだ?",
       "news_index": 1,
-      "start_sec": 107.51,
-      "end_sec": 109.96
+      "start_sec": 110.42,
+      "end_sec": 112.87
     },
     {
       "index": 22,
@@ -239,8 +240,8 @@
       "tone": "amaama",
       "text": "そう! パソコン用、それも堀井さんが1人で全部作ったやつっす",
       "news_index": 1,
-      "start_sec": 110.11,
-      "end_sec": 114.62
+      "start_sec": 113.02,
+      "end_sec": 117.54
     },
     {
       "index": 23,
@@ -249,8 +250,8 @@
       "tone": "shock",
       "text": "1人? それゲーム作ってるんじゃなくて、ゲームに憑依されてるのだ",
       "news_index": 1,
-      "start_sec": 114.77,
-      "end_sec": 119.54
+      "start_sec": 117.69,
+      "end_sec": 122.45
     },
     {
       "index": 24,
@@ -259,8 +260,8 @@
       "tone": "normal",
       "text": "憑依じゃなくて当時の標準っす。分業がほぼ無くて個人開発が主流だったっす",
       "news_index": 1,
-      "start_sec": 119.69,
-      "end_sec": 124.84
+      "start_sec": 122.6,
+      "end_sec": 127.76
     },
     {
       "index": 25,
@@ -269,8 +270,8 @@
       "tone": "heart",
       "text": "それでも全部1人はヤバいのだ。堀井さん天才すぎなのだー",
       "news_index": 1,
-      "start_sec": 124.99,
-      "end_sec": 129.72
+      "start_sec": 127.91,
+      "end_sec": 132.63
     },
     {
       "index": 26,
@@ -279,8 +280,8 @@
       "tone": "kamera",
       "text": "要するに、当時のゲーム作家は1人映画監督ノリだったっす",
       "news_index": 1,
-      "start_sec": 129.87,
-      "end_sec": 133.97
+      "start_sec": 132.78,
+      "end_sec": 136.88
     },
     {
       "index": 27,
@@ -289,8 +290,8 @@
       "tone": "normal",
       "text": "そっから、どうやってファミコンに来たのだ?",
       "news_index": 1,
-      "start_sec": 134.12,
-      "end_sec": 136.78
+      "start_sec": 137.03,
+      "end_sec": 139.69
     },
     {
       "index": 28,
@@ -299,8 +300,8 @@
       "tone": "normal",
       "text": "1985年11月29日にファミコン移植っす。ファミコン初のADVっす",
       "news_index": 1,
-      "start_sec": 136.93,
-      "end_sec": 142.85
+      "start_sec": 139.84,
+      "end_sec": 145.76
     },
     {
       "index": 29,
@@ -309,8 +310,8 @@
       "tone": "yubisashi",
       "text": "ファミコン初! そのタイトル、賞状ほしいレベルなのだ!",
       "news_index": 1,
-      "start_sec": 143.0,
-      "end_sec": 146.59
+      "start_sec": 145.91,
+      "end_sec": 149.5
     },
     {
       "index": 30,
@@ -319,8 +320,8 @@
       "tone": "amaama",
       "text": "賞状はもらえないっすけど、歴史には刻まれてるっす",
       "news_index": 1,
-      "start_sec": 146.74,
-      "end_sec": 150.04
+      "start_sec": 149.65,
+      "end_sec": 152.96
     },
     {
       "index": 31,
@@ -329,8 +330,8 @@
       "tone": "normal",
       "text": "それまでファミコンってアクション中心じゃなかったのだ?",
       "news_index": 1,
-      "start_sec": 150.19,
-      "end_sec": 153.44
+      "start_sec": 153.11,
+      "end_sec": 156.35
     },
     {
       "index": 32,
@@ -339,8 +340,8 @@
       "tone": "normal",
       "text": "そう、マリオとかゼビウスとか。そこに推理ゲーがいきなり殴り込んだっす",
       "news_index": 1,
-      "start_sec": 153.59,
-      "end_sec": 158.11
+      "start_sec": 156.5,
+      "end_sec": 161.02
     },
     {
       "index": 33,
@@ -349,8 +350,8 @@
       "tone": "normal",
       "text": "開発はどこなのだ?",
       "news_index": 1,
-      "start_sec": 158.26,
-      "end_sec": 159.91
+      "start_sec": 161.17,
+      "end_sec": 162.82
     },
     {
       "index": 34,
@@ -359,8 +360,8 @@
       "tone": "normal",
       "text": "発売はエニックス、開発はチュンソフトっす",
       "news_index": 1,
-      "start_sec": 160.06,
-      "end_sec": 163.08
+      "start_sec": 162.97,
+      "end_sec": 165.99
     },
     {
       "index": 35,
@@ -369,8 +370,8 @@
       "tone": "miage",
       "text": "チュンソフトって、後にかまいたちの夜を作るあのチュンソフトなのだ?",
       "news_index": 1,
-      "start_sec": 163.23,
-      "end_sec": 167.91
+      "start_sec": 166.14,
+      "end_sec": 170.83
     },
     {
       "index": 36,
@@ -379,8 +380,8 @@
       "tone": "amaama",
       "text": "そう! ここから超大事な話っす",
       "news_index": 1,
-      "start_sec": 168.06,
-      "end_sec": 170.51
+      "start_sec": 170.98,
+      "end_sec": 173.42
     },
     {
       "index": 37,
@@ -389,8 +390,8 @@
       "tone": "normal",
       "text": "堀井さんがデザイン、チュンソフトが開発。この体制が後のドラクエに引き継がれるっす",
       "news_index": 1,
-      "start_sec": 170.59,
-      "end_sec": 175.95
+      "start_sec": 173.5,
+      "end_sec": 178.86
     },
     {
       "index": 38,
@@ -399,18 +400,18 @@
       "tone": "shock",
       "text": "ええっ!? ドラクエの製作チーム、ここで結成されてたのだ!?",
       "news_index": 1,
-      "start_sec": 176.1,
-      "end_sec": 180.44
+      "start_sec": 179.01,
+      "end_sec": 183.35
     },
     {
       "index": 39,
       "type": "speech",
       "speaker": "tsumugi",
       "tone": "kamera",
-      "text": "要するに、日本のRPG史はポートピアから始まってるってことっす",
+      "text": "要するに、ポートピアで堀井さんとチュンソフトが組んだことが、そのままドラクエへとつながってくってことっす",
       "news_index": 1,
-      "start_sec": 180.59,
-      "end_sec": 185.0
+      "start_sec": 183.5,
+      "end_sec": 189.63
     },
     {
       "index": 40,
@@ -419,8 +420,8 @@
       "tone": "normal",
       "text": "ところで、ゲームの中身はどんな話なのだ?",
       "news_index": 1,
-      "start_sec": 185.15,
-      "end_sec": 188.22
+      "start_sec": 189.78,
+      "end_sec": 192.85
     },
     {
       "index": 41,
@@ -429,8 +430,8 @@
       "tone": "normal",
       "text": "神戸市が舞台で、ある社長が屋敷で死んでるところから始まるっす",
       "news_index": 1,
-      "start_sec": 188.37,
-      "end_sec": 192.47
+      "start_sec": 193.0,
+      "end_sec": 197.1
     },
     {
       "index": 42,
@@ -439,8 +440,8 @@
       "tone": "normal",
       "text": "プレイヤーは何者なのだ?",
       "news_index": 1,
-      "start_sec": 192.62,
-      "end_sec": 194.58
+      "start_sec": 197.25,
+      "end_sec": 199.21
     },
     {
       "index": 43,
@@ -449,8 +450,8 @@
       "tone": "normal",
       "text": "プレイヤーは刑事、相棒のヤスと一緒に捜査するっす",
       "news_index": 1,
-      "start_sec": 194.73,
-      "end_sec": 198.21
+      "start_sec": 199.36,
+      "end_sec": 202.84
     },
     {
       "index": 44,
@@ -459,8 +460,8 @@
       "tone": "niyari",
       "text": "ヤス! 名前だけは妙に有名なのだ",
       "news_index": 1,
-      "start_sec": 198.36,
-      "end_sec": 201.23
+      "start_sec": 202.99,
+      "end_sec": 205.85
     },
     {
       "index": 45,
@@ -469,8 +470,8 @@
       "tone": "amaama",
       "text": "ヤスの話は後でちょっと触れるっす。まずシステムの話っす",
       "news_index": 1,
-      "start_sec": 201.38,
-      "end_sec": 205.17
+      "start_sec": 206.0,
+      "end_sec": 209.8
     },
     {
       "index": 46,
@@ -479,8 +480,8 @@
       "tone": "normal",
       "text": "オリジナルのパソコン版は、コマンド入力式だったっす",
       "news_index": 1,
-      "start_sec": 205.25,
-      "end_sec": 208.62
+      "start_sec": 209.88,
+      "end_sec": 213.25
     },
     {
       "index": 47,
@@ -489,8 +490,8 @@
       "tone": "gurugru",
       "text": "コマンド入力って?",
       "news_index": 1,
-      "start_sec": 208.77,
-      "end_sec": 210.81
+      "start_sec": 213.4,
+      "end_sec": 215.44
     },
     {
       "index": 48,
@@ -499,8 +500,8 @@
       "tone": "normal",
       "text": "キーボードでカタカナで、キキコミ シロ、とか自分で打ち込むんすよ",
       "news_index": 1,
-      "start_sec": 210.96,
-      "end_sec": 214.91
+      "start_sec": 215.59,
+      "end_sec": 219.54
     },
     {
       "index": 49,
@@ -509,8 +510,8 @@
       "tone": "shock",
       "text": "全部手打ち!? それゲームじゃなくて事務作業なのだ!",
       "news_index": 1,
-      "start_sec": 215.06,
-      "end_sec": 218.6
+      "start_sec": 219.69,
+      "end_sec": 223.23
     },
     {
       "index": 50,
@@ -519,8 +520,8 @@
       "tone": "normal",
       "text": "事務作業に推理が混ざってる感じっす。正解の動詞を当てるパズルだったっす",
       "news_index": 1,
-      "start_sec": 218.75,
-      "end_sec": 223.57
+      "start_sec": 223.38,
+      "end_sec": 228.2
     },
     {
       "index": 51,
@@ -529,8 +530,8 @@
       "tone": "herohero",
       "text": "それボク絶対詰むのだ。最初の部屋から出られないのだー",
       "news_index": 1,
-      "start_sec": 223.72,
-      "end_sec": 229.11
+      "start_sec": 228.35,
+      "end_sec": 233.74
     },
     {
       "index": 52,
@@ -539,8 +540,8 @@
       "tone": "amaama",
       "text": "そこで! ファミコン版ではコマンド選択式に切り替わったっす!",
       "news_index": 1,
-      "start_sec": 229.26,
-      "end_sec": 233.03
+      "start_sec": 233.89,
+      "end_sec": 237.66
     },
     {
       "index": 53,
@@ -549,18 +550,18 @@
       "tone": "yubisashi",
       "text": "選ぶだけ! ボクみたいな現代っ子に優しい改革なのだ!",
       "news_index": 1,
-      "start_sec": 233.18,
-      "end_sec": 236.94
+      "start_sec": 237.81,
+      "end_sec": 241.57
     },
     {
       "index": 54,
       "type": "speech",
       "speaker": "tsumugi",
       "tone": "normal",
-      "text": "ファミコンはキーボード無いから選ぶ方式にしたっす。これが大発明っす",
+      "text": "ファミコンはキーボード無いから選ぶ方式にしたっす。これがファミコン版での大きな転換点だったっす",
       "news_index": 1,
-      "start_sec": 237.09,
-      "end_sec": 241.45
+      "start_sec": 241.72,
+      "end_sec": 247.53
     },
     {
       "index": 55,
@@ -569,8 +570,8 @@
       "tone": "kamera",
       "text": "要するに、移植のために編み出された選択式が日本のADVのスタンダードになったっす",
       "news_index": 1,
-      "start_sec": 241.53,
-      "end_sec": 246.96
+      "start_sec": 247.61,
+      "end_sec": 253.04
     },
     {
       "index": 56,
@@ -579,8 +580,8 @@
       "tone": "normal",
       "text": "じゃあ、ヤスとの捜査ってどんな感じなのだ?",
       "news_index": 1,
-      "start_sec": 247.11,
-      "end_sec": 250.21
+      "start_sec": 253.19,
+      "end_sec": 256.29
     },
     {
       "index": 57,
@@ -589,8 +590,8 @@
       "tone": "normal",
       "text": "場所を移動して、聞き込みして、証拠を集めて、容疑者と話してって感じっす",
       "news_index": 1,
-      "start_sec": 250.36,
-      "end_sec": 255.43
+      "start_sec": 256.44,
+      "end_sec": 261.51
     },
     {
       "index": 58,
@@ -599,8 +600,8 @@
       "tone": "amaama",
       "text": "完全に2時間ドラマの再現Vなのだ!",
       "news_index": 1,
-      "start_sec": 255.58,
-      "end_sec": 258.68
+      "start_sec": 261.66,
+      "end_sec": 264.76
     },
     {
       "index": 59,
@@ -609,8 +610,8 @@
       "tone": "amaama",
       "text": "それっす! あーし、当時のドラマ風な雰囲気がガチで好きっすね",
       "news_index": 1,
-      "start_sec": 258.83,
-      "end_sec": 262.98
+      "start_sec": 264.91,
+      "end_sec": 269.06
     },
     {
       "index": 60,
@@ -619,8 +620,8 @@
       "tone": "normal",
       "text": "ヤスは喋るのだ?",
       "news_index": 1,
-      "start_sec": 263.13,
-      "end_sec": 264.6
+      "start_sec": 269.21,
+      "end_sec": 270.67
     },
     {
       "index": 61,
@@ -629,8 +630,8 @@
       "tone": "normal",
       "text": "プレイヤーの命令を受けて動くっす。文字通り二人三脚っす",
       "news_index": 1,
-      "start_sec": 264.75,
-      "end_sec": 268.6
+      "start_sec": 270.82,
+      "end_sec": 274.68
     },
     {
       "index": 62,
@@ -639,8 +640,8 @@
       "tone": "heart",
       "text": "相棒もの! ボクそういうの大好きなのだ!",
       "news_index": 1,
-      "start_sec": 268.75,
-      "end_sec": 271.72
+      "start_sec": 274.83,
+      "end_sec": 277.8
     },
     {
       "index": 63,
@@ -649,8 +650,8 @@
       "tone": "normal",
       "text": "ちなみに事件の核心は絶対バラさないっすからね。これから遊ぶ人もいるっす",
       "news_index": 1,
-      "start_sec": 271.87,
-      "end_sec": 276.51
+      "start_sec": 277.95,
+      "end_sec": 282.59
     },
     {
       "index": 64,
@@ -659,8 +660,8 @@
       "tone": "yubisashi",
       "text": "そこ大事! ネタバレ厳禁なのだ!",
       "news_index": 1,
-      "start_sec": 276.66,
-      "end_sec": 279.1
+      "start_sec": 282.74,
+      "end_sec": 285.18
     },
     {
       "index": 65,
@@ -669,8 +670,8 @@
       "tone": "kangae",
       "text": "ただ、ひとつだけ文化的な話していいっすか?",
       "news_index": 1,
-      "start_sec": 279.25,
-      "end_sec": 282.4
+      "start_sec": 285.33,
+      "end_sec": 288.48
     },
     {
       "index": 66,
@@ -679,8 +680,8 @@
       "tone": "normal",
       "text": "なになに?",
       "news_index": 1,
-      "start_sec": 282.55,
-      "end_sec": 283.51
+      "start_sec": 288.63,
+      "end_sec": 289.59
     },
     {
       "index": 67,
@@ -689,8 +690,8 @@
       "tone": "normal",
       "text": "このゲーム、犯人は誰々、ってフレーズが日本一有名なネタバレ文として広まったっす",
       "news_index": 1,
-      "start_sec": 283.66,
-      "end_sec": 289.14
+      "start_sec": 289.74,
+      "end_sec": 295.22
     },
     {
       "index": 68,
@@ -699,8 +700,8 @@
       "tone": "shock",
       "text": "ネタバレ文に日本一があるのだ!? どんなジャンルなのだ!",
       "news_index": 1,
-      "start_sec": 289.29,
-      "end_sec": 292.98
+      "start_sec": 295.37,
+      "end_sec": 299.06
     },
     {
       "index": 69,
@@ -709,8 +710,8 @@
       "tone": "amaama",
       "text": "ゲーム遊んだことない人でも犯人の名前知ってる、ってレベルっす",
       "news_index": 1,
-      "start_sec": 293.13,
-      "end_sec": 297.03
+      "start_sec": 299.21,
+      "end_sec": 303.11
     },
     {
       "index": 70,
@@ -719,8 +720,8 @@
       "tone": "niyari",
       "text": "犯人が本編より有名な逆転現象、起こってるのだ",
       "news_index": 1,
-      "start_sec": 297.18,
-      "end_sec": 301.38
+      "start_sec": 303.26,
+      "end_sec": 307.46
     },
     {
       "index": 71,
@@ -729,8 +730,8 @@
       "tone": "normal",
       "text": "あーしは絶対言わないっす。でも、それくらいインパクトのある作品だったっす",
       "news_index": 1,
-      "start_sec": 301.53,
-      "end_sec": 306.28
+      "start_sec": 307.61,
+      "end_sec": 312.36
     },
     {
       "index": 72,
@@ -739,8 +740,8 @@
       "tone": "kamera",
       "text": "要するに、犯人の名前が一人歩きするくらい話題になったっす",
       "news_index": 1,
-      "start_sec": 306.36,
-      "end_sec": 310.27
+      "start_sec": 312.44,
+      "end_sec": 316.35
     },
     {
       "index": 73,
@@ -749,8 +750,8 @@
       "tone": "normal",
       "text": "他に堀井さんはミステリー作品作ったのだ?",
       "news_index": 1,
-      "start_sec": 310.42,
-      "end_sec": 313.6
+      "start_sec": 316.5,
+      "end_sec": 319.68
     },
     {
       "index": 74,
@@ -759,8 +760,8 @@
       "tone": "normal",
       "text": "1984年に『オホーツクに消ゆ』、1985年に『軽井沢誘拐案内』っす",
       "news_index": 1,
-      "start_sec": 313.75,
-      "end_sec": 320.67
+      "start_sec": 319.83,
+      "end_sec": 326.75
     },
     {
       "index": 75,
@@ -769,8 +770,8 @@
       "tone": "normal",
       "text": "ポートピア、オホーツク、軽井沢。完全に旅行パンフレットなのだ",
       "news_index": 1,
-      "start_sec": 320.82,
-      "end_sec": 325.41
+      "start_sec": 326.9,
+      "end_sec": 331.49
     },
     {
       "index": 76,
@@ -779,8 +780,8 @@
       "tone": "amaama",
       "text": "旅行じゃなくて事件っす! 堀井ミステリー三部作って呼ぶっす!",
       "news_index": 1,
-      "start_sec": 325.56,
-      "end_sec": 329.26
+      "start_sec": 331.64,
+      "end_sec": 335.34
     },
     {
       "index": 77,
@@ -789,8 +790,8 @@
       "tone": "heart",
       "text": "三部作って単語だけでコンプ欲そそられるのだ",
       "news_index": 1,
-      "start_sec": 329.41,
-      "end_sec": 332.97
+      "start_sec": 335.49,
+      "end_sec": 339.05
     },
     {
       "index": 78,
@@ -799,8 +800,8 @@
       "tone": "normal",
       "text": "ちなみにコマンド選択方式はオホーツクが先で、ポートピアFC版が継承したっす",
       "news_index": 1,
-      "start_sec": 333.12,
-      "end_sec": 338.45
+      "start_sec": 339.2,
+      "end_sec": 344.53
     },
     {
       "index": 79,
@@ -809,8 +810,8 @@
       "tone": "miage",
       "text": "へえー、選択式の本当の元祖はオホーツクなのだ?",
       "news_index": 1,
-      "start_sec": 338.6,
-      "end_sec": 342.66
+      "start_sec": 344.68,
+      "end_sec": 348.74
     },
     {
       "index": 80,
@@ -819,8 +820,8 @@
       "tone": "kamera",
       "text": "要するに、堀井さんが日本のADVのインターフェース設計者でもあったってことっす",
       "news_index": 1,
-      "start_sec": 342.81,
-      "end_sec": 347.82
+      "start_sec": 348.89,
+      "end_sec": 353.9
     },
     {
       "index": 81,
@@ -829,8 +830,8 @@
       "tone": "amaama",
       "text": "あと、もう1個ヤバい話していいっすか",
       "news_index": 1,
-      "start_sec": 347.9,
-      "end_sec": 350.7
+      "start_sec": 353.98,
+      "end_sec": 356.78
     },
     {
       "index": 82,
@@ -839,8 +840,8 @@
       "tone": "normal",
       "text": "なんなのだ?",
       "news_index": 1,
-      "start_sec": 350.85,
-      "end_sec": 351.9
+      "start_sec": 356.93,
+      "end_sec": 357.98
     },
     {
       "index": 83,
@@ -849,8 +850,8 @@
       "tone": "normal",
       "text": "小島秀夫監督が、ゲーム業界を志すきっかけになった作品の1つにこれを挙げてるっす",
       "news_index": 1,
-      "start_sec": 352.05,
-      "end_sec": 357.73
+      "start_sec": 358.13,
+      "end_sec": 363.81
     },
     {
       "index": 84,
@@ -859,8 +860,8 @@
       "tone": "shock",
       "text": "小島監督!? メタルギアの!?",
       "news_index": 1,
-      "start_sec": 357.88,
-      "end_sec": 360.34
+      "start_sec": 363.96,
+      "end_sec": 366.42
     },
     {
       "index": 85,
@@ -869,8 +870,8 @@
       "tone": "amaama",
       "text": "元々映画監督志望だった小島さんが、これ遊んで、ゲームでも映画ができるって気づいたっす",
       "news_index": 1,
-      "start_sec": 360.49,
-      "end_sec": 366.29
+      "start_sec": 366.57,
+      "end_sec": 372.36
     },
     {
       "index": 86,
@@ -879,8 +880,8 @@
       "tone": "miage",
       "text": "ポートピアが小島監督の人生をハッキングしたのだ",
       "news_index": 1,
-      "start_sec": 366.44,
-      "end_sec": 370.18
+      "start_sec": 372.51,
+      "end_sec": 376.26
     },
     {
       "index": 87,
@@ -889,8 +890,8 @@
       "tone": "normal",
       "text": "ハッキング表現がしっくり来るっす。1986年にコナミ入社したっす",
       "news_index": 1,
-      "start_sec": 370.33,
-      "end_sec": 375.42
+      "start_sec": 376.41,
+      "end_sec": 381.5
     },
     {
       "index": 88,
@@ -899,8 +900,8 @@
       "tone": "heart",
       "text": "つまり、小島監督の物語志向のゲーム作り、原点のひとつはここなのだ",
       "news_index": 1,
-      "start_sec": 375.57,
-      "end_sec": 381.63
+      "start_sec": 381.65,
+      "end_sec": 387.71
     },
     {
       "index": 89,
@@ -909,8 +910,8 @@
       "tone": "kamera",
       "text": "要するに、ポートピアは後のクリエイターにゲームで物語を語る可能性を見せた作品でもあったっす",
       "news_index": 1,
-      "start_sec": 381.78,
-      "end_sec": 387.88
+      "start_sec": 387.86,
+      "end_sec": 393.96
     },
     {
       "index": 90,
@@ -919,8 +920,8 @@
       "tone": "normal",
       "text": "今この時代に遊ぶ手段はあるのだ?",
       "news_index": 1,
-      "start_sec": 388.03,
-      "end_sec": 390.56
+      "start_sec": 394.11,
+      "end_sec": 396.63
     },
     {
       "index": 91,
@@ -929,8 +930,8 @@
       "tone": "normal",
       "text": "スクエニ公式のAI Tech Preview版がSteamで無料配信されてるっす。AI技術のデモを兼ねた特別版っす",
       "news_index": 1,
-      "start_sec": 390.71,
-      "end_sec": 397.57
+      "start_sec": 396.78,
+      "end_sec": 403.65
     },
     {
       "index": 92,
@@ -939,8 +940,8 @@
       "tone": "amaama",
       "text": "おお、PCで無料で触れるのだ!",
       "news_index": 1,
-      "start_sec": 397.72,
-      "end_sec": 400.33
+      "start_sec": 403.8,
+      "end_sec": 406.41
     },
     {
       "index": 93,
@@ -949,8 +950,8 @@
       "tone": "amaama",
       "text": "ADVの源流を体験するなら、これっす……と言いたいところっすけど、結構、賛否両論な感じっすね",
       "news_index": 1,
-      "start_sec": 400.48,
-      "end_sec": 407.42
+      "start_sec": 406.56,
+      "end_sec": 413.5
     },
     {
       "index": 94,
@@ -959,8 +960,8 @@
       "tone": "kangae",
       "text": "なんで賛否両論なのだ？",
       "news_index": 1,
-      "start_sec": 407.57,
-      "end_sec": 409.52
+      "start_sec": 413.65,
+      "end_sec": 415.6
     },
     {
       "index": 95,
@@ -969,8 +970,8 @@
       "tone": "normal",
       "text": "ぶっちゃけ、売りにしてた肝心のAI技術の出来がいまいちだったっす。なので原作の雰囲気に浸りたいのならファミコン版がおすすめっすよ",
       "news_index": 1,
-      "start_sec": 409.67,
-      "end_sec": 417.64
+      "start_sec": 415.75,
+      "end_sec": 423.72
     },
     {
       "index": 96,
@@ -979,8 +980,8 @@
       "tone": "niyari",
       "text": "むむむ……敷居は高そうだけど、ボクもヤスと組んで神戸を駆け回るのだー",
       "news_index": 1,
-      "start_sec": 417.79,
-      "end_sec": 422.85
+      "start_sec": 423.87,
+      "end_sec": 428.93
     },
     {
       "index": 97,
@@ -989,8 +990,8 @@
       "tone": "amaama",
       "text": "ファミコン版定価は5,500円、当時としては標準的な価格帯っす",
       "news_index": 1,
-      "start_sec": 423.0,
-      "end_sec": 427.58
+      "start_sec": 429.08,
+      "end_sec": 433.66
     },
     {
       "index": 98,
@@ -999,8 +1000,8 @@
       "tone": "normal",
       "text": "5,500円。ずんだの里のお小遣いだと半年分の魂を捧げる金額なのだ",
       "news_index": 1,
-      "start_sec": 427.73,
-      "end_sec": 433.58
+      "start_sec": 433.81,
+      "end_sec": 439.66
     },
     {
       "index": 99,
@@ -1009,8 +1010,8 @@
       "tone": "normal",
       "text": "魂は要らないっす。当時はみんな兄弟と分担して買ってたっすね",
       "news_index": 1,
-      "start_sec": 433.73,
-      "end_sec": 438.0
+      "start_sec": 439.81,
+      "end_sec": 444.08
     },
     {
       "index": 100,
@@ -1019,18 +1020,18 @@
       "tone": "nagomi",
       "text": "枝豆同士で回し合うの、ほっこりするのだなあ",
       "news_index": 1,
-      "start_sec": 438.15,
-      "end_sec": 441.36
+      "start_sec": 444.23,
+      "end_sec": 447.44
     },
     {
       "index": 101,
       "type": "speech",
       "speaker": "tsumugi",
       "tone": "normal",
-      "text": "今朝のまとめっす。1983年パソコン版で誕生、1985年ファミコン初のADVとして移植、選択式の元祖になった作品っす",
+      "text": "今朝のまとめっす。1983年パソコン版で誕生、1985年ファミコン初のADVとして移植、ファミコンでコマンド選択式ADVを広めた作品っす",
       "news_index": 1,
-      "start_sec": 441.51,
-      "end_sec": 451.46
+      "start_sec": 447.59,
+      "end_sec": 458.59
     },
     {
       "index": 102,
@@ -1039,8 +1040,8 @@
       "tone": "kamera",
       "text": "そして堀井雄二+チュンソフト体制の原点、後のドラクエへ繋がる伝説の結成回なのだ!",
       "news_index": 1,
-      "start_sec": 451.61,
-      "end_sec": 457.91
+      "start_sec": 458.74,
+      "end_sec": 465.05
     },
     {
       "index": 103,
@@ -1049,18 +1050,18 @@
       "tone": "kamera",
       "text": "これがあるから今のADVがあるっす。原点に触れてほしいっす",
       "news_index": 1,
-      "start_sec": 458.06,
-      "end_sec": 462.06
+      "start_sec": 465.2,
+      "end_sec": 469.2
     },
     {
       "index": 104,
       "type": "speech",
       "speaker": "zunda",
       "tone": "mic",
-      "text": "通勤通学のお供は旅の道ラジオ朝便なのだ! また会おうなのだー!",
+      "text": "夜のお供は旅の道ラジオ夜便なのだ! また会おうなのだー!",
       "news_index": 1,
-      "start_sec": 462.21,
-      "end_sec": 466.86
+      "start_sec": 469.35,
+      "end_sec": 473.44
     },
     {
       "index": 105,
@@ -1069,17 +1070,17 @@
       "tone": "amaama",
       "text": "ばいばーい! 今日も1日、いい日にするっすよー!",
       "news_index": 1,
-      "start_sec": 467.01,
-      "end_sec": 470.19
+      "start_sec": 473.59,
+      "end_sec": 476.77
     },
     {
       "index": 9999,
       "type": "outro",
       "text": "🎵 ジングル + またね！",
-      "start_sec": 470.89,
-      "end_sec": 478.59
+      "start_sec": 477.47,
+      "end_sec": 484.3
     }
   ],
-  "wall_time_sec": 8.52,
-  "audio_url": "/audio/indie/20260519_185520.mp3?v=1779203503"
+  "wall_time_sec": 8.56,
+  "audio_url": "/audio/indie/20260519_185520.mp3?v=1779543749"
 }
