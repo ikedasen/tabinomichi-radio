@@ -180,7 +180,7 @@ function GameImageRotator({ cover, screenshots, alt }: { cover: string; screensh
 
 export default function RadioPage() {
   return (
-    <Suspense fallback={<div className="min-h-screen bg-slate-900" />}>
+    <Suspense fallback={<div className="min-h-screen bg-[#171a21]" />}>
       <RadioPageInner />
     </Suspense>
   )
@@ -831,7 +831,7 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
   const progressFrac = duration > 0 ? currentTime / duration : 0
 
   return (
-    <main className="min-h-screen bg-gradient-to-br from-slate-950 via-slate-900 to-slate-950 text-zinc-100">
+    <main className="min-h-screen bg-gradient-to-br from-[#1b2838] via-[#1b2838] to-[#171a21] text-zinc-100">
       {/* hidden audio: ローディング中も DOM に維持してナビ間で MediaSession を継続させる。
           MP3 を Blob として fetch して in-memory 再生するのでシーク可能 */}
       <audio ref={audioRef} src={blobUrl || undefined} preload="auto" hidden />
@@ -908,7 +908,7 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
                   const fallback = currentCover?.og_image || null
                   if (!fallback) {
                     return (
-                      <div className="w-full h-full bg-gradient-to-br from-orange-800 to-zinc-900 flex items-center justify-center text-7xl">
+                      <div className="w-full h-full bg-gradient-to-br from-[#1b2838] to-zinc-900 flex items-center justify-center text-7xl">
                         📻
                       </div>
                     )
@@ -1076,7 +1076,7 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
                     {currentSegment.text}
                   </p>
                 ) : currentSegment && currentSegment.type === 'music' ? (
-                  <p className="text-center text-base md:text-lg leading-relaxed text-amber-200 px-4 py-4 max-w-[92%] max-h-[88%] overflow-hidden [text-shadow:_0_0_6px_rgb(0_0_0_/_0.95),_0_2px_4px_rgb(0_0_0_/_0.9)]">
+                  <p className="text-center text-base md:text-lg leading-relaxed text-[#c7d5e0] px-4 py-4 max-w-[92%] max-h-[88%] overflow-hidden [text-shadow:_0_0_6px_rgb(0_0_0_/_0.95),_0_2px_4px_rgb(0_0_0_/_0.9)]">
                     🎵 {currentSegment.intro_text}
                   </p>
                 ) : null}
@@ -1394,7 +1394,7 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
         )}
 
         {!loading && !error && program && !audioUrl && (
-          <div className="bg-amber-950/40 border border-amber-700/40 rounded-2xl p-4 text-amber-200">
+          <div className="bg-[#171a21]/40 border border-[#66c0f4]/40 rounded-2xl p-4 text-[#c7d5e0]">
             台本はあるけど音声がまだ生成されていない。<code>radio_synthesize.py --all</code> を実行してください。
           </div>
         )}

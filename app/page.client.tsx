@@ -178,17 +178,17 @@ export default function PageClient() {
   })()
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-slate-950 via-slate-900 to-slate-950 text-zinc-100">
-      <header className="sticky top-0 z-40 bg-gradient-to-b from-slate-950 to-slate-950/0 backdrop-blur-sm">
+    <div className="min-h-screen bg-gradient-to-br from-[#1b2838] via-[#1b2838] to-[#171a21] text-zinc-100">
+      <header className="sticky top-0 z-40 bg-gradient-to-b from-[#171a21] to-[#171a21]/0 backdrop-blur-sm">
         <div className="max-w-5xl mx-auto px-3 md:px-4 py-2 md:py-5 flex items-center justify-between gap-3">
           <h1 className="text-lg md:text-3xl font-bold text-white inline-flex items-center gap-2 md:gap-2.5 tracking-tight whitespace-nowrap">
-            <MaskIcon src="/icons/radio.svg" className="w-4 h-4 md:w-6 md:h-6 text-amber-300" />
+            <MaskIcon src="/icons/radio.svg" className="w-4 h-4 md:w-6 md:h-6 text-[#66c0f4]" />
             Tabinomichi Radio
           </h1>
           <div className="flex items-center gap-2">
             <a
               href="https://tabinomichi.jp/"
-              className="text-xs md:text-sm text-amber-200/80 hover:text-amber-100 tracking-widest border-b border-amber-200/30 hover:border-amber-100 transition-colors pb-px"
+              className="text-xs md:text-sm text-[#c7d5e0]/80 hover:text-[#c7d5e0] tracking-widest border-b border-[#c7d5e0]/30 hover:border-[#c7d5e0] transition-colors pb-px"
             >
               ← TABINOMICHI
             </a>
@@ -199,7 +199,7 @@ export default function PageClient() {
 
       <div className="max-w-5xl mx-auto px-4 py-8">
         {/* プロファイル切替タブ */}
-        <div className="mb-6 flex items-center gap-2 border-b border-amber-200/15">
+        <div className="mb-6 flex items-center gap-2 border-b border-[#c7d5e0]/15">
           {([
             { key: 'indie', label: 'ゲーム' },
             { key: 'ai',    label: 'テックニュース' },
@@ -213,13 +213,13 @@ export default function PageClient() {
                 className={
                   'relative px-4 py-2.5 text-sm md:text-base font-medium transition-colors ' +
                   (active
-                    ? 'text-amber-200'
-                    : 'text-amber-100/50 hover:text-amber-100/80')
+                    ? 'text-[#c7d5e0]'
+                    : 'text-[#c7d5e0]/50 hover:text-[#c7d5e0]/80')
                 }
               >
                 {tab.label}
                 {active && (
-                  <span className="absolute left-0 right-0 -bottom-px h-0.5 bg-amber-300" />
+                  <span className="absolute left-0 right-0 -bottom-px h-0.5 bg-[#66c0f4]" />
                 )}
               </button>
             )
@@ -228,32 +228,32 @@ export default function PageClient() {
 
         {filterGenre && (
           <div className="mb-6 flex items-center gap-2 text-sm">
-            <span className="text-amber-200/80">ジャンルで絞り込み中:</span>
-            <span className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-amber-400/20 ring-1 ring-amber-300/40 text-amber-100">
+            <span className="text-[#c7d5e0]/80">ジャンルで絞り込み中:</span>
+            <span className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-[#66c0f4]/20 ring-1 ring-[#66c0f4]/40 text-[#c7d5e0]">
               {filterGenre}
-              <Link href="/" className="text-amber-200/70 hover:text-white" aria-label="フィルタ解除">×</Link>
+              <Link href="/" className="text-[#c7d5e0]/70 hover:text-white" aria-label="フィルタ解除">×</Link>
             </span>
           </div>
         )}
 
         {loading && (
           <div className="text-center py-16">
-            <LoadingSpinner className="h-8 w-8 text-amber-300 mx-auto mb-3" />
-            <p className="text-sm text-amber-100/70">エピソードを読み込み中…</p>
+            <LoadingSpinner className="h-8 w-8 text-[#66c0f4] mx-auto mb-3" />
+            <p className="text-sm text-[#c7d5e0]/70">エピソードを読み込み中…</p>
           </div>
         )}
 
         {!loading && episodes.length === 0 && (
-          <div className="text-center py-16 text-amber-100/70 text-sm">
+          <div className="text-center py-16 text-[#c7d5e0]/70 text-sm">
             まだラジオ番組が生成されていません。
           </div>
         )}
 
         {!loading && episodes.length > 0 && filteredEpisodes.length === 0 && (
-          <div className="text-center py-16 text-amber-100/70 text-sm">
+          <div className="text-center py-16 text-[#c7d5e0]/70 text-sm">
             「{filterGenre}」に該当するエピソードはまだ無いっす。
             <div className="mt-3">
-              <Link href="/" className="text-amber-200 hover:text-white underline">← 全エピソードを表示</Link>
+              <Link href="/" className="text-[#c7d5e0] hover:text-white underline">← 全エピソードを表示</Link>
             </div>
           </div>
         )}
@@ -264,15 +264,15 @@ export default function PageClient() {
               const firstIso = dayEpisodes[0]?.generated_at
               return (
                 <section key={key}>
-                  <div className="flex items-center justify-between gap-3 mb-4 border-b border-amber-200/20 pb-2">
-                    <h2 className="text-lg md:text-xl font-bold text-amber-100 tracking-wide">
+                  <div className="flex items-center justify-between gap-3 mb-4 border-b border-[#c7d5e0]/20 pb-2">
+                    <h2 className="text-lg md:text-xl font-bold text-[#c7d5e0] tracking-wide">
                       {firstIso ? formatDate(firstIso) : key}
                     </h2>
                     <Link
                       href={`/radio?date=${key}&queue=1`}
                       className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full
-                                 bg-amber-500/15 hover:bg-amber-400/25 ring-1 ring-amber-300/30
-                                 text-xs md:text-sm font-medium text-amber-100 transition-colors"
+                                 bg-[#66c0f4]/15 hover:bg-[#66c0f4]/25 ring-1 ring-[#66c0f4]/30
+                                 text-xs md:text-sm font-medium text-[#c7d5e0] transition-colors"
                       title="この日付の番組を上から順に連続再生"
                     >
                       <span aria-hidden className="text-base leading-none -translate-y-px">▶</span>
@@ -310,7 +310,7 @@ export default function PageClient() {
                                   onError={(e) => { (e.currentTarget as HTMLImageElement).style.visibility = 'hidden' }}
                                 />
                               ) : (
-                                <div className="absolute inset-0 w-full h-full bg-gradient-to-br from-orange-700 to-amber-900 flex items-center justify-center text-5xl">📻</div>
+                                <div className="absolute inset-0 w-full h-full bg-gradient-to-br from-[#2a475e] to-[#1b2838] flex items-center justify-center text-5xl">📻</div>
                               )}
                               <HomeViewCount count={viewCounts[ep.episode_id]} />
                             </div>
@@ -324,7 +324,7 @@ export default function PageClient() {
                                   className="absolute inset-0 w-full h-full object-cover scale-110 blur-xl"
                                 />
                               ) : (
-                                <div className="absolute inset-0 bg-gradient-to-br from-orange-800 to-amber-950" />
+                                <div className="absolute inset-0 bg-gradient-to-br from-[#1b2838] to-[#171a21]" />
                               )}
                               <div className="absolute inset-0 bg-zinc-900/45" />
                               <div className="relative z-10 h-full px-4 py-3 flex flex-col">
@@ -335,10 +335,10 @@ export default function PageClient() {
                                   <p className="text-xs text-zinc-100/80 leading-relaxed line-clamp-2 mb-auto">{shortDesc}</p>
                                 ) : <div className="mb-auto" />}
                                 <div className="flex items-center justify-between gap-2 text-xs pt-1">
-                                  <div className="text-amber-300 font-medium truncate">
+                                  <div className="text-[#66c0f4] font-medium truncate">
                                     {game?.title || ''}
                                   </div>
-                                  <div className="shrink-0 text-amber-200/80 tabular-nums">
+                                  <div className="shrink-0 text-[#c7d5e0]/80 tabular-nums">
                                     {ep.generated_at ? formatDate(ep.generated_at) : ''}
                                   </div>
                                 </div>
@@ -359,7 +359,7 @@ export default function PageClient() {
                                   onError={(e) => { (e.currentTarget as HTMLImageElement).style.visibility = 'hidden' }}
                                 />
                               ) : (
-                                <div className="absolute inset-0 w-full h-full bg-gradient-to-br from-orange-700 to-amber-900 flex items-center justify-center text-5xl">📻</div>
+                                <div className="absolute inset-0 w-full h-full bg-gradient-to-br from-[#2a475e] to-[#1b2838] flex items-center justify-center text-5xl">📻</div>
                               )}
                               <div className="absolute inset-0 bg-gradient-to-t from-black/40 via-transparent to-transparent pointer-events-none" />
                               <HomeViewCount count={viewCounts[ep.episode_id]} />
@@ -370,10 +370,10 @@ export default function PageClient() {
                                 {ep.title}
                               </h3>
                               <div className="flex items-center justify-between gap-3 mb-2">
-                                <div className="text-sm text-amber-300 font-medium truncate">
+                                <div className="text-sm text-[#66c0f4] font-medium truncate">
                                   {game?.title || ''}
                                 </div>
-                                <div className="shrink-0 inline-flex items-center gap-1.5 text-sm font-medium text-amber-200 group-hover:text-amber-100 transition-colors">
+                                <div className="shrink-0 inline-flex items-center gap-1.5 text-sm font-medium text-[#c7d5e0] group-hover:text-[#c7d5e0] transition-colors">
                                   <MaskIcon src="/icons/radio.svg" className="w-4 h-4 -translate-y-0.5" />
                                   ラジオで聞く
                                 </div>
@@ -394,7 +394,7 @@ export default function PageClient() {
               <div className="flex justify-center pt-4">
                 <button
                   onClick={() => setDisplayCount((c) => c + PAGE_SIZE)}
-                  className="px-6 py-2.5 rounded-full bg-amber-500/20 hover:bg-amber-400/30 ring-1 ring-amber-300/40 text-sm font-medium text-amber-100 transition-colors"
+                  className="px-6 py-2.5 rounded-full bg-[#66c0f4]/20 hover:bg-[#66c0f4]/30 ring-1 ring-[#66c0f4]/40 text-sm font-medium text-[#c7d5e0] transition-colors"
                 >
                   もっと見る (残り {filteredEpisodes.length - displayCount} 件)
                 </button>

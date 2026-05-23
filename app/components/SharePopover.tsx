@@ -73,7 +73,7 @@ export default function SharePopover({ title, url: urlOverride, variant = 'amber
   }
 
   const triggerCls = variant === 'amber'
-    ? 'text-amber-200/80 hover:text-amber-100'
+    ? 'text-[#c7d5e0]/80 hover:text-[#c7d5e0]'
     : 'text-zinc-300 hover:text-white'
 
   return (
