@@ -85,7 +85,7 @@ export async function generateMetadata(
 
 export default function EpisodePage({ params }: { params: { episode_id: string } }) {
   return (
-    <Suspense fallback={<div className="min-h-screen bg-amber-950" />}>
+    <Suspense fallback={<div className="min-h-screen bg-slate-900" />}>
       <RadioPageInner initialEpisode={params.episode_id} />
     </Suspense>
   )

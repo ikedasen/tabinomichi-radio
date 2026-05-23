@@ -180,7 +180,7 @@ function GameImageRotator({ cover, screenshots, alt }: { cover: string; screensh
 
 export default function RadioPage() {
   return (
-    <Suspense fallback={<div className="min-h-screen bg-amber-950" />}>
+    <Suspense fallback={<div className="min-h-screen bg-slate-900" />}>
       <RadioPageInner />
     </Suspense>
   )
@@ -831,7 +831,7 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
   const progressFrac = duration > 0 ? currentTime / duration : 0
 
   return (
-    <main className="min-h-screen bg-gradient-to-br from-amber-950 via-orange-900 to-amber-950 text-zinc-100">
+    <main className="min-h-screen bg-gradient-to-br from-slate-950 via-slate-900 to-slate-950 text-zinc-100">
       {/* hidden audio: ローディング中も DOM に維持してナビ間で MediaSession を継続させる。
           MP3 を Blob として fetch して in-memory 再生するのでシーク可能 */}
       <audio ref={audioRef} src={blobUrl || undefined} preload="auto" hidden />

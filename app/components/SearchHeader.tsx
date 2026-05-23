@@ -12,7 +12,7 @@ interface SearchHeaderProps {
 
 export default function SearchHeader(_props: SearchHeaderProps) {
   return (
-    <header className="sticky top-0 z-40 bg-gradient-to-b from-amber-950 to-amber-950/0 backdrop-blur-sm">
+    <header className="sticky top-0 z-40 bg-gradient-to-b from-slate-950 to-slate-950/0 backdrop-blur-sm">
       <div className="max-w-5xl mx-auto px-3 md:px-4 py-4 md:py-5">
         <h1 className="text-2xl md:text-3xl font-bold text-white inline-flex items-baseline gap-2.5 tracking-tight">
           <span
