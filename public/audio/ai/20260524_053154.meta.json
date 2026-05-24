@@ -1,0 +1,796 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-05-24T05:31:54+09:00",
+  "title": "ディープシーク34倍引きの朝 〜AIが安く・速く・軍にまで届いた一週間〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 439.26,
+  "script_hash": "sha256:b45d8d6086dcca433503ba0fa551cd6bbadae1e776194dfbd4a5b05021aab4ea",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 6.34
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "intro",
+      "text": "おはようございます、旅の道ラジオ朝便、テックニュースの回。四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 6.34,
+      "end_sec": 11.56
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今日もテックの話、軽くサクッといくのだー!",
+      "news_index": 0,
+      "start_sec": 11.71,
+      "end_sec": 16.46
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今朝は4本立て。AIの値段、開発者の働き方、軍とAIの距離、それと音楽AIのオープン化、って並び。",
+      "news_index": 0,
+      "start_sec": 16.61,
+      "end_sec": 24.65
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "値段から軍まで、振れ幅えぐいじゃん!",
+      "news_index": 0,
+      "start_sec": 24.8,
+      "end_sec": 27.48
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "全部つながってんのよ、これが。じゃあ1本目、いきましょ。",
+      "news_index": 0,
+      "start_sec": 27.63,
+      "end_sec": 31.05
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "1本目、お金の話。ディープシーク・ブイフォープロの75%値引きが、永久化に決まったわ。",
+      "news_index": 1,
+      "start_sec": 31.13,
+      "end_sec": 37.53
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ブイフォープロ? ええっと、何の話か全然見えてないのだ。",
+      "news_index": 1,
+      "start_sec": 37.68,
+      "end_sec": 41.97
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ディープシークは中国のAI会社、安さで業界を揺らしてる存在ね。ブイフォープロはその新モデル。値引きは元々今月末で終わる予定だったの。",
+      "news_index": 1,
+      "start_sec": 42.12,
+      "end_sec": 51.47
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "それを「ずっとこの値段でいきます」って宣言したってことなのだ?",
+      "news_index": 1,
+      "start_sec": 51.62,
+      "end_sec": 55.94
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう、今の一行が正解。期間延長じゃなくて、永久。",
+      "news_index": 1,
+      "start_sec": 56.09,
+      "end_sec": 60.06
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、いくらなのだ? 比較対象が無いとピンと来ないのだ。",
+      "news_index": 1,
+      "start_sec": 60.21,
+      "end_sec": 64.14
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "出力100万トークンあたり87セント。日本円でだいたい130円。同じ100万トークンで、ジーピーティー5.5は30ドル、約4,500円。",
+      "news_index": 1,
+      "start_sec": 64.29,
+      "end_sec": 74.52
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、34倍違うじゃん!?",
+      "news_index": 1,
+      "start_sec": 74.67,
+      "end_sec": 77.21
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そう、34倍。長いコンテキストで使うと、もっと開いて51倍差になるわ。",
+      "news_index": 1,
+      "start_sec": 77.36,
+      "end_sec": 83.22
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ちょっと待つのだ、100万トークンって、ボクの感覚だとどれくらいなのだ?",
+      "news_index": 1,
+      "start_sec": 83.37,
+      "end_sec": 88.18
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "原稿用紙でだいたい2,500枚分。長編小説1本まるごと処理できる量よ。",
+      "news_index": 1,
+      "start_sec": 88.33,
+      "end_sec": 93.66
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "小説1本処理して130円!? それ、コンビニのおにぎり1個と同じくらいなのだ!",
+      "news_index": 1,
+      "start_sec": 93.81,
+      "end_sec": 99.91
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ただし、ね。性能で言うと、最高峰のジーピーティー5.5やオーパス4.7には届かない。",
+      "news_index": 1,
+      "start_sec": 100.06,
+      "end_sec": 106.7
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "あー、安いのには理由あるパターンなのだ。",
+      "news_index": 1,
+      "start_sec": 106.85,
+      "end_sec": 109.93
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。けど「ほぼ十分」な性能で34分の1。スタートアップとか個人開発者は、迷う余地が小さくなったわ。",
+      "news_index": 1,
+      "start_sec": 110.08,
+      "end_sec": 117.9
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、ボクたち一般リスナーにはどう影響するのだ?",
+      "news_index": 1,
+      "start_sec": 118.05,
+      "end_sec": 121.7
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに、これから使うAIサービスの月額が値下げ競争に入る前夜、ってこと。",
+      "news_index": 1,
+      "start_sec": 121.85,
+      "end_sec": 127.19
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "AIサブスク、安くなるかもなのだ! ボクの財布、ちょっと嬉しいのだ!",
+      "news_index": 1,
+      "start_sec": 127.34,
+      "end_sec": 132.82
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "オープンエーアイとアンソロピックには「据え置きでいいの?」って圧がかかる構図ね。じゃあ2本目いくわよ。",
+      "news_index": 1,
+      "start_sec": 132.97,
+      "end_sec": 139.31
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "2本目、開発者文化の話。アンソロピックがロンドンで「コード・ウィズ・クロード」っていう開発者カンファレンスを開いたのよ。",
+      "news_index": 2,
+      "start_sec": 139.39,
+      "end_sec": 147.49
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "コード・ウィズ・クロード? クロードと一緒にコードを書くお祭りってことなのだ?",
+      "news_index": 2,
+      "start_sec": 147.64,
+      "end_sec": 152.98
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そのまんま。5月19日と20日、世界中のプログラマーが集まったの。で、そこで判明したのが衝撃ネタ。",
+      "news_index": 2,
+      "start_sec": 153.13,
+      "end_sec": 160.34
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "衝撃ネタ、教えてほしいのだ!",
+      "news_index": 2,
+      "start_sec": 160.49,
+      "end_sec": 162.84
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "参加者のほぼ半数が「直近1週間で、クロードが全部書いたコード変更を、自分で読まずに本番に投入した」って答えたのよ。",
+      "news_index": 2,
+      "start_sec": 162.99,
+      "end_sec": 171.77
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? 読まずに本番!? それ何が起きてもおかしくないやつじゃん!?",
+      "news_index": 2,
+      "start_sec": 171.92,
+      "end_sec": 176.44
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ピーアールっていう、コード変更の提案ね。それを誰のチェックも入れずにそのまま承認、本番投入の流れ。",
+      "news_index": 2,
+      "start_sec": 176.59,
+      "end_sec": 183.3
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "それ、ボクが宿題をAIにやらせて、自分で見ずに先生に提出してるのと同じなのだ?",
+      "news_index": 2,
+      "start_sec": 183.45,
+      "end_sec": 189.78
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "構造はまったく同じ。違うのは「宿題」が「会社のお客さん向けサービス」になってる点だけ。",
+      "news_index": 2,
+      "start_sec": 189.93,
+      "end_sec": 195.98
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "怖いのだ! バグ出たら誰のせいなのだ!?",
+      "news_index": 2,
+      "start_sec": 196.13,
+      "end_sec": 198.99
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "現場の合言葉が「クロードを信じろ」だって。もう半分宗教ね。",
+      "news_index": 2,
+      "start_sec": 199.14,
+      "end_sec": 203.67
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "他に新発表は無かったのだ?",
+      "news_index": 2,
+      "start_sec": 203.82,
+      "end_sec": 206.03
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "「ドリーミング」って新機能も出たわ。複数のクロードがそれぞれ書いた作業メモを後でまとめて、コード全体の理解を深める仕組み。",
+      "news_index": 2,
+      "start_sec": 206.18,
+      "end_sec": 213.98
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "AI同士でメモを共有してるってことなのだ? なんかSFっぽくて好きなのだ。",
+      "news_index": 2,
+      "start_sec": 214.13,
+      "end_sec": 219.87
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "で、我々非エンジニアにどう影響するか? 我々が毎日使ってるアプリのコードが、人間が読んでない状態で動いてる時代が、もう日常になってる。",
+      "news_index": 2,
+      "start_sec": 220.02,
+      "end_sec": 229.71
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "アプリが急にバグったら、犯人はクロードなのだ……。",
+      "news_index": 2,
+      "start_sec": 229.86,
+      "end_sec": 234.13
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "責任の所在がぼやけてくるのが、これからのテーマよ。じゃあ3本目。",
+      "news_index": 2,
+      "start_sec": 234.28,
+      "end_sec": 238.33
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "3本目、ちょっと毛色変えて軍の話。米サイバー軍が、AIを国家機密ネットワークに導入する計画を本格化させたわ。",
+      "news_index": 3,
+      "start_sec": 238.41,
+      "end_sec": 246.57
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "サイバー軍? 米軍にそんな部隊あるのだ?",
+      "news_index": 3,
+      "start_sec": 246.72,
+      "end_sec": 250.02
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "あるのよ。ハッキングと防御を専門にする軍の部隊ね。今回オープンエーアイ・グーグル・アンソロピック3社のAIを評価してる。",
+      "news_index": 3,
+      "start_sec": 250.17,
+      "end_sec": 257.73
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "軍がAIを何に使うのだ?",
+      "news_index": 3,
+      "start_sec": 257.88,
+      "end_sec": 260.2
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "人間のハッカーより速く脆弱性、つまりソフトの欠陥を見つけて潰す。攻撃と防御、両方に使う。",
+      "news_index": 3,
+      "start_sec": 260.35,
+      "end_sec": 267.21
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "両方なのだ!? 守るだけじゃなくて、攻めるのにも使うのだ!?",
+      "news_index": 3,
+      "start_sec": 267.36,
+      "end_sec": 271.6
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "そう。で、候補に挙がってるのがクロード・ミュトス。アンソロピックが自分で「国家安全保障に深刻なリスクある」って言って一般公開を絞ってるモデル。",
+      "news_index": 3,
+      "start_sec": 271.75,
+      "end_sec": 281.53
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ええっ!? 危険すぎて公開できないモデルを、軍だけが使うってことなのだ!?",
+      "news_index": 3,
+      "start_sec": 281.68,
+      "end_sec": 286.89
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "軍の言い分は「同じ性能のツールが半年から2年で世間に広まる。だから先に押さえる」って論理。",
+      "news_index": 3,
+      "start_sec": 287.04,
+      "end_sec": 293.78
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、ボクたちにはどう影響するのだ?",
+      "news_index": 3,
+      "start_sec": 293.93,
+      "end_sec": 296.69
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今すぐは関係ない。けどこれが普及した先、「AI同士のサイバー戦争」が現実化する。",
+      "news_index": 3,
+      "start_sec": 296.84,
+      "end_sec": 302.86
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "AI同士が戦って、人間は画面眺めてるだけ、なのだ……。",
+      "news_index": 3,
+      "start_sec": 303.01,
+      "end_sec": 308.83
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ま、暗い話はここまで。次、明るい話に行きましょ。",
+      "news_index": 3,
+      "start_sec": 308.98,
+      "end_sec": 312.67
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "ラスト4本目、音楽の話。「ステーブル・オーディオ3.0」っていう音楽生成AIがリリースされたわ。",
+      "news_index": 4,
+      "start_sec": 312.75,
+      "end_sec": 320.16
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "音楽AI! 文字で指示すると曲を作ってくれるやつなのだ?",
+      "news_index": 4,
+      "start_sec": 320.31,
+      "end_sec": 324.54
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、そのタイプ。今回の新版は、大きく2つ変わったの。",
+      "news_index": 4,
+      "start_sec": 324.69,
+      "end_sec": 328.75
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "2つ? 教えてほしいのだ。",
+      "news_index": 4,
+      "start_sec": 328.9,
+      "end_sec": 331.07
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "1つ目、最長6分の曲が作れるようになった。これまで2分とか3分でブツ切れだったのが、ワンコーラスちゃんと終わる長さに。",
+      "news_index": 4,
+      "start_sec": 331.22,
+      "end_sec": 338.81
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "6分って、ふつうの曲1曲分なのだ! ボクのよく聴くやつ、それくらいの長さなのだ!",
+      "news_index": 4,
+      "start_sec": 338.96,
+      "end_sec": 344.87
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "2つ目、オープンウェイト公開。中身まるごと無料で配ってるのよ。",
+      "news_index": 4,
+      "start_sec": 345.02,
+      "end_sec": 349.0
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "無料配布!? 会社、お金にならないじゃん!?",
+      "news_index": 4,
+      "start_sec": 349.15,
+      "end_sec": 352.44
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "出してるのはスタビリティ・エーアイっていう会社。競合の「スノ」と「ユディオ」が今、アメリカで巨額訴訟を喰らってる真っ最中なのよ。",
+      "news_index": 4,
+      "start_sec": 352.59,
+      "end_sec": 361.48
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "スノとユディオ? 初めて聞くのだ、何の会社?",
+      "news_index": 4,
+      "start_sec": 361.63,
+      "end_sec": 365.16
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "どっちも音楽生成AIの競合。著作権でレコード会社にガッツリ訴えられてる。",
+      "news_index": 4,
+      "start_sec": 365.31,
+      "end_sec": 370.64
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あっ! それで「うちはオープンで自由ですよ」って立ち位置を取りに来たってことなのだ?",
+      "news_index": 4,
+      "start_sec": 370.79,
+      "end_sec": 376.29
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ご名答。要するに、敵が裁判で消耗してる間に味方を増やす戦略ね。",
+      "news_index": 4,
+      "start_sec": 376.44,
+      "end_sec": 381.26
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、ボクたちにはどう影響するのだ?",
+      "news_index": 4,
+      "start_sec": 381.41,
+      "end_sec": 384.18
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "ゲーム開発者・映像クリエイターのBGM作りが、激安、というか無料に近くなる。",
+      "news_index": 4,
+      "start_sec": 384.33,
+      "end_sec": 390.55
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "同人ゲームのBGMがリッチになる時代なのだ!? 嬉しいやつなのだ!",
+      "news_index": 4,
+      "start_sec": 390.7,
+      "end_sec": 395.95
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "インディー界隈、確実に底上げされるわよ。",
+      "news_index": 4,
+      "start_sec": 396.1,
+      "end_sec": 398.96
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで今朝のテック朝便、4本立て。ディープシーク34倍引き、クロードがコード勝手にマージ、米サイバー軍AI、音楽AIオープン化、って並びだったわ。",
+      "news_index": 0,
+      "start_sec": 399.04,
+      "end_sec": 410.02
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "全部、AIが「安く・速く・どこにでも」入ってきてる話なのだ!",
+      "news_index": 0,
+      "start_sec": 410.17,
+      "end_sec": 415.38
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "気になったやつあったら、自分でも調べてみてね。",
+      "news_index": 0,
+      "start_sec": 415.53,
+      "end_sec": 418.55
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ボクはディープシーク、試してみたいのだ! 130円でおにぎり1個ぶんの仕事してくれるかもなのだ!",
+      "news_index": 0,
+      "start_sec": 418.7,
+      "end_sec": 425.87
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "それじゃ、また明日のテック朝便で。",
+      "news_index": 0,
+      "start_sec": 426.02,
+      "end_sec": 428.25
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "またなのだー! いってらっしゃいなのだー!",
+      "news_index": 0,
+      "start_sec": 428.4,
+      "end_sec": 430.86
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 431.56,
+      "end_sec": 439.26
+    }
+  ],
+  "wall_time_sec": 7.17,
+  "audio_url": "/audio/ai/20260524_053154.mp3?v=1779586614"
+}

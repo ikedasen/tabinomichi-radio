@@ -1,0 +1,705 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-05-24T05:16:50+09:00",
+  "title": "七つの王冠と織り手の少女 〜南部ゴシックが九部門のうち七つを巻き取った朝〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 406.86,
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 4.64
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便、めたんよ。",
+      "news_index": 0,
+      "start_sec": 4.64,
+      "end_sec": 8.37
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ずんだもん登場なのだー! 朝便なのだー!",
+      "news_index": 0,
+      "start_sec": 8.52,
+      "end_sec": 11.38
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "通勤通学のお供にどうぞ。今朝はね、爽やかな朝にしては結構な大ニュースを持ってきたわよ。",
+      "news_index": 0,
+      "start_sec": 11.53,
+      "end_sec": 17.63
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "えっ、なんの話なのだ? 朝から胸熱なのだ?",
+      "news_index": 0,
+      "start_sec": 17.78,
+      "end_sec": 21.78
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "カナダのゲーム賞「カナディアン・ゲーム・アワード2026」、つい先日5月22日に発表されたんだけど、9部門中7部門を1本のゲームが独占したのよ。",
+      "news_index": 0,
+      "start_sec": 21.93,
+      "end_sec": 32.61
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "9つ中7つって、ほぼ全制覇じゃんなのだ!? なんてゲームなのだ?",
+      "news_index": 0,
+      "start_sec": 32.76,
+      "end_sec": 37.44
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "『サウス・オブ・ミッドナイト』。コンパルジョン・ゲームズっていうモントリオールのスタジオが作った、南部ゴシック・ファンタジーのアクション・アドベンチャーね。",
+      "news_index": 1,
+      "start_sec": 37.59,
+      "end_sec": 46.52
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "南部ゴシックって、サザンオールスターズみたいなやつなのだ?",
+      "news_index": 1,
+      "start_sec": 46.67,
+      "end_sec": 50.57
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "あれは日本の湘南よ。規模もジャンルも違いすぎるわ。",
+      "news_index": 1,
+      "start_sec": 50.72,
+      "end_sec": 54.11
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "......ごめんなさいなのだ......",
+      "news_index": 1,
+      "start_sec": 54.26,
+      "end_sec": 55.5
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "南部ゴシックっていうのは、アメリカ南部の土着信仰や民話、ブルース、湿地帯の風景を混ぜたダークな作風のジャンルね。古い屋敷とか沼地の幽霊話とか、そういう空気感。",
+      "news_index": 1,
+      "start_sec": 55.65,
+      "end_sec": 66.84
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "なるほどなのだ、和風で言ったら遠野物語みたいな雰囲気のアメリカ版ってことなのだね。",
+      "news_index": 1,
+      "start_sec": 66.99,
+      "end_sec": 72.55
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "あ、その例えはうまいわ。要するに「土地に染み付いた怪異と向き合う話」ね。",
+      "news_index": 1,
+      "start_sec": 72.7,
+      "end_sec": 78.15
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "主人公はどんな子なのだ?",
+      "news_index": 1,
+      "start_sec": 78.3,
+      "end_sec": 80.29
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ヘイゼル・フラッドっていう若い女の子。ハリケーンで故郷の街「プロスペロ」が壊滅したところから物語が始まるのよ。",
+      "news_index": 1,
+      "start_sec": 80.44,
+      "end_sec": 88.28
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "嵐で街がなくなるところからスタートって、結構ハードな入りなのだ......",
+      "news_index": 1,
+      "start_sec": 88.43,
+      "end_sec": 94.38
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、ヘイゼルは「ウィーバー」、つまり織り手の力に目覚めて、壊れた絆や霊たちを縫い直していくの。",
+      "news_index": 1,
+      "start_sec": 94.53,
+      "end_sec": 100.94
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "織り手なのだー! ボクが小学生のとき家庭科で習った機織りと一緒なのだ!?",
+      "news_index": 1,
+      "start_sec": 101.09,
+      "end_sec": 106.6
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "全然違うわよ。魔法で「世界の綻び」を縫い合わせる感じね。",
+      "news_index": 1,
+      "start_sec": 106.75,
+      "end_sec": 111.22
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "なるほどなのだー! お裁縫が魔法になるってロマンあるのだ!",
+      "news_index": 1,
+      "start_sec": 111.37,
+      "end_sec": 115.52
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに「修繕の魔法」よ。糸を引いて霊を解放する戦闘システムらしいわ。",
+      "news_index": 1,
+      "start_sec": 115.67,
+      "end_sec": 121.17
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "戦って倒すんじゃなくて、ほどいて鎮める方なのだ。優しいゲームなのだね。",
+      "news_index": 1,
+      "start_sec": 121.32,
+      "end_sec": 126.25
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "見た目も特徴的でね、ストップモーション・アニメ風のビジュアル。表情のフレームをわざと落として「コマ撮り感」を出してるのよ。",
+      "news_index": 1,
+      "start_sec": 126.4,
+      "end_sec": 134.1
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ストップモーションって、粘土人形をカクカク動かすやつなのだ?",
+      "news_index": 1,
+      "start_sec": 134.25,
+      "end_sec": 138.46
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、要するに「全部滑らかに動かさず、コマを抜くことで手触り感を出す」演出ね。映画スパイダーバースと同じ手法。",
+      "news_index": 1,
+      "start_sec": 138.61,
+      "end_sec": 146.5
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "あれ、めたん、要約うまいのだ! 朝はキレ味鋭いのだ!",
+      "news_index": 1,
+      "start_sec": 146.65,
+      "end_sec": 150.73
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、作ったのはコンパルジョン・ゲームズ。2009年にギヨーム・プロヴォストさんがモントリオールで立ち上げたスタジオなのよ。",
+      "news_index": 1,
+      "start_sec": 150.88,
+      "end_sec": 158.15
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "モントリオール......カナダなのだね。カナダのゲーム賞でカナダのスタジオが勝つの、地元無双感あるのだ。",
+      "news_index": 1,
+      "start_sec": 158.3,
+      "end_sec": 164.64
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "面白いのが代表のプロヴォストさんは元アーケイン・スタジオの人。ディスオナードとかを作ってる名門ね。",
+      "news_index": 1,
+      "start_sec": 164.79,
+      "end_sec": 170.76
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "えっ、すごい血統書付きのスタジオじゃんなのだ!",
+      "news_index": 1,
+      "start_sec": 170.91,
+      "end_sec": 174.0
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "過去作も語っておくと、2013年に『コントラスト』っていう影を使うパズルアクション、2018年に『ウィー・ハッピー・フュー』っていうディストピア・サバイバル。",
+      "news_index": 1,
+      "start_sec": 174.15,
+      "end_sec": 184.82
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ウィー・ハッピー・フューは話題になってたよね。マスクで笑顔を強制するディストピアのやつなのだ。",
+      "news_index": 1,
+      "start_sec": 184.97,
+      "end_sec": 191.06
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そうそう、それ。ちょうど同じ2018年にマイクロソフトに買収されて、エックスボックス・ファミリー入りしたのよ。当時40人くらいの小所帯。",
+      "news_index": 1,
+      "start_sec": 191.21,
+      "end_sec": 200.22
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "40人かー......ボクの幼稚園のクラス2クラス分なのだ。",
+      "news_index": 1,
+      "start_sec": 200.37,
+      "end_sec": 204.22
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "比喩が幼稚園で止まってるのよ......。今は90人くらいに増えてるけど、それでもエックスボックス系列の中では一番小さい部類のスタジオね。",
+      "news_index": 1,
+      "start_sec": 204.37,
+      "end_sec": 212.71
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "大企業の中の小さいチームが大賞を根こそぎ持っていく、っていう構図が胸熱すぎるのだー!",
+      "news_index": 1,
+      "start_sec": 212.86,
+      "end_sec": 219.6
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ取った7部門、列挙するわよ。ゲーム・オブ・ザ・イヤー、最優秀アートディレクション、ナラティブ、サウンドトラック、オーディオデザイン、コンソール部門。",
+      "news_index": 1,
+      "start_sec": 219.75,
+      "end_sec": 229.87
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "待って、いま6つ言ったのだ!",
+      "news_index": 1,
+      "start_sec": 230.02,
+      "end_sec": 232.02
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "あら、いい指摘。最後にスタジオ・オブ・ザ・イヤー、コンパルジョン自身もここで取ってるのよ。これで7つ。",
+      "news_index": 1,
+      "start_sec": 232.17,
+      "end_sec": 239.41
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "6つ作品で1つ会社、合わせて7つなのだ! 朝から算数できたのだ、ボク偉いのだ!",
+      "news_index": 1,
+      "start_sec": 239.56,
+      "end_sec": 246.28
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "えっへん顔やめなさい......。で、逃したのは2部門だけ。",
+      "news_index": 1,
+      "start_sec": 246.43,
+      "end_sec": 249.92
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "その2つはなんなのだ?",
+      "news_index": 1,
+      "start_sec": 250.07,
+      "end_sec": 251.82
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ベストゲームデザインは『ヘル・イズ・アス』っていうローグ・ファクター製の作品に。アクセシビリティ部門は『アサシン クリード シャドウズ』ね。",
+      "news_index": 1,
+      "start_sec": 251.97,
+      "end_sec": 260.9
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "シャドウズ、アサクリで唯一の受賞がアクセシビリティ部門だけって、これはこれで価値ある話なのだ。",
+      "news_index": 1,
+      "start_sec": 261.05,
+      "end_sec": 267.71
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに「大手の唯一の勝ち筋がアクセシビリティ」って状況ね。健全だけど、ちょっと象徴的な配分だわ。",
+      "news_index": 1,
+      "start_sec": 267.86,
+      "end_sec": 275.14
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "サウンドトラック賞も取ってるって、音楽もすごいのだ?",
+      "news_index": 1,
+      "start_sec": 275.29,
+      "end_sec": 278.97
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこが今朝いちばん言いたかった話。作曲はオリヴィエ・デリヴィエールっていう、ゲーム音楽界の有名作曲家。",
+      "news_index": 1,
+      "start_sec": 279.12,
+      "end_sec": 286.14
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "名前長すぎなのだ......聴いてるかた、もう一回言ってほしいのだ。",
+      "news_index": 1,
+      "start_sec": 286.29,
+      "end_sec": 290.34
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "オリヴィエ・デリヴィエール。で、録音場所がね、ロンドンの「アビーロード・スタジオ」。ビートルズの聖地よ。",
+      "news_index": 1,
+      "start_sec": 290.49,
+      "end_sec": 297.33
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "アビーロードって......あの横断歩道渡るやつなのだ!?",
+      "news_index": 1,
+      "start_sec": 297.48,
+      "end_sec": 301.25
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "横断歩道では録音しないわよ。中のスタジオワン、60人編成のロンドン・コンテンポラリー・オーケストラで100セッション以上録ってるんだって。",
+      "news_index": 1,
+      "start_sec": 301.4,
+      "end_sec": 310.1
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "100セッション......愛が重いのだ......。",
+      "news_index": 1,
+      "start_sec": 310.25,
+      "end_sec": 312.62
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "chuuni",
+      "text": "嵐の南部、織り手の指、深淵の弦が震えて、失われた魂を縫い合わせる調べが鳴り響く......。",
+      "news_index": 1,
+      "start_sec": 312.77,
+      "end_sec": 319.35
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "急に厨二モード発病なのだ!? まだ朝なのだぞ!",
+      "news_index": 1,
+      "start_sec": 319.5,
+      "end_sec": 323.18
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ふふ、サウンドトラックの試聴を聴いてるとちょっと染まっちゃうのよね。コホン、話戻すわよ。",
+      "news_index": 1,
+      "start_sec": 323.33,
+      "end_sec": 328.75
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "もう一つトピックがあって、もともとエックスボックス独占だったこの作品、今年3月末にプレステ5とニンテンドースイッチ2にも来てるのよ。",
+      "news_index": 1,
+      "start_sec": 328.83,
+      "end_sec": 336.88
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "待って、それすでに出てるのだ!? じゃあボクも今から遊べるのだ!?",
+      "news_index": 1,
+      "start_sec": 337.03,
+      "end_sec": 341.24
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、3月31日に同時リリースされたばっかり。だから今回の受賞ラッシュは、ちょうど「全プラットフォームに広がった直後」という絶妙なタイミングだったの。",
+      "news_index": 1,
+      "start_sec": 341.39,
+      "end_sec": 351.58
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "つまり追い風で受賞の波がきてるのだー! 完璧なタイミングなのだ!",
+      "news_index": 1,
+      "start_sec": 351.73,
+      "end_sec": 356.6
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "hisohiso",
+      "text": "ここだけの話、プレステ5版はプロ対応でレイトレ反射がきれいらしいわよ。スイッチ2版がどこまで頑張ってるかは賛否分かれるところね。",
+      "news_index": 1,
+      "start_sec": 356.75,
+      "end_sec": 366.33
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "朝から業界裏話モードなのだ......。",
+      "news_index": 1,
+      "start_sec": 366.48,
+      "end_sec": 368.75
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで今朝は『サウス・オブ・ミッドナイト』、9部門中7部門制覇の話でした。",
+      "news_index": 1,
+      "start_sec": 368.9,
+      "end_sec": 374.61
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "嵐から立ち上がる織り手の女の子の話、なんかあったかい気持ちになったのだ。",
+      "news_index": 1,
+      "start_sec": 374.76,
+      "end_sec": 379.74
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "......そういえばボク、まだ南部ゴシックとサザンオールスターズを混同してるのだ。",
+      "news_index": 1,
+      "start_sec": 379.82,
+      "end_sec": 384.74
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "朝から1ミリも学習してないわね......。",
+      "news_index": 1,
+      "start_sec": 384.89,
+      "end_sec": 387.27
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "通勤通学中の聴いてくれてるかた、今日もよい1日を。気になった人はストアの予告編だけでも観てほしいわ。",
+      "news_index": 1,
+      "start_sec": 387.35,
+      "end_sec": 394.11
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ずんだもんでしたー! 旅の道ラジオ朝便、またなのだー!",
+      "news_index": 1,
+      "start_sec": 394.26,
+      "end_sec": 398.2
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "めたんでした、夜便でね。",
+      "news_index": 1,
+      "start_sec": 398.35,
+      "end_sec": 400.12
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 400.82,
+      "end_sec": 406.86
+    }
+  ],
+  "wall_time_sec": 6.29,
+  "audio_url": "/audio/indie/20260524_051650.mp3?v=1779586623"
+}
