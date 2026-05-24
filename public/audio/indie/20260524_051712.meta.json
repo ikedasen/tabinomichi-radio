@@ -1,0 +1,715 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-05-24T05:17:12+09:00",
+  "title": "マルチサイトの夜明け 〜EVE burst error が照らしたADVの地平〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 337.5,
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 6.47
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "旅の道ラジオへようこそなのだ! 今回はレトロアドベンチャー回なのだー!",
+      "news_index": 0,
+      "start_sec": 6.47,
+      "end_sec": 11.35
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "またまた、あーしが担当するっすよー! 今回のテーマは1995年シーズウェアの伝説、『イヴ・バーストエラー』っす!",
+      "news_index": 0,
+      "start_sec": 11.5,
+      "end_sec": 19.54
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "イヴ……って、アダムとイヴのイヴなのだ? 創世記回なのだ?",
+      "news_index": 1,
+      "start_sec": 19.69,
+      "end_sec": 24.05
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "違うっす先輩、創世記じゃなくて連続猟奇殺人を追う探偵モノっす w",
+      "news_index": 1,
+      "start_sec": 24.2,
+      "end_sec": 28.78
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに、サウンドノベル全盛だった90年代半ばに「コマンド選択式ADV」で殴り込んできた1本っすね",
+      "news_index": 1,
+      "start_sec": 28.86,
+      "end_sec": 36.52
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "殴り込み? 怖いのだ。どんな作品なのだ?",
+      "news_index": 1,
+      "start_sec": 36.67,
+      "end_sec": 39.95
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "あーしが当時のソフト誌切り抜き擦り切れるほど読んだやつっす! まずスペックから行くっすよ",
+      "news_index": 1,
+      "start_sec": 40.1,
+      "end_sec": 45.1
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "開発元はシーズウェア、ジャンルはコマンド選択式アドベンチャーっす",
+      "news_index": 1,
+      "start_sec": 45.18,
+      "end_sec": 49.22
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "シーズウェアって、デザイアの会社じゃなかったのだ?",
+      "news_index": 1,
+      "start_sec": 49.37,
+      "end_sec": 52.72
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そうっす!! さすが先輩!! 同じ1995年の春にデザイア、秋にイヴっす。シーズウェア神回の年っすよ",
+      "news_index": 1,
+      "start_sec": 52.87,
+      "end_sec": 60.33
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "1995年って、ボクが生まれる前の前の前くらいなのだ",
+      "news_index": 1,
+      "start_sec": 60.48,
+      "end_sec": 65.16
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "先輩、ずんだもんに前世とかないっすよ w",
+      "news_index": 1,
+      "start_sec": 65.31,
+      "end_sec": 68.0
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "機種はPC-9801のVXとUX以降、ハードディスク専用、フロッピー7枚組っす",
+      "news_index": 1,
+      "start_sec": 68.08,
+      "end_sec": 75.02
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "フロッピー7枚なのだ!? インストール画面で日が暮れるやつなのだ",
+      "news_index": 1,
+      "start_sec": 75.17,
+      "end_sec": 80.63
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "当時のHDD専用ゲーは「気合い入ってる作品」の証っす。お値段は8,800円",
+      "news_index": 1,
+      "start_sec": 80.78,
+      "end_sec": 87.13
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "高いのだー……当時の中学生のお小遣いの何ヶ月分なのだ",
+      "news_index": 1,
+      "start_sec": 87.28,
+      "end_sec": 92.82
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "あーしのお年玉的にはガチで無理だったやつっす……まあ生まれてないんすけど",
+      "news_index": 1,
+      "start_sec": 92.97,
+      "end_sec": 97.49
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、何が伝説の作品なのだ? 普通の推理ADVなのだ?",
+      "news_index": 1,
+      "start_sec": 97.64,
+      "end_sec": 103.28
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "ここからガチで語らせてもらうっす!! 「マルチサイトシステム」っていう、当時としては頭おかしい仕掛けがあるっす",
+      "news_index": 1,
+      "start_sec": 103.43,
+      "end_sec": 109.84
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "主人公が2人いるんすよ。私立探偵の天城小次郎と、女スパイの法条まりなっす",
+      "news_index": 1,
+      "start_sec": 109.92,
+      "end_sec": 115.67
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "探偵と女スパイ? 完全に別ジャンルの2本立てなのだ",
+      "news_index": 1,
+      "start_sec": 115.82,
+      "end_sec": 120.2
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "しかも自由なタイミングで視点を切り替えられるっす。小次郎側で詰まったらまりなに切替、みたいな",
+      "news_index": 1,
+      "start_sec": 120.35,
+      "end_sec": 126.5
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "えっ、ボタンひとつで?! 1995年にそれをやってたのだ!?",
+      "news_index": 1,
+      "start_sec": 126.65,
+      "end_sec": 131.42
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そうっす。2本のお話が別の事件を追ってるんすけど、進めるうちに線が交差してくる構造っす",
+      "news_index": 1,
+      "start_sec": 131.57,
+      "end_sec": 137.65
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "これがマジで美しいんすよ、オタクくん",
+      "news_index": 1,
+      "start_sec": 137.73,
+      "end_sec": 140.18
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "聞いただけでワクワクするのだー",
+      "news_index": 1,
+      "start_sec": 140.33,
+      "end_sec": 142.57
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "片方で「謎の人物」って書かれてるキャラが、もう片方を進めると「ああ、あのかたか!」って分かる瞬間があるっす",
+      "news_index": 1,
+      "start_sec": 142.72,
+      "end_sec": 150.8
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "視点が縫い合わさってくのだ! それ気持ちいいやつなのだ!",
+      "news_index": 1,
+      "start_sec": 150.95,
+      "end_sec": 154.81
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに「同じ世界を別の目で見る快感」を、商業ゲーで初めてちゃんと成立させた作品っすね",
+      "news_index": 1,
+      "start_sec": 154.96,
+      "end_sec": 161.55
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "中でもガチで震えるシーンがあるっす。小次郎が政府機密にアクセスしようとしてる時、まりなも別の場所から同じ情報に手を伸ばしてるっす",
+      "news_index": 1,
+      "start_sec": 161.63,
+      "end_sec": 169.93
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "えっ、別々のキャラが同時にハッキング!?",
+      "news_index": 1,
+      "start_sec": 170.08,
+      "end_sec": 173.06
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "お互いそれを知らずに、同じ目的に向かって動いてるっす。視点を切り替えるたびにそれが見えてくる",
+      "news_index": 1,
+      "start_sec": 173.21,
+      "end_sec": 179.12
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "それ、当時のリスナーのみなさんも鳥肌立てたやつなのだ?",
+      "news_index": 1,
+      "start_sec": 179.27,
+      "end_sec": 183.03
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "立てたっす!! オタクくんもこの瞬間のためだけにプレイする価値ありっす",
+      "news_index": 1,
+      "start_sec": 183.18,
+      "end_sec": 187.32
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "つむぎ、目が完全にオタクなのだ",
+      "news_index": 1,
+      "start_sec": 187.47,
+      "end_sec": 190.13
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "あーし今めっちゃキモいっすね、すんません",
+      "news_index": 1,
+      "start_sec": 190.28,
+      "end_sec": 193.0
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "シナリオは剣乃ゆきひろ、本名・菅野ひろゆきっす",
+      "news_index": 1,
+      "start_sec": 193.08,
+      "end_sec": 196.34
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "その名前、ボク最近聞いた気がするのだ",
+      "news_index": 1,
+      "start_sec": 196.49,
+      "end_sec": 199.42
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "先輩、デザイアもこのかたっす。同じ年の春と秋っすからね",
+      "news_index": 1,
+      "start_sec": 199.57,
+      "end_sec": 203.72
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "あ! 同じかたなのだ!!",
+      "news_index": 1,
+      "start_sec": 203.87,
+      "end_sec": 205.7
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "のちにユーノまで手がけて、いわゆる「剣乃三部作」って呼ばれてるっす",
+      "news_index": 1,
+      "start_sec": 205.85,
+      "end_sec": 210.78
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "hisohiso",
+      "text": "43歳で早世されてるんすよ。早すぎたっす……",
+      "news_index": 1,
+      "start_sec": 210.86,
+      "end_sec": 214.66
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "名作残してくれたかたなのだー……",
+      "news_index": 1,
+      "start_sec": 214.81,
+      "end_sec": 217.02
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "で、ここからが面白くて。発売直後のファミ通レビューは、実はそんな高くなかったっす",
+      "news_index": 1,
+      "start_sec": 217.17,
+      "end_sec": 222.82
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "えっ、こんな伝説作なのに?!",
+      "news_index": 1,
+      "start_sec": 222.97,
+      "end_sec": 225.3
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "当時のレビュアーは「コマンド選択式は古い」みたいな評価軸だったみたいで",
+      "news_index": 1,
+      "start_sec": 225.45,
+      "end_sec": 230.34
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "それは見る目がないのだ……時代が追いついてなかったのだ",
+      "news_index": 1,
+      "start_sec": 230.49,
+      "end_sec": 235.1
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "でも遊んだプレイヤーの口コミがじわじわ広がって、カルト的な傑作扱いに昇格していったっす",
+      "news_index": 1,
+      "start_sec": 235.25,
+      "end_sec": 241.11
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "で、サターンに1997年に移植されたんすけど、こっちは全年齢化されて評価爆上がりっす",
+      "news_index": 1,
+      "start_sec": 241.19,
+      "end_sec": 247.69
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "全年齢化って、元はそういう作品だったのだ?",
+      "news_index": 1,
+      "start_sec": 247.84,
+      "end_sec": 251.31
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "先輩、シーズウェアっすよ? 察してくださいっす",
+      "news_index": 1,
+      "start_sec": 251.46,
+      "end_sec": 254.81
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "は、はいなのだ……",
+      "news_index": 1,
+      "start_sec": 254.96,
+      "end_sec": 256.71
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "でもサターンで全年齢になったってことは、家族で楽しめるやつになったのだ?",
+      "news_index": 1,
+      "start_sec": 256.79,
+      "end_sec": 262.31
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "家族で連続猟奇殺人を追うのは、シチュエーション的にどうかと思うっす",
+      "news_index": 1,
+      "start_sec": 262.46,
+      "end_sec": 266.81
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "お父さん「ここの犯人怪しくない?」、お母さん「いやそっちはミスリードよ」みたいな",
+      "news_index": 1,
+      "start_sec": 266.96,
+      "end_sec": 273.11
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "shirake",
+      "text": "先輩、そういう家族はちょっとイヤっす",
+      "news_index": 1,
+      "start_sec": 273.26,
+      "end_sec": 276.19
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "ご、ごめんなのだ……",
+      "news_index": 1,
+      "start_sec": 276.34,
+      "end_sec": 277.84
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "コホン。2016年にはVita版で『イヴ・バーストエラー アール』が出てるっす。リメイクっすね",
+      "news_index": 1,
+      "start_sec": 277.99,
+      "end_sec": 284.42
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "開発はエルディア、シナリオは現代向けに少し整えられてるっす",
+      "news_index": 1,
+      "start_sec": 284.5,
+      "end_sec": 288.55
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "いまから遊ぶなら、まずそっちなのだ?",
+      "news_index": 1,
+      "start_sec": 288.7,
+      "end_sec": 291.29
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "っすね!! スイッチ版もあるんで、オタクくんも入りやすいっす",
+      "news_index": 1,
+      "start_sec": 291.44,
+      "end_sec": 295.29
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "PC-98の空気感を味わいたい上級者は、当時版いってほしいっすけど",
+      "news_index": 1,
+      "start_sec": 295.37,
+      "end_sec": 300.37
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "聞いてるだけでボクもプレイしたくなったのだ",
+      "news_index": 0,
+      "start_sec": 300.52,
+      "end_sec": 303.45
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "ぜひっす!! マルチサイトの体験は、文字で説明するより遊ぶのが一番っす",
+      "news_index": 0,
+      "start_sec": 303.6,
+      "end_sec": 308.4
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "1995年からADVの形を変えた1本、ってことなのだ",
+      "news_index": 0,
+      "start_sec": 308.55,
+      "end_sec": 313.71
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに「サウンドノベルじゃないほうの革命」っすね",
+      "news_index": 0,
+      "start_sec": 313.86,
+      "end_sec": 317.45
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "今回の旅の道ラジオはここまでなのだー! お相手はずんだもんと……",
+      "news_index": 0,
+      "start_sec": 317.6,
+      "end_sec": 322.19
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "あーし、春日部つむぎがお届けしましたっす!",
+      "news_index": 0,
+      "start_sec": 322.34,
+      "end_sec": 325.27
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "また次の旅の道ラジオで会いましょー、会いましょっと",
+      "news_index": 0,
+      "start_sec": 325.42,
+      "end_sec": 329.1
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 329.8,
+      "end_sec": 337.5
+    }
+  ],
+  "wall_time_sec": 5.81,
+  "audio_url": "/audio/indie/20260524_051712.mp3?v=1779588913"
+}
