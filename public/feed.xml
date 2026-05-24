@@ -7,8 +7,8 @@
     <description>ずんだもん × めたん × つむぎが届ける、ゲーム &amp; テックニュース雑談ラジオ。朝便と夜便で毎日更新、レトロから新作まで、最新 AI 動向から業界マクロまで雑談形式でサクッと。</description>
     <language>ja</language>
     <copyright>© 2026 tabinomichi</copyright>
-    <lastBuildDate>Sun, 24 May 2026 11:15:14 +0900</lastBuildDate>
-    <pubDate>Sun, 24 May 2026 05:17:12 +0900</pubDate>
+    <lastBuildDate>Sun, 24 May 2026 11:19:35 +0900</lastBuildDate>
+    <pubDate>Sun, 24 May 2026 05:31:54 +0900</pubDate>
     <generator>build_rss_feed.py (tabinomichi radio)</generator>
     <image>
       <url>https://news.tabinomichi.jp/podcast-cover.png?v=1779005902</url>
@@ -29,6 +29,21 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>ディープシーク34倍引きの朝 〜AIが安く・速く・軍にまで届いた一週間〜</title>
+      <link>https://news.tabinomichi.jp/radio/20260524_053154</link>
+      <guid isPermaLink="false">tabinomichi-radio-20260524_053154</guid>
+      <pubDate>Sun, 24 May 2026 05:31:54 +0900</pubDate>
+      <description>旅の道ラジオ朝便、テックニュース回。今朝は4本立て。1本目はDeepSeek V4 Proが75%値引きを永久化、出力料金がGPT-5.5の34倍以上安い衝撃の話。2本目はAnthropicのCode with Claudeカンファレンスで判明した「クロードが全部書いたコードを誰も読まずに本番投入」現象。3本目は米サイバー軍がClaude Mythosを機密ネットワークに導入しようとしてる話。4本目はStable Audio 3.0が6分曲とオープンウェイトでリリース、音楽生成AIの自由化が一段進んだ件。価格・働き方・軍事・クリエイター、全部の方向でAIの輪郭が見えてきた朝の雑談回。</description>
+      <content:encoded><![CDATA[旅の道ラジオ朝便、テックニュース回。今朝は4本立て。1本目はDeepSeek V4 Proが75%値引きを永久化、出力料金がGPT-5.5の34倍以上安い衝撃の話。2本目はAnthropicのCode with Claudeカンファレンスで判明した「クロードが全部書いたコードを誰も読まずに本番投入」現象。3本目は米サイバー軍がClaude Mythosを機密ネットワークに導入しようとしてる話。4本目はStable Audio 3.0が6分曲とオープンウェイトでリリース、音楽生成AIの自由化が一段進んだ件。価格・働き方・軍事・クリエイター、全部の方向でAIの輪郭が見えてきた朝の雑談回。]]></content:encoded>
+      <enclosure url="https://news.tabinomichi.jp/audio/ai/20260524_053154.mp3?v=1779586614" length="7029280" type="audio/mpeg"/>
+      <itunes:title>ディープシーク34倍引きの朝 〜AIが安く・速く・軍にまで届いた一週間〜</itunes:title>
+      <itunes:summary>旅の道ラジオ朝便、テックニュース回。今朝は4本立て。1本目はDeepSeek V4 Proが75%値引きを永久化、出力料金がGPT-5.5の34倍以上安い衝撃の話。2本目はAnthropicのCode with Claudeカンファレンスで判明した「クロードが全部書いたコードを誰も読まずに本番投入」現象。3本目は米サイバー軍がClaude Mythosを機密ネットワークに導入しようとしてる話。4本目はStable Audio 3.0が6分曲とオープンウェイトでリリース、音楽生成AIの自由化が一段進んだ件。価格・働き方・軍事・クリエイター、全部の方向でAIの輪郭が見えてきた朝の雑談回。</itunes:summary>
+      <itunes:image href="https://news.tabinomichi.jp/images/og/20260524_053154.jpg"/>
+      <itunes:duration>7:19</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>マルチサイトの夜明け 〜EVE burst error が照らしたADVの地平〜</title>
       <link>https://news.tabinomichi.jp/radio/20260524_051712</link>

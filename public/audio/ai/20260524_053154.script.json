@@ -466,5 +466,16 @@
       "news_index": 0
     }
   ],
-  "program_description": "旅の道ラジオ朝便、テックニュース回。今朝は4本立て。1本目はDeepSeek V4 Proが75%値引きを永久化、出力料金がGPT-5.5の34倍以上安い衝撃の話。2本目はAnthropicのCode with Claudeカンファレンスで判明した「クロードが全部書いたコードを誰も読まずに本番投入」現象。3本目は米サイバー軍がClaude Mythosを機密ネットワークに導入しようとしてる話。4本目はStable Audio 3.0が6分曲とオープンウェイトでリリース、音楽生成AIの自由化が一段進んだ件。価格・働き方・軍事・クリエイター、全部の方向でAIの輪郭が見えてきた朝の雑談回。"
+  "program_description": "旅の道ラジオ朝便、テックニュース回。今朝は4本立て。1本目はDeepSeek V4 Proが75%値引きを永久化、出力料金がGPT-5.5の34倍以上安い衝撃の話。2本目はAnthropicのCode with Claudeカンファレンスで判明した「クロードが全部書いたコードを誰も読まずに本番投入」現象。3本目は米サイバー軍がClaude Mythosを機密ネットワークに導入しようとしてる話。4本目はStable Audio 3.0が6分曲とオープンウェイトでリリース、音楽生成AIの自由化が一段進んだ件。価格・働き方・軍事・クリエイター、全部の方向でAIの輪郭が見えてきた朝の雑談回。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20260524_053154_chars.webp",
+    "hero_rel": "/images/topics/tech_20260524_053154.webp",
+    "title": "ディープシーク34倍引きの朝 〜AIが安く・速く・軍にまで届いた一週間〜",
+    "companies": [
+      "Claude",
+      "DeepSeek",
+      "OpenAI"
+    ]
+  },
+  "summary_short": "DeepSeek34倍値引き永久化、ClaudeコードがレビューなしでProd投入、米軍機密網にClaude Mythos導入計画、Stable Audio 3.0が6分曲OSS化。価格・現場・軍事・創作でAI侵食が同時進行した一週間。"
 }
