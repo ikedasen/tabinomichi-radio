@@ -1,0 +1,816 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-05-25T05:36:43+09:00",
+  "title": "AIがAIを磨く35時間 〜古典謎解き復活・買収劇・中国AGI、テック4本立て〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 510.05,
+  "script_hash": "sha256:d7c09868c3006f01cb1d04ad74f958b90a78c6542fee565e5e459492474bf4bd",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 4.69
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便、テックニュースの回。四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 4.69,
+      "end_sec": 9.9
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝もテックを軽くサクッといくのだー!",
+      "news_index": 0,
+      "start_sec": 10.05,
+      "end_sec": 14.27
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "日曜の朝ね。今日は4本立てでお届けするわ。",
+      "news_index": 0,
+      "start_sec": 14.42,
+      "end_sec": 17.43
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "4本! 何があるのだ?",
+      "news_index": 0,
+      "start_sec": 17.58,
+      "end_sec": 19.53
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ミストのリメイク、アリババのAI自律最適化、アンソロピックの買収、ディープシークの AGI 路線ね。",
+      "news_index": 0,
+      "start_sec": 19.68,
+      "end_sec": 26.16
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "最初がゲーム話で安心したのだー! いきなりAIで頭パンクするかと思ったのだ!",
+      "news_index": 0,
+      "start_sec": 26.31,
+      "end_sec": 32.39
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そう、軽めから始めるわ。じゃ1本目いきましょ。",
+      "news_index": 0,
+      "start_sec": 32.54,
+      "end_sec": 35.96
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "1本目、ゲームの話。ミストとリヴェンのリメイクが、PS5とプレイステーション・ブイアール2向けに出たのよ。",
+      "news_index": 1,
+      "start_sec": 36.04,
+      "end_sec": 42.82
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ミストって名前は聞いたことあるのだ。でもリヴェンは知らないのだ。",
+      "news_index": 1,
+      "start_sec": 42.97,
+      "end_sec": 47.0
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ミストは90年代の謎解きアドベンチャーの金字塔ね。リヴェンはその続編。当時PCの販売記録を塗り替えた化け物作品よ。",
+      "news_index": 1,
+      "start_sec": 47.15,
+      "end_sec": 55.11
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "化け物!? どんだけ売れたのだ?",
+      "news_index": 1,
+      "start_sec": 55.26,
+      "end_sec": 57.61
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "正確な数字は省くけど、紙の地図を片手に異世界を探検する謎解きゲームの原点よ。",
+      "news_index": 1,
+      "start_sec": 57.76,
+      "end_sec": 63.69
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "で、それがリメイクで蘇ったのだ?",
+      "news_index": 1,
+      "start_sec": 63.84,
+      "end_sec": 66.42
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "制作はサイアン・ワールズ、元祖の開発元そのまま。5月19日にPS5とプレイステーション・ブイアール2で同時発売、価格は各35ドルね。",
+      "news_index": 1,
+      "start_sec": 66.57,
+      "end_sec": 76.47
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "35ドル! 約5,000円じゃん! お小遣いで届くのだ!",
+      "news_index": 1,
+      "start_sec": 76.62,
+      "end_sec": 80.41
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "リメイクで5,000円は良心的ね。しかもPS5 プロ版は植物・テクスチャ・シェーディングが強化済み。",
+      "news_index": 1,
+      "start_sec": 80.56,
+      "end_sec": 86.73
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "あと プレステの ブイアール2 にも対応!? VRで遊べちゃうのだ?",
+      "news_index": 1,
+      "start_sec": 86.88,
+      "end_sec": 91.4
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そう、ここが今回の目玉。VRで『現地に立って謎を解く』没入体験になるのよ。",
+      "news_index": 1,
+      "start_sec": 91.55,
+      "end_sec": 97.75
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "VRで90年代の名作!? ボクの脳と新作が30年差で握手するのだ!",
+      "news_index": 1,
+      "start_sec": 97.9,
+      "end_sec": 103.89
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "言い回しが詩的すぎ。とにかく今回のリメイク版は、PS5とPS VR2にも来たのよ。Mystリメイクは既にXboxにも出ていて、RivenはXbox Series X|Sにも同日展開ね。",
+      "news_index": 1,
+      "start_sec": 104.04,
+      "end_sec": 116.44
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "30年! 親世代がPCで遊んでたのが、ボクの世代にプレステで来たってこと?",
+      "news_index": 1,
+      "start_sec": 116.59,
+      "end_sec": 122.34
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに、古典ゲームのVRリメイク市場が普通に商売として回り始めた、って合図ね。気になるかたは週末候補よ。",
+      "news_index": 1,
+      "start_sec": 122.49,
+      "end_sec": 130.03
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ボクも休みの日に試したいのだー! 次の話、行ってほしいのだ!",
+      "news_index": 1,
+      "start_sec": 130.18,
+      "end_sec": 135.11
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "2本目、技術の話。アリババの新AI『クウェン3.7マックス』が、自社チップ向けに35時間ノンストップで勝手にコード書き続けたのよ。",
+      "news_index": 2,
+      "start_sec": 135.26,
+      "end_sec": 144.65
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "クウェン……えっと、その時間にゲームしてたほうが健全じゃん?",
+      "news_index": 2,
+      "start_sec": 144.8,
+      "end_sec": 149.12
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "比較対象がおかしいわ。聞いて、AI が寝ずに35時間かけて、自社チップ上のExtend Attentionカーネルを10倍高速化した、と発表したの。",
+      "news_index": 2,
+      "start_sec": 149.27,
+      "end_sec": 158.21
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "10倍!? それすごいやつなのだ! でも『自社チップ』ってどういう意味?",
+      "news_index": 2,
+      "start_sec": 158.36,
+      "end_sec": 163.54
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "アリババにはね、『ティーヘッド』っていう独自AIチップ部門があるの。半導体を自社設計して、エヌビディアの GPU 依存を減らそうとしてる。",
+      "news_index": 2,
+      "start_sec": 163.69,
+      "end_sec": 172.48
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "エヌビディア以外でAIチップ作る勢、結構出てきてるのだね。",
+      "news_index": 2,
+      "start_sec": 172.63,
+      "end_sec": 177.05
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "で、今回のチップ、AIの学習データに含まれてない『未知のハードウェア』だったのよ。",
+      "news_index": 2,
+      "start_sec": 177.2,
+      "end_sec": 182.85
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "未知のハードウェア……AIが見たことないチップを最適化したのだ!?",
+      "news_index": 2,
+      "start_sec": 183.0,
+      "end_sec": 187.57
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、ここが今回の衝撃ポイント。今回は、学習時に見ていないハードウェアでも最適化できた、というデモとして注目されてるの。",
+      "news_index": 2,
+      "start_sec": 187.72,
+      "end_sec": 195.91
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "初見プレイで10倍速! ボクはチュートリアルでも詰まるのに……。",
+      "news_index": 2,
+      "start_sec": 196.06,
+      "end_sec": 201.13
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "途中、432回テスト実行、1,158回のツール呼び出しを自前で回したらしい。AI が AI を作るインフラに本格参入してきた感じね。",
+      "news_index": 2,
+      "start_sec": 201.28,
+      "end_sec": 211.72
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "AI がプログラマーやってる、しかも徹夜で! 労働基準法ないのだ?",
+      "news_index": 2,
+      "start_sec": 211.87,
+      "end_sec": 216.94
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ロボットに人権問題出るのはもう少し先ね。要するに、中国勢が『AIチップを自社で作って、最適化もAIにやらせる』垂直統合に踏み込んだサインよ。",
+      "news_index": 2,
+      "start_sec": 217.09,
+      "end_sec": 227.13
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、ボクたちにどう影響するのだ?",
+      "news_index": 2,
+      "start_sec": 227.28,
+      "end_sec": 229.9
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "半導体の勢力図が変わる方向ね。エヌビディア一強の構造に、中国系・自社チップ勢が食い込んでくる。長い目で見れば、中国内でNVIDIA依存を減らす垂直統合の動きとして見たほうがいいわ。",
+      "news_index": 2,
+      "start_sec": 230.05,
+      "end_sec": 242.77
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ボクの自作PC計画にも追い風じゃん! 次行きたいのだ!",
+      "news_index": 2,
+      "start_sec": 242.92,
+      "end_sec": 246.93
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "3本目、買収の話。アンソロピックが、『ステインレス』っていうスタートアップを3億ドル超で買収したのよ。",
+      "news_index": 3,
+      "start_sec": 247.08,
+      "end_sec": 254.09
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ステインレス……ステンレスの仲間? キッチン用品の会社なのだ?",
+      "news_index": 3,
+      "start_sec": 254.24,
+      "end_sec": 258.64
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "全然違うわ。エスディーケー、ようは『API を各プログラミング言語で簡単に使える道具』を、自動で生成するスタートアップね。",
+      "news_index": 3,
+      "start_sec": 258.79,
+      "end_sec": 267.22
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "エスディーケーって何なのだ?",
+      "news_index": 3,
+      "start_sec": 267.37,
+      "end_sec": 269.28
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "ソフトウェア開発キット、エスディーケーね。例えば AI の機能を パイソン でも ゴー でも ジャバ でも呼びやすくする部品。手で書くと地獄なの。",
+      "news_index": 3,
+      "start_sec": 269.43,
+      "end_sec": 277.99
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "で、それを自動で作る会社を買ったってこと?",
+      "news_index": 3,
+      "start_sec": 278.14,
+      "end_sec": 281.3
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ここからが面白いの。ステインレスは2022年創業のニューヨークのスタートアップ。アンソロピックだけじゃなく、オープンエーアイ・グーグル・クラウドフレア・ランウェイ も使ってた共通インフラだったのよ。",
+      "news_index": 3,
+      "start_sec": 281.45,
+      "end_sec": 292.67
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "待って、オープンエーアイもグーグルも使ってた道具を、ライバルのアンソロピックが買ったのだ!?",
+      "news_index": 3,
+      "start_sec": 292.82,
+      "end_sec": 298.73
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。買収後は外部向けホスト型サービスを終了する予定。要するに、他社向けの提供を切る計画ね。",
+      "news_index": 3,
+      "start_sec": 298.88,
+      "end_sec": 305.81
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "商店街の共有冷蔵庫を、一店舗が買い取って『うち専用にするね』って言ったみたいなのだ!",
+      "news_index": 3,
+      "start_sec": 305.96,
+      "end_sec": 313.04
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いい比喩じゃない。同業他社が長年依存してた道具を、丸ごと囲い込む形ね。",
+      "news_index": 3,
+      "start_sec": 313.19,
+      "end_sec": 317.95
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "3億ドル……円にするといくらなのだ?",
+      "news_index": 3,
+      "start_sec": 318.1,
+      "end_sec": 320.84
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "約450億円ね。中堅のエスディーケー会社にしては破格、つまり戦略的インフラへの投資って意味よ。",
+      "news_index": 3,
+      "start_sec": 320.99,
+      "end_sec": 328.1
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、ボクたち普通のユーザーにどう影響するのだ?",
+      "news_index": 3,
+      "start_sec": 328.25,
+      "end_sec": 331.8
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "短期的には影響なし。中期的には、AIライバル各社がそれぞれ独自の開発者ツールを持つ流れが進むわ。エコシステムが分裂しやすくなる、って懸念。",
+      "news_index": 3,
+      "start_sec": 331.95,
+      "end_sec": 342.18
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "分裂したら、開発者は会社ごとに別の道具を覚えないとダメじゃん!",
+      "news_index": 3,
+      "start_sec": 342.33,
+      "end_sec": 347.04
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そういう懸念ね。AI業界、モデル勝負からエコシステム勝負へ転換した節目だわ。次行きましょ。",
+      "news_index": 3,
+      "start_sec": 347.19,
+      "end_sec": 353.37
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ラスト4本目、ディープシークの話。最近よく出てくるじゃない、あの中国の安いAI会社。",
+      "news_index": 4,
+      "start_sec": 353.45,
+      "end_sec": 359.48
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ディープシーク、知ってるのだ! 値引き永久化って先週聞いたのだ!",
+      "news_index": 4,
+      "start_sec": 359.63,
+      "end_sec": 363.9
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう、その会社。今回は別の話で、『短期で稼ぐより AGI 研究を優先する』って投資家に宣言したのよ。",
+      "news_index": 4,
+      "start_sec": 364.05,
+      "end_sec": 371.46
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "エージーアイ? それ何なのだ?",
+      "news_index": 4,
+      "start_sec": 371.61,
+      "end_sec": 373.91
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "アーティフィシャル・ジェネラル・インテリジェンス、汎用人工知能ね。今の AI は『翻訳が得意』『画像が得意』みたいな個別技能だけど、AGI は『人間並みに何でもできる AI』ってこと。",
+      "news_index": 4,
+      "start_sec": 374.06,
+      "end_sec": 387.35
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "AIの最終ボスじゃん! それを目指してるのだ!?",
+      "news_index": 4,
+      "start_sec": 387.5,
+      "end_sec": 390.92
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "業界全体が目指してる目標ね。で、今ディープシークは約1兆5,000億円規模の資金調達中、評価額が約6.7兆円って報じられてる。",
+      "news_index": 4,
+      "start_sec": 391.07,
+      "end_sec": 400.79
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "6.7兆円!? ボクの想像の100倍以上、ぶっ飛び桁数なのだ!",
+      "news_index": 4,
+      "start_sec": 400.94,
+      "end_sec": 406.14
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "桁が違うのは確かよ。で、普通の会社は『早く製品売って収益化』するんだけど、ディープシークは『収益化は後でいい、AGI に先着く』って方針。",
+      "news_index": 4,
+      "start_sec": 406.29,
+      "end_sec": 416.46
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "えっ、それで会社として大丈夫なのだ? 倒産しないのだ?",
+      "news_index": 4,
+      "start_sec": 416.61,
+      "end_sec": 420.87
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "国家AI産業投資基金などの政府系・国家支援系投資家が参加候補に挙がっていると報じられていて、後ろ盾がつく可能性はある。、後ろ盾はある。要するに政府マネー込みで、儲け度外視で走れる構造ね。",
+      "news_index": 4,
+      "start_sec": 421.02,
+      "end_sec": 434.59
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "商業 AI と、政府マネー AI、土俵が違うってことなのだ……。",
+      "news_index": 4,
+      "start_sec": 434.74,
+      "end_sec": 439.46
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "対照的なのが、オープンエーアイがマイクロソフトと組んで収益化を急ぐ路線。同じ AI 競争のはずなのに走り方が真逆。",
+      "news_index": 4,
+      "start_sec": 439.61,
+      "end_sec": 447.05
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、ボクたちにどう影響するのだ?",
+      "news_index": 4,
+      "start_sec": 447.2,
+      "end_sec": 449.82
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "『安くて強い AI』がオープンソースで出続ける可能性が高いわ。チャットジーピーティーやクロードを使ってない人でも、ディープシークが選択肢に入る時代がもうすぐ来る。",
+      "news_index": 4,
+      "start_sec": 449.97,
+      "end_sec": 459.91
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "無料か激安AIで仕事できる時代! ボクの夢、叶うのだー!",
+      "news_index": 4,
+      "start_sec": 460.06,
+      "end_sec": 465.11
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "夢かどうかは別として、AIの利用コストが下がるのは一般の人たちにとって追い風ね。これで4本終わり。",
+      "news_index": 4,
+      "start_sec": 465.26,
+      "end_sec": 471.7
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで今朝のテック朝便、ゲームから半導体・買収・AGI と4本立てでお届けしたわ。",
+      "news_index": 0,
+      "start_sec": 471.78,
+      "end_sec": 478.28
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "全部別ジャンルなのに、どれも『AI が何かを変えてる』ってつながってる感じだったのだ!",
+      "news_index": 0,
+      "start_sec": 478.43,
+      "end_sec": 484.35
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "気になったやつあったらチェックしてみて。ミストのリメイクは週末候補にいいわよ。",
+      "news_index": 0,
+      "start_sec": 484.5,
+      "end_sec": 489.47
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ボクはアリババのチップ話が気になるのだ! AI が AI を作る話、SF みたいでワクワクするのだ!",
+      "news_index": 0,
+      "start_sec": 489.62,
+      "end_sec": 497.28
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "じゃ、今朝はこの辺で。",
+      "news_index": 0,
+      "start_sec": 497.43,
+      "end_sec": 499.12
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "また明日のテック朝便で会うのだー!",
+      "news_index": 0,
+      "start_sec": 499.27,
+      "end_sec": 501.65
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 502.35,
+      "end_sec": 510.05
+    }
+  ],
+  "wall_time_sec": 10.89,
+  "audio_url": "/audio/ai/20260525_053643.mp3?v=1779680610"
+}
