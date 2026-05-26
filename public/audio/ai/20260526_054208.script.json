@@ -1,0 +1,418 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-05-25T20:42:08.698623+00:00",
+  "title": "AIが数学を解く朝 〜シリ大改造とアレクサ侵食、テック4本立て〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便。テックニュースの回ね。四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝もテックの話、軽くまとめていくのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今日は4本、軽快にいくわよ。エーアイ研究のブレイクスルー、シリの大改造、エーアイの個人情報漏洩、それからアマゾンのショッピング革命。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "朝から盛りだくさんなのだ! どこから攻めるのだ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "まずはエーアイが数十年来の数学難問を解いた話から行くわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "グーグル・ディープマインドが『アルファプルーフ・ネクサス』っていうエーアイシステムを出してきたの。これがね、形式化された未解決問題の一部で、エルデシュ問題 353 問中 9 問、OEIS 予想 492 問中 44 問を解いた、くらいに抑える。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "アルファプルーフ・ネクサス? なんだか必殺技みたいな名前なのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "中身はね、ジェミニ 3.1 プロっていうグーグルのエーアイと、リーンっていう数学の証明をチェックするプログラムを組み合わせたもの。エーアイが証明を書く、リーンがミスを指摘、エーアイが直す、を何度も繰り返すのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、エーアイが自分でやり直し効くってこと!? 答え合わせまで自動でやるのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そういうこと。これでね、エルデシュ問題っていう、数学者ポール・エルデシュに関連する未解決問題集、353 問のうち 9 問を解決。別の数列予想も 492 問のうち 44 問。56 年間誰も解けなかった問題も 2 つ含まれてる。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "56 年!? それボクのおじいちゃんが学生だった頃の難問なのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "しかも 1 問あたりのコストが数百ドル。日本円で数万円ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ボクの月のお小遣いで数学界の伝説が解けるってこと!? バグじゃん!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "バグじゃなくて時代の変化ね。問題は、AI が作った Lean 証明そのものだけでなく、元の数学の主張を Lean で正しく形式化できているかを人間が確認するところね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "査読……ってなんなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "論文の中身が正しいか、人間の数学者がチェックする作業ね。エーアイが解くスピードに、人間が追いつけない問題が出てきてる。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "結局、エーアイで仕事が消えるんじゃなくて、エーアイが出した答えを確かめる仕事が爆増する流れなのだ……。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "次行くわよ。アイオーエス 27、ようは次のアイフォンのオーエスね。そこに乗るシリが『完全に作り直される』って噂が出てる。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "シリ、ボクのアイフォンに住んでるアレなのだ! 何が変わるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "今までのシリは『天気は?』『タイマーセット』みたいな単発命令専用。これが『エーアイエージェント化』して、複数アプリをまたいで仕事をこなすようになる。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "エーアイエージェント? また新しい言葉なのだ……。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "エーアイエージェントはね、自分で考えて、手を動かして、複数のアプリを横断するエーアイ。たとえば『今夜の予約取って、カレンダーに入れて、相手に連絡して』を全部一気にやってくれる。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、それボクが普段スマホで 5 分かかってるやつ、シリが代わりにやってくれるってこと!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "その『5 分』が積み上がると、年間で何十時間も浮く計算ね。アップルがここまで動いた背景には、グーグルのジェミニとオープンエーアイのチャットジーピーティーに追い込まれてる、っていう焦りがあるのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "アップル、エーアイで出遅れてた感あったけど、本気出してきたのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "出遅れた、っていうより『製品に組み込むタイミングを慎重に図ってた』が正解。今までは慎重すぎて、結果として出遅れただけ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "メタんちょっと擁護してるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "事実を言ってるだけ。で、ボクら一般人にどう影響するか。これは『アイフォン使ってる人』全員に効く、結構大きい話。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、ボクの今のアイフォンでも使えるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "機種制限はまだ不明。たぶん新しいモデルが優先になるかも。気になるかたは秋の発表会を待つしかない。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "シリ、寝てる間にボクのお小遣い勝手に使わないでほしいのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "sexy",
+      "text": "じゃあ次、ちょっと怖い話よ。エーアイチャットボットが、実在する人物の電話番号を答えちゃってる、って調査が出たの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、本物の電話番号!? それ漏洩じゃん!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "エムアイティ・テクノロジー・レビューっていうアメリカの技術雑誌が調べた結果ね。エーアイに『誰々の電話番号を教えて』って聞くと、本当の番号が返ってきちゃうケースが多発してる。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "なんでそんなことになるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "原因は、個人情報を含む学習データが関係している可能性が高い。ただし、正確な番号の再現だけでなく、もっともらしい誤番号として他人の番号を出すケースもあり、仕組みはまだはっきりしていない。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "待って待って、ボクの電話番号も入ってる可能性あるってこと?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "あるかもね。過去に公開された番号が検索結果やデータブローカー、学習データ経由で再表示される可能性はある。ただし、AI の中に入っているかを外から確認する方法はない。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "過去の自分の不注意が、エーアイ経由で全世界に晒される時代なのだ……。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kamera",
+      "text": "対処法はね、自分の番号でグーグル検索かけてみる、エスエヌエスの古い投稿を見直す、見つかったら本人申請で削除依頼を出す。地道だけど効くわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あとエーアイに『ボクの番号教えて』って聞いて、出てきたら申請、ってこともできるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "試すことはできるけど、出てきたからといって確実に消せるわけじゃない。公開元への削除依頼や、各AI企業のプライバシー窓口を試す、くらいが現実的ね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、ボクら一般人への影響は?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "『ネットに一度載せた情報は、長く残ってAI経由で再表示される恐れがある』ってこと。これからは投稿前に『これ 50 年後も世界に残っていい?』を考える時代。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "最後、アマゾンの話。アレクサを覚えてる?",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あの『アレクサ、電気つけて』のスピーカーのやつなのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう、あれ。もともとはEchoみたいな音声アシスタントの印象が強かったんだけど、これからはアマゾン・ドット・コム本体に組み込まれる。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ドット・コム本体? アマゾンのショッピングサイトに入るってこと?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "その通り。商品ページにアレクサが出てきて『これお買い得よ』『こっちの方が安いわよ』って横から口出ししてくるイメージ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、ボクが選んでる横でずっと喋ってくるってこと!? うざいのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "まあ多分オン・オフ切り替えできるはず。でも狙いは別で、アマゾンは、商品比較、価格アラート、再注文、購入補助までAIに任せやすくしたい、という方向ね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "選ばせない方向なのだ……?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "完全に選ばせない、わけじゃない。『予算と条件だけ言って、選ぶのはエーアイに任せる』っていうユーザーが増えてきてる。グーグルのユニバーサル・カートも同じ方向よ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あー、グーグルも似たやつ出したのだ! 2 社で同じ方向に走ってるってこと?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "その通り。だからこれが我々への影響。『商品の比較や決済をエーアイに任せる』のが普通になると、お店側は『エーアイに選ばれる商品作り』を考えないと売れなくなる。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、人間に売り込む技術じゃなくて、エーアイに気に入られる技術が必要になるのだ!?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kamera",
+      "text": "そういうこと。広告やSEOの世界にも、『AIにどう見つけてもらうか』という新しい論点が出てくる、くらいは言えそうね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "我々消費者は、アレクサが選んだものを盲信していいのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "sexy",
+      "text": "それは別問題。エーアイが忖度なく選んでくれる保証はないわ。アマゾンの棚にある商品から選ぶってことは、アマゾンの都合も多少混ざる、って覚悟は必要。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで今朝のテック朝便、4 本立て。エーアイが数学を解く、シリがエーアイ化、エーアイが電話番号漏らす、アレクサがショッピング侵食。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "どれも『エーアイが我々の生活に踏み込んでくる』話だったのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "共通テーマね。気になるトピックがあったら、自分でも調べてみるといいわよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "特に電話番号の話は今夜にでも、自分の番号をグーグル検索してみるのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "kamera",
+      "text": "ボクも今朝のうちに古いエスエヌエス投稿チェックしておくわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "また明日のテック朝便で会うのだー! 良い一日を!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "旅の道ラジオ朝便でした。",
+      "news_index": 0
+    }
+  ],
+  "program_description": "旅の道ラジオ朝便、テックニュース4本立て。Googleディープマインドの新AI『アルファプルーフ・ネクサス』が数十年来の数学難問を量産解決、研究現場の景色が変わる話。iOS 27のSiri大改造で複数アプリ横断のAIエージェント化、アップルが本気を出した。AIチャットボットが実在の電話番号を漏らしてる問題、デジタル指紋時代の自衛策まで。最後はアマゾンがアレクサをサイト本体に統合、ショッピングが『AIが選ぶ時代』へ突入。通勤・通学の合間にサクッと業界をつかめる雑談回。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20260526_054208_chars.webp",
+    "hero_rel": "/images/topics/tech_20260526_054208.webp",
+    "title": "AIが数学を解く朝 〜シリ大改造とアレクサ侵食、テック4本立て〜",
+    "companies": [
+      "Amazon",
+      "Google",
+      "Apple",
+      "Gemini",
+      "OpenAI",
+      "Meta"
+    ]
+  },
+  "summary_short": "数十年越しの数学難問をDeepMindのAIが次々攻略。iOS 27ではSiriがアプリをまたぐ万能エージェントに進化し、チャットボットが電話番号を漏らす盲点と自衛法、AmazonがアレクサをAI購買参謀に格上げ——業界激変の最前線を4本凝縮。"
+}

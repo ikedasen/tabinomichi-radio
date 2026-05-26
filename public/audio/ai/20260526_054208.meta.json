@@ -1,0 +1,686 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-05-26T05:42:08+09:00",
+  "title": "AIが数学を解く朝 〜シリ大改造とアレクサ侵食、テック4本立て〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 476.12,
+  "script_hash": "sha256:b4fdfcc165b4b604aaa8849f0aa346a1c67d5152fd21eada3a493ce04c08b46d",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 4.69
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便。テックニュースの回ね。四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 4.69,
+      "end_sec": 10.07
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝もテックの話、軽くまとめていくのだー!",
+      "news_index": 0,
+      "start_sec": 10.22,
+      "end_sec": 15.05
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今日は4本、軽快にいくわよ。エーアイ研究のブレイクスルー、シリの大改造、エーアイの個人情報漏洩、それからアマゾンのショッピング革命。",
+      "news_index": 0,
+      "start_sec": 15.2,
+      "end_sec": 24.13
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "朝から盛りだくさんなのだ! どこから攻めるのだ?",
+      "news_index": 0,
+      "start_sec": 24.28,
+      "end_sec": 27.44
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "まずはエーアイが数十年来の数学難問を解いた話から行くわ。",
+      "news_index": 0,
+      "start_sec": 27.59,
+      "end_sec": 31.78
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "グーグル・ディープマインドが『アルファプルーフ・ネクサス』っていうエーアイシステムを出してきたの。これがね、形式化された未解決問題の一部で、エルデシュ問題 353 問中 9 問、OEIS 予想 492 問中 44 問を解いた、くらいに抑える。",
+      "news_index": 1,
+      "start_sec": 31.86,
+      "end_sec": 48.49
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "アルファプルーフ・ネクサス? なんだか必殺技みたいな名前なのだ。",
+      "news_index": 1,
+      "start_sec": 48.64,
+      "end_sec": 53.27
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "中身はね、ジェミニ 3.1 プロっていうグーグルのエーアイと、リーンっていう数学の証明をチェックするプログラムを組み合わせたもの。エーアイが証明を書く、リーンがミスを指摘、エーアイが直す、を何度も繰り返すのよ。",
+      "news_index": 1,
+      "start_sec": 53.42,
+      "end_sec": 67.4
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、エーアイが自分でやり直し効くってこと!? 答え合わせまで自動でやるのだ?",
+      "news_index": 1,
+      "start_sec": 67.55,
+      "end_sec": 73.19
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そういうこと。これでね、エルデシュ問題っていう、数学者ポール・エルデシュに関連する未解決問題集、353 問のうち 9 問を解決。別の数列予想も 492 問のうち 44 問。56 年間誰も解けなかった問題も 2 つ含まれてる。",
+      "news_index": 1,
+      "start_sec": 73.34,
+      "end_sec": 88.86
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "56 年!? それボクのおじいちゃんが学生だった頃の難問なのだ!",
+      "news_index": 1,
+      "start_sec": 89.01,
+      "end_sec": 93.77
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "しかも 1 問あたりのコストが数百ドル。日本円で数万円ね。",
+      "news_index": 1,
+      "start_sec": 93.92,
+      "end_sec": 97.99
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ボクの月のお小遣いで数学界の伝説が解けるってこと!? バグじゃん!",
+      "news_index": 1,
+      "start_sec": 98.14,
+      "end_sec": 102.7
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "バグじゃなくて時代の変化ね。問題は、AI が作った Lean 証明そのものだけでなく、元の数学の主張を Lean で正しく形式化できているかを人間が確認するところね。",
+      "news_index": 1,
+      "start_sec": 102.85,
+      "end_sec": 113.49
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "査読……ってなんなのだ?",
+      "news_index": 1,
+      "start_sec": 113.64,
+      "end_sec": 115.55
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "論文の中身が正しいか、人間の数学者がチェックする作業ね。エーアイが解くスピードに、人間が追いつけない問題が出てきてる。",
+      "news_index": 1,
+      "start_sec": 115.7,
+      "end_sec": 123.79
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "結局、エーアイで仕事が消えるんじゃなくて、エーアイが出した答えを確かめる仕事が爆増する流れなのだ……。",
+      "news_index": 1,
+      "start_sec": 123.94,
+      "end_sec": 131.65
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "次行くわよ。アイオーエス 27、ようは次のアイフォンのオーエスね。そこに乗るシリが『完全に作り直される』って噂が出てる。",
+      "news_index": 2,
+      "start_sec": 131.8,
+      "end_sec": 139.85
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "シリ、ボクのアイフォンに住んでるアレなのだ! 何が変わるのだ?",
+      "news_index": 2,
+      "start_sec": 140.0,
+      "end_sec": 143.99
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "今までのシリは『天気は?』『タイマーセット』みたいな単発命令専用。これが『エーアイエージェント化』して、複数アプリをまたいで仕事をこなすようになる。",
+      "news_index": 2,
+      "start_sec": 144.14,
+      "end_sec": 154.16
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "エーアイエージェント? また新しい言葉なのだ……。",
+      "news_index": 2,
+      "start_sec": 154.31,
+      "end_sec": 157.66
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "エーアイエージェントはね、自分で考えて、手を動かして、複数のアプリを横断するエーアイ。たとえば『今夜の予約取って、カレンダーに入れて、相手に連絡して』を全部一気にやってくれる。",
+      "news_index": 2,
+      "start_sec": 157.81,
+      "end_sec": 170.02
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、それボクが普段スマホで 5 分かかってるやつ、シリが代わりにやってくれるってこと!?",
+      "news_index": 2,
+      "start_sec": 170.17,
+      "end_sec": 176.02
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "その『5 分』が積み上がると、年間で何十時間も浮く計算ね。アップルがここまで動いた背景には、グーグルのジェミニとオープンエーアイのチャットジーピーティーに追い込まれてる、っていう焦りがあるのよ。",
+      "news_index": 2,
+      "start_sec": 176.17,
+      "end_sec": 187.69
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "アップル、エーアイで出遅れてた感あったけど、本気出してきたのだ?",
+      "news_index": 2,
+      "start_sec": 187.84,
+      "end_sec": 192.44
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "出遅れた、っていうより『製品に組み込むタイミングを慎重に図ってた』が正解。今までは慎重すぎて、結果として出遅れただけ。",
+      "news_index": 2,
+      "start_sec": 192.59,
+      "end_sec": 201.11
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "メタんちょっと擁護してるのだ?",
+      "news_index": 2,
+      "start_sec": 201.26,
+      "end_sec": 203.38
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "事実を言ってるだけ。で、ボクら一般人にどう影響するか。これは『アイフォン使ってる人』全員に効く、結構大きい話。",
+      "news_index": 2,
+      "start_sec": 203.53,
+      "end_sec": 211.86
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、ボクの今のアイフォンでも使えるのだ?",
+      "news_index": 2,
+      "start_sec": 212.01,
+      "end_sec": 215.13
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "機種制限はまだ不明。たぶん新しいモデルが優先になるかも。気になるかたは秋の発表会を待つしかない。",
+      "news_index": 2,
+      "start_sec": 215.28,
+      "end_sec": 222.14
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "シリ、寝てる間にボクのお小遣い勝手に使わないでほしいのだ!",
+      "news_index": 2,
+      "start_sec": 222.29,
+      "end_sec": 226.54
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "sexy",
+      "text": "じゃあ次、ちょっと怖い話よ。エーアイチャットボットが、実在する人物の電話番号を答えちゃってる、って調査が出たの。",
+      "news_index": 3,
+      "start_sec": 226.69,
+      "end_sec": 236.33
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、本物の電話番号!? それ漏洩じゃん!",
+      "news_index": 3,
+      "start_sec": 236.48,
+      "end_sec": 239.95
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "エムアイティ・テクノロジー・レビューっていうアメリカの技術雑誌が調べた結果ね。エーアイに『誰々の電話番号を教えて』って聞くと、本当の番号が返ってきちゃうケースが多発してる。",
+      "news_index": 3,
+      "start_sec": 240.1,
+      "end_sec": 251.52
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "なんでそんなことになるのだ?",
+      "news_index": 3,
+      "start_sec": 251.67,
+      "end_sec": 253.66
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "原因は、個人情報を含む学習データが関係している可能性が高い。ただし、正確な番号の再現だけでなく、もっともらしい誤番号として他人の番号を出すケースもあり、仕組みはまだはっきりしていない。",
+      "news_index": 3,
+      "start_sec": 253.81,
+      "end_sec": 267.51
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "待って待って、ボクの電話番号も入ってる可能性あるってこと?",
+      "news_index": 3,
+      "start_sec": 267.66,
+      "end_sec": 272.09
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "あるかもね。過去に公開された番号が検索結果やデータブローカー、学習データ経由で再表示される可能性はある。ただし、AI の中に入っているかを外から確認する方法はない。",
+      "news_index": 3,
+      "start_sec": 272.24,
+      "end_sec": 283.74
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "過去の自分の不注意が、エーアイ経由で全世界に晒される時代なのだ……。",
+      "news_index": 3,
+      "start_sec": 283.89,
+      "end_sec": 289.88
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kamera",
+      "text": "対処法はね、自分の番号でグーグル検索かけてみる、エスエヌエスの古い投稿を見直す、見つかったら本人申請で削除依頼を出す。地道だけど効くわ。",
+      "news_index": 3,
+      "start_sec": 290.03,
+      "end_sec": 299.77
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あとエーアイに『ボクの番号教えて』って聞いて、出てきたら申請、ってこともできるのだ?",
+      "news_index": 3,
+      "start_sec": 299.92,
+      "end_sec": 305.99
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "試すことはできるけど、出てきたからといって確実に消せるわけじゃない。公開元への削除依頼や、各AI企業のプライバシー窓口を試す、くらいが現実的ね。",
+      "news_index": 3,
+      "start_sec": 306.14,
+      "end_sec": 315.85
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、ボクら一般人への影響は?",
+      "news_index": 3,
+      "start_sec": 316.0,
+      "end_sec": 318.6
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "『ネットに一度載せた情報は、長く残ってAI経由で再表示される恐れがある』ってこと。これからは投稿前に『これ 50 年後も世界に残っていい?』を考える時代。",
+      "news_index": 3,
+      "start_sec": 318.75,
+      "end_sec": 329.59
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "最後、アマゾンの話。アレクサを覚えてる?",
+      "news_index": 4,
+      "start_sec": 329.67,
+      "end_sec": 332.66
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あの『アレクサ、電気つけて』のスピーカーのやつなのだ!",
+      "news_index": 4,
+      "start_sec": 332.81,
+      "end_sec": 336.62
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう、あれ。もともとはEchoみたいな音声アシスタントの印象が強かったんだけど、これからはアマゾン・ドット・コム本体に組み込まれる。",
+      "news_index": 4,
+      "start_sec": 336.77,
+      "end_sec": 344.69
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ドット・コム本体? アマゾンのショッピングサイトに入るってこと?",
+      "news_index": 4,
+      "start_sec": 344.84,
+      "end_sec": 349.32
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "その通り。商品ページにアレクサが出てきて『これお買い得よ』『こっちの方が安いわよ』って横から口出ししてくるイメージ。",
+      "news_index": 4,
+      "start_sec": 349.47,
+      "end_sec": 357.53
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、ボクが選んでる横でずっと喋ってくるってこと!? うざいのだ!",
+      "news_index": 4,
+      "start_sec": 357.68,
+      "end_sec": 362.27
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "まあ多分オン・オフ切り替えできるはず。でも狙いは別で、アマゾンは、商品比較、価格アラート、再注文、購入補助までAIに任せやすくしたい、という方向ね。",
+      "news_index": 4,
+      "start_sec": 362.42,
+      "end_sec": 373.1
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "選ばせない方向なのだ……?",
+      "news_index": 4,
+      "start_sec": 373.25,
+      "end_sec": 375.18
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "完全に選ばせない、わけじゃない。『予算と条件だけ言って、選ぶのはエーアイに任せる』っていうユーザーが増えてきてる。グーグルのユニバーサル・カートも同じ方向よ。",
+      "news_index": 4,
+      "start_sec": 375.33,
+      "end_sec": 386.0
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あー、グーグルも似たやつ出したのだ! 2 社で同じ方向に走ってるってこと?",
+      "news_index": 4,
+      "start_sec": 386.15,
+      "end_sec": 391.19
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "その通り。だからこれが我々への影響。『商品の比較や決済をエーアイに任せる』のが普通になると、お店側は『エーアイに選ばれる商品作り』を考えないと売れなくなる。",
+      "news_index": 4,
+      "start_sec": 391.34,
+      "end_sec": 401.95
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、人間に売り込む技術じゃなくて、エーアイに気に入られる技術が必要になるのだ!?",
+      "news_index": 4,
+      "start_sec": 402.1,
+      "end_sec": 408.07
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kamera",
+      "text": "そういうこと。広告やSEOの世界にも、『AIにどう見つけてもらうか』という新しい論点が出てくる、くらいは言えそうね。",
+      "news_index": 4,
+      "start_sec": 408.22,
+      "end_sec": 416.52
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "我々消費者は、アレクサが選んだものを盲信していいのだ?",
+      "news_index": 4,
+      "start_sec": 416.67,
+      "end_sec": 420.86
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "sexy",
+      "text": "それは別問題。エーアイが忖度なく選んでくれる保証はないわ。アマゾンの棚にある商品から選ぶってことは、アマゾンの都合も多少混ざる、って覚悟は必要。",
+      "news_index": 4,
+      "start_sec": 421.01,
+      "end_sec": 433.38
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで今朝のテック朝便、4 本立て。エーアイが数学を解く、シリがエーアイ化、エーアイが電話番号漏らす、アレクサがショッピング侵食。",
+      "news_index": 0,
+      "start_sec": 433.46,
+      "end_sec": 442.58
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "どれも『エーアイが我々の生活に踏み込んでくる』話だったのだ!",
+      "news_index": 0,
+      "start_sec": 442.73,
+      "end_sec": 447.3
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "共通テーマね。気になるトピックがあったら、自分でも調べてみるといいわよ。",
+      "news_index": 0,
+      "start_sec": 447.45,
+      "end_sec": 451.95
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "特に電話番号の話は今夜にでも、自分の番号をグーグル検索してみるのだ。",
+      "news_index": 0,
+      "start_sec": 452.1,
+      "end_sec": 458.23
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kamera",
+      "text": "ボクも今朝のうちに古いエスエヌエス投稿チェックしておくわ。",
+      "news_index": 0,
+      "start_sec": 458.38,
+      "end_sec": 461.86
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "また明日のテック朝便で会うのだー! 良い一日を!",
+      "news_index": 0,
+      "start_sec": 462.01,
+      "end_sec": 465.41
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "旅の道ラジオ朝便でした。",
+      "news_index": 0,
+      "start_sec": 465.56,
+      "end_sec": 467.72
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 468.42,
+      "end_sec": 476.12
+    }
+  ],
+  "wall_time_sec": 9.96,
+  "audio_url": "/audio/ai/20260526_054208.mp3?v=1779756634"
+}

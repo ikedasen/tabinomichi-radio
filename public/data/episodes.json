@@ -1,16 +1,122 @@
 {
-  "generated_at": "2026-05-25T12:43:41.291318",
+  "generated_at": "2026-05-26T09:51:30.699641",
   "episodes": [
+    {
+      "episode_id": "20260526_054208",
+      "profile": "ai",
+      "title": "AIが数学を解く朝 〜シリ大改造とアレクサ侵食、テック4本立て〜",
+      "generated_at": "2026-05-26T05:42:08+09:00",
+      "duration_sec": 476.12,
+      "audio_url": "/audio/ai/20260526_054208.mp3?v=1779756634",
+      "meta_url": "/audio/ai/20260526_054208.meta.json",
+      "script_url": "/audio/ai/20260526_054208.script.json",
+      "audio_size_mb": 7.27,
+      "featured_game": {
+        "image_rel": "/images/topics/tech_20260526_054208_chars.webp?v=1779756565",
+        "hero_rel": "/images/topics/tech_20260526_054208.webp?v=1779756565",
+        "title": "AIが数学を解く朝 〜シリ大改造とアレクサ侵食、テック4本立て〜",
+        "companies": [
+          "Amazon",
+          "Google",
+          "Apple",
+          "Gemini",
+          "OpenAI",
+          "Meta"
+        ],
+        "screenshot_rels": []
+      },
+      "program_description": "旅の道ラジオ朝便、テックニュース4本立て。Googleディープマインドの新AI『アルファプルーフ・ネクサス』が数十年来の数学難問を量産解決、研究現場の景色が変わる話。iOS 27のSiri大改造で複数アプリ横断のAIエージェント化、アップルが本気を出した。AIチャットボットが実在の電話番号を漏らしてる問題、デジタル指紋時代の自衛策まで。最後はアマゾンがアレクサをサイト本体に統合、ショッピングが『AIが選ぶ時代』へ突入。通勤・通学の合間にサクッと業界をつかめる雑談回。",
+      "summary_short": "数十年越しの数学難問をDeepMindのAIが次々攻略。iOS 27ではSiriがアプリをまたぐ万能エージェントに進化し、チャットボットが電話番号を漏らす盲点と自衛法、AmazonがアレクサをAI購買参謀に格上げ——業界激変の最前線を4本凝縮。"
+    },
+    {
+      "episode_id": "20260526_051813",
+      "profile": "indie",
+      "title": "インクの楽園に魂を売って 〜カップヘッドが鳴らすジャズと地獄〜",
+      "generated_at": "2026-05-26T05:18:13+09:00",
+      "duration_sec": 482.08,
+      "audio_url": "/audio/indie/20260526_051813.mp3?v=1779756639",
+      "meta_url": "/audio/indie/20260526_051813.meta.json",
+      "script_url": "/audio/indie/20260526_051813.script.json",
+      "audio_size_mb": 7.36,
+      "featured_game": {
+        "app_id": null,
+        "igdb_id": 237497,
+        "title": "Cuphead",
+        "image_rel": "/images/topics/indie_20260526_051813_chars.webp?v=1779756635",
+        "hero_rel": "/images/games/igdb_237497.jpg?v=1779180890",
+        "screenshot_rels": [
+          "/images/games/igdb_237497_ss1.jpg?v=1779180891",
+          "/images/games/igdb_237497_ss2.jpg?v=1779180891",
+          "/images/games/igdb_237497_ss3.jpg?v=1779180892"
+        ],
+        "developers": [
+          "Studio MDHR"
+        ],
+        "publishers": [
+          "Studio MDHR"
+        ],
+        "genres": [
+          "Shooter",
+          "Platform",
+          "Adventure",
+          "Indie",
+          "Arcade"
+        ],
+        "release_date": "2019-09-29",
+        "short_description": "A port of Cuphead that was released as a part of Tesla's 10.0 software update. Due to the Tesla hardware of the time, the game only featured the first world of the game.\n\nIn December 2022, the port was made obsolete in certain Tesla models due to a software update which adds Steam connectivity."
+      },
+      "program_description": "今回はもう発売から長いこと経ってるのに未だに語り継がれるアクション・シューターの名作『カップヘッド』をじっくり掘り下げる回。カナダの兄弟二人がスタジオ・エムディーエイチアールを立ち上げ、自宅を抵当に入れてまで七年かけて作り上げた執念の作品。千九百三十年代のラバーホース・アニメーションをセル画手描きで完全再現し、生演奏ジャズ五十一曲をクリストファー・マディガンが書き下ろした、もはやインディの域を超えた狂気の物量と作家性。鬼難易度のボスラッシュ、悪魔との魂の契約というストーリー、千九百三十年代のフライシャー・スタジオへのオマージュ、二千二十二年に追加されたDLC『デリシャス・ラスト・コース』とミス・チャリス、めたんの中二病発作脱線まで、今からでも遊ぶ価値ある名作として語り尽くす一本。",
+      "summary_short": ""
+    },
+    {
+      "episode_id": "20260526_051759",
+      "profile": "indie",
+      "title": "湖から戻ってきた殺人鬼 〜DbD十周年に解けた版権の鎖〜",
+      "generated_at": "2026-05-26T05:17:59+09:00",
+      "duration_sec": 383.2,
+      "audio_url": "/audio/indie/20260526_051759.mp3?v=1779756643",
+      "meta_url": "/audio/indie/20260526_051759.meta.json",
+      "script_url": "/audio/indie/20260526_051759.script.json",
+      "audio_size_mb": 5.85,
+      "featured_game": {
+        "app_id": 381210,
+        "title": "Dead by Daylight",
+        "image_rel": "/images/topics/indie_20260526_051759_chars.webp?v=1779756640",
+        "hero_rel": "/images/games/381210_hero.jpg?v=1779739878",
+        "screenshot_rels": [
+          "/images/games/381210_ss.jpg?v=1779739878",
+          "/images/games/381210_ss2.jpg?v=1779739879",
+          "/images/games/381210_ss3.jpg?v=1779739879",
+          "/images/games/381210_ss4.jpg?v=1779739880"
+        ],
+        "developers": [
+          "Behaviour Interactive Inc."
+        ],
+        "publishers": [
+          "Behaviour Interactive Inc."
+        ],
+        "genres": [
+          "アクション"
+        ],
+        "release_date": "2016年6月14日",
+        "price": "1,980円",
+        "short_description": "非対称マルチプレイホラー。生存者4人と殺人鬼1人に分かれて、脱出と狩りを繰り広げるカナダ・ベヘイビアー・インタラクティブ製の長寿タイトル。10周年の節目で13日の金曜日のジェイソン・ボーヒーズが念願参戦。",
+        "dedup_verified": true,
+        "header_url": "/images/games/381210_header.jpg?v=1779739876"
+      },
+      "program_description": "今朝の旅の道ラジオ朝便はデッドバイデイライト十周年の節目に飛び込んだ大ニュース、13日の金曜日のジェイソン・ボーヒーズが「ついに」DbDに参戦する話を深掘り。日本では2026年6月17日本配信、ピーティービーは5月27日からピーシー版で先行スタート。キラー能力「神出鬼没の悪」でマップから完全消失して足音なし高速移動、ロッカー破片や発電機パーツやフック破片を投擲する第二能力まで解説する。長年実装できなかった理由として、ヴィクター・ミラー対ショーン・エス・カニンガムの版権訴訟と、別ゲーム「フライデー・ザ・サーティーンス・ザ・ゲーム」が裁判で打ち切られサーバー停止に至った経緯、その空白期間にベヘイビアー・インタラクティブが取りに行ったタイミングの綺麗さまで触れる。マイヤーズ・ピラミッドヘッド・ピンヘッド・貞子といったホラーアイコン参戦の系譜の中で、ジェイソンが十年越しの「念願枠」だった意味も語る回。ずんだもんが朝からホラー苦手と言いつつカレンダーに襲来予定日を書き込もうとする回。",
+      "summary_short": ""
+    },
     {
       "episode_id": "20260525_053643",
       "profile": "ai",
       "title": "AIがAIを磨く35時間 〜古典謎解き復活・買収劇・中国AGI、テック4本立て〜",
       "generated_at": "2026-05-25T05:36:43+09:00",
-      "duration_sec": 510.05,
-      "audio_url": "/audio/ai/20260525_053643.mp3?v=1779680610",
+      "duration_sec": 509.43,
+      "audio_url": "/audio/ai/20260525_053643.mp3?v=1779756690",
       "meta_url": "/audio/ai/20260525_053643.meta.json",
       "script_url": "/audio/ai/20260525_053643.script.json",
-      "audio_size_mb": 7.78,
+      "audio_size_mb": 7.77,
       "featured_game": {
         "image_rel": "/images/topics/tech_20260525_053643_chars.webp?v=1779680468",
         "hero_rel": "/images/topics/tech_20260525_053643.webp?v=1779680468",
