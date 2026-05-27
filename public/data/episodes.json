@@ -1,39 +1,65 @@
 {
-  "generated_at": "2026-05-27T18:34:51.675656",
+  "generated_at": "2026-05-27T23:36:03.130839",
   "episodes": [
     {
       "episode_id": "20260527_173204",
       "profile": "indie",
-      "title": "国産インディーが海外で「解釈一致」 〜『ソドミーファタール』吸血鬼のゲイバー経営シム〜",
+      "title": "国産経営シムが海外バズの理由 〜『ソドミーファタール』吸血鬼ゲイバーの解釈一致〜",
       "generated_at": "2026-05-27T17:32:04+09:00",
-      "duration_sec": 538.55,
-      "audio_url": "/audio/indie/20260527_173204.mp3?v=1779874491",
+      "duration_sec": 443.52,
+      "audio_url": "/audio/indie/20260527_173204.mp3?v=1779892562",
       "meta_url": "/audio/indie/20260527_173204.meta.json",
       "script_url": "/audio/indie/20260527_173204.script.json",
-      "audio_size_mb": 8.22,
+      "audio_size_mb": 6.77,
       "featured_game": {
-        "title": "ソドミーファタール|Sodomy Fatale",
-        "alttitle": "Sodomy Fatale",
-        "app_id": null,
+        "app_id": 4541650,
+        "title": "ソドミーファタール",
+        "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4541650/483d1daabcb7935515c81338d674cae44d84eade/header_japanese.jpg?t=1779274333",
+        "image_path": "D:\\NEWStool\\indienews\\image\\games\\4541650_header.jpg",
+        "image_rel": "/images/topics/indie_20260527_173204_chars.webp?v=1779892558",
+        "background_url": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4541650?t=1779274333",
+        "background_rel": "/images/games/4541650_bg.jpg?v=1779888713",
+        "capsule_rel": null,
+        "hero_rel": "/images/games/4541650_ss.jpg?v=1779888714",
+        "screenshot_rel": "/images/games/4541650_ss.jpg?v=1779888714",
         "developers": [
-          "jamsanpoid"
+          " Jamsanpoid",
+          " VampireK.K."
         ],
         "publishers": [
-          "Vampire K.K."
+          " VampireK.K."
         ],
         "genres": [
-          "Bar Management Sim",
-          "Visual Novel",
-          "LGBTQ+"
+          "シミュレーション",
+          "早期アクセス"
         ],
-        "release_date": "2026-05-15 (Steam早期アクセス)",
-        "short_description": "吸血鬼が経営するゲイバーを舞台に、血をベースにしたカクテル「ヘマテル」を提供しながら群像劇を紡ぐ経営シム+ビジュアルノベル。Steam早期アクセス中、フル版は2026年第2四半期予定。",
-        "dedup_verified": true,
-        "image_rel": "/images/topics/indie_20260527_173204_chars.webp?v=1779874486",
-        "screenshot_rels": []
+        "release_date": "2026年5月14日",
+        "price": "860円",
+        "short_description": "「狂気より愛をこめて」のじゃむさんっぽいどが送る経営ゲーム、ソドミーファタールは、いたって普通の吸血鬼のゲイバーを経営できちゃう！オリジナルの“血のお酒-エマテル-”を作り、個性豊かなお客さんたちと会話を楽しみましょう。お客さんの好みを聞いてエマテルをたくさん提供するほど、特別なお客さんがやってきます。多数収録されたオリジナル楽曲を聞きながら、あなただけのお店作りを楽しみましょう。",
+        "screenshot_rels": [
+          "/images/games/4541650_ss.jpg?v=1779888714",
+          "/images/games/4541650_ss2.jpg?v=1779888715",
+          "/images/games/4541650_ss3.jpg?v=1779888715",
+          "/images/games/4541650_ss4.jpg?v=1779888715"
+        ],
+        "screenshots": [
+          "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4541650/4cfb6b62ef496d69cb8045fd3fcfdc82d9ceddda/ss_4cfb6b62ef496d69cb8045fd3fcfdc82d9ceddda.600x338.jpg?t=1779274333",
+          "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4541650/7aa8a743b051cc6b40a138bfb4a611d14be5284d/ss_7aa8a743b051cc6b40a138bfb4a611d14be5284d.600x338.jpg?t=1779274333",
+          "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4541650/047cb854875c4364948095abe6f263db793cacbd/ss_047cb854875c4364948095abe6f263db793cacbd.600x338.jpg?t=1779274333",
+          "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4541650/d925a929f366626d3f4ee6f1cba891f63dd28684/ss_d925a929f366626d3f4ee6f1cba891f63dd28684.600x338.jpg?t=1779274333",
+          "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4541650/d2fae2381947c946e5bd62c423d708ff33e97e87/ss_d2fae2381947c946e5bd62c423d708ff33e97e87.600x338.jpg?t=1779274333"
+        ],
+        "screenshots_full": [
+          "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4541650/4cfb6b62ef496d69cb8045fd3fcfdc82d9ceddda/ss_4cfb6b62ef496d69cb8045fd3fcfdc82d9ceddda.1920x1080.jpg?t=1779274333",
+          "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4541650/7aa8a743b051cc6b40a138bfb4a611d14be5284d/ss_7aa8a743b051cc6b40a138bfb4a611d14be5284d.1920x1080.jpg?t=1779274333",
+          "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4541650/047cb854875c4364948095abe6f263db793cacbd/ss_047cb854875c4364948095abe6f263db793cacbd.1920x1080.jpg?t=1779274333",
+          "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4541650/d925a929f366626d3f4ee6f1cba891f63dd28684/ss_d925a929f366626d3f4ee6f1cba891f63dd28684.1920x1080.jpg?t=1779274333",
+          "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4541650/d2fae2381947c946e5bd62c423d708ff33e97e87/ss_d2fae2381947c946e5bd62c423d708ff33e97e87.1920x1080.jpg?t=1779274333"
+        ],
+        "header_url": "/images/games/4541650_header.jpg?v=1779888713"
       },
-      "program_description": "国産インディー『ソドミーファタール』を夜便で深掘り。背景ではバー会話ゲーの系譜、開発者ジャムサンポイドの前作『狂気より愛をこめて』譲りの「ジャンルの皮を被った変化球」作風、SteamのLGBTQ+タグから海外コミュニティへ届いて「解釈一致」でバズした経路を整理。本作ではフランボイアントな吸血鬼バーマスター・アレック、記憶喪失ロボット・イニス、パートタイムのエレナが回す群像劇、血ベースのカクテル「ヘマテル」、コージーゲームとしての引き算設計を解説。総括では誰に刺さるか合わないかの判定、日本語のみという現状の壁、そして「日本では尖りすぎる題材が世界規模で刺さる時代」という国産インディー海外進出の新しい型を語る。",
-      "summary_short": "吸血鬼がゲイバーで血のカクテルを振る舞う、国産インディー『ソドミーファタール』。海外LGBTQ+コミュニティで「解釈一致」バズを起こした経路、群像劇の構造、コージー設計の妙、そして日本で尖りすぎた題材が世界で刺さる新しい形を深掘りする。"
+      "program_description": "今夜の旅の道ラジオ夜便は、海外で先にバズった国産インディー『ソドミーファタール』を1本がっつり深掘り。背景セクションでは、日本のインディーが海外のニッチコミュニティで先に評価されるパターンや、海外の性的マイノリティ向けゲーム市場の規模感をめたんが整理。本作セクションでは『吸血鬼が経営するゲイバー』という濃い設定、血のお酒『エマテル』を作ってお客さんと会話する経営シミュレーションの中身、早期アクセスという形式について噛み砕き解説。総括では『解釈一致』というキーワードを軸に、刺さる人と合わない人の見分け方、買い時を整理して、国産インディーの海外進出ルートの面白さで締めくくった。",
+      "summary_short": "吸血鬼が営むゲイバーで血のカクテルを振る舞う、国産インディー『ソドミーファタール』。なぜ日本発の作品が海外の性的マイノリティ市場で先に燃えたのか、「解釈一致」の刺さり方から買い時判断まで一気に解体する。"
     },
     {
       "episode_id": "20260527_054341",
@@ -102,49 +128,6 @@
       },
       "program_description": "今回は1997年10月16日にプレイステーションで発売された伝説のカルト名作『moon リミックスRPGアドベンチャー』を深掘り。開発はラブデリック、発売はアスキー。キャッチコピーは「もう、勇者しない。」。勇者じゃない少年が、勇者に倒されたアニマルの魂をキャッチして救い、住人の生活を観察して『ラブ』を集めるという、当時としてもガチで異端なアンチRPG。同年のファイナルファンタジー7に飲まれて商業的には苦戦したものの、後年『ラブデリック系』という単語まで生み出した賛否両論カルト枠。ディレクター3人体制（西健一・工藤太郎・木村祥朗）+ キャラクター美術 倉島一幸、音楽 安達昌宣ほか多数アーティストが参加した遊び心の塊。Undertaleのトビー・フォックスにも影響を与えた一作で、2019年10月にOnion GamesがSwitch版を出して22年ぶりに復活、2021年にはWin/PS4にも移植された。木村祥朗本人が『クソゲーだから覚悟のうえで買ってほしい』と自虐するクセの強さも含めて、つむぎ先輩がガチで語り、ずんだもんが『勇者やめるのだ』と便乗してこける、ラブだらけの回。",
       "summary_short": ""
-    },
-    {
-      "episode_id": "20260527_051936",
-      "profile": "indie",
-      "title": "ハルカーナ星をポケットに 〜スライム牧場、九年越しのモバイル降臨〜",
-      "generated_at": "2026-05-27T05:19:36+09:00",
-      "duration_sec": 368.5,
-      "audio_url": "/audio/indie/20260527_051936.mp3?v=1779864053",
-      "meta_url": "/audio/indie/20260527_051936.meta.json",
-      "script_url": "/audio/indie/20260527_051936.script.json",
-      "audio_size_mb": 5.62,
-      "featured_game": {
-        "dedup_verified": true,
-        "app_id": 433340,
-        "title": "Slime Rancher",
-        "image_rel": "/images/topics/indie_20260527_051936_chars.webp?v=1779864050",
-        "hero_rel": "/images/games/433340_hero.jpg?v=1779826158",
-        "capsule_rel": "/image/games/433340_capsule.jpg",
-        "screenshot_rels": [
-          "/images/games/433340_ss.jpg?v=1779826158",
-          "/images/games/433340_ss2.jpg?v=1779826159",
-          "/images/games/433340_ss3.jpg?v=1779826160",
-          "/images/games/433340_ss4.jpg?v=1779826160"
-        ],
-        "developers": [
-          "Monomi Park"
-        ],
-        "publishers": [
-          "Monomi Park"
-        ],
-        "genres": [
-          "アクション",
-          "アドベンチャー",
-          "インディー",
-          "シミュレーション"
-        ],
-        "release_date": "2017年8月1日",
-        "price": "2,200円",
-        "short_description": "1000光年離れた惑星ハルカーナを舞台に、女の子のベアトリクス・ルボーが牧場主として可愛いスライムたちを集め、育て、稼いでいくサンドボックス系の牧場経営アドベンチャー。2026年5月26日に Playdigious からモバイル版が iOS / Android 同時配信、8.99ドルの買い切り。",
-        "header_url": "/images/games/433340_header.jpg?v=1779826155"
-      },
-      "program_description": "2026年5月26日に Steam の人気スライム牧場経営ゲーム『スライムランチャー』のスマートフォン版が iOS と Android で同時リリースされた話題を朝便で深掘り。開発元 Monomi Park の本家 PC 版は約14万8千件のレビューで98%好評を維持する『圧倒的に好評』、2019年に Epic Games Store で無料配布されたタイミングでプレイヤー人口を一気に膨らませた経緯がある作品。今回のモバイル移植はフランスの移植専門パブリッシャー Playdigious が担当、価格は 8.99 ドル買い切りでクラウドセーブと外付けコントローラー対応も完備。ずんだもんがバキュームパックをラジオのスポンサー掃除機と勘違いするボケから入って、めたんがサンマテオの小さなスタジオが2014年から育てた牧場ゲームの優しさを語る、通勤通学のお供にぴったりのほっこり朝便。",
-      "summary_short": "98%好評のスライム牧場ゲームがついに手のひらサイズに——PC版から9年、Monomi Parkの愛情作がPlaydigiousの移植で8.99ドル買い切りiOS/Androidに上陸。クラウドセーブ対応まで完備の嬉しいニュースを、朝便でほっこり深掘りする回。"
     },
     {
       "episode_id": "20260526_054208",
