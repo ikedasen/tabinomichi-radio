@@ -1,0 +1,404 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-05-26T20:43:41.334263+00:00",
+  "title": "中国がAI頭脳を囲う朝 〜ディープシークの正体、ジェミニの半額、テック4本立て〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便、テックニュースの回。四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今日もテックの話、サクッといくのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今日はAI業界とテック業界の話題、4本サクッと流していくわよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "軽め回なのだ! 通勤・通学のお供にちょうどいいやつなのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "テーマは色々混ぜたから、気になるやつだけ拾い聞きでもいいからね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあ、1本目いくのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "1本目。最近、中国が、民間企業を含む一部の重要なAI人材について、海外渡航に事前承認を求め始めたって報じられたのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、研究者の海外渡航に許可いるのだ? それって、人材ロックなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そう。要は「AI頭脳が海外に流出しないように国家が管理する」体制を整え始めた、って話ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、研究者、国の中に縛られちゃう感じなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "強い表現ね。背景としては、米国・欧州のAI企業が中国のトップ研究者を高給でヘッドハンティングする動きが活発化してたの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、中国としては「持ってかれたら困る」ってことなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ご名答。ディープシークやクウェンみたいな中国発の有力モデルが、国家戦略上も重要な資産として見られている立場としては、人材はもう資産扱いよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でもさ、許可制って研究者本人のヤル気にも響くんじゃないのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "いいとこ突いた。「自由に学会出られない」「海外の共同研究に参加しにくい」ってなると、優秀な人ほど辞めるリスクもあるわね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクら一般人にはどう影響するのだ? 中国の研究者がどうこうって、遠い話なのだ……。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kamera",
+      "text": "それが、遠回しに効いてくるのよ。中国AIが国際的に閉じれば、ディープシークみたいな格安AIの進化ペースが鈍る可能性がある。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "結局、ボクらが払うAIサブスクの値段にも跳ね返ってくる話なのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに、人材の囲い込みは値段の話、って覚えとけば十分よ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ2本目。その流れで、ディープシークの「稼ぎ方の謎」に切り込む解説が出てきたのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ディープシーク、聞いたことあるのだ! 中国の安いAI会社なのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう。エーピーアイ、ようはAIを外から呼び出すための窓口ね。その料金が、ジーピーティー系の数十分の一って言われてる会社よ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "あんなに安くしてたら赤字でしょ? どうやって食ってるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ここが面白いとこ。ディープシークの親会社、ハイフライヤーって会社なんだけど、本業はAIじゃなくて「クオンツ系のヘッジファンド」なのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ヘッジファンド? クオンツ? どっちも初めて聞くのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ヘッジファンドは、機関投資家からお金を預かって株や為替で運用する金融会社。クオンツってのは、その中でも数学とコンピューターで投資判断する派閥ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、AI会社じゃなくて、株屋さんが親なのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ご名答。High-Flyerはもともと投資向けに機械学習や計算資源を使っていて、その蓄積を背景にDeepSeekのAI研究へ広げていったの。それが化けて、世界中で使われ始めた。",
+      "news_index": 2,
+      "reading": "ごめいとう。はいふらいやーはもともととうしむけにきかいがくしゅうやけいさんしげんをつかっていて、そのちくせきをはいけいにDeepSeekのAIけんきゅうへひろげていったの。それがばけて、せかいじゅうでつかわれはじめた。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "つまり、ディープシークは、High-Flyerの資金力や計算資源を背景に、利益率より低価格と普及を優先しやすい構造なのだ?ってことなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "要するに、商業AIで利益を最大化する目的じゃない。低価格は、技術効率や既存の計算資源、利益率より普及を優先する姿勢が重なった結果、と見るのが自然ね、って読み筋ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "それ、オープンエーアイとかアンソロピックには絶対勝てないやつじゃん! ゲームの土俵が違うのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kamera",
+      "text": "で、これが我々一般人に効くのが、開発者やスタートアップが「どのAIを使うか」の判断。価格の基準線が一段下がった世界が、当たり前になってくるわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクの使ってるアプリも、裏で安いAIに置き換わってる可能性、ありそうなのだ……。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ3本目。消費者と開発者向けの話。グーグルが、ジェミニのAPIに「フレックス」モードってのを追加したのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "フレックス? 体操の「フレックス」なのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "違う違う、料金プランの名前。要は「急がない代わりに半額」のオプションよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "半額!? どういう仕組みなのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "リクエストをキュー、ようは行列に並ばせて、グーグルのサーバーが空いた時に処理する。だから返答が数秒から数分遅れる可能性があるの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あっ、それ、宅配便の「翌日配達じゃない代わりに安い」やつと同じ発想なのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いい比喩。クラウドの世界で言うと、エーダブリュエスのスポットインスタンスやバッチ割引に近い、空き容量を安く使う発想ね。ただしFlexは同期APIで、Batch APIとは仕組みが違うわね。",
+      "news_index": 3,
+      "reading": "いいひゆ。クラウドのせかいでいうと、えーだぶりゅーえすのスポットインスタンスやバッチわりびきにちかい、あきようりょうをやすくつかうはっそうね。ただしFlexはどうきAPIで、BatchAPIとはしくみがちがうわね。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、これは誰が嬉しいのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "夜間にデータ分析を回す人、大量のテキストを一気に生成する人、急がないバッチ処理を抱えてる人。即時応答が要らない使い方には超刺さるわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクみたいに「今すぐチャットして」タイプには無関係なのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kamera",
+      "text": "要するに、AIのコストが「速さで分かれる時代」に入ったって話。我々一般人の月額AIも、急がない用途なら値下げ余地が出てくるかもしれないわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "なるほどなのだ! 「速さで分かれる」って覚えとくのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "じゃあラスト4本目。AIからちょっと離れて、ゲーム業界の動き。今夜、スクエニが大きい告知を予告してるのよ。",
+      "news_index": 4,
+      "reading": "じゃあラスト4ほんもめ。AIからちょっとはなれて、ゲームぎょうかいのうごき。こんや、スクエニがおおきいこくちをよこくしてるのよ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、何の告知なのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "「ドラゴンクエストからのお知らせ」っていうプレミア公開。日付は今日、5月27日の午後10時よ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "もう数時間後じゃん!! 中身は何なのだ!?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "中身は伏せられてる。タイトルだけ告知、っていうドラクエ流の焦らし方ね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "えー、教えてほしいのだ! ボク、夜まで耐えられないのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "予想筋は大きく3つ。ナンバリング最新作「『ドラゴンクエストXII　選ばれし運命の炎』」の本格発表、外伝・モンスターズ系の新作、スイッチ2向けの展開発表、ね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "12って、どれくらい音沙汰なかったのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ここ数年、目立った続報が無くて、ファンの間では「どうなってるの?」って空白期間が続いてたわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "我々一般人にどう影響するか、聞きたいのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kamera",
+      "text": "ドラクエは日本だけじゃなくアジア圏でも根強い人気。どのハードで遊べるかによって、年末年始のゲーム市場の絵が一気に変わる可能性があるの。今夜は要チェックね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ボクも今夜、寝る前に絶対チェックするのだ!",
+      "news_index": 4,
+      "reading": "ボクもこんや、ねるまえにぜったいチェックするのだ!"
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "というわけで、今朝のテック朝便、4本立てでお届けしたわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "中国の人材ロック、ディープシークの正体、ジェミニの半額モード、ドラクエの今夜告知、全然ジャンル違ったけど面白かったのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "気になったやつは検索してみてね。特にドラクエは今夜10時、リアルタイムで追える話題よ。",
+      "news_index": 0,
+      "reading": "きになったやつはけんさくしてみてね。とくにドラクエはこんや10じゅうじ、リアルタイムでおえるわだいよ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクは寝る前に追っかけるのだ……眠くてもチェックするのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "無理しないでね。また明日のテック朝便で会いましょう。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "またなのだー! 今日も1日、気をつけていってらっしゃいなのだ!",
+      "news_index": 0
+    }
+  ],
+  "program_description": "2026年5月27日の朝、テックニュースを4本立てでお届け。1本目は中国がAI研究者の海外渡航に政府許可を義務化したという報道、人材ロック戦略の意味を読み解く。2本目はディープシークが激安料金で稼げる理由、親会社ハイフライヤーがヘッジファンドだという種明かし。3本目はグーグルがジェミニAPIに追加した半額モード「フレックス」の仕組みと、急がない用途に刺さる理由。ラストはスクエニが今夜10時に予告するドラゴンクエストの大型告知、何が出るかを予想。価格・人材・告知、テック業界の地図が動く朝便。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20260527_054341_chars.webp",
+    "hero_rel": "/images/topics/tech_20260527_054341.webp",
+    "title": "中国がAI頭脳を囲う朝 〜ディープシークの正体、ジェミニの半額、テック4本立て〜",
+    "companies": [
+      "DeepSeek",
+      "Gemini",
+      "Google",
+      "OpenAI",
+      "Claude"
+    ]
+  },
+  "summary_short": "最新バージョンです。\n\n---\n\nAIの頭脳争奪戦が国家レベルに突入。中国が研究者の渡航を政府管理下に置く人材ロック戦略、ディープシークの激安を支えるヘッジファンドの謎、グーグルの半額API「フレックス」、スクエニのドラクエ大型告知——4本立てで読み解く。"
+}
