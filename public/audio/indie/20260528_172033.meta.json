@@ -1,0 +1,775 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-05-28T17:20:33+09:00",
+  "title": "『Shovel Knight』のスタジオが6年かけた新作 〜『Mina the Hollower』2026年“現時点で”最高評価の理由 / 2026年暫定最高評価の理由〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 449.9,
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 5.56
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "こんばんは、旅の道ラジオ夜便、新作深掘り回。四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 5.56,
+      "end_sec": 10.49
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今夜は気になる新作を一本、じっくり掘り下げるのだ!",
+      "news_index": 0,
+      "start_sec": 10.64,
+      "end_sec": 16.1
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今夜の主役は『ミナ・ザ・ホロワー』。つい先日レビューが解禁されたばかりの新作だわ。",
+      "news_index": 0,
+      "start_sec": 16.25,
+      "end_sec": 22.28
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "んん、ミナ・ザ・ホロワー……正直ボク、名前だけじゃピンと来ないのだ。",
+      "news_index": 0,
+      "start_sec": 22.43,
+      "end_sec": 27.69
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "よね。でも作ったのが『ショベルナイト』のスタジオって言ったら、印象変わらない?",
+      "news_index": 0,
+      "start_sec": 27.84,
+      "end_sec": 32.52
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、あのシャベルで戦うドット絵の名作!? それは一気に気になるのだ!",
+      "news_index": 0,
+      "start_sec": 32.67,
+      "end_sec": 37.67
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "まず背景から。このゲーム、ジャンルでいうと『見下ろし視点のアクションアドベンチャー』なの。",
+      "news_index": 1,
+      "start_sec": 37.82,
+      "end_sec": 43.14
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "見下ろし視点って? 上からキャラを見おろす感じのやつなのだ?",
+      "news_index": 1,
+      "start_sec": 43.29,
+      "end_sec": 47.37
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、ちょい斜め上からキャラを見るタイプ。ゲームボーイの『ゼルダの伝説 夢をみる島』を思い浮かべると近いわ。",
+      "news_index": 1,
+      "start_sec": 47.52,
+      "end_sec": 54.46
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "あー! 主人公をちっちゃく上から見て、マップをてくてく探索するやつなのだね!",
+      "news_index": 1,
+      "start_sec": 54.61,
+      "end_sec": 59.71
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そういうこと。しかも武器が鞭で、4方向にビシッと振るの。これは『悪魔城ドラキュラ』の系譜だわ。",
+      "news_index": 1,
+      "start_sec": 59.86,
+      "end_sec": 65.96
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "鞭で戦う見下ろしゲーム……ゼルダと悪魔城の合体みたいなものなのだ!?",
+      "news_index": 1,
+      "start_sec": 66.11,
+      "end_sec": 71.24
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "イメージはかなり近いわ。古き良きゲームボーイの手触りを、今の技術で作り直したって作品だわ。",
+      "news_index": 1,
+      "start_sec": 71.39,
+      "end_sec": 77.63
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でもさ、なんで今さらゲームボーイ風なのだ? 古臭くならないのだ?",
+      "news_index": 1,
+      "start_sec": 77.78,
+      "end_sec": 82.52
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこがミソなの。見た目はわざとレトロ、でも中身は現代水準でヌルヌル60fps、『外見レトロ・中身本格』って路線だわ。",
+      "news_index": 1,
+      "start_sec": 82.67,
+      "end_sec": 91.4
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "見た目は懐かし、操作は最新……いいとこ取りじゃん! ずるいのだ!",
+      "news_index": 1,
+      "start_sec": 91.55,
+      "end_sec": 96.3
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、これを作ったのがヨットクラブゲームズってスタジオ。代表作が『ショベルナイト』だわ。",
+      "news_index": 1,
+      "start_sec": 96.45,
+      "end_sec": 102.07
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ショベルナイト! シャベルでガンガン戦うドット絵のやつなのだ、あれ面白かったのだ!",
+      "news_index": 1,
+      "start_sec": 102.22,
+      "end_sec": 107.37
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう、世界中で評価された名作。そのチームが次に出すってだけで、期待値が高かったわ。",
+      "news_index": 1,
+      "start_sec": 107.52,
+      "end_sec": 113.11
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "信頼の貯金があるってことなのだね。でもこの新作、できるまでけっこう長かったって聞いたのだ?",
+      "news_index": 1,
+      "start_sec": 113.26,
+      "end_sec": 119.53
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ええ、開発に6年以上かかってるの。しかも始まりがちょっと変わってて。",
+      "news_index": 1,
+      "start_sec": 119.68,
+      "end_sec": 124.6
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "変わってる? どういうことなのだ?",
+      "news_index": 1,
+      "start_sec": 124.75,
+      "end_sec": 127.19
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "もともと社員さんが一人で、コーディングと絵の練習用に作ってた個人プロジェクトだったの。売る予定すらなかったのよ。",
+      "news_index": 1,
+      "start_sec": 127.34,
+      "end_sec": 134.2
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、練習用の趣味が会社の正式タイトルに化けたのだ!? すごい出世物語なのだ!",
+      "news_index": 1,
+      "start_sec": 134.35,
+      "end_sec": 140.56
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "経営陣が『これはショベルナイトと並ぶ柱になる』と見たのね。それで2022年にクラウドファンディングをやったの。",
+      "news_index": 1,
+      "start_sec": 140.71,
+      "end_sec": 147.4
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "クラウドファンディング……それってみんなからお金を集めるやつなのだっけ?",
+      "news_index": 1,
+      "start_sec": 147.55,
+      "end_sec": 152.01
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、完成前に応援したい人から資金を募る仕組み。これで21,439人から、約124万ドル集まったの。",
+      "news_index": 1,
+      "start_sec": 152.16,
+      "end_sec": 159.62
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "2万人以上!? 完成前にそれだけの人がお金を出すって、相当期待されてたのだ!",
+      "news_index": 1,
+      "start_sec": 159.77,
+      "end_sec": 165.78
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ただ発売は、当初2025年10月31日の予定が、最終的な磨き込みとバランス調整のために2026年5月29日まで延びたの。",
+      "news_index": 1,
+      "start_sec": 165.93,
+      "end_sec": 176.61
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "延期かあ……。それってスタジオ的には大丈夫だったのだ?",
+      "news_index": 1,
+      "start_sec": 176.76,
+      "end_sec": 180.48
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "実はスタジオ自身が『社運を賭けた一本』って言ってるくらい。要するに、絶対コケられない勝負作って背景だわ。",
+      "news_index": 1,
+      "start_sec": 180.63,
+      "end_sec": 188.05
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ中身、本作の話にいくわね。コアになるのは鞭を使ったアクションだわ。",
+      "news_index": 2,
+      "start_sec": 188.13,
+      "end_sec": 192.95
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "さっき言ってた4方向に振る鞭なのだね。名前とかあるのだ?",
+      "news_index": 2,
+      "start_sec": 193.1,
+      "end_sec": 197.25
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "『ナイトスター』って鞭だわ。上下左右、どの方向にもビシッと振れるの。",
+      "news_index": 2,
+      "start_sec": 197.4,
+      "end_sec": 201.68
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "ナイトスター! 名前からして強そうなのだ、鞭一本でずっと戦うのだ?",
+      "news_index": 2,
+      "start_sec": 201.83,
+      "end_sec": 206.66
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ううん、鞭以外にもいろんな武器があって、それぞれ操作感がまるで違うの。",
+      "news_index": 2,
+      "start_sec": 206.81,
+      "end_sec": 211.67
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "武器ごとに手触りが変わる!? じゃあ自分の好みで戦い方を選べるじゃん!",
+      "news_index": 2,
+      "start_sec": 211.82,
+      "end_sec": 216.54
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。で、もうひとつの目玉が『ホロウィング』って独自アクションだわ。",
+      "news_index": 2,
+      "start_sec": 216.69,
+      "end_sec": 221.56
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ホロウィング? それ何なのだ?",
+      "news_index": 2,
+      "start_sec": 221.71,
+      "end_sec": 223.93
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "地面にもぐる技なの。短いあいだ地中をスーッと潜って、すばやく移動したり隙間を越えたりできるのよ。",
+      "news_index": 2,
+      "start_sec": 224.08,
+      "end_sec": 230.5
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "もぐる!? モグラみたいに地面に潜って進むのだ!?",
+      "news_index": 2,
+      "start_sec": 230.65,
+      "end_sec": 234.2
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "しかも潜ってるあいだは無敵。攻撃をかわす回避にも移動にも使える便利技だわ。",
+      "news_index": 2,
+      "start_sec": 234.35,
+      "end_sec": 239.3
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "潜れば無敵で敵をスルー……攻めも守りもいけるじゃん! めちゃくちゃ気持ちよさそうなのだ!",
+      "news_index": 2,
+      "start_sec": 239.45,
+      "end_sec": 245.64
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "タイトルの『ホロワー』も、この地中に潜るアクションから来た名前なのね。",
+      "news_index": 2,
+      "start_sec": 245.79,
+      "end_sec": 250.31
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "あー、だから『ホロワー』なのだ! 名前とアクションがちゃんと繋がってるの、ボク好きなのだ。",
+      "news_index": 2,
+      "start_sec": 250.46,
+      "end_sec": 256.65
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "見た目はゲームボーイカラー風のドット絵。でも動きは秒間60コマでヌルヌルで、ここが『古いのに新しい』核心だわ。",
+      "news_index": 2,
+      "start_sec": 256.8,
+      "end_sec": 264.53
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "60コマってどのくらいすごいのだ? 数字だけだとボクにはピンと来ないのだ。",
+      "news_index": 2,
+      "start_sec": 264.68,
+      "end_sec": 269.7
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "元ネタはゲームボーイカラー風の見た目だけど、本作は現代向けに60fpsの操作感として作っている、ということね、目は懐かしいのに手は最新って感覚になるのよ。",
+      "news_index": 2,
+      "start_sec": 269.85,
+      "end_sec": 280.66
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "脳が混乱する気持ちよさなのだ! 懐かしいのに快適、ずるい設計なのだ!",
+      "news_index": 2,
+      "start_sec": 280.81,
+      "end_sec": 286.27
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "レビューでも、ただ昔を真似ただけじゃなく『現代に進化させた』って点が高く評価されてるわ。",
+      "news_index": 2,
+      "start_sec": 286.42,
+      "end_sec": 292.0
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "なるほどなのだ。じゃあ逆に、不安なところって無かったのだ?",
+      "news_index": 2,
+      "start_sec": 292.15,
+      "end_sec": 296.17
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "強いて言えば、6年かけて社運を賭けた一本ってプレッシャーだわ。期待が膨らみすぎる怖さはあったと思う。",
+      "news_index": 2,
+      "start_sec": 296.32,
+      "end_sec": 303.21
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "たしかに、待たされた分ハードルが上がっちゃうのだ。それで微妙だったらキツいのだ……。",
+      "news_index": 2,
+      "start_sec": 303.36,
+      "end_sec": 308.51
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ところが蓋を開けたら、その高いハードルを軽々超えてきたの。完成度はしっかり褒められてるわ。",
+      "news_index": 2,
+      "start_sec": 308.66,
+      "end_sec": 314.18
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "6年待たせて、ちゃんと超えてくる……プロの仕事なのだ!",
+      "news_index": 2,
+      "start_sec": 314.33,
+      "end_sec": 317.99
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "武器の選択肢、潜るアクション、なめらかな手触り。要するに、レトロの皮をかぶった本格アクションってのが本作の正体だわ。",
+      "news_index": 2,
+      "start_sec": 318.14,
+      "end_sec": 326.02
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ総括ね。このゲーム、実は2026年の現時点では、メタスコアで暫定トップ級の作品だわ。",
+      "news_index": 3,
+      "start_sec": 326.1,
+      "end_sec": 332.9
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "メタスコア? それって何なのだ?",
+      "news_index": 3,
+      "start_sec": 333.05,
+      "end_sec": 335.47
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "世界中のレビューの点数を集めて平均した指標よ。要するに『批評家みんなの通信簿の平均点』ってやつだわ。",
+      "news_index": 3,
+      "start_sec": 335.62,
+      "end_sec": 343.16
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "なるほど、いろんな人の採点をまとめた平均点なのだ。で、それが一番高いのだ?",
+      "news_index": 3,
+      "start_sec": 343.31,
+      "end_sec": 349.15
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう、93点。多くのレビューで文句なし、ショベルナイト以来の最高傑作って声もあるわ。",
+      "news_index": 3,
+      "start_sec": 349.3,
+      "end_sec": 355.12
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "93点!? しかも大作がいっぱい出てる中で、インディーがトップなのだ!?",
+      "news_index": 3,
+      "start_sec": 355.27,
+      "end_sec": 360.61
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこが今っぽいのよ。大手の超大作を差し置いて、小規模なスタジオの一本がトップに立つ。",
+      "news_index": 3,
+      "start_sec": 360.76,
+      "end_sec": 366.61
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "なんか、お金の規模だけじゃ勝負が決まらなくなってるってことなのだ?",
+      "news_index": 3,
+      "start_sec": 366.76,
+      "end_sec": 371.19
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "まさに。予算より『どれだけ丁寧に磨いたか』が効く時代になってきた、その象徴的な一本だわ。",
+      "news_index": 3,
+      "start_sec": 371.34,
+      "end_sec": 377.59
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "じゃあ最後に、これってどんな人に刺さるのだ?",
+      "news_index": 3,
+      "start_sec": 377.74,
+      "end_sec": 380.71
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "見下ろし型のアクションが好きな人、ゼルダや悪魔城みたいな探索と歯ごたえが好きな人にはド真ん中だわ。",
+      "news_index": 3,
+      "start_sec": 380.86,
+      "end_sec": 387.15
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "逆に、合わないかもって人もいるのだ?",
+      "news_index": 3,
+      "start_sec": 387.3,
+      "end_sec": 390.05
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "最新のリアルな3Dグラフィックじゃないと物足りない人は、ドット絵の時点で好みが分かれるかも。",
+      "news_index": 3,
+      "start_sec": 390.2,
+      "end_sec": 396.17
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "なるほどなのだ。買い時はどうなのだ? もう今すぐいっていいのだ?",
+      "news_index": 3,
+      "start_sec": 396.32,
+      "end_sec": 400.64
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "発売前レビューでこの高評価なら、発売日にチェックする理由は十分あるわ。気になるなら、まず対応機種やストアを確認しておくのがよさそうね。",
+      "news_index": 3,
+      "start_sec": 400.79,
+      "end_sec": 409.21
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "いやー、今夜は深掘りしたのだ! ショベルナイトのチームの新作ってだけでワクワクしてたけど、想像以上だったのだ。",
+      "news_index": 0,
+      "start_sec": 409.36,
+      "end_sec": 416.48
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "気になったかたは、発売日の5月29日に対応機種をチェックしてみてね。スイッチもスイッチ2もプレステ5もエックスボックスも、パソコンも幅広く出るわよ。",
+      "news_index": 0,
+      "start_sec": 416.63,
+      "end_sec": 426.12
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "練習用の趣味が、2026年暫定トップ級の評価まで化ける……夢のある話なのだ! ボクも何か始めたくなったのだ。",
+      "news_index": 0,
+      "start_sec": 426.27,
+      "end_sec": 435.6
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "それじゃあ今夜はこのへんで。また注目の新作があれば、夜便で深掘りするわ。おやすみなさい。",
+      "news_index": 0,
+      "start_sec": 435.75,
+      "end_sec": 441.5
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 442.2,
+      "end_sec": 449.9
+    }
+  ],
+  "wall_time_sec": 11.38,
+  "audio_url": "/audio/indie/20260528_172033.mp3?v=1779960142"
+}
