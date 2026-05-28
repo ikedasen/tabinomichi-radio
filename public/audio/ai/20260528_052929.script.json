@@ -1,0 +1,509 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-05-27T20:29:29.027569+00:00",
+  "title": "デヴィン3兆円の朝 〜画像AI三つ巴とネイティブ1000Hz、テック4本立て〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便、テックニュースの回。四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今日も通勤・通学のお供に、テックの話を軽くサクッと流していくのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今日は4本立て。画像AI、コーディングAI、ゲーミングモニター、それとAIと数学の話。5月19日から27日にかけて出た話よ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "5月27日って、昨日!? 一日でそんなに動いたのだ!?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "テック業界は一日で何件も動くわ。じゃ、1本目いきましょ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "1本目、画像生成AIの順位戦よ。マイクロソフトが新しい画像AI『マイ・イメージ・ニーテン・ゴ』を出してきて、いきなり業界3位タイに食い込んだの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "マイ・イメージ? ボクの画像って意味なのだ? 自撮りAIなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "違うわ、マイクロソフトAIの略の『マイ』。要は、文字で指示すると絵を描いてくれるタイプのAIね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あー、最近流行ってる、お絵描き頼めるアレなのだ!",
+      "news_index": 1,
+      "reading": "あー、さいきんはやってる、おえかきたのめるアレなのだ!"
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。順位を決めてるのは『アリーナ』っていう画像AIの公開ランキングサイトよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "サイトの中でAI同士が殴り合うのだ!?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ある意味そう。利用者が同じお題をAIに投げて、出てきた絵を見比べて投票する仕組み。それで点数が決まるの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "なるほど、人間が審判なのだね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、今の1位はオープンエーアイの『ジーピーティー・イメージ・ツー』、1388点。その下にグーグルの『ナノ・バナナ ツー』とマイ・イメージが同率3位で並んだ、っていう構図ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ナノ・バナナって、グーグルが本気で名付けたのだ? かわいすぎなのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "本気よ、グーグル。注目はね、画像AIがオープンエーアイが首位を保ちつつ、グーグルとマイクロソフトが上位で追う構図になってきた、ってとこ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "三つ巴の競争、本格化、って話なのだね!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そういうこと。で、我々の生活にどう効くか。マイ・イメージ・ニーテン・ゴは2週間以内に、マイクロソフトの開発者向けサービス『ファウンドリ』にも展開予定。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ファウンドリ? それは何なのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "簡単に言うと、企業がアプリの中にAIを組み込むための窓口ね。要は、まずはMAI PlaygroundとMicrosoft Foundryに2週間以内に展開予定、という話ね。",
+      "news_index": 1,
+      "reading": "かんたんにいうと、きぎょうがアプリのなかにAIをくみこむためのまどぐちね。ようは、まずはMAI PlaygroundとMicrosoft Foundryに2にしゅうかんいないにてんかいよてい、というはなしね。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "オフィスにお絵描きAIが住み込むのだ! ボクの宿題の挿絵も、これで自動生成じゃん!",
+      "news_index": 1,
+      "reading": "オフィスにおえかきえーあいがすみこむのだ!ボクのしゅくだいのさしえも、これでじどうせいせいじゃん!"
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "あなたの場合、絵だけ自動化されても本文がね……。結局、画像AIは『どれが強いか』じゃなく『どの仕事道具に入ってるか』で勝負が決まる時代になった、って話。次行きましょ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "2本目、AIエージェントの評価額の話。コグニションって会社、聞いたことある?",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "コグニ……何屋さんなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "『デヴィン』っていうAIコーディングエージェントを作ってる会社よ。要は、人間のプログラマーの代わりにコードを書いて納品まで持っていくタイプのAIね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "またコーディングAIなのだ……最近多すぎじゃん!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう、クロード・コード、コーデックス、ディープシーク・コードと並ぶ大手の1つね。で、その会社が昨日5月27日、ガッツリ動いたのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "何があったのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "新規の資金調達で、企業価値の評価額が260億ドル、日本円で約3兆9,000億円。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "3兆9,000億円!? ボクの一生かけて稼いでも、絶対届かない額なのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そりゃそうよ。日本で言うと、日本企業で言うと、LINEヤフー本体の時価総額を上回る規模ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ヤフー級が、一回の資金調達で値段つくのだ!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "8ヶ月前の評価額は102億ドル、約1兆5,000億円だったの。たった8ヶ月で2.5倍。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "AIコーディング業界、お金の集まり方が異常なのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "数字あと2つ。年間収益が4億9,200万ドル、約740億円。顧客には、シティ、ゴールドマン・サックス、メルセデス・ベンツ、それから米軍まで入ってる。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ぐん!? 軍までコーディングAIに頼ってるのだ!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "もう実験段階じゃなくて、業務基盤として使われ始めてる証拠ね。さらに衝撃は、コグニションでは、自社コードベースに占めるDevin作成分が13%から89%に増えた、と説明されているの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "8割9分!? AIが自分の作り主の仕事を、ほぼ全部肩代わりしてるってことなのだ!?",
+      "news_index": 2,
+      "reading": "はちわりきゅうぶ!?AIがじぶんのつくりぬしのしごとを、ほぼぜんぶかたがわりしてるってことなのだ!?"
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "去年12月時点は13%だったの。半年で約7倍に跳ね上がった、って話。",
+      "news_index": 2,
+      "reading": "きょねん12じゅうにがつじてんは13%だったの。はんとしでやく7ばいにはねあがった、ってはなし。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、ボクみたいなプログラマーじゃない人には、どう影響するのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "近い将来、銀行のオンラインサービス、車の制御ソフト、業務システム、こういう中身がぜんぶ『AIが書いたコード』になってる、ってこと。バグの責任が誰にいくか、これから議論になるわね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "ボクが毎日使ってるアプリも、もう人間が書いてないかもしれないのだ……",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そういう時代に入った、って話。じゃ次ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "3本目、PCのハードの話。エルジー、韓国のあのエルジーね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、テレビとか家電作ってる会社なのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。ゲーミングモニターで、世界初のネイティブ1000ヘルツモデルを発表したの。型番は『ウルトラギア・にじゅうごジーごきゅうぜろビー』。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "1000ヘルツ!? それヤバくない!? 普通のモニターって何ヘルツなのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "オフィス向けは60ヘルツ、ゲーミングだと144とか240、ハイエンドで360から500ヘルツくらいよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "1000ヘルツって、ハイエンドの倍、普通のオフィスの16倍以上なのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ヘルツってのは『1秒間に画面を何回書き換えるか』の単位ね。1000ヘルツなら、1秒で1000枚の絵を入れ替える計算。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "それ、目で見て違いが分かるレベルなのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "60と144なら誰でも分かる。144から240は人による。500から1000は……正直、FPSの競技プレイヤーじゃないと体感は厳しいわね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "エフ・ピー・エス? それ何なのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ファースト・パーソン・シューターの略。要は、一人称視点で銃を撃ち合うタイプのゲームね。コール・オブ・デューティとかヴァロラントとか、ああいう系統。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクみたいに普段ゲームしない人には、どうでもいい話なのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いいえ、ここからが本題。1000ヘルツの量産が始まると、その下の500ヘルツ・360ヘルツが値崩れする。今ゲーミングモニター買いたい人は、玉突きで恩恵が回ってくるってこと。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "高い新製品が出ると、その下のグレードが安くなるアレなのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、自作PC全般の値動きとしても知っとくと得する話。スペックは24.5インチ、解像度はフル・エイチ・ディーの1920×1080、パネルはアイ・ピー・エス。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "フル・エイチ・ディーって、今どき低めじゃん? 4Kとかじゃないのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "鋭いとこ突くわね。1000ヘルツを出すには、解像度を抑えて『書き換える絵の量』を減らす必要があるの。少なくとも今回の製品は、1000ヘルツをFHDで実現している段階ね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "速さか画質か、選ぶしかないのだね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "発売は2026年下半期、価格は未公開。要は、2026年下半期、つまり7月から12月のどこかで一部市場から出る予定だけど、いくらかは秋ぐらいまで分からない、って状態。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "競技勢のみんな、貯金しとくのだ! ……ボクは普通のモニターでいいのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあラスト4本目、AIと数学の話。アンソロピックのAnthropic関係者が、Claude Mythosを使ったテスト系で、OpenAIのErdős単位距離問題に短い別証明を出せたと報告しているって報告が出てるのよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "また数学なのだ? この間グーグルがエルデシュ問題、量で解いたばっかじゃん?",
+      "news_index": 4,
+      "reading": "またすうがくなのだ?このあいだグーグルがエルデシュもんだい、りょうでといたばっかじゃん?"
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう来ると思った。今回は角度が違うの。この問題、もともとオープンエーアイが先に『数学のブレークスルー』として大々的に発表したやつなのよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、オープンエーアイの看板問題に、アンソロピックが横から別解を差し込んだってことなのだ!?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。しかもオープンエーアイのは複雑な手法での証明だった。クロード・ミュトスは、同じ結論を『短くて、エレガントな証明』で出した、と。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "美しい証明? 数学に『美しさ』ってあるのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "あるのよ。短くて、無駄がなくて、誰が読んでも納得する証明。数学界ではこれを『エレガント』って呼ぶの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "なるほど、長文の力技じゃなくて、要点を突いた一撃なのだね!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。これまでのAIは『答えらしきもの』は出せても、報告ベースでは、AIが短い別証明を出せる可能性を示した、という評価ね。ただし査読済みの定説として固まった話ではないわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、ボクたちの生活には、関係あるのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "間接的にね。AIが『きれいに考える』ようになると、論文の査読、特許文書、契約書の整理、こういう『人間の判断が美的にも必要な仕事』にもAIが食い込んでくる。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "おっと、それは身近なのだ! ボクの作文の宿題も、エレガントに直してもらえるのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "あなたが書いてから出しなさい。じゃ、これで4本終わり。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kamera",
+      "text": "今日のおさらい。マイクロソフトの新しい画像AIが業界3位タイ。コグニションのデヴィンが3兆9,000億円企業。エルジーの世界初ネイティブ1000ヘルツモニター発表。クロード・ミュトスが、オープンエーアイの看板数学問題を美しい証明で解いた。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "5月27日まわりだけで、テック業界これだけ動いてたのだ! 朝のうちに知っとくと、職場や学校で話題に困らないのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "気になったやつがあったら続報を追ってみてね。今日も一日、お気をつけて。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "また明日のテック朝便で会うのだー!",
+      "news_index": 0
+    }
+  ],
+  "program_description": "今朝のテックは4本立て。マイクロソフトの新画像AI『マイ・イメージ・ニーテン・ゴ』がアリーナのリーダーボードで3位タイに食い込んで、画像AIはオープンエーアイが首位、グーグルとマイクロソフトが3位タイで追う構図に。AIコーディング会社コグニションは新規調達で評価額3兆9,000億円、自社コードの89%をデヴィンが書く時代へ。エルジーが世界初のネイティブ1000ヘルツゲーミングモニター『ウルトラギア25G590B』を発表、2026年下半期発売。最後はアンソロピックのクロード・ミュトスがオープンエーアイ看板の数学難問を『美しい証明』で解いた話まで。通勤・通学のお供にサクッと聴ける雑談回。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20260528_052929_chars.webp",
+    "hero_rel": "/images/topics/tech_20260528_052929.webp",
+    "title": "デヴィン3兆円の朝 〜画像AI三つ巴とネイティブ1000Hz、テック4本立て〜",
+    "companies": [
+      "OpenAI",
+      "Claude",
+      "Microsoft",
+      "Google",
+      "DeepSeek",
+      "Meta",
+      "TSMC"
+    ]
+  },
+  "summary_short": "最新バージョンです。"
+}
