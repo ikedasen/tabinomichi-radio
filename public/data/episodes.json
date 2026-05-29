@@ -1,6 +1,70 @@
 {
-  "generated_at": "2026-05-28T18:22:22.644827",
+  "generated_at": "2026-05-29T09:55:24.746312",
   "episodes": [
+    {
+      "episode_id": "20260529_060749",
+      "profile": "ai",
+      "title": "AIに9兆円が積まれる朝 〜お金・軍・正直なクロード・音楽AI、テック4本立て〜",
+      "generated_at": "2026-05-29T06:07:49+09:00",
+      "duration_sec": 387.59,
+      "audio_url": "/audio/ai/20260529_060749.mp3?v=1780016118",
+      "meta_url": "/audio/ai/20260529_060749.meta.json",
+      "script_url": "/audio/ai/20260529_060749.script.json",
+      "audio_size_mb": 5.92,
+      "featured_game": {
+        "image_rel": "/images/topics/tech_20260529_060749_chars.webp?v=1780015798",
+        "hero_rel": "/images/topics/tech_20260529_060749.webp?v=1780015798",
+        "title": "AIに9兆円が積まれる朝 〜お金・軍・正直なクロード・音楽AI、テック4本立て〜",
+        "companies": [
+          "Claude",
+          "OpenAI",
+          "Meta"
+        ],
+        "screenshot_rels": []
+      },
+      "program_description": "旅の道ラジオ朝便、テックニュースの回。今朝はAIまわりの話題を4本立てでサクッと。1本目はアンソロピックが一度の資金調達で650億ドル、約9兆5,000億円を集め、評価額が1兆ドル目前に。出資者にメモリ大手のサムスン・エスケーハイニックス・マイクロンが並んだ意味を噛み砕く。2本目はアンソロピックとアメリカ国防総省の対立で、自律兵器をめぐって契約が流れ、オープンエーアイが受けた構図。3本目は新モデル、クロード・オーパス4.8が間違いを正直に認めるようになった話。4本目は音楽生成AI、イレブンラボのミュージック・ブイツーが曲の途中でジャンルを越える話題。それぞれ私たちの生活にどう効くかまで添えてお届け。",
+      "summary_short": "アンソロピックが9兆5000億円を一気に調達し評価額が1兆ドル圏内に迫った。自律兵器交渉の決裂でオープンAIが契約を拾い、新クロードは誠実に誤りを認め、音楽AIはジャンルを飛び越えて曲を作る時代になった。"
+    },
+    {
+      "episode_id": "20260529_051317",
+      "profile": "indie",
+      "title": "コックリさんが鳴る夜 〜流行り神、警視庁の怪異ファイル〜",
+      "generated_at": "2026-05-29T05:13:17+09:00",
+      "duration_sec": 416.57,
+      "audio_url": "/audio/indie/20260529_051317.mp3?v=1780016122",
+      "meta_url": "/audio/indie/20260529_051317.meta.json",
+      "script_url": "/audio/indie/20260529_051317.script.json",
+      "audio_size_mb": 6.36,
+      "featured_game": {
+        "app_id": null,
+        "vndb_id": "v2063",
+        "title": "流行り神",
+        "alttitle": "Hayarigami - Keishichou Kaii Jiken File",
+        "image_rel": "/images/topics/indie_20260529_051317_chars.webp?v=1780016119",
+        "hero_rel": "/images/games/vndb_v2063.jpg?v=1779799891",
+        "screenshot_rels": [
+          "/images/games/vndb_v2063_ss1.jpg?v=1779799893",
+          "/images/games/vndb_v2063_ss2.jpg?v=1779799894",
+          "/images/games/vndb_v2063_ss3.jpg?v=1779799895",
+          "/images/games/vndb_v2063_ss4.jpg?v=1779799896"
+        ],
+        "developers": [
+          "株式会社日本一ソフトウェア",
+          "オーツー"
+        ],
+        "publishers": [],
+        "genres": [
+          "レトロ",
+          "ビジュアルノベル"
+        ],
+        "release_date": "2004-08-05",
+        "price": "6,090円",
+        "short_description": "From chain mails that leads to murder, mysterious suicides and missing children, you, as a police officer have to put all your brain cells to work, connect the events together to discover the truth.\n\n[more from [url=http://www.play-asia.com/paOS-13-71-9g-49-en-70-3bsc.html]Play Asia[/url]]",
+        "dedup_verified": true
+      },
+      "program_description": "リスナーのみなさんへようこそ、旅の道ラジオです。今回のレトロ回はずんだもんと春日部つむぎの2人で、2004年に日本一ソフトウェアからPS2で出た都市伝説ホラーADV『流行り神 警視庁怪異事件ファイル』を深掘り。コックリさん・赤マント・さとるくんといった日本の怪談の手触りを、警視庁の刑事として捜査していく異色のサウンドノベル。最大の発明は「科学ルート」と「オカルトルート」の選択分岐で、同じ事件でも合理的に説き伏せるか、超常を呑むかでまるで違う読後感になる作り。プロデューサー兼シナリオ監修は新川宗平、BGMは酒井良、キャラデザは菅原健、EDテーマ「Phantom」は村田あゆみが歌う。当時の定価は6,090円。続編やリメイク、Switch/PS5/PS4向けの『1・2・3パック』移植までシリーズが続いている、PS2を語る上で外せない隠れ名作の話。",
+      "summary_short": ""
+    },
     {
       "episode_id": "20260528_172033",
       "profile": "indie",

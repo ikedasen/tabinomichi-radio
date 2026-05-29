@@ -1,0 +1,610 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-05-26T12:59:24.852186+00:00",
+  "title": "コックリさんが鳴る夜 〜流行り神、警視庁の怪異ファイル〜",
+  "segments": [
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "旅の道ラジオへようこそなのだー！パーソナリティのずんだもんなのだ！",
+      "news_index": 0
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "intro",
+      "text": "またまた、あーしが担当するっすよー！今回のテーマは『流行り神 警視庁怪異事件ファイル』っす！",
+      "news_index": 0,
+      "reading": "またまた、あーしがたんとうするっすよー！こんかいのテーマは『はやりがみ けいしちょうかいいじけんふぁいる』っす！"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "流行り神って、神社で流行ってる神様の話なのだ？",
+      "news_index": 0,
+      "reading": "はやりがみって、じんじゃではやってるかみさまのはなしなのだ？"
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "先輩それガチで違うっす。コックリさんとか赤マントとか、いわゆる都市伝説の総称が「流行り神」っす。",
+      "news_index": 0,
+      "reading": "せんぱいそれガチでちがうっす。こっくりさんとかあかまんととか、いわゆるとしでんせつのそうしょうが「はやりがみ」っす。"
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "2004年8月5日にPS2で発売、開発・販売は日本一ソフトウェアっす。",
+      "news_index": 1,
+      "reading": "にせんよねんはちがついつかにピーエスツーではつばい、かいはつ・はんばいはにっぽんいちソフトウェアっす。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "日本一ソフトウェアって、ディスガイアのとこなのだ？",
+      "news_index": 1,
+      "reading": "にっぽんいちソフトウェアって、ディスガイアのとこなのだ？"
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そうっす！あのドット絵RPGの会社が、まさかのガチホラーADV出してきたっすよ！",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ギャップえぐすぎなのだ……",
+      "news_index": 1
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに、ふだんは魔王プリニーで遊ばせてる会社が、急に都市伝説で怖がらせにきた一作っす。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ジャンルはサウンドノベル系なのだ？",
+      "news_index": 2
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ホラーテイストのテキストADVっす。立ち絵がない、文章と背景と音で読ませるタイプっすね。",
+      "news_index": 2,
+      "reading": "ホラーテイストのテキストエーディーブイっす。たちえがない、ぶんしょうとはいけいとおとでよませるタイプっすね。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "つまりめたんが大好きな「字を読む」ゲームなのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "今回めたん先輩いないっすけど、確かに字読みオタクには刺さるやつっす。",
+      "news_index": 2
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "比喩で言うと、かまいたちの夜の系譜に都市伝説で味付けした、っていう立ち位置っす。",
+      "news_index": 2
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "主人公は警視庁の刑事っす！コックリさんが原因で人が死んだ事件とか、本気で捜査するっすよ！",
+      "news_index": 3,
+      "reading": "しゅじんこうはけいしちょうのけいじっす！こっくりさんがげんいんでひとがしんだじけんとか、ほんきでそうさするっすよ！"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "コックリさんが容疑者なのだ！？",
+      "news_index": 3
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ほぼそんな感じっす。10円玉が動いた直後に被害者がおかしくなって、っていう怪異絡みの連続事件っす。",
+      "news_index": 3,
+      "reading": "ほぼそんなかんじっす。じゅうえんだまがうごいたちょくごにひがいしゃがおかしくなって、っていうかいいがらみのれんぞくじけんっす。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "10円玉に職質できないのだ……",
+      "news_index": 3,
+      "reading": "じゅうえんだまにしょくしつできないのだ……"
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そこを真面目に調書取って捜査するからシュールで面白いっす。",
+      "news_index": 3
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "オタクくん、ここからがこのゲームの一番でかい発明っす。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "おお〜、聞かせるのだ！",
+      "news_index": 4
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "選択肢で「科学ルート」と「オカルトルート」に分岐するっす。同じ事件でも合理で説き伏せるか、超常を認めるかで結末がまるで違うっす。",
+      "news_index": 4,
+      "reading": "せんたくしで「かがくルート」と「オカルトルート」にぶんきするっす。おなじじけんでもごうりでときふせるか、ちょうじょうをみとめるかでけつまつがまるでちがうっす。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "それ二度おいしすぎなのだ！",
+      "news_index": 4
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "あーし、両ルート読み比べた時マジで脳の使う筋肉違ったっすよ！",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "科学ルートだとコックリさんは集団心理で済むのだ？",
+      "news_index": 4
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そういう方向の説明っす。逆にオカルトルートはガチで霊障扱いっす。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "要するに、プレイヤーの世界観で読後感が決まる作りなのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "それっす先輩！要約うますぎっす！",
+      "news_index": 4
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "扱う都市伝説は、コックリさん、赤マント、さとるくん、八尺様の系譜っす。",
+      "news_index": 5,
+      "reading": "あつかうとしでんせつは、こっくりさん、あかまんと、さとるくん、はちしゃくさまのけいふっす。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "さとるくんは思ってることを言い当ててくるやつなのだ！",
+      "news_index": 5
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "先輩よく知ってるっすね。あーしのこと「つむぎは今ポテチ食べたい」とか言われたら詰むっす。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "ボクのこと「ずんだはずんだ餅食べたい」って言われても、たぶん正解なのだ。",
+      "news_index": 5,
+      "reading": "ボクのこと「ずんだはずんだもちたべたい」っていわれても、たぶんせいかいなのだ。"
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "先輩それさとるくん大ハズシっす、的中率ゼロっす。",
+      "news_index": 5
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "プロデューサー兼シナリオ監修は新川宗平っす。一部シナリオも本人が書いてるっす。",
+      "news_index": 6,
+      "reading": "プロデューサーけんシナリオかんしゅうはにいかわそうへいっす。いちぶシナリオもほんにんがかいてるっす。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "聞いたことある名前なのだ。",
+      "news_index": 6
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "のちに日本一ソフトウェアの社長になる方っす。流行り神は本人の代表作のひとつっす。",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "社長になる人が「コックリさん事件簿」書いてたの、めちゃくちゃ味があるのだ。",
+      "news_index": 6,
+      "reading": "しゃちょうになるひとが「こっくりさんじけんぼ」かいてたの、めちゃくちゃあじがあるのだ。"
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "ガチで雑談で「当時の記憶飛んでます」って言うくらい入魂してた作品っすよ！",
+      "news_index": 6
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "BGMは酒井良が担当っす。怪談の合間に流れる、じわっと不安な電子音系っす。",
+      "news_index": 7,
+      "reading": "ビージーエムはさかいりょうがたんとうっす。かいだんのあいまにながれる、じわっとふあんなでんしおんけいっす。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ボクこういう陰のあるBGM大好きなのだ！",
+      "news_index": 7,
+      "reading": "ボクこういうかげのあるビージーエムだいすきなのだ！"
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "EDテーマ「Phantom」は村田あゆみが歌、平田純子が作詞、酒井良の作曲・編曲っす。",
+      "news_index": 7,
+      "reading": "イーディーテーマ「ふぁんとむ」はむらたあゆみがうた、ひらたじゅんこがさくし、さかいりょうのさっきょく・へんきょくっす。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "ED曲があるADVってだけで気合い入ってる感じなのだ。",
+      "news_index": 7,
+      "reading": "イーディーきょくがあるエーディーブイってだけできあいはいってるかんじなのだ。"
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "キャラデザ・イラストは菅原健っす。ちょっと冷たくて整った絵柄が、怪異の温度感に合ってるっす。",
+      "news_index": 8,
+      "reading": "キャラデザ・イラストはすがわらけんっす。ちょっとつめたくてととのったえがらが、かいいのおんどかんにあってるっす。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "「整った絵柄」って言ったの、つむぎがメモ読んでる感じがするのだ。",
+      "news_index": 8
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "shirake",
+      "text": "……先輩。",
+      "news_index": 8
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "な、なんでもないのだ……ごめんなさいなのだ……",
+      "news_index": 8
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "（コホン）話戻すっすよ、菅原健さんの絵は資料集でも見る価値あるっす。",
+      "news_index": 8
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "当時の定価は6,090円、税込っす。PS2のADVとしては相場ど真ん中っすね。",
+      "news_index": 9,
+      "reading": "とうじのていかはろくせんきゅうじゅうえん、ぜいこみっす。ピーエスツーのエーディーブイとしてはそうばどまんなかっすね。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "ボクの財布的にはぐるぐるしてくる金額なのだ……",
+      "news_index": 9
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "あーしも当時お年玉直撃枠っすよ！",
+      "news_index": 9
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "翌年に廉価版「The Best」が出てるので、そっちで遊んだ人も多いっす。",
+      "news_index": 9,
+      "reading": "よくねんにれんかばん「ザ・ベスト」がでてるので、そっちであそんだひともおおいっす。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "評価ってどうだったのだ？",
+      "news_index": 10
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "ガチ名作枠っす。「PS2でしか遊べない名作ホラーADV」みたいなまとめで必ず名前出るっすよ！",
+      "news_index": 10,
+      "reading": "ガチめいさくわくっす。「ピーエスツーでしかあそべないめいさくホラーエーディーブイ」みたいなまとめでかならずなまえでるっすよ！"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ディスガイアの会社がそんなホラー名作も出してるの、二度おいしいのだ！",
+      "news_index": 10
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "比喩で言うと、出汁は和風RPGなのに、副菜が極上の怪談屋っていう変な店っす。",
+      "news_index": 10,
+      "reading": "ひゆでいうと、だしはわふうアールピージーなのに、ふくさいがごくじょうのかいだんやっていうへんなみせっす。"
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そこそこ売れたのでシリーズ化、続編に流行り神2と、外伝の流行り神Revengeが続くっす。",
+      "news_index": 11,
+      "reading": "そこそこうれたのでシリーズか、ぞくへんにはやりがみツーと、がいでんのはやりがみリベンジがつづくっす。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "ボクみたいな若いリスナーは知らないやつかもなのだ。",
+      "news_index": 11
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そこから「真 流行り神」って新シリーズに切り替わって、こっちは現代寄りの絵柄でリブートしてるっす。",
+      "news_index": 11,
+      "reading": "そこから「しん はやりがみ」ってしんシリーズにきりかわって、こっちはげんだいよりのえがらでリブートしてるっす。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "「真」つくとシリーズ気合い入ってる感じするのだ。",
+      "news_index": 11
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "それな！「真」つくと続編って分かりやすいっすよね！",
+      "news_index": 11
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "PORTABLE版がPSPで出て、Vitaにも移植っす。携帯機で寝る前に1話、っていう遊び方が刺さったっす。",
+      "news_index": 12,
+      "reading": "ポータブルばんがピーエスピーででて、ヴィータにもいしょくっす。けいたいきでねるまえにいちわ、っていうあそびかたがささったっす。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "寝る前にコックリさんプレイしたら寝れないのだ！",
+      "news_index": 12,
+      "reading": "ねるまえにこっくりさんプレイしたらねれないのだ！"
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "そこは自己責任っす先輩。",
+      "news_index": 12
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そんで2024年にはついに『流行り神1・2・3パック』がPS5、PS4、Switchで出たっす！",
+      "news_index": 13,
+      "reading": "そんでにせんにじゅうよねんにはついに『はやりがみいち・に・さんパック』がピーエスファイブ、ピーエスフォー、スウィッチででたっす！"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "ボクでも遊べるやつなのだ！？",
+      "news_index": 13
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "現行機に3本まとめて入ってるパックっす。今からレトロを履修したい方には一番ありがたい形っす。",
+      "news_index": 13,
+      "reading": "げんこうきにさんぼんまとめてはいってるパックっす。いまからレトロをりしゅうしたいかたにはいちばんありがたいかたちっす。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "リスナーのみなさん、これはチェック案件なのだ！",
+      "news_index": 13
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "kangae",
+      "text": "ちなみに開発は日本一ソフトウェアと、共同でオーツーっていう外部スタジオが入ってるっす。",
+      "news_index": 14,
+      "reading": "ちなみにかいはつはにっぽんいちソフトウェアと、きょうどうでオーツーっていうがいぶスタジオがはいってるっす。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "オーツーって、酸素のやつなのだ？",
+      "news_index": 14,
+      "reading": "オーツーって、さんそのやつなのだ？"
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "先輩それO2の話っす。会社名はO-TWO、大阪のゲーム開発スタジオっす。",
+      "news_index": 14,
+      "reading": "せんぱいそれおーつーのはなしっす。かいしゃめいはオートゥー、おおさかのゲームかいはつスタジオっす。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "ボク酸素吸う方しか知らなかったのだ……",
+      "news_index": 14
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに「企画は日本一、開発の手はオーツーも入ってる」って分業っすね。",
+      "news_index": 14
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "あーしのおすすめは、まず科学ルートで全話通して、もう一周オカルトルートっす！",
+      "news_index": 15,
+      "reading": "あーしのおすすめは、まずかがくルートでぜんわとおして、もういっしゅうオカルトルートっす！"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "順番に意味あるのだ？",
+      "news_index": 15
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "あーし的には、合理で固めてから超常を浴びる方が背筋にくるっす。逆順だと耐性ついちゃうっす。",
+      "news_index": 15,
+      "reading": "あーしてきには、ごうりでかためてからちょうじょうをあびるほうがせすじにくるっす。ぎゃくじゅんだとたいせいついちゃうっす。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "つむぎ詳しすぎなのだ……マニアすぎるのだ……",
+      "news_index": 15
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "あーし今めっちゃキモいっすね、すんません。",
+      "news_index": 15
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ここで天丼するのだ。さとるくんさん、つむぎは今なに考えてるのだ？",
+      "news_index": 16
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "shirake",
+      "text": "……先輩、ホラー回でそれ振らないでほしいっす。",
+      "news_index": 16
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "ご、ごめんなさいなのだー……",
+      "news_index": 16
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "コホン、要するにオタクくんは安全な部屋で遊んでくださいっす。",
+      "news_index": 16
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "オタクくん、もし「サウンドノベルって読むだけで地味そう」って思ってるなら、流行り神は分岐の体感がガチで違うっすよ。",
+      "news_index": 17,
+      "reading": "オタクくん、もし「サウンドノベルってよむだけでじみそう」っておもってるなら、はやりがみはぶんきのたいかんがガチでちがうっすよ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "ボクも科学ルート1周目やりたくなったのだー！",
+      "news_index": 17
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "1・2・3パックなら手軽っすし、Switch持ち歩けるのもありがたいっす。",
+      "news_index": 17,
+      "reading": "いちにさんぱっくならてがるっすし、Switchもちあるけるのもありがたいっす。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "そろそろ締めなのだ。今回は『流行り神 警視庁怪異事件ファイル』を深掘りしたのだ。",
+      "news_index": 18,
+      "reading": "そろそろしめなのだ。こんかいは『はやりがみ けいしちょうかいいじけんふぁいる』をふかぼりしたのだ。"
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "PS2の都市伝説ADV、科学とオカルトの二択で読後感が変わる隠れ名作っす！",
+      "news_index": 18,
+      "reading": "ピーエスツーのとしでんせつエーディーブイ、かがくとオカルトのにたくでどくごかんがかわるかくれめいさくっす！"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "リスナーのみなさん、また次の旅の道ラジオで会いましょう、会いましょっ！",
+      "news_index": 18
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "intro",
+      "text": "オタクくんもあーしも、コックリさんとは仲良くしましょっす！ばいばーい！",
+      "news_index": 18,
+      "reading": "オタクくんもあーしも、こっくりさんとはなかよくしましょっす！ばいばーい！"
+    }
+  ],
+  "program_description": "リスナーのみなさんへようこそ、旅の道ラジオです。今回のレトロ回はずんだもんと春日部つむぎの2人で、2004年に日本一ソフトウェアからPS2で出た都市伝説ホラーADV『流行り神 警視庁怪異事件ファイル』を深掘り。コックリさん・赤マント・さとるくんといった日本の怪談の手触りを、警視庁の刑事として捜査していく異色のサウンドノベル。最大の発明は「科学ルート」と「オカルトルート」の選択分岐で、同じ事件でも合理的に説き伏せるか、超常を呑むかでまるで違う読後感になる作り。プロデューサー兼シナリオ監修は新川宗平、BGMは酒井良、キャラデザは菅原健、EDテーマ「Phantom」は村田あゆみが歌う。当時の定価は6,090円。続編やリメイク、Switch/PS5/PS4向けの『1・2・3パック』移植までシリーズが続いている、PS2を語る上で外せない隠れ名作の話。",
+  "featured_game": {
+    "app_id": null,
+    "vndb_id": "v2063",
+    "title": "流行り神",
+    "alttitle": "Hayarigami - Keishichou Kaii Jiken File",
+    "image_rel": "/images/topics/indie_20260529_051317_chars.webp",
+    "hero_rel": "/image/games/vndb_v2063.jpg",
+    "screenshot_rels": [
+      "/image/games/vndb_v2063_ss1.jpg",
+      "/image/games/vndb_v2063_ss2.jpg",
+      "/image/games/vndb_v2063_ss3.jpg",
+      "/image/games/vndb_v2063_ss4.jpg"
+    ],
+    "developers": [
+      "株式会社日本一ソフトウェア",
+      "オーツー"
+    ],
+    "publishers": [],
+    "genres": [
+      "ビジュアルノベル"
+    ],
+    "release_date": "2004-08-05",
+    "price": "6,090円",
+    "short_description": "From chain mails that leads to murder, mysterious suicides and missing children, you, as a police officer have to put all your brain cells to work, connect the events together to discover the truth.\n\n[more from [url=http://www.play-asia.com/paOS-13-71-9g-49-en-70-3bsc.html]Play Asia[/url]]",
+    "dedup_verified": true
+  },
+  "bank_meta": {
+    "built_at": "2026-05-27T00:18:57.604859",
+    "title": "流行り神",
+    "title_spec": "流行り神",
+    "variant": "retro",
+    "built_ts": "20260526_215924",
+    "residual_cleaned": true,
+    "retrofitted": true
+  }
+}
