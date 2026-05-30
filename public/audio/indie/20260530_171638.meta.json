@@ -1,0 +1,835 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-05-30T17:16:38+09:00",
+  "title": "ドイツ産ハードコアRPGの帰還 〜『Gothic 1 Remake』25年越しの再構築〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 482.33,
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 8.19
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "intro",
+      "text": "こんばんは、旅の道ラジオ夜便、新作深掘り回。四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 8.19,
+      "end_sec": 12.85
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今夜は気になる新作を一本、じっくり掘り下げるのだ!",
+      "news_index": 0,
+      "start_sec": 13.0,
+      "end_sec": 18.46
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今夜の主役はね、『ゴシック ワン リメイク』。25年前のドイツ産RPGが、まるごと作り直されて帰ってくるのよ。",
+      "news_index": 0,
+      "start_sec": 18.61,
+      "end_sec": 26.03
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "25年前のドイツ産? じゃあ味付けは濃いソーセージみたいなRPGなのだ?",
+      "news_index": 0,
+      "start_sec": 26.18,
+      "end_sec": 31.83
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "食べ物じゃないわよ。でも「濃くてクセが強い」って意味なら、その例えは案外当たってるの。",
+      "news_index": 0,
+      "start_sec": 31.98,
+      "end_sec": 37.49
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "そんな古いゲーム、今さら作り直して話題になるのだ?",
+      "news_index": 0,
+      "start_sec": 37.64,
+      "end_sec": 41.65
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "それがね、ヨーロッパじゃ長年「いつ出るんだ」って待たれてた伝説の一本なの。今夜はその理由から掘っていくわ。",
+      "news_index": 0,
+      "start_sec": 41.8,
+      "end_sec": 48.47
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあまず、その元になった昔の『ゴシック』って、どんなゲームだったのだ?",
+      "news_index": 1,
+      "start_sec": 48.62,
+      "end_sec": 53.22
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "2001年に、ドイツのピラニアバイツっていう小さなスタジオが作ったRPGなの。舞台は、魔法の壁で閉じ込められた囚人だらけの流刑地よ。",
+      "news_index": 1,
+      "start_sec": 53.37,
+      "end_sec": 62.47
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ピラニアが作ったの!? どうりで噛みつくみたいな荒っぽいゲームになるわけなのだ。",
+      "news_index": 1,
+      "start_sec": 62.62,
+      "end_sec": 67.71
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "魚は関係ないわ、ただのスタジオ名よ。それより舞台に注目してほしいの、囚人だらけの殺伐とした流刑地なのよ。",
+      "news_index": 1,
+      "start_sec": 67.86,
+      "end_sec": 75.48
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "る、流刑地で主人公も囚人なのだ!? 明るい冒険じゃ全然なさそうなのだ。",
+      "news_index": 1,
+      "start_sec": 75.63,
+      "end_sec": 81.23
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、ジメッとして殺伐としてるの。その鉱山谷／流刑地の中で囚人たちがいくつかの派閥に分かれて、にらみ合ってるのよ。",
+      "news_index": 1,
+      "start_sec": 81.38,
+      "end_sec": 89.5
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "派閥って…会社の部署争いみたいなものなのだ?",
+      "news_index": 1,
+      "start_sec": 89.65,
+      "end_sec": 93.18
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "近いわね。鉱山を仕切るグループ、信仰にすがるグループって感じで、プレイヤーはどこに入るか自分で選ぶの。",
+      "news_index": 1,
+      "start_sec": 93.33,
+      "end_sec": 99.91
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "入る組を自分で選べるのだ!? 部署を自分で希望できる会社なんて天国なのだ。",
+      "news_index": 1,
+      "start_sec": 100.06,
+      "end_sec": 105.31
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "天国かどうかは入ってからのお楽しみよ。要するに、自分の生き方を選べる自由がウリってこと。",
+      "news_index": 1,
+      "start_sec": 105.46,
+      "end_sec": 111.44
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "なるほど、就職先を自分で決める感覚なのだ。で、他にはどんな特徴があったのだ?",
+      "news_index": 1,
+      "start_sec": 111.59,
+      "end_sec": 117.65
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "この流刑地／鉱山谷ね、当時としては珍しく、ほとんどロード画面なしで全部つながってたの。",
+      "news_index": 1,
+      "start_sec": 117.8,
+      "end_sec": 123.67
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ロード画面なし? 今のゲームなら普通じゃん、何がすごいのだ?",
+      "news_index": 1,
+      "start_sec": 123.82,
+      "end_sec": 128.34
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "2001年よ? 当時は区切りごとに「読み込み中」って待たされるのが当たり前だったの。",
+      "news_index": 1,
+      "start_sec": 128.49,
+      "end_sec": 134.19
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それを無くして、世界が地続きにある感覚を出したのが衝撃だったのよ。",
+      "news_index": 1,
+      "start_sec": 134.27,
+      "end_sec": 138.73
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "つまり今だと当たり前のことを、25年前に先取りしてた早すぎる優等生ってことなのだ。",
+      "news_index": 1,
+      "start_sec": 138.88,
+      "end_sec": 145.43
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。NPC…つまり街の住人たちも、朝起きて働いて夜は寝る、っていう生活をしてたのよ。",
+      "news_index": 1,
+      "start_sec": 145.58,
+      "end_sec": 152.64
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "住人がちゃんと寝るのだ? じゃあボクがサボってる間も、世界は勝手に動いてるってことなのだ。",
+      "news_index": 1,
+      "start_sec": 152.79,
+      "end_sec": 158.74
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう、その「世界が自分のために止まってくれない」感じが、ハマる人にはたまらなかったの。",
+      "news_index": 1,
+      "start_sec": 158.89,
+      "end_sec": 164.33
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "先取り、自由、生きてる世界…じゃあ大ヒットしたはずなのに、どうして「カルト的」なんて呼ばれ方するのだ?",
+      "news_index": 1,
+      "start_sec": 164.48,
+      "end_sec": 171.94
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "それがね、操作がクセだらけで難しくて、バグも多かったの。万人受けはしなかったのよ。",
+      "news_index": 1,
+      "start_sec": 172.09,
+      "end_sec": 177.77
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "先進的なのにバグだらけ!? 天才なのにテストで凡ミスする子みたいなのだ。",
+      "news_index": 1,
+      "start_sec": 177.92,
+      "end_sec": 183.06
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "言い得て妙ね。海外だとそういう作品を「ユーロジャンク」って呼ぶの、ヨーロッパ産で粗削りだけど妙に味がある、って意味でね。",
+      "news_index": 1,
+      "start_sec": 183.21,
+      "end_sec": 191.03
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ユーロジャンク? 粗いのに憎めないって、要するにB級グルメ扱いなのだ。",
+      "news_index": 1,
+      "start_sec": 191.18,
+      "end_sec": 196.34
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "うまい例えね。見た目はぶっきらぼうだけど、一度ハマると他じゃ味わえない、って人が続出したの。",
+      "news_index": 1,
+      "start_sec": 196.49,
+      "end_sec": 202.97
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "だからドイツや東欧で、ずっと作り直しを待たれてたってわけなのだ。",
+      "news_index": 1,
+      "start_sec": 203.12,
+      "end_sec": 207.48
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。つまり原作は、欠点ごと愛された伝説のB級RPG、ってわけ。改造して遊ぶファンも25年生き残ってるくらいなのよ。",
+      "news_index": 1,
+      "start_sec": 207.63,
+      "end_sec": 217.1
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、その伝説をリメイクするのは誰なのだ? また同じピラニアなんとかってスタジオなのだ?",
+      "news_index": 2,
+      "start_sec": 217.25,
+      "end_sec": 223.45
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それがね、今回はアルキミア・インタラクティブっていう別のスタジオなの。THQノルディックっていう会社の傘下よ。",
+      "news_index": 2,
+      "start_sec": 223.6,
+      "end_sec": 230.61
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "他所のスタジオが伝説を作り直すのだ? 親の遺品を赤の他人が修理するみたいで、ファンは心配しないのだ?",
+      "news_index": 2,
+      "start_sec": 230.76,
+      "end_sec": 238.36
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "鋭いわね。だからこそ、物語や世界の雰囲気はそのまま残すって、何度も強調してるの。",
+      "news_index": 2,
+      "start_sec": 238.51,
+      "end_sec": 244.55
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "中身は守りつつ、見た目を新しくするってことなのだ?",
+      "news_index": 2,
+      "start_sec": 244.7,
+      "end_sec": 248.53
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。アンリアルエンジン5っていう最新の技術で、一から作り直してるの。",
+      "news_index": 2,
+      "start_sec": 248.68,
+      "end_sec": 253.58
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "アンリアルエンジン5って、ボクがふっくらツヤツヤに見えるやつなのだ?",
+      "news_index": 2,
+      "start_sec": 253.73,
+      "end_sec": 258.34
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "あなたを美味しそうに描く道具じゃないわ。光や質感がぐっとリアルになる、今どきの大作の定番基盤なの。",
+      "news_index": 2,
+      "start_sec": 258.49,
+      "end_sec": 265.08
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "つまり中身は昔のまま、見た目だけ最新に化粧直しってことなのだ。あのジメッとした流刑地が、説得力のある景色になるのだ。",
+      "news_index": 2,
+      "start_sec": 265.23,
+      "end_sec": 273.61
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そういうこと。で、今いちばん注目されてるのが、戦闘の作り直しなの。",
+      "news_index": 2,
+      "start_sec": 273.76,
+      "end_sec": 278.5
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "戦闘? 元のはそんなにダメだったのだ?",
+      "news_index": 2,
+      "start_sec": 278.65,
+      "end_sec": 281.62
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ダメっていうより、独特すぎたの。クセが強くて、慣れるまでが大変だったのよ。",
+      "news_index": 2,
+      "start_sec": 281.77,
+      "end_sec": 286.79
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "それを、今の人でも遊びやすいように直すってことなのだ?",
+      "news_index": 2,
+      "start_sec": 286.94,
+      "end_sec": 290.85
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ええ。つい先日、戦闘システムを紹介する17分の開発者映像が公開されてね。",
+      "news_index": 2,
+      "start_sec": 291.0,
+      "end_sec": 297.14
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "戦闘映像が17分も!? それもう映像じゃなくて短編映画なのだ。",
+      "news_index": 2,
+      "start_sec": 297.29,
+      "end_sec": 302.39
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "映画は言いすぎよ。動きは今ふうのアクションっぽくキビキビしてたけど、押せば勝てる単純さにはしてないみたい。",
+      "news_index": 2,
+      "start_sec": 302.54,
+      "end_sec": 308.9
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、見た目は今ふうだけど、頭は使わせる、ってことなのだ?",
+      "news_index": 2,
+      "start_sec": 309.05,
+      "end_sec": 313.75
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう、考えて立ち回る「歯ごたえ」は残す、って方針なの。原作の手触りを捨てたくないのね。",
+      "news_index": 2,
+      "start_sec": 313.9,
+      "end_sec": 320.06
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "そこがいちばん大事なとこなのだ。遊びやすくして、味まで薄まったら意味ないよね。",
+      "news_index": 2,
+      "start_sec": 320.21,
+      "end_sec": 325.41
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "まさにそこが、長年のファンが固唾を飲んで見てるポイントなのよ。",
+      "news_index": 2,
+      "start_sec": 325.56,
+      "end_sec": 329.57
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ボリュームはどれくらいなのだ? サクッと終わる感じなのだ?",
+      "news_index": 2,
+      "start_sec": 329.72,
+      "end_sec": 333.44
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "開発元いわく、50時間以上は遊べる、ってことみたい。",
+      "news_index": 2,
+      "start_sec": 333.59,
+      "end_sec": 337.59
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "50時間以上!? 一日2時間ずつでも25日、ほぼ一ヶ月まるごと島に流刑なのだ。",
+      "news_index": 2,
+      "start_sec": 337.74,
+      "end_sec": 344.29
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "流刑地のゲームで本当に一ヶ月囚われるわけね。計算が早いわ、しかも生活する住人も今回ばっちり受け継いでるそうよ。",
+      "news_index": 2,
+      "start_sec": 344.44,
+      "end_sec": 351.97
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあ昔と同じで、ボクがボーッとしてても、街の人は勝手に働いて寝るのだ。",
+      "news_index": 2,
+      "start_sec": 352.12,
+      "end_sec": 357.33
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、その「生きてる世界」感が、この作品の背骨だからね。そこは絶対に外せないところなの。",
+      "news_index": 2,
+      "start_sec": 357.48,
+      "end_sec": 363.78
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "いいことばっかり聞いてると逆に不安になるのだ。心配なとこはないのだ?",
+      "news_index": 2,
+      "start_sec": 363.93,
+      "end_sec": 368.77
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "正直、別のスタジオが作る以上、あの独特の空気がどこまで再現できるかは、出てみないと分からないわ。",
+      "news_index": 2,
+      "start_sec": 368.92,
+      "end_sec": 375.87
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "綺麗に磨きすぎて、逆にあの泥臭さが消えちゃう心配もあるってことなのだ。",
+      "news_index": 2,
+      "start_sec": 376.02,
+      "end_sec": 380.94
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そうなの。要するに、見た目は新品・中身は伝説のまま、っていう綱渡りに挑んでるってわけ。",
+      "news_index": 2,
+      "start_sec": 381.09,
+      "end_sec": 387.38
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ結局、これってどんな人に刺さるゲームなのだ?",
+      "news_index": 3,
+      "start_sec": 387.53,
+      "end_sec": 391.1
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じっくり世界に潜って、自分で選んで生きてく感覚が好きな人。歯ごたえのあるRPGが好きな人には、ど真ん中だわ。",
+      "news_index": 3,
+      "start_sec": 391.25,
+      "end_sec": 398.69
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "逆に、合わない人もいるのだ?",
+      "news_index": 3,
+      "start_sec": 398.84,
+      "end_sec": 401.17
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "手取り足取り導いてほしい人とか、サクサク爽快に進みたい人には、ちょっと不親切に感じるかもね。",
+      "news_index": 3,
+      "start_sec": 401.32,
+      "end_sec": 407.77
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "優しく案内してほしいタイプには、つっけんどんな無口の先輩みたいなゲームなのだ。",
+      "news_index": 3,
+      "start_sec": 407.92,
+      "end_sec": 413.22
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "うまいこと言うわね。逆に言えば、その不便さを「自分で乗り越える」のが楽しい人向けなのよ。",
+      "news_index": 3,
+      "start_sec": 413.37,
+      "end_sec": 419.0
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあ、今すぐ買いなのだ? それとも少し様子見なのだ?",
+      "news_index": 3,
+      "start_sec": 419.15,
+      "end_sec": 423.19
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "発売は6月5日。レビューが出そろうのが、ちょうどこれからなの。",
+      "news_index": 3,
+      "start_sec": 423.34,
+      "end_sec": 427.45
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあ、原作が大好きな人は突撃、初めての人はレビューを見てから、って感じなのだ?",
+      "news_index": 3,
+      "start_sec": 427.6,
+      "end_sec": 433.73
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "賢い判断ね。要するに古参は即突撃、新規は評価を見てから飛び込むのが安心ってこと。",
+      "news_index": 3,
+      "start_sec": 433.88,
+      "end_sec": 440.41
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "25年も眠ってた伝説が、今の技術で目を覚ますのだ。なんだかロマンを感じるのだ。",
+      "news_index": 3,
+      "start_sec": 440.56,
+      "end_sec": 446.74
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ね。これが成功したら、他の古い名作リメイクの流れにも弾みがつくかもしれないわね。",
+      "news_index": 3,
+      "start_sec": 446.89,
+      "end_sec": 452.47
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "昔の名作が次々よみがえる、いいきっかけになるかもってことなのだ。",
+      "news_index": 3,
+      "start_sec": 452.62,
+      "end_sec": 457.25
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "というわけで今夜は、『ゴシック ワン リメイク』を背景から掘り下げてみたわ。",
+      "news_index": 0,
+      "start_sec": 457.4,
+      "end_sec": 461.84
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "気になった人は、発売後のレビューもチェックしてみてほしいのだ!",
+      "news_index": 0,
+      "start_sec": 461.99,
+      "end_sec": 465.9
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "intro",
+      "text": "また注目の新作があれば、夜便でじっくり語るわね。おやすみなさい。",
+      "news_index": 0,
+      "start_sec": 466.05,
+      "end_sec": 470.58
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "おやすみなさいなのだー! 良い夢を見てほしいのだ!",
+      "news_index": 0,
+      "start_sec": 470.73,
+      "end_sec": 473.93
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 474.63,
+      "end_sec": 482.33
+    }
+  ],
+  "wall_time_sec": 13.73,
+  "audio_url": "/audio/indie/20260530_171638.mp3?v=1780131201"
+}

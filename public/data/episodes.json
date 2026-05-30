@@ -1,6 +1,43 @@
 {
-  "generated_at": "2026-05-30T12:44:55.137586",
+  "generated_at": "2026-05-30T17:53:22.665929",
   "episodes": [
+    {
+      "episode_id": "20260530_171638",
+      "profile": "indie",
+      "title": "ドイツ産ハードコアRPGの帰還 〜『Gothic 1 Remake』25年越しの再構築〜",
+      "generated_at": "2026-05-30T17:16:38+09:00",
+      "duration_sec": 482.33,
+      "audio_url": "/audio/indie/20260530_171638.mp3?v=1780131201",
+      "meta_url": "/audio/indie/20260530_171638.meta.json",
+      "script_url": "/audio/indie/20260530_171638.script.json",
+      "audio_size_mb": 7.36,
+      "featured_game": {
+        "app_id": null,
+        "igdb_id": 148227,
+        "title": "Gothic 1 Remake",
+        "image_rel": "/images/topics/indie_20260530_171638_chars.webp?v=1780131197",
+        "hero_rel": "/images/games/igdb_148227.jpg?v=1780128491",
+        "screenshot_rels": [
+          "/images/games/igdb_148227_ss1.jpg?v=1780128492",
+          "/images/games/igdb_148227_ss2.jpg?v=1780128492",
+          "/images/games/igdb_148227_ss3.jpg?v=1780128493",
+          "/images/games/igdb_148227_ss4.jpg?v=1780128493"
+        ],
+        "developers": [
+          "Alkimia Interactive"
+        ],
+        "publishers": [
+          "THQ Nordic"
+        ],
+        "genres": [
+          "Role-playing (RPG)"
+        ],
+        "release_date": "2026-06-05",
+        "short_description": "The Legend is Back - Return to the Valley of the Mines in this faithful remake of the genre-defining classic RPG. Explore a hand-crafted, organic open world that reacts dynamically to your actions in a gritty, unrestricted experience like no other."
+      },
+      "program_description": "今夜の夜便は、2001年のドイツ産カルトRPG『ゴシック』のフルリメイク『Gothic 1 Remake』を一本まるごと深掘り。背景では、ピラニアバイツが生んだ原作が、ロード画面のないシームレスな世界や生活するNPC、派閥選択といった先進性で愛され、粗削りゆえに「ユーロジャンク」と呼ばれカルト化した経緯を整理。本作では、THQノルディック傘下アルキミア・インタラクティブがアンリアルエンジン5で再構築し、17分の開発者映像で示された戦闘刷新や50時間以上のボリューム、生きた世界の継承、そして別スタジオゆえの空気の再現への不安を語った。総括では、歯ごたえあるRPG好きにはど真ん中で、手取り足取り派には不向きという適性、6月5日の発売を前にレビュー待ちの様子見判断までまとめたよ。",
+      "summary_short": "Claude Code 2.1.157→2.1.158。更新しますか？\n\n2001年カルトRPG『ゴシック』がUE5で再構築。戦闘刷新・50h超・別スタジオが原作の空気を再現できるか、6/5発売前に解剖。"
+    },
     {
       "episode_id": "20260530_051401",
       "profile": "ai",
