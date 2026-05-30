@@ -1,6 +1,69 @@
 {
-  "generated_at": "2026-05-29T19:13:29.204172",
+  "generated_at": "2026-05-30T12:44:55.137586",
   "episodes": [
+    {
+      "episode_id": "20260530_051401",
+      "profile": "ai",
+      "title": "賢さの次に来たもの 〜安さ・軽さ・信頼で測るAIの朝〜",
+      "generated_at": "2026-05-30T05:14:01+09:00",
+      "duration_sec": 385.19,
+      "audio_url": "/audio/ai/20260530_051401.mp3?v=1780112612",
+      "meta_url": "/audio/ai/20260530_051401.meta.json",
+      "script_url": "/audio/ai/20260530_051401.script.json",
+      "audio_size_mb": 5.88,
+      "featured_game": {
+        "image_rel": "/images/topics/tech_20260530_051401_chars.webp?v=1780112157",
+        "hero_rel": "/images/topics/tech_20260530_051401.webp?v=1780112157",
+        "title": "賢さの次に来たもの 〜安さ・軽さ・信頼で測るAIの朝〜",
+        "companies": [
+          "OpenAI",
+          "Google",
+          "Claude"
+        ],
+        "screenshot_rels": []
+      },
+      "program_description": "今朝のテック朝便は、AIが「安く・軽く・賢く」なってきた流れを4本立てでお届け。まずは中国テンセントの激安推論AI『Hy3 preview（エイチワイスリー）』が、世界の利用ランキングで2位を大きく引き離して1位を取った話。次にオープンエーアイが古いモデルを次々引退させ、主力のジーピーティー5.5を読みやすく改良した『AI使い捨て時代』の話題。3本目はグーグルがネット無しで動かせる手のひらサイズのAI基板コーラルボードを発表、クラゲの映像でAIが作曲するデモまで紹介。最後はオープンエーアイがカリフォルニア州やEUのAI規制に沿う形で、フロンティアAI向けの社内ガバナンス文書を公開した動き。賢さの次は安さと信頼、がキーワードの回。",
+      "summary_short": "テンセント激安AIが世界首位。OpenAIモデル刷新＋ガバナンス文書公開。Googleネット不要AI基板投入。「賢さ」→「安さ・軽さ・信頼」へ転換、4本立て。"
+    },
+    {
+      "episode_id": "20260530_050727",
+      "profile": "indie",
+      "title": "卓を囲む六人 〜祖母の七回忌、闇に染まる怪談の宴〜",
+      "generated_at": "2026-05-30T05:07:27+09:00",
+      "duration_sec": 337.83,
+      "audio_url": "/audio/indie/20260530_050727.mp3?v=1780112616",
+      "meta_url": "/audio/indie/20260530_050727.meta.json",
+      "script_url": "/audio/indie/20260530_050727.script.json",
+      "audio_size_mb": 5.16,
+      "featured_game": {
+        "app_id": null,
+        "vndb_id": "v3894",
+        "title": "晦-つきこもり-",
+        "alttitle": "Tsukikomori",
+        "image_rel": "/images/topics/indie_20260530_050727_chars.webp?v=1780112613",
+        "hero_rel": "/images/games/vndb_v3894.jpg?v=1779802454",
+        "screenshot_rels": [
+          "/images/games/vndb_v3894_ss1.jpg?v=1779802455",
+          "/images/games/vndb_v3894_ss2.jpg?v=1779802457",
+          "/images/games/vndb_v3894_ss3.jpg?v=1779802459",
+          "/images/games/vndb_v3894_ss4.jpg?v=1779802460"
+        ],
+        "developers": [
+          "パンドラボックス"
+        ],
+        "publishers": [],
+        "genres": [
+          "レトロ",
+          "ビジュアルノベル"
+        ],
+        "release_date": "1996-03-01",
+        "short_description": "A follow-up of sorts to Gakkou de atta Kowai Hanashi. The protagonist (default name Yoko Maeda) is currently not in school due to spring break. Her grandmother's seventh death anniversary (a uniquely eastern custom which is celebrated on the day of an individual's passing) has come, and several members of the family have gathered. In observance of the day, six of the family members each tell a different horror story. In addition, there is also an introductory scenario which can change based upon choices selected.\n\n[From [url=http://endaso.blogspot.ru/2011/10/super-famicom-horror-sound-novels.h",
+        "price": "7,800円",
+        "dedup_verified": true
+      },
+      "program_description": "サウンドノベル黄金期の隠れた名作『晦-つきこもり-』を、ずんだもんと春日部つむぎがじっくり掘り下げる回。1996年にパンドラボックス開発・バンプレスト販売でSFC発売、『学校であった怖い話』の続編にあたる怪談集系サウンドノベルで、祖母の七回忌で集まった親戚6人がそれぞれ怪談を語るという不穏なシチュエーションが特徴的。隠しシナリオ込みで全48本というボリュームと、語る順番を変えるとストーリーが変化する自由度の高さに、つむぎが中古屋で発掘したガチ勢としての愛をぶつける。学怖ほどの知名度はなかったものの、サウンドノベル好きの間ではカルト的に愛され続け、後の鳴神学園シリーズにシナリオがリライト収録された経緯まで触れる回。ネタバレ厳禁の怪談ゲーなので、結末や具体的な怖がらせ方には踏み込まず、ゲームの成り立ちと魅力にフォーカスする。",
+      "summary_short": ""
+    },
     {
       "episode_id": "20260529_172203",
       "profile": "indie",

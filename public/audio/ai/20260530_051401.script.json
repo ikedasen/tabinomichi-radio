@@ -1,0 +1,457 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-05-29T20:14:01.182446+00:00",
+  "title": "賢さの次に来たもの 〜安さ・軽さ・信頼で測るAIの朝〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便、テックニュースの回。四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝もテックの話題、軽くサクッといくのだー!",
+      "news_index": 0,
+      "reading": "ボク、ずんだもんなのだー!けさもテックのわだい、かるくサクッといくのだー!"
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今日は通勤・通学のお供に、最近のAIニュースを4本流していくわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "4本! ちょうど駅に着くまでに聴き終わりそうなボリュームなのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "テーマはざっくり、AIが安く・軽く・賢くなってる、って話ね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "なんかワクワクするやつなのだ! 早く聞きたいのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ1本目。中国のテンセントが出した推論AI、ハイスリーが、OpenRouter上の利用量ランキングで1位を取ったのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "すいろんAI? それ何なのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "答えをパッと返すんじゃなくて、頭の中で順番に考えてから答えるタイプのAIね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あー、計算問題で途中式を書いてから答えを出す、みたいなやつなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そうそう、その理解で正解。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、そのハイスリーが、オープンルーターっていうAIの品揃えサイトで、3週間で7兆トークン以上使われたの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "7兆!? それどれくらいヤバい数字なのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "2位のモデルの1.5倍くらい。ぶっちぎりのトップよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "なんでそんなに人気になったのだ? 性能がずば抜けてるってこと?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "いや、性能はクロードとかには一歩譲るわ。武器は値段なの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "OpenRouterでは入力が100万トークンあたり0.063ドル、出力が0.21ドルくらい。最上位のAIの何十分の一よ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "11円!? ボクの自販機のジュース1本で、何百回もお願いできちゃうじゃん!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "まあ桁違いに安い。コンビニ弁当一個分で、一日中こき使えるレベルね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも安いと、中身スカスカなんじゃないのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "それがそうでもなくて、巨大なAIなんだけど、必要な部分だけ動かして安く済ませる作りなの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "つまり、そこそこ賢くて激安なやつが、高性能モデルとは別軸で、利用量では存在感を出し始めたってことなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ご名答。私たちが使うAIサービスも、これから賢さより安さで選ばれる時代が来るかもね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ2本目。オープンエーアイが、古いAIモデルを次々と引退させるって発表したわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "引退? AIって歳取るのだ?",
+      "news_index": 2,
+      "reading": "いんたい?AIってとしとるのだ?"
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "歳というより、新しいのが出たら古いのは店じまい、って感じね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "まずジーピーティー4.5が6月27日に廃止、オースリーってモデルも8月26日に引退よ。",
+      "news_index": 2,
+      "reading": "まずジーピーティー4.5が6がつ27ひにはいし、オースリーってモデルもはちがつにじゅうろくにちにいんたいよ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "オースリーって、ついこの間まで最新だったやつじゃん!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、出てから1年ちょっと。AIの寿命、どんどん短くなってるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "ボクのスマホより寿命短いじゃん……買い替える前にAIが消えるのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "スマホと張り合わないの。でもその感覚、わりと核心ついてるわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "あと、今の主力のジーピーティー5.5が、返事を読みやすく改良されたの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "読みやすくって、どういうことなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "箇条書きをダラダラ並べるのを減らして、人と話すみたいな自然な文章にしたのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、それボクも思ってた! AIの返事、やたら箇条書きで疲れるのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "でしょ。で、これが地味に困るのが、仕事でAIを組み込んでる開発者ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "なんで困るのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今回の引退はChatGPT上の話で、APIには変更なし。だから開発者向けには、モデル更新の速さを見越して設計しておくのが大事、くらいが正確ね。要するにAIは使い捨ての時代、乗り換え前提で付き合うのが正解よ。",
+      "news_index": 2,
+      "reading": "こんかいのいんたいはChatGPTチャットジーピーティーじょうのはなしで、APIにはへんこうなし。だからかいはつしゃむけには、モデルこうしんのはやさをみこしてせっけいしておくのがだいじ、くらいがせいかくね。ようするにAIはつかいすてのじだい、のりかえぜんていでつきあうのがせいかいよ。"
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ3本目は、明るいハードの話。グーグルが、ネット無しで動くAIの小さな基板を出したのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ネット無し!? AIってクラウドの向こうにいるんじゃないのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "普通はそうね。でもこのコーラルボードって手のひらサイズの板は、本体だけでAIを動かせるの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "どういう仕組みなのだ? そんな小さいのに。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "エヌピーユーっていう、AIの計算だけを爆速でこなす専用チップを積んでるの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "エヌピーユー? ボクのパソコンに入ってるシーピーユーの親戚なのだ?",
+      "news_index": 3,
+      "reading": "エヌピーユー?ボクのパソコンにはいってるシーピーユーのしんせきなのだ?"
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "親戚みたいなもんだけど、用途が違うわ。シーピーユーが何でも屋、エヌピーユーはAI専門の職人ね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、そこにグーグルの軽いAI、ジェマ3を乗せて、ネット繋がずに動かすの。",
+      "news_index": 3,
+      "reading": "で、そこにグーグルのかるいAI、じぇますりーをのせて、ネットつながずにうごかすの。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "軽いって、どれくらい小さいAIなのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "パラメータが2億7,000万くらい。最近の大型AIの、何百分の一の小ささよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、そんなに小さくてちゃんと動くのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "翻訳とか音声操作くらいなら充分。実際、クラゲのライブ映像を見て、AIが音楽を即興で作るデモまでやったの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "クラゲでAIが作曲!? なんか可愛いし、未来っぽいのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "でしょ。これが効くと、メガネとか時計みたいな小型機器が、ネット無しでも賢くなるの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "つまり、電波の届かない山の中でも、翻訳メガネが使えるってことなのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そういうこと。AIがクラウドから、私たちの手元に降りてくる一歩ね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ラスト4本目。オープンエーアイが、自分で自分を縛るルールを正式に公開したのよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "自分で自分を縛る? なんでそんな面倒なことするのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "重大リスクにつながる能力が一定ラインを超えたら、十分な安全策なしには外部展開しない、っていう社内ルールを文書にしたの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "えっと、AIが反抗期に入ったら外出禁止にする、みたいな話なのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "雑だけど、方向性は合ってるわ。能力が一定ラインを超えたら公開を止める、って自主規制ね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でもそれ、自分で決めたルールなら、自分で破れちゃうんじゃないのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "鋭いわね。だから、外部の人がちゃんとチェックできるかが鍵なの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "背景には、新しく出てきている法律や規制要件に、自分たちの安全・セキュリティ運用をどう対応させるか示す狙いがあるわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あー、怒られる前に自首しとくタイプなのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "うまいこと言うわね。で、これが私たちに効くのは、AIの安全性が信用できるかどうか。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "会社が自分で言ってるだけじゃ、ちょっと不安なのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう、だから第三者がちゃんと監査するかどうかを、見ておくのが正解よ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで今朝のテック朝便、4本立てでお届けしたわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "激安の中国AI、AIの引退ラッシュ、ネット無しで動くAI、AIの自主ルール、だったのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "よくまとまってるじゃない。今日のテーマはずばり、賢さの次に、安さと信頼が問われる、ね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "性能だけじゃ勝てない時代に、入ってきたってことなのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "気になったやつあったら、自分でもちょっと調べてみてね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "それじゃ、また明日のテック朝便で会おうなのだー!",
+      "news_index": 0
+    }
+  ],
+  "program_description": "今朝のテック朝便は、AIが「安く・軽く・賢く」なってきた流れを4本立てでお届け。まずは中国テンセントの激安推論AI『Hy3 preview（エイチワイスリー）』が、世界の利用ランキングで2位を大きく引き離して1位を取った話。次にオープンエーアイが古いモデルを次々引退させ、主力のジーピーティー5.5を読みやすく改良した『AI使い捨て時代』の話題。3本目はグーグルがネット無しで動かせる手のひらサイズのAI基板コーラルボードを発表、クラゲの映像でAIが作曲するデモまで紹介。最後はオープンエーアイがカリフォルニア州やEUのAI規制に沿う形で、フロンティアAI向けの社内ガバナンス文書を公開した動き。賢さの次は安さと信頼、がキーワードの回。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20260530_051401_chars.webp",
+    "hero_rel": "/images/topics/tech_20260530_051401.webp",
+    "title": "賢さの次に来たもの 〜安さ・軽さ・信頼で測るAIの朝〜",
+    "companies": [
+      "OpenAI",
+      "Google",
+      "Claude"
+    ]
+  },
+  "summary_short": "テンセント激安AIが世界首位。OpenAIモデル刷新＋ガバナンス文書公開。Googleネット不要AI基板投入。「賢さ」→「安さ・軽さ・信頼」へ転換、4本立て。"
+}

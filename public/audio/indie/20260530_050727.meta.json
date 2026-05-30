@@ -1,0 +1,765 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-05-30T05:07:27+09:00",
+  "title": "卓を囲む六人 〜祖母の七回忌、闇に染まる怪談の宴〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 337.83,
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 6.34
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "旅の道ラジオへようこそなのだ! パーソナリティのずんだもんなのだー!",
+      "news_index": 0,
+      "start_sec": 6.34,
+      "end_sec": 10.81
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "今回はレトロゲーム回なのだ! つむぎ、いるかー?",
+      "news_index": 0,
+      "start_sec": 10.89,
+      "end_sec": 14.88
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "intro",
+      "text": "またまた、あーしが担当するっすよー! 今回のテーマは『つきこもり』っす!",
+      "news_index": 0,
+      "start_sec": 15.03,
+      "end_sec": 19.99
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "1996年にSFCで出たホラーサウンドノベルっす。ガチで怖いやつっすよー",
+      "news_index": 0,
+      "start_sec": 20.07,
+      "end_sec": 25.31
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "タイトルの漢字、見るからに難しいのだ! 読めないのだー!",
+      "news_index": 0,
+      "start_sec": 25.46,
+      "end_sec": 30.75
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "『つきこもり』って読むっす。漢字一文字に込められた重さがいいんすよ",
+      "news_index": 0,
+      "start_sec": 30.9,
+      "end_sec": 35.27
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "月末って意味なのだ……? 怪談ゲーとなんの関係があるのだ?",
+      "news_index": 0,
+      "start_sec": 35.42,
+      "end_sec": 39.67
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "そこがガチで巧みっす。語感のおどろおどろしさだけで雰囲気を作ってるんすよ",
+      "news_index": 0,
+      "start_sec": 39.82,
+      "end_sec": 44.38
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、この作品って一体どんなゲームなのだ?",
+      "news_index": 1,
+      "start_sec": 44.53,
+      "end_sec": 47.6
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "1996年3月1日にバンプレストから出たSFCソフトっす。開発はパンドラボックスっす",
+      "news_index": 1,
+      "start_sec": 47.75,
+      "end_sec": 54.09
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ボク生まれてないのだ! 古いのだー!",
+      "news_index": 1,
+      "start_sec": 54.24,
+      "end_sec": 56.8
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "先輩、あーしも当時のリアタイ世代じゃないっすよ! 中古屋で発掘したクチっす",
+      "news_index": 1,
+      "start_sec": 56.95,
+      "end_sec": 61.9
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "で、これは『学校であった怖い話』の続編っす。1995年の名作の翌年に出てるっす",
+      "news_index": 1,
+      "start_sec": 61.98,
+      "end_sec": 68.99
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "『学校であった怖い話』なら名前は知ってるのだ! 怪談ゲーなのだ?",
+      "news_index": 1,
+      "start_sec": 69.14,
+      "end_sec": 73.92
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そうっす! サウンドノベル界の超重要作っす。怪談を生徒に語らせるシステムが画期的だったんすよ",
+      "news_index": 1,
+      "start_sec": 74.07,
+      "end_sec": 80.47
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "プロデューサーは前作と同じ飯島健男さんっす。今は飯島多紀哉先生って名前で活動してるっす",
+      "news_index": 1,
+      "start_sec": 80.55,
+      "end_sec": 86.66
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "同じ人が二回別の名前で出てきたのだ。混乱するのだ……",
+      "news_index": 1,
+      "start_sec": 86.81,
+      "end_sec": 90.74
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "先輩、名前変えたんすよ。改名っす w",
+      "news_index": 1,
+      "start_sec": 90.89,
+      "end_sec": 93.77
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "監督は喜久川馨さん、音楽は堀口貴史さんっす",
+      "news_index": 1,
+      "start_sec": 93.85,
+      "end_sec": 97.62
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "PS版『学校であった怖い話S』のスタッフが担当したっす",
+      "news_index": 1,
+      "start_sec": 97.7,
+      "end_sec": 102.28
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "PSの前作Sなのだか後作Sなのだか、紛らわしいのだ……",
+      "news_index": 1,
+      "start_sec": 102.43,
+      "end_sec": 106.82
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "実は同じ年に出てるっす。SFC版とPS版が同じ1996年に並走してるんすよね",
+      "news_index": 1,
+      "start_sec": 106.97,
+      "end_sec": 113.69
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "チームが忙しすぎなのだ!",
+      "news_index": 1,
+      "start_sec": 113.84,
+      "end_sec": 116.2
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "お値段はSFCソフトの相場通り、7,800円っすね",
+      "news_index": 1,
+      "start_sec": 116.35,
+      "end_sec": 120.34
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "7,800円!? 当時の小学生のお小遣いだとガチで地獄なのだ!",
+      "news_index": 1,
+      "start_sec": 120.49,
+      "end_sec": 125.87
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "あーしの当時のお年玉スケールでもガチで無理だったやつっす",
+      "news_index": 1,
+      "start_sec": 126.02,
+      "end_sec": 129.38
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "だからつむぎも当時遊んでないのだ……生まれてないからなのだ……",
+      "news_index": 1,
+      "start_sec": 129.53,
+      "end_sec": 134.55
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "shirake",
+      "text": "先輩。それわざわざ言わなくていいっす",
+      "news_index": 1,
+      "start_sec": 134.7,
+      "end_sec": 137.61
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "すまんのだ……",
+      "news_index": 1,
+      "start_sec": 137.76,
+      "end_sec": 138.56
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "コホン。で、肝心の中身はどんな話なのだ?",
+      "news_index": 1,
+      "start_sec": 138.64,
+      "end_sec": 142.13
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "おばあちゃんの七回忌で親戚が集まる設定っす",
+      "news_index": 1,
+      "start_sec": 142.28,
+      "end_sec": 145.23
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "七回忌って、なんなのだ?",
+      "news_index": 1,
+      "start_sec": 145.38,
+      "end_sec": 147.5
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "亡くなった人の、死去から6年後の法要っす。仏教の習わしっすね",
+      "news_index": 1,
+      "start_sec": 147.65,
+      "end_sec": 152.26
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "ちゃんとしてるのだ。ボク仏教詳しくないのだー",
+      "news_index": 1,
+      "start_sec": 152.41,
+      "end_sec": 155.35
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "で、その夜に親戚たちが暇つぶしに怪談を語り出すっす",
+      "news_index": 1,
+      "start_sec": 155.5,
+      "end_sec": 159.39
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、法要の夜に怪談!? それガチで不謹慎じゃない?",
+      "news_index": 1,
+      "start_sec": 159.54,
+      "end_sec": 163.7
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "いやー、シチュエーションが既にもう怪談なんすよ。和室、ろうそく、親戚6人",
+      "news_index": 1,
+      "start_sec": 163.85,
+      "end_sec": 169.16
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "親戚6人がそれぞれ怪談語るって、6つも話が聞けるのだ?",
+      "news_index": 1,
+      "start_sec": 169.31,
+      "end_sec": 173.97
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "6人どころか、隠しシナリオ込みで全48本っす",
+      "news_index": 1,
+      "start_sec": 174.12,
+      "end_sec": 177.87
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "48本!? 多すぎなのだ!",
+      "news_index": 1,
+      "start_sec": 178.02,
+      "end_sec": 181.18
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "先輩、選択肢で分岐するんすよ。同じ語り部でも選び方変えると別の話に飛ぶっす",
+      "news_index": 1,
+      "start_sec": 181.33,
+      "end_sec": 187.22
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "サウンドノベルって、なんかワクワクするのだー。本を読んでる感じなのだ",
+      "news_index": 1,
+      "start_sec": 187.37,
+      "end_sec": 191.98
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "で、語る順番を変えるとストーリーの展開も変わるシステムっす。前作からの伝統っすね",
+      "news_index": 1,
+      "start_sec": 192.13,
+      "end_sec": 197.91
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "これ、当時バリバリ売れたのだ?",
+      "news_index": 1,
+      "start_sec": 198.06,
+      "end_sec": 200.31
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kangae",
+      "text": "うーん……ガチで言うと、『学怖』ほどの知名度はなかったっす",
+      "news_index": 1,
+      "start_sec": 200.46,
+      "end_sec": 204.66
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "サウンドノベルブームの真っ只中だったから埋もれちゃった感あるっす。けど",
+      "news_index": 1,
+      "start_sec": 204.74,
+      "end_sec": 209.02
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "ハマったオタクくんの間ではガチで伝説扱いっす! 隠れた名作枠っす",
+      "news_index": 1,
+      "start_sec": 209.1,
+      "end_sec": 213.82
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "いいのだ、隠れた名作って響き! 通好みなのだ!",
+      "news_index": 1,
+      "start_sec": 213.97,
+      "end_sec": 218.01
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "あーしも中古屋で発掘したクチっす。攻略本も別ルートで手に入れたっす",
+      "news_index": 1,
+      "start_sec": 218.16,
+      "end_sec": 222.71
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ガチ勢なのだ……",
+      "news_index": 1,
+      "start_sec": 222.86,
+      "end_sec": 224.03
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "えへへ、ギャル友達には絶対言えない趣味なんすよねー",
+      "news_index": 1,
+      "start_sec": 224.18,
+      "end_sec": 227.79
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "ねえ、リスナーのみなさんも、こういうの好きな人いるじゃん。同志のオタクくん、絶対いるのだー",
+      "news_index": 1,
+      "start_sec": 227.94,
+      "end_sec": 234.15
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "待って、つむぎ。怪談ゲー、ボクちょっと怖いのだ……大丈夫なのだ?",
+      "news_index": 1,
+      "start_sec": 234.23,
+      "end_sec": 240.75
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "先輩、サウンドノベルの怖さはガチで脳に来るやつっす",
+      "news_index": 1,
+      "start_sec": 240.9,
+      "end_sec": 244.48
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "sasayaki",
+      "text": "画面はほとんど真っ暗、テキストと効果音だけ……想像力で恐怖が増幅するっす",
+      "news_index": 1,
+      "start_sec": 244.56,
+      "end_sec": 250.14
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "ヤバいのだ……ボク寝れなくなるのだー",
+      "news_index": 1,
+      "start_sec": 250.29,
+      "end_sec": 253.84
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "だからこそ一人でじっくり没入するのが楽しいんすよ! ホラーマニアのオタクくんは分かってくれると思うっす",
+      "news_index": 1,
+      "start_sec": 253.99,
+      "end_sec": 260.03
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "文字だけで怖がらせるって、すごい技術なのだ",
+      "news_index": 1,
+      "start_sec": 260.18,
+      "end_sec": 263.37
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ガチで想像力勝負っす。読み手の脳を使う芸術っすね",
+      "news_index": 1,
+      "start_sec": 263.52,
+      "end_sec": 267.43
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、つむぎ。結末とかは、どうなるのだ?",
+      "news_index": 1,
+      "start_sec": 267.58,
+      "end_sec": 270.75
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "shirake",
+      "text": "先輩。ネタバレは絶対NGっす",
+      "news_index": 1,
+      "start_sec": 270.9,
+      "end_sec": 273.75
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "これからプレイするオタクくんがいるんすよ。怪談ゲーは初見が全てっす",
+      "news_index": 1,
+      "start_sec": 273.83,
+      "end_sec": 278.03
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "すまんのだ……気になっただけなのだ……",
+      "news_index": 1,
+      "start_sec": 278.18,
+      "end_sec": 281.22
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "気になったら遊んでほしいっす! それがホラーゲーへの最大のリスペクトっす",
+      "news_index": 1,
+      "start_sec": 281.37,
+      "end_sec": 285.65
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ちなみに、この作品のシナリオは後の『鳴神学園七不思議』シリーズにリライト収録されてるっす",
+      "news_index": 1,
+      "start_sec": 285.73,
+      "end_sec": 292.18
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "えー、ボクこっちなら買えるのだ! 鳴神学園、調べてみるのだ!",
+      "news_index": 1,
+      "start_sec": 292.33,
+      "end_sec": 297.55
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "飯島先生の現代版リブート企画っす。アパシーシリーズって呼ばれてるっす",
+      "news_index": 1,
+      "start_sec": 297.7,
+      "end_sec": 302.35
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "現代でも続いてるシリーズって、嬉しいのだー",
+      "news_index": 1,
+      "start_sec": 302.5,
+      "end_sec": 305.73
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "いやー、今回も濃かったのだ。つむぎありがとうなのだ",
+      "news_index": 0,
+      "start_sec": 305.81,
+      "end_sec": 309.46
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "あーしこそっす! こういう隠れた名作回、また呼んでほしいっす",
+      "news_index": 0,
+      "start_sec": 309.61,
+      "end_sec": 313.63
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "リスナーのみなさん、『つきこもり』、興味あるかたはぜひチェックなのだ!",
+      "news_index": 0,
+      "start_sec": 313.78,
+      "end_sec": 317.91
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "中古ソフトで探すとガチで掘り出し物枠っす。サウンドノベル好きなら間違いない一本っす",
+      "news_index": 0,
+      "start_sec": 318.06,
+      "end_sec": 323.51
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "また旅の道ラジオでお会いしましょうなのだ! バイバイなのだー!",
+      "news_index": 0,
+      "start_sec": 323.66,
+      "end_sec": 327.77
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "ばいばーい、オタクくん!",
+      "news_index": 0,
+      "start_sec": 327.92,
+      "end_sec": 329.43
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 330.13,
+      "end_sec": 337.83
+    }
+  ],
+  "wall_time_sec": 10.57,
+  "audio_url": "/audio/indie/20260530_050727.mp3?v=1780112616"
+}
