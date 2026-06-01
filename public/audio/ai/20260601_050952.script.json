@@ -1,0 +1,459 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-05-31T20:09:52.581116+00:00",
+  "title": "AIが見つけて、人が直せない朝 〜バグ1万件・感染症AI・AIの檻、テック4本立て〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便、テックニュースの回。四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 朝のテック話、今日も軽くいくのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "kamera",
+      "text": "今日は最近のAIとテックの話題を、4本サクッと流していく回ね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "通勤・通学中のおともに、ちょうどいいやつなのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "1本目から、ちょっとゾワッとする数字の話よ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ゾワッと? 朝からホラーは勘弁してほしいのだ……。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "大丈夫、お化けじゃなくてバグの話。いくわよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "アンソロピックが、自社のAIにオープンソースのソフトを片っ端から点検させたの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "結果ね、ソフトの弱点を1万件以上も見つけた、って報告書を出したわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "1万件!? AIってそんなに目ざといのだ!?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ソフトの弱点ってのは、悪い人に突かれると乗っ取られる『穴』のことね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "穴? 家でいうと、鍵の閉め忘れみたいなやつなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう、その鍵の閉め忘れを、AIが1万箇所も嗅ぎつけちゃったの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "守りが固くなるなら、いいことじゃん!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "それがね、オチがあるの。見つけても、直す人が全然追いついてない。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、見つけっぱなしなのだ!?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "AIが速すぎて、人間の修理が間に合わないのよ。レビュー済みの高・重大度候補については、9割ほどが本物と確認されたのに。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "それって、健康診断で病気を山ほど見つけたのに、お医者さんが足りなくて治せないみたいなこと?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "まさにそれ。要するに『見つける力』だけ先に伸びて、『直す力』が置いてけぼりって話。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "穴が空いてるって分かってるのに塞げないの、逆に怖いのだ……。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、私たちに関係あるのは、ふだん使ってるアプリの土台にも、こういう穴が眠ってるってこと。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "慌てなくていいけど、アプリの更新が来たらサボらず入れる、これが地味に効くのだね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "ご名答。更新ボタン、押すだけでお守りになるのよ。次いきましょ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "2本目は毛色を変えて、医療っぽい話。オープンエーアイが、新しいAIを出したわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "名前が『ジーピーティー・ロザリンド』、生命科学に特化したやつ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ろざりんど? 人の名前みたいなのだ。何ができる子なのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "病気のもとになるウイルスや細菌を解析したり、感染がどう広がるか予測したり、ってAIね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あっ、次のパンデミックに備えるやつなのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "察しがいいわね。しかもこれ、選ばれた米政府や同盟国の公衆衛生・バイオ防衛チームに、審査付きで使えるようにするって言ってるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "タダ!? AIってめちゃくちゃ高いんじゃなかったのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "普通はお金を取る。でも感染症対策は公共性が高いから、研究プレビューやスポンサー提供の形で、審査済みの相手に防衛目的で使わせる、って狙いね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "世界中の人を守るためなら、太っ腹じゃん!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "……ところが、ここに引っかかりがあるの。同じ技術、裏返すと危ないのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "裏返すと? どういうことなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "病気を『解析できる』ってことは、悪用すれば『作る』側にも使えちゃう。専門家が心配してるのはそこ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "守る道具と、攻める道具が、同じ顔してるってことなのだ……。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "だから使える相手を、資格審査を通った政府系パートナーや信頼済みの開発者・研究チームに絞ってる。でも『その線引き、本当に守れるの?』が論点ね。",
+      "news_index": 2,
+      "reading": "だからつかえるあいてを、しかくしんさをとおったせいふけいパートナーやしんらいずみのかいはつしゃ・けんきゅうチームにしぼってる。でも『そのせんびき、ほんとうにまもれるの?』がろんてんね。"
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "私たちの暮らしで言うと、次に変な感染症が流行ったとき、対策のスピードがAIで上がるかも、って話。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "期待は大きいけど、扱いは慎重に、なのだ。次いこ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "3本目。さっきから『AIが暴れたら怖い』って話が続いてるけど、それへの答えっぽいニュースよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "アンソロピックが、自社のAIをどう閉じ込めてるか、claude.ai、Claude Code、Claude Coworkで使う封じ込め設計や失敗例を、技術ブログで詳しく公開したの。",
+      "news_index": 3,
+      "reading": "アンソロピックが、じしゃのAIをどうとじこめてるか、くろーどどっとえーあい、ClaudeCode、ClaudeCoworkでつかうふうじこめせっけいやしっぱいれいを、ぎじゅつブログでくわしくこうかいしたの。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "閉じ込める? AIを檻に入れるってことなのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "イメージそれで合ってる。最近のAIって、人の代わりにパソコンを操作するでしょ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あっ、エージェントってやつなのだ! 勝手に作業してくれる子!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そう。便利な反面、好き勝手に動かれてファイルを消されたら困る。だから『箱』の中だけで動かすの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "箱? どんな箱なのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "用途ごとに檻の固さを変えてるのがミソ。気軽なチャットは軽い檻、重い作業は分厚い檻、みたいに。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "あー、猛獣ほど頑丈なオリに入れる、動物園方式なのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いい例えね。しかも普通は手の内を隠すのに、かなり踏み込んで、設計パターンや失敗例まで見せたのがポイント。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "なんで隠さないのだ? 手品の種明かしみたいで、損じゃん?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "逆なのよ。AIが自分のパソコンで動く時代は、『ちゃんと安全に閉じ込めてます』って示せる会社が信用される。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "つまり安全さが、そのまま売りになる時代なのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "その通り。私たちがAIに作業を任せるとき、『この子は檻の中で動くから安心』が選ぶ基準になるってこと。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "賢さだけじゃなくて、お行儀で選ぶ時代なのだね。次でラストー!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ラストは肩の力を抜いて、ゲームの話。『フォルツァ・ホライゾン6』って車のゲーム、知ってる?",
+      "news_index": 4,
+      "reading": "ラストはかたのちからをぬいて、ゲームのはなし。『ふぉるつぁほらいぞんしっくす』ってくるまのゲーム、しってる?"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "レースゲームなのだ! ボク、カーブで毎回壁に刺さるタイプなのだ……。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "奇遇ね、私もよ。でも面白いのが、レースに興味ないマンガ家のかたが、どハマりしたって記事なの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "興味ない人がハマった? なんでなのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "カギは自由度。順位を競わなくても、ただ綺麗な景色の中をドライブするだけで楽しいのよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "えっ、勝たなくていいレースゲームなのだ? 優しい世界じゃん!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、『上手くできなくてもいい快適さ』がウリ。下手でも置いてけぼりにされない作りなの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ボクみたいな壁ドン専門ドライバーでも、主役になれるってことなのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "なれるなれる。壁とお友達でも、風景は綺麗だから。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ちょっと含みのある慰めなのだ……。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "でもこれ大事よ。ゲームが『上手い人だけのもの』から『下手でも楽しい』に広がってきてるサイン。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "苦手意識あるかたこそ、触ってみる価値ありなのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで今日は4本。バグ1万件、感染症AI、AIの檻、そしてドライブゲームね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "前半ちょっと怖くて、後半ほっこり。落差のすごい回だったのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "たまにはこういう緩急もいいでしょ。気になったやつ、あとで調べてみて。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "アプリの更新ボタン、今日からちゃんと押すのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "いい心がけ。それじゃ、また明日のテック朝便で。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "旅の道ラジオ朝便、お相手はずんだもんと、",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四国めたんでした。いってらっしゃい。",
+      "news_index": 0
+    }
+  ],
+  "program_description": "おはようございます、旅の道ラジオ朝便のテックニュース回。今朝は最近のAI・テック話題を4本サクッとお届け。1本目はアンソロピックと約50のパートナーが、重要ソフト全体で高・重大度の脆弱性を1万件以上見つけた。オープンソースについては、1000超のプロジェクトをスキャンし、全重要度で2万3019件、高・重大度推定で6202件を見つけた。のに、人間の修理が追いつかないという「見つける力と直す力の非対称」の話。2本目はオープンエーアイが生命科学AI『GPT-Rosalind』のtrusted accessを、選ばれた米政府および同盟国パートナー、公衆衛生・バイオ防衛向けの資格審査済みチームに広げる一方、悪用リスクも抱えるデュアルユース問題。3本目はアンソロピックがAIをどう安全に閉じ込めてるか、その『檻』の仕組みを全公開した透明性の話。ラストは肩の力を抜いて、レースに興味ないマンガ家までハマった『フォルツァ・ホライゾン6』の『下手でも楽しい快適さ』。前半ちょっと怖くて後半ほっこり、緩急のある朝便です。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20260601_050952_chars.webp",
+    "hero_rel": "/images/topics/tech_20260601_050952.webp",
+    "title": "AIが見つけて、人が直せない朝 〜バグ1万件・感染症AI・AIの檻、テック4本立て〜",
+    "companies": [
+      "Claude",
+      "OpenAI"
+    ]
+  },
+  "summary_short": "AIが1万件超の脆弱性を発見しても人間の修正が追いつかない\"非対称\"問題を起点に、感染症AIの拡大と悪用リスク、Anthropicが公開したAIの\"檻\"の仕組み、下手でも没入するゲームまでテック4本。"
+}

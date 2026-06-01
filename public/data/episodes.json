@@ -1,6 +1,68 @@
 {
-  "generated_at": "2026-05-31T10:46:32.735725",
+  "generated_at": "2026-06-01T10:19:20.389708",
   "episodes": [
+    {
+      "episode_id": "20260601_050952",
+      "profile": "ai",
+      "title": "AIが見つけて、人が直せない朝 〜バグ1万件・感染症AI・AIの檻、テック4本立て〜",
+      "generated_at": "2026-06-01T05:09:52+09:00",
+      "duration_sec": 383.21,
+      "audio_url": "/audio/ai/20260601_050952.mp3?v=1780276754",
+      "meta_url": "/audio/ai/20260601_050952.meta.json",
+      "script_url": "/audio/ai/20260601_050952.script.json",
+      "audio_size_mb": 5.85,
+      "featured_game": {
+        "image_rel": "/images/topics/tech_20260601_050952_chars.webp?v=1780276432",
+        "hero_rel": "/images/topics/tech_20260601_050952.webp?v=1780276432",
+        "title": "AIが見つけて、人が直せない朝 〜バグ1万件・感染症AI・AIの檻、テック4本立て〜",
+        "companies": [
+          "Claude",
+          "OpenAI"
+        ],
+        "screenshot_rels": []
+      },
+      "program_description": "おはようございます、旅の道ラジオ朝便のテックニュース回。今朝は最近のAI・テック話題を4本サクッとお届け。1本目はアンソロピックと約50のパートナーが、重要ソフト全体で高・重大度の脆弱性を1万件以上見つけた。オープンソースについては、1000超のプロジェクトをスキャンし、全重要度で2万3019件、高・重大度推定で6202件を見つけた。のに、人間の修理が追いつかないという「見つける力と直す力の非対称」の話。2本目はオープンエーアイが生命科学AI『GPT-Rosalind』のtrusted accessを、選ばれた米政府および同盟国パートナー、公衆衛生・バイオ防衛向けの資格審査済みチームに広げる一方、悪用リスクも抱えるデュアルユース問題。3本目はアンソロピックがAIをどう安全に閉じ込めてるか、その『檻』の仕組みを全公開した透明性の話。ラストは肩の力を抜いて、レースに興味ないマンガ家までハマった『フォルツァ・ホライゾン6』の『下手でも楽しい快適さ』。前半ちょっと怖くて後半ほっこり、緩急のある朝便です。",
+      "summary_short": "AIが1万件超の脆弱性を発見しても人間の修正が追いつかない\"非対称\"問題を起点に、感染症AIの拡大と悪用リスク、Anthropicが公開したAIの\"檻\"の仕組み、下手でも没入するゲームまでテック4本。"
+    },
+    {
+      "episode_id": "20260601_050250",
+      "profile": "indie",
+      "title": "雛見沢に響く謎 〜同人発で歴史を変えたサウンドノベル〜",
+      "generated_at": "2026-06-01T05:02:50+09:00",
+      "duration_sec": 370.94,
+      "audio_url": "/audio/indie/20260601_050250.mp3?v=1780276759",
+      "meta_url": "/audio/indie/20260601_050250.meta.json",
+      "script_url": "/audio/indie/20260601_050250.script.json",
+      "audio_size_mb": 5.66,
+      "featured_game": {
+        "app_id": null,
+        "vndb_id": "v67",
+        "title": "ひぐらしのなく頃に",
+        "alttitle": "Higurashi no Naku Koro ni",
+        "image_rel": "/images/topics/indie_20260601_050250_chars.webp?v=1780276756",
+        "hero_rel": "/images/games/vndb_v67.jpg?v=1779022017",
+        "screenshot_rels": [
+          "/images/games/vndb_v67_ss1.jpg?v=1779022019",
+          "/images/games/vndb_v67_ss2.jpg?v=1779022021",
+          "/images/games/vndb_v67_ss3.jpg?v=1779022026",
+          "/images/games/vndb_v67_ss4.jpg?v=1779022028"
+        ],
+        "developers": [
+          "07th Expansion"
+        ],
+        "publishers": [],
+        "genres": [
+          "レトロ",
+          "ビジュアルノベル"
+        ],
+        "release_date": "2002-08-10",
+        "price": "1,000円(同人版・コミックマーケット頒布価格)",
+        "short_description": "Hinamizawa, a small rural village in Japan, circa 1983. The village is known for its annual Watanagashi Festival, which honors the local deity, Oyashiro-sama.\n\nThe story follows Maebara Keiichi, a teenage boy who has recently moved to Hinamizawa with his family. He quickly becomes friends with a group of local girls: Ryuuguu Rena, Sonozaki Mion, Houjou Satoko, and Furude Rika. On the surface, Hinamizawa is a peaceful, tight-knit community. However, Keiichi soon discovers that the village harbors dark secrets and a history of mysterious disappearances and gruesome murders that occur each year a",
+        "dedup_verified": true
+      },
+      "program_description": "今回はサウンドノベルの金字塔『ひぐらしのなく頃に』を、つむぎが完全にスイッチ入った状態でじっくり語る回。サークル07th Expansionが2002年の夏コミから出し始めた同人サウンドノベルで、舞台は架空の村・雛見沢、時代は1983年6月。毎年の綿流しのお祭りで誰かが死ぬという伝承をめぐる出題編・解答編全8本構成の話運びや、ニコ動全盛期に重なって考察カルチャーごと膨らんで社会現象になっていった経緯、ファンとしてどこに惚れたか、ホラー苦手なずんだもんが部屋の隅をチラ見しながら聴くトーンで進む回。核心のトリックや結末は完全にネタバレ厳禁、雰囲気と魅力と歴史的インパクトだけで惹きつけにいく深掘り構成。",
+      "summary_short": ""
+    },
     {
       "episode_id": "20260530_171638",
       "profile": "indie",
