@@ -1,6 +1,74 @@
 {
-  "generated_at": "2026-06-01T17:19:51.552029",
+  "generated_at": "2026-06-02T05:13:21.151454",
   "episodes": [
+    {
+      "episode_id": "20260601_211300",
+      "profile": "ai",
+      "title": "330円とAIが並ぶ朝 〜ゲーム機・動画AI・値下がり、テック四本立て〜",
+      "generated_at": "2026-06-01T21:13:00+09:00",
+      "duration_sec": 406.28,
+      "audio_url": "/audio/ai/20260601_211300.mp3?v=1780344796",
+      "meta_url": "/audio/ai/20260601_211300.meta.json",
+      "script_url": "/audio/ai/20260601_211300.script.json",
+      "audio_size_mb": 6.2,
+      "featured_game": {
+        "image_rel": "/images/topics/tech_20260601_211300_chars.webp?v=1780316619",
+        "hero_rel": "/images/topics/tech_20260601_211300.webp?v=1780316619",
+        "title": "330円とAIが並ぶ朝 〜ゲーム機・動画AI・値下がり、テック四本立て〜",
+        "companies": [
+          "Gemini",
+          "Google",
+          "DeepSeek"
+        ],
+        "screenshot_rels": []
+      },
+      "program_description": "旅の道ラジオ朝便、テックニュースの回。今朝は肩の力を抜いて四本立て。一本目はエイスースの新しい携帯ゲーム機『ログ・エックスボックス・アライ』、有機イーエル画面と新方式スティックの話。二本目はグーグルの動画AI『ジェミニ・オムニ』、文字や音声を放り込むだけで音つき動画が作れて、ユーチューブのショートにも無料で降りてくる時代の話。三本目はAIを使う値段がどんどん下がってるって経済の話を、激安AIの正式値下げ、またはキャンペーン後の価格改定を例に。最後はスリーコインズの伸縮傘ケースで、梅雨前のプチ便利グッズ。ハイテクから生活の知恵まで、通勤通学のお供にサクッとどうぞ。",
+      "summary_short": "有機EL＆新型スティック搭載のROG携帯ゲーム機から、音声入力だけで動画が作れるGemini Omni、着実に下がるAIの利用コスト、そして梅雨をちょっと楽にする330円の傘ケースまで。最前線から生活の知恵まで詰め込んだテック四本立て。"
+    },
+    {
+      "episode_id": "20260601_210249",
+      "profile": "indie",
+      "title": "九月の駅、雪解けの恋 〜メモリーズオフという始まりの場所〜",
+      "generated_at": "2026-06-01T21:02:49+09:00",
+      "duration_sec": 369.16,
+      "audio_url": "/audio/indie/20260601_210249.mp3?v=1780344800",
+      "meta_url": "/audio/indie/20260601_210249.meta.json",
+      "script_url": "/audio/indie/20260601_210249.script.json",
+      "audio_size_mb": 5.63,
+      "featured_game": {
+        "app_id": null,
+        "vndb_id": "v1152",
+        "title": "メモリーズオフ",
+        "alttitle": "Memories Off",
+        "image_rel": "/images/topics/indie_20260601_210249_chars.webp?v=1780344797",
+        "hero_rel": "/images/games/vndb_v1152.jpg?v=1779809297",
+        "screenshot_rels": [
+          "/images/games/vndb_v1152_ss1.jpg?v=1779809300",
+          "/images/games/vndb_v1152_ss2.jpg?v=1779809302",
+          "/images/games/vndb_v1152_ss3.jpg?v=1779809303",
+          "/images/games/vndb_v1152_ss4.jpg?v=1779809305"
+        ],
+        "developers": [
+          "キッド",
+          "MAGES.",
+          "SDR Project"
+        ],
+        "publishers": [
+          "キッド"
+        ],
+        "genres": [
+          "レトロ",
+          "ビジュアルノベル",
+          "恋愛アドベンチャー"
+        ],
+        "release_date": "1999年9月30日",
+        "price": "6,800円",
+        "short_description": "1999年にキッドからPlayStationで発売された恋愛アドベンチャー。主人公・三上智也は、亡くなった彼女・樋月彩花の記憶を抱えたまま、新しい出会いの中で前に進もうとする。後にEver17で名を馳せる打越鋼太郎のシナリオデビュー作で、阿保剛のピアノ基調BGMとともにシリーズ化、10年以上続く長寿フランチャイズの起点となった。",
+        "dedup_verified": true
+      },
+      "program_description": "今回はビジュアルノベル史に名を残す金字塔『メモリーズオフ』を、ずんだもんと春日部つむぎでじっくり掘り下げる回。1999年9月30日、PlayStationでキッドから出た本作は、後にEver17や9時間9人9扉などSFミステリーで名を馳せる打越鋼太郎のシナリオデビュー作という事実から入って、シリーズ全編を彩る阿保剛のピアノ基調BGM、佐々木睦美の繊細なキャラデザ、そして主人公・三上智也が亡くなった彼女・樋月彩花の記憶を抱えたまま新しい一歩を踏み出す物語の入り口までを丁寧に紹介。続編が10年以上にわたって作られ続けた背景、キッド倒産からMAGES.への系譜、現在の入手手段まで、つむぎの実機マニア知識とずんだの素直な驚きで掛け合いながらお届け。物語の核心やヒロインルートの結末には触れない、これからプレイするオタクくんにも安心の入門ガイド回。",
+      "summary_short": ""
+    },
     {
       "episode_id": "20260601_050952",
       "profile": "ai",
