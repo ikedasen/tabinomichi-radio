@@ -1,0 +1,706 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-06-03T17:18:25+09:00",
+  "title": "自前AIで殴り合う朝 〜マイクロソフトの反逆と、10分の1になるAIの値段〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 359.86,
+  "script_hash": "sha256:f814403245aaf9a0118852079760f9206192c677b27e96ab73a2ea25397c059b",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 5.05
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "intro",
+      "text": "おはようございます、旅の道ラジオ朝便、テックニュースの回。四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 5.05,
+      "end_sec": 10.27
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー！今朝もテックの話題、軽くサクッといくのだー！",
+      "news_index": 0,
+      "start_sec": 10.42,
+      "end_sec": 15.22
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今日はね、AIまわりで動きが多かったから、4本まとめて流していくわ。",
+      "news_index": 0,
+      "start_sec": 15.37,
+      "end_sec": 20.14
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "4本！通勤のお供にちょうどいい量なのだ。",
+      "news_index": 0,
+      "start_sec": 20.29,
+      "end_sec": 23.44
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "マイクロソフトの反逆、トランプさんのAI令、コードいらずのAI、それとエヌビディアの新マシンよ。",
+      "news_index": 0,
+      "start_sec": 23.59,
+      "end_sec": 29.61
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "もう全部気になるやつなのだ！早く行こうなのだ！",
+      "news_index": 0,
+      "start_sec": 29.76,
+      "end_sec": 32.86
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ1本目。マイクロソフトが、自分とこで作ったAIを一気に7つも発表したのよ。",
+      "news_index": 1,
+      "start_sec": 33.01,
+      "end_sec": 38.47
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "7つ！？一気に！？大盤振る舞いじゃん！",
+      "news_index": 1,
+      "start_sec": 38.62,
+      "end_sec": 41.61
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "しかもその中に、初めての『考えてから答えるAI』が入ってるの。",
+      "news_index": 1,
+      "start_sec": 41.76,
+      "end_sec": 46.23
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "考えてから答える？普通のAIは考えてないのだ？",
+      "news_index": 1,
+      "start_sec": 46.38,
+      "end_sec": 50.58
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ふつうのチャットAIはパッと答える感じ。こっちは頭の中で順番に筋道を立ててから返すタイプね。",
+      "news_index": 1,
+      "start_sec": 50.73,
+      "end_sec": 57.39
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "あー、計算問題で途中式を書いてから答える子なのだね。",
+      "news_index": 1,
+      "start_sec": 57.54,
+      "end_sec": 61.94
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう、その理解で正解。名前は『MAI-Thinking-1』。ソフトウェア工学ベンチマークにも強い推論モデルで、別にコーディング向けの『MAI-Code-1-Flash』も出ているわ。",
+      "news_index": 1,
+      "start_sec": 62.09,
+      "end_sec": 73.09
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "マイクロソフトって、これまで自分でAI作ってなかったのだっけ？",
+      "news_index": 1,
+      "start_sec": 73.24,
+      "end_sec": 77.68
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこがミソ。Copilotなど主力AIではオープンエーアイへの依存が大きかったの。今回、自社製モデルの選択肢をかなり増やした、という話ね。",
+      "news_index": 1,
+      "start_sec": 77.83,
+      "end_sec": 87.25
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、それってオープンエーアイ頼みを減らして、自前でも戦える札を増やしたってことなのだ！？",
+      "news_index": 1,
+      "start_sec": 87.4,
+      "end_sec": 93.4
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ご名答。パートナーのままだけど、いざとなったら自前でいけるカードを持った、ってわけ。",
+      "news_index": 1,
+      "start_sec": 93.55,
+      "end_sec": 98.93
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、これボクたちの生活に関係あるのだ？",
+      "news_index": 1,
+      "start_sec": 99.08,
+      "end_sec": 102.15
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "あるわよ。ウィンドウズやオフィスの裏で動くAIの選択肢が増えて、競争でサービスが良くなる方向ね。",
+      "news_index": 1,
+      "start_sec": 102.3,
+      "end_sec": 108.76
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "大手が自前で殴り合うほど、ボクらは得するってことなのだ。",
+      "news_index": 1,
+      "start_sec": 108.91,
+      "end_sec": 112.78
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "2本目はちょっと固めの話。トランプ大統領が、AIに関する大統領令にサインしたの。",
+      "news_index": 2,
+      "start_sec": 112.93,
+      "end_sec": 118.77
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "だいとうりょうれい？国のえらい命令ってことなのだ？",
+      "news_index": 2,
+      "start_sec": 118.92,
+      "end_sec": 122.47
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、大統領が出す正式な指示ね。中身は『強力なAIは、世に出す30日前に政府にチェックさせて』って内容。",
+      "news_index": 2,
+      "start_sec": 122.62,
+      "end_sec": 130.76
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "30日前に検査！？AIにも車検みたいなのがあるのだ！？",
+      "news_index": 2,
+      "start_sec": 130.91,
+      "end_sec": 135.5
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "例えはわりと近いわ。ただし今回のキモは、これが『お願いベース』で義務じゃないってこと。",
+      "news_index": 2,
+      "start_sec": 135.65,
+      "end_sec": 140.93
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "お願い？従わなくてもいいのだ？",
+      "news_index": 2,
+      "start_sec": 141.08,
+      "end_sec": 143.77
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そう、強制の許可制にはしないって線を引いてるの。狙いは主にサイバー攻撃への悪用チェックね。",
+      "news_index": 2,
+      "start_sec": 143.92,
+      "end_sec": 150.4
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "なんで義務にしないのだ？厳しくした方が安全じゃん？",
+      "news_index": 2,
+      "start_sec": 150.55,
+      "end_sec": 154.04
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこが綱引き。締めすぎると開発が遅れる、緩いと骨抜き、ってバランスを取った形ね。",
+      "news_index": 2,
+      "start_sec": 154.19,
+      "end_sec": 160.09
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、ボクらの生活にはどう効くのだ？",
+      "news_index": 2,
+      "start_sec": 160.24,
+      "end_sec": 162.89
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "新しいAIが世に出るのが少し遅れるかも、くらい。今すぐ生活がガラッと変わる話じゃないわ。",
+      "news_index": 2,
+      "start_sec": 163.04,
+      "end_sec": 169.19
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "じゃあ慌てなくていいやつなのだね。",
+      "news_index": 2,
+      "start_sec": 169.34,
+      "end_sec": 171.5
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "3本目は明るめ。オープンエーアイの『コーデックス』ってのが、コードを書けない人にも開かれたの。",
+      "news_index": 3,
+      "start_sec": 171.65,
+      "end_sec": 178.02
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "こーでっくす？それ何する子なのだ？",
+      "news_index": 3,
+      "start_sec": 178.17,
+      "end_sec": 180.84
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "もともとはプログラマー用に、AIが代わりにコードを書く道具ね。それを一般の仕事向けに広げたの。",
+      "news_index": 3,
+      "start_sec": 180.99,
+      "end_sec": 187.27
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "一般の仕事って、たとえば？",
+      "news_index": 3,
+      "start_sec": 187.42,
+      "end_sec": 189.81
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "営業、データ分析、クリエイティブ制作、プロダクトデザイン、投資系みたいな職種向けプラグインを出したのよ。法務やマーケ戦略向けは今後追加予定ね。",
+      "news_index": 3,
+      "start_sec": 189.96,
+      "end_sec": 199.93
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、プログラマーじゃない人が、もう2割も使ってるのだ！？",
+      "news_index": 3,
+      "start_sec": 200.08,
+      "end_sec": 204.25
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そうなの、しかもエンジニアの3倍の速さで増えてる。広がり方が異常よ。",
+      "news_index": 3,
+      "start_sec": 204.4,
+      "end_sec": 208.9
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "コードを書かないのに、AIに何をやらせるのだ？",
+      "news_index": 3,
+      "start_sec": 209.05,
+      "end_sec": 212.52
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "資料づくりとか、作業の自動化ね。作ったものを、そのままURLで配って共有もできるの。",
+      "news_index": 3,
+      "start_sec": 212.67,
+      "end_sec": 218.78
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、それってアプリ作るのに専門知識がいらなくなるってことなのだ！？",
+      "news_index": 3,
+      "start_sec": 218.93,
+      "end_sec": 223.47
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。ノーコード、つまりコード無しで業務ツールを作る流れが、また一段進んだわ。",
+      "news_index": 3,
+      "start_sec": 223.62,
+      "end_sec": 229.28
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、これがボクらにどう効くのだ？",
+      "news_index": 3,
+      "start_sec": 229.43,
+      "end_sec": 231.77
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "『AIに仕事を任せられる人』がどんどん増えるってこと。使える人と使えない人で差が開くわよ。",
+      "news_index": 3,
+      "start_sec": 231.92,
+      "end_sec": 238.09
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "ボクも今のうちに慣れておくのだ……。",
+      "news_index": 3,
+      "start_sec": 238.24,
+      "end_sec": 240.37
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ラスト4本目。エヌビディアが、新しいAIサーバーの量産を始めたって発表したの。",
+      "news_index": 4,
+      "start_sec": 240.52,
+      "end_sec": 246.01
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "エヌビディア……あのAIチップで有名な会社なのだ？",
+      "news_index": 4,
+      "start_sec": 246.16,
+      "end_sec": 249.81
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、AIの計算を爆速でやる専用チップで世界を握ってる会社ね。新マシンの名前は『ヴェラ・ルビン』。",
+      "news_index": 4,
+      "start_sec": 249.96,
+      "end_sec": 257.15
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "サーバーの量産って、ボクらに関係あるのだ？倉庫の話じゃん？",
+      "news_index": 4,
+      "start_sec": 257.3,
+      "end_sec": 261.81
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それがあるのよ。このマシン、AIが答えを出すコストを10分の1にできるって触れ込みなの。",
+      "news_index": 4,
+      "start_sec": 261.96,
+      "end_sec": 267.56
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "10分の1！？AIの値段がそんなに下がるのだ！？",
+      "news_index": 4,
+      "start_sec": 267.71,
+      "end_sec": 271.59
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう。AIを動かす裏のコストが下がれば、私たちが使うサービスも安く・速くなりやすいの。",
+      "news_index": 4,
+      "start_sec": 271.74,
+      "end_sec": 277.48
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、それボクらの財布に直で効くやつなのだ！",
+      "news_index": 4,
+      "start_sec": 277.63,
+      "end_sec": 280.73
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ついでに、新しいオープンウェイトモデル『Nemotron 3 Ultra』も出してきたわ。第三者ベンチマークでは米国勢のオープンモデル上位と報じられているけど、中国勢にはまだ届かない評価ね。",
+      "news_index": 4,
+      "start_sec": 280.88,
+      "end_sec": 292.69
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "おーぷんなモデル？それどういうのだ？",
+      "news_index": 4,
+      "start_sec": 292.84,
+      "end_sec": 295.48
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "モデルの重みが公開されていて、自分たちの環境で動かしやすいタイプね。チップもモデルも全部うちで、って戦略よ。",
+      "news_index": 4,
+      "start_sec": 295.63,
+      "end_sec": 303.03
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "米国一強なら、世界一でもあるのだ？",
+      "news_index": 4,
+      "start_sec": 303.18,
+      "end_sec": 306.37
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "そこは正直で、性能の点数だと中国勢にまだ負けてるの。エヌビディアは速さと安さで勝負、って立ち位置よ。",
+      "news_index": 4,
+      "start_sec": 306.52,
+      "end_sec": 313.85
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "点数より燃費で勝つタイプなのだね。",
+      "news_index": 4,
+      "start_sec": 314.0,
+      "end_sec": 316.66
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。これが効けば、来年あたりAIがもっと気軽に使える値段になるかも、って話ね。",
+      "news_index": 4,
+      "start_sec": 316.81,
+      "end_sec": 322.86
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kamera",
+      "text": "というわけで今朝は、マイクロソフトの自前AI、トランプさんのAI令、コーデックス、エヌビディアの新マシンの4本だったわ。",
+      "news_index": 0,
+      "start_sec": 322.94,
+      "end_sec": 330.71
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ボク的には、AIの値段が10分の1ってやつが、一番テンション上がったのだ！",
+      "news_index": 0,
+      "start_sec": 330.86,
+      "end_sec": 336.18
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "現金なところがあなたらしいわ。でも財布に直結するもの、正しい嗅覚よ。",
+      "news_index": 0,
+      "start_sec": 336.33,
+      "end_sec": 341.08
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "えへへ、褒められたのだ。",
+      "news_index": 0,
+      "start_sec": 341.23,
+      "end_sec": 343.21
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "気になったやつがあったら、あとで調べてみてね。",
+      "news_index": 0,
+      "start_sec": 343.36,
+      "end_sec": 346.28
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "それじゃ、また明日のテック朝便で会おうなのだ！いってらっしゃいなのだ！",
+      "news_index": 0,
+      "start_sec": 346.43,
+      "end_sec": 350.84
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "いってらっしゃい。四国めたんでした。",
+      "news_index": 0,
+      "start_sec": 350.99,
+      "end_sec": 353.12
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 353.82,
+      "end_sec": 359.86
+    }
+  ],
+  "wall_time_sec": 11.36,
+  "audio_url": "/audio/ai/20260603_171825.mp3?v=1780478845"
+}
