@@ -1,6 +1,91 @@
 {
-  "generated_at": "2026-06-03T21:23:43.525951",
+  "generated_at": "2026-06-04T05:07:27.378603",
   "episodes": [
+    {
+      "episode_id": "20260603_171825",
+      "profile": "ai",
+      "title": "自前AIで殴り合う朝 〜マイクロソフトの反逆と、10分の1になるAIの値段〜",
+      "generated_at": "2026-06-03T17:18:25+09:00",
+      "duration_sec": 359.86,
+      "audio_url": "/audio/ai/20260603_171825.mp3?v=1780478845",
+      "meta_url": "/audio/ai/20260603_171825.meta.json",
+      "script_url": "/audio/ai/20260603_171825.script.json",
+      "audio_size_mb": 5.49,
+      "featured_game": {
+        "image_rel": "/images/topics/tech_20260603_171825_chars.webp?v=1780475328",
+        "hero_rel": "/images/topics/tech_20260603_171825.webp?v=1780475328",
+        "title": "自前AIで殴り合う朝 〜マイクロソフトの反逆と、10分の1になるAIの値段〜",
+        "companies": [
+          "Microsoft",
+          "OpenAI",
+          "NVIDIA",
+          "Meta"
+        ],
+        "screenshot_rels": []
+      },
+      "program_description": "旅の道ラジオ朝便、テックニュースの回。今朝はAIまわりで動きの多かった4本をサクッと。1本目はマイクロソフトが自社製AIを7つも一挙発表、初の『考えてから答える』推論AIまで揃えてオープンエーアイ頼みから自前路線へ。2本目はトランプ大統領がサインしたAIの大統領令、強力なAIを公開30日前に政府がチェックする仕組みだけど『お願いベース』で義務じゃない点がミソ。3本目はオープンエーアイのコーデックスがコードを書けない人にも開放、職種別の便利セットで非エンジニア利用が急増中。ラストはエヌビディアが新AIサーバー『ヴェラ・ルビン』を量産開始、AIの計算コストが10分の1になるかも、という財布に効く話。気軽に聴ける回です。",
+      "summary_short": "マイクロソフトが推論AI込み7本を一挙投入し脱OpenAI路線へ。トランプ政権のAI規制令は義務なしの「お願い」ルール。コーデックスが非エンジニアに開放され、エヌビディア新型サーバーでAIコストが10分の1へ——激変するAI業界の最前線を4本で一気読み。"
+    },
+    {
+      "episode_id": "20260603_171137",
+      "profile": "indie",
+      "title": "永遠の扉 〜ドリームプロジェクトが描いた七つの時代〜",
+      "generated_at": "2026-06-03T17:11:37+09:00",
+      "duration_sec": 309.33,
+      "audio_url": "/audio/indie/20260603_171137.mp3?v=1780478849",
+      "meta_url": "/audio/indie/20260603_171137.meta.json",
+      "script_url": "/audio/indie/20260603_171137.script.json",
+      "audio_size_mb": 4.72,
+      "featured_game": {
+        "app_id": 613830,
+        "title": "クロノ・トリガー",
+        "image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613830/header.jpg?t=1775725860",
+        "image_path": "D:\\NEWStool\\indienews\\image\\games\\613830_header.jpg",
+        "image_rel": "/images/topics/indie_20260603_171137_chars.webp?v=1780478847",
+        "background_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613830/page_bg_raw.jpg?t=1775725860",
+        "background_rel": "/images/games/613830_bg.jpg?v=1779831511",
+        "capsule_rel": "/image/games/613830_capsule.jpg",
+        "hero_rel": "/images/games/613830_hero.jpg?v=1779831513",
+        "screenshot_rel": "/images/games/613830_ss.jpg?v=1779831513",
+        "developers": [
+          "Square Enix"
+        ],
+        "publishers": [
+          "Square Enix"
+        ],
+        "genres": [
+          "レトロ",
+          "RPG"
+        ],
+        "release_date": "2018年2月27日",
+        "price": "1,980円",
+        "short_description": "不朽の名作『クロノ・トリガー』がアップグレードされて登場！ 忘れられた過去へ、はるかなる未来へ、そして時の最果てへ…。 星の命を救うための大冒険が、幕を開ける。",
+        "screenshot_rels": [
+          "/images/games/613830_ss.jpg?v=1779831513",
+          "/images/games/613830_ss2.jpg?v=1779831513",
+          "/images/games/613830_ss3.jpg?v=1779831513",
+          "/images/games/613830_ss4.jpg?v=1779831513"
+        ],
+        "screenshots": [
+          "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613830/ss_b92c46019720da5518bf69492c1f646f9c67dc29.600x338.jpg?t=1775725860",
+          "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613830/ss_fe62096054041c5faf8f8d28b685bcc9bc5cdd77.600x338.jpg?t=1775725860",
+          "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613830/ss_0e2d9f93550aa58ec19e3163d120fa6fa4b88189.600x338.jpg?t=1775725860",
+          "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613830/ss_9f190f88109757e3212aa39ad6df16b57d6deb81.600x338.jpg?t=1775725860",
+          "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613830/ss_3f6ae8e53d1c0e779a863ef3a05c4f5cdafb95a8.600x338.jpg?t=1775725860"
+        ],
+        "screenshots_full": [
+          "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613830/ss_b92c46019720da5518bf69492c1f646f9c67dc29.1920x1080.jpg?t=1775725860",
+          "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613830/ss_fe62096054041c5faf8f8d28b685bcc9bc5cdd77.1920x1080.jpg?t=1775725860",
+          "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613830/ss_0e2d9f93550aa58ec19e3163d120fa6fa4b88189.1920x1080.jpg?t=1775725860",
+          "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613830/ss_9f190f88109757e3212aa39ad6df16b57d6deb81.1920x1080.jpg?t=1775725860",
+          "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613830/ss_3f6ae8e53d1c0e779a863ef3a05c4f5cdafb95a8.1920x1080.jpg?t=1775725860"
+        ],
+        "dedup_verified": true,
+        "header_url": "/images/games/613830_header.jpg?v=1779831510"
+      },
+      "program_description": "今回は SFC 屈指の名作 RPG『クロノ・トリガー』をじっくり深掘り。1995 年 3 月 11 日にスクウェアから発売された、堀井雄二・鳥山明・坂口博信・加藤正人・光田康典という当時のドリームプロジェクトが結集した伝説のタイトル。7 つの時代を行き来するタイムトラベル RPG という設定、アクティブタイムバトル、シンボルエンカウント、仲間との連携技、強くてニューゲーム、複数エンディングといった当時としては野心的な仕組みを丁寧になぞりつつ、光田康典のデビュー作とは思えない楽曲の完成度、ファミ通『平成のゲームベスト100』で堂々の 1 位という偉業まで踏み込む。レトロ担当のつむぎが『あーし、何周しても新しい発見があるっす』とテンション爆発、ずんだは『ボクも時間旅行したいのだ』と興奮しながら、ネタバレ厳禁ラインを慎重に守ってリスナーに『未プレイならいますぐ遊んでほしい』と熱く推すリスペクト回。",
+      "summary_short": ""
+    },
     {
       "episode_id": "20260603_091624",
       "profile": "ai",

@@ -7,8 +7,8 @@
     <description>ずんだもん × めたん × つむぎが届ける、ゲーム &amp; テックニュース雑談ラジオ。朝便と夜便で毎日更新、レトロから新作まで、最新 AI 動向から業界マクロまで雑談形式でサクッと。</description>
     <language>ja</language>
     <copyright>© 2026 tabinomichi</copyright>
-    <lastBuildDate>Wed, 03 Jun 2026 21:23:43 +0900</lastBuildDate>
-    <pubDate>Wed, 03 Jun 2026 09:16:24 +0900</pubDate>
+    <lastBuildDate>Thu, 04 Jun 2026 05:07:27 +0900</lastBuildDate>
+    <pubDate>Wed, 03 Jun 2026 17:18:25 +0900</pubDate>
     <generator>build_rss_feed.py (tabinomichi radio)</generator>
     <image>
       <url>https://news.tabinomichi.jp/podcast-cover.png?v=1779005902</url>
@@ -29,6 +29,36 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>自前AIで殴り合う朝 〜マイクロソフトの反逆と、10分の1になるAIの値段〜</title>
+      <link>https://news.tabinomichi.jp/radio/20260603_171825</link>
+      <guid isPermaLink="false">tabinomichi-radio-20260603_171825</guid>
+      <pubDate>Wed, 03 Jun 2026 17:18:25 +0900</pubDate>
+      <description>旅の道ラジオ朝便、テックニュースの回。今朝はAIまわりで動きの多かった4本をサクッと。1本目はマイクロソフトが自社製AIを7つも一挙発表、初の『考えてから答える』推論AIまで揃えてオープンエーアイ頼みから自前路線へ。2本目はトランプ大統領がサインしたAIの大統領令、強力なAIを公開30日前に政府がチェックする仕組みだけど『お願いベース』で義務じゃない点がミソ。3本目はオープンエーアイのコーデックスがコードを書けない人にも開放、職種別の便利セットで非エンジニア利用が急増中。ラストはエヌビディアが新AIサーバー『ヴェラ・ルビン』を量産開始、AIの計算コストが10分の1になるかも、という財布に効く話。気軽に聴ける回です。</description>
+      <content:encoded><![CDATA[旅の道ラジオ朝便、テックニュースの回。今朝はAIまわりで動きの多かった4本をサクッと。1本目はマイクロソフトが自社製AIを7つも一挙発表、初の『考えてから答える』推論AIまで揃えてオープンエーアイ頼みから自前路線へ。2本目はトランプ大統領がサインしたAIの大統領令、強力なAIを公開30日前に政府がチェックする仕組みだけど『お願いベース』で義務じゃない点がミソ。3本目はオープンエーアイのコーデックスがコードを書けない人にも開放、職種別の便利セットで非エンジニア利用が急増中。ラストはエヌビディアが新AIサーバー『ヴェラ・ルビン』を量産開始、AIの計算コストが10分の1になるかも、という財布に効く話。気軽に聴ける回です。]]></content:encoded>
+      <enclosure url="https://news.tabinomichi.jp/audio/ai/20260603_171825.mp3?v=1780478845" length="5758684" type="audio/mpeg"/>
+      <itunes:title>自前AIで殴り合う朝 〜マイクロソフトの反逆と、10分の1になるAIの値段〜</itunes:title>
+      <itunes:summary>旅の道ラジオ朝便、テックニュースの回。今朝はAIまわりで動きの多かった4本をサクッと。1本目はマイクロソフトが自社製AIを7つも一挙発表、初の『考えてから答える』推論AIまで揃えてオープンエーアイ頼みから自前路線へ。2本目はトランプ大統領がサインしたAIの大統領令、強力なAIを公開30日前に政府がチェックする仕組みだけど『お願いベース』で義務じゃない点がミソ。3本目はオープンエーアイのコーデックスがコードを書けない人にも開放、職種別の便利セットで非エンジニア利用が急増中。ラストはエヌビディアが新AIサーバー『ヴェラ・ルビン』を量産開始、AIの計算コストが10分の1になるかも、という財布に効く話。気軽に聴ける回です。</itunes:summary>
+      <itunes:image href="https://news.tabinomichi.jp/images/og/20260603_171825.jpg"/>
+      <itunes:duration>5:59</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>永遠の扉 〜ドリームプロジェクトが描いた七つの時代〜</title>
+      <link>https://news.tabinomichi.jp/radio/20260603_171137</link>
+      <guid isPermaLink="false">tabinomichi-radio-20260603_171137</guid>
+      <pubDate>Wed, 03 Jun 2026 17:11:37 +0900</pubDate>
+      <description>今回は SFC 屈指の名作 RPG『クロノ・トリガー』をじっくり深掘り。1995 年 3 月 11 日にスクウェアから発売された、堀井雄二・鳥山明・坂口博信・加藤正人・光田康典という当時のドリームプロジェクトが結集した伝説のタイトル。7 つの時代を行き来するタイムトラベル RPG という設定、アクティブタイムバトル、シンボルエンカウント、仲間との連携技、強くてニューゲーム、複数エンディングといった当時としては野心的な仕組みを丁寧になぞりつつ、光田康典のデビュー作とは思えない楽曲の完成度、ファミ通『平成のゲームベスト100』で堂々の 1 位という偉業まで踏み込む。レトロ担当のつむぎが『あーし、何周しても新しい発見があるっす』とテンション爆発、ずんだは『ボクも時間旅行したいのだ』と興奮しながら、ネタバレ厳禁ラインを慎重に守ってリスナーに『未プレイならいますぐ遊んでほしい』と熱く推すリスペクト回。</description>
+      <content:encoded><![CDATA[今回は SFC 屈指の名作 RPG『クロノ・トリガー』をじっくり深掘り。1995 年 3 月 11 日にスクウェアから発売された、堀井雄二・鳥山明・坂口博信・加藤正人・光田康典という当時のドリームプロジェクトが結集した伝説のタイトル。7 つの時代を行き来するタイムトラベル RPG という設定、アクティブタイムバトル、シンボルエンカウント、仲間との連携技、強くてニューゲーム、複数エンディングといった当時としては野心的な仕組みを丁寧になぞりつつ、光田康典のデビュー作とは思えない楽曲の完成度、ファミ通『平成のゲームベスト100』で堂々の 1 位という偉業まで踏み込む。レトロ担当のつむぎが『あーし、何周しても新しい発見があるっす』とテンション爆発、ずんだは『ボクも時間旅行したいのだ』と興奮しながら、ネタバレ厳禁ラインを慎重に守ってリスナーに『未プレイならいますぐ遊んでほしい』と熱く推すリスペクト回。]]></content:encoded>
+      <enclosure url="https://news.tabinomichi.jp/audio/indie/20260603_171137.mp3?v=1780478849" length="4950351" type="audio/mpeg"/>
+      <itunes:title>永遠の扉 〜ドリームプロジェクトが描いた七つの時代〜</itunes:title>
+      <itunes:summary>今回は SFC 屈指の名作 RPG『クロノ・トリガー』をじっくり深掘り。1995 年 3 月 11 日にスクウェアから発売された、堀井雄二・鳥山明・坂口博信・加藤正人・光田康典という当時のドリームプロジェクトが結集した伝説のタイトル。7 つの時代を行き来するタイムトラベル RPG という設定、アクティブタイムバトル、シンボルエンカウント、仲間との連携技、強くてニューゲーム、複数エンディングといった当時としては野心的な仕組みを丁寧になぞりつつ、光田康典のデビュー作とは思えない楽曲の完成度、ファミ通『平成のゲームベスト100』で堂々の 1 位という偉業まで踏み込む。レトロ担当のつむぎが『あーし、何周しても新しい発見があるっす』とテンション爆発、ずんだは『ボクも時間旅行したいのだ』と興奮しながら、ネタバレ厳禁ラインを慎重に守ってリスナーに『未プレイならいますぐ遊んでほしい』と熱く推すリスペクト回。</itunes:summary>
+      <itunes:image href="https://news.tabinomichi.jp/images/og/20260603_171137.jpg"/>
+      <itunes:duration>5:09</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>カネと体と無料の朝 〜AIが世界を呑む5つのニュース〜</title>
       <link>https://news.tabinomichi.jp/radio/20260603_091624</link>
