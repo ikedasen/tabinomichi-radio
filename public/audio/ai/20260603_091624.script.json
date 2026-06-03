@@ -1,0 +1,566 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-06-03T00:16:24.594773+00:00",
+  "title": "カネと体と無料の朝 〜AIが世界を呑む5つのニュース〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便。テックニュースの回、四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝もテックの話、サクッといくのだー!",
+      "news_index": 0,
+      "reading": "ボク、ずんだもんなのだー!けさもテックのはなし、サクッといくのだー!"
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今日はね、AIと業界の話題を5本、軽く流していくわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "5本立て! 通勤のお供にちょうどいいやつなのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ1本目、いきなりお金の話からね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "グーグルの親会社、アルファベットが、外から800億ドル集めるって発表したのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "800億ドル!? 円にすると、いくらなのだ!?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ざっくり11兆円ね。株を新しく売って、外からお金を集める計画なの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "11兆円も集めて、何に使うのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ほぼ全部、AIのインフラよ。データセンター、ようはAIを動かす巨大なサーバー倉庫ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、最近よく聞くやつなのだ! 電気を爆食いする、あの倉庫なのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう、それ。しかも今年の設備投資だけで、1,800億から1,900億ドルを見込んでるって。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "集めた11兆円より、使う額のほうがデカいじゃん!?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "そこ気づくの鋭いわね。要するに、稼ぎだけじゃ足りないから外から借りてくる、ってことよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "へえ。でも、そんな大金、誰が出してくれるのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "面白いのが、その一部、100億ドルをバークシャー・ハサウェイが買うのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ばーくしゃー? それ、どこの会社なのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "投資の神様、ウォーレン・バフェットの会社ね。手堅い投資で有名なあのひと。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "堅実おじいちゃんがAIに賭けた、ってことなのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "象徴的よね。で、これが私たちにどう関わるか。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "もうAIは賢さ競争より、お金と電気の体力勝負になってる。私たちの検索もメールも、その倉庫の上で動いてるってこと。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "ボクが毎日使ってる裏で、11兆円が動いてるとは思わなかったのだ……。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃ、2本目いくわよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "中国のミニマックスって会社が、新しいAI『エムスリー』を出したのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ミニマックス? 聞き慣れない名前なのだ。何がすごいのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "売りはね、オープンウェイトってこと。これが今回のキモよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "おーぷんうぇいと? なんか、窓が開いてる感じの名前なのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "窓じゃないわ。AIの中身、頭脳の設計図をまるごと公開してて、自分のパソコンでも動かせるし、コピーもし放題ってこと。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "タダで配っちゃうの!? 商売、成り立つのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこが中国勢の攻め方なの。しかも、一度に100万トークン読めるのが自慢でね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ひゃくまんとーくん? 量が多いのは分かるけど、ピンと来ないのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "文庫本でいうと、50冊から60冊分を一度にぜんぶ覚えてられる感じね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "60冊! ボク、1冊読み切るのに1ヶ月かかるのに!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "あなたと比べないの。性能も、コードを書く力で有料の最新モデルと互角だって主張してるわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "互角でタダなら、お金取ってるほうは困るのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ご名答。で、これが私たちにどう効くか。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "オープンエーアイみたいな有料勢に『なんでお金取るの』って圧力がかかる。結果、私たちがAIを使う値段は、これからどんどん下がる方向ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "値下がりはありがたいのだ! 安く賢いの、大歓迎なのだー!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃ、3本目。ちょっとヒヤッとする話よ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "メタのAIサポートが悪用されて、有名人のインスタが乗っ取られたの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "乗っ取り!? どうやって突破したのだ!?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "それがね、ハッカーがサポートのAIに『このアカウントの登録メール、変えて』って頼んだだけ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "えっ、頼んだだけ? 本人確認とかは?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "それが、ほぼ無かったのよ。AIが素直に言うこと聞いちゃった。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "AI、人が良すぎるのだ……断ることを知らないのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "これね、ソーシャルエンジニアリングのAI版って言われてる。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "そーしゃる……えんじにありんぐ? また難しいのが出たのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "技術で破るんじゃなくて、口車で人を騙して鍵を開けさせる手口。その相手が、今回はAIだったの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "受付係がAIになった瞬間、口がうまい泥棒に弱くなった、ってことなのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "うまい比喩ね。被害には、オバマ政権時代のホワイトハウス公式アカウントまで含まれてたって。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ホワイトハウス!? 大物まで持ってかれたのだ!?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今はメタが穴を塞いだわ。で、私たちにどう関わるか、ここ大事よ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "AIに権限を持たせるほど、新しい騙し口が生まれる。自衛策は単純、二段階認証だけは絶対つけておくこと。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "ボク、今日帰ったらインスタの設定見直すのだ……。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "えらいわ。じゃ、空気変えて4本目。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "オープンエーアイが、ロボット作りに本腰を入れるって発表したのよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ロボット!? チャットのAIが、急に体を持つのだ!?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。まず作るのは、データセンターとかインフラの建設を手伝うロボットね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "いきなり一家に一台、じゃないのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "それは長期の夢。最終的には『誰もが何でも頼める個人用ロボを持つ世界』を目指してるって。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "それ、ドラえもんなのだー! ボク、ずっと欲しかったやつなのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "気持ちは分かるわ。率いてるのは、アディティア・ラメシュってひと。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "だれなのだ? すごいひとなのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "文字から絵を描くAI、ダリを作ったひとよ。今回のキモは、ハードとソフトを最初から一緒に作ること。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "一緒に作る? 体を先に作って、後から脳みそ入れるんじゃないのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこが新しいの。体とAIを同時設計する、エンボディドAI。要は『体を持ったAI』って考え方ね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、つまりAIが画面の中から、現実に出てくるってことなのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そういうこと。で、私たちにどう関わるか。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "AIの戦場が、ついに物理世界に広がった。ただし、これは数年がかりの話。すぐ家に来るわけじゃないわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "ボクの部屋にロボが来るのは、もうちょっと先か……でも楽しみなのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃ、最後は肩の力を抜いて、ゲームの話で締めるわよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "古代ギリシャ神話の街づくりゲーム、『テオス』が発表されたの。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "街づくり! ボク、コツコツ街を育てるゲーム大好きなのだ!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "これね、昔『ファラオ』っていう名作を蘇らせたトリスケルってスタジオが作ってるの。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "神話で街づくりって、普通の街づくりと何が違うのだ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "7人の神さまの中から1人選んで、その神に捧げる街を作るの。機嫌を取れば恵みがもらえる。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "じゃあ、怒らせたらどうなるのだ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "天罰が降るわよ。神さまのご機嫌うかがいも、街経営の一部ってわけ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "上司のご機嫌取りより大変じゃん!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "言えてる。2000年代の名作、シーザーやゼウスの精神的な後継って位置づけよ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "懐かしの名作の、生まれ変わりってことなのだ。で、いつ遊べるのだ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "パソコン向けで、2026年内の予定。販売はフランスのドットエミュね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "で、これが私たちにどう関わるか。重い話が続いた朝に、こういうほっこり街づくりは、いい息抜きになるってこと。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "昔の街づくりゲーム好きなかたは、要チェックなのだー!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで、今朝のテック朝便は5本立てでした。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "アルファベットの11兆円、ミニマックスの無料AI、メタの乗っ取り事件……。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "オープンエーアイのロボット、そしてギリシャ神話の街づくり、ね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "カネと体と無料、AIが世界を呑み込みにきてる朝だったのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "気になったやつがあったら、あとで調べてみてね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "それじゃ、また明日のテック朝便で会うのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "いってらっしゃい。四国めたんでした。",
+      "news_index": 0
+    }
+  ],
+  "program_description": "旅の道ラジオ朝便、テックニュースの回。今朝はAIと業界の話題を5本軽くまとめてお届け。1本目はグーグルの親会社アルファベットが800億ドル(約11兆円)を集めてAIの巨大倉庫に突っ込む話、バフェットも一枚噛んでた。2本目は中国ミニマックスの新AI「M3」が無料で配られて有料勢に殴り込む話。3本目はメタのAIサポートが口車で騙されて有名人のインスタが乗っ取られた事件、二段階認証の大切さも。4本目はオープンエーアイがロボット作りに本腰、まずは建設用から一家に一台の万能ロボまで。最後はギリシャ神話の街づくりゲーム「テオス」のほっこり話題。通勤通学のお供にどうぞ。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20260603_091624_chars.webp",
+    "hero_rel": "/images/topics/tech_20260603_091624.webp",
+    "title": "カネと体と無料の朝 〜AIが世界を呑む5つのニュース〜",
+    "companies": [
+      "Meta",
+      "OpenAI",
+      "Google"
+    ]
+  },
+  "summary_short": "バフェットも噛んだアルファベット11兆円AI倉庫、無料で市場をかき乱す中国「M3」、MetaのAIが口車に乗せられた有名人インスタ乗っ取り事件、一家に一台を狙うOpenAIのロボット計画——朝のAI5本。"
+}
