@@ -1,6 +1,73 @@
 {
-  "generated_at": "2026-06-04T17:59:05.393792",
+  "generated_at": "2026-06-05T05:06:18.457816",
   "episodes": [
+    {
+      "episode_id": "20260604_180616",
+      "profile": "ai",
+      "title": "手元に降りてくるAIの朝 〜絵も声も動画も、ノートの中で〜",
+      "generated_at": "2026-06-04T18:06:16+09:00",
+      "duration_sec": 402.5,
+      "audio_url": "/audio/ai/20260604_180616.mp3?v=1780603572",
+      "meta_url": "/audio/ai/20260604_180616.meta.json",
+      "script_url": "/audio/ai/20260604_180616.script.json",
+      "audio_size_mb": 6.14,
+      "featured_game": {
+        "image_rel": "/images/topics/tech_20260604_180616_chars.webp?v=1780564532",
+        "hero_rel": "/images/topics/tech_20260604_180616.webp?v=1780564532",
+        "title": "手元に降りてくるAIの朝 〜絵も声も動画も、ノートの中で〜",
+        "companies": [
+          "Google",
+          "OpenAI",
+          "Claude"
+        ],
+        "screenshot_rels": []
+      },
+      "program_description": "旅の道ラジオ朝便、テックニュースの回。今朝はAIの話題を4本、軽く流していくわ。1本目は絵を描くAI『アイデオグラム』の新版が、絵の中の文字までキレイに書けて、しかも手元のパソコンで動かせるオープンウェイトで登場した話。2本目はグーグルの『ジェマ4』が、ごく普通の16ギガのノートパソコンだけで、画像も音声も動画も読めちゃうって話。3本目はグーグル検索のAI要約に『うちのサイトは載せないで』と言える仕組みがイギリスから始まった件。ラストは、AI大手のトップたちが珍しく揃って署名した、生き物の材料を悪用させないための共同書簡の話。通勤・通学のおともにどうぞ。",
+      "summary_short": "絵の中の文字もキレイに出せてローカル動作するAIから、16GBノートでマルチモーダルをこなすGemma 4、AI要約の掲載拒否オプション誕生、バイオ悪用を巡るAI首脳の共同声明まで、今朝の4本をどうぞ。"
+    },
+    {
+      "episode_id": "20260604_175933",
+      "profile": "indie",
+      "title": "魔導と歌の崩壊譚 〜ファイナルファンタジー VI と語り継がれる群像劇〜",
+      "generated_at": "2026-06-04T17:59:33+09:00",
+      "duration_sec": 402.65,
+      "audio_url": "/audio/indie/20260604_175933.mp3?v=1780603577",
+      "meta_url": "/audio/indie/20260604_175933.meta.json",
+      "script_url": "/audio/indie/20260604_175933.script.json",
+      "audio_size_mb": 6.14,
+      "featured_game": {
+        "app_id": null,
+        "igdb_id": 158985,
+        "title": "ファイナルファンタジーVI",
+        "image_rel": "/images/topics/indie_20260604_175933_chars.webp?v=1780603573",
+        "hero_rel": "/images/games/igdb_158985.jpg?v=1779833406",
+        "screenshot_rels": [
+          "/images/games/igdb_158985_ss1.jpg?v=1779833406",
+          "/images/games/igdb_158985_ss2.jpg?v=1779833406",
+          "/images/games/igdb_158985_ss3.jpg?v=1779833407",
+          "/images/games/igdb_158985_ss4.jpg?v=1779833407"
+        ],
+        "developers": [
+          "Tose",
+          "Square Enix Creative Business Unit IV"
+        ],
+        "publishers": [
+          "Square Enix"
+        ],
+        "genres": [
+          "レトロ",
+          "Role-playing (RPG)",
+          "Adventure"
+        ],
+        "release_date": "2022-02-23",
+        "short_description": "The original Final Fantasy VI comes to life with completely new graphics and audio! A remodeled 2D take on the sixth game in the world-renowned Final Fantasy series! Enjoy the timeless story told through charming retro graphics.",
+        "alttitle": "Final Fantasy VI",
+        "price": "11,400円",
+        "dedup_verified": true
+      },
+      "program_description": "今回はスーパーファミコン時代の超大作RPG『ファイナルファンタジー VI』を、ずんだもんとレトロ担当の春日部つむぎが深掘りする回。1994年4月2日にスクウェアから定価11,400円で発売された、シリーズの中でも屈指の物語重視作品。プロデューサーに退いた坂口博信、ディレクターに抜擢された北瀬佳範と伊藤裕之、そして音楽の植松伸夫——次世代スタッフが揃った世代交代の象徴的タイトルでもある。SFC の音源を絞り上げて『歌』をやってのけた伝説のオペラ座シーン、群像劇として組まれた仲間ひとりひとりの主人公級ドラマ、笑顔のまま壊していく異色の悪役ケフカ・パラッツォ、魔法を兵器化した『魔導』世界観、植松神の名曲『仲間を求めて』——核心ネタバレは避けつつ、つむぎがガチのレトロ RPG マニア顔で熱量爆発させる回。ピクセルリマスターで今からでも入門できる作品なので、未プレイのオタクくんはこの機会にぜひ。",
+      "summary_short": ""
+    },
     {
       "episode_id": "20260604_172027",
       "profile": "indie",
