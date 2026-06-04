@@ -1,0 +1,785 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-06-04T17:20:27+09:00",
+  "title": "『ゴーストワイヤー東京』の作り手が独立 〜『ケムリ』3人協力で挑む妖怪狩りの新機軸〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 493.59,
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 6.34
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "intro",
+      "text": "こんばんは、旅の道ラジオ夜便、新作深掘り回。四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 6.34,
+      "end_sec": 11.27
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今夜も気になる新作を一本、じっくり掘り下げていくのだ!",
+      "news_index": 0,
+      "start_sec": 11.42,
+      "end_sec": 17.07
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今夜の主役は『ケムリ』。日本の妖怪を狩る、3人協力プレイのアクションゲームよ。",
+      "news_index": 0,
+      "start_sec": 17.22,
+      "end_sec": 22.74
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "妖怪狩り!? なんだか面白そうな匂いがするのだ! でも、なんで今夜これを選んだのだ?",
+      "news_index": 0,
+      "start_sec": 22.89,
+      "end_sec": 28.86
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "作ってる人が、ただ者じゃないからよ。『ゴーストワイヤー東京』を手がけた中村育美さんの、独立後の初作品なの。",
+      "news_index": 0,
+      "start_sec": 29.01,
+      "end_sec": 36.01
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、あのゴーストワイヤーの人なのだ!? それは聞き捨てならないのだ!",
+      "news_index": 0,
+      "start_sec": 36.16,
+      "end_sec": 40.81
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "そもそも中村育美さんって、どんな人なのだ?",
+      "news_index": 1,
+      "start_sec": 40.89,
+      "end_sec": 44.11
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "もともとタンゴ・ゲームワークスってスタジオで、ホラーゲームのアートを手がけてた人。日本だと『サイコブレイク』で知られるホラーが代表作ね。",
+      "news_index": 1,
+      "start_sec": 44.26,
+      "end_sec": 52.77
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ホラー畑の人なのだ。怖いのを作るのが得意ってことなのだ?",
+      "news_index": 1,
+      "start_sec": 52.92,
+      "end_sec": 57.18
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。そのあと『ゴーストワイヤー東京』っていう、現代の東京で怪異と戦うゲームで、クリエイティブディレクターを務めたの。",
+      "news_index": 1,
+      "start_sec": 57.33,
+      "end_sec": 65.34
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "クリエイティブディレクター……って、なんだかえらそうな響きなのだ。何をする人なのだ?",
+      "news_index": 1,
+      "start_sec": 65.49,
+      "end_sec": 71.1
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "ざっくり言うと、ゲーム全体の雰囲気と方向性を決める総監督みたいな役割よ。世界観の舵取り役、って思えばいいわ。",
+      "news_index": 1,
+      "start_sec": 71.25,
+      "end_sec": 79.85
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "なるほどなのだ! 船でいう船長さんみたいなものなのだ。",
+      "news_index": 1,
+      "start_sec": 80.0,
+      "end_sec": 83.54
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう、その船長さんがね、開発の途中で会社を離れて、自分のスタジオを立ち上げたの。それが東京の独立スタジオ『アンシーン』よ。",
+      "news_index": 1,
+      "start_sec": 83.69,
+      "end_sec": 92.13
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "自分の城を構えたってことなのだ! その記念すべき一作目が、今夜の『ケムリ』なのだ?",
+      "news_index": 1,
+      "start_sec": 92.28,
+      "end_sec": 98.33
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。世界中から作り手が東京に集まって作ってる、っていうのも面白いところね。",
+      "news_index": 1,
+      "start_sec": 98.48,
+      "end_sec": 104.29
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "国際色ゆたかなのだ。でもさ、なんで『妖怪』なのだ? 海外の人も混じってるのに。",
+      "news_index": 1,
+      "start_sec": 104.44,
+      "end_sec": 110.8
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこがむしろ狙いだと思うわ。近年は、怪異や妖怪モチーフをスタイリッシュに扱う作品への注目もあって、『KEMURI』の題材は海外にも届きやすい文脈にある、くらいに見るのがよさそうね。",
+      "news_index": 1,
+      "start_sec": 110.95,
+      "end_sec": 123.17
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "言われてみれば、アニメでも妖怪退治みたいなの流行ってるのだ。波が来てるってことなのだ?",
+      "news_index": 1,
+      "start_sec": 123.32,
+      "end_sec": 129.43
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ええ。だから『妖怪憑依アクション』と『最大3人のオンライン協力』を組み合わせた見せ方は、今のアクションゲームの文脈でも目を引くのよね。",
+      "news_index": 1,
+      "start_sec": 129.58,
+      "end_sec": 138.86
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "えっと、その協力ってソウルライクってやつなのだ? 名前は聞くけど、何なのか正直わかってないのだ。",
+      "news_index": 1,
+      "start_sec": 139.01,
+      "end_sec": 146.04
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ソウルライクっていうのは、何度も倒されながら覚えて、少しずつ攻略する歯ごたえ重視のアクションの総称ね。『KEMURI』はソウルライクと公式に説明されているわけではなくて、発表されているのは妖怪憑依アクション、そして最大3人のオンライン協力プレイね。",
+      "news_index": 1,
+      "start_sec": 146.19,
+      "end_sec": 162.29
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "何度も倒されながら覚える……ボク、すぐ心が折れちゃうタイプなのだ。",
+      "news_index": 1,
+      "start_sec": 162.44,
+      "end_sec": 168.55
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "大丈夫、『ケムリ』はそのガチガチの死にゲーとはちょっと違う方向みたいよ。むしろ『3人の役割分担』で魅せるタイプなの。",
+      "news_index": 1,
+      "start_sec": 168.7,
+      "end_sec": 177.07
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "役割分担! なんだかスポーツみたいな響きなのだ。",
+      "news_index": 1,
+      "start_sec": 177.22,
+      "end_sec": 180.71
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いいところに気づいたわね。そこが本作いちばんの個性だから、本編でたっぷり話しましょ。",
+      "news_index": 1,
+      "start_sec": 180.86,
+      "end_sec": 185.93
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあ本編なのだ! まず『ケムリ』って、どんな世界なのだ?",
+      "news_index": 2,
+      "start_sec": 186.08,
+      "end_sec": 190.5
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "舞台は『ケムリシティ』。生と死の、ちょうど境目にある街っていう設定なの。",
+      "news_index": 2,
+      "start_sec": 190.65,
+      "end_sec": 195.38
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "生と死の境目の街……ゾクッとするけど、ロマンもあるのだ。",
+      "news_index": 2,
+      "start_sec": 195.53,
+      "end_sec": 199.83
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "高層ビルの屋上、裏路地、地下の廃墟……縦にも横にも入り組んだ街を探検するの。そこに妖怪が潜んでる。",
+      "news_index": 2,
+      "start_sec": 199.98,
+      "end_sec": 207.23
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "その妖怪は、どうやって見つけるのだ? 普通に歩いてて見えるのだ?",
+      "news_index": 2,
+      "start_sec": 207.38,
+      "end_sec": 212.05
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ここが洒落てるのよ。指で輪っかを作って覗くと、隠れた妖怪の世界が見える『狐の窓』っていう仕掛けがあるの。",
+      "news_index": 2,
+      "start_sec": 212.2,
+      "end_sec": 219.19
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "指で輪っか!? それ、日本に昔からある『狐の窓』のおまじないなのだ!?",
+      "news_index": 2,
+      "start_sec": 219.34,
+      "end_sec": 224.86
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、その昔ながらの言い伝えを、そのままゲームの主役システムにしてるの。粋でしょ。",
+      "news_index": 2,
+      "start_sec": 225.01,
+      "end_sec": 230.53
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "粋なのだー! 指のジェスチャーで異界が見えるとか、想像しただけでワクワクするのだ。",
+      "news_index": 2,
+      "start_sec": 230.68,
+      "end_sec": 236.57
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、見つけた妖怪は、倒すだけじゃなくて『契約』して仲間にできるの。",
+      "news_index": 2,
+      "start_sec": 236.72,
+      "end_sec": 241.55
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "契約!? 倒した相手と、仲良くなれるってことなのだ?",
+      "news_index": 2,
+      "start_sec": 241.7,
+      "end_sec": 245.67
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "正確には、その妖怪の力を『装い』として身にまとえるの。見た目も戦い方も、ガラッと変わる仕組みよ。",
+      "news_index": 2,
+      "start_sec": 245.82,
+      "end_sec": 252.85
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "力を『着る』のだ……。倒した妖怪のコスチュームに着替えるみたいな感じなのだ?",
+      "news_index": 2,
+      "start_sec": 253.0,
+      "end_sec": 258.33
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "イメージはそれに近いわ。妖怪を倒すほど手札が増えて、戦い方の幅が広がっていくの。",
+      "news_index": 2,
+      "start_sec": 258.48,
+      "end_sec": 264.55
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "集めるほど強くなるやつなのだ! ボク、そういうコレクション要素に弱いのだ。",
+      "news_index": 2,
+      "start_sec": 264.7,
+      "end_sec": 269.51
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "わかるわ。そしてもう一つの目玉が、さっき話した『3人の役割分担』なの。",
+      "news_index": 2,
+      "start_sec": 269.66,
+      "end_sec": 274.6
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "それそれ! 3人で協力するのって、ただ一緒に殴るのとは違うのだ?",
+      "news_index": 2,
+      "start_sec": 274.75,
+      "end_sec": 279.74
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "全然違うの。『発見役』『誘導役』『止め役』の3つに分かれるのよ。",
+      "news_index": 2,
+      "start_sec": 279.89,
+      "end_sec": 284.9
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、3人とも別々の仕事を持ってるのだ!? サッカーのポジションみたいなものなのだ?",
+      "news_index": 2,
+      "start_sec": 285.05,
+      "end_sec": 291.09
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "まさにそう、1人が見つけ、1人が導き、最後の1人が一撃を入れる。そんな役割のある連携が紹介されているの。",
+      "news_index": 2,
+      "start_sec": 291.24,
+      "end_sec": 299.05
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "それ、全員の息が合わないと失敗するやつなのだ……緊張感がすごそうなのだ。",
+      "news_index": 2,
+      "start_sec": 299.2,
+      "end_sec": 306.08
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこが狙いなのよ。公式には、協力プレイでは『ひとりが見つけ、ひとりが導き、ひとりが最後の一撃を入れる』という連携が紹介されているわ。",
+      "news_index": 2,
+      "start_sec": 306.23,
+      "end_sec": 315.25
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "みんなでワイワイ殴るんじゃなくて、手順を踏んで仕留める感じなのだ。",
+      "news_index": 2,
+      "start_sec": 315.4,
+      "end_sec": 319.75
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "しかも面白いのが、同じ街にいても、プレイヤーごとに見えてる景色が少し違うらしいの。",
+      "news_index": 2,
+      "start_sec": 319.9,
+      "end_sec": 325.37
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "見えてる景色が違う!? それじゃ『そこに妖怪いるって!』『えっ、どこ?』ってなっちゃうのだ!",
+      "news_index": 2,
+      "start_sec": 325.52,
+      "end_sec": 331.92
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そうそう、だから声をかけ合って共有しなきゃいけない。そのやり取り自体が遊びになってるのね。",
+      "news_index": 2,
+      "start_sec": 332.07,
+      "end_sec": 337.39
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でもさ、ちょっと心配もあるのだ。3人いないと遊べないのだ?",
+      "news_index": 2,
+      "start_sec": 337.54,
+      "end_sec": 341.91
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "安心して、1人でも遊べるみたいよ。ただ、1人でも、最大3人のオンライン協力でも遊べる設計として紹介されているわ。",
+      "news_index": 2,
+      "start_sec": 342.06,
+      "end_sec": 350.51
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ソロだと、ちょっと寂しいかもなのだ。あと……発売っていつなのだ?",
+      "news_index": 2,
+      "start_sec": 350.66,
+      "end_sec": 355.27
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこが目下いちばんの『待ち』ポイント。発売は2027年の予定で、まだ少し先なの。",
+      "news_index": 2,
+      "start_sec": 355.42,
+      "end_sec": 361.64
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "2027年!? 気が遠くなるくらい先なのだ……今すぐ遊びたいのに。",
+      "news_index": 2,
+      "start_sec": 361.79,
+      "end_sec": 369.12
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "対応はプレイステーション5。PlayStation公式ではPS5向けと案内されている一方、Gematsuなどは開発元発表としてPS5／PC向けに2027年発売と報じているわ。媒体によって表記が分かれる点は注記しておきたいところね。",
+      "news_index": 2,
+      "start_sec": 369.27,
+      "end_sec": 385.1
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあ総まとめなのだ! この『ケムリ』、ジャンル的にはどういう立ち位置なのだ?",
+      "news_index": 3,
+      "start_sec": 385.25,
+      "end_sec": 390.14
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今って『仲間と強敵に挑むアクション』がたくさんあるけど、多くは火力を持ち寄って殴る形なの。",
+      "news_index": 3,
+      "start_sec": 390.29,
+      "end_sec": 396.52
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "うんうん、みんなで一斉にボコるやつなのだ。",
+      "news_index": 3,
+      "start_sec": 396.67,
+      "end_sec": 399.98
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "『ケムリ』はそこに『役割分担』と『儀式的な段取り』を持ち込んだ。協力プレイの新しい味付けに挑んでるのよ。",
+      "news_index": 3,
+      "start_sec": 400.13,
+      "end_sec": 407.4
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "なるほどなのだ。じゃあこれ、どんな人に刺さるのだ?",
+      "news_index": 3,
+      "start_sec": 407.55,
+      "end_sec": 411.03
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "フレンドと声をかけ合って連携する遊びが好きな人には、ど真ん中ね。役割を担う緊張感を楽しめる人。",
+      "news_index": 3,
+      "start_sec": 411.18,
+      "end_sec": 418.08
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "逆に、合わない人もいるのだ?",
+      "news_index": 3,
+      "start_sec": 418.23,
+      "end_sec": 420.56
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "連携や役割のある協力プレイに強く惹かれる人ほど注目しやすいけれど、シングルプレイにも対応しているから、ソロ体験の詳しい手触りは続報待ちね。",
+      "news_index": 3,
+      "start_sec": 420.71,
+      "end_sec": 430.62
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "あと、ビジュアルとか世界観で惹かれる人はどうなのだ?",
+      "news_index": 3,
+      "start_sec": 430.77,
+      "end_sec": 434.43
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そこは大本命よ。アートの人が率いてるだけあって、見た目の格好よさと和風の雰囲気は飛び抜けてるから。",
+      "news_index": 3,
+      "start_sec": 434.58,
+      "end_sec": 441.51
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "雰囲気だけでも浴びる価値ありなのだ! で、今は『買い時』なのだ?",
+      "news_index": 3,
+      "start_sec": 441.66,
+      "end_sec": 446.49
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "発売が2027年の予定だから、今は『気にしておく』段階ね。続報を追いながら、楽しみに待つのがちょうどいいわ。",
+      "news_index": 3,
+      "start_sec": 446.64,
+      "end_sec": 454.4
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "要するに、今夜から気になるリストに入れて、ニヤニヤ待つのが正解ってことなのだ!",
+      "news_index": 3,
+      "start_sec": 454.55,
+      "end_sec": 459.79
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いい締めね。期待しすぎず、でも楽しみにしておく。それくらいの距離感がちょうどいいわ。",
+      "news_index": 3,
+      "start_sec": 459.94,
+      "end_sec": 464.95
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "さて、今夜の深掘りはここまで。妖怪狩りの新作『ケムリ』を紹介したわ。",
+      "news_index": 0,
+      "start_sec": 465.03,
+      "end_sec": 470.28
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "狐の窓で異界を覗いて、3人で妖怪を狩る……ボク、2027年が待ち遠しくなったのだ!",
+      "news_index": 0,
+      "start_sec": 470.43,
+      "end_sec": 477.91
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "気になったかたは、ぜひチェックしてみてね。続報が出たら、また夜便で取り上げるかも。",
+      "news_index": 0,
+      "start_sec": 478.06,
+      "end_sec": 483.23
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "それじゃ、今夜はこのへんで。おやすみなさいなのだー!",
+      "news_index": 0,
+      "start_sec": 483.38,
+      "end_sec": 486.85
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 487.55,
+      "end_sec": 493.59
+    }
+  ],
+  "wall_time_sec": 13.19,
+  "audio_url": "/audio/indie/20260604_172027.mp3?v=1780563544"
+}
