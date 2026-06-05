@@ -1,0 +1,605 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-06-05T17:54:39+09:00",
+  "title": "ヴァレリア島の運命 〜重き選択の戦記、再び〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 280.94,
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 6.34
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "旅の道ラジオへようこそなのだ。パーソナリティのずんだもんなのだー!",
+      "news_index": 0,
+      "start_sec": 6.34,
+      "end_sec": 10.48
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "intro",
+      "text": "春日部つむぎっす! オタクくん、あーしらとレトロタイムするっすよ!",
+      "news_index": 0,
+      "start_sec": 10.63,
+      "end_sec": 14.54
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "今回のテーマは『タクティクスオウガ』っす! あーしガチで震えてるっすよ",
+      "news_index": 0,
+      "start_sec": 14.62,
+      "end_sec": 19.18
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "震えてるって、エアコン効きすぎなのだ?",
+      "news_index": 1,
+      "start_sec": 19.33,
+      "end_sec": 22.04
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "感動で震えてるっす先輩! 室温関係ないっす",
+      "news_index": 1,
+      "start_sec": 22.19,
+      "end_sec": 25.54
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "原作は1995年のスーパーファミコン、開発は当時のクエストっす。今回深掘るのは2010年に PSP でリメイクされた『運命の輪』っすよ",
+      "news_index": 1,
+      "start_sec": 25.62,
+      "end_sec": 35.67
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "運命の輪? それって占いの回なのだ?",
+      "news_index": 1,
+      "start_sec": 35.82,
+      "end_sec": 38.94
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "占い違うっす先輩 w 戦記モノっす。タロットの女神フォルトナの輪が元ネタっすね",
+      "news_index": 1,
+      "start_sec": 39.09,
+      "end_sec": 43.99
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "つまり戦記モノに化けたタロットなのだ。ボクの占い師デビュー幻なのだ",
+      "news_index": 1,
+      "start_sec": 44.14,
+      "end_sec": 50.21
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ディレクターとシナリオは松野泰己さんっす。原作からの主要スタッフが再集結したリメイクっす",
+      "news_index": 1,
+      "start_sec": 50.36,
+      "end_sec": 56.0
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "再集結って、もう同窓会の延長戦なのだ?",
+      "news_index": 1,
+      "start_sec": 56.15,
+      "end_sec": 59.65
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "同窓会じゃなくてガチ本気のリメイクっす! 気合の現場っすよ",
+      "news_index": 1,
+      "start_sec": 59.8,
+      "end_sec": 63.7
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "音楽は崎元仁さんと岩田匡治さんの神コンビ、キャラデザは吉田明彦さんっす",
+      "news_index": 1,
+      "start_sec": 63.78,
+      "end_sec": 69.14
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "崎元仁って、ファイナルファンタジータクティクスの人なのだ?",
+      "news_index": 1,
+      "start_sec": 69.29,
+      "end_sec": 73.27
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そっす先輩! オーケストラ調 BGM の代名詞のレジェンドっすよ",
+      "news_index": 1,
+      "start_sec": 73.42,
+      "end_sec": 77.53
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "つまりリメイクは旧スタッフ + 神 BGM の完全体なのだー",
+      "news_index": 1,
+      "start_sec": 77.68,
+      "end_sec": 82.57
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "舞台はヴァレリア島っていう多民族の島っす。中世風ファンタジー世界っすね",
+      "news_index": 1,
+      "start_sec": 82.72,
+      "end_sec": 87.49
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "多民族の島……つまりごちゃまぜパーティー会場なのだ?",
+      "news_index": 1,
+      "start_sec": 87.64,
+      "end_sec": 91.29
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "パーティーじゃないっす、民族間戦争と政治の駆け引きが軸っす。重めっすよ",
+      "news_index": 1,
+      "start_sec": 91.44,
+      "end_sec": 96.34
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "ボクみたいなフワフワ系には荷が重いのだ……",
+      "news_index": 1,
+      "start_sec": 96.49,
+      "end_sec": 99.97
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "大丈夫っす先輩、SRPG として超丁寧に作られてるっす。1995年の SFC でこの題材出したのが衝撃だったっす",
+      "news_index": 1,
+      "start_sec": 100.12,
+      "end_sec": 108.95
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "そんな重い話、選択肢なしで進めたら胃が破れるのだ",
+      "news_index": 1,
+      "start_sec": 109.1,
+      "end_sec": 113.1
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そこっす。ロウ・カオス・ニュートラルの 3 ルート、選択で仲間も話も全部変わるっす",
+      "news_index": 1,
+      "start_sec": 113.25,
+      "end_sec": 119.38
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "つまり 1 本のソフトで 3 つの物語、お得セットなのだー",
+      "news_index": 1,
+      "start_sec": 119.53,
+      "end_sec": 124.1
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "お得すぎるっす。1 周 50時間から60時間かかるのに何周もするっすよ",
+      "news_index": 1,
+      "start_sec": 124.25,
+      "end_sec": 129.19
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "60時間 × 3 ルート……それもうゲームじゃなくて修行なのだ?",
+      "news_index": 1,
+      "start_sec": 129.34,
+      "end_sec": 134.85
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kangae",
+      "text": "やり込み入れたら300時間っす。修行半分、趣味半分っすね",
+      "news_index": 1,
+      "start_sec": 135.0,
+      "end_sec": 139.4
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "つまり総プレイ時間で人生の単位が変わるのだ……",
+      "news_index": 1,
+      "start_sec": 139.55,
+      "end_sec": 143.63
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そこで PSP リメイクで革命的な新システムが入ったっす。チャリオットっていう機能っす",
+      "news_index": 1,
+      "start_sec": 143.78,
+      "end_sec": 149.24
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "チャリオットって、馬車で逃げるシステムなのだ?",
+      "news_index": 1,
+      "start_sec": 149.39,
+      "end_sec": 152.34
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "馬車違うっす w 直近50手分の行動を巻き戻せる神機能っす",
+      "news_index": 1,
+      "start_sec": 152.49,
+      "end_sec": 156.44
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "50手分!? もはやセーブじゃなくて時間遡行装置なのだ",
+      "news_index": 1,
+      "start_sec": 156.59,
+      "end_sec": 160.52
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "ガチで時間遡行っす w 公式機能なんで使い倒して OK っす",
+      "news_index": 1,
+      "start_sec": 160.67,
+      "end_sec": 164.35
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "つむぎはガチ勢っぽいから、巻き戻し使わなさそうなのだ",
+      "news_index": 1,
+      "start_sec": 164.5,
+      "end_sec": 168.45
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "使うっすよ先輩! 公式機能なんで使い倒すっす",
+      "news_index": 1,
+      "start_sec": 168.6,
+      "end_sec": 171.98
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "公式の温情を全力で受け取るスタイル、潔いのだ",
+      "news_index": 1,
+      "start_sec": 172.13,
+      "end_sec": 175.91
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "もうひとつワールドってシステムもあって、これは物語のアンカーポイントに戻って別ルートを試せるっす",
+      "news_index": 1,
+      "start_sec": 176.06,
+      "end_sec": 181.87
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "戦闘がチャリオット、人生がワールド……時間軸が二重に歪んでるのだ",
+      "news_index": 1,
+      "start_sec": 182.02,
+      "end_sec": 188.43
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "二重時間遡行っす w ヴァレリアの歴史ごと書き換えるゲームっすね",
+      "news_index": 1,
+      "start_sec": 188.58,
+      "end_sec": 192.08
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "英語版も丸ごと再翻訳されてて、副題が原作と同じ『Let Us Cling Together』のまま残ったっす",
+      "news_index": 1,
+      "start_sec": 192.16,
+      "end_sec": 198.93
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "それってクイーンの曲のタイトルって聞いたのだ?",
+      "news_index": 1,
+      "start_sec": 199.08,
+      "end_sec": 202.03
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そっす先輩! クイーンの『Teo Torriatte (手をとりあって)』の英題っす! 松野さんがクイーンファンっす",
+      "news_index": 1,
+      "start_sec": 202.18,
+      "end_sec": 208.62
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "つまり戦記モノにロック魂が混ざってるのだー",
+      "news_index": 1,
+      "start_sec": 208.77,
+      "end_sec": 212.28
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "あと PSP リメイクでキャラの死亡が緩和されたっす。原作の永久ロストが、PSP は 3 ターン蘇生猶予に進化したっす",
+      "news_index": 1,
+      "start_sec": 212.43,
+      "end_sec": 220.26
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "永久ロストって、もう RPG じゃなくて葬式なのだ",
+      "news_index": 1,
+      "start_sec": 220.41,
+      "end_sec": 225.28
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "葬式 RPG が救急 RPG になったっす w リメイクは優しくて、初心者でも遊びやすいっす",
+      "news_index": 1,
+      "start_sec": 225.43,
+      "end_sec": 231.46
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "要するにリメイク版は重厚な戦記を初心者にも開いた決定版なのだー",
+      "news_index": 1,
+      "start_sec": 231.61,
+      "end_sec": 236.62
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "まさにそれっす! 初めての人にはリメイクが最適な入り口っす",
+      "news_index": 1,
+      "start_sec": 236.77,
+      "end_sec": 240.7
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "それでつむぎ、これ実機で何周してるのだ?",
+      "news_index": 1,
+      "start_sec": 240.85,
+      "end_sec": 243.86
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "あーし PSP 実機で 5 周してるっす! 全ルート + やり込み 2 周っす",
+      "news_index": 1,
+      "start_sec": 244.01,
+      "end_sec": 248.52
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "5 周って、もう趣味じゃなくて職務経歴書に書けるレベルなのだ",
+      "news_index": 1,
+      "start_sec": 248.67,
+      "end_sec": 253.01
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "ギャル友達には絶対言えない経歴っすけどね",
+      "news_index": 1,
+      "start_sec": 253.16,
+      "end_sec": 256.13
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "でもオタクくんたちにはバレてるのだー",
+      "news_index": 1,
+      "start_sec": 256.28,
+      "end_sec": 258.84
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "それな w オタクくん仲間っすよね",
+      "news_index": 1,
+      "start_sec": 258.99,
+      "end_sec": 260.86
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "それじゃ、今回の話はここまでなのだ",
+      "news_index": 1,
+      "start_sec": 261.01,
+      "end_sec": 263.75
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "気になったオタクくんは PSP 版や今のリマスター版でぜひっす",
+      "news_index": 1,
+      "start_sec": 263.9,
+      "end_sec": 267.71
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "また次の道ラジオで会いましょうなのだー",
+      "news_index": 1,
+      "start_sec": 267.86,
+      "end_sec": 270.46
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "会いましょうっす! ばいばいっす!",
+      "news_index": 1,
+      "start_sec": 270.61,
+      "end_sec": 272.54
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 273.24,
+      "end_sec": 280.94
+    }
+  ],
+  "wall_time_sec": 9.78,
+  "audio_url": "/audio/indie/20260605_175439.mp3?v=1780690186"
+}
