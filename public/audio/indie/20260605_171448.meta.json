@@ -1,0 +1,825 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-06-05T17:14:48+09:00",
+  "title": "90年代ホラーゲームの金字塔が現代に蘇る 〜『The 7th Guest Remake』33年越しの幽霊屋敷パズル〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 471.15,
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 9.59
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "intro",
+      "text": "こんばんは、旅の道ラジオ夜便、新作深掘り回。四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 9.59,
+      "end_sec": 14.24
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今夜も気になる新作を1本、じっくり掘り下げるのだ!",
+      "news_index": 0,
+      "start_sec": 14.39,
+      "end_sec": 19.84
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今夜の主役はちょっと渋いわよ。昨日6月4日に発売されたばかりの、セブンス・ゲストのリメイク版なの。",
+      "news_index": 0,
+      "start_sec": 19.99,
+      "end_sec": 26.59
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "新作なのに渋い? 昨日出たばっかりなのに、もう年季が入ってるのだ?",
+      "news_index": 0,
+      "start_sec": 26.74,
+      "end_sec": 31.63
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "気持ちはわかるけど、新品の古民家みたいなものよ。元になったのは1993年の作品なの。",
+      "news_index": 0,
+      "start_sec": 31.78,
+      "end_sec": 38.12
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "1993年!? ボクがまだ枝豆としてずんだの里で揺れてた頃の話なのだ!",
+      "news_index": 0,
+      "start_sec": 38.27,
+      "end_sec": 44.4
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "つまり、ゲーム史に名を刻んだ伝説を、33年越しに作り直した一本ってこと。",
+      "news_index": 0,
+      "start_sec": 44.55,
+      "end_sec": 50.22
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "まず背景から行くわね。この作品を語るには、エフエムブイって言葉を避けて通れないの。",
+      "news_index": 1,
+      "start_sec": 50.3,
+      "end_sec": 55.75
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "えふえむぶい? FMラジオの仲間か何かなのだ?",
+      "news_index": 1,
+      "start_sec": 55.9,
+      "end_sec": 59.66
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "ラジオは関係ないわ。フルモーション・ビデオの略、実写の映像をそのままゲームに使う作り方のことよ。",
+      "news_index": 1,
+      "start_sec": 59.81,
+      "end_sec": 66.09
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "実写!? アニメの絵じゃなくて、ほんとの役者さんが画面で動くってことなのだ?",
+      "news_index": 1,
+      "start_sec": 66.24,
+      "end_sec": 71.4
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。今でこそ当たり前に見えるけど、90年代の初め頃はこれが革命だったの。",
+      "news_index": 1,
+      "start_sec": 71.55,
+      "end_sec": 77.04
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも実写なんて映画じゃ普通だったのだ。なんでゲームだと革命になるのだ?",
+      "news_index": 1,
+      "start_sec": 77.19,
+      "end_sec": 82.13
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "容量の問題よ。映像データって重いから、当時の記録メディアには到底入りきらなかったの。",
+      "news_index": 1,
+      "start_sec": 82.28,
+      "end_sec": 88.13
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "あー、昔のペラペラの記録ディスクなのだ。確かにあれに動画は無理そうなのだ。",
+      "news_index": 1,
+      "start_sec": 88.28,
+      "end_sec": 93.8
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこで登場したのがシーディーロム。それまでの何百倍ものデータを詰め込める新しいメディアだったの。",
+      "news_index": 1,
+      "start_sec": 93.95,
+      "end_sec": 99.77
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあこの作品は、そのシーディーロムをちょっと借りて使った程度なのだ?",
+      "news_index": 1,
+      "start_sec": 99.92,
+      "end_sec": 104.55
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ちょっとどころか、シーディーロムを読む機械そのものを売りまくった立役者なのよ。",
+      "news_index": 1,
+      "start_sec": 104.7,
+      "end_sec": 108.98
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ゲームが機械を売った!? 普通は機械があってゲームを買うのだ、逆なのだ!",
+      "news_index": 1,
+      "start_sec": 109.13,
+      "end_sec": 114.24
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それがね、これがやりたいから機械を買うって人が続出したの。ミストってパズルゲームと並んでね。",
+      "news_index": 1,
+      "start_sec": 114.39,
+      "end_sec": 120.12
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "ソフトのためにハードを買わせる、まさにキラーソフトなのだ!",
+      "news_index": 1,
+      "start_sec": 120.27,
+      "end_sec": 123.95
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "売上は全世界で200万本以上。あのビル・ゲイツが、双方向エンタメの新基準だって絶賛したくらいなの。",
+      "news_index": 1,
+      "start_sec": 124.1,
+      "end_sec": 130.9
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "パソコンの神様が名指しで褒めるって、相当な事件だったのだ。",
+      "news_index": 1,
+      "start_sec": 131.05,
+      "end_sec": 135.51
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "作ったのはトライロバイトっていう小さなスタジオ。たった2人の発案から始まったのよ。",
+      "news_index": 1,
+      "start_sec": 135.66,
+      "end_sec": 140.83
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "2人? じゃあ社員も2人で、お昼休みは交代でお留守番なのだ?",
+      "news_index": 1,
+      "start_sec": 140.98,
+      "end_sec": 145.87
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そこまで言ってないわ。でも要は、その小さな発案が業界をひっくり返したってこと。",
+      "news_index": 1,
+      "start_sec": 146.02,
+      "end_sec": 151.59
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "そんな小さなチームで、お金のほうは足りたのだ?",
+      "news_index": 1,
+      "start_sec": 151.74,
+      "end_sec": 155.13
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "グラフィックだけで2年と50万ドル以上。当時としては破格の投資作だったの。",
+      "news_index": 1,
+      "start_sec": 155.28,
+      "end_sec": 159.9
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "つまり、小さなチームの執念が大資本級のものを生んだ伝説、それが原典なのだ。",
+      "news_index": 1,
+      "start_sec": 160.05,
+      "end_sec": 166.2
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "うまくまとめたわね。要するに、ゲームがここまで凄くなれるのかを世界に見せつけた一本なの。",
+      "news_index": 1,
+      "start_sec": 166.35,
+      "end_sec": 172.37
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "さあ、ここからが本題。その伝説を2026年に蘇らせたのが、今回のリメイクよ。",
+      "news_index": 2,
+      "start_sec": 172.45,
+      "end_sec": 178.52
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "作り直したのはどこのスタジオなのだ? また2人組だったりするのだ?",
+      "news_index": 2,
+      "start_sec": 178.67,
+      "end_sec": 183.44
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今回はエクスキーってスタジオが開発して、ヴァーティゴ・ゲームズが世に出してるの。",
+      "news_index": 2,
+      "start_sec": 183.59,
+      "end_sec": 188.33
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "で、リメイクって、ちょっと絵を綺麗にしただけじゃないのだ?",
+      "news_index": 2,
+      "start_sec": 188.48,
+      "end_sec": 192.27
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "そこ大事なとこ。これはリマスターじゃなくてリメイク、中身を一から作り直してるのよ。",
+      "news_index": 2,
+      "start_sec": 192.42,
+      "end_sec": 197.58
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "リマスターとリメイク、何がどう違うのだ? ボク、いつも混乱するのだ。",
+      "news_index": 2,
+      "start_sec": 197.73,
+      "end_sec": 202.73
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "リマスターは元の絵を磨き直す程度。リメイクは屋敷も役者の演技も丸ごと撮り直す、別物レベルの作り替えよ。",
+      "news_index": 2,
+      "start_sec": 202.88,
+      "end_sec": 210.52
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "お化粧直しじゃなくて、更地からの建て直しなのだ!",
+      "news_index": 2,
+      "start_sec": 210.67,
+      "end_sec": 214.01
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いい例えね。しかも目玉の技術がすごいの、ボリュメトリックビデオっていう撮り方を使ってるのよ。",
+      "news_index": 2,
+      "start_sec": 214.16,
+      "end_sec": 219.66
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "ぼりゅ、めとりっく? もう舌が回らないのだ。何なのだそれは!",
+      "news_index": 2,
+      "start_sec": 219.81,
+      "end_sec": 225.45
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "役者さんをぐるっと囲んだ大量のカメラで、全方向から同時に撮るの。それを立体のデータに変換するのよ。",
+      "news_index": 2,
+      "start_sec": 225.6,
+      "end_sec": 232.47
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "全方向から? それって、役者さんを立体のフィギュアみたいに丸ごと取り込むってことなのだ?",
+      "news_index": 2,
+      "start_sec": 232.62,
+      "end_sec": 238.81
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "まさにそう。だから役者が屋敷の中で立体として存在して、横からも後ろからも見られるの。",
+      "news_index": 2,
+      "start_sec": 238.96,
+      "end_sec": 245.11
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "昔は平べったい映像が壁に貼ってあるだけだったのに、今度は本当にそこに居るのだ!",
+      "news_index": 2,
+      "start_sec": 245.26,
+      "end_sec": 251.23
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこが一番の進化ポイント。幽霊屋敷の不気味さが、立体になったぶん桁違いってわけ。",
+      "news_index": 2,
+      "start_sec": 251.38,
+      "end_sec": 256.94
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "その舞台になる幽霊屋敷って、どんなところなのだ?",
+      "news_index": 2,
+      "start_sec": 257.09,
+      "end_sec": 260.76
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "スタウフ邸っていう呪われた洋館よ。謎めいた主人に招かれた客たちの失踪を、パズルを解きながら追っていくの。",
+      "news_index": 2,
+      "start_sec": 260.91,
+      "end_sec": 267.8
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "ホラーなのにパズル? 怖いのと頭を使うの、両方いっぺんに来るのだ?",
+      "news_index": 2,
+      "start_sec": 267.95,
+      "end_sec": 272.84
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "部屋ごとの謎を解くと次の部屋の鍵が開く構造でね。一晩かけて屋敷を巡っていくのよ。",
+      "news_index": 2,
+      "start_sec": 272.99,
+      "end_sec": 278.53
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "そのパズルも昔のまんまなのだ? それとも作り変えたのだ?",
+      "news_index": 2,
+      "start_sec": 278.68,
+      "end_sec": 282.82
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今回はパズルも設計し直してるの。しかも一つ一つが、屋敷の物語にちゃんと紐づいてるらしいわ。",
+      "news_index": 2,
+      "start_sec": 282.97,
+      "end_sec": 289.33
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "ただの頭の体操じゃなくて、解くたびに物語が見えてくるのだ。それは気が利いてるのだ。",
+      "news_index": 2,
+      "start_sec": 289.48,
+      "end_sec": 295.21
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "VR版の海外レビューは上々でね。今回のリメイク版そのものは、発売直後でまだ評価が出そろっていないわ。もう一問だけって、つい夜更かししちゃう中毒性があるって評判なの。",
+      "news_index": 2,
+      "start_sec": 295.36,
+      "end_sec": 306.78
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "あー、その後1問がいちばん危険なやつなのだ。気づいたら朝なのだ!",
+      "news_index": 2,
+      "start_sec": 306.93,
+      "end_sec": 311.81
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ただね、いいことばかりじゃないわ。不安な要素もちゃんと伝えておくわね。",
+      "news_index": 2,
+      "start_sec": 311.96,
+      "end_sec": 316.48
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "おっ、正直なのだ。どんなとこが引っかかるのだ?",
+      "news_index": 2,
+      "start_sec": 316.63,
+      "end_sec": 320.11
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "テンポがゆっくりめなの。サクサク動いて爽快、ってタイプじゃないから人を選ぶわ。",
+      "news_index": 2,
+      "start_sec": 320.26,
+      "end_sec": 325.23
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "じゃあ逆に、ゆっくり進むぶん操作はバッチリ快適なのだ?",
+      "news_index": 2,
+      "start_sec": 325.38,
+      "end_sec": 329.39
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "それが、操作も一部もたつくって声があるの。家具を動かすパズルが特に面倒くさいらしいわ。",
+      "news_index": 2,
+      "start_sec": 329.54,
+      "end_sec": 335.27
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "うっ、ボクせっかちだから、家具のお片付けパズルで投げ出しそうなのだ。",
+      "news_index": 2,
+      "start_sec": 335.42,
+      "end_sec": 342.19
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そこは好みが分かれるところね。でも、雰囲気と謎解きの満足度は折り紙付きよ。",
+      "news_index": 2,
+      "start_sec": 342.34,
+      "end_sec": 347.76
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ総括ね。価格は19.99ドルで、パソコンにプレイステーション5、エックスボックスで遊べるわ。",
+      "news_index": 3,
+      "start_sec": 347.84,
+      "end_sec": 354.62
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "おっ、お手頃なのだ! スイッチでは出ないのだ?",
+      "news_index": 3,
+      "start_sec": 354.77,
+      "end_sec": 358.03
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "スイッチとスイッチ2の版は、今年のうちに後から来る予定よ。携帯機で遊びたい人はちょっと待ちね。",
+      "news_index": 3,
+      "start_sec": 358.18,
+      "end_sec": 364.37
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、これは結局どんな人に刺さるのだ?",
+      "news_index": 3,
+      "start_sec": 364.52,
+      "end_sec": 367.68
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じっくり謎解きが好きで、雰囲気重視のホラーを味わいたい人にはド真ん中。ミスト系が好きなら間違いないわ。",
+      "news_index": 3,
+      "start_sec": 367.83,
+      "end_sec": 374.54
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "逆に、合わないのはどんな人なのだ?",
+      "news_index": 3,
+      "start_sec": 374.69,
+      "end_sec": 377.39
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "派手なアクションや、サクサク進む爽快感を求める人には正直まどろっこしいと思う。そこは別ジャンルの方が幸せね。",
+      "news_index": 3,
+      "start_sec": 377.54,
+      "end_sec": 385.01
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "なるほどなのだ。買い時は今なのだ? それとも様子見なのだ?",
+      "news_index": 3,
+      "start_sec": 385.16,
+      "end_sec": 389.44
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "20ドル弱で20ドル弱で手を出しやすいけど、リメイク版の評価はまだ出そろってないから、レビュー待ちでもいいと思う。ブイアール版とのおまけ交換もあるしね。",
+      "news_index": 3,
+      "start_sec": 389.59,
+      "end_sec": 399.27
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "おまけ交換? 屋敷でお歳暮でも配ってるのだ?",
+      "news_index": 3,
+      "start_sec": 399.42,
+      "end_sec": 402.93
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "お歳暮じゃないわ。PlayStation VR2版かPC版の『The 7th Guest VR』を持っている人は、対応するリメイク版を追加料金なしでもらえるの。逆に、PS5版かPC版のリメイク購入者もVR版にアクセスできるわ。",
+      "news_index": 3,
+      "start_sec": 403.08,
+      "end_sec": 419.47
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "太っ腹なのだ! それにしても、30年以上前のゲームが今こうして蘇るって、なんか胸が熱いのだ。",
+      "news_index": 3,
+      "start_sec": 419.62,
+      "end_sec": 427.11
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "古い名作を今の技術で甦らせる動きは、最近の業界の確かな流れ。ホラーパズルってジャンルの再評価にも繋がりそうね。",
+      "news_index": 3,
+      "start_sec": 427.26,
+      "end_sec": 435.59
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "要するに、懐かしの伝説が、今の世代の入り口にもなるってことなのだ?",
+      "news_index": 3,
+      "start_sec": 435.74,
+      "end_sec": 440.93
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そうまとめてくれると嬉しいわ。昔を知る人にも、知らない人にも開かれた一本ってこと。",
+      "news_index": 3,
+      "start_sec": 441.08,
+      "end_sec": 446.32
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで今夜は、セブンス・ゲストのリメイクをじっくり掘り下げてみたわ。",
+      "news_index": 0,
+      "start_sec": 446.4,
+      "end_sec": 450.62
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "幽霊屋敷で謎解き、気になった人はチェックしてみてほしいのだ!",
+      "news_index": 0,
+      "start_sec": 450.77,
+      "end_sec": 454.9
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "また注目の新作があれば、夜便で深く語っていくわね。",
+      "news_index": 0,
+      "start_sec": 455.05,
+      "end_sec": 458.82
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "それじゃあ、おやすみなさいなのだ。良い夢を見るのだ、屋敷の夢じゃないといいのだ!",
+      "news_index": 0,
+      "start_sec": 458.97,
+      "end_sec": 464.42
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 465.12,
+      "end_sec": 471.15
+    }
+  ],
+  "wall_time_sec": 13.91,
+  "audio_url": "/audio/indie/20260605_171448.mp3?v=1780649647"
+}
