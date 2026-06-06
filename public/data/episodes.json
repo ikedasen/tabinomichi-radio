@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-06-06T13:48:48.349591",
+  "generated_at": "2026-06-06T18:08:27.195654",
   "episodes": [
+    {
+      "episode_id": "20260606_172125",
+      "profile": "indie",
+      "title": "ノベルとシューティングを混ぜる勇気 〜怪獣の国を撃つ『ULTRA0』999円の実験〜",
+      "generated_at": "2026-06-06T17:21:25+09:00",
+      "duration_sec": 419.99,
+      "audio_url": "/audio/indie/20260606_172125.mp3?v=1780736904",
+      "meta_url": "/audio/indie/20260606_172125.meta.json",
+      "script_url": "/audio/indie/20260606_172125.script.json",
+      "audio_size_mb": 6.41,
+      "featured_game": {
+        "app_id": null,
+        "igdb_id": 391033,
+        "title": "ULTRA0",
+        "image_rel": "/images/topics/indie_20260606_172125_chars.webp?v=1780736899",
+        "hero_rel": "/images/games/igdb_391033.jpg?v=1780733456",
+        "screenshot_rels": [
+          "/images/games/igdb_391033_ss1.jpg?v=1780733456",
+          "/images/games/igdb_391033_ss2.jpg?v=1780733457",
+          "/images/games/igdb_391033_ss3.jpg?v=1780733459",
+          "/images/games/igdb_391033_ss4.jpg?v=1780733460"
+        ],
+        "developers": [
+          "GCM"
+        ],
+        "publishers": [
+          "GCM"
+        ],
+        "genres": [
+          "Visual Novel"
+        ],
+        "release_date": "2026-06-02",
+        "short_description": "Enjoy a simple, easy-to-play pseudo-3D shooter! Upgrade your character with power-ups and take down the approaching monsters before they reach you.",
+        "alttitle": "Ultra0"
+      },
+      "program_description": "夜便の新作深掘り回。今夜は六月二日にSteamで配信されたインディー『ULTRA0（ウルトラゼロ）』を一本掘り下げた。背景では、奥へ突っ込むスペースハリアー系の擬似3Dシューティングと、じっくり読むノベルという正反対のジャンルをあえて合体させた狙いと、小規模開発だからこそ挑める実験性を整理。本作では怪獣に滅ぼされかけた架空の国「N国」を舞台に少女・白銀たちが戦う物語、撃つパートと読むパートの交互展開、戦闘中も会話が続く設計、自動攻撃で初心者でも遊べるやさしさ、999円という価格とボリューム面の不安を語った。総括では、両ジャンル好きや撃ちゲー苦手な人に刺さる一方で骨太大作派や軽い空気を求める人には合いにくい点、セール中の買い時を提示して締めた。",
+      "summary_short": "スペースハリアー系の擬似3Dシューティングとノベルを一本に詰めた999円インディー『ULTRA0』。怪獣に滅ぼされかけた「N国」で少女・白銀が撃って読む交互展開、戦闘中も止まらない会話、自動攻撃の親切設計まで徹底解剖。両ジャンル好きに刺さる実験作の買い時も。"
+    },
     {
       "episode_id": "20260605_180438",
       "profile": "ai",
@@ -336,7 +374,7 @@
         "vndb_id": "v4568",
         "title": "黒の断章",
         "alttitle": "Kuro no Danshou: The Literary Fragment",
-        "image_rel": "/images/topics/indie_20260603_091034_chars.webp",
+        "image_rel": "/images/topics/indie_20260603_091034_chars.webp?v=1780723576",
         "hero_rel": "/images/games/vndb_v4568.jpg?v=1779805001",
         "screenshot_rels": [
           "/images/games/vndb_v4568_ss1.jpg?v=1779805003",
