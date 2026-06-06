@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-06-06T18:08:27.195654",
+  "generated_at": "2026-06-07T05:08:17.890341",
   "episodes": [
+    {
+      "episode_id": "20260606_181746",
+      "profile": "ai",
+      "title": "AIの土台が奪い合われる朝 〜月1,380億円のチップと、止まるデータセンター〜",
+      "generated_at": "2026-06-07T05:08:05+09:00",
+      "duration_sec": 499.0,
+      "audio_url": "/audio/ai/20260606_181746.mp3?v=1780776491",
+      "meta_url": "/audio/ai/20260606_181746.meta.json",
+      "script_url": "/audio/ai/20260606_181746.script.json",
+      "audio_size_mb": 7.62,
+      "featured_game": {
+        "image_rel": "/images/topics/tech_20260606_181746_chars.webp?v=1780738344",
+        "hero_rel": "/images/topics/tech_20260606_181746.webp?v=1780738344",
+        "title": "AIの土台が奪い合われる朝 〜月1,380億円のチップと、止まるデータセンター〜",
+        "companies": [
+          "Google",
+          "OpenAI",
+          "NVIDIA",
+          "Claude",
+          "Microsoft",
+          "X"
+        ],
+        "screenshot_rels": []
+      },
+      "program_description": "今朝のテック朝便は5本立て。スペースエックスがグーグルに毎月9億2,000万ドルでAI計算能力を提供する巨大契約、ニューヨーク州が、成立すれば全米初となる大型データセンターの1年モラトリアム法案、家庭用パソコン1台でサーバーを落とせる弱点をオープンエーアイのコーデックスが見つけた話、ウーバーが1年ぶんのAI予算をたった4ヶ月で溶かしたコスト爆発と業界の対策、そして締めはスターウォーズの新作戦略ゲームが8月27日に発売決定、まで。AIの土台が取り合いと反発の段階に入った今を、ずんだもんと四国めたんが噛み砕いて雑談する回。",
+      "summary_short": "AIの土台を取り合うSpaceX×Google月920億円契約、データセンター凍結を狙う全米初の法案、PC1台でサーバーを落とす脆弱性、Uberの4ヶ月予算爆発——争いと反発が重なった今朝のテック5本を一気に。"
+    },
+    {
+      "episode_id": "20260606_180854",
+      "profile": "indie",
+      "title": "歴史の裏側へ 〜ファイナルファンタジータクティクスが灯した獅子戦争〜",
+      "generated_at": "2026-06-07T05:08:05+09:00",
+      "duration_sec": 444.77,
+      "audio_url": "/audio/indie/20260606_180854.mp3?v=1780776496",
+      "meta_url": "/audio/indie/20260606_180854.meta.json",
+      "script_url": "/audio/indie/20260606_180854.script.json",
+      "audio_size_mb": 6.79,
+      "featured_game": {
+        "app_id": null,
+        "igdb_id": 428,
+        "title": "ファイナルファンタジータクティクス",
+        "alttitle": "Final Fantasy Tactics",
+        "image_rel": "/images/topics/indie_20260606_180854_chars.webp?v=1780776492",
+        "hero_rel": "/images/games/igdb_428.jpg?v=1779837493",
+        "screenshot_rels": [
+          "/images/games/igdb_428_ss1.jpg?v=1779837494",
+          "/images/games/igdb_428_ss2.jpg?v=1779837494",
+          "/images/games/igdb_428_ss3.jpg?v=1779837495",
+          "/images/games/igdb_428_ss4.jpg?v=1779837495"
+        ],
+        "developers": [
+          "Square Product Development Division 4"
+        ],
+        "publishers": [
+          "Square Enix",
+          "Sony Computer Entertainment",
+          "Squaresoft"
+        ],
+        "genres": [
+          "レトロ",
+          "Role-playing (RPG)",
+          "Turn-based strategy (TBS)",
+          "Tactical"
+        ],
+        "release_date": "1997-06-20",
+        "price": "6,800円",
+        "short_description": "Lead epic battles in a new FINAL FANTASY world. Betrayal and darker dealings await in Squaresoft's game of war. Fight hundreds of battles across dangerous 3D terrain as an ancient blood feud awakens a deadlier foe.",
+        "dedup_verified": true
+      },
+      "program_description": "今回はプレイステーション屈指の名作シミュレーションRPG『ファイナルファンタジータクティクス』をじっくり深掘りする回。1997年6月、松野泰己ディレクションのもとクエスト出身チームがスクウェアに合流して作り上げた獅子戦争の物語、ジョブシステムの圧倒的な自由度、崎元仁・岩田匡治コンビによる2枚組71曲のオーケストラ風BGM、吉田明彦の中世画集レベルのキャラデザインまで、プレステ初期作品とは思えない密度を、つむぎがガチ勢目線で語っていく。歴史改竄や身分闘争という重いテーマ、ラムザ・ベオルブと幼馴染ディリータの対比、初見殺しの鬼門ボス、英語版の名翻訳エピソード、PSP獅子戦争から2025年9月発売のイヴァリース クロニクルズ リマスターまで、28年経っても色褪せない名作の魅力を、核心ネタバレを避けつつ掘り下げる回。",
+      "summary_short": ""
+    },
     {
       "episode_id": "20260606_172125",
       "profile": "indie",

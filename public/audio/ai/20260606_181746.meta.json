@@ -1,0 +1,916 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-06-06T18:17:46+09:00",
+  "title": "AIの土台が奪い合われる朝 〜月1,380億円のチップと、止まるデータセンター〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 499.0,
+  "script_hash": "sha256:adfaa70801ec0d5804fdcf128d0390ec836985e54b05c8fc007c6c8e2fa1021b",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 5.56
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便、テックニュースの回。四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 5.56,
+      "end_sec": 10.77
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 通勤・通学のおともに、テックの話を軽くいくのだー!",
+      "news_index": 0,
+      "start_sec": 10.92,
+      "end_sec": 16.49
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今日はね、AIと半導体まわりの話題を5本、サクッと流していくわ。",
+      "news_index": 0,
+      "start_sec": 16.64,
+      "end_sec": 21.15
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "5本! 朝から盛りだくさんなのだ。どんな話があるのだ?",
+      "news_index": 0,
+      "start_sec": 21.3,
+      "end_sec": 25.34
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "スペースエックスがグーグルにとんでもない金額でチップを貸す話とか、ニューヨークがデータセンターを止めた話とかね。",
+      "news_index": 0,
+      "start_sec": 25.49,
+      "end_sec": 32.23
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "お金の話、好きなのだ! 早く1本目いくのだー!",
+      "news_index": 0,
+      "start_sec": 32.38,
+      "end_sec": 35.93
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "せっかちね。じゃあ1本目、いくわよ。",
+      "news_index": 0,
+      "start_sec": 36.08,
+      "end_sec": 38.54
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "1本目。スペースエックスが、グーグルに毎月9億2,000万ドルでチップを貸す契約を結んだのよ。",
+      "news_index": 1,
+      "start_sec": 38.62,
+      "end_sec": 44.96
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "毎月9億ドル!? 円にするといくらなのだ!?",
+      "news_index": 1,
+      "start_sec": 45.11,
+      "end_sec": 48.53
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "だいたい毎月1,380億円。月よ、月。",
+      "news_index": 1,
+      "start_sec": 48.68,
+      "end_sec": 52.46
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "つ、月で1,380億!? ボクのお小遣いの一生分を、毎月燃やす勢いなのだ!",
+      "news_index": 1,
+      "start_sec": 52.61,
+      "end_sec": 59.29
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "スケールが違いすぎるわね。貸すのは、エヌビディアっていう会社のAI用チップ、約11万個ぶんよ。",
+      "news_index": 1,
+      "start_sec": 59.44,
+      "end_sec": 65.53
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "エヌビディアのチップって、そんなに引っ張りだこなのだ?",
+      "news_index": 1,
+      "start_sec": 65.68,
+      "end_sec": 69.13
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "AIの計算を爆速でやる専用チップでね、今これが世界中で奪い合いなの。グーグルですら足りてないのよ。",
+      "news_index": 1,
+      "start_sec": 69.28,
+      "end_sec": 76.17
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、あのグーグルが足りないの!? 自分とこで持ってないのだ?",
+      "news_index": 1,
+      "start_sec": 76.32,
+      "end_sec": 80.7
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "持ってるわ。でも自社ぶんじゃ追いつかなくて、よそから借りる側に回ったってこと。",
+      "news_index": 1,
+      "start_sec": 80.85,
+      "end_sec": 85.52
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも、なんでロケットのスペースエックスがチップを貸すのだ? 畑違いじゃん?",
+      "news_index": 1,
+      "start_sec": 85.67,
+      "end_sec": 90.77
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いいツッコミ。スペースエックスは、xAI系の巨大データセンターの計算能力を外部企業に提供する契約を結び始めたの。",
+      "news_index": 1,
+      "start_sec": 90.92,
+      "end_sec": 98.89
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "データセンターって、AIを動かす巨大なサーバー倉庫ね。ライバルのアンソロピックにも毎月貸してて、グーグルとアンソロピックを合わせると、契約規模は700億ドルを超える計算になるわ。",
+      "news_index": 1,
+      "start_sec": 98.97,
+      "end_sec": 110.61
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ロケット屋さんが、いつのまにかチップの大家さんになってたってことなのだ?",
+      "news_index": 1,
+      "start_sec": 110.76,
+      "end_sec": 115.75
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう、その一行が正解。で、これがボクたちに何の関係あると思う?",
+      "news_index": 1,
+      "start_sec": 115.9,
+      "end_sec": 120.64
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "うーん……ボクのスマホには、関係なさそうなのだ?",
+      "news_index": 1,
+      "start_sec": 120.79,
+      "end_sec": 125.84
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "間接的に効くのよ。計算資源がこんだけ奪い合いだと、AIを使うサービスの値段はなかなか下がらない。",
+      "news_index": 1,
+      "start_sec": 125.99,
+      "end_sec": 132.75
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "AIが安くなるどころか、土台が取り合いで高止まり……世知辛いのだ。",
+      "news_index": 1,
+      "start_sec": 132.9,
+      "end_sec": 139.2
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "2本目。ニューヨーク州が、新しいデータセンターの建設を1年間止める法案を通したのよ。",
+      "news_index": 2,
+      "start_sec": 139.35,
+      "end_sec": 145.38
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "建設禁止!? さっき取り合いって言ってたのに、逆に止めるのだ!?",
+      "news_index": 2,
+      "start_sec": 145.53,
+      "end_sec": 150.25
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこが面白いとこ。作りたい企業と、嫌がる住民で、向きが真逆なの。",
+      "news_index": 2,
+      "start_sec": 150.4,
+      "end_sec": 155.11
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "住民は何が嫌なのだ? 倉庫が建つだけじゃん?",
+      "news_index": 2,
+      "start_sec": 155.26,
+      "end_sec": 158.71
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それがね、データセンター1棟で、小さな町ぶんの電気を食うのよ。水もごっそり使うの。",
+      "news_index": 2,
+      "start_sec": 158.86,
+      "end_sec": 164.63
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "町まるごとの電気を、倉庫1個で!? そりゃ近所はたまらないのだ。",
+      "news_index": 2,
+      "start_sec": 164.78,
+      "end_sec": 169.38
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "対象は、ピークで2万キロワットを超える大型のやつね。可決したのは6月5日で、あとは知事のサイン待ち。",
+      "news_index": 2,
+      "start_sec": 169.53,
+      "end_sec": 176.6
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "知事がサインしたら、本当に止まるのだ?",
+      "news_index": 2,
+      "start_sec": 176.75,
+      "end_sec": 179.59
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そうなれば、丸ごと止める州はアメリカで初めてになるわ。ただ知事はちょっと渋ってるみたい。",
+      "news_index": 2,
+      "start_sec": 179.74,
+      "end_sec": 185.12
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "なんで渋るのだ? 住民の味方すればいいじゃん?",
+      "news_index": 2,
+      "start_sec": 185.27,
+      "end_sec": 188.45
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "雇用や税収も絡むからよ。止めれば企業は別の州や国に逃げる、その綱引きね。",
+      "news_index": 2,
+      "start_sec": 188.6,
+      "end_sec": 193.87
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、それってボクらにも関係あるやつなのだ! AIが重くなるってこと?",
+      "news_index": 2,
+      "start_sec": 194.02,
+      "end_sec": 198.98
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "鋭いわ。土台を建てる場所が減れば、長い目で見てAIの値段や速さに跳ね返ってくる、って話。",
+      "news_index": 2,
+      "start_sec": 199.13,
+      "end_sec": 205.88
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "賢いサービスの裏に、ご近所トラブルがあるなんて、なんだか人間くさいのだ。",
+      "news_index": 2,
+      "start_sec": 206.03,
+      "end_sec": 211.22
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "3本目はちょっと物騒。家庭用回線のパソコン1台でも、脆弱なWebサーバーを数秒から1分弱で落とせる可能性がある弱点が見つかったの。",
+      "news_index": 3,
+      "start_sec": 211.37,
+      "end_sec": 220.76
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "家のパソコンで!? そんなのアリなのだ!?",
+      "news_index": 3,
+      "start_sec": 220.91,
+      "end_sec": 223.79
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "「エイチティーティーピー・ツー・ボム」って名前。ウェブの通信規格にあった、隠れた穴ね。",
+      "news_index": 3,
+      "start_sec": 223.94,
+      "end_sec": 229.08
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "そんな大穴、今まで誰も気付かなかったのだ?",
+      "news_index": 3,
+      "start_sec": 229.23,
+      "end_sec": 232.55
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこが今日の肝。見つけたのは人間じゃなくて、オープンエーアイのコーデックスっていうAIなのよ。",
+      "news_index": 3,
+      "start_sec": 232.7,
+      "end_sec": 238.21
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "AIが自分で弱点を見つけたのだ!? もうそんなことできるの!?",
+      "news_index": 3,
+      "start_sec": 238.36,
+      "end_sec": 242.81
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "コーデックスはもともとプログラムを書くAIね。それが今度は、穴を探す側に回ったってこと。",
+      "news_index": 3,
+      "start_sec": 242.96,
+      "end_sec": 248.96
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "どうやって落とすのだ? そんな簡単に?",
+      "news_index": 3,
+      "start_sec": 249.11,
+      "end_sec": 252.0
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "昔から知られてた攻撃を2つ組み合わせただけ。10年前から部品はあったのに、誰も繋げてなかったの。",
+      "news_index": 3,
+      "start_sec": 252.15,
+      "end_sec": 258.76
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あー、それをAIが「この2つ足せば爆弾になる」って気付いちゃったのだ!",
+      "news_index": 3,
+      "start_sec": 258.91,
+      "end_sec": 263.8
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "その通り。対象はNGINX、Apache HTTP Server、Microsoft IIS、Envoy、Cloudflare Pingoraなど、主要なWebサーバー製品のHTTP/2構成よ、世界で88万サイト以上が候補に挙がったわ。",
+      "news_index": 3,
+      "start_sec": 263.95,
+      "end_sec": 279.49
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "88万!? ボクの好きなサイトも入ってそうで怖いのだ……。",
+      "news_index": 3,
+      "start_sec": 279.64,
+      "end_sec": 283.9
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "日本のさくらインターネットは、6月4日にHTTP/2を一時的に無効化して、HTTP/1.1へ切り替える暫定対策を実施したわ。",
+      "news_index": 3,
+      "start_sec": 284.05,
+      "end_sec": 293.85
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、これボクら普通の人には、どう関係するのだ?",
+      "news_index": 3,
+      "start_sec": 294.0,
+      "end_sec": 297.77
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "直接お金は減らないわ。ただ「AIが攻撃の道具にも、守りの道具にもなる」時代に入った号砲ね。",
+      "news_index": 3,
+      "start_sec": 297.92,
+      "end_sec": 304.81
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "見つける側もAI、守る側もAI……いたちごっこが速くなるのだ。",
+      "news_index": 3,
+      "start_sec": 304.96,
+      "end_sec": 310.06
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "4本目はお財布の話。ある会社が、1年ぶんのAI予算を、たった4ヶ月で使い切ったのよ。",
+      "news_index": 4,
+      "start_sec": 310.21,
+      "end_sec": 316.7
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "4ヶ月で1年ぶん!? どこの太っ腹なのだ!?",
+      "news_index": 4,
+      "start_sec": 316.85,
+      "end_sec": 320.28
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "配車アプリのウーバー。社内で「誰が一番AIを使ったか」ランキングまで作って煽った結果、燃え尽きたの。",
+      "news_index": 4,
+      "start_sec": 320.43,
+      "end_sec": 327.16
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "使えば使うほど偉い、ってやったら、そりゃ燃えるに決まってるのだ。",
+      "news_index": 4,
+      "start_sec": 327.31,
+      "end_sec": 331.9
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "面白いのが、AIを1回呼ぶ単価は、この1年で98%も下がってるの。なのに会社全体の請求は3倍に増えた。",
+      "news_index": 4,
+      "start_sec": 332.05,
+      "end_sec": 340.01
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "安くなったのに高くなる? どういう理屈なのだ?",
+      "news_index": 4,
+      "start_sec": 340.16,
+      "end_sec": 344.63
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "1杯が安くなったぶん、みんながガブ飲みするようになったからよ。トータルだと跳ね上がる。",
+      "news_index": 4,
+      "start_sec": 344.78,
+      "end_sec": 350.28
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、食べ放題で元を取ろうとして、結局食べすぎるやつなのだ!",
+      "news_index": 4,
+      "start_sec": 350.43,
+      "end_sec": 354.86
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "いい例えね。ウーバーは慌てて、1人ひと月1,500ドルまで、って蛇口を絞ったわ。",
+      "news_index": 4,
+      "start_sec": 355.01,
+      "end_sec": 360.85
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "みんな同じ悩みなのだ? ウーバーだけ?",
+      "news_index": 4,
+      "start_sec": 361.0,
+      "end_sec": 363.93
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "業界中よ。だからリナックス財団っていう大きな団体が、AIのお金を管理する専門組織を7月に立ち上げるの。",
+      "news_index": 4,
+      "start_sec": 364.08,
+      "end_sec": 371.62
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "で、ボクみたいに無料でチャット使ってる人には、関係あるのだ?",
+      "news_index": 4,
+      "start_sec": 371.77,
+      "end_sec": 376.13
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "あるわ。企業のこのコスト爆発が落ち着かないと、いずれ無料や定額のサービスにしわ寄せが来る。",
+      "news_index": 4,
+      "start_sec": 376.28,
+      "end_sec": 382.19
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "ボクの「無料で使い放題」が、いつまで続くか分からないってことなのだ……。",
+      "news_index": 4,
+      "start_sec": 382.34,
+      "end_sec": 389.3
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ラスト5本目は、肩の力を抜いてゲームの話。スターウォーズの新作が、8月27日に出るって決まったわ。",
+      "news_index": 5,
+      "start_sec": 389.45,
+      "end_sec": 396.23
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ゲーム! 待ってたのだ! どんなやつなのだ?",
+      "news_index": 5,
+      "start_sec": 396.38,
+      "end_sec": 399.29
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "「スター・ウォーズ ゼロ・カンパニー」。ライトセーバーで斬り合うんじゃなくて、頭を使うタイプよ。",
+      "news_index": 5,
+      "start_sec": 399.44,
+      "end_sec": 404.92
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "頭を使う? シューティングじゃないのだ?",
+      "news_index": 5,
+      "start_sec": 405.07,
+      "end_sec": 407.85
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "仲間を配置して、順番に動かして敵を倒す作戦ゲームね。じっくり考える、将棋みたいな戦い方。",
+      "news_index": 5,
+      "start_sec": 408.0,
+      "end_sec": 414.86
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "あー、ボクそういうコツコツ考えるやつ、大好きなのだ!",
+      "news_index": 5,
+      "start_sec": 415.01,
+      "end_sec": 419.27
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "作ってるのが渋くてね。昔の名作戦略ゲームを手がけた人たちが、新しいスタジオで腕を振るってるの。",
+      "news_index": 5,
+      "start_sec": 419.42,
+      "end_sec": 425.55
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "舞台はいつの時代のスターウォーズなのだ?",
+      "news_index": 5,
+      "start_sec": 425.7,
+      "end_sec": 428.44
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "クローン大戦のころ。しかも、あの若き日のアナキン・スカイウォーカーも顔を出すらしいわ。",
+      "news_index": 5,
+      "start_sec": 428.59,
+      "end_sec": 434.01
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "アナキン!? あとでダースベイダーになる、あの人なのだ!?",
+      "news_index": 5,
+      "start_sec": 434.16,
+      "end_sec": 438.01
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。遊べるのはプレイステーション5、Xbox Series X|S、PCね。",
+      "news_index": 5,
+      "start_sec": 438.16,
+      "end_sec": 443.87
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "で、これはボクらの生活に……いや、これはただ楽しみってだけでいいのだ?",
+      "news_index": 5,
+      "start_sec": 444.02,
+      "end_sec": 449.09
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "いいのよ、それで。たまには損得抜きで、夏の楽しみが1個増えた、で十分。",
+      "news_index": 5,
+      "start_sec": 449.24,
+      "end_sec": 454.63
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ってことで今朝は5本、ざーっと流してきたわ。",
+      "news_index": 0,
+      "start_sec": 454.71,
+      "end_sec": 457.58
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "お金が取り合いで、規制が始まって、AIが弱点まで見つける……濃かったのだ。",
+      "news_index": 0,
+      "start_sec": 457.73,
+      "end_sec": 463.3
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "共通してたのは「AIの土台」が、いよいよ取り合いと反発の段階に入った、ってことね。",
+      "news_index": 0,
+      "start_sec": 463.45,
+      "end_sec": 469.23
+    },
+    {
+      "index": 84,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "気になったやつがあったら、あとで自分でも調べてみてほしいのだ!",
+      "news_index": 0,
+      "start_sec": 469.38,
+      "end_sec": 473.33
+    },
+    {
+      "index": 85,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そうね。最後のスターウォーズだけは、素直にカレンダーに丸つけときましょ。",
+      "news_index": 0,
+      "start_sec": 473.48,
+      "end_sec": 477.91
+    },
+    {
+      "index": 86,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "8月27日、忘れないのだー!",
+      "news_index": 0,
+      "start_sec": 478.06,
+      "end_sec": 481.23
+    },
+    {
+      "index": 87,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それじゃ、旅の道ラジオ朝便、また明日のテック話で。四国めたんでした。",
+      "news_index": 0,
+      "start_sec": 481.38,
+      "end_sec": 486.61
+    },
+    {
+      "index": 88,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ずんだもんなのだー! いってらっしゃい、また聴いてほしいのだー!",
+      "news_index": 0,
+      "start_sec": 486.76,
+      "end_sec": 490.6
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 491.3,
+      "end_sec": 499.0
+    }
+  ],
+  "wall_time_sec": 15.84,
+  "audio_url": "/audio/ai/20260606_181746.mp3?v=1780776491"
+}
