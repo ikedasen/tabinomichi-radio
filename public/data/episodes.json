@@ -1,6 +1,71 @@
 {
-  "generated_at": "2026-06-07T18:17:14.905786",
+  "generated_at": "2026-06-08T05:05:36.356224",
   "episodes": [
+    {
+      "episode_id": "20260607_182509",
+      "profile": "ai",
+      "title": "盗む・閉じる・値付ける朝 〜AIの裏側を5本でほどく〜",
+      "generated_at": "2026-06-08T05:05:24+09:00",
+      "duration_sec": 529.99,
+      "audio_url": "/audio/ai/20260607_182509.mp3?v=1780862730",
+      "meta_url": "/audio/ai/20260607_182509.meta.json",
+      "script_url": "/audio/ai/20260607_182509.script.json",
+      "audio_size_mb": 8.09,
+      "featured_game": {
+        "image_rel": "/images/topics/tech_20260607_182509_chars.webp?v=1780825148",
+        "hero_rel": "/images/topics/tech_20260607_182509.webp?v=1780825148",
+        "title": "盗む・閉じる・値付ける朝 〜AIの裏側を5本でほどく〜",
+        "companies": [
+          "OpenAI",
+          "Claude",
+          "Meta",
+          "X"
+        ],
+        "screenshot_rels": []
+      },
+      "program_description": "今朝のテック朝便は5本立て。1本目はイーロン・マスクのエックスエーアイが、ライバルのクロードの出力をこっそり教材にして締め出された「蒸留」騒動。2本目はチャットジーピーティーに付いた、こっそり命令の攻撃を防ぐ封鎖モード「ロックダウンモード」。3本目はメタ初の有料AI「ハッチ」、月3万円の秘書AIと業界の価格相場。4本目はフロリダ州がオープンエーアイとアルトマン社長を「欠陥商品・公害」として訴えた全米初の州訴訟。ラストは手描き捜索ゲーム「ヒドゥンフォークス2」の発表で、ほっこり締め。AIの裏側から癒しまで、振り幅大きめでお届けしました。",
+      "summary_short": "ライバルのAI出力を盗用して締め出されたxAI、ChatGPTの新たな封鎖機能、月3万円の秘書AI、OpenAIへの全米初の州訴訟——AI業界の核心が5本で一気に炸裂。締めは「ヒドゥンフォークス2」でほっこり。"
+    },
+    {
+      "episode_id": "20260607_181738",
+      "profile": "indie",
+      "title": "同名異作の悲劇 〜1983年クリスタルソフトのアースバウンド〜",
+      "generated_at": "2026-06-08T05:05:24+09:00",
+      "duration_sec": 314.54,
+      "audio_url": "/audio/indie/20260607_181738.mp3?v=1780862734",
+      "meta_url": "/audio/indie/20260607_181738.meta.json",
+      "script_url": "/audio/indie/20260607_181738.script.json",
+      "audio_size_mb": 4.8,
+      "featured_game": {
+        "app_id": null,
+        "igdb_id": 78559,
+        "title": "MOTHER2 ギーグの逆襲",
+        "alttitle": "Earthbound",
+        "image_rel": "/images/topics/indie_20260607_181738_chars.webp?v=1780862732",
+        "hero_rel": "/images/games/igdb_78559.jpg?v=1779840602",
+        "screenshot_rels": [
+          "/images/games/igdb_78559_ss1.jpg?v=1779840603",
+          "/images/games/igdb_78559_ss2.jpg?v=1779840603",
+          "/images/games/igdb_78559_ss3.jpg?v=1779840604"
+        ],
+        "developers": [
+          "Xtalsoft"
+        ],
+        "publishers": [
+          "Xtalsoft"
+        ],
+        "genres": [
+          "レトロ",
+          "Adventure"
+        ],
+        "release_date": "1983-12-31",
+        "short_description": "Unrelated to the popular SNES RPG, Earthbound is an adventure game developed by Xtalsoft in 1983.",
+        "price": "FM-7版 1983年（価格不明）",
+        "dedup_verified": true
+      },
+      "program_description": "今回の『旅の道ラジオ』はガチでややこしい一本を深掘り。タイトル『MOTHER2 ギーグの逆襲』として登録されつつ、実態は1983年にクリスタルソフトがFM-7向けに出したテキストアドベンチャー『アースバウンド』。任天堂のスーパーファミコンRPG『MOTHER2』とは完全に別物の、記憶喪失主人公がコウマス・チェアの村を出てレディ・ジューンという女性を探す古典ADV。日本語テキストなのに英単語の大文字オンリーで入力する当時のFM-7仕様、雑誌の攻略待ちで詰むカルト難度、そして本作を作ったのが後に『スーパーマリオRPG』の共同ディレクターを務め、ファイナルファンタジーUSAミスティッククエストのシナリオやマリオ&ルイージRPGシリーズも手がけた藤岡千尋さんという衝撃の事実。",
+      "summary_short": ""
+    },
     {
       "episode_id": "20260607_173026",
       "profile": "indie",
