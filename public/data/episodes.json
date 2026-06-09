@@ -1,6 +1,77 @@
 {
-  "generated_at": "2026-06-09T18:01:25.574359",
+  "generated_at": "2026-06-10T05:13:00.935735",
   "episodes": [
+    {
+      "episode_id": "20260609_180929",
+      "profile": "ai",
+      "title": "値下げと地殻変動の朝 〜AIが安くなり、チップ工場が揺れる〜",
+      "generated_at": "2026-06-10T05:12:49+09:00",
+      "duration_sec": 448.04,
+      "audio_url": "/audio/ai/20260609_180929.mp3?v=1781035974",
+      "meta_url": "/audio/ai/20260609_180929.meta.json",
+      "script_url": "/audio/ai/20260609_180929.script.json",
+      "audio_size_mb": 6.84,
+      "featured_game": {
+        "image_rel": "/images/topics/tech_20260609_180929_chars.webp?v=1780996920",
+        "hero_rel": "/images/topics/tech_20260609_180929.webp?v=1780996920",
+        "title": "値下げと地殻変動の朝 〜AIが安くなり、チップ工場が揺れる〜",
+        "companies": [
+          "Apple",
+          "Intel",
+          "Google",
+          "Gemini",
+          "OpenAI",
+          "NVIDIA",
+          "TSMC"
+        ],
+        "screenshot_rels": []
+      },
+      "program_description": "旅の道ラジオ朝便のテックニュース回。今朝はAIと半導体を中心に5本立て。グーグルが個人向けAIサブスク『AIプラス』を月725円へ約4割値下げし、保存容量まで倍増させた価格攻勢の話。アップルの新しい『Siri AI』が、Google Geminiのモデルとクラウド技術を土台にする提携で動く件。AIチップの工場が台湾の1社に集中しすぎて、報道によると、GoogleがIntelに300万個超のTPU製造を発注。NVIDIAはIntelの18Aプロセスや先端パッケージングを評価中。さらにオープンエーアイが評価額8,000億ドルを超える規模で株式上場の準備を始めた話。最後は10年ぶりの完全新作『ペルソナ6』発表で、墓場と毒々しい緑の超ダークな雰囲気までお届け。通勤通学のお供にどうぞ。",
+      "summary_short": "GoogleのAIサブスク4割値下げを皮切りに、AppleのSiri×Gemini提携、AIチップの台湾集中リスク、OpenAIの8,000億ドル超IPO計画が連鎖する。そして10年ぶりのペルソナ6がダークな姿で降臨。"
+    },
+    {
+      "episode_id": "20260609_180147",
+      "profile": "indie",
+      "title": "角の少年と光の少女 〜静謐な古城を駆け抜けた20年〜",
+      "generated_at": "2026-06-10T05:12:49+09:00",
+      "duration_sec": 432.06,
+      "audio_url": "/audio/indie/20260609_180147.mp3?v=1781035979",
+      "meta_url": "/audio/indie/20260609_180147.meta.json",
+      "script_url": "/audio/indie/20260609_180147.script.json",
+      "audio_size_mb": 6.59,
+      "featured_game": {
+        "app_id": null,
+        "igdb_id": 144612,
+        "title": "ICO",
+        "image_rel": "/images/topics/indie_20260609_180147_chars.webp?v=1781035976",
+        "hero_rel": "/images/games/igdb_144612.jpg?v=1779846010",
+        "screenshot_rels": [
+          "/images/games/igdb_144612_ss1.jpg?v=1779846011",
+          "/images/games/igdb_144612_ss2.jpg?v=1779846011",
+          "/images/games/igdb_144612_ss3.jpg?v=1779846012",
+          "/images/games/igdb_144612_ss4.jpg?v=1779846012"
+        ],
+        "developers": [
+          "Team Ico"
+        ],
+        "publishers": [
+          "Sony Computer Entertainment"
+        ],
+        "genres": [
+          "レトロ",
+          "Platform",
+          "Puzzle",
+          "Adventure"
+        ],
+        "release_date": "2012-01-12",
+        "short_description": "Experience the wonder and magic of one of the most beloved video games of all time, now available with full HD graphics, 7.1 surround sound, and stereoscopic 3D support.\n\nA young boy is locked away deep in a castle after horns started growing out of his head. After breaking free from his confines, he rescues a mysterious girl from her cage. Together they must escape the dangers of the castle and fend off the shadow creatures haunting their every move.\n\nICO is a harrowing and emotional adventure unlike any other. Experience one of the most highly acclaimed video games of all time.",
+        "alttitle": "Ico",
+        "price": "6,090円",
+        "dedup_verified": true
+      },
+      "program_description": "今回のレトロ回は2001年プレイステーション2発売の傑作『イコ』を深掘り。角が生えて生贄として古城に閉じ込められた少年イコと、檻の中の言葉通じない少女ヨルダが手を繋いで脱出を目指す、引き算のゲームデザインの代名詞。体力ゲージなしミニマップなし台詞も最小限、それでもR1ボタンひとつで『手を繋ぐ』感触から物語が立ち上がってくる仕掛けや、ヨルダを守るために影と戦う緊張感、光と影と巨大建築の美術、上田文人ディレクターの『言葉のないゲーム』という思想について語る回。当時のセールス苦戦からカルト人気を経てPS3版リマスターで広く愛され続けた経緯や、後にワンダと巨像・人喰いの大鷲トリコへ繋がる『上田ゲー』三部作の出発点としての位置づけも掘り下げる。結末ネタバレは無し。あーしが思い入れたっぷりに語っていく回。",
+      "summary_short": ""
+    },
     {
       "episode_id": "20260609_171522",
       "profile": "indie",
