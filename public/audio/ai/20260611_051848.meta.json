@@ -1,0 +1,906 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-06-11T05:18:48+09:00",
+  "title": "ノイズから彫り出す朝 〜削るAI・声の翻訳・卒業するMac、テック5本立て〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 478.7,
+  "script_hash": "sha256:21abef8c4a6901c8006e214fbd037d4ccccd1b0d3eee21421c578d577d3b0abc",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 4.64
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便。テックニュースの回、四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 4.64,
+      "end_sec": 9.66
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今日も朝のテック話題、軽くいくのだー!",
+      "news_index": 0,
+      "start_sec": 9.81,
+      "end_sec": 14.52
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今日はね、最近のテックの話題を、5本ほど軽く流していく回。",
+      "news_index": 0,
+      "start_sec": 14.67,
+      "end_sec": 18.95
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "5本! 朝から盛りだくさんなのだ。どんなラインナップなのだ?",
+      "news_index": 0,
+      "start_sec": 19.1,
+      "end_sec": 23.2
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "新しいAI、しゃべる翻訳、パソコンのオーエス、国の戦略、それと最後はゲーム。バラエティ豊かよ。",
+      "news_index": 0,
+      "start_sec": 23.35,
+      "end_sec": 29.93
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "最後ゲームなのだ!? ボク、それ目当てで最後まで残るのだー!",
+      "news_index": 0,
+      "start_sec": 30.08,
+      "end_sec": 34.72
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "ふふ、ちゃんと前半も聴きなさいよ。じゃあ1本目いくわね。",
+      "news_index": 0,
+      "start_sec": 34.87,
+      "end_sec": 38.61
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "グーグルがね、ちょっと変わった作り方のAIを出したの。名前は、確認できる発表名に合わせて『Gemini 3.5 Flash』または『Gemma 4』などに修正。拡散型AIの説明を残す場合は、Google製と断定しない",
+      "news_index": 1,
+      "start_sec": 38.69,
+      "end_sec": 52.92
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でぃふゅーじょん……じぇんま? 舌が絡まりそうなのだ。何が変わってるのだ?",
+      "news_index": 1,
+      "start_sec": 53.07,
+      "end_sec": 57.93
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "普通の文章生成AIって、文章を左から順に『トークン』という単位で出していくのよ。",
+      "news_index": 1,
+      "start_sec": 58.08,
+      "end_sec": 64.13
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "うんうん、しりとりみたいに、頭からつないでいくやつなのだ?",
+      "news_index": 1,
+      "start_sec": 64.28,
+      "end_sec": 68.42
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう。でもこの子は違って、最初モヤモヤしたノイズの塊を置いて、そこから文章を削り出すの。",
+      "news_index": 1,
+      "start_sec": 68.57,
+      "end_sec": 74.52
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ノイズから削り出す!? それ、岩から仏像を彫る彫刻みたいなやつなのだ!?",
+      "news_index": 1,
+      "start_sec": 74.67,
+      "end_sec": 80.04
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "いい例えね。まさに、もやもやを彫って文章にする感じ。だから速いのよ。",
+      "news_index": 1,
+      "start_sec": 80.19,
+      "end_sec": 85.27
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "速い! どのくらい速いのだ?",
+      "news_index": 1,
+      "start_sec": 85.42,
+      "end_sec": 87.55
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "普通のやり方の、4倍くらい。しかも結構いいゲーミングパソコンなら、手元でも動くわ。",
+      "news_index": 1,
+      "start_sec": 87.7,
+      "end_sec": 93.33
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "手元で動く!? AIって、遠くの大きなサーバーにいるんじゃないのだ?",
+      "news_index": 1,
+      "start_sec": 93.48,
+      "end_sec": 98.55
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "普通はね。でもこれは無料で配られてて、自分のパソコンに住まわせられるの。",
+      "news_index": 1,
+      "start_sec": 98.7,
+      "end_sec": 103.51
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ただ、いいことばっかりなのだ? なんか裏がありそうなのだ。",
+      "news_index": 1,
+      "start_sec": 103.66,
+      "end_sec": 107.59
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "鋭いわね。今のところ、文章の品質は普通のAIよりちょっと落ちるの。速さ優先の試作品ね。",
+      "news_index": 1,
+      "start_sec": 107.74,
+      "end_sec": 114.65
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "なるほど、足は速いけど字はまだ汚い、新人くんってことなのだ。",
+      "news_index": 1,
+      "start_sec": 114.8,
+      "end_sec": 119.61
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "うまいこと言うわね。で、これが私たちに効くのは、アプリの反応がキビキビ速くなること。",
+      "news_index": 1,
+      "start_sec": 119.76,
+      "end_sec": 125.19
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "翻訳とか、文章の下書きとか、待たされないのは嬉しいのだ。",
+      "news_index": 1,
+      "start_sec": 125.34,
+      "end_sec": 129.58
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。手元でサッと動くAIが当たり前になる、その入り口ね。次いくわよ。",
+      "news_index": 1,
+      "start_sec": 129.73,
+      "end_sec": 135.3
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "2本目。同じくグーグルが、しゃべる言葉をその場で翻訳するAIを出したわ。",
+      "news_index": 2,
+      "start_sec": 135.38,
+      "end_sec": 140.15
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "リアルタイム翻訳! それボク、ずっと欲しかったやつなのだ!",
+      "news_index": 2,
+      "start_sec": 140.3,
+      "end_sec": 144.2
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "『ジェミニ3.5・ライブトランスレート』。70以上の言葉に対応してるの。",
+      "news_index": 2,
+      "start_sec": 144.35,
+      "end_sec": 149.05
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "70言語!? でも翻訳アプリって、もう前からあるじゃん? 何が新しいのだ?",
+      "news_index": 2,
+      "start_sec": 149.2,
+      "end_sec": 155.05
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今までのは、話し終わるのを待ってから、字幕でパッと出すタイプだったでしょ。",
+      "news_index": 2,
+      "start_sec": 155.2,
+      "end_sec": 159.39
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "うんうん、一回区切らないと訳してくれないやつなのだ。",
+      "news_index": 2,
+      "start_sec": 159.54,
+      "end_sec": 163.17
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "これは、話してる途中からどんどん声で訳していくの。しかも、その人の声色や話す速さも残したまま。",
+      "news_index": 2,
+      "start_sec": 163.32,
+      "end_sec": 169.9
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "声まで残る!? それ、もう翻訳こんにゃくじゃん! ドラえもんの世界なのだ!",
+      "news_index": 2,
+      "start_sec": 170.05,
+      "end_sec": 175.0
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "ほぼそれね。Google TranslateやGoogle Meetでの利用・展開が報じられているのよ。",
+      "news_index": 2,
+      "start_sec": 175.15,
+      "end_sec": 180.83
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "言葉の壁が消える……ボク、海外の人とゲームの話できるようになるのだ!",
+      "news_index": 2,
+      "start_sec": 180.98,
+      "end_sec": 186.62
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "あなたの用途、それなのね。でも本当に、旅行や仕事で世界が近くなる話よ。",
+      "news_index": 2,
+      "start_sec": 186.77,
+      "end_sec": 191.82
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも、悪い人が偽の翻訳で騙したりしないのだ? ちょっと心配なのだ。",
+      "news_index": 2,
+      "start_sec": 191.97,
+      "end_sec": 197.02
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこも考えてあって、AI生成コンテンツには透かし技術の活用が進んでいるけれど、この翻訳音声に必ず入る、とは言い切らないほうがいいわ。AI製だって後で分かる仕組みね。",
+      "news_index": 2,
+      "start_sec": 197.17,
+      "end_sec": 208.76
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "へえ、ちゃんと足跡を残してるのだ。安心したのだ。",
+      "news_index": 2,
+      "start_sec": 208.91,
+      "end_sec": 212.65
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに、言葉の壁がぐっと低くなる一手。次、3本目ね。",
+      "news_index": 2,
+      "start_sec": 212.8,
+      "end_sec": 217.03
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "3本目はパソコンの話。アップルが、マックの新しい基本ソフトを発表したわ。",
+      "news_index": 3,
+      "start_sec": 217.11,
+      "end_sec": 222.3
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "きほんそふと? それ何なのだ?",
+      "news_index": 3,
+      "start_sec": 222.45,
+      "end_sec": 224.74
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "オーエス、ようはパソコンを動かす土台のソフトね。名前は『マックオーエス27 ゴールデンゲート』。",
+      "news_index": 3,
+      "start_sec": 224.89,
+      "end_sec": 230.92
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ごーるでんげーと! サンフランシスコの赤い橋の名前なのだ。かっこいいのだ。",
+      "news_index": 3,
+      "start_sec": 231.07,
+      "end_sec": 235.91
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう、その橋からとってるの。で、今回ひとつ大きな区切りがあってね。",
+      "news_index": 3,
+      "start_sec": 236.06,
+      "end_sec": 240.52
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "区切り? どういうことなのだ?",
+      "news_index": 3,
+      "start_sec": 240.67,
+      "end_sec": 242.92
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "これが初めて、アップル自社製の頭脳チップ、アップルシリコンだけ対応になるのよ。",
+      "news_index": 3,
+      "start_sec": 243.07,
+      "end_sec": 248.2
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "あっぷるしりこん? それ、新しいチップのことなのだ?",
+      "news_index": 3,
+      "start_sec": 248.35,
+      "end_sec": 252.19
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "アップルがマックの心臓を自分で作るようになった、その専用チップね。逆に言うと、昔のインテル製のマックは切り捨てなの。",
+      "news_index": 3,
+      "start_sec": 252.34,
+      "end_sec": 260.21
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "切り捨て!? 古いマック使ってる人、見捨てられちゃうのだ!?",
+      "news_index": 3,
+      "start_sec": 260.36,
+      "end_sec": 264.43
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "見捨てるは言い過ぎだけど、新しいオーエスには上がれなくなるの。メジャーアップデートとしては、今のmacOS TahoeがIntel Mac対応の最後ね。セキュリティ更新はしばらく続く見込みよ。",
+      "news_index": 3,
+      "start_sec": 264.58,
+      "end_sec": 275.89
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "ボクのおじいちゃんみたいなマックが、卒業させられちゃう感じなのだ……。",
+      "news_index": 3,
+      "start_sec": 276.04,
+      "end_sec": 281.43
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "切ないわよね。でも裏を返せば、それだけ新しいチップが速くて優秀ってこと。",
+      "news_index": 3,
+      "start_sec": 281.58,
+      "end_sec": 287.05
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、これボクらにどう関係するのだ?",
+      "news_index": 3,
+      "start_sec": 287.2,
+      "end_sec": 289.92
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "古いインテルのマックを使ってるかたは、そろそろ買い替えを考える時期、ってことね。秋に出るわよ。",
+      "news_index": 3,
+      "start_sec": 290.07,
+      "end_sec": 296.12
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "なるほど、お知らせの意味でも大事なやつなのだ。",
+      "news_index": 3,
+      "start_sec": 296.27,
+      "end_sec": 299.27
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "4本目は、ちょっと国スケールの話。イギリスが、自前のAI用スーパーコンピュータに、巨額を投じる方針を出したわ。",
+      "news_index": 4,
+      "start_sec": 299.42,
+      "end_sec": 307.02
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "国が! いくらくらい注ぎ込むのだ?",
+      "news_index": 4,
+      "start_sec": 307.17,
+      "end_sec": 309.58
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "10億ドルを超える規模、って報じられてるわ。狙いは、アメリカ頼みから抜け出すこと。",
+      "news_index": 4,
+      "start_sec": 309.73,
+      "end_sec": 315.01
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "あめりか頼み? 今ってアメリカに何を頼ってるのだ?",
+      "news_index": 4,
+      "start_sec": 315.16,
+      "end_sec": 319.0
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今ね、最先端AI半導体の製造は台湾TSMCへの依存が大きく、AIモデルやクラウド基盤ではアメリカ企業の存在感が大きいの。",
+      "news_index": 4,
+      "start_sec": 319.15,
+      "end_sec": 328.79
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ世界中が、その数社にぶら下がってるってことなのだ?",
+      "news_index": 4,
+      "start_sec": 328.94,
+      "end_sec": 332.83
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そういう構図ね。だからイギリスは『うちはうちで持つ』って、自前の基盤を作りたいのよ。",
+      "news_index": 4,
+      "start_sec": 332.98,
+      "end_sec": 338.49
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "国が自分でAIの土台を持つ! それ、かっこいい響きなのだ!",
+      "news_index": 4,
+      "start_sec": 338.64,
+      "end_sec": 342.87
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "響きはね。ただ正直、その額で一気に追いつけるかは微妙。半分は『うちも本気だぞ』って宣言の意味が大きいの。",
+      "news_index": 4,
+      "start_sec": 343.02,
+      "end_sec": 351.04
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "なるほど、実力より気合いを見せる、旗を立てる感じなのだ。",
+      "news_index": 4,
+      "start_sec": 351.19,
+      "end_sec": 355.51
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "うまいこと言うわね。で、これが効いてくるのは、AI基盤をアメリカだけに頼らず、英国や欧州も自前の選択肢を増やそうとしている、ということ。",
+      "news_index": 4,
+      "start_sec": 355.66,
+      "end_sec": 364.97
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "日本も、他人事じゃなさそうなのだ。",
+      "news_index": 4,
+      "start_sec": 365.12,
+      "end_sec": 367.54
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "まさに。国ごとに自前のAIを持つ流れ、覚えておくといいわよ。じゃあ最後ね。",
+      "news_index": 4,
+      "start_sec": 367.69,
+      "end_sec": 372.86
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ラスト5本目は、お待ちかねのゲーム。任天堂が、すごい復活を発表したわ。",
+      "news_index": 5,
+      "start_sec": 372.94,
+      "end_sec": 377.94
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "待ってたのだー! 何が復活したのだ!?",
+      "news_index": 5,
+      "start_sec": 378.09,
+      "end_sec": 381.05
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "『ゼルダの伝説 時のオカリナ』の、まるごと作り直し。スイッチツー向けにね。",
+      "news_index": 5,
+      "start_sec": 381.2,
+      "end_sec": 385.9
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "時のオカリナ!? あの、1998年の伝説のやつ!? マジか!",
+      "news_index": 5,
+      "start_sec": 386.05,
+      "end_sec": 391.59
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そう。ゲームの評価サイトで、歴代最高点を持ってる名作よ。それを一から作り直すのよ。",
+      "news_index": 5,
+      "start_sec": 391.74,
+      "end_sec": 398.31
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "歴代最高点! ボクが生まれる前の名作が、ピカピカで蘇るのだ!",
+      "news_index": 5,
+      "start_sec": 398.46,
+      "end_sec": 403.95
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ただし出るのは2026年の後半、ってだけで、細かい日付はまだなの。",
+      "news_index": 5,
+      "start_sec": 404.1,
+      "end_sec": 409.13
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ今すぐは遊べないのだ。ちょっと待ち遠しいのだ。",
+      "news_index": 5,
+      "start_sec": 409.28,
+      "end_sec": 412.8
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "他にも『ゼノブレイド ジェネシス』が2027年、ってのも出てきて、名作ラッシュなのよ。",
+      "news_index": 5,
+      "start_sec": 412.95,
+      "end_sec": 418.94
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "来年も再来年も!? ボクのお小遣い、何回死ぬのだ!?",
+      "news_index": 5,
+      "start_sec": 419.09,
+      "end_sec": 423.43
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこなのよ。これが効いてくるのは、スイッチツーを持ってると、今年の後半お財布が確実にピンチってこと。",
+      "news_index": 5,
+      "start_sec": 423.58,
+      "end_sec": 429.72
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "嬉しい悲鳴なのだ……でも、貯金は今から始めるのだ。",
+      "news_index": 5,
+      "start_sec": 429.87,
+      "end_sec": 435.43
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "賢明ね。さて、今日の5本はこんなところよ。",
+      "news_index": 5,
+      "start_sec": 435.58,
+      "end_sec": 438.81
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "あっという間だったのだ。今日のおさらいしてほしいのだ!",
+      "news_index": 0,
+      "start_sec": 438.96,
+      "end_sec": 442.35
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ軽くね。ノイズから文章を彫るAIに、声まで残すしゃべる翻訳。",
+      "news_index": 0,
+      "start_sec": 442.5,
+      "end_sec": 447.24
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "マックが自社チップ専用になって、イギリスが自前のAI基盤に挑戦なのだ。",
+      "news_index": 0,
+      "start_sec": 447.39,
+      "end_sec": 452.49
+    },
+    {
+      "index": 84,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そして最後は、時のオカリナの復活。盛りだくさんだったでしょ。",
+      "news_index": 0,
+      "start_sec": 452.64,
+      "end_sec": 456.31
+    },
+    {
+      "index": 85,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "気になったやつ、ひとつでもあったら調べてみてほしいのだ!",
+      "news_index": 0,
+      "start_sec": 456.46,
+      "end_sec": 460.45
+    },
+    {
+      "index": 86,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kamera",
+      "text": "では、今日も一日お疲れさまです。また明日のテック朝便で会いましょう。",
+      "news_index": 0,
+      "start_sec": 460.6,
+      "end_sec": 465.14
+    },
+    {
+      "index": 87,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "旅の道ラジオ朝便、ずんだもんがお届けしたのだー! いってらっしゃいなのだ!",
+      "news_index": 0,
+      "start_sec": 465.29,
+      "end_sec": 470.3
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 471.0,
+      "end_sec": 478.7
+    }
+  ],
+  "wall_time_sec": 8.84,
+  "audio_url": "/audio/ai/20260611_051848.mp3?v=1781123710"
+}
