@@ -1,0 +1,706 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-06-12T05:12:08+09:00",
+  "title": "巨人たちが種をまく朝 〜ベゾスの新会社・自走するAI・大群の不安、テック4本立て〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 364.98,
+  "script_hash": "sha256:d7f9542de580173b35da389fd4f3e9b43b5177f563526d4ec4f8d43cb4376b85",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 5.05
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます。旅の道ラジオ朝便、テックニュースの回。四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 5.05,
+      "end_sec": 10.25
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝もテックの話、軽くサクッといくのだー!",
+      "news_index": 0,
+      "start_sec": 10.4,
+      "end_sec": 15.23
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "通勤・通学のおともに、今のテック業界を4本でつかめる回ね。",
+      "news_index": 0,
+      "start_sec": 15.38,
+      "end_sec": 19.47
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "4本! 今日はどんな顔ぶれなのだ?",
+      "news_index": 0,
+      "start_sec": 19.62,
+      "end_sec": 22.23
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ベゾスの新しいAI会社、自分で働き続けるAI、AIの大群の不安、それとドイツの裁判所。この4つよ。",
+      "news_index": 0,
+      "start_sec": 22.38,
+      "end_sec": 30.37
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "盛りだくさんじゃん! さっそく1本目いくのだ!",
+      "news_index": 0,
+      "start_sec": 30.52,
+      "end_sec": 33.41
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ1本目。アマゾンを作ったジェフ・ベゾスの新しいAI会社に、とんでもない大金が集まったのよ。",
+      "news_index": 1,
+      "start_sec": 33.56,
+      "end_sec": 40.17
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ベゾス!? あの宇宙ロケットまで飛ばしてる、お金持ちの大ボスなのだ!?",
+      "news_index": 1,
+      "start_sec": 40.32,
+      "end_sec": 45.16
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、その人。でもアマゾンとは別の会社で、名前が『プロメテウス』。",
+      "news_index": 1,
+      "start_sec": 45.31,
+      "end_sec": 50.01
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ぷろめてうす? どっかで聞いたことあるのだ。",
+      "news_index": 1,
+      "start_sec": 50.16,
+      "end_sec": 53.09
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ギリシャ神話で、人間に火を盗んで渡した神ね。その会社が、外から約1兆8,000億円を集めたの。",
+      "news_index": 1,
+      "start_sec": 53.24,
+      "end_sec": 59.75
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "1兆8,000億!? ボクのお小遣いを何百年ためても、かすりもしない額じゃん!",
+      "news_index": 1,
+      "start_sec": 59.9,
+      "end_sec": 65.42
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "桁が違いすぎるわよね。しかも会社そのものの値段は、約6兆円って評価されてるの。",
+      "news_index": 1,
+      "start_sec": 65.57,
+      "end_sec": 71.1
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "6兆!? その会社、何年もかけて大きくなったやつなのだ?",
+      "news_index": 1,
+      "start_sec": 71.25,
+      "end_sec": 75.74
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "それが面白いとこで、設立から1年もたってないの。しかも、まだ製品を何も出してない。",
+      "news_index": 1,
+      "start_sec": 75.89,
+      "end_sec": 81.79
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "何も出してないのに6兆!? いったい何を作る会社なのだ?",
+      "news_index": 1,
+      "start_sec": 81.94,
+      "end_sec": 86.21
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おしゃべりするAIじゃないの。飛行機やロケットや薬みたいな、本物の『モノ』を設計するAIね。",
+      "news_index": 1,
+      "start_sec": 86.36,
+      "end_sec": 92.74
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、チャットじゃなくて、ものづくりの方を手伝うAIってことなのだ!",
+      "news_index": 1,
+      "start_sec": 92.89,
+      "end_sec": 97.45
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そう。同社は『artificial general engineer（人工汎用エンジニア）』を作る構想だ、と説明されているの。",
+      "news_index": 1,
+      "start_sec": 97.6,
+      "end_sec": 104.53
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも、それボクらの暮らしに関係あるのだ? お金持ちのロマンじゃん?",
+      "news_index": 1,
+      "start_sec": 104.68,
+      "end_sec": 109.25
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "数年先の話だけど、効けば新しい薬や機械が早く安くなる、って方向ね。今すぐ財布は変わらないわ。",
+      "news_index": 1,
+      "start_sec": 109.4,
+      "end_sec": 116.39
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "夢のある話だったのだ! 2本目いこう!",
+      "news_index": 2,
+      "start_sec": 116.54,
+      "end_sec": 119.25
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "2本目。チャットジーピーティーのオープンエーアイが、ある会社を買収する計画を発表したのよ。",
+      "news_index": 2,
+      "start_sec": 119.4,
+      "end_sec": 125.18
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "買収か! どこを買ったのだ?",
+      "news_index": 2,
+      "start_sec": 125.33,
+      "end_sec": 127.57
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "『Ona』っていうクラウド実行・オーケストレーションの会社ね。狙いは『コーデックス』っていう道具を強くすること。",
+      "news_index": 2,
+      "start_sec": 127.72,
+      "end_sec": 134.73
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "こーでっくす? それ何する子なのだ?",
+      "news_index": 2,
+      "start_sec": 134.88,
+      "end_sec": 137.55
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "プログラマーの代わりにコードを書いてくれるAIね。プログラム作りの相棒みたいな存在よ。",
+      "news_index": 2,
+      "start_sec": 137.7,
+      "end_sec": 143.28
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "こーでっくすって、動画を圧縮するやつの仲間じゃないのだ?",
+      "news_index": 2,
+      "start_sec": 143.43,
+      "end_sec": 147.53
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "それは『コーデック』。こっちは『コーデックス』、コードを書くAIよ。名前が紛らわしいわね。",
+      "news_index": 2,
+      "start_sec": 147.68,
+      "end_sec": 153.5
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "一文字でぜんぜん別物なのだ……。で、買って何が変わるのだ?",
+      "news_index": 2,
+      "start_sec": 153.65,
+      "end_sec": 157.98
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "Onaの技術で、より複雑で長く走るAI作業を支えやすくする狙いなの。",
+      "news_index": 2,
+      "start_sec": 158.13,
+      "end_sec": 163.06
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ほっとける!? じゃあ、ボクが寝てる間にAIが仕事を進めてくれるのだ!?",
+      "news_index": 2,
+      "start_sec": 163.21,
+      "end_sec": 168.52
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "イメージはそう。週に500万人以上が使ってる道具だから、影響は小さくないわ。",
+      "news_index": 2,
+      "start_sec": 168.67,
+      "end_sec": 174.27
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "それボクの夏休みの宿題にも、こっそり使えないかな……。",
+      "news_index": 2,
+      "start_sec": 174.42,
+      "end_sec": 178.56
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "宿題は自分でやりなさい。でも本筋は、プログラマーの働き方が『書く』から『任せる』に変わる、って話ね。",
+      "news_index": 2,
+      "start_sec": 178.71,
+      "end_sec": 185.85
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "コード書けない人にも、じわじわ届きそうな話だったのだ。",
+      "news_index": 2,
+      "start_sec": 186.0,
+      "end_sec": 189.79
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "3本目。グーグルのディープマインドが、ちょっと先回りの心配ごとを研究し始めたのよ。",
+      "news_index": 3,
+      "start_sec": 189.94,
+      "end_sec": 195.48
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "心配ごと? AIの大手が、何を怖がってるのだ?",
+      "news_index": 3,
+      "start_sec": 195.63,
+      "end_sec": 199.71
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "『AIエージェントが、何百万も同時に動き出したら何が起きるか』ね。",
+      "news_index": 3,
+      "start_sec": 199.86,
+      "end_sec": 204.52
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "えーじぇんと? また横文字なのだ。",
+      "news_index": 3,
+      "start_sec": 204.67,
+      "end_sec": 207.14
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "人の代わりに、勝手に作業を進めるAIのこと。それが、ネットの上で大量に絡み合う未来の話よ。",
+      "news_index": 3,
+      "start_sec": 207.29,
+      "end_sec": 214.02
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "何百万のAIが一斉に動く!? もうAIの大群じゃん!",
+      "news_index": 3,
+      "start_sec": 214.17,
+      "end_sec": 218.55
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこが怖いの。1体ずつは安全でも、群れると詐欺やサイバー攻撃が一気にふくらむかもしれないのよ。",
+      "news_index": 3,
+      "start_sec": 218.7,
+      "end_sec": 225.24
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "1匹は無害なアリも、大群になると家ごと運んじゃう、みたいな話なのだ?",
+      "news_index": 3,
+      "start_sec": 225.39,
+      "end_sec": 230.88
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いい例えね。1体を調べても、群れ全体がどう動くかは読めない、ってのが厄介なとこ。",
+      "news_index": 3,
+      "start_sec": 231.03,
+      "end_sec": 236.53
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、どうやって調べるのだ?",
+      "news_index": 3,
+      "start_sec": 236.68,
+      "end_sec": 238.93
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そのために約15億円を出して、隔離した箱の中で実際に動かして観察するしかない、って段階なの。",
+      "news_index": 3,
+      "start_sec": 239.08,
+      "end_sec": 245.83
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "15億円かけても、まだ答えがないのだ!?",
+      "news_index": 3,
+      "start_sec": 245.98,
+      "end_sec": 249.16
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そう、解き方はこれからの宿題。つまり議論が『AIを使う心配』から先へ進んだ、ってことね。",
+      "news_index": 3,
+      "start_sec": 249.31,
+      "end_sec": 256.33
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "AIが勝手に動き回る時代の、転ばぬ先のつえ、って感じだったのだ。",
+      "news_index": 3,
+      "start_sec": 256.48,
+      "end_sec": 261.47
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあラスト4本目。ドイツの裁判所が、グーグルにちょっと重い責任を認めたのよ。",
+      "news_index": 4,
+      "start_sec": 261.62,
+      "end_sec": 266.77
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "責任? グーグル、何をやらかしたのだ?",
+      "news_index": 4,
+      "start_sec": 266.92,
+      "end_sec": 270.13
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "検索したとき、てっぺんに出る『AIの要約』が嘘を書いたら、それはグーグルの責任だ、って判決ね。",
+      "news_index": 4,
+      "start_sec": 270.28,
+      "end_sec": 277.36
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "AI要約! 最近、調べると一番上にドンと出てくる、あれなのだ!",
+      "news_index": 4,
+      "start_sec": 277.51,
+      "end_sec": 282.54
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、あれ。今まではね、『リンクを並べてるだけ』だから中身の責任は問われなかったの。",
+      "news_index": 4,
+      "start_sec": 282.69,
+      "end_sec": 288.48
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "その理屈が、今回ひっくり返ったってことなのだ?",
+      "news_index": 4,
+      "start_sec": 288.63,
+      "end_sec": 292.18
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ええ。AI要約は外部リンクを示すだけでなく、利用者にはグーグル自身の説明のように見えるとして、誤った記述への責任を認めたの。",
+      "news_index": 4,
+      "start_sec": 292.33,
+      "end_sec": 301.86
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ただリンクを並べるだけじゃなくて、グーグル自身の説明として責任を見られた、ってことなのだ?",
+      "news_index": 4,
+      "start_sec": 302.01,
+      "end_sec": 308.56
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "その例え、ぴったりよ。書いた以上、間違いの責任も負いなさい、ってわけ。",
+      "news_index": 4,
+      "start_sec": 308.71,
+      "end_sec": 313.54
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "でも、まだ控訴で引っくり返るかもしれないのだ?",
+      "news_index": 4,
+      "start_sec": 313.69,
+      "end_sec": 317.12
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこは未確定ね。でもこの流れが広がれば、世界中のAI検索が、答えに慎重になるかもしれないわ。",
+      "news_index": 4,
+      "start_sec": 317.27,
+      "end_sec": 324.14
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "AIの答えを、まるっと信じすぎない方がいい、って後押しにもなりそうなのだ。",
+      "news_index": 4,
+      "start_sec": 324.29,
+      "end_sec": 329.51
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで、今朝のテック朝便は4本立てだったわ。",
+      "news_index": 0,
+      "start_sec": 329.66,
+      "end_sec": 333.48
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ベゾスの新会社、自走するコーデックス、AIの大群、ドイツの判決……盛りだくさんだったのだ!",
+      "news_index": 0,
+      "start_sec": 333.63,
+      "end_sec": 340.46
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "巨人がAIに種をまく一方で、その大群をどう御するか、って課題も見えてきた朝ね。",
+      "news_index": 0,
+      "start_sec": 340.61,
+      "end_sec": 346.05
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "気になったやつがあったら、あとでこっそり調べてみてほしいのだ!",
+      "news_index": 0,
+      "start_sec": 346.2,
+      "end_sec": 350.56
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "それじゃ、今日も一日いってらっしゃい。また明日のテック朝便で。",
+      "news_index": 0,
+      "start_sec": 350.71,
+      "end_sec": 354.93
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんでした! いってらっしゃいなのだー!",
+      "news_index": 0,
+      "start_sec": 355.08,
+      "end_sec": 358.25
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 358.95,
+      "end_sec": 364.98
+    }
+  ],
+  "wall_time_sec": 6.3,
+  "audio_url": "/audio/ai/20260612_051208.mp3?v=1781209317"
+}
