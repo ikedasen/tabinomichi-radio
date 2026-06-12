@@ -1,0 +1,480 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-06-12T20:16:58.459844+00:00",
+  "title": "AIが半導体を呑み込む朝 〜5倍のメモリ・自前のチップ・揺れる工場、テック4本立て〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便。テックニュースの回、四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝もテックの話題、軽くつまんでいくのだ!",
+      "news_index": 0,
+      "reading": "ボク、ずんだもんなのだー!けさもテックのわだい、かるくつまんでいくのだ!"
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今日はね、ぜんぶ繋がってるテーマなの。ひとことで言うと『AIが半導体もサイフも呑み込んでる』って話。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "はんどうたい? 朝からむずかしい単語が出てきたのだ……。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "大丈夫、ちゃんと噛み砕くから。半導体っていうのは、パソコンやスマホの頭脳になる小さな部品ね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、あの小指の爪みたいなチップのことなのだ! それなら知ってるのだ!",
+      "news_index": 0,
+      "reading": "あ、あのこゆびのつめみたいなチップのことなのだ!それならしってるのだ!"
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、それ。今日はそのチップを巡る話を4本、サクッといくわよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ1本目。最近パソコンのメモリが、とんでもなく値上がりしてるのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "メモリって、パソコンが一度にいろいろ覚えておく作業机みたいなやつだっけ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "お、いい例えね。その作業机がね、半年ちょっとで5倍くらいの値段になったの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "5倍!? ボクのお小遣いが急に5分の1の価値になるくらいヤバいやつじゃん!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "具体的には、32GB、つまり16GB×2のDDR5キットは米国小売で約360ドル前後が下限になっていて、一部の転売・異常出品では1000ドル超も出ているのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "11万円!? メモリだけで!? 中古のスクーター買えちゃうのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "スクーターは言いすぎだけど、パソコン本体も1割から2割は値上がりしてるわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "なんでそんなに上がってるのだ? メモリ工場が火事にでもなったのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "犯人はね、AIなの。AIを動かす巨大なサーバーが、特別な高速メモリを大量に欲しがってて。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "特別な高速メモリ? ボクのパソコンのとは違うやつなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そう、エイチビーエムっていう、AIチップの隣に積む超高速メモリね。工場がそっち優先に切り替えたの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ! だから普通のメモリを作る分が減って、取り合いで値上がりってことなのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ご名答。要するに『AIがメモリを横取りして、自作パソコン勢が割を食ってる』って話。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "ボクの新しいパソコンの夢が、AIに食べられちゃったのだ……。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "落ち着くとしても早くて2028年ごろ、長引けばさらに先という見方もある。今すぐパソコン買うなら、値段に覚悟しときなさい。",
+      "news_index": 1,
+      "reading": "おちつくとしてもはやくてにせんにじゅうはちねんごろ、ながびけばさらにさきというみかたもある。いますぐパソコンかうなら、ねだんにかくごしときなさい。"
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "2本目。そのチップを巡って、AIの会社たちが面白い動きをしてるのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "AIの会社? チャットのAI作ってるとこが、チップに何の用があるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今までAI各社は、エヌビディアっていう会社からチップを買ってたの。AIの計算を爆速でやる専用チップね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あー、ジーピーユーってやつなのだ! みんなそれを取り合ってるって前に聞いたのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう。でもね、買うばっかりじゃ高いし、足りない。だから『自分で設計しちゃおう』って流れなの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "自分で作る!? チップって、そんな気軽に手作りできるものなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "気軽じゃないわよ。アンソロピック、クロードを作ってる会社が、自社チップの検討を始めたんだけどね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "検討を始めて、どうなったのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "設計するだけで、ざっと5億ドル、700億円以上かかる見込みなの。まだチームも仕様も決まってないのによ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "700億円!? 設計図を描くだけで!? 完成までいくら飛ぶのだ……。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "しかもグーグル、メタ、オープンエーアイ、アマゾンは、もう先に自社チップを進めてるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "横文字の巨人たちが、みんな自前チップ……なんでそこまでするのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "他社のチップ頼みだと、供給も値段も握られるでしょ。要は『自分の頭脳は自分で作る』っていう独立宣言ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "なるほど、お弁当を買うのやめて自炊を始めた感じなのだ。えらいのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "近いわ。で、これが効くのは数年先。うまくいけば、AIを使う値段が将来ちょっと下がるかも、って話。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "3本目。じゃあそのチップ、どこの工場で作るのか、って話なんだけど。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "工場? 設計と、作るのは別なのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "設計と製造は別。実際に作る工場を『ファウンドリ』、半導体専門の工場って言うのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ふぁうんどり……で、その工場ってどこにあるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "今はほぼ台湾のティーエスエムシーっていう1社に集中してて。でも、そこがもう手一杯なの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "1社に全部!? その工場が忙しすぎたら、世界中が順番待ちじゃん!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "まさにそれが起きてる。ティーエスエムシーのトップ自身が『数年は供給が追いつかない』って認めてるくらい。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "それは困るのだ……他に作れる工場はないのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこで急に注目されてるのが、インテル。ちょっと元気がなかった老舗のチップ会社ね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "インテル! パソコンに『インテル入ってる』ってシール貼ってある、あの会社なのだ!",
+      "news_index": 3,
+      "reading": "インテル!パソコンに『インテルはいってる』ってシールはってある、あのかいしゃなのだ!"
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、その会社。グーグルがそのインテルに、ティーピーユーっていうAI用チップを300万個以上、発注したって報じられてるの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "300万個!? それ、ぜんぶ作れたらインテル大復活じゃん!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "エヌビディアも、次世代チップでインテルの工場を試し始めてる。まだ正式発注じゃないけどね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "台湾の1社頼みから、作る場所が散らばっていくってことなのだ?",
+      "news_index": 3,
+      "reading": "たいわんのいっしゃだのみから、つくるばしょがちらばっていくってことなのだ?"
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに『台湾TSMC一極集中を少しでも和らげる動きが出てきた、くらいに言うのが正確。』って話。インテルの株もこれで跳ねたわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "作る場所が増えれば、いつか順番待ちも減って、ボクのパソコンも安くなるかもなのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "気の長い話だけどね。でも供給が安定すれば、巡り巡って値段に効いてくる。そこは期待していいわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあラスト4本目。ちょっと毛色を変えて、AIのお値段の話。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "お金の話、好きなのだ! AIって無料のもあるけど、何の値段なのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "プログラムを書くのを手伝うAIで、コーデックスっていうのがあるの。これ、使える量に上限があってね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "上限? たくさん使うと、今日はもう終わり、って止められるやつなのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう。その上限が回復するのを待つ仕組みだったんだけど、今回『回復ぶんを貯金できる』ようにしたの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "貯金!? 使わなかった分を、翌週に持ち越せるってことなのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "その通り。しかも友達を3人まで招待すると、自分にも相手にもボーナスがつくの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "なんか、携帯の『家族紹介キャンペーン』みたいになってきたのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "鋭いわね。まさにそれ。あるメディアは『AIの値下げ合戦の号砲』って書いてたわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ねだんの戦争? AI同士で安売りバトルが始まるってことなのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。オープンエーアイは、ライバルのお客を取り込もうと、料金の引き下げも検討中って報じられてるの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "会社同士が値下げで殴り合うと、使うボクらは得しちゃうやつなのだ!",
+      "news_index": 4,
+      "reading": "かいしゃどうしがねさげでなぐりあうと、つかうボクらはとくしちゃうやつなのだ!"
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう、要するに『AIの定期券が、だんだんお得競争に入った』って話。消費者には嬉しい流れね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで今朝は、AIが半導体を呑み込む話を4本、お届けしたわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "メモリ高騰、自社チップ、インテル復活、そしてAIの値下げ合戦、なのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "前半3本は『AIがチップを食い尽くす』話、最後の1本は『その分ソフトは安くなりそう』って対比ね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ボクらの財布は、ハードで損してソフトで得する、みたいな感じなのだ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "うまくまとめたわね。今すぐパソコンを買うなら、メモリの値段だけは覚悟しておいて。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "気になったやつがあったら、ぜひ調べてみてほしいのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "kamera",
+      "text": "それじゃ、また明日のテック朝便で。四国めたんでした。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ずんだもんでしたー! いってらっしゃいなのだー!",
+      "news_index": 0
+    }
+  ],
+  "program_description": "旅の道ラジオ朝便、テックニュースの回。今朝のテーマは『AIが半導体もサイフも呑み込む』。1本目はパソコンのメモリ高騰、安かった頃から約5倍に跳ねた原因はAIがメモリ工場を奪っているから、という話。2本目はアンソロピックをはじめAI各社が自社チップの設計に乗り出した動きで、設計だけで5億ドルという規模感を噛み砕く。3本目は台湾のティーエスエムシー一極集中に楔を打つインテルの復活、グーグルが300万個ものAIチップを発注したという報道。最後はオープンエーアイのコーデックスが始めた『使わない分を貯金できる』新しい仕組みと、AI値下げ合戦の号砲。ハードで損してソフトで得する、そんな業界の今をサクッとまとめた回。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20260613_051658_chars.webp",
+    "hero_rel": "/images/topics/tech_20260613_051658.webp",
+    "title": "AIが半導体を呑み込む朝 〜5倍のメモリ・自前のチップ・揺れる工場、テック4本立て〜",
+    "companies": [
+      "Intel",
+      "TSMC",
+      "OpenAI",
+      "Claude",
+      "Google",
+      "NVIDIA",
+      "Meta",
+      "Amazon"
+    ]
+  },
+  "summary_short": "メモリが5倍に高騰した元凶はAI。各社が自前チップ設計に動き出し、TSMC依存に亀裂が走る。グーグルの300万個発注から値下げ合戦の号砲まで、ハードとソフトが同時に揺れる半導体業界の断面をテック4本で切る。"
+}
