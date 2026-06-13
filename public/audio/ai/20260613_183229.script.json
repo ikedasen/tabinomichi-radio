@@ -1,0 +1,615 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-06-13T09:32:29.596780+00:00",
+  "title": "解禁3日で消えた最強AI 〜Fable 5を止めた政府命令の中身〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "こんばんは、旅の道ラジオ夜便、テック深掘り回。四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだ! 今夜も1本がっつりいくのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今夜はね、ちょっと前代未聞の話。この前ここで深掘りしたあのモデルが、もう使えなくなったの。",
+      "news_index": 0,
+      "reading": "こんやはね、ちょっとぜんだいみもんのはなし。このこのまえここでふかぼりしたあのモデルが、もうつかえなくなったの。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? この前のって、あのフェイブルなんとかなのだ!?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、Fable 5。6月9日に出たばかりの、アンソロピックの新型ね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "出たばっかなのに、もう使えない!? どういうことなのだ……",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "アメリカ政府が「止めなさい」って命令を出したの。今夜はその顛末を、ゆっくりほどいていくわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "政府がAIを止める……なんか、ただ事じゃない感じがするのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "まず、おさらいから。3日前にここで話したの、覚えてる?",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "覚えてるのだ! 双子のAIで、手綱付きのFable 5と、鍵付きのMythos 5なのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "よく覚えてたわね。中身はほぼ同じで、安全装置の強さだけ違う二枚看板、って話だったわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "危ないこと聞くと、オーパス4.8に選手交代する仕組みもあったのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、その話が今夜また効いてくるから、頭の隅に置いといて。発表は6月9日だったわね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "えっと、それで……何日に止まったのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "6月12日。アメリカ東部時間の夕方5時21分に、政府から指示が届いたの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "発表からたった3日!? 早すぎるのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そうなの。日本だと、ちょうど今日の朝くらいの時間ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、その「指示」って、誰が出したのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "公式の発表だと「アメリカ政府」としか書いてないの。報道では、商務長官のラトニックさんが書簡を出した、って流れね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "しょうむちょうかん……えらい人なのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "国の貿易や輸出を仕切る役所のトップよ。理由は「国家安全保障」とだけ書いてあったの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "国の安全……なんだか大きく出たのだ。具体的には何がダメだったのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それが今夜の核心。でもその前に、命令の建付けが変わってるから先に説明させて。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "建付けが変わってる?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "止めろと言われたのは、外国籍の人への提供と、アメリカの外への提供。アメリカ国内のアメリカ人だけは、対象外なの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "えっ、じゃあアメリカの人は使えるのだ? なんでボクらまで使えないのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "いい疑問ね。外国籍の人だけを、その場で選り分けて止めるのが難しいのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "あー、誰が外国籍かなんて、その場で見分けられないのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "だから、確実に命令を守るには、全員向けに止めるしかなかったの。結果、世界中で両方オフよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "アメリカ向けの規制なのに、とばっちりで世界中が真っ暗なのだ……",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "しかもね、止まったのはFable 5とMythos 5だけ。オーパス4.8とか他のモデルは普通に動いてるの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "新しい双子だけ名指しで止められた、ってことなのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "じゃあ核心。政府が問題にしたのは「ジェイルブレイク」っていう手口なの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "じぇいるぶれいく? 牢屋を破る、みたいな?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "近いわ。AIにかけてある安全装置を、言葉のトリックで外しちゃう手口のことよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "普段は答えないことを、無理やり答えさせるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そう。今回の手口は具体的でね。「あるプログラムを読ませて、欠陥を見つけさせる」っていうものなの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "プログラムの欠陥……それって、悪さに使えるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "理屈の上ではね。セキュリティの穴を見つける力は、守りにも攻めにも使えるから。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "AIがハッカーの相棒になっちゃう、みたいな話なのだ!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "……と、政府は心配したわけ。でも、ここからがアンソロピックの言い分よ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "会社は何て言ってるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "実際にその手口の実演を見せてもらったら、見つかったのは「前から知られてる、軽い穴」が少しだけだったって。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "軽い穴……大したことなかったのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "会社の評価ではね。しかも「他社のAIでも、同じ穴は普通に見つけられる」って主張してるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "他のAIでもできるなら、Fable 5だけ止めるのは変じゃん?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこがアンソロピックの一番の反論。GPT-5.5でも同じことができる、って名指しで言ってるわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ライバルの名前まで出して反論したのだ。けっこう強気なのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "実際、政府やイギリスの専門機関、外部や社内のチームが、合わせて数千時間テストしても、万能の抜け道は見つからなかったらしいの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "数千時間!? ボクが寝てる間に、何度もテストされてるのだ……",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "しかもFable 5って、もともと安全装置を何重にもしてあるのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "あっ、それがこの前の「選手交代」なのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。サイバーとか、生物・化学みたいな危ない話題を見つけると、専用の検知役が反応するの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "反応したら、どうなるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "その質問だけ、おとなしいオーパス4.8に回すの。これが起きるのは全体の5%もないんだって。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ほとんどは普通に答えて、危ないやつだけ別の係に渡すのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いい要約。さらに、会話を原則30日保存して、新しい攻撃を見張る仕組みもあるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "30日も保存!? ボクの夜中のひとりごとも、見られてるのだ……?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "学習には使わないって明言してるわよ。あくまで攻撃の検知用ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "なるほど。つまり、守りはガチガチだった、ってことなのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "要するに「狭い抜け道と、軽い既知の穴いくつかで、ここまで守った商用モデルを丸ごと回収するの?」っていうのが会社の問いね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、ここからが我々一般人の話。一番効くのは「全員、巻き添え」って点よ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "アメリカの外国籍規制なのに、日本のボクも、世界中の人も使えないのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そう。国境で引いたはずの線が、技術的に引けなくて、結局みんな止まった。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "しかもさ、アンソロピックって会社自身も困らないのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "鋭いわね。実は社内の外国籍の社員も、自社の最新モデルを使えなくなったの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "自分で作ったのに、自分で使えない!? 切なすぎるのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "規制の建付けがそうなってるからね。さて、使いたかった人はどうするか。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "他のAIに乗り換えるしかないのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "当面はそうね。オーパス4.8は動いてるし、他社のモデルもある。困るのは「Fable 5前提で準備してた人」よ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "あー、新しいモデルに合わせて、仕事の段取りを組んでた人なのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "企業だと、業務に組み込む計画が宙ぶらりん。「いつ戻るか分からない」のが一番つらいの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "戻る時期は、決まってないのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "「できるだけ早く復旧する」とだけ。具体的な日付は無いわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "楽しみにしてた新作が、無期限延期になった気分なのだ……",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "それと、もう一つ大きいのが「会社が政府に公然と反対した」って構図ね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "普通は、黙って従うものなのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "こういう時はね。でもアンソロピックは「この程度の穴で回収はおかしい」って、はっきり言った。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "安全を一番大事にしてた会社が、規制に「やりすぎ」って言うの、ちょっと意外なのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこがこの件の面白いねじれ。安全重視の会社が、安全を理由にした命令に異議を唱えてるの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "つまり「何を危険とみなすか」の線引きで、会社と政府がもめてる、ってことなのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "展望いくわよ。今夜いちばんの注目は、公開済みの最先端AIがここまで止められる、っていう異例さね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "政府が、公開済みのAIを命令でここまで止めるの、前例がほとんどないのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ほとんど無いわね。でも一回起きたってことは、次もありうるの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "次は他の会社のAIも、いきなり止まるかもしれないのだ!?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "可能性は否定できない。AIが「輸出を管理される技術」として本格的に扱われ始めた、ってことだから。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "武器とか半導体みたいな扱いに、AIも入ってきたのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そう。だから見るポイントは2つ。1つ目は、Fable 5がいつ、どんな条件で戻るか。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "2つ目は?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "他社が同じ命令を受けないか。受けたら「これが新しい普通になる」ってことよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "復旧のニュースと、ライバルへの飛び火。この2つを見張ればいいのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "完璧な要約。慌てて結論を出すには早いけど、転換点なのは間違いないわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "楽しみにしてたモデルだけに、早く戻ってほしいのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで今夜は、Fable 5とMythos 5が政府命令で止まった話を深掘りしたわ。",
+      "news_index": 5,
+      "reading": "というわけでこんやは、ふぇいぶるふぁいぶとみゅとすふぁいぶがせいふめいれいでとまったはなしをふかぼりしたわ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "軽い既知の穴いくつかで世界中が巻き添え、会社は猛反対、戻る日は未定。盛りだくさんだったのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "続報が入ったら、また夜便で追いかけるわね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "気になる人は、復旧のお知らせを待つのだ! 今夜もありがとうなのだ!",
+      "news_index": 5,
+      "reading": "きになるひとは、ふっきゅうのおしらせをまつのだ!こんやもありがとうなのだ!"
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それじゃ、おやすみなさい。四国めたんでした。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ずんだもんでしたー! また明日のテック朝便で会おうなのだ!",
+      "news_index": 5
+    }
+  ],
+  "program_description": "アンソロピックが6月9日に出したばかりの新型AI、Fable 5とMythos 5が、わずか3日後にアメリカ政府の輸出管理命令を受け、遵守のため全ユーザー向けに停止された一件を深掘り。背景では、3日前にこの番組で紹介した手綱付きの双子モデルと、6月12日夕方に届いた指示の中身、つまり外国籍ユーザーや国外向けを止める建付けに対し、遵守を確実にするため全ユーザー停止になった経緯を整理。技術では、問題視されたジェイルブレイク、コードの欠陥を見つけさせる手口の実態と、軽微で他社AIでも可能というアンソロピックの反論、危険を検知してオーパス4.8に回す多層防御を噛み砕く。含意では世界中が巻き添えになり自社の社員すら使えない皮肉と、安全重視の会社が規制に反対するねじれを、展望では公開モデル初の政府停止という前例と、他社への飛び火の可能性を見据える。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20260613_183229_chars.webp",
+    "hero_rel": "/images/topics/tech_20260613_183229.webp",
+    "title": "解禁3日で消えた最強AI 〜Fable 5を止めた政府命令の中身〜",
+    "companies": [
+      "Claude",
+      "OpenAI"
+    ]
+  },
+  "summary_short": "解禁からわずか3日。Claude Fable 5とMythos 5が、米政府の輸出管理命令で世界中から姿を消した。理由は狭いジェイルブレイク疑い——アンソロピックは“軽微で他社AIでも可能”と公然と反対。公開モデルとして異例の停止劇を、その中身と波紋まで深掘りする。"
+}

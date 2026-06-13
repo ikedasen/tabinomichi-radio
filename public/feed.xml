@@ -7,8 +7,8 @@
     <description>ずんだもん × めたん × つむぎが届ける、ゲーム &amp; テックニュース雑談ラジオ。朝便と夜便で毎日更新、レトロから新作まで、最新 AI 動向から業界マクロまで雑談形式でサクッと。</description>
     <language>ja</language>
     <copyright>© 2026 tabinomichi</copyright>
-    <lastBuildDate>Sat, 13 Jun 2026 05:31:33 +0900</lastBuildDate>
-    <pubDate>Sat, 13 Jun 2026 05:16:58 +0900</pubDate>
+    <lastBuildDate>Sat, 13 Jun 2026 18:46:29 +0900</lastBuildDate>
+    <pubDate>Sat, 13 Jun 2026 18:32:29 +0900</pubDate>
     <generator>build_rss_feed.py (tabinomichi radio)</generator>
     <image>
       <url>https://news.tabinomichi.jp/podcast-cover.png?v=1779005902</url>
@@ -29,6 +29,21 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>解禁3日で消えた最強AI 〜Fable 5を止めた政府命令の中身〜</title>
+      <link>https://news.tabinomichi.jp/radio/20260613_183229</link>
+      <guid isPermaLink="false">tabinomichi-radio-20260613_183229</guid>
+      <pubDate>Sat, 13 Jun 2026 18:32:29 +0900</pubDate>
+      <description>アンソロピックが6月9日に出したばかりの新型AI、Fable 5とMythos 5が、わずか3日後にアメリカ政府の輸出管理命令を受け、遵守のため全ユーザー向けに停止された一件を深掘り。背景では、3日前にこの番組で紹介した手綱付きの双子モデルと、6月12日夕方に届いた指示の中身、つまり外国籍ユーザーや国外向けを止める建付けに対し、遵守を確実にするため全ユーザー停止になった経緯を整理。技術では、問題視されたジェイルブレイク、コードの欠陥を見つけさせる手口の実態と、軽微で他社AIでも可能というアンソロピックの反論、危険を検知してオーパス4.8に回す多層防御を噛み砕く。含意では世界中が巻き添えになり自社の社員すら使えない皮肉と、安全重視の会社が規制に反対するねじれを、展望では公開モデル初の政府停止という前例と、他社への飛び火の可能性を見据える。</description>
+      <content:encoded><![CDATA[アンソロピックが6月9日に出したばかりの新型AI、Fable 5とMythos 5が、わずか3日後にアメリカ政府の輸出管理命令を受け、遵守のため全ユーザー向けに停止された一件を深掘り。背景では、3日前にこの番組で紹介した手綱付きの双子モデルと、6月12日夕方に届いた指示の中身、つまり外国籍ユーザーや国外向けを止める建付けに対し、遵守を確実にするため全ユーザー停止になった経緯を整理。技術では、問題視されたジェイルブレイク、コードの欠陥を見つけさせる手口の実態と、軽微で他社AIでも可能というアンソロピックの反論、危険を検知してオーパス4.8に回す多層防御を噛み砕く。含意では世界中が巻き添えになり自社の社員すら使えない皮肉と、安全重視の会社が規制に反対するねじれを、展望では公開モデル初の政府停止という前例と、他社への飛び火の可能性を見据える。]]></content:encoded>
+      <enclosure url="https://news.tabinomichi.jp/audio/ai/20260613_183229.mp3?v=1781343988" length="8175324" type="audio/mpeg"/>
+      <itunes:title>解禁3日で消えた最強AI 〜Fable 5を止めた政府命令の中身〜</itunes:title>
+      <itunes:summary>アンソロピックが6月9日に出したばかりの新型AI、Fable 5とMythos 5が、わずか3日後にアメリカ政府の輸出管理命令を受け、遵守のため全ユーザー向けに停止された一件を深掘り。背景では、3日前にこの番組で紹介した手綱付きの双子モデルと、6月12日夕方に届いた指示の中身、つまり外国籍ユーザーや国外向けを止める建付けに対し、遵守を確実にするため全ユーザー停止になった経緯を整理。技術では、問題視されたジェイルブレイク、コードの欠陥を見つけさせる手口の実態と、軽微で他社AIでも可能というアンソロピックの反論、危険を検知してオーパス4.8に回す多層防御を噛み砕く。含意では世界中が巻き添えになり自社の社員すら使えない皮肉と、安全重視の会社が規制に反対するねじれを、展望では公開モデル初の政府停止という前例と、他社への飛び火の可能性を見据える。</itunes:summary>
+      <itunes:image href="https://news.tabinomichi.jp/images/og/20260613_183229.jpg"/>
+      <itunes:duration>8:30</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AIが半導体を呑み込む朝 〜5倍のメモリ・自前のチップ・揺れる工場、テック4本立て〜</title>
       <link>https://news.tabinomichi.jp/radio/20260613_051658</link>
