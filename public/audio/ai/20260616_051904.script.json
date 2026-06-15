@@ -1,0 +1,406 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-06-15T20:19:04.852323+00:00",
+  "title": "暮らしに溶けるAIの朝 〜SNSに潜り、歩き出し、あなた専用に喋りだす〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便、テックニュースの回。四国めたん、です。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝もテックの話題、軽くサクッといくのだー!",
+      "news_index": 0,
+      "reading": "ボク、ずんだもんなのだー!けさもテックのわだい、かるくサクッといくのだー!"
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今日は4本立て。AIがSNSに潜り込んだ話から、ついに歩き出したロボットまで、盛りだくさんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ロボット!? 待ってたのだ、そういう未来っぽいやつ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "通勤・通学のおともに、肩の力抜いて聞いてちょうだい。",
+      "news_index": 0,
+      "reading": "つうきんつうがくのおともに、かたのちからぬいてちょうだい。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "朝ごはん食べながらでもオッケーなのだ! じゃあ1本目いこう!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ1本目。メタが新しいiPhoneアプリ「Forum」を公開した。Facebookグループを別アプリ化し、AIの「Ask」タブでグループ投稿を検索・要約できるのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "えーあいもーど? フェイスブックって、あの友達と写真あげあうやつなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、そのフェイスブック。今までは知りたいことがあったら、自分でスクロールして探してたでしょ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "うんうん、目が滑るくらい流して、やっと見つけるやつなのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それがね、これからは言葉で質問すると、AIがFacebookグループの投稿を参照して、関連する投稿付きで答えてくれるの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、検索の代わりにAIが「答え」をくれるってこと!?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "Facebookグループの投稿を中心に、質問に合う投稿を探して要約してくれる感じね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ「近所のおいしいラーメン屋は?」って聞いたら、ご近所さんの投稿から答えてくれるのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "まさにそこが狙い。友達やグループの情報を持ってる強みで、グーグル相手に検索の取り合いを仕掛けてるのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でもさ、答えの元がみんなの投稿って、ちょっと不安じゃん?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "鋭いわね。元が一般の人の投稿だから、古い情報や間違いが混じるリスクもあるの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "なるほど。便利だけど、AIの答えを鵜呑みにせず、自分でも確かめろってことなのだね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。検索が「自分で探す」から「AIに聞く」に変わる、その最前線って話。次いくわよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "2本目。ついにヒューマノイドロボット、人型ロボットが、本当に出荷され始めたのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "出荷!? 人型ロボットって、まだ研究所の中で転んでるイメージなのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それがもう製品の段階。ボストン・ダイナミクスの電動アトラスは製品化へ進んでいて、Hyundaiの工場での導入は2028年ごろを見込むの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ぼすとん・だいなみくす? 犬みたいなロボットが踊ってる動画の会社だっけ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、その会社の二足歩行版ね。まず想定されている現場はHyundaiの自動車工場で、Google DeepMindとはAtlasなどにGemini系AIを組み込むための提携なのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、ディープマインドって、グーグルのAI研究チームなのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "よく繋げたわね。AIの頭脳に、ロボットの体を持たせて研究する、って流れよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "しかもさ、Figure AIはBotQという製造施設で年1万2000体規模を目指す、と発表しているって聞いたのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、量産も始まってる。アトラスの価格は未公表。産業向けロボットなので、少なくとも一般家庭向けの2万5,000ドル級とは別物として扱う、って水準なの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "2万5,000ドル!? ボクのお年玉を何百回ぶんも積み上げて、やっと1体なのだ……。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今はまだ工場やお仕事用が中心ね。でも家庭用では、1X TechnologiesのNEOが2万ドル購入または月499ドルレンタルの早期プランを出している。ただし遠隔オペレーターが関わる段階の。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "月払いでロボットが家に! 宿題やってくれる子、ボクんちに来てほしいのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "つまりAIが、画面の中から「体を持って」現実に出てくる段階に入った、ってこと。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "SF映画の世界が、ちょっとずつ本物になってきたのだね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "3本目は、ぐっと身近な話。音楽アプリのスポティファイが、AIのデスクトップアプリを出したのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "すぽてぃふぁい? 音楽聴くやつが、AIで何するのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "名前は「スタジオ」。あなたのカレンダーやメール、メモと連動して、音声を作ってくれるの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "音声を作る? ボクの声でモノマネしてくれるってこと?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "違う違う、そっちじゃなくて。たとえば毎朝、あなた専用のニュースまとめを、ポッドキャスト風に喋ってくれるのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "自分専用の朝の番組!? それって……この旅の道ラジオのライバルじゃん!?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ふふ、痛いとこ突くわね。旅行の予定を入れたら、そのドライブ用のプレイリストまで組んでくれるの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "わー、運転中の選曲で喧嘩しなくて済むやつなのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに、音楽アプリが「あなた専用の音声秘書」に進化した、って話ね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあボクらの「朝の聴き方」そのものが、変わっちゃうかもしれないのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そうなのよ。自分だけの番組が毎朝届く時代が、すぐそこまで来てるってこと。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "……でもボクは、めたんとのこのおしゃべりの方が好きなのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "あら、嬉しいこと言うじゃない。じゃあラスト行くわよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ラスト4本目。アドビが「アクロバット・スタジオ」っていう、書類向けのAIを出したのよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "あどび? あくろばっと? 名前が強そうなのだ。何するやつなのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "アドビは、ピーディーエフっていう書類ファイルを作ってる会社ね。役所の申請書とか、よく見るやつ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あー、開くとなんか字がいっぱいの、あのファイルなのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "その分厚いピーディーエフに、話しかけて中身を聞けるようになったの。「要点だけ教えて」みたいにね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、100ページの説明書に「で、結局どうすればいいの?」って聞けるってこと!?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そういうこと。AIが読んで、要約して、必要なら新しい書類まで作ってくれるの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "それ、夏休みの読書感想文も一瞬で……はっ、ボクは自分でやるのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "今、自分で止めたわね。まあ、学生のレポートや社会人の資料づくりは、確実に楽になるわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でもさっきのメタの話と同じで、AIの要約も間違うことあるよね?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "その通り。便利だからこそ、最後は自分の目で確かめる。今日の裏テーマね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "賢く使えば最強の相棒、丸投げすると危ない。覚えておくのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで今朝は4本。SNSに潜るAI、歩き出すロボット、自分専用の音声、喋る書類、だったわね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "全部つながってたのだ! AIがどんどん「ボクらの生活の中」に入ってきてるって話なのだね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そして裏テーマは「便利でも、最後は自分の目で確かめる」。これ大事よ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "気になったやつあったら、自分でも調べてみてほしいのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それじゃ、また明日のテック朝便で。四国めたんでした。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ずんだもんでしたー! 今日も一日、いってらっしゃいなのだー!",
+      "news_index": 0
+    }
+  ],
+  "program_description": "旅の道ラジオ朝便、テックニュースの回。今朝はAIが暮らしに入り込む4本立て。1本目はメタがフェイスブックに出した「AIモード」、みんなの公開投稿をAIがまとめて答えてくれる新しい検索のかたち。2本目はボストン・ダイナミクスの人型ロボット「アトラス」がついに出荷段階に入り、ヒョンデやディープマインドへ納品される話。3本目は音楽アプリ・スポティファイのAIアプリ「スタジオ」が、あなた専用の朝の音声番組を作ってくれる未来。ラストはアドビの「アクロバット・スタジオ」で、分厚いピーディーエフに話しかけて要約させる書類仕事の効率化。便利だからこそ最後は自分の目で確かめる、をテーマに軽くまとめた回。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20260616_051904_chars.webp",
+    "hero_rel": "/images/topics/tech_20260616_051904.webp",
+    "title": "暮らしに溶けるAIの朝 〜SNSに潜り、歩き出し、あなた専用に喋りだす〜",
+    "companies": [
+      "Meta",
+      "Gemini",
+      "Google",
+      "Apple"
+    ]
+  },
+  "summary_short": "メタのAIがSNSを検索に変え、人型ロボットが工場へ届き、スポティファイはあなただけの朝番組を用意し、アドビはPDFと会話させてくれる——どれも便利、でも鵜呑みにしないための目も忘れずに、という4本。"
+}
