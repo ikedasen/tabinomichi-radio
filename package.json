@@ -4,7 +4,9 @@
   "private": true,
   "scripts": {
     "dev": "next dev -p 3211",
+    "prebuild": "node scripts/gen-views.mjs",
     "build": "next build",
+    "gen:views": "node scripts/gen-views.mjs",
     "start": "next start -p 3211",
     "lint": "next lint",
     "gen:tones": "node scripts/gen-tones.js"
