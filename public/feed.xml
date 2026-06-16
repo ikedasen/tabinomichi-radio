@@ -7,8 +7,8 @@
     <description>ずんだもん × めたん × つむぎが届ける、ゲーム &amp; テックニュース雑談ラジオ。朝便と夜便で毎日更新、レトロから新作まで、最新 AI 動向から業界マクロまで雑談形式でサクッと。</description>
     <language>ja</language>
     <copyright>© 2026 tabinomichi</copyright>
-    <lastBuildDate>Tue, 16 Jun 2026 19:47:42 +0900</lastBuildDate>
-    <pubDate>Tue, 16 Jun 2026 19:27:24 +0900</pubDate>
+    <lastBuildDate>Wed, 17 Jun 2026 05:29:00 +0900</lastBuildDate>
+    <pubDate>Wed, 17 Jun 2026 05:17:50 +0900</pubDate>
     <generator>build_rss_feed.py (tabinomichi radio)</generator>
     <image>
       <url>https://news.tabinomichi.jp/podcast-cover.png?v=1779005902</url>
@@ -29,6 +29,36 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>誰がAIを握るのか 〜お金と国家がAIを動かす朝〜</title>
+      <link>https://news.tabinomichi.jp/radio/20260617_051750</link>
+      <guid isPermaLink="false">tabinomichi-radio-20260617_051750</guid>
+      <pubDate>Wed, 17 Jun 2026 05:17:50 +0900</pubDate>
+      <description>旅の道ラジオ朝便のテックニュース回。今朝は『お金』と『国』がAIをどう動かしてるかをテーマに4本立て。1本目は中国のディープシークが初めて外部資金を受け入れ、評価額7兆円超えで業界をざわつかせた話。2本目はアンソロピックのClaude Codeをめぐる利用制限・提供条件のテストが混乱を呼び、同社が説明に追われた話、AI各社の価格競争が本格化してる流れ。3本目はアメリカ政府がエックスエーアイを『国家安全保障に重要』として裁判で擁護した異例の動き。ラストはAIエージェントを本番サービスに触らせる前に、模擬ワークスペースで評価する研究・ベンチマークが出てきた話を、ゆるっとまとめてます。お金と国がAIの主導権を引っぱり合う、今の業界の温度感が1本でつかめる回。</description>
+      <content:encoded><![CDATA[旅の道ラジオ朝便のテックニュース回。今朝は『お金』と『国』がAIをどう動かしてるかをテーマに4本立て。1本目は中国のディープシークが初めて外部資金を受け入れ、評価額7兆円超えで業界をざわつかせた話。2本目はアンソロピックのClaude Codeをめぐる利用制限・提供条件のテストが混乱を呼び、同社が説明に追われた話、AI各社の価格競争が本格化してる流れ。3本目はアメリカ政府がエックスエーアイを『国家安全保障に重要』として裁判で擁護した異例の動き。ラストはAIエージェントを本番サービスに触らせる前に、模擬ワークスペースで評価する研究・ベンチマークが出てきた話を、ゆるっとまとめてます。お金と国がAIの主導権を引っぱり合う、今の業界の温度感が1本でつかめる回。]]></content:encoded>
+      <enclosure url="https://news.tabinomichi.jp/audio/ai/20260617_051750.mp3?v=1781641734" length="6228888" type="audio/mpeg"/>
+      <itunes:title>誰がAIを握るのか 〜お金と国家がAIを動かす朝〜</itunes:title>
+      <itunes:summary>旅の道ラジオ朝便のテックニュース回。今朝は『お金』と『国』がAIをどう動かしてるかをテーマに4本立て。1本目は中国のディープシークが初めて外部資金を受け入れ、評価額7兆円超えで業界をざわつかせた話。2本目はアンソロピックのClaude Codeをめぐる利用制限・提供条件のテストが混乱を呼び、同社が説明に追われた話、AI各社の価格競争が本格化してる流れ。3本目はアメリカ政府がエックスエーアイを『国家安全保障に重要』として裁判で擁護した異例の動き。ラストはAIエージェントを本番サービスに触らせる前に、模擬ワークスペースで評価する研究・ベンチマークが出てきた話を、ゆるっとまとめてます。お金と国がAIの主導権を引っぱり合う、今の業界の温度感が1本でつかめる回。</itunes:summary>
+      <itunes:image href="https://news.tabinomichi.jp/images/og/20260617_051750.jpg"/>
+      <itunes:duration>6:29</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>赤と黒の輪舞曲 〜兄ニーアが歩いた、本編前夜の物語〜</title>
+      <link>https://news.tabinomichi.jp/radio/20260617_050842</link>
+      <guid isPermaLink="false">tabinomichi-radio-20260617_050842</guid>
+      <pubDate>Wed, 17 Jun 2026 05:08:42 +0900</pubDate>
+      <description>今回は2023年に itch.io で公開されたファンメイドVN『ニーア レプリカント Red and Black』を深掘り。Pjf238というファンが、本編『NieR Replicant』設定資料集 Grimoire NieR に収録された短編小説「赤と黒」を、本編中の白文字+黒背景のVNパート様式に合わせて再構築した愛ある一本。回の前半ではヨコオタロウ監督・Cavia開発・スクウェア・エニックス販売の本編が2010年に兄ニーア版と父ニーア版の二種で同時発売された経緯、3ヶ月後にCaviaがAQ Interactiveに吸収された遺作スタジオ説、2021年のリマスターver.1.22474487139...の謎数字までを整理。後半は短編「赤と黒」が描く、両親を亡くした子供の兄ニーアが妹ヨナの薬代を稼ぐためなんでもする重い時間、本編で兄が髪を結っている理由の答え合わせまで触れる。岡部啓一+MONACAのサントラ、Emi Evans/中川奈美の架空言語ボーカルの話題も挟みつつ、「公式の余白をファンが本編パートの空気で埋める」ファンメイドの強度を、つむぎが本物のレトロゲーマニア視点で語る回。ネタバレは抑えつつ、ニーア未プレイのリスナーも遊んでみたくなる温度で。</description>
+      <content:encoded><![CDATA[今回は2023年に itch.io で公開されたファンメイドVN『ニーア レプリカント Red and Black』を深掘り。Pjf238というファンが、本編『NieR Replicant』設定資料集 Grimoire NieR に収録された短編小説「赤と黒」を、本編中の白文字+黒背景のVNパート様式に合わせて再構築した愛ある一本。回の前半ではヨコオタロウ監督・Cavia開発・スクウェア・エニックス販売の本編が2010年に兄ニーア版と父ニーア版の二種で同時発売された経緯、3ヶ月後にCaviaがAQ Interactiveに吸収された遺作スタジオ説、2021年のリマスターver.1.22474487139...の謎数字までを整理。後半は短編「赤と黒」が描く、両親を亡くした子供の兄ニーアが妹ヨナの薬代を稼ぐためなんでもする重い時間、本編で兄が髪を結っている理由の答え合わせまで触れる。岡部啓一+MONACAのサントラ、Emi Evans/中川奈美の架空言語ボーカルの話題も挟みつつ、「公式の余白をファンが本編パートの空気で埋める」ファンメイドの強度を、つむぎが本物のレトロゲーマニア視点で語る回。ネタバレは抑えつつ、ニーア未プレイのリスナーも遊んでみたくなる温度で。]]></content:encoded>
+      <enclosure url="https://news.tabinomichi.jp/audio/indie/20260617_050842.mp3?v=1781641738" length="6924372" type="audio/mpeg"/>
+      <itunes:title>赤と黒の輪舞曲 〜兄ニーアが歩いた、本編前夜の物語〜</itunes:title>
+      <itunes:summary>今回は2023年に itch.io で公開されたファンメイドVN『ニーア レプリカント Red and Black』を深掘り。Pjf238というファンが、本編『NieR Replicant』設定資料集 Grimoire NieR に収録された短編小説「赤と黒」を、本編中の白文字+黒背景のVNパート様式に合わせて再構築した愛ある一本。回の前半ではヨコオタロウ監督・Cavia開発・スクウェア・エニックス販売の本編が2010年に兄ニーア版と父ニーア版の二種で同時発売された経緯、3ヶ月後にCaviaがAQ Interactiveに吸収された遺作スタジオ説、2021年のリマスターver.1.22474487139...の謎数字までを整理。後半は短編「赤と黒」が描く、両親を亡くした子供の兄ニーアが妹ヨナの薬代を稼ぐためなんでもする重い時間、本編で兄が髪を結っている理由の答え合わせまで触れる。岡部啓一+MONACAのサントラ、Emi Evans/中川奈美の架空言語ボーカルの話題も挟みつつ、「公式の余白をファンが本編パートの空気で埋める」ファンメイドの強度を、つむぎが本物のレトロゲーマニア視点で語る回。ネタバレは抑えつつ、ニーア未プレイのリスナーも遊んでみたくなる温度で。</itunes:summary>
+      <itunes:image href="https://news.tabinomichi.jp/images/og/20260617_050842.jpg"/>
+      <itunes:duration>7:12</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>『GTFO』開発陣が放つ孤独の恐怖 〜地の底へ潜るホラー『MOLE』〜</title>
       <link>https://news.tabinomichi.jp/radio/20260616_192724</link>
