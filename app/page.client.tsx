@@ -119,12 +119,16 @@ export default function PageClient() {
 
   const episodes = allEpisodes.filter((e) => e.profile === profile)
 
-  // バッチで全エピソードの再生数を 1 リクエストで取得 (N 並列 fetch しない)
+  // 全エピソードの再生数をバッチ取得 (N 並列 fetch しない)。
+  // 依存配列は episodes(毎レンダー新しい配列参照になる) ではなく、ids 文字列にする。
+  // 旧実装は [episodes] 依存 + setViewCounts の再レンダーで fetch が無限ループし、
+  // 1 タブが /api/views を毎秒連打 -> KV read 爆発の主因になっていた。
+  // 文字列キーなら値比較で安定し、id セットが実際に変わった時だけ発火する。
+  const viewIdsKey = episodes.map((e) => e.episode_id).join(',')
   useEffect(() => {
-    if (episodes.length === 0) return
+    if (!viewIdsKey) return
     let cancelled = false
-    const ids = episodes.map((e) => e.episode_id).join(',')
-    fetch(`/api/views?ids=${ids}`, { cache: 'no-store' })
+    fetch(`/api/views?ids=${viewIdsKey}`)
       .then((r) => (r.ok ? r.json() : null))
       .then((d) => {
         if (cancelled) return
@@ -132,7 +136,7 @@ export default function PageClient() {
       })
       .catch(() => {})
     return () => { cancelled = true }
-  }, [episodes])
+  }, [viewIdsKey])
 
   const searchParams = useSearchParams()
   const filterGenre = searchParams?.get('genre') || null
