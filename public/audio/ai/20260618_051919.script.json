@@ -1,0 +1,513 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-06-17T20:19:19.830684+00:00",
+  "title": "AIの土台を奪い合う朝 〜9兆円のロケット買収と、動き出す勢力図〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便。テックニュースの回、四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝もテックの話題、軽くサクッといくのだー!",
+      "news_index": 0,
+      "reading": "ボク、ずんだもんなのだー!けさもテックのわだい、かるくサクッといくのだー!"
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "今日はね、AIまわりの大きな動きを4本、朝のお供に流していくわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "4本! 今日はどんなラインナップなのだ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ロケットの会社が9兆円でAIを買った話、それにみんなが使うAIチャットの勢力図ね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ロケットの会社が9兆円!? いきなり景気のいい話なのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "残り2本は未来寄り。朝から飛ばしていくわよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ1本目。スペースエックス、イーロン・マスクのロケット会社が、AIの会社を丸ごと買ったのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ロケット屋が、AIを? なんで畑違いのとこを買うのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "買ったのは『カーソル』。プログラムを書くのを手伝うAIの道具ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "かーそる? 画面でピコピコ点滅する、あの文字の棒のことなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "名前は同じでも別物。指示すると、AIが代わりにコードを書いてくれる人気の道具なの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、『AIにプログラム書かせる』って、最近よく聞くやつなのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。それを6月16日に、ぜんぶ株で、日本円でおよそ9兆円で買うって発表したの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "9兆円!? お小遣いを一億回もらっても、まだ届かない額じゃん!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "届かないわね。ベンチャー企業の買収としては過去最大級、くらいの規模って言われてるのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "でも、なんでロケット屋がそこまでコーディングAIを欲しがるのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "買収の狙いは、マスク陣営のAI開発力、とくにコーディング能力を強めることだと報じられているの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "プログラムをみんなで預けて、直して、見せ合う置き場ね。今はギットハブってサービスが王様の分野。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ぎっとはぶ! プログラマーがコード置いとくとこ、なのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう、それは今マイクロソフトのもの。そこに直接殴り込んだというより、AIコーディングの開発基盤を強める動き、って構図ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "王様の倉庫の隣に、対抗倉庫をドンと建てた感じなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "うまいわね。しかも『AIが自分でコードを書く前提』の倉庫なんですって。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、これボクたちには、どう関係するのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "プログラミングの土台を、マスク陣営とマイクロソフトで取り合いが始まった、ってこと。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "土台の取り合いか。便利になるなら、ボクは歓迎なのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "2本目。みんなが使うAIチャット、その勢力図が、けっこう動いてるのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "勢力図? AIチャットって、チャットジーピーティーの一強じゃなかったのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ちょっと前まではね。調査会社のデータだと、Sensor Towerのデータでは、チャットジーピーティーは2026年1月までは過半を保っていたの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "7割! ほぼ独り勝ちじゃん!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それが2026年5月末には46.4パーセントまで落ちて、半分を下回ったの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "7割から5割!? けっこうガクッと減ってるのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "代わりに伸びたのが、グーグルのジェミニ。1年で5パーセントくらいから、3割近くまで来たの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "5パーから3割!? 何があったらそんなに増えるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "伸びた背景には、AndroidやGoogleのサービスに深く組み込まれていることもあるのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "あー、わざわざアプリ入れなくても、もうそこに居るってことなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そういうこと。性能の差が縮まると、最後は『手元にあるかどうか』が効くの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ちなみに、クロードはどのくらいなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "8パーセントくらい。三番手だけど、お仕事で使う人が多い、玄人好みの位置取りね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "量より質、みたいな立ち位置なのだね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、これが私たちにどう効くか。気づかないうちに、使うAIがジェミニに変わってるかも、ってこと。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "スマホに最初からあると、ついそれ使っちゃうもんねー。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "3本目は、ちょっと未来寄り。『オデッセイ』っていうAIの会社に、大金が集まったのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "おでっせい? 何を作ってる会社なのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "『ワールドモデル』っていう、ちょっと変わったAIね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "わーるどもでる? また横文字なのだ。普通のAIと何が違うのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "チャットのAIは『次にくる言葉』を予想してるの。こっちは『物の動き』を予想するのよ。",
+      "news_index": 3,
+      "reading": "チャットのAIは『つぎにくることば』をよそうしてるの。こっちは『ものうごき』をよそうするのよ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "物の動き? ボールが転がるとか、そういうの?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そう。重力とか、ぶつかったらどうなるとか、物理の世界まるごとを頭の中で再現しようとするの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、ロボットとか自動運転に効きそうなやつなのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "鋭いわね。まさにそこ狙いで、調達額はおよそ3億1,000万ドル、日本円で450億円くらい。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "450億! 言葉じゃなくて世界そのものを覚えるAIに、そんなに集まるのだ!?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "面白いのが顔ぶれ。アマゾンに加えて、エーエムディーやエヌビディアの投資部門も参加したの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "エヌビディアが降りた!? AIに一番お金出してる会社じゃん!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今回の回にもエヌビディアは投資家として名前が出ているのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "つるはし屋が、金鉱から一歩引いた、みたいな話なのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "その読み方もできるわね。代わりにアマゾンが、自前のチップで計算を支えるみたい。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、これボクたちには、いつ関係してくるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "すぐじゃないわ。でも数年先、家にロボットが来る未来の、土台になる技術なの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "家にロボット! ボク、それずっと待ってるのだー!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあラスト4本目。研究チームが、ちょっとSFみたいな成果を出したのよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "SFみたいなのだ? 何をやったのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "『ほぼ自律型のAI化学者』。AI化学者Philを使った自動合成基盤で、創薬向けの化合物空間と合成ワークフローを検証したの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "AIが、自分で実験? 計算するだけじゃないのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこが新しいの。今までのAIは『データを眺めて分析する』係だったでしょ。",
+      "news_index": 4,
+      "reading": "そこがあたらしいの。いままでのAIは『データをデータをながめてぶんせきする』かかりだったでしょ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "うんうん、賢い相談相手、って感じだったのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今度のは、自分で仮説を立てて、実験の段取りを組んで、結果まで読むの。研究者そのものね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、それもう研究者の仕事を、まるっとやってるじゃん!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "化学の研究所と組んでね。新しい薬のもとになる、難しい反応を改善したんですって。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "難しい反応って、何がそんなに難しいのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ざっくり言うと、作りたい物がなかなかうまく出来ない工程ね。そこをAIが自力で前に進めたの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、これボクたちには、どう効くのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "新しい薬が出来るスピードが、これから上がるかも、って話よ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "病気が早く治せる薬が増えるなら、最高すぎるでしょ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう願いたいわね。AIが研究者になり始めた分野が、じわじわ広がってるの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで今朝は、4本立てでお届けしたわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ロケット屋が9兆円でコーディングAIを買って、AIチャットの勢力図が動いて、世界を覚えるAIに大金、最後はAIが研究者なのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "よくまとまったわね。一行で言うと『AIの土台争いが、あちこちで始まった朝』ってとこ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "気になったやつがあったら、あとで調べてみてほしいのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "kamera",
+      "text": "それじゃ、今日も一日いってらっしゃい。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "また明日のテック朝便で会おうなのだ! 行ってきますなのだー!",
+      "news_index": 0
+    }
+  ],
+  "program_description": "旅の道ラジオ朝便、テックニュースの回。今朝はAIまわりの大きな動きを4本立てで。1本目はイーロン・マスクのスペースエックスが、コーディングAI『カーソル』を日本円でおよそ9兆円、過去最大級の規模で買収し、翌日にはコードの保管庫『オリジン』を発表してマイクロソフトのギットハブに殴り込んだ話。2本目はみんなが使うAIチャットの勢力図が動き、チャットジーピーティーが7割超から5割強へ後退、アンドロイドに標準搭載されたグーグルのジェミニが急伸している件。3本目は物理世界をまるごと再現する『ワールドモデル』の会社オデッセイが450億円を調達し、エヌビディアが出資から降りた話。最後はオープンエーアイの『ほぼ自律型AI化学者』が、自分で実験して創薬の難しい反応を改善した話題まで。気軽に聴けるテック雑談回。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20260618_051919_chars.webp",
+    "hero_rel": "/images/topics/tech_20260618_051919.webp",
+    "title": "AIの土台を奪い合う朝 〜9兆円のロケット買収と、動き出す勢力図〜",
+    "companies": [
+      "OpenAI",
+      "NVIDIA",
+      "Gemini",
+      "Microsoft",
+      "Google",
+      "X",
+      "Amazon",
+      "Claude"
+    ]
+  },
+  "summary_short": "スペースXがGitHub包囲網を敷き、ChatGPT覇権が崩れてジェミニが急伸。世界モデル企業には巨額資金が流れ、創薬で自律実験するAI化学者まで登場。AI産業の土台を奪い合う勢力図が、この朝だけで激変した4本。"
+}
