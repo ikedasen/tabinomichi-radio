@@ -7,8 +7,8 @@
     <description>ずんだもん × めたん × つむぎが届ける、ゲーム &amp; テックニュース雑談ラジオ。朝便と夜便で毎日更新、レトロから新作まで、最新 AI 動向から業界マクロまで雑談形式でサクッと。</description>
     <language>ja</language>
     <copyright>© 2026 tabinomichi</copyright>
-    <lastBuildDate>Thu, 18 Jun 2026 05:32:40 +0900</lastBuildDate>
-    <pubDate>Thu, 18 Jun 2026 05:19:19 +0900</pubDate>
+    <lastBuildDate>Fri, 19 Jun 2026 05:51:49 +0900</lastBuildDate>
+    <pubDate>Fri, 19 Jun 2026 05:37:23 +0900</pubDate>
     <generator>build_rss_feed.py (tabinomichi radio)</generator>
     <image>
       <url>https://news.tabinomichi.jp/podcast-cover.png?v=1779005902</url>
@@ -29,6 +29,36 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>頭脳は安く、体は高く 〜タダの最強AIとグラボ高騰、テック朝便4本立て〜</title>
+      <link>https://news.tabinomichi.jp/radio/20260619_053723</link>
+      <guid isPermaLink="false">tabinomichi-radio-20260619_053723</guid>
+      <pubDate>Fri, 19 Jun 2026 05:37:23 +0900</pubDate>
+      <description>通勤・通学のおともに、今朝のテック話題を4本軽くまとめる回。1本目は中国・清華大学発のゼットエーアイが出した無料の超賢いAI『ジーエルエム5.2』。中身を丸ごと公開するオープンウェイトで、コードを書く力では有料の最強クラスに迫った下剋上を噛み砕きます。2本目はチャットジーピーティーの新モデルが健康相談で大きく進化、週に2億人が頼る時代の落とし穴も。3本目はクロードコードの新機能『アーティファクツ』、作業の中身をURL一本で共有できる便利さ。ラストはゲーマー泣かせのグラボ値上がり、犯人はメモリ不足とAI需要と円安という三重苦。賢いAIはタダに近づき、部品はどんどん高くなる、その逆向きの今を5分で。</description>
+      <content:encoded><![CDATA[通勤・通学のおともに、今朝のテック話題を4本軽くまとめる回。1本目は中国・清華大学発のゼットエーアイが出した無料の超賢いAI『ジーエルエム5.2』。中身を丸ごと公開するオープンウェイトで、コードを書く力では有料の最強クラスに迫った下剋上を噛み砕きます。2本目はチャットジーピーティーの新モデルが健康相談で大きく進化、週に2億人が頼る時代の落とし穴も。3本目はクロードコードの新機能『アーティファクツ』、作業の中身をURL一本で共有できる便利さ。ラストはゲーマー泣かせのグラボ値上がり、犯人はメモリ不足とAI需要と円安という三重苦。賢いAIはタダに近づき、部品はどんどん高くなる、その逆向きの今を5分で。]]></content:encoded>
+      <enclosure url="https://news.tabinomichi.jp/audio/ai/20260619_053723.mp3?v=1781815903" length="6827406" type="audio/mpeg"/>
+      <itunes:title>頭脳は安く、体は高く 〜タダの最強AIとグラボ高騰、テック朝便4本立て〜</itunes:title>
+      <itunes:summary>通勤・通学のおともに、今朝のテック話題を4本軽くまとめる回。1本目は中国・清華大学発のゼットエーアイが出した無料の超賢いAI『ジーエルエム5.2』。中身を丸ごと公開するオープンウェイトで、コードを書く力では有料の最強クラスに迫った下剋上を噛み砕きます。2本目はチャットジーピーティーの新モデルが健康相談で大きく進化、週に2億人が頼る時代の落とし穴も。3本目はクロードコードの新機能『アーティファクツ』、作業の中身をURL一本で共有できる便利さ。ラストはゲーマー泣かせのグラボ値上がり、犯人はメモリ不足とAI需要と円安という三重苦。賢いAIはタダに近づき、部品はどんどん高くなる、その逆向きの今を5分で。</itunes:summary>
+      <itunes:image href="https://news.tabinomichi.jp/images/og/20260619_053723.jpg"/>
+      <itunes:duration>7:06</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>こんなげーむにまじになっちゃってどうするの 〜伝説のクソゲー『たけしの挑戦状』〜</title>
+      <link>https://news.tabinomichi.jp/radio/20260619_050846</link>
+      <guid isPermaLink="false">tabinomichi-radio-20260619_050846</guid>
+      <pubDate>Fri, 19 Jun 2026 05:08:46 +0900</pubDate>
+      <description>今回はレトロ回、しかもクソゲー回。1986年にタイトーから発売された、ビートたけし監修のファミコンソフト『たけしの挑戦状』を、実機クリア経験者のつむぎが愛と傷を込めて語る。会社を辞めて離婚することが攻略手順に組み込まれた規格外のストーリー、水に5分つけてマイクに叫ばないと浮かばない宝の地図、実時間1時間の日光放置、パチンコ中に「でねぇぞ」と叫ぶマイク芸など、理不尽ギミックの数々を列伝形式で紹介。クリア後に5分待つと表示される伝説のメッセージ「こんなげーむにまじになっちゃってどうするの」、ファミ通クソゲーランキング1位の称号、そして2017年のアプリ復刻まで。当時やり切った子どもたちの誇りと共に、クソゲーがクソゲーのまま愛され続ける理由を掘る回。</description>
+      <content:encoded><![CDATA[今回はレトロ回、しかもクソゲー回。1986年にタイトーから発売された、ビートたけし監修のファミコンソフト『たけしの挑戦状』を、実機クリア経験者のつむぎが愛と傷を込めて語る。会社を辞めて離婚することが攻略手順に組み込まれた規格外のストーリー、水に5分つけてマイクに叫ばないと浮かばない宝の地図、実時間1時間の日光放置、パチンコ中に「でねぇぞ」と叫ぶマイク芸など、理不尽ギミックの数々を列伝形式で紹介。クリア後に5分待つと表示される伝説のメッセージ「こんなげーむにまじになっちゃってどうするの」、ファミ通クソゲーランキング1位の称号、そして2017年のアプリ復刻まで。当時やり切った子どもたちの誇りと共に、クソゲーがクソゲーのまま愛され続ける理由を掘る回。]]></content:encoded>
+      <enclosure url="https://news.tabinomichi.jp/audio/indie/20260619_050846.mp3?v=1781815907" length="6411536" type="audio/mpeg"/>
+      <itunes:title>こんなげーむにまじになっちゃってどうするの 〜伝説のクソゲー『たけしの挑戦状』〜</itunes:title>
+      <itunes:summary>今回はレトロ回、しかもクソゲー回。1986年にタイトーから発売された、ビートたけし監修のファミコンソフト『たけしの挑戦状』を、実機クリア経験者のつむぎが愛と傷を込めて語る。会社を辞めて離婚することが攻略手順に組み込まれた規格外のストーリー、水に5分つけてマイクに叫ばないと浮かばない宝の地図、実時間1時間の日光放置、パチンコ中に「でねぇぞ」と叫ぶマイク芸など、理不尽ギミックの数々を列伝形式で紹介。クリア後に5分待つと表示される伝説のメッセージ「こんなげーむにまじになっちゃってどうするの」、ファミ通クソゲーランキング1位の称号、そして2017年のアプリ復刻まで。当時やり切った子どもたちの誇りと共に、クソゲーがクソゲーのまま愛され続ける理由を掘る回。</itunes:summary>
+      <itunes:image href="https://news.tabinomichi.jp/images/og/20260619_050846.jpg"/>
+      <itunes:duration>6:40</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AIの土台を奪い合う朝 〜9兆円のロケット買収と、動き出す勢力図〜</title>
       <link>https://news.tabinomichi.jp/radio/20260618_051919</link>

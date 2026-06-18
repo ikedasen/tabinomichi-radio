@@ -1,0 +1,492 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-06-18T20:37:23.776673+00:00",
+  "title": "頭脳は安く、体は高く 〜タダの最強AIとグラボ高騰、テック朝便4本立て〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便、テックニュースの回。四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 通勤・通学のおともに、今朝もテックの話、軽くいくのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今日は4本立て。中国発の無料AIに、チャットのお医者さん化、クロードの新機能、それからグラボのお値段ね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "グラボのお値段? それボクの一番痛いやつなのだ……。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ふふ、最後にたっぷり泣かせてあげる。まずは軽いとこからいきましょ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "了解なのだ! 1本目、お願いするのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ1本目。中国発のAIで、タダで配ってるのに、めちゃくちゃ賢いやつが出たのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "タダで配ってる? AIって普通、お金取るんじゃないのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "名前は『ジーエルエム5.2』。作ってるのはゼットエーアイっていう、清華大学から生まれた会社ね。",
+      "news_index": 1,
+      "reading": "なまえは ジーエルエム ごーてんに。つくってるのは ゼットエーアイっていう、せいかだいがくから うまれた かいしゃね。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "せいかだいがく? 中国のすごく賢い大学だっけ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、中国トップの理系大学。で、このAIが『オープンウェイト』っていって、中身を丸ごと公開してるの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "中身を公開? レシピごと配っちゃうってことなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "いい例えね。普通のAIは中身を隠して『使わせてあげる』方式。こっちは重みを手元で動かしたり改変したりしやすい形で出しているの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、太っ腹すぎるのだ! 商売する気あるのだ!?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "しかもライセンスがゆるくて、会社の仕事に使ってもオッケー。お金も一円もいらないのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "でもさ、タダより高いものはない、って言うじゃん。安かろう悪かろうじゃないのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "それがね、そうでもないの。一部のコーディング系ベンチマークで、有料のジーピーティー5.5を上回ったのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "有料の最強クラスに、無料が勝った!? それ下剋上じゃん!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そういうこと。しかも一度に覚えていられる文章の量も、本一冊どころか百万文字級なの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "百万文字! ボクの夏休みの読書感想文、一生分まとめて覚えてくれるのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、私たちにどう関係あるか。要は、お金のない個人や小さな会社でも、最強級のAIが手に入るってこと。",
+      "news_index": 1,
+      "reading": "で、わたしたちにどうかんけいあるか。ようは、おかねのないこじんやちいさなかいしゃでも、さいきょうきゅうのAIがてにはいるってこと。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "つまり、AIの強さがお財布の厚さで決まる時代が、ちょっと崩れるってことなのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今の一行、正解。じゃあ次いきましょ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "2本目。チャットジーピーティーが、お医者さんみたいに進化してるって話。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "お医者さん? AIに『お腹痛い』って言ったら、診てくれるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "診断まではしないわよ。でも健康の質問に答える力が、新しいモデルでぐっと上がったの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "上がったって、どうやって測るのだ? AIのテストでもあるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "あるのよ。『ヘルスベンチ』っていう、健康の答えの良し悪しを採点する物差しがあってね。",
+      "news_index": 2,
+      "reading": "あるのよ。ヘルスベンチっていう、けんこうの こたえの よしあしを さいてんする ものさしが あってね。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、AI版の健康模試、みたいなやつなのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "近いわね。しかも採点には、60カ国の260人以上のお医者さんが関わってるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "260人のお医者さん!? もはや大名行列みたいな採点団なのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、一番効くのが、間違った健康情報を出す割合が、ここ数ヶ月でガクッと減ったこと。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "それ大事じゃん。AIが嘘の健康情報出したら、洒落にならないのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。しかも今、週に2億人以上がチャットジーピーティーに健康のことを聞いてるのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "2億人!? もう街のお医者さんより、相談されてるレベルなのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "だからこそ間違いを減らすのが命綱なの。とはいえ、これ自社の採点だから、過信は禁物よ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "自分でテスト作って自分で満点、みたいな危うさもあるってことなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そこ冷静ね。で、私たちへの影響は、軽い体調の相談はAIが入り口になる時代ってこと。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "病院行く前に、まずボクのスマホに聞いてみる、って感じなのだね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ただし最後の決め手は人間のお医者さん。そこは忘れないでね。次いくわよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "3本目。プログラマー向けの話だけど、ちゃんと噛み砕くから安心して。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "やったー、噛み砕いてもらえるのだー!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "クロードを作ってるアンソロピックが、『クロードコード』っていうプログラミングの助手に、新機能を足したの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "くろーどこーど? プログラムを書くのを手伝うAIだっけ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。今度の機能は『アーティファクツ』。作ったコードや資料を、Claude 上でプレビューしたり、共有しやすい形にできるのよ。",
+      "news_index": 3,
+      "reading": "そう。こんどのきのうは『アーティファクツ』。つくったコードやしりょうを、くろーどじょうでプレビューしたり、きょうゆうしやすいかたちにできるのよ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ページにして配る? それ、どういうことなのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "たとえば『コードをこう直したよ』って説明を、リンク一本でチームに送れるの。資料を作り直さずにね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、わざわざ別で報告書を書かなくていいってことなのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "しかもClaude 上では修正を頼むたびにアーティファクトのプレビューが更新されるの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "勝手に更新!? 出しっぱなしでいいって、それボクにぴったりなのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "ズボラ向けとは言ってないけど。以前は有料向け中心だったけど、今は無料ユーザーにも広がっている機能ね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、これ、プログラマーじゃないボクにも関係あるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "あるわよ。今までエンジニアしか読めなかった作業の中身が、リンク一つで誰でも見られるようになるの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "チームの中の『何やってるか分からない人』が、減るってことなのだね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いい着地。じゃあ最後、お待ちかねの痛い話、いくわよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ラスト4本目。グラフィックボード、グラボのお値段が、また上がってるのよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "来た、ボクの宿敵なのだ! グラボってあの、ゲームをぬるぬる動かす部品だっけ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、絵を描く計算が得意な部品ね。それが2025年の11月くらいから、2割近く値上がりしてるの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "2割!? じわじわ財布を削ってくるやつなのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一番安いクラスで、ようやく3万5,000円くらい。高いやつだと、上は70万円くらいするのよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "70万!? もうグラボっていうより、中古車のお値段なのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "言いたくなる気持ちは分かるわ。で、なんで上がってるか。大きな要因は、メモリ不足とAI向け需要の強さなの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "メモリ? グラボとメモリって、別もんじゃないのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それがね、グラボの中にも『映像メモリ』っていう専用のメモリが積んであるの。原価の3割から4割がそれ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、グラボの中身の、半分近くがメモリ代ってことなのだ!?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。だからメモリが1割値上がりするだけで、グラボは数千円ポンと跳ねるのよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、なんでそんなにメモリが足りないのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "AIデータセンター向けのHBMやDRAM需要が急増して、メモリメーカーがそちらを優先しているから。そこに円安も乗っかって、二重三重のパンチね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "AIの戦争のとばっちりが、ゲーマーのボクにまで来てるのだ……。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、私たちへの影響は、はっきりしてる。今年パソコンを組むなら、予算は多めに見ておくこと。",
+      "news_index": 4,
+      "reading": "で、わたしたちへのえいきょうは、はっきりしてる。ことしパソコンをくむなら、よさんはおおめにみておくこと。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "値下がりを待つボクの夏休み計画、白紙なのだ……。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "残念でした。って、しんみりしたところで、そろそろお別れの時間ね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで今朝は4本。無料の最強AI、お医者さん化するチャット、クロードの共有機能、それからグラボ高騰、でした。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "振り返ると、賢いAIはタダに近づいて、部品はどんどん高くなる。これ、逆方向なのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いいとこ突くわね。頭脳は安く、体は高く。今のテックの縮図かもしれない。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "気になったやつあったら、ちょっと調べてみてほしいのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それじゃ、また明日のテック朝便で。いってらっしゃい。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "今日も一日、いってらっしゃいなのだ! ばいばいなのだー!",
+      "news_index": 0
+    }
+  ],
+  "program_description": "通勤・通学のおともに、今朝のテック話題を4本軽くまとめる回。1本目は中国・清華大学発のゼットエーアイが出した無料の超賢いAI『ジーエルエム5.2』。中身を丸ごと公開するオープンウェイトで、コードを書く力では有料の最強クラスに迫った下剋上を噛み砕きます。2本目はチャットジーピーティーの新モデルが健康相談で大きく進化、週に2億人が頼る時代の落とし穴も。3本目はクロードコードの新機能『アーティファクツ』、作業の中身をURL一本で共有できる便利さ。ラストはゲーマー泣かせのグラボ値上がり、犯人はメモリ不足とAI需要と円安という三重苦。賢いAIはタダに近づき、部品はどんどん高くなる、その逆向きの今を5分で。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20260619_053723_chars.webp",
+    "hero_rel": "/images/topics/tech_20260619_053723.webp",
+    "title": "頭脳は安く、体は高く 〜タダの最強AIとグラボ高騰、テック朝便4本立て〜",
+    "companies": [
+      "Claude",
+      "OpenAI",
+      "Meta"
+    ]
+  },
+  "summary_short": "賢さはタダになり、部品は高騰する——逆行するテックの今を4本で。清華大発の無料AI「GLM-5.2」が有料最強級に肉薄し、ChatGPTは健康相談で急進化。Claude Codeは作業共有をURL一本に、グラボは円安とAI需要で三重苦。"
+}

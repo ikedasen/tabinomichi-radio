@@ -1,0 +1,806 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-06-19T05:37:23+09:00",
+  "title": "頭脳は安く、体は高く 〜タダの最強AIとグラボ高騰、テック朝便4本立て〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 426.66,
+  "script_hash": "sha256:167bc7a331ef643d91a0bd846e75e4bb9c539c3d3b2846bb71f21449eb466cec",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 4.64
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便、テックニュースの回。四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 4.64,
+      "end_sec": 9.85
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 通勤・通学のおともに、今朝もテックの話、軽くいくのだー!",
+      "news_index": 0,
+      "start_sec": 10.0,
+      "end_sec": 16.05
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今日は4本立て。中国発の無料AIに、チャットのお医者さん化、クロードの新機能、それからグラボのお値段ね。",
+      "news_index": 0,
+      "start_sec": 16.2,
+      "end_sec": 23.17
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "グラボのお値段? それボクの一番痛いやつなのだ……。",
+      "news_index": 0,
+      "start_sec": 23.32,
+      "end_sec": 26.86
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ふふ、最後にたっぷり泣かせてあげる。まずは軽いとこからいきましょ。",
+      "news_index": 0,
+      "start_sec": 27.01,
+      "end_sec": 30.88
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "了解なのだ! 1本目、お願いするのだ!",
+      "news_index": 0,
+      "start_sec": 31.03,
+      "end_sec": 34.1
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ1本目。中国発のAIで、タダで配ってるのに、めちゃくちゃ賢いやつが出たのよ。",
+      "news_index": 1,
+      "start_sec": 34.25,
+      "end_sec": 39.95
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "タダで配ってる? AIって普通、お金取るんじゃないのだ?",
+      "news_index": 1,
+      "start_sec": 40.1,
+      "end_sec": 44.39
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "名前は『ジーエルエム5.2』。作ってるのはゼットエーアイっていう、清華大学から生まれた会社ね。",
+      "news_index": 1,
+      "start_sec": 44.54,
+      "end_sec": 50.55
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "せいかだいがく? 中国のすごく賢い大学だっけ?",
+      "news_index": 1,
+      "start_sec": 50.7,
+      "end_sec": 54.71
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、中国トップの理系大学。で、このAIが『オープンウェイト』っていって、中身を丸ごと公開してるの。",
+      "news_index": 1,
+      "start_sec": 54.86,
+      "end_sec": 62.29
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "中身を公開? レシピごと配っちゃうってことなのだ?",
+      "news_index": 1,
+      "start_sec": 62.44,
+      "end_sec": 66.16
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "いい例えね。普通のAIは中身を隠して『使わせてあげる』方式。こっちは重みを手元で動かしたり改変したりしやすい形で出しているの。",
+      "news_index": 1,
+      "start_sec": 66.31,
+      "end_sec": 75.54
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、太っ腹すぎるのだ! 商売する気あるのだ!?",
+      "news_index": 1,
+      "start_sec": 75.69,
+      "end_sec": 79.39
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "しかもライセンスがゆるくて、会社の仕事に使ってもオッケー。お金も一円もいらないのよ。",
+      "news_index": 1,
+      "start_sec": 79.54,
+      "end_sec": 84.93
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "でもさ、タダより高いものはない、って言うじゃん。安かろう悪かろうじゃないのだ?",
+      "news_index": 1,
+      "start_sec": 85.08,
+      "end_sec": 90.82
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "それがね、そうでもないの。一部のコーディング系ベンチマークで、有料のジーピーティー5.5を上回ったのよ。",
+      "news_index": 1,
+      "start_sec": 90.97,
+      "end_sec": 97.75
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "有料の最強クラスに、無料が勝った!? それ下剋上じゃん!",
+      "news_index": 1,
+      "start_sec": 97.9,
+      "end_sec": 102.21
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そういうこと。しかも一度に覚えていられる文章の量も、本一冊どころか百万文字級なの。",
+      "news_index": 1,
+      "start_sec": 102.36,
+      "end_sec": 107.96
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "百万文字! ボクの夏休みの読書感想文、一生分まとめて覚えてくれるのだ!",
+      "news_index": 1,
+      "start_sec": 108.11,
+      "end_sec": 114.5
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、私たちにどう関係あるか。要は、お金のない個人や小さな会社でも、最強級のAIが手に入るってこと。",
+      "news_index": 1,
+      "start_sec": 114.65,
+      "end_sec": 122.23
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "つまり、AIの強さがお財布の厚さで決まる時代が、ちょっと崩れるってことなのだ!",
+      "news_index": 1,
+      "start_sec": 122.38,
+      "end_sec": 127.87
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今の一行、正解。じゃあ次いきましょ。",
+      "news_index": 1,
+      "start_sec": 128.02,
+      "end_sec": 130.84
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "2本目。チャットジーピーティーが、お医者さんみたいに進化してるって話。",
+      "news_index": 2,
+      "start_sec": 130.92,
+      "end_sec": 135.17
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "お医者さん? AIに『お腹痛い』って言ったら、診てくれるのだ?",
+      "news_index": 2,
+      "start_sec": 135.32,
+      "end_sec": 140.11
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "診断まではしないわよ。でも健康の質問に答える力が、新しいモデルでぐっと上がったの。",
+      "news_index": 2,
+      "start_sec": 140.26,
+      "end_sec": 146.13
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "上がったって、どうやって測るのだ? AIのテストでもあるのだ?",
+      "news_index": 2,
+      "start_sec": 146.28,
+      "end_sec": 150.73
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "あるのよ。『ヘルスベンチ』っていう、健康の答えの良し悪しを採点する物差しがあってね。",
+      "news_index": 2,
+      "start_sec": 150.88,
+      "end_sec": 156.13
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、AI版の健康模試、みたいなやつなのだ!",
+      "news_index": 2,
+      "start_sec": 156.28,
+      "end_sec": 160.02
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "近いわね。しかも採点には、60カ国の260人以上のお医者さんが関わってるの。",
+      "news_index": 2,
+      "start_sec": 160.17,
+      "end_sec": 165.66
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "260人のお医者さん!? もはや大名行列みたいな採点団なのだ!",
+      "news_index": 2,
+      "start_sec": 165.81,
+      "end_sec": 171.01
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、一番効くのが、間違った健康情報を出す割合が、ここ数ヶ月でガクッと減ったこと。",
+      "news_index": 2,
+      "start_sec": 171.16,
+      "end_sec": 177.13
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "それ大事じゃん。AIが嘘の健康情報出したら、洒落にならないのだ。",
+      "news_index": 2,
+      "start_sec": 177.28,
+      "end_sec": 182.15
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。しかも今、週に2億人以上がチャットジーピーティーに健康のことを聞いてるのよ。",
+      "news_index": 2,
+      "start_sec": 182.3,
+      "end_sec": 187.7
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "2億人!? もう街のお医者さんより、相談されてるレベルなのだ!",
+      "news_index": 2,
+      "start_sec": 187.85,
+      "end_sec": 192.36
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "だからこそ間違いを減らすのが命綱なの。とはいえ、これ自社の採点だから、過信は禁物よ。",
+      "news_index": 2,
+      "start_sec": 192.51,
+      "end_sec": 198.51
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "自分でテスト作って自分で満点、みたいな危うさもあるってことなのだ?",
+      "news_index": 2,
+      "start_sec": 198.66,
+      "end_sec": 203.44
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そこ冷静ね。で、私たちへの影響は、軽い体調の相談はAIが入り口になる時代ってこと。",
+      "news_index": 2,
+      "start_sec": 203.59,
+      "end_sec": 210.47
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "病院行く前に、まずボクのスマホに聞いてみる、って感じなのだね。",
+      "news_index": 2,
+      "start_sec": 210.62,
+      "end_sec": 215.11
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ただし最後の決め手は人間のお医者さん。そこは忘れないでね。次いくわよ。",
+      "news_index": 2,
+      "start_sec": 215.26,
+      "end_sec": 220.04
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "3本目。プログラマー向けの話だけど、ちゃんと噛み砕くから安心して。",
+      "news_index": 3,
+      "start_sec": 220.12,
+      "end_sec": 224.68
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "やったー、噛み砕いてもらえるのだー!",
+      "news_index": 3,
+      "start_sec": 224.83,
+      "end_sec": 227.56
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "クロードを作ってるアンソロピックが、『クロードコード』っていうプログラミングの助手に、新機能を足したの。",
+      "news_index": 3,
+      "start_sec": 227.71,
+      "end_sec": 233.86
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "くろーどこーど? プログラムを書くのを手伝うAIだっけ?",
+      "news_index": 3,
+      "start_sec": 234.01,
+      "end_sec": 237.96
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。今度の機能は『アーティファクツ』。作ったコードや資料を、Claude 上でプレビューしたり、共有しやすい形にできるのよ。",
+      "news_index": 3,
+      "start_sec": 238.11,
+      "end_sec": 245.74
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ページにして配る? それ、どういうことなのだ?",
+      "news_index": 3,
+      "start_sec": 245.89,
+      "end_sec": 249.24
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "たとえば『コードをこう直したよ』って説明を、リンク一本でチームに送れるの。資料を作り直さずにね。",
+      "news_index": 3,
+      "start_sec": 249.39,
+      "end_sec": 256.19
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、わざわざ別で報告書を書かなくていいってことなのだ!",
+      "news_index": 3,
+      "start_sec": 256.34,
+      "end_sec": 260.35
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "しかもClaude 上では修正を頼むたびにアーティファクトのプレビューが更新されるの。",
+      "news_index": 3,
+      "start_sec": 260.5,
+      "end_sec": 265.03
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "勝手に更新!? 出しっぱなしでいいって、それボクにぴったりなのだ!",
+      "news_index": 3,
+      "start_sec": 265.18,
+      "end_sec": 269.77
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "ズボラ向けとは言ってないけど。以前は有料向け中心だったけど、今は無料ユーザーにも広がっている機能ね。",
+      "news_index": 3,
+      "start_sec": 269.92,
+      "end_sec": 276.49
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、これ、プログラマーじゃないボクにも関係あるのだ?",
+      "news_index": 3,
+      "start_sec": 276.64,
+      "end_sec": 280.36
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "あるわよ。今までエンジニアしか読めなかった作業の中身が、リンク一つで誰でも見られるようになるの。",
+      "news_index": 3,
+      "start_sec": 280.51,
+      "end_sec": 286.49
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "チームの中の『何やってるか分からない人』が、減るってことなのだね。",
+      "news_index": 3,
+      "start_sec": 286.64,
+      "end_sec": 291.28
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いい着地。じゃあ最後、お待ちかねの痛い話、いくわよ。",
+      "news_index": 3,
+      "start_sec": 291.43,
+      "end_sec": 295.04
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ラスト4本目。グラフィックボード、グラボのお値段が、また上がってるのよ。",
+      "news_index": 4,
+      "start_sec": 295.12,
+      "end_sec": 299.62
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "来た、ボクの宿敵なのだ! グラボってあの、ゲームをぬるぬる動かす部品だっけ?",
+      "news_index": 4,
+      "start_sec": 299.77,
+      "end_sec": 305.31
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、絵を描く計算が得意な部品ね。それが2025年の11月くらいから、2割近く値上がりしてるの。",
+      "news_index": 4,
+      "start_sec": 305.46,
+      "end_sec": 312.63
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "2割!? じわじわ財布を削ってくるやつなのだ!",
+      "news_index": 4,
+      "start_sec": 312.78,
+      "end_sec": 316.18
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一番安いクラスで、ようやく3万5,000円くらい。高いやつだと、上は70万円くらいするのよ。",
+      "news_index": 4,
+      "start_sec": 316.33,
+      "end_sec": 322.87
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "70万!? もうグラボっていうより、中古車のお値段なのだ!",
+      "news_index": 4,
+      "start_sec": 323.02,
+      "end_sec": 327.44
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "言いたくなる気持ちは分かるわ。で、なんで上がってるか。大きな要因は、メモリ不足とAI向け需要の強さなの。",
+      "news_index": 4,
+      "start_sec": 327.59,
+      "end_sec": 334.51
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "メモリ? グラボとメモリって、別もんじゃないのだ?",
+      "news_index": 4,
+      "start_sec": 334.66,
+      "end_sec": 338.26
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それがね、グラボの中にも『映像メモリ』っていう専用のメモリが積んであるの。原価の3割から4割がそれ。",
+      "news_index": 4,
+      "start_sec": 338.41,
+      "end_sec": 345.55
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、グラボの中身の、半分近くがメモリ代ってことなのだ!?",
+      "news_index": 4,
+      "start_sec": 345.7,
+      "end_sec": 350.27
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。だからメモリが1割値上がりするだけで、グラボは数千円ポンと跳ねるのよ。",
+      "news_index": 4,
+      "start_sec": 350.42,
+      "end_sec": 355.55
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、なんでそんなにメモリが足りないのだ?",
+      "news_index": 4,
+      "start_sec": 355.7,
+      "end_sec": 358.56
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "AIデータセンター向けのHBMやDRAM需要が急増して、メモリメーカーがそちらを優先しているから。そこに円安も乗っかって、二重三重のパンチね。",
+      "news_index": 4,
+      "start_sec": 358.71,
+      "end_sec": 368.43
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "AIの戦争のとばっちりが、ゲーマーのボクにまで来てるのだ……。",
+      "news_index": 4,
+      "start_sec": 368.58,
+      "end_sec": 373.64
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、私たちへの影響は、はっきりしてる。今年パソコンを組むなら、予算は多めに見ておくこと。",
+      "news_index": 4,
+      "start_sec": 373.79,
+      "end_sec": 379.94
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "値下がりを待つボクの夏休み計画、白紙なのだ……。",
+      "news_index": 4,
+      "start_sec": 380.09,
+      "end_sec": 385.12
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "残念でした。って、しんみりしたところで、そろそろお別れの時間ね。",
+      "news_index": 4,
+      "start_sec": 385.27,
+      "end_sec": 389.46
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで今朝は4本。無料の最強AI、お医者さん化するチャット、クロードの共有機能、それからグラボ高騰、でした。",
+      "news_index": 0,
+      "start_sec": 389.54,
+      "end_sec": 397.42
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "振り返ると、賢いAIはタダに近づいて、部品はどんどん高くなる。これ、逆方向なのだ。",
+      "news_index": 0,
+      "start_sec": 397.57,
+      "end_sec": 404.35
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いいとこ突くわね。頭脳は安く、体は高く。今のテックの縮図かもしれない。",
+      "news_index": 0,
+      "start_sec": 404.5,
+      "end_sec": 409.29
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "気になったやつあったら、ちょっと調べてみてほしいのだ!",
+      "news_index": 0,
+      "start_sec": 409.44,
+      "end_sec": 412.77
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それじゃ、また明日のテック朝便で。いってらっしゃい。",
+      "news_index": 0,
+      "start_sec": 412.92,
+      "end_sec": 416.17
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "今日も一日、いってらっしゃいなのだ! ばいばいなのだー!",
+      "news_index": 0,
+      "start_sec": 416.32,
+      "end_sec": 419.92
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 420.62,
+      "end_sec": 426.66
+    }
+  ],
+  "wall_time_sec": 13.03,
+  "audio_url": "/audio/ai/20260619_053723.mp3?v=1781815903"
+}
