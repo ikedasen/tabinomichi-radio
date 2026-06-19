@@ -1,0 +1,756 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-06-20T05:16:13+09:00",
+  "title": "頭脳の引き抜き合戦と、優しい部品の朝 〜AI人材・自作PC・顔に乗るAI、テック4本立て〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 419.25,
+  "script_hash": "sha256:09655d7c3a889b6a7ddfac76533752fe9c2efab1b89f093d379626919831b1f0",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 5.05
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便、テックニュースの回。四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 5.05,
+      "end_sec": 10.27
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝もテックの話題を、軽くサクッといくのだー!",
+      "news_index": 0,
+      "start_sec": 10.42,
+      "end_sec": 15.24
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "welcome",
+      "text": "今日はね、AIから自作パソコンの部品まで、4本まとめてゆるっと流していくわ。",
+      "news_index": 0,
+      "start_sec": 15.39,
+      "end_sec": 21.15
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "朝から固い話が来たら、ボク二度寝しちゃうのだ。",
+      "news_index": 0,
+      "start_sec": 21.3,
+      "end_sec": 24.62
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "大丈夫、ぜんぶ噛み砕くから。むしろ財布に優しい話もあるわよ。",
+      "news_index": 0,
+      "start_sec": 24.77,
+      "end_sec": 29.02
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "財布!? 急に目が覚めたのだ! 早く1本目いこう!",
+      "news_index": 0,
+      "start_sec": 29.17,
+      "end_sec": 32.86
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ1本目。ノーベル賞をとった超一流のAI研究者が、グーグルから引き抜かれたのよ。",
+      "news_index": 1,
+      "start_sec": 33.01,
+      "end_sec": 38.72
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ノーベル賞!? AIの研究で、ノーベル賞なんてもらえるのだ?",
+      "news_index": 1,
+      "start_sec": 38.87,
+      "end_sec": 43.49
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "もらえるの。ジョン・ジャンパーってかたで、2024年にノーベル化学賞をとってるわ。",
+      "news_index": 1,
+      "start_sec": 43.64,
+      "end_sec": 49.31
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "かがくしょう? AIの人なのに、なんで化学なのだ?",
+      "news_index": 1,
+      "start_sec": 49.46,
+      "end_sec": 53.3
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "『アルファフォールド』っていうAIを作った人なの。タンパク質、体を作る部品の形を言い当てるやつね。",
+      "news_index": 1,
+      "start_sec": 53.45,
+      "end_sec": 60.08
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "タンパク質って、ボクが運動のあとに飲む、あのアレなのだ?",
+      "news_index": 1,
+      "start_sec": 60.23,
+      "end_sec": 64.25
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "タンパク質そのものね。タンパク質はアミノ酸がつながってできた、体を作る材料なの。形を解くのに昔は何年もかかった難問を、AIが一気に片づけたの。",
+      "news_index": 1,
+      "start_sec": 64.4,
+      "end_sec": 74.07
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "何年もかかるのを一気に!? それならノーベル賞も納得なのだ。",
+      "news_index": 1,
+      "start_sec": 74.22,
+      "end_sec": 78.62
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、そのかたが9年いたグーグルのディープマインドを辞めて、アンソロピックに移るの。",
+      "news_index": 1,
+      "start_sec": 78.77,
+      "end_sec": 83.76
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "あんそろぴっく? クロードってAIを作ってるとこだっけ?",
+      "news_index": 1,
+      "start_sec": 83.91,
+      "end_sec": 87.9
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、そこ。しかもディープマインドからは、ジェミニってAIを率いてた人も、前にオープンエーアイへ移ってるのよ。",
+      "news_index": 1,
+      "start_sec": 88.05,
+      "end_sec": 94.92
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "賢い人が次々お引越し! AI会社って、頭脳の引き抜き合戦してるってこと?",
+      "news_index": 1,
+      "start_sec": 95.07,
+      "end_sec": 101.4
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "まさにそれ。お金や研究環境も含めて、『誰を集められるか』が競争力に直結する、頭脳の争奪戦ね。",
+      "news_index": 1,
+      "start_sec": 101.55,
+      "end_sec": 108.53
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、これボクらに、どう関係するのだ?",
+      "news_index": 1,
+      "start_sec": 108.68,
+      "end_sec": 111.65
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "賢い人を集めた会社のAIが伸びる。つまり来年ボクらが使うAIの進化にも、今の人材争奪戦が影響してくるってこと。",
+      "news_index": 1,
+      "start_sec": 111.8,
+      "end_sec": 120.19
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "中の人の取り合いが、ボクのスマホのAIにまで効いてくるのだね。",
+      "news_index": 1,
+      "start_sec": 120.34,
+      "end_sec": 124.59
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "2本目。エヌビディアが、ウィンドウズのパソコン向けに、新しい頭脳チップを出すのよ。",
+      "news_index": 2,
+      "start_sec": 124.74,
+      "end_sec": 129.84
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "エヌビディアって、AIの計算が得意な、あの高いチップ作ってるとこだっけ?",
+      "news_index": 2,
+      "start_sec": 129.99,
+      "end_sec": 135.41
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、ジーピーユーね。AIやゲームの絵を爆速で計算する専用チップ、それで有名な会社よ。",
+      "news_index": 2,
+      "start_sec": 135.56,
+      "end_sec": 142.17
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "で、そのエヌビディアが、パソコン本体の頭脳に乗り込むってこと?",
+      "news_index": 2,
+      "start_sec": 142.32,
+      "end_sec": 146.61
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そういうこと。名前は『アールティーエックス・スパーク』。計算する頭脳と絵を描く部分を、ひとつのチップに合体させたの。",
+      "news_index": 2,
+      "start_sec": 146.76,
+      "end_sec": 153.99
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "がったい!? ロボみたいに合体したら、そりゃ強そうなのだ!",
+      "news_index": 2,
+      "start_sec": 154.14,
+      "end_sec": 158.05
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "まさに合体ロボ的な発想ね。しかもメモリを最大128ギガまで一体化して、大きなAIをパソコンの中だけで動かせるの。",
+      "news_index": 2,
+      "start_sec": 158.2,
+      "end_sec": 166.73
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "パソコンの中だけ!? ネットにつながなくても、AIが動くってことなのだ?",
+      "news_index": 2,
+      "start_sec": 166.88,
+      "end_sec": 172.2
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。今までこういう芸当はアップルのチップが得意だったんだけど、そこにエヌビディアが殴り込んだ形ね。",
+      "news_index": 2,
+      "start_sec": 172.35,
+      "end_sec": 178.71
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "アップル対エヌビディア! 巨人同士のにらみ合いなのだ。で、お値段は優しいのだ?",
+      "news_index": 2,
+      "start_sec": 178.86,
+      "end_sec": 184.9
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "それがね、価格はまだはっきり出ていないけど、かなり高価なプレミアム機になる見込みよ。",
+      "news_index": 2,
+      "start_sec": 185.05,
+      "end_sec": 190.26
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "3,000ドル……ボクのお小遣いだと、何年ぶんを差し出せばいいのだ。",
+      "news_index": 2,
+      "start_sec": 190.41,
+      "end_sec": 196.81
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "差し出さなくていいわよ。出るのは今年の秋で、マイクロソフトやデルやレノボが、この頭脳を積んだパソコンを出す予定。",
+      "news_index": 2,
+      "start_sec": 196.96,
+      "end_sec": 203.48
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、これボクらの暮らしに、どう効いてくるのだ?",
+      "news_index": 2,
+      "start_sec": 203.63,
+      "end_sec": 206.89
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ノートパソコンの中身を選ぶとき、インテルやアップルに加えて、エヌビディアって札も増えるってこと。AIを手元で動かしたい人には朗報ね。",
+      "news_index": 2,
+      "start_sec": 207.04,
+      "end_sec": 215.56
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "選べる相手が増えるのは、いいことなのだ。",
+      "news_index": 2,
+      "start_sec": 215.71,
+      "end_sec": 218.45
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "3本目は、自作パソコン好きに朗報よ。エーエムディーが、部品を長く使えるようにしてくれたの。",
+      "news_index": 3,
+      "start_sec": 218.6,
+      "end_sec": 224.66
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "朗報! 待ってたのだ! 何を長く使えるのだ?",
+      "news_index": 3,
+      "start_sec": 224.81,
+      "end_sec": 228.16
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "『ソケット』ね。パソコンの土台になる板に、頭脳チップを差し込む受け口のこと。",
+      "news_index": 3,
+      "start_sec": 228.31,
+      "end_sec": 233.84
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "そけっと? コンセントの差込口の、仲間なのだ?",
+      "news_index": 3,
+      "start_sec": 233.99,
+      "end_sec": 237.84
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "イメージは近いわ。チップ専用の差込口ね。この『エーエムファイブ』って規格を、2029年まで使えるって約束したの。",
+      "news_index": 3,
+      "start_sec": 237.99,
+      "end_sec": 245.92
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "2029年まで……それって、何がうれしいのだ?",
+      "news_index": 3,
+      "start_sec": 246.07,
+      "end_sec": 249.9
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "普通はチップを新しくすると、土台の板も丸ごと買い替えなのよ。それが、同じ板のまま新しいチップに差し替えられるの。",
+      "news_index": 3,
+      "start_sec": 250.05,
+      "end_sec": 257.38
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あっ、土台を使い回せるってことなのだ! 買い替えが片方で済むのだね。",
+      "news_index": 3,
+      "start_sec": 257.53,
+      "end_sec": 262.22
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "ご名答。財布へのダメージが半分で済むってわけ。新しいチップも出るわよ、ゲーム向けの『ライゼン7 7700エックススリーディー』とかね。",
+      "news_index": 3,
+      "start_sec": 262.37,
+      "end_sec": 271.91
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっくすすりーでぃー!? なんか、必殺技みたいな名前なのだ!",
+      "news_index": 3,
+      "start_sec": 272.06,
+      "end_sec": 276.46
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "よく使うデータを置いとく倉庫を、分厚く積んだやつね。ゲームがぐっと速くなるの。お値段は329ドル。",
+      "news_index": 3,
+      "start_sec": 276.61,
+      "end_sec": 283.18
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "倉庫を分厚く! チップに、特大ロッカーを増設したみたいなのだ。",
+      "news_index": 3,
+      "start_sec": 283.33,
+      "end_sec": 288.11
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、これが効くのはね。メモリもグラボも値上がりしてる今、土台だけは長く使えるって、めずらしく明るい話なの。",
+      "news_index": 3,
+      "start_sec": 288.26,
+      "end_sec": 295.32
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "値上がりばっかりの中で、ひさびさに財布にやさしいニュースなのだ!",
+      "news_index": 3,
+      "start_sec": 295.47,
+      "end_sec": 300.08
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そういうこと。これから組むなら、覚えておいて損はないわ。",
+      "news_index": 3,
+      "start_sec": 300.23,
+      "end_sec": 303.61
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあラスト4本目。今年は『スマートグラス元年』って言われてるのよ。",
+      "news_index": 4,
+      "start_sec": 303.69,
+      "end_sec": 308.33
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "すまーとぐらす? メガネがスマートって、どういうことなのだ?",
+      "news_index": 4,
+      "start_sec": 308.48,
+      "end_sec": 312.56
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "AIが入ったメガネね。かけたまま話しかけると答えたり、目の前に道案内や翻訳を出したりするの。",
+      "news_index": 4,
+      "start_sec": 312.71,
+      "end_sec": 319.1
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "メガネがしゃべる!? ボクの度入りメガネも、AIにできるのだ?",
+      "news_index": 4,
+      "start_sec": 319.25,
+      "end_sec": 323.37
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "普通のメガネは無理よ。でも各社が一気に出してきてて、今年はその当たり年なの。",
+      "news_index": 4,
+      "start_sec": 323.52,
+      "end_sec": 328.45
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "各社って、どんなとこが出してるのだ?",
+      "news_index": 4,
+      "start_sec": 328.6,
+      "end_sec": 331.26
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "フェイスブックのメタがレイバン型を続けてるし、新しいメーカーは599ドルくらいで、文脈を読むAIつきの軽いやつを出してるわ。",
+      "news_index": 4,
+      "start_sec": 331.41,
+      "end_sec": 339.9
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "599ドル! メガネにAIを乗せただけで、ボクの普段のメガネの何十倍なのだ?",
+      "news_index": 4,
+      "start_sec": 340.05,
+      "end_sec": 346.4
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "まあ、小さなパソコンを顔に乗せてると思えばね。スマホを出さずに、視線の先で用が済むのが売りなの。",
+      "news_index": 4,
+      "start_sec": 346.55,
+      "end_sec": 353.38
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "スマホを出す回数が減る!? ポケットから取り出す手間が、かなり減るってこと?",
+      "news_index": 4,
+      "start_sec": 353.53,
+      "end_sec": 358.73
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう、手がふさがってる時に効くの。料理しながらレシピ、旅行先で看板を翻訳、みたいなね。",
+      "news_index": 4,
+      "start_sec": 358.88,
+      "end_sec": 364.69
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、これボクらの生活は、どう変わるのだ?",
+      "news_index": 4,
+      "start_sec": 364.84,
+      "end_sec": 368.05
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "今すぐ全員が買うわけじゃないけど、数年で『画面を見る』から『視界に重ねる』へ移るかも。スマホの次の置き場所争いね。",
+      "news_index": 4,
+      "start_sec": 368.2,
+      "end_sec": 376.63
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "メガネが主役になる日が、だんだん近づいてるのだね。",
+      "news_index": 4,
+      "start_sec": 376.78,
+      "end_sec": 380.12
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで今朝は、頭脳の引き抜き合戦から、パソコンの新しい中身まで4本お届けしたわ。",
+      "news_index": 0,
+      "start_sec": 380.27,
+      "end_sec": 386.31
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ノーベル賞の人がお引越し、エヌビディアがパソコンに参戦、エーエムディーは財布にやさしく、メガネがAI化、なのだ!",
+      "news_index": 0,
+      "start_sec": 386.46,
+      "end_sec": 394.27
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "よくまとまったわね。気になったやつがあったら、あとで調べてみて。",
+      "news_index": 0,
+      "start_sec": 394.42,
+      "end_sec": 398.05
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "ボクはやっぱり、財布にやさしいエーエムディーの話が、いちばん刺さったのだ。",
+      "news_index": 0,
+      "start_sec": 398.2,
+      "end_sec": 403.78
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kamera",
+      "text": "旅の道ラジオ朝便、これでおしまい。今日も一日、いってらっしゃい。",
+      "news_index": 0,
+      "start_sec": 403.93,
+      "end_sec": 408.55
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "また明日のテック朝便で会おうのだー! いってらっしゃいなのだ!",
+      "news_index": 0,
+      "start_sec": 408.7,
+      "end_sec": 412.52
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 413.22,
+      "end_sec": 419.25
+    }
+  ],
+  "wall_time_sec": 14.4,
+  "audio_url": "/audio/ai/20260620_051613.mp3?v=1781901082"
+}
