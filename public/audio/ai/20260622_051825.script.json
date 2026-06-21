@@ -1,0 +1,410 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-06-21T20:18:25.044627+00:00",
+  "title": "働くAIの光と影 〜見せれば覚え、話せば描き、鍵をかける朝〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便、テックニュースの回。四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 通勤・通学のおともに、今朝もテックの話を軽くいくのだ!",
+      "news_index": 0,
+      "reading": "ボク、ずんだもんなのだー!つうきん・つうきん・つうがくのおともに、けさもテックのはなしをかるくいくのだ!"
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今日はね、『AIが人の代わりに勝手に働く』っていう流れを軸に、4本まわすわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "勝手に働く? AIって、聞いたことに答えるだけじゃないのだ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それはもう古い感覚ね。見せれば覚える、話せば作る、そんな話が今朝は並んでるの。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "おっ、面白そうなのだ! さっそく1本目、いこうよ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ1本目。オープンエーアイが、コーデックスっていう道具に、面白い新機能を足したのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "こーでっくす? それって何をする道具なのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "もとはプログラムを書くのを手伝うAIね。それが今度は、パソコンの作業そのものを代わりにやり出したの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "作業そのもの!? どうやってやり方を覚えるのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこが新しいの。画面のスクリーンショットから作業状況を記憶して、次に相談するときに文脈をわかりやすくしてくれるのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あっ、録画! ボクがマウス動かすのを、AIがビデオで見て真似するってことなのだね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そういうこと。しかも言葉で細かく説明しなくていいの、ただやって見せるだけ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "見せるだけって、後輩に仕事教えるより楽じゃん! ボクより物覚えいいのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "向いてるのは、画面上のエラーや、いま開いているコード・文書の状況を把握してもらうような開発者向け作業ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "経費精算って、大人がいつもため息ついてるやつ! あれ丸投げできたら救われる人いっぱいなのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "ただ今はマック限定で、しかも実験段階。いきなり全部おまかせ、とはいかないわよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、これってボクたちの暮らし、どう変わるのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kamera",
+      "text": "要するに、毎月おんなじパソコン作業を『一回見せれば覚えてくれる』時代の入り口。定型仕事ほど先に楽になるわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "2本目。アドビが、フォトショップとプレミアプロに、会話できるAIアシスタントを入れたのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ふぉとしょっぷに、ぷれみあぷろ? 名前が強そうなのだ。何のソフトなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "フォトショップは写真をいじるソフト、プレミアプロは動画を編集するソフト。プロが世界中で使ってる定番ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "あー、プロの道具! ボクには難しそうで、いつも眺めるだけだったやつなのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "それがね、話しかけるだけで動くの。『背景を変えて』『いい場面をつないで』ってお願いするとやってくれるのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "口で言うだけ!? メニューをポチポチ探さなくていいのだ!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "そう。今まではその機能がメニューの奥に埋まってて、探すだけで日が暮れてたでしょ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "わかるのだ……ボタンが多すぎて、ボク最初の画面で力尽きてたのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それが、素材の整理から最初の仮編集まで、ざっくり組んでくれるの。まだお試し版だけどね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "つまり、分厚い説明書を読む係を、AIが代わってくれるってことなのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "近いわね。プロの道具が『話せば動く』に変われば、初心者の入り口も広がって、動画や画像作りの敷居が下がるわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ボクみたいな素人でも、それっぽい動画が作れる未来……ちょっとワクワクするのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "3本目。チップで有名なエヌビディアが、自分でAIモデルを作って、しかもタダで配り始めたのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? エヌビディアって、AIの計算をする高いチップを売ってる会社じゃないのだ!?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、ジーピーユーね。もともとは画像処理向けで、いまはAI計算にも広く使われるGPUで稼いでる会社よ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "そのチップ屋さんが、なんで自分でAIまで作るのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "スコップを売ってた人が、自分でも金を掘り始めた、みたいな話ね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "スコップ屋が採掘側に回ったのだ……商売上手すぎでしょ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "中身もちょっと面白いの。『専門家チームを、必要な分だけ呼ぶ』作りなのよ。",
+      "news_index": 3,
+      "reading": "なかみもちょっとおもしろいの。『せんもんかチームを、ひつようなぶんだけよぶ』つくりなのよ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "専門家を必要な分だけ? どういうことなのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "全部の頭を一度に動かすと重いから、質問に合う担当だけ起こすの。残りは寝かせとくから、速くて軽いわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あっ、当番制なのだ! 全員総出じゃなく、係を回すから疲れないってことなのだね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "その通り。しかも中身を無料で公開してて、アメリカ企業による有力なオープンウェイトモデルのひとつ、って評価ね、って評価よ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "そんな太っ腹で、エヌビディアは損しないのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "むしろ逆よ。みんながAIを動かすほど土台のチップが売れるから、頭脳はタダで配って本業で回収するわけ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "賢いのだ……結局チップが売れれば勝ち、って筋書きなのだね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kamera",
+      "text": "そこよ。賢いAIをタダで使える選択肢が増えて、一社の独占も崩れにくくなるのは、私たちには追い風ね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあラスト4本目。チャットジーピーティーに、『ロックダウンモード』っていう守りの新機能が付いたわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ろっくだうんもーど? なんだか物騒な名前なのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "AIにかける鍵、って思えばいいわ。狙いは『プロンプトインジェクション』っていう攻撃を防ぐこと。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ぷろんぷと……いんじぇくしょん? また舌が絡まる横文字なのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "AIが読むネットのページやファイルに、こっそり悪い命令を仕込んで、あなたの秘密を外に送らせる手口ね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、AIが読んだ文章の中に、見えない命令が埋め込まれてるってことなのだ!?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。でもロックダウンモードを入れると、外部とのやりとりを絞って、情報を持ち出されにくくするの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あっ、中で悪さされても、外に漏らさせなければいいってことなのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこが正解。命令を読まれるのは止めきれないけど、データを外に出す道を断つ、って発想ね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "玄関だけじゃなく裏口まで塞ぐみたいで、ちょっと安心するのだ……。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "いい例えね。ネット接続とか自動で調べる機能を、必要な時だけオフにできるのよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "これ、ボクみたいな普通の人にも要るやつなのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kamera",
+      "text": "AIに大事な情報を任せる時代の、新しい護身術ね。AIが勝手に動くほど、こういう鍵が要るようになるわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "さて、今朝は4本まわしたわね。見せれば覚えるコーデックスに、話せば動くアドビ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "タダで配るエヌビディアの賢いAIと、データを守るチャットジーピーティーの鍵、だったのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "並べてみると、『AIが代わりに働く』光の面と、『だから守りも要る』影の面、両方そろった朝ね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "便利とあぶないは、いつも背中合わせなのだ……。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そういうこと。気になったやつがあったら、自分の手元で軽く触ってみてね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "それじゃ、また明日のテック朝便で会おうなのだ! 行ってらっしゃいなのだー!",
+      "news_index": 0
+    }
+  ],
+  "program_description": "旅の道ラジオ朝便、テックニュースの回。今朝は『AIが人の代わりに働く』流れを軸に4本まわす回。まずオープンエーアイのコーデックスが、画面の操作を一度録画して見せるだけで手順を覚え、次から自動でこなす新機能を追加。次にアドビがフォトショップとプレミアプロに、話しかけるだけで編集してくれる会話型のAIアシスタントを投入。3本目はチップで有名なエヌビディアが、自前のAIモデルを無料で公開、専門家を必要な分だけ呼ぶ仕組みで軽くて賢いと評判の話。ラストはチャットジーピーティーの新しい守り『ロックダウンモード』で、プロンプトインジェクションっていう攻撃からデータ流出を防ぐ仕組みを噛み砕いた。便利さと危うさが両面そろった朝便。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20260622_051825_chars.webp",
+    "hero_rel": "/images/topics/tech_20260622_051825.webp",
+    "title": "働くAIの光と影 〜見せれば覚え、話せば描き、鍵をかける朝〜",
+    "companies": [
+      "OpenAI",
+      "NVIDIA"
+    ]
+  },
+  "summary_short": "操作を見せるだけで手順を覚えるコーデックス、声で編集が完結するアドビAI、エヌビディアが放つ軽量マルチエキスパートモデル、そしてデータ流出を防ぐChatGPTの新守り。AIが人の仕事に踏み込む光と、セキュリティという影が交わる回。"
+}
