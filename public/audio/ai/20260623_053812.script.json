@@ -1,0 +1,395 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-06-22T20:38:12.887246+00:00",
+  "title": "メモリを奪い合う巨人たち 〜半導体バブルとAIの守り、今朝のテック4本〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便、テックニュースの回。四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝もテックの話、軽くサクッといくのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "welcome",
+      "text": "今日は4本立て。通勤通学のあいだに、業界の今をふわっとつかんでいきましょ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "4本かー。今日はどんなラインナップなのだ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "メモリの奪い合いに、AIがネットを守る話、ジェミニの刷新、それとクロードコードの新機能ね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "盛りだくさんじゃん! さっそく1本目いくのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ1本目。アンソロピックとマイクロンが、6月22日にAI向けのメモリを一緒に作るって提携したのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "あんそろぴっく? クロードを作ってる会社だっけ。マイクロンってのは何なのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "マイクロンは、パソコンとかに入ってるメモリを作ってる大手ね。データを一時的に覚えておく部品のメーカーよ。",
+      "news_index": 1,
+      "reading": "マイクロンは、パソコンとかにはいってるメモリをつくってるおおてね。データをいちじてきにおぼえておくぶひんのメーカーよ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、パソコンの作業机みたいなやつなのだ! それをAI会社と一緒に作るって、どういうことなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "今のAIって、エイチビーエムっていうAI向けGPUや高性能計算でよく使われる、HBMという超高速メモリを大量に使うの。それをクロード向けに最適化したいわけ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "えいちびーえむ? それって、テレビ繋ぐエイチディーエムアイの仲間なのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "全然ちがうわ。ケーブルじゃなくて、AIチップの真横に積む、めちゃくちゃ速い記憶部品のことよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "似た名前で覚えにくいのだ……。で、なんでわざわざ手を組むのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "AIにとってメモリが一番の足かせ、ボトルネックになってるからね。供給も何年分か先に押さえておきたいの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "そんなに足りてないのだ? メモリって、その辺で普通に売ってるイメージなのだ……あっ、言い方ミスったのだ。普通に買えると思ってたのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "それがね、AI需要が爆発して半導体が歪んでるの。マイクロンの株なんて、この1年で9倍超、ほぼ10倍近くまで跳ね上がってるのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "10倍以上!? ボクのお小遣いがそんな伸び方したら、毎日ガチャ回し放題じゃん!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "まあ、マイクロンがアンソロピックに出資もしているので、AI企業と半導体企業の結びつきが強すぎると心配する声もあるけどね。だって、バブルを心配する声もあるけどね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに、AI各社がメモリを取り合ってて、その余波で普通のメモリまで高くなってる、って話。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "つまり今年、自作パソコンのメモリを買うなら、お財布に覚悟がいるってことなのだ……。",
+      "news_index": 1,
+      "reading": "つまりことし、じさくパソコンのメモリをかうなら、おおさいふにかくごがいるってことなのだ……。"
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ2本目。オープンエーアイが、デイブレイクっていうセキュリティの取り組みを本格スタートさせたのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でいぶれいく? 夜明けって意味だっけ。何をするやつなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ざっくり言うと、AIがソフトの弱点を見つけて、確かめて、直すところまで一気にやる仕組みね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "弱点を見つける? AIがハッカーみたいに、穴を探すってことなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう、ただし守る側でね。攻撃される前に、自分たちで穴を塞いじゃおうって発想よ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、泥棒が来る前に鍵の壊れてる窓を直しとくのだ! でも、どこのソフトを直すのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それがね、複数のソフトウェアプロジェクトや業界・政府パートナーと連携して、脆弱性の発見、検証、修正を進める取り組みなの。みんなが知らないうちに使ってるやつよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "30以上!? しかも、ボクが毎日使ってるサービスの土台にもなってるってことなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。大手のセキュリティ企業もずらっと協力してて、業界まるごと巻き込む感じね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "なんだか壮大なのだ。でも、これがボクたちにどう関係するのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに、ネットの土台が静かに丈夫になるって話。気づかないうちに、毎日使うアプリが少し安全になるのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "見えないところで守ってくれてるのだ。縁の下の力持ち、ありがたいのだー。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "3本目。グーグルが、ジェミニの裏側の仕組みを、がらっと作り直したのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じぇみに? グーグルのAIだっけ。裏側を作り直すって、見た目は変わらないのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "見た目より中身ね。これまでは文章をやりとりするだけだったのが、自分で道具を使って作業まで進められるようになったの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "道具? AIが金づちとか持つわけじゃないよね?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "金づちじゃないわよ。グーグル検索とか地図とか、画像や音楽を作る機能まで、自分で呼び出して組み合わせるの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、ひとつのAIが何でも屋になるってことなのだ!? 急に万能になったじゃん!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、ただのおしゃべりAIから、自分で段取りして動くプラットフォームへ格上げ、ってグーグルの狙いね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "へえ。でも、それってお値段も万能価格になっちゃうのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そこが面白くて、安く使えるモデルやプランも出していて、用途によっては従来よりかなり安く使えるのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "高機能なのに値下げ! 全部乗せなのに割引、ってちょっとお得すぎないのだ?",
+      "news_index": 3,
+      "reading": "こうきのうなのにねさげ!ぜんぶのせなのにわりびき、ってちょっとおとくすぎないのだ?"
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに、ジェミニを使ったアプリやサービスが、これからもっと賢く、しかも安く出てくるって話よ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ボクたちが使う側として、便利で安くなるのは大歓迎なのだー!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあラスト4本目。アンソロピックのClaudeには、コードや小さなアプリを表示・共有できるArtifactsという機能があるわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "くろーどこーど? プログラムを書くのを手伝うAIだっけ。あーてぃふぁくつって何なのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "AIがいじったコードの成果を、URL一本でそのままWebページにして、チームに見せられる機能ね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "Webページにする? わざわざ資料を作らなくていいってことなのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう。しかも中身を直したら、同じURLのまま自動で内容が更新されるの。送り直さなくていいのよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、リンク貼り替えなくていいの!? 地味だけど、それめちゃくちゃ助かるやつじゃん!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今は会社向けプランのお試し公開でね、見られる範囲も組織の中だけ、ってちゃんと制御されてるわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "なるほどなのだ。でも、これってプログラマー以外には関係ない話なのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そこが逆なの。コードが読めない人でも、ページを開くだけで何が変わったか分かる。だから巻き込める相手が広がるのよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、エンジニアじゃない人も会議に入れるってことなのだ! 壁がひとつ低くなるのだね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに、コードの中身を分かりやすく見せて、チーム全員で同じものを見られるようにする一手、って話ね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで、今朝はメモリ、セキュリティ、ジェミニ、クロードコードの4本でした。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "メモリの奪い合いが一番ヒヤッとしたのだ。自作パソコン勢は財布に気をつけるのだぞ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "残りは、AIが静かにネットを守って、使う側はどんどん便利になる、って前向きな話だったわね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "気になったやつがあったら、あとでちょこっと調べてみてほしいのだー。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "welcome",
+      "text": "それじゃ、今日も良い一日を。旅の道ラジオ朝便、四国めたんでした。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ずんだもんでしたー! また明日のテック朝便で会おうなのだー!",
+      "news_index": 0
+    }
+  ],
+  "program_description": "旅の道ラジオ朝便、テックニュースの回。今朝は4本立て。1本目はアンソロピックとマイクロンがAI向けメモリを一緒に設計する提携、メモリがなぜ高いのかと半導体バブルの話。2本目はオープンエーアイのデイブレイク、AI自身がネットの土台を支える基本ソフトの穴を見つけて直す取り組み。3本目はグーグルのジェミニが裏側の仕組みを刷新して、何でも屋のプラットフォームへ進化＆使うコストが下がる話。4本目はアンソロピックのクロードコードに付いたアーティファクツ、コードをいじった成果をURL一本でチームに見せられる共有機能。通勤通学のおともに、今のテック業界をサクッとつかめる回です。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20260623_053812_chars.webp",
+    "hero_rel": "/images/topics/tech_20260623_053812.webp",
+    "title": "メモリを奪い合う巨人たち 〜半導体バブルとAIの守り、今朝のテック4本〜",
+    "companies": [
+      "Claude",
+      "Gemini",
+      "Google",
+      "OpenAI"
+    ]
+  },
+  "summary_short": "AIがOS脆弱性を自力で修正する時代が来た。アンソロピック×マイクロンのメモリ共同設計、ジェミニの全方位プラットフォーム化、クロードコードのURL共有機能——半導体からソフト層まで、今の争いを4本で。"
+}
