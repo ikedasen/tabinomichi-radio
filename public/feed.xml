@@ -7,8 +7,8 @@
     <description>ずんだもん × めたん × つむぎが届ける、ゲーム &amp; テックニュース雑談ラジオ。朝便と夜便で毎日更新、レトロから新作まで、最新 AI 動向から業界マクロまで雑談形式でサクッと。</description>
     <language>ja</language>
     <copyright>© 2026 tabinomichi</copyright>
-    <lastBuildDate>Tue, 23 Jun 2026 05:50:52 +0900</lastBuildDate>
-    <pubDate>Tue, 23 Jun 2026 05:38:12 +0900</pubDate>
+    <lastBuildDate>Wed, 24 Jun 2026 05:28:54 +0900</lastBuildDate>
+    <pubDate>Wed, 24 Jun 2026 05:15:09 +0900</pubDate>
     <generator>build_rss_feed.py (tabinomichi radio)</generator>
     <image>
       <url>https://news.tabinomichi.jp/podcast-cover.png?v=1779005902</url>
@@ -29,6 +29,36 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>継ぎ目の消えた朝 〜30秒の壁・逆走するメモリ・縛りプレイの世界一、テック4本立て〜</title>
+      <link>https://news.tabinomichi.jp/radio/20260624_051509</link>
+      <guid isPermaLink="false">tabinomichi-radio-20260624_051509</guid>
+      <pubDate>Wed, 24 Jun 2026 05:15:09 +0900</pubDate>
+      <description>おはようの朝便、今朝のテックを4本軽くお届け。1本目はバイトダンスのシードダンス2.5、シーダンス2.0は4〜15秒の音声付き動画生成に対応した話した話。2本目はメモリ高騰、なぜか大昔のDDR2やDDR3まで逆に値上がりしてる玉突き現象。3本目は中国の LineShine はGPUなしのCPU中心構成で1.54 exaFLOPS級のAI訓練性能を示した、とする話、しかもGPUなしの縛りプレイで富岳を抜いた地政学の話。ラストはCursor 3 のAIエージェント機能、またはGitHub連携のBugbotの話、人間とAIエージェントが同じ倉庫でコードをいじる開発の新しい土台。価格・半導体・AIのいまを通勤通学のおともにサクッとつかめる回。</description>
+      <content:encoded><![CDATA[おはようの朝便、今朝のテックを4本軽くお届け。1本目はバイトダンスのシードダンス2.5、シーダンス2.0は4〜15秒の音声付き動画生成に対応した話した話。2本目はメモリ高騰、なぜか大昔のDDR2やDDR3まで逆に値上がりしてる玉突き現象。3本目は中国の LineShine はGPUなしのCPU中心構成で1.54 exaFLOPS級のAI訓練性能を示した、とする話、しかもGPUなしの縛りプレイで富岳を抜いた地政学の話。ラストはCursor 3 のAIエージェント機能、またはGitHub連携のBugbotの話、人間とAIエージェントが同じ倉庫でコードをいじる開発の新しい土台。価格・半導体・AIのいまを通勤通学のおともにサクッとつかめる回。]]></content:encoded>
+      <enclosure url="https://news.tabinomichi.jp/audio/ai/20260624_051509.mp3?v=1782246529" length="6242681" type="audio/mpeg"/>
+      <itunes:title>継ぎ目の消えた朝 〜30秒の壁・逆走するメモリ・縛りプレイの世界一、テック4本立て〜</itunes:title>
+      <itunes:summary>おはようの朝便、今朝のテックを4本軽くお届け。1本目はバイトダンスのシードダンス2.5、シーダンス2.0は4〜15秒の音声付き動画生成に対応した話した話。2本目はメモリ高騰、なぜか大昔のDDR2やDDR3まで逆に値上がりしてる玉突き現象。3本目は中国の LineShine はGPUなしのCPU中心構成で1.54 exaFLOPS級のAI訓練性能を示した、とする話、しかもGPUなしの縛りプレイで富岳を抜いた地政学の話。ラストはCursor 3 のAIエージェント機能、またはGitHub連携のBugbotの話、人間とAIエージェントが同じ倉庫でコードをいじる開発の新しい土台。価格・半導体・AIのいまを通勤通学のおともにサクッとつかめる回。</itunes:summary>
+      <itunes:image href="https://news.tabinomichi.jp/images/og/20260624_051509.jpg"/>
+      <itunes:duration>6:30</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>このゲームのために、会社が生まれた 〜迷宮RPG『アンシャントロマン』〜</title>
+      <link>https://news.tabinomichi.jp/radio/20260624_050724</link>
+      <guid isPermaLink="false">tabinomichi-radio-20260624_050724</guid>
+      <pubDate>Wed, 24 Jun 2026 05:07:24 +0900</pubDate>
+      <description>今回はレトロ回のクソゲー枠、しめくくりは大物。1998年に日本システムからプレイステーション用に発売されたRPG『アンシャントロマン 〜Power of Dark Side〜』を、RTA動画を全部追いかけたつむぎが語る。この作品を作るためだけに会社が設立され、開発メンバーはほぼゲーム制作未経験だったという証言が残る、生まれからして規格外の一本。グラフィックもサウンドもシナリオも全方位に未完成感が漂い、当時のファミ通クロスレビューでは40点満点中21点という記録を残した。それでも消えるどころか、近年はRTAイベントの題材になり、中古にはプレミアがつき、クソゲー愛好家の語り草として現役を続けている。「素人だけで商業RPGを作ったらどうなるか」という、ゲーム史上まれに見る実験の記録を、笑いと敬意をもって振り返る回。</description>
+      <content:encoded><![CDATA[今回はレトロ回のクソゲー枠、しめくくりは大物。1998年に日本システムからプレイステーション用に発売されたRPG『アンシャントロマン 〜Power of Dark Side〜』を、RTA動画を全部追いかけたつむぎが語る。この作品を作るためだけに会社が設立され、開発メンバーはほぼゲーム制作未経験だったという証言が残る、生まれからして規格外の一本。グラフィックもサウンドもシナリオも全方位に未完成感が漂い、当時のファミ通クロスレビューでは40点満点中21点という記録を残した。それでも消えるどころか、近年はRTAイベントの題材になり、中古にはプレミアがつき、クソゲー愛好家の語り草として現役を続けている。「素人だけで商業RPGを作ったらどうなるか」という、ゲーム史上まれに見る実験の記録を、笑いと敬意をもって振り返る回。]]></content:encoded>
+      <enclosure url="https://news.tabinomichi.jp/audio/indie/20260624_050724.mp3?v=1782246533" length="5158913" type="audio/mpeg"/>
+      <itunes:title>このゲームのために、会社が生まれた 〜迷宮RPG『アンシャントロマン』〜</itunes:title>
+      <itunes:summary>今回はレトロ回のクソゲー枠、しめくくりは大物。1998年に日本システムからプレイステーション用に発売されたRPG『アンシャントロマン 〜Power of Dark Side〜』を、RTA動画を全部追いかけたつむぎが語る。この作品を作るためだけに会社が設立され、開発メンバーはほぼゲーム制作未経験だったという証言が残る、生まれからして規格外の一本。グラフィックもサウンドもシナリオも全方位に未完成感が漂い、当時のファミ通クロスレビューでは40点満点中21点という記録を残した。それでも消えるどころか、近年はRTAイベントの題材になり、中古にはプレミアがつき、クソゲー愛好家の語り草として現役を続けている。「素人だけで商業RPGを作ったらどうなるか」という、ゲーム史上まれに見る実験の記録を、笑いと敬意をもって振り返る回。</itunes:summary>
+      <itunes:image href="https://news.tabinomichi.jp/images/og/20260624_050724.jpg"/>
+      <itunes:duration>5:22</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>メモリを奪い合う巨人たち 〜半導体バブルとAIの守り、今朝のテック4本〜</title>
       <link>https://news.tabinomichi.jp/radio/20260623_053812</link>

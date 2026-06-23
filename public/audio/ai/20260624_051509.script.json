@@ -1,0 +1,494 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-06-23T20:15:09.488720+00:00",
+  "title": "継ぎ目の消えた朝 〜30秒の壁・逆走するメモリ・縛りプレイの世界一、テック4本立て〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便。テックニュースの回、四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝もテックの話、軽くサクッといくのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今日はね、最近のテック話題を4本、雑談みたいに流していくわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "4本! どんなラインナップなのだ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "AIで動く動画、逆走するメモリの値段、中国の世界一スパコン、最後はプログラマー界隈のざわつき。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "盛りだくさんなのだ! 耳かっぽじって聞くのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ1本目いくわよ。最近、AIで動画を作るやつが、また一段進化したのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "AI動画? それもう前からあるじゃん。今さら何が新しいのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今までのAI動画にはね、『30秒の壁』っていうのがあったの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "30秒の壁? 30秒しか作れない、ってことなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "長いのを作る時はね、30秒ごとに切って、あとで繋いでたの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、細切れを糊でペタペタ繋ぐ感じなのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう。でね、その繋ぎ目で絵がガラッと変わっちゃう問題があったの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "さっきまでいた犬が、繋いだ後ネコになってるみたいな?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "それそれ。それをバイトダンスってとこが、シーダンス2.0では、音声付きの短尺動画生成や参照素材を使った生成が強化されたの。出力は4〜15秒とされているわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ばいとだんす? どっかで聞いた名前なのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ティックトックを動かしてる会社ね。手元の動画データが桁違いに多いの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あー、踊る動画がいっぱいの、あのアプリのとこなのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "強みはまさにそこ。ソラとかヴェオっていうライバルと、三つ巴になってきたわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、ボクたちには何が嬉しいのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "個人でも、繋ぎ目のない動画が作りやすくなるってこと。素人とプロの差が縮むのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ボクのへなちょこ動画も、化けるかもしれないのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ2本目。ちょっとお財布が痛い話。メモリがまた値上がりしてるのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "メモリ? パソコンの作業机みたいなやつだっけ。前も聞いた気がするのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今日のは毛色が違ってね。ディーディーアールの2とか3っていう、大昔の規格まで上がってるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でぃーでぃーあーる? それ、古いやつなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "2000年代半ばのメモリね。普通、古い部品ほど安くなっていくでしょ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "なのに値上がり!? 逆走してるじゃん!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこが今日の面白いとこ。犯人はね、またしてもAIよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "なんでAIで、古いメモリまで上がるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "メモリ工場がね、AIサーバー向けの高い高速メモリばっかり作るようになったの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、儲かる方に工場が引っ越したのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。おかげで普通のメモリの生産が減って品薄。それが古い在庫にまで波及したの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "玉突き事故みたいなやつなのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "上手いこと言うわね。調査会社の予測だと、年末までにメモリとエスエスディーで130%上がるって。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "130%!? 倍以上になるってことじゃん!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "パソコンもスマホも値上がりよ。買い替え考えてるなら、早めが正解ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "ボクの自作パソコン計画、また遠のいたのだ……。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ3本目。ちょっとスケールのでかい話よ。スパコンの世界一が、入れ替わったの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "すぱこん? すごく速いパソコン、ってこと?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ほぼ正解。スーパーコンピュータ、とんでもない量の計算を一気にやる、超でかい計算機ね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、今度は誰が1位になったのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "中国の『LineShine』っていうCPU中心の大型システムが、GPUなしで1.54エクサフロップス級のAI訓練性能を出したと報じられたの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "8年半ぶり!? ずっとアメリカが1位じゃなかったのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そうなの。富岳は直近のTOP500では7位級。LineShineとの比較は、TOP500順位ではなく用途別・指標別の性能の話として扱うべきね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "富岳、ボクのちょっとした誇りだったのに……。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "まだ上位ではあるのよ。注目はね、中国が半導体の輸出規制を受けながら、これをやったこと。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "輸出規制? いいチップを売ってもらえない、ってやつなのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。なのに中国側設計とされるLX2プロセッサを使い、輸出規制下でGPUに頼らない大型システムを組んだ。しかも今回、ジーピーユー無しのシーピーユーだけでね。",
+      "news_index": 3,
+      "reading": "そう。なのにちゅうごくがわせっけいとされるえるえっくすつープロセッサをつかい、ゆしゅつきせいかでGPUによらないおおがたシステムをくんだ。しかもこんかい、ジーピーユーなしのシーピーユーだけでね。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "縛りプレイで1位を取ったみたいなのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "言い得て妙ね。スパコンの計算力はAI研究や大規模モデル訓練の土台にはなるけど、モデルの賢さそのものはデータや設計、学習方法にも左右されるの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "つまり中国のAIも、これから強くなるってことなのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうシグナル。ボクたちが使うAIの勢力図が、米中で塗り替わるかもって話よ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "大国のガチンコ勝負、目が離せないのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあラスト4本目。プログラマー界隈がざわついた話、ちゃんと噛み砕くから安心して。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "やったー、噛み砕いてもらえるのだー!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "カーソルっていう、プログラムを書くのを手伝うAIの道具があるの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "かーそる? 画面でピカピカ光ってる、文字の棒のことなのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "紛らわしいけど別物。今すごい人気の、AI開発ツールの名前ね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "そのカーソルが、何をやらかしたのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "Cursor 3 では、開発者がAIエージェントに作業を任せる新しい画面やワークフローを発表したの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "こーど預ける場所? なんかピンとこないのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "プログラムの設計図をしまって、直し合う倉庫ね。ギットハブっていう定番があるの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ぎっとはぶ? その倉庫の、超有名なやつなのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そう、世界中のプログラマーが使ってる。オリジンはそこに、AIエージェントも一緒に入れちゃう発想なの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、人間とAIが同じ倉庫で作業するのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。しかもカーソルは、ロケットのスペースエックスに買われたばっかりでね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ロケット会社が!? なんでプログラムの道具を買うのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "開発の土台ごと握りたいのよ。GitHubそのものを置き換えるというより、AIエージェント前提の開発体験で、CodexやClaude Code、GitHub Copilot系と競う形ね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、ボクたちの暮らしには関係あるのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "直接はまだよ。でもこれから作られるアプリの裏側が、AI前提に変わっていくって話なの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "知らないところで、世界の土台が動いてるのだね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで今朝は、4本流したわね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "AI動画、メモリの逆走、中国スパコン、それからカーソルのオリジンなのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "kamera",
+      "text": "気になったやつがあったら、あとでちょっと調べてみて。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "ボクはメモリの値段、こわごわチェックするのだ……。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "自作パソコンは、計画的にね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "それじゃあ、また明日のテック朝便で会いましょうなのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "いってらっしゃい、よい一日を。",
+      "news_index": 0
+    }
+  ],
+  "program_description": "おはようの朝便、今朝のテックを4本軽くお届け。1本目はバイトダンスのシードダンス2.5、シーダンス2.0は4〜15秒の音声付き動画生成に対応した話した話。2本目はメモリ高騰、なぜか大昔のDDR2やDDR3まで逆に値上がりしてる玉突き現象。3本目は中国の LineShine はGPUなしのCPU中心構成で1.54 exaFLOPS級のAI訓練性能を示した、とする話、しかもGPUなしの縛りプレイで富岳を抜いた地政学の話。ラストはCursor 3 のAIエージェント機能、またはGitHub連携のBugbotの話、人間とAIエージェントが同じ倉庫でコードをいじる開発の新しい土台。価格・半導体・AIのいまを通勤通学のおともにサクッとつかめる回。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20260624_051509_chars.webp",
+    "hero_rel": "/images/topics/tech_20260624_051509.webp",
+    "title": "継ぎ目の消えた朝 〜30秒の壁・逆走するメモリ・縛りプレイの世界一、テック4本立て〜",
+    "companies": [
+      "Meta",
+      "Claude",
+      "Microsoft"
+    ]
+  },
+  "summary_short": "GPUなしの縛りプレイで富岳を上回った中国製AI、なぜか値上がりするDDR2/DDR3メモリ、音声付き短尺動画の新世代、そしてAIエージェントと人間が共存するコード開発の幕開け——半導体からソフトまで4本凝縮。"
+}
