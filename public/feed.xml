@@ -7,8 +7,8 @@
     <description>ずんだもん × めたん × つむぎが届ける、ゲーム &amp; テックニュース雑談ラジオ。朝便と夜便で毎日更新、レトロから新作まで、最新 AI 動向から業界マクロまで雑談形式でサクッと。</description>
     <language>ja</language>
     <copyright>© 2026 tabinomichi</copyright>
-    <lastBuildDate>Wed, 24 Jun 2026 11:29:58 +0900</lastBuildDate>
-    <pubDate>Wed, 24 Jun 2026 05:15:09 +0900</pubDate>
+    <lastBuildDate>Thu, 25 Jun 2026 05:32:10 +0900</lastBuildDate>
+    <pubDate>Thu, 25 Jun 2026 05:21:10 +0900</pubDate>
     <generator>build_rss_feed.py (tabinomichi radio)</generator>
     <image>
       <url>https://news.tabinomichi.jp/podcast-cover.png?v=1779005902</url>
@@ -29,6 +29,21 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>塗り替わるテックの土台 〜自前チップと変形メカ、今朝の4本立て〜</title>
+      <link>https://news.tabinomichi.jp/radio/20260625_052110</link>
+      <guid isPermaLink="false">tabinomichi-radio-20260625_052110</guid>
+      <pubDate>Thu, 25 Jun 2026 05:21:10 +0900</pubDate>
+      <description>旅の道ラジオ朝便、テックニュースの回。今朝は4本立て。1本目はオープンエーアイがブロードコムと組んで作った初の自前AIチップ『ハラペーニョ』、エヌビディア一強に挑む話。2本目は中国ユニツリーの、人が乗れて2足から4足に変形するメカロボット。3本目はメタがインスタやワッツアップに月額の有料プランを足した、タダのSNSが変わり始めた話。ラストはグーグルがブラウザのクロームにAIのジェミニを住み着かせた話。AIが裏側のチップから表側の暮らしまで、じわっと染み込んでいく今を、噛み砕いてゆるっとお届けしました。</description>
+      <content:encoded><![CDATA[旅の道ラジオ朝便、テックニュースの回。今朝は4本立て。1本目はオープンエーアイがブロードコムと組んで作った初の自前AIチップ『ハラペーニョ』、エヌビディア一強に挑む話。2本目は中国ユニツリーの、人が乗れて2足から4足に変形するメカロボット。3本目はメタがインスタやワッツアップに月額の有料プランを足した、タダのSNSが変わり始めた話。ラストはグーグルがブラウザのクロームにAIのジェミニを住み着かせた話。AIが裏側のチップから表側の暮らしまで、じわっと染み込んでいく今を、噛み砕いてゆるっとお届けしました。]]></content:encoded>
+      <enclosure url="https://news.tabinomichi.jp/audio/ai/20260625_052110.mp3?v=1782333128" length="5953453" type="audio/mpeg"/>
+      <itunes:title>塗り替わるテックの土台 〜自前チップと変形メカ、今朝の4本立て〜</itunes:title>
+      <itunes:summary>旅の道ラジオ朝便、テックニュースの回。今朝は4本立て。1本目はオープンエーアイがブロードコムと組んで作った初の自前AIチップ『ハラペーニョ』、エヌビディア一強に挑む話。2本目は中国ユニツリーの、人が乗れて2足から4足に変形するメカロボット。3本目はメタがインスタやワッツアップに月額の有料プランを足した、タダのSNSが変わり始めた話。ラストはグーグルがブラウザのクロームにAIのジェミニを住み着かせた話。AIが裏側のチップから表側の暮らしまで、じわっと染み込んでいく今を、噛み砕いてゆるっとお届けしました。</itunes:summary>
+      <itunes:image href="https://news.tabinomichi.jp/images/og/20260625_052110.jpg"/>
+      <itunes:duration>6:12</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>継ぎ目の消えた朝 〜30秒の壁・逆走するメモリ・縛りプレイの世界一、テック4本立て〜</title>
       <link>https://news.tabinomichi.jp/radio/20260624_051509</link>

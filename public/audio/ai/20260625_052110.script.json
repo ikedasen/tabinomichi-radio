@@ -1,0 +1,423 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-06-24T20:21:10.206137+00:00",
+  "title": "塗り替わるテックの土台 〜自前チップと変形メカ、今朝の4本立て〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便、テックニュースの回。四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝もテックの話、軽くサクッといくのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今日はね、最近のテック話題を4本、ゆるっとまとめていくわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "4本! どんな顔ぶれなのだ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "AIの新しいチップに、人が乗れる変形ロボ、SNSの有料化、そしてブラウザのAIね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "バラバラで面白そうなのだ! さっそく1本目いくのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ1本目。オープンエーアイが、自分専用のAIチップを初めて作ったのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "チップ? AIって、エヌビディアのチップを借りてたんじゃなかったのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そうなの。今までAI各社は、エヌビディアって会社のチップを取り合ってたの。AIの計算を爆速でやる部品ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "あの、みんな欲しがって品薄になってる、高いやつなのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それを、オープンエーアイがブロードコムって会社と組んで、自前で作っちゃったの。名前が『ハラペーニョ』。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "はらぺーにょ!? あの、ピリ辛の唐辛子のことなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "名前はね。中身はAIの返事を作る処理、そこだけに振り切った専用チップよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "へえ、で、そんなに早く作れるものなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それがすごくて、設計から試作まで9ヶ月。AIチップとしては異例の速さなの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "9ヶ月!? ボクが夏休みの宿題を溜める間に、もう1個できちゃうのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "あんたの宿題と一緒にしないの。しかも同じ電気で、より多く計算できるって話よ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "狙いはね、エヌビディア一強から抜け出して、AIを動かすコストを下げることなの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "コストが下がると、ボクたちには何かいいことあるのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "実サービスへの投入は2026年後半から年末ごろの見込みね。料金や無料枠にどう効くかは未定だけど、長期的にはAIを動かすコストを下げたい狙いよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "未来のお小遣いに優しいかもなのだ。次いこう!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "2本目。これは朝からテンション上がるやつよ。人が乗れる変形ロボットが、本当に売り出されたの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "乗れる!? 変形!? それもう完全にロボットアニメなのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "中国のユニツリーって会社が出した『ジーディーゼロワン』ってメカね。高さ2.7メートル、人が乗ると500キロくらい。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ユニツリー? 木のおもちゃ屋さんなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "ロボットの会社よ。犬型ロボとか人型ロボで、もう有名なの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "で、どう変形するのだ? ボク、変形が一番好きなのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "2本足で立ってる状態から、数秒で4本足に折りたたむの。重心をずらして、すたっと姿勢を変えるのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "二足から四足!? 歩き方ごと変身しちゃうのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "お値段は約65万ドル。日本円だと、1億円近くね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "1億円!? ボクのお小遣いを何百年ぶんかき集めても、届かないやつなのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "個人で乗り回す値段じゃないわよね。用途はまだはっきり示されてなくて、今はデモ映えする展示・宣伝色の強い製品と見るのが近いわね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、ボクたちが乗れる日は来ないのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "すぐは無理。でも『ロボットは研究室の中の実験』から『棚に並ぶ商品』に変わり始めた、その合図なのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "いつか遊園地で乗れたら最高なのだ。次いこう!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "3本目。ちょっとお財布の話。メタが、エスエヌエスに月額の有料プランを出したのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "メタって、インスタとかフェイスブックの会社だっけ? あれ全部タダじゃなかったのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう、今までは無料が当たり前だったでしょ。そこに『プラス』っていう有料コースを足してきたの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "有料にすると、何かいいことあるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "プロフィールを飾れたり、特別なリアクションが使えたり。インスタとフェイスブックが月3.99ドル、ワッツアップが2.99ドルね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "どるって言われても、ピンとこないのだ。日本円でいくらなのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "だいたいインスタが月600円、ワッツアップが450円くらい。ジュース2、3本ぶんね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "なーのだ、思ったより安いのだ。全部のせにしたら、いくらなのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "全部入りはやめなさい。要するに『タダのSNS』って前提が、崩れ始めたって話よ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、無料が当たり前じゃなくなるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "今は広告で稼いでるけど、それだけに頼らない道を探してるの。お金を払う人には追加機能を出す、って方向ね。今のところ無料版がなくなる話ではないわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、タダのままがいい人はどうなるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "無料でも使えるわよ。ただ『ちょっと払えば便利』の選択肢が、これから増えていくってこと。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "ボクはタダ勢で粘るのだ。ラスト1本いこう!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ラスト4本目。グーグルが、ブラウザのクロームに、AIを住み着かせたのよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "くろーむ? インターネット見るやつだっけ。そこにAIって、どういうことなのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今まで調べ物って、検索して、リンク開いて、自分で読んでたでしょ。それをブラウザの中のAI『ジェミニ』が、代わりにやってくれるの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、わざわざタブをいっぱい開かなくていいってことなのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そう、今の一行が正解。開いてるページについて、その場で質問して答えてもらえるの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "へえ。他には何ができるのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "メールとも繋がってて、『先週の未読メール教えて』って頼むと、受信トレイから探してくれるのよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ボクの溜まりに溜まった未読、全部掘り起こされちゃうのだ!?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "掃除のきっかけになっていいじゃない。当初は米国の英語版Chromeや有料プランから始まり、地域や端末ごとに段階展開中、という言い方が安全ね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "これって、ボクたちの調べ方が変わるってことなのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そうね。検索して自分で探す時代から、AIに聞いて即答してもらう時代に、じわっと寄っていく感じよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "便利だけど、自分で探す楽しさも残しておきたいのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで今朝は、AIチップ、変形メカ、SNSの有料化、ブラウザのAI、4本立てでお届けしたわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "どれも『へえ!』ってなる話だったのだ! 気になったやつ、調べてみてほしいのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "全部に共通してるのはね、AIが裏でも表でも、どんどん生活に染み込んでるってこと。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "便利になるの、ボクは楽しみなのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "今日も一日、無理しない程度にね。旅の道ラジオ朝便、四国めたんでした。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ずんだもんでしたー! また明日のテック朝便で会うのだー!",
+      "news_index": 0
+    }
+  ],
+  "program_description": "旅の道ラジオ朝便、テックニュースの回。今朝は4本立て。1本目はオープンエーアイがブロードコムと組んで作った初の自前AIチップ『ハラペーニョ』、エヌビディア一強に挑む話。2本目は中国ユニツリーの、人が乗れて2足から4足に変形するメカロボット。3本目はメタがインスタやワッツアップに月額の有料プランを足した、タダのSNSが変わり始めた話。ラストはグーグルがブラウザのクロームにAIのジェミニを住み着かせた話。AIが裏側のチップから表側の暮らしまで、じわっと染み込んでいく今を、噛み砕いてゆるっとお届けしました。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20260625_052110_chars.webp",
+    "hero_rel": "/images/topics/tech_20260625_052110.webp",
+    "title": "塗り替わるテックの土台 〜自前チップと変形メカ、今朝の4本立て〜",
+    "companies": [
+      "Meta",
+      "NVIDIA",
+      "OpenAI",
+      "Gemini",
+      "Google"
+    ]
+  },
+  "summary_short": "オープンAIが初の自前チップでエヌビディアの牙城に挑み、人が乗れる変形ロボが走り、SNSに有料プランが生え、ブラウザにAIが住み着く。チップから日常まで、テックの土台がいっせいに塗り替わりつつある今朝の4本。"
+}
