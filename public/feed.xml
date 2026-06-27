@@ -7,8 +7,8 @@
     <description>ずんだもん × めたん × つむぎが届ける、ゲーム &amp; テックニュース雑談ラジオ。朝便と夜便で毎日更新、レトロから新作まで、最新 AI 動向から業界マクロまで雑談形式でサクッと。</description>
     <language>ja</language>
     <copyright>© 2026 tabinomichi</copyright>
-    <lastBuildDate>Sat, 27 Jun 2026 05:35:50 +0900</lastBuildDate>
-    <pubDate>Sat, 27 Jun 2026 05:24:10 +0900</pubDate>
+    <lastBuildDate>Sun, 28 Jun 2026 05:33:32 +0900</lastBuildDate>
+    <pubDate>Sun, 28 Jun 2026 05:17:04 +0900</pubDate>
     <generator>build_rss_feed.py (tabinomichi radio)</generator>
     <image>
       <url>https://news.tabinomichi.jp/podcast-cover.png?v=1779005902</url>
@@ -29,6 +29,21 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>電気を奪い、部品を奪い合う朝 〜AIが土台から世界を呑む、テック朝便4本立て〜</title>
+      <link>https://news.tabinomichi.jp/radio/20260628_051704</link>
+      <guid isPermaLink="false">tabinomichi-radio-20260628_051704</guid>
+      <pubDate>Sun, 28 Jun 2026 05:17:04 +0900</pubDate>
+      <description>旅の道ラジオ朝便のテックニュース回。1本目はソフトバンクが東京電力への出資に意欲を見せた話。孫正義さんが株主総会で語った『電力を押さえてAIデータセンターを日本に』という構想を、電気がAIの燃料だという視点で噛み砕きます。2本目はハードディスクやSSDといったデータ倉庫の値上がり。半年で平均46%上昇、アイ・オー・データの再値上げ、SSDが高すぎてデータセンターがハードディスクに逆戻りする玉突き現象まで。3本目は日本の半導体ラピダスに国が約1,500億円を追加出資した話と、2ナノ量産を目指す経済安全保障の文脈。最後はエコバックスの窓拭きロボット新型ウィンボットミニ2を、AIが掃除家電にも入る時代として軽くご紹介。AIの派手な新モデルの裏で動く『土台』に注目した回です。</description>
+      <content:encoded><![CDATA[旅の道ラジオ朝便のテックニュース回。1本目はソフトバンクが東京電力への出資に意欲を見せた話。孫正義さんが株主総会で語った『電力を押さえてAIデータセンターを日本に』という構想を、電気がAIの燃料だという視点で噛み砕きます。2本目はハードディスクやSSDといったデータ倉庫の値上がり。半年で平均46%上昇、アイ・オー・データの再値上げ、SSDが高すぎてデータセンターがハードディスクに逆戻りする玉突き現象まで。3本目は日本の半導体ラピダスに国が約1,500億円を追加出資した話と、2ナノ量産を目指す経済安全保障の文脈。最後はエコバックスの窓拭きロボット新型ウィンボットミニ2を、AIが掃除家電にも入る時代として軽くご紹介。AIの派手な新モデルの裏で動く『土台』に注目した回です。]]></content:encoded>
+      <enclosure url="https://news.tabinomichi.jp/audio/ai/20260628_051704.mp3?v=1782592410" length="5876549" type="audio/mpeg"/>
+      <itunes:title>電気を奪い、部品を奪い合う朝 〜AIが土台から世界を呑む、テック朝便4本立て〜</itunes:title>
+      <itunes:summary>旅の道ラジオ朝便のテックニュース回。1本目はソフトバンクが東京電力への出資に意欲を見せた話。孫正義さんが株主総会で語った『電力を押さえてAIデータセンターを日本に』という構想を、電気がAIの燃料だという視点で噛み砕きます。2本目はハードディスクやSSDといったデータ倉庫の値上がり。半年で平均46%上昇、アイ・オー・データの再値上げ、SSDが高すぎてデータセンターがハードディスクに逆戻りする玉突き現象まで。3本目は日本の半導体ラピダスに国が約1,500億円を追加出資した話と、2ナノ量産を目指す経済安全保障の文脈。最後はエコバックスの窓拭きロボット新型ウィンボットミニ2を、AIが掃除家電にも入る時代として軽くご紹介。AIの派手な新モデルの裏で動く『土台』に注目した回です。</itunes:summary>
+      <itunes:image href="https://news.tabinomichi.jp/images/og/20260628_051704.jpg"/>
+      <itunes:duration>6:07</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>国に握られるAIの朝 〜配るのも止めるのも政府次第、テック4本立て〜</title>
       <link>https://news.tabinomichi.jp/radio/20260627_052410</link>

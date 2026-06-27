@@ -1,0 +1,450 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-06-27T20:17:04.757013+00:00",
+  "title": "電気を奪い、部品を奪い合う朝 〜AIが土台から世界を呑む、テック朝便4本立て〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "おはようございます、旅の道ラジオ朝便、テックニュースの回。四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 通勤・通学のおともに、サクッといくのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今日は最近のテック話題を、4本ほど軽く流していく回ね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "4本? どんなラインナップなのだ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "電気の奪い合いに、財布が痛いストレージ、日本の半導体、最後は窓拭きロボよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "朝から渋いのから可愛いのまで、幅広いのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃ、さっそく1本目いくわよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ソフトバンクが、東京電力に出資したいって言い出したのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "東京電力!? あの、電気を送ってる会社なのだ!?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。先週のソフトバンクの株主総会で、トップの孫正義さんが、次のオーナー候補に残ってるって明かしたの。",
+      "news_index": 1,
+      "reading": "そう。せんしゅうのソフトバンクのかぶぬしそうかいで、トップのそんまさよしさんが、つぎのオーナーこうほにのこってるってあかしたの。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "なんで電話とAIの会社が、電気屋さんを欲しがるのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "AIを動かすデータセンター、あの巨大なサーバー倉庫ね、あれが電気をとんでもなく食うのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "あー、AIって計算するのに電気バカ食いって、前に聞いたのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "でしょ。だから発電する力ごと押さえれば、日本にデータセンターをどんどん建てられる、って算段ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "電気も、チップも、データセンターも押さえたほうがAIで強い、みたいなことなのだ?、みたいなことなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ご名答。本人も、宇宙よりまず地球で、ずば抜けたデータセンターを作りたいって言ってたわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "宇宙より地球!? スケールがいちいちデカいのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "要するに、これからのAI競争は、電気に加えて、半導体やデータセンター用地まで含めたインフラの取り合いって話。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "国内に倉庫が増えれば、電気代やAIサービスの土台に効いてくるのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "ボクのスマホのAIも、巡り巡って電気次第なのだね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。じゃ、2本目いくわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "2本目。データを貯めとく部品が、今めちゃくちゃ値上がりしてるのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "貯めとく部品? メモリのことなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "違う違う、それは作業机のほう。今日のは倉庫、ハードディスクとかSSDね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あー! ゲームとか動画をいっぱい溜め込むやつなのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。そのハードディスクの大口価格が、この4月から6月で1割上がってるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "1割!? 部品って普通、時間が経つと安くなるんじゃないのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "本来はね。なのにこの半年で平均46%も上がってて、完全に逆走よ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "46%!? ボクのお小遣いなら、半分が消し飛ぶ勢いなのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "メーカーの値上げも続きで、アイ・オー・データは7月1日から98種類を再値上げ。家庭用のデータ倉庫、ナスってやつは最大52.9%上がるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "52.9%!? もう値上げってより、別の値段なのだ……。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "しかもね、SSDの中身のフラッシュメモリも高くて、面白い玉突きが起きてるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "たまつき? ビリヤードの話じゃないよね?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "SSDが高すぎて、データセンターが安いハードディスクに逆戻り。そのせいでハードディスクもさらに品薄、って連鎖よ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "押し合いへし合いで、結局どっちも高くなるパターンなのだ。",
+      "news_index": 2,
+      "reading": "おしあいへしあいで、けっきょくどっちもたかくなるパターンなのだ。"
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに、今年データ機材を買うなら覚悟しろって話。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "録画用のハードディスク狙ってたのに、お預けなのだ……。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "値下がりは早くて来年以降、それも確実じゃないって。次いくわよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "3本目。日本の半導体、ラピダスに、国がまた大金を入れたのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "らぴだす? 聞いたことあるような、ないような……何の会社なのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "日本で最先端の半導体を、自分たちで作ろうって会社ね。北海道に工場を建ててるの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "最先端の半導体って、どのくらいすごいやつなのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "2ナノっていう、髪の毛の何万分の一みたいな超細かい加工。今の世界トップクラスよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "髪の毛の何万分の一!? もう想像できない細かさなのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "でしょ。で、その挑戦に2月26日に、政府と民間30社から計2,500億円規模の資金調達を発表したの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "1,500億円!? ポンと出す額じゃないのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "これまでのコミット分は約1.7兆円規模、量産までに必要な総投資は約4兆円と見られているわ。狙いは2027年の量産。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "なんで国がそこまでお金を出すのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "最先端チップを台湾や韓国など海外勢に頼りきりだと、いざって時に困るからよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "自分の国で作れれば、輸入が止まっても安心ってことなのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういう経済安全保障の話ね。ただ量産は2027年だから、すぐ生活は変わらないわ。",
+      "news_index": 3,
+      "reading": "そういうけいざいあんぜんほしょうのはなしね。ただりょうさんはにせんにじゅうななねんだから、すぐせいかつはかわらないわ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "効いてくるのは数年先。気の長い国家プロジェクトなのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "その通り。じゃ、最後は軽い話で締めましょ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "ラスト4本目。エコバックスが、窓拭きロボットの新型を出したのよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "待ってたのだ、可愛いやつ! 窓を掃除してくれるロボットなのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、ウィンボット ミニ2。6月10日発売で、お値段は49,800円。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "窓にどうやってくっつくのだ? 落ちないのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ガラスに吸い付く力が前より強くなって、8,000パスカルってとこまで上がってるの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ぱすかる? 強さの単位なのだね、ふんわりしか分からないのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要は、前より落ちにくくなったって思えばいいわ。厚みも5.5センチの薄型よ。",
+      "news_index": 4,
+      "reading": "ようは、まえよりおちにくくなったっておもえばいいわ。あつみもごてんごせんちのうすがたよ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "薄いのに健気に窓を磨くのか……ちょっと好きになってきたのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "しかもAIが窓のサイズを測って、効率いい往復ルートを自分で考えるの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "窓拭きロボットにまで、AIが入ってる時代なのだ!?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そうなのよ。お掃除家電にAIが入るのは、もう普通って流れね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "面倒な窓掃除を数万円で任せられるなら、ちょっと欲しくなるのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "高い窓とか、危ない場所こそロボットの出番ね。さ、今日はここまで。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで、今朝は電気・ストレージ・半導体・窓拭きロボの4本立てでお届けしました。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "改めて並べると、AIって電気も部品も、全部巻き込んでるのだね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そうね。派手な新モデルの裏で、土台のほうが静かに動いてるって回だったわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "気になったやつあったら、あとで調べてみてほしいのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "旅の道ラジオ朝便、お相手は四国めたんと、",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ずんだもんだったのだー! また明日のテック朝便で会おうのだー!",
+      "news_index": 0
+    }
+  ],
+  "program_description": "旅の道ラジオ朝便のテックニュース回。1本目はソフトバンクが東京電力への出資に意欲を見せた話。孫正義さんが株主総会で語った『電力を押さえてAIデータセンターを日本に』という構想を、電気がAIの燃料だという視点で噛み砕きます。2本目はハードディスクやSSDといったデータ倉庫の値上がり。半年で平均46%上昇、アイ・オー・データの再値上げ、SSDが高すぎてデータセンターがハードディスクに逆戻りする玉突き現象まで。3本目は日本の半導体ラピダスに国が約1,500億円を追加出資した話と、2ナノ量産を目指す経済安全保障の文脈。最後はエコバックスの窓拭きロボット新型ウィンボットミニ2を、AIが掃除家電にも入る時代として軽くご紹介。AIの派手な新モデルの裏で動く『土台』に注目した回です。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20260628_051704_chars.webp",
+    "hero_rel": "/images/topics/tech_20260628_051704.webp",
+    "title": "電気を奪い、部品を奪い合う朝 〜AIが土台から世界を呑む、テック朝便4本立て〜"
+  },
+  "summary_short": "孫正義が東電に出資を表明し、SSDは半年で46%値上がりしてHDDが復権し、ラピダスへの国の追加投資は1500億円——AI新モデル競争の裏で、電力・ストレージ・半導体という『土台』をめぐる争奪戦が静かに動いている。"
+}
