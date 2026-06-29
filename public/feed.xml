@@ -7,8 +7,8 @@
     <description>ずんだもん × めたん × つむぎが届ける、ゲーム &amp; テックニュース雑談ラジオ。朝便と夜便で毎日更新、レトロから新作まで、最新 AI 動向から業界マクロまで雑談形式でサクッと。</description>
     <language>ja</language>
     <copyright>© 2026 tabinomichi</copyright>
-    <lastBuildDate>Mon, 29 Jun 2026 05:08:10 +0900</lastBuildDate>
-    <pubDate>Mon, 29 Jun 2026 05:07:11 +0900</pubDate>
+    <lastBuildDate>Tue, 30 Jun 2026 05:26:48 +0900</lastBuildDate>
+    <pubDate>Tue, 30 Jun 2026 05:14:23 +0900</pubDate>
     <generator>build_rss_feed.py (tabinomichi radio)</generator>
     <image>
       <url>https://news.tabinomichi.jp/podcast-cover.png?v=1779005902</url>
@@ -29,6 +29,36 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>爪に乗る千億の未来 〜小さくなる半導体と、肥るメモリ長者の朝〜</title>
+      <link>https://news.tabinomichi.jp/radio/20260630_051423</link>
+      <guid isPermaLink="false">tabinomichi-radio-20260630_051423</guid>
+      <pubDate>Tue, 30 Jun 2026 05:14:23 +0900</pubDate>
+      <description>旅の道ラジオ朝便、テックニュースの回。今朝は4本立て。まずアイビーエムが世界初の0.7ナノ半導体を発表、爪サイズに1,000億個のトランジスタを詰め込んだ話。次にレノボの世界初1,000Wh/Lバッテリーで、薄いまま長持ちするノートパソコンの未来。3本目はアマゾンが出資先アンソロピックのAIをこっそり蒸留してコスト削減を狙う、ちょっと生々しい大人の事情。ラストはメモリ大手マイクロンの株が1ヶ月で236%急騰し、一時メタやテスラの価値を抜いた『ラムアゲドン』騒動。半導体は細かく、バッテリーは長く、AIはせちがらく、メモリ屋は大儲け——光と影が混ざる今朝のテックをサクッとまとめた回。</description>
+      <content:encoded><![CDATA[旅の道ラジオ朝便、テックニュースの回。今朝は4本立て。まずアイビーエムが世界初の0.7ナノ半導体を発表、爪サイズに1,000億個のトランジスタを詰め込んだ話。次にレノボの世界初1,000Wh/Lバッテリーで、薄いまま長持ちするノートパソコンの未来。3本目はアマゾンが出資先アンソロピックのAIをこっそり蒸留してコスト削減を狙う、ちょっと生々しい大人の事情。ラストはメモリ大手マイクロンの株が1ヶ月で236%急騰し、一時メタやテスラの価値を抜いた『ラムアゲドン』騒動。半導体は細かく、バッテリーは長く、AIはせちがらく、メモリ屋は大儲け——光と影が混ざる今朝のテックをサクッとまとめた回。]]></content:encoded>
+      <enclosure url="https://news.tabinomichi.jp/audio/ai/20260630_051423.mp3?v=1782764801" length="5756176" type="audio/mpeg"/>
+      <itunes:title>爪に乗る千億の未来 〜小さくなる半導体と、肥るメモリ長者の朝〜</itunes:title>
+      <itunes:summary>旅の道ラジオ朝便、テックニュースの回。今朝は4本立て。まずアイビーエムが世界初の0.7ナノ半導体を発表、爪サイズに1,000億個のトランジスタを詰め込んだ話。次にレノボの世界初1,000Wh/Lバッテリーで、薄いまま長持ちするノートパソコンの未来。3本目はアマゾンが出資先アンソロピックのAIをこっそり蒸留してコスト削減を狙う、ちょっと生々しい大人の事情。ラストはメモリ大手マイクロンの株が1ヶ月で236%急騰し、一時メタやテスラの価値を抜いた『ラムアゲドン』騒動。半導体は細かく、バッテリーは長く、AIはせちがらく、メモリ屋は大儲け——光と影が混ざる今朝のテックをサクッとまとめた回。</itunes:summary>
+      <itunes:image href="https://news.tabinomichi.jp/images/og/20260630_051423.jpg"/>
+      <itunes:duration>5:59</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>倍率の深淵 〜覆面職人が刷り直したトランプ〜</title>
+      <link>https://news.tabinomichi.jp/radio/20260630_050757</link>
+      <guid isPermaLink="false">tabinomichi-radio-20260630_050757</guid>
+      <pubDate>Tue, 30 Jun 2026 05:07:57 +0900</pubDate>
+      <description>今回は評価が固まった名作を一本だけじっくり掘り下げる回。題材はポーカーとローグライクが合体したデッキビルダー『バラトロ』。トランプで役を作って、チップと倍率の掛け算でボスのノルマをぶち抜く仕組みを、めたんが噛み砕いてずんだもんが脱線しながら紹介する。150種類超のジョーカーで自分だけのイカれたコンボを発明する中毒性、発売一ヶ月で100万本・一年で500万本という怪物級の数字、ザ・ゲーム・アワードでの三冠や翌年の大賞まで話題は盛りだくさん。さらに、たった一人で作って正体も明かさない覆面開発者ローカルサンクと、Steamを毎日漁って彼を見つけたパブリッシャーの出会いも掘り下げる。ずんだもんが役満と言い張って麻雀に戻り続けるボケ、めたんが妖しいカードの雰囲気に当てられて厨二発病する小芝居など、雑談多めでお届けする一本。今から始めても全然遅くない名作の魅力を語る回。</description>
+      <content:encoded><![CDATA[今回は評価が固まった名作を一本だけじっくり掘り下げる回。題材はポーカーとローグライクが合体したデッキビルダー『バラトロ』。トランプで役を作って、チップと倍率の掛け算でボスのノルマをぶち抜く仕組みを、めたんが噛み砕いてずんだもんが脱線しながら紹介する。150種類超のジョーカーで自分だけのイカれたコンボを発明する中毒性、発売一ヶ月で100万本・一年で500万本という怪物級の数字、ザ・ゲーム・アワードでの三冠や翌年の大賞まで話題は盛りだくさん。さらに、たった一人で作って正体も明かさない覆面開発者ローカルサンクと、Steamを毎日漁って彼を見つけたパブリッシャーの出会いも掘り下げる。ずんだもんが役満と言い張って麻雀に戻り続けるボケ、めたんが妖しいカードの雰囲気に当てられて厨二発病する小芝居など、雑談多めでお届けする一本。今から始めても全然遅くない名作の魅力を語る回。]]></content:encoded>
+      <enclosure url="https://news.tabinomichi.jp/audio/indie/20260630_050757.mp3?v=1782764806" length="6101411" type="audio/mpeg"/>
+      <itunes:title>倍率の深淵 〜覆面職人が刷り直したトランプ〜</itunes:title>
+      <itunes:summary>今回は評価が固まった名作を一本だけじっくり掘り下げる回。題材はポーカーとローグライクが合体したデッキビルダー『バラトロ』。トランプで役を作って、チップと倍率の掛け算でボスのノルマをぶち抜く仕組みを、めたんが噛み砕いてずんだもんが脱線しながら紹介する。150種類超のジョーカーで自分だけのイカれたコンボを発明する中毒性、発売一ヶ月で100万本・一年で500万本という怪物級の数字、ザ・ゲーム・アワードでの三冠や翌年の大賞まで話題は盛りだくさん。さらに、たった一人で作って正体も明かさない覆面開発者ローカルサンクと、Steamを毎日漁って彼を見つけたパブリッシャーの出会いも掘り下げる。ずんだもんが役満と言い張って麻雀に戻り続けるボケ、めたんが妖しいカードの雰囲気に当てられて厨二発病する小芝居など、雑談多めでお届けする一本。今から始めても全然遅くない名作の魅力を語る回。</itunes:summary>
+      <itunes:image href="https://news.tabinomichi.jp/images/og/20260630_050757.jpg"/>
+      <itunes:duration>6:21</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>雪の街の小さな奇跡 〜Kanon、泣きゲーという伝説のはじまり〜</title>
       <link>https://news.tabinomichi.jp/radio/20260628_195429</link>

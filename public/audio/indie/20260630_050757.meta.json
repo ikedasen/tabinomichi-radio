@@ -1,0 +1,726 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-06-30T05:07:57+09:00",
+  "title": "倍率の深淵 〜覆面職人が刷り直したトランプ〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 381.26,
+  "script_hash": "sha256:924c2c48b7db2d8dfc5dee47b6d3dc6ea8112c68e7e9679a026118213c512adc",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 5.05
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "旅の道ラジオへようこそ、パーソナリティのめたんよ。今回はね、評判が固まった名作を一本、じっくり掘り下げる回なの。",
+      "news_index": 0,
+      "start_sec": 5.05,
+      "end_sec": 12.94
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ずんだもん登場なのだー！通勤中のかたも夕方のかたも、よろしくなのだ！",
+      "news_index": 0,
+      "start_sec": 13.09,
+      "end_sec": 18.04
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今日の主役はね、ポーカーとローグライクが合体した『バラトロ』。2024年に出て、もう名作って言われてるやつ。",
+      "news_index": 1,
+      "start_sec": 18.19,
+      "end_sec": 25.34
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "ポーカーとローグライク？水と油を混ぜたみたいな名前なのだ。",
+      "news_index": 1,
+      "start_sec": 25.49,
+      "end_sec": 30.1
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それが見事に乳化してるのよ。トランプでポーカーの役を作って戦うゲームなの。",
+      "news_index": 1,
+      "start_sec": 30.25,
+      "end_sec": 35.13
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "じゃあボク、役満を狙えばいいのだね。麻雀みたいに！",
+      "news_index": 1,
+      "start_sec": 35.28,
+      "end_sec": 39.23
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "麻雀じゃないわ、ポーカーよ。役は五枚のカードで作るの、ピンフもチートイもないわ。",
+      "news_index": 1,
+      "start_sec": 39.38,
+      "end_sec": 44.79
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "むむ、卓が違ったのだ。つまりトランプで役を組むゲームってことなのだね。",
+      "news_index": 1,
+      "start_sec": 44.94,
+      "end_sec": 49.71
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。で、面白いのが、役を出すとチップと倍率が掛け算になってスコアになるのよ。",
+      "news_index": 1,
+      "start_sec": 49.86,
+      "end_sec": 55.63
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "掛け算ぅ？じゃあ倍率ゼロを掛けたら、どんな強い役でもスコアもゼロなのだ。",
+      "news_index": 1,
+      "start_sec": 55.78,
+      "end_sec": 62.43
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "そんな自滅装置を仕込む人はいないわ。倍率は一以上を盛っていくものなの。",
+      "news_index": 1,
+      "start_sec": 62.58,
+      "end_sec": 67.24
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "なるほど、地力に倍率を上乗せして数字を伸ばすのだね。で、その倍率はどうやって盛るのだ？",
+      "news_index": 1,
+      "start_sec": 67.39,
+      "end_sec": 73.86
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに、役の地力に倍率を盛ってボスのノルマをぶち抜く、それがバラトロの一拍ってこと。",
+      "news_index": 1,
+      "start_sec": 74.01,
+      "end_sec": 79.67
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "倍率を盛る主役が『ジョーカー』。デッキの横に置くお守りみたいなカードで、役の効果を書き換えるの。",
+      "news_index": 1,
+      "start_sec": 79.75,
+      "end_sec": 85.93
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ジョーカー！ババ抜きで最後まで握ってると負けるやつなのだね。",
+      "news_index": 1,
+      "start_sec": 86.08,
+      "end_sec": 90.16
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "こっちは握るほど強くなる方よ。同じ絵札でも役割が真逆なの。",
+      "news_index": 1,
+      "start_sec": 90.31,
+      "end_sec": 94.66
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "握って嬉しいババなのだ。何枚くらい種類があるのだ？",
+      "news_index": 1,
+      "start_sec": 94.81,
+      "end_sec": 98.98
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "百五十種類くらい。組み合わせで化けるから、自分だけのイカれたコンボを発明する遊びなのよ。",
+      "news_index": 1,
+      "start_sec": 99.13,
+      "end_sec": 104.94
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "百五十種類！？ボクのずんだ餅のレパートリーが三種類だから、五十倍なのだー。",
+      "news_index": 1,
+      "start_sec": 105.09,
+      "end_sec": 112.49
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "あなたの餅と比べないの。でも要するに、組み合わせ無限の発明ゲームってことね。",
+      "news_index": 1,
+      "start_sec": 112.64,
+      "end_sec": 118.15
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "でね、これ作ったの、たった一人なの。ローカルサンクって人。",
+      "news_index": 1,
+      "start_sec": 118.23,
+      "end_sec": 122.08
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "一人で百五十種類！？じゃあ残り百四十九個はバイトを雇ったのだ。",
+      "news_index": 1,
+      "start_sec": 122.23,
+      "end_sec": 127.43
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "バイトいないわ、ぜんぶ本人。一人でこの密度って、そこが化け物なの。",
+      "news_index": 1,
+      "start_sec": 127.58,
+      "end_sec": 132.06
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ひとりぼっちの大工場なのだ…ボク尊敬しちゃうのだー。",
+      "news_index": 1,
+      "start_sec": 132.21,
+      "end_sec": 136.17
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "しかもこの人、正体を明かしてないのよ。本名も顔も非公開。",
+      "news_index": 1,
+      "start_sec": 136.32,
+      "end_sec": 140.51
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "覆面職人なのだ！じゃあ正体はきっと有名人が変装してるパターンなのだ。",
+      "news_index": 1,
+      "start_sec": 140.66,
+      "end_sec": 145.8
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "そういうオチは用意されてないの。ただゲームだけ語らせてくれっていう職人気質よ。",
+      "news_index": 1,
+      "start_sec": 145.95,
+      "end_sec": 150.9
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "hisohiso",
+      "text": "(賞をもらう時もね、本人は出てこなくて、パブリッシャーのプレイスタックの人が代理で受け取ったらしいの)",
+      "news_index": 1,
+      "start_sec": 150.98,
+      "end_sec": 157.99
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "顔出しゼロで賞だけ届くのだ。要するに、姿は見せず腕だけ見せる職人なのだね。",
+      "news_index": 1,
+      "start_sec": 158.14,
+      "end_sec": 163.83
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そのプレイスタックがね、スチームを毎日チェックしてて、バラトロを見つけて声をかけたって逸話があるの。",
+      "news_index": 1,
+      "start_sec": 163.98,
+      "end_sec": 170.0
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "毎日スチームを掘るって、河原で砂金を探すおじさんと同じ仕事なのだ。",
+      "news_index": 1,
+      "start_sec": 170.15,
+      "end_sec": 175.38
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "まさにそれ。砂の中から一粒の金を見つけた、いい出会いってことよ。",
+      "news_index": 1,
+      "start_sec": 175.53,
+      "end_sec": 180.08
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "作る人と掘り当てる人は別チームなのだね。開発元と販売元は別、覚えたのだ。",
+      "news_index": 1,
+      "start_sec": 180.23,
+      "end_sec": 186.05
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、その砂金がね、もう怪物級。発売一ヶ月で百万本、一年で五百万本を超えたの。",
+      "news_index": 1,
+      "start_sec": 186.2,
+      "end_sec": 192.75
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "五百万本！？じゃあ地球上の五百万人が、夜な夜なトランプ切ってるのだー。",
+      "news_index": 1,
+      "start_sec": 192.9,
+      "end_sec": 198.75
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、世界中でね。一人で作ったゲームが、人口百万都市五つ分に届いたってこと。",
+      "news_index": 1,
+      "start_sec": 198.9,
+      "end_sec": 204.68
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "覆面職人ひとりが、五つの街を寝不足にしたのだね。とんでもない数字なのだ。",
+      "news_index": 1,
+      "start_sec": 204.83,
+      "end_sec": 210.18
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "賞でもね、2024年のザ・ゲーム・アワードで、ベストインディーとか三つも獲ったの。",
+      "news_index": 1,
+      "start_sec": 210.33,
+      "end_sec": 215.44
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "三冠！じゃあ大賞も総ナメで四冠、いや全部持って帰ったのだ。",
+      "news_index": 1,
+      "start_sec": 215.59,
+      "end_sec": 220.18
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "そこは惜しいの、大賞だけはアストロボットに譲ったわ。三つでも充分すごいでしょ。",
+      "news_index": 1,
+      "start_sec": 220.33,
+      "end_sec": 225.43
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "あらら、最後の一枚だけ手札に残ったのだ。でも翌年に雪辱とかないのだ？",
+      "news_index": 1,
+      "start_sec": 225.58,
+      "end_sec": 231.09
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "それがあるのよ、翌年の別の賞ではちゃんと大賞を獲ってるの。悔しさをバネにした一本ってことね。",
+      "news_index": 1,
+      "start_sec": 231.24,
+      "end_sec": 237.62
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "握ってたジョーカーが、一年越しで効いたのだね。いい話なのだ。",
+      "news_index": 1,
+      "start_sec": 237.77,
+      "end_sec": 242.01
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに、業界も客もみんな認めた一本ってこと。",
+      "news_index": 1,
+      "start_sec": 242.16,
+      "end_sec": 245.61
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "それにしても、見た目もちょっと不気味でかっこいいって聞いたのだ。",
+      "news_index": 1,
+      "start_sec": 245.76,
+      "end_sec": 249.54
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "chuuni",
+      "text": "ふふ…トランプの裏に蠢く、勝利への渇望。積み上がる倍率は、深淵へ堕ちる者の足跡なのよ。",
+      "news_index": 1,
+      "start_sec": 249.69,
+      "end_sec": 256.99
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "急に深淵が開いたのだ！さっきまでずんだ餅の話してた人と同一人物とは思えないのだー。",
+      "news_index": 1,
+      "start_sec": 257.14,
+      "end_sec": 265.25
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ふふ、ごめんなさい。あの妖しい雰囲気の話してると、つい厨二が出ちゃうのよ。",
+      "news_index": 1,
+      "start_sec": 265.4,
+      "end_sec": 270.34
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "雰囲気だけじゃなくて中毒性もすごくてね、『あと一回』が止まらないって有名なの。",
+      "news_index": 1,
+      "start_sec": 270.42,
+      "end_sec": 275.47
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "あと一回って、ボクの夏休みの宿題と同じ言い訳なのだ。",
+      "news_index": 1,
+      "start_sec": 275.62,
+      "end_sec": 279.96
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "宿題のあと一回は終わらせるためでしょ。こっちは終わらせたくないあと一回なの、向きが逆よ。",
+      "news_index": 1,
+      "start_sec": 280.11,
+      "end_sec": 285.8
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "終わりたくない宿題なのだ。それ最高で最悪のやつなのだー。",
+      "news_index": 1,
+      "start_sec": 285.95,
+      "end_sec": 290.43
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "値段もね、千七百円くらい。コスパは壊れてるって評判よ。",
+      "news_index": 1,
+      "start_sec": 290.58,
+      "end_sec": 294.74
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "千七百円で寝不足が無限に湧くのだ。時給で割ったら、お金を払って残業してるのと同じなのだー。",
+      "news_index": 1,
+      "start_sec": 294.89,
+      "end_sec": 301.6
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "得してるのか損してるのか分からない、それがバラトロってことね。",
+      "news_index": 1,
+      "start_sec": 301.75,
+      "end_sec": 305.66
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ところでこれ、パソコンだけなのだ？",
+      "news_index": 1,
+      "start_sec": 305.81,
+      "end_sec": 308.19
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ううん、スイッチもプレステもエックスボックスも、スマホでも出てるのよ。",
+      "news_index": 1,
+      "start_sec": 308.34,
+      "end_sec": 312.63
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "どこでも遊べるのだ！じゃあ逃げ場がどこにもないってことなのだー。",
+      "news_index": 1,
+      "start_sec": 312.78,
+      "end_sec": 316.67
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "hisohiso",
+      "text": "(そうなのよ、布団に逃げてもスマホがついてくるの。寝る前に一回って始めて朝まで溶ける人が続出してるわ)",
+      "news_index": 1,
+      "start_sec": 316.82,
+      "end_sec": 324.93
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "枕元まで深淵が追ってくるのだ…ボクの睡眠が心配になってきたのだー。",
+      "news_index": 1,
+      "start_sec": 325.08,
+      "end_sec": 332.14
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "でも安心して、出てもう時間が経って評価も固まったでしょ。今から始めても全然遅くないのよ。",
+      "news_index": 1,
+      "start_sec": 332.29,
+      "end_sec": 338.34
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "名作は逃げない、でも睡眠は逃げるってやつなのだね。",
+      "news_index": 1,
+      "start_sec": 338.49,
+      "end_sec": 342.16
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "うまいこと言うわね。むしろ今は更新も落ち着いて、遊びやすいタイミングだと思うわ。",
+      "news_index": 1,
+      "start_sec": 342.31,
+      "end_sec": 347.72
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "よーし、ボクも役満……じゃなくてポーカーの役、極めるのだー！",
+      "news_index": 1,
+      "start_sec": 347.87,
+      "end_sec": 352.48
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "また卓を間違えてるでしょ。最初からずっとポーカーって言ってるの。",
+      "news_index": 1,
+      "start_sec": 352.63,
+      "end_sec": 356.45
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "…ごめんなさいなのだ。",
+      "news_index": 1,
+      "start_sec": 356.6,
+      "end_sec": 357.84
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで今回は、ポーカーローグライクの名作『バラトロ』を掘り下げてみたわ。",
+      "news_index": 1,
+      "start_sec": 357.99,
+      "end_sec": 363.02
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "気になったリスナーのみなさんは、ぜひ握ってみてほしいのだー！",
+      "news_index": 1,
+      "start_sec": 363.17,
+      "end_sec": 366.97
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "睡眠時間だけは大事にね。それじゃ、またね。",
+      "news_index": 1,
+      "start_sec": 367.12,
+      "end_sec": 370.14
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "また旅の道ラジオで会いましょうなのだー！",
+      "news_index": 1,
+      "start_sec": 370.29,
+      "end_sec": 372.86
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 373.56,
+      "end_sec": 381.26
+    }
+  ],
+  "wall_time_sec": 10.55,
+  "audio_url": "/audio/indie/20260630_050757.mp3?v=1782764806"
+}
