@@ -7,8 +7,8 @@
     <description>ずんだもん × めたん × つむぎが届ける、ゲーム &amp; テックニュース雑談ラジオ。朝便と夜便で毎日更新、レトロから新作まで、最新 AI 動向から業界マクロまで雑談形式でサクッと。</description>
     <language>ja</language>
     <copyright>© 2026 tabinomichi</copyright>
-    <lastBuildDate>Wed, 01 Jul 2026 05:27:45 +0900</lastBuildDate>
-    <pubDate>Wed, 01 Jul 2026 05:15:44 +0900</pubDate>
+    <lastBuildDate>Wed, 01 Jul 2026 17:50:30 +0900</lastBuildDate>
+    <pubDate>Wed, 01 Jul 2026 17:07:17 +0900</pubDate>
     <generator>build_rss_feed.py (tabinomichi radio)</generator>
     <image>
       <url>https://news.tabinomichi.jp/podcast-cover.png?v=1779005902</url>
@@ -29,6 +29,21 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Anthropic最強AIが公開3日で消えた夜 〜Fable 5、規制くぐって帰還と中国製GLMという逃げ道〜</title>
+      <link>https://news.tabinomichi.jp/radio/20260701_170717</link>
+      <guid isPermaLink="false">tabinomichi-radio-20260701_170717</guid>
+      <pubDate>Wed, 01 Jul 2026 17:07:17 +0900</pubDate>
+      <description>テック夜便の深掘り。まず背景として、Anthropicの最新モデルFable 5が6月9日に公開されながら、わずか3日後の6月12日に米政府の輸出規制で全世界停止し、7月1日に再開した異例の経緯を追う。技術面では、価格がOpus 4.8の2倍になったこと、常に長考する設計への変更、そして安全分類器という門番が神経質になり、普通のコーディングでも誤って弾かれOpus 4.8に切り替わるようになった副作用を解説。含意では、一番賢いモデルが最適とは限らない現実、Opus 4.8の保険としての価値、そして止まらないことの価値から、安くてオープンな中国Z.aiのGLM-5.2に流れる初期の動きへ。展望では、Fable本番・Opus保険・GLM実験の三層で使い分ける付き合い方を提示した。</description>
+      <content:encoded><![CDATA[テック夜便の深掘り。まず背景として、Anthropicの最新モデルFable 5が6月9日に公開されながら、わずか3日後の6月12日に米政府の輸出規制で全世界停止し、7月1日に再開した異例の経緯を追う。技術面では、価格がOpus 4.8の2倍になったこと、常に長考する設計への変更、そして安全分類器という門番が神経質になり、普通のコーディングでも誤って弾かれOpus 4.8に切り替わるようになった副作用を解説。含意では、一番賢いモデルが最適とは限らない現実、Opus 4.8の保険としての価値、そして止まらないことの価値から、安くてオープンな中国Z.aiのGLM-5.2に流れる初期の動きへ。展望では、Fable本番・Opus保険・GLM実験の三層で使い分ける付き合い方を提示した。]]></content:encoded>
+      <enclosure url="https://news.tabinomichi.jp/audio/ai/20260701_170717.mp3?v=1782895829" length="10299811" type="audio/mpeg"/>
+      <itunes:title>Anthropic最強AIが公開3日で消えた夜 〜Fable 5、規制くぐって帰還と中国製GLMという逃げ道〜</itunes:title>
+      <itunes:summary>テック夜便の深掘り。まず背景として、Anthropicの最新モデルFable 5が6月9日に公開されながら、わずか3日後の6月12日に米政府の輸出規制で全世界停止し、7月1日に再開した異例の経緯を追う。技術面では、価格がOpus 4.8の2倍になったこと、常に長考する設計への変更、そして安全分類器という門番が神経質になり、普通のコーディングでも誤って弾かれOpus 4.8に切り替わるようになった副作用を解説。含意では、一番賢いモデルが最適とは限らない現実、Opus 4.8の保険としての価値、そして止まらないことの価値から、安くてオープンな中国Z.aiのGLM-5.2に流れる初期の動きへ。展望では、Fable本番・Opus保険・GLM実験の三層で使い分ける付き合い方を提示した。</itunes:summary>
+      <itunes:image href="https://news.tabinomichi.jp/images/og/20260701_170717.jpg"/>
+      <itunes:duration>10:43</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>安く、速く、専門に 〜降りてくるAIの朝〜</title>
       <link>https://news.tabinomichi.jp/radio/20260701_051544</link>
