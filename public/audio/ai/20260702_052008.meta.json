@@ -1,0 +1,776 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-07-02T05:20:08+09:00",
+  "title": "AIに賭ける巨人たちの朝 〜兆円・倉庫・丸写し、お金が渦巻くテック朝便〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 437.68,
+  "script_hash": "sha256:7716f0d65be40003dd5de64cd441111671e1ff8a675a2eafefe2f486673f9826",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 4.64
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便、テックニュースの回。四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 4.64,
+      "end_sec": 9.85
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝も通勤・通学のおともに、テックの話をサクッといくのだ!",
+      "news_index": 0,
+      "start_sec": 10.0,
+      "end_sec": 15.96
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今日はね、なんだか『お金』の匂いがする回よ。AI業界のお財布事情、四本立てでいくわ。",
+      "news_index": 0,
+      "start_sec": 16.11,
+      "end_sec": 22.25
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "お金の匂い? ボク、お小遣いの匂いしか嗅ぎ分けられないのだ。",
+      "news_index": 0,
+      "start_sec": 22.4,
+      "end_sec": 26.77
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "ふふ、桁が違うけどね。マスクさんのスマホから、ソフトバンクの兆円出資まで、盛りだくさんよ。",
+      "news_index": 0,
+      "start_sec": 26.92,
+      "end_sec": 33.26
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "兆? いきなり景気のいい単位が出てきたのだ! 楽しみになってきたのだー!",
+      "news_index": 0,
+      "start_sec": 33.41,
+      "end_sec": 38.14
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ一本目。あのイーロン・マスクのスペースエックスが、スマホみたいな端末の試作品を作ってるって報道が出たのよ。",
+      "news_index": 1,
+      "start_sec": 38.29,
+      "end_sec": 45.24
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "スペースエックスって、ロケットを飛ばしてる会社じゃないのだ!? なんでスマホなのだ?",
+      "news_index": 1,
+      "start_sec": 45.39,
+      "end_sec": 50.8
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、ロケットの会社。それが投資家に、アイフォンより薄い端末をこっそり見せたらしいの。",
+      "news_index": 1,
+      "start_sec": 50.95,
+      "end_sec": 56.78
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "薄いスマホ? 中身は、いつもの電話と何が違うのだ?",
+      "news_index": 1,
+      "start_sec": 56.93,
+      "end_sec": 61.03
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "中身がAIまみれなの。マスクのAI会社エックスエーアイの『グロック』ってAIが、最初から住み着いてる感じ。",
+      "news_index": 1,
+      "start_sec": 61.18,
+      "end_sec": 68.29
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ! アップルにもグーグルにも頼らない、自前のAIスマホってことなのだ!",
+      "news_index": 1,
+      "start_sec": 68.44,
+      "end_sec": 73.52
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ご名答。狙いは中国のウィーチャットみたいに、一つのアプリで買い物も連絡も全部やる『なんでもアプリ』ね。",
+      "news_index": 1,
+      "start_sec": 73.67,
+      "end_sec": 80.71
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "なんでもアプリ? ボクのスマホ、アプリだらけなのに、一個で済むのだ?",
+      "news_index": 1,
+      "start_sec": 80.86,
+      "end_sec": 85.68
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そういう世界を作りたいらしいわ。中身のチップは、クアルコムってメーカーのを積んでるみたい。",
+      "news_index": 1,
+      "start_sec": 85.83,
+      "end_sec": 91.52
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "へえ〜。……でもさ、なんかウマい話すぎない?",
+      "news_index": 1,
+      "start_sec": 91.67,
+      "end_sec": 95.07
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "そこがミソ。報道が出た直後に、マスク本人が『まったくのデタラメだ』って否定したのよ。",
+      "news_index": 1,
+      "start_sec": 95.22,
+      "end_sec": 100.93
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "えぇ〜!? 見せたって話なのに、本人が否定!? どっちなのだー!?",
+      "news_index": 1,
+      "start_sec": 101.08,
+      "end_sec": 107.52
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "真相はまだ霧の中ね。ただ、試作の段階で、商品として出るかも分からないわ。",
+      "news_index": 1,
+      "start_sec": 107.67,
+      "end_sec": 113.16
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "つまり今んとこ『噂』ってことなのだ。聞いてるかた、期待は控えめになのだ。",
+      "news_index": 1,
+      "start_sec": 113.31,
+      "end_sec": 118.63
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そうね。でもこれが本物なら、スマホ選びに『AI専用機』って新ジャンルが増えるかも。",
+      "news_index": 1,
+      "start_sec": 118.78,
+      "end_sec": 124.71
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "AI専用スマホ……ちょっとワクワクするのだ。ボクのポンコツ端末も、賢くしてほしいのだー。",
+      "news_index": 1,
+      "start_sec": 124.86,
+      "end_sec": 131.78
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ二本目。ソフトバンクが、オープンエーアイに、また、とんでもない額をつぎ込んだのよ。",
+      "news_index": 2,
+      "start_sec": 131.93,
+      "end_sec": 137.31
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "オープンエーアイって、チャットジーピーティーの会社だっけ。いくら入れたのだ?",
+      "news_index": 2,
+      "start_sec": 137.46,
+      "end_sec": 142.26
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "七月一日に、100億ドル。日本円で、だいたい1兆6,273億円ね。",
+      "news_index": 2,
+      "start_sec": 142.41,
+      "end_sec": 148.45
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "1兆!? 待って、それ今、二回言った? ボクの耳がバグったのだ!",
+      "news_index": 2,
+      "start_sec": 148.6,
+      "end_sec": 153.57
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "バグってないわ。しかもこれ、三回に分ける約束の、まだ二回目なの。",
+      "news_index": 2,
+      "start_sec": 153.72,
+      "end_sec": 158.02
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "二回目!? 全部でいくらになるのだ、こわいのだー!",
+      "news_index": 2,
+      "start_sec": 158.17,
+      "end_sec": 161.73
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三回で合計300億ドル。全部払い終わると、持ち分がだいたい13%になる計算よ。",
+      "news_index": 2,
+      "start_sec": 161.88,
+      "end_sec": 168.36
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "さんびゃく、おく、どる……ボクのお小遣い、何回集めても届かないやつなのだ。",
+      "news_index": 2,
+      "start_sec": 168.51,
+      "end_sec": 173.95
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "ふふ、桁が宇宙よね。孫正義さんが、それだけAIに賭けてるってこと。",
+      "news_index": 2,
+      "start_sec": 174.1,
+      "end_sec": 179.21
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でもさ、これってボクらの暮らしに、なんか関係あるのだ?",
+      "news_index": 2,
+      "start_sec": 179.36,
+      "end_sec": 183.26
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "あるわよ。こういう大金が流れ込むから、私たちが使うAIが、どんどん賢く安くなってくの。",
+      "news_index": 2,
+      "start_sec": 183.41,
+      "end_sec": 189.54
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、そっか! お金持ちの大勝負の恩恵、ボクらが受け取ってるってことなのだ!",
+      "news_index": 2,
+      "start_sec": 189.69,
+      "end_sec": 195.03
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そういうこと。次いくわよ。",
+      "news_index": 2,
+      "start_sec": 195.18,
+      "end_sec": 197.0
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目。メタが、余ったAIの計算パワーを、よそに売るお店を始めるらしいのよ。",
+      "news_index": 3,
+      "start_sec": 197.08,
+      "end_sec": 202.62
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "メタって、インスタとかの会社だっけ。計算パワーを売る、ってどういうことなのだ?",
+      "news_index": 3,
+      "start_sec": 202.77,
+      "end_sec": 208.5
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "メタはね、AIを動かす巨大なコンピューター倉庫、データセンターを山ほど持ってるの。",
+      "news_index": 3,
+      "start_sec": 208.65,
+      "end_sec": 214.09
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、データセンターって、AIを動かすでっかいサーバー倉庫のことなのだ!",
+      "news_index": 3,
+      "start_sec": 214.24,
+      "end_sec": 219.29
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "よく覚えてたわね。その倉庫の空きスペースを、よそに時間貸しするって話なの。",
+      "news_index": 3,
+      "start_sec": 219.44,
+      "end_sec": 224.66
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "駐車場の空きを、月ぎめで他人に貸すみたいなことなのだ。",
+      "news_index": 3,
+      "start_sec": 224.81,
+      "end_sec": 228.84
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "まさにそれ。しかもメタは今年だけで、AIの設備に1,000億ドルを超えるお金を使ってるのよ。",
+      "news_index": 3,
+      "start_sec": 228.99,
+      "end_sec": 234.53
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "1,000億ドル規模でAI設備に投資してるから、余った分を外に貸す発想が出てきたのだ!? どんだけ作りすぎたのだー!?",
+      "news_index": 3,
+      "start_sec": 234.68,
+      "end_sec": 242.74
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "そこなの。専門家からは『そんなに余るなら、そもそも買いすぎでは?』って皮肉も出てるわ。",
+      "news_index": 3,
+      "start_sec": 242.89,
+      "end_sec": 248.52
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "作りすぎたから売る……勉強しすぎてノートを売る人みたいなのだ。",
+      "news_index": 3,
+      "start_sec": 248.67,
+      "end_sec": 253.1
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "うまいわね。この報道を受けて、メタの株は一時およそ10%上がったのよ。",
+      "news_index": 3,
+      "start_sec": 253.25,
+      "end_sec": 258.07
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "余り物を売るって言っただけで、株が10%!?",
+      "news_index": 3,
+      "start_sec": 258.22,
+      "end_sec": 261.9
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "投資家が『無駄がお金に変わる』って喜んだのね。これは、スペースエックスなどの余剰計算能力を貸し出す動きにも似ているのよ。",
+      "news_index": 3,
+      "start_sec": 262.05,
+      "end_sec": 270.44
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、一本目のスペースエックス、ここで再登場なのだ!",
+      "news_index": 3,
+      "start_sec": 270.59,
+      "end_sec": 274.72
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。で、私たちにどう効くかっていうと、小さな会社もAIの倉庫を借りやすくなるの。",
+      "news_index": 3,
+      "start_sec": 274.87,
+      "end_sec": 280.75
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "つまり、面白いAIアプリが増えるかもってことなのだ。それは嬉しいのだー。",
+      "news_index": 3,
+      "start_sec": 280.9,
+      "end_sec": 286.47
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあラスト四本目。中国のアリババが、AnthropicのClaudeを不正に『蒸留』した疑いがある、という話よ。",
+      "news_index": 4,
+      "start_sec": 286.62,
+      "end_sec": 293.93
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "こっそりマネ!? それ、パクリってやつなのだ!?",
+      "news_index": 4,
+      "start_sec": 294.08,
+      "end_sec": 297.31
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "落ち着いて。相手はクロードを作ってるアンソロピック。アマゾンはそこに、最大250億ドルも入れてる大株主なのよ。",
+      "news_index": 4,
+      "start_sec": 297.46,
+      "end_sec": 304.45
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "Anthropicが、お金をかけて作ったClaudeを、別会社が安く真似しようとした疑いなのだ!? 頭がこんがらがるのだー!",
+      "news_index": 4,
+      "start_sec": 304.6,
+      "end_sec": 315.04
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "やり方は『蒸留』っていう手口。大きくて賢いAIの中身を、小さくて安いAIに引き写すの。",
+      "news_index": 4,
+      "start_sec": 315.19,
+      "end_sec": 321.89
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じょうりゅう? 理科で水を沸かすやつと、関係あるのだ?",
+      "news_index": 4,
+      "start_sec": 322.04,
+      "end_sec": 325.86
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "名前が同じだけで別物よ。師匠AIの知恵を、弟子の小型AIに教え込むイメージね。",
+      "news_index": 4,
+      "start_sec": 326.01,
+      "end_sec": 332.23
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、賢い先生のノートを丸写しして、安い参考書を作る感じなのだ!",
+      "news_index": 4,
+      "start_sec": 332.38,
+      "end_sec": 337.72
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "たとえがうまいわね。なんでかっていうと、先端AIは開発にも利用にもコストが高く、蒸留なら短時間・低コストで似た能力を得られる可能性があるからなの。",
+      "news_index": 4,
+      "start_sec": 337.87,
+      "end_sec": 347.28
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "値上げ対策で、自前の安い版を先に用意しとくってわけなのだ。",
+      "news_index": 4,
+      "start_sec": 347.43,
+      "end_sec": 351.82
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。アマゾンの話にするなら、Anthropicへの追加投資とAWS/Trainium利用の大型契約、OpenAIとの提携、自社AI開発を並行している、に留める。",
+      "news_index": 4,
+      "start_sec": 351.97,
+      "end_sec": 364.36
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "お金を出した相手なのに、ちょっとドライすぎるのだ。",
+      "news_index": 4,
+      "start_sec": 364.51,
+      "end_sec": 367.47
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "ビジネスだもの。まあアマゾン側は『コストは上がってない』って否定してるけどね。",
+      "news_index": 4,
+      "start_sec": 367.62,
+      "end_sec": 372.51
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "否定……今日、否定する人、多くないのだ?",
+      "news_index": 4,
+      "start_sec": 372.66,
+      "end_sec": 376.13
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ふふ、確かにね。で、私たちに効くのは、賢いAIがもっと安く使える時代が来るってこと。",
+      "news_index": 4,
+      "start_sec": 376.28,
+      "end_sec": 382.26
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "AIが安くなるのはボクらには嬉しいのだ。作る会社は大変そうだけど、応援するのだー。",
+      "news_index": 4,
+      "start_sec": 382.41,
+      "end_sec": 389.29
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "さて、今朝は四本立て。お金が主役のテック朝便だったわね。",
+      "news_index": 0,
+      "start_sec": 389.44,
+      "end_sec": 393.53
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "マスクのAIスマホ、ソフトバンクの兆円、メタの倉庫貸し、アマゾンの丸写し……お腹いっぱいなのだー。",
+      "news_index": 0,
+      "start_sec": 393.68,
+      "end_sec": 404.0
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "共通してるのはね、みんなAIに大金を賭けて、必死で元を取ろうとしてるってこと。",
+      "news_index": 0,
+      "start_sec": 404.15,
+      "end_sec": 409.07
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "その大金の恩恵で、ボクらのAIが安く賢くなる、ってことなのだ!",
+      "news_index": 0,
+      "start_sec": 409.22,
+      "end_sec": 414.18
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そういうこと。気になったやつがあったら、名前で検索してみてね。",
+      "news_index": 0,
+      "start_sec": 414.33,
+      "end_sec": 418.6
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "今日も一日、いってらっしゃいなのだー!",
+      "news_index": 0,
+      "start_sec": 418.75,
+      "end_sec": 421.72
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "旅の道ラジオ朝便、四国めたんと、",
+      "news_index": 0,
+      "start_sec": 421.87,
+      "end_sec": 424.78
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ずんだもんがお届けしたのだ! また明日のテック朝便で会おうなのだー!",
+      "news_index": 0,
+      "start_sec": 424.93,
+      "end_sec": 429.28
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 429.98,
+      "end_sec": 437.68
+    }
+  ],
+  "wall_time_sec": 11.87,
+  "audio_url": "/audio/ai/20260702_052008.mp3?v=1782937900"
+}

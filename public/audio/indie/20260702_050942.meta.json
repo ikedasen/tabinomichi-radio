@@ -1,0 +1,656 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-07-02T05:09:42+09:00",
+  "title": "回るリールの果てに 〜賛否を割ったサガの異端児〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 320.93,
+  "script_hash": "sha256:4436bf3e8d4ba2ebcab08ec5ffcb9db59defa66c0e357a20022352c0559bfcb3",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 6.34
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "旅の道ラジオへようこそなのだー！今回はパーソナリティのずんだもんと、レトロゲームの回なのだ！",
+      "news_index": 0,
+      "start_sec": 6.34,
+      "end_sec": 12.83
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "intro",
+      "text": "またまた、あーしが担当するっすよー！今回のテーマは、2002年のPS2ソフト『アンリミテッドサガ』っす！",
+      "news_index": 0,
+      "start_sec": 12.98,
+      "end_sec": 20.26
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "おお、サガシリーズなのだ！ボクでも名前だけは聞いたことあるのだー。",
+      "news_index": 0,
+      "start_sec": 20.41,
+      "end_sec": 25.15
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "それなっす。でもこれ、サガの中でもガチで賛否両論のカルト枠っすよ、先輩。",
+      "news_index": 0,
+      "start_sec": 25.3,
+      "end_sec": 30.67
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "賛否両論? なんだか香ばしい匂いがしてきたのだー。",
+      "news_index": 0,
+      "start_sec": 30.82,
+      "end_sec": 34.45
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "先に正直に言うっす。発売当時は「難解すぎてクソゲー」って散々叩かれた一本っす。",
+      "news_index": 1,
+      "start_sec": 34.6,
+      "end_sec": 40.7
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "いきなり身内をクソゲー呼ばわりとは、つむぎ攻めてるのだー。",
+      "news_index": 1,
+      "start_sec": 40.85,
+      "end_sec": 44.86
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "事実っすもん。海外レビューじゃ「退屈」とか「最大の落胆」呼ばわりっすよ。",
+      "news_index": 1,
+      "start_sec": 45.01,
+      "end_sec": 50.67
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "落胆て。期待されてたのに盛大に転んだ感じなのだ……。",
+      "news_index": 1,
+      "start_sec": 50.82,
+      "end_sec": 55.87
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そうっす。でも十数年たって「実は超奥深い意欲作だった」って再評価が固まってきたんすよ。",
+      "news_index": 1,
+      "start_sec": 56.02,
+      "end_sec": 62.4
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "クソゲーから意欲作に大出世なのだ。手のひら返しがすごいのだー。",
+      "news_index": 1,
+      "start_sec": 62.55,
+      "end_sec": 66.88
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに、合わない人は秒で投げて、ハマる人は一生掘る、極端に割れる作品っす。",
+      "news_index": 1,
+      "start_sec": 67.03,
+      "end_sec": 72.48
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "で、なにがそんなに難解なのだ? 戦闘が鬼なのだ?",
+      "news_index": 2,
+      "start_sec": 72.63,
+      "end_sec": 76.95
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "一番の名物が「リールシステム」っす。スロットみたいなリールが回って行動の成否を決めるんすよ。",
+      "news_index": 2,
+      "start_sec": 77.1,
+      "end_sec": 83.42
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "リールって、釣りのリールなのだ? 魚を釣るゲームなのだ?",
+      "news_index": 2,
+      "start_sec": 83.57,
+      "end_sec": 87.53
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "釣りじゃないっす先輩。スロットのあのクルクル回るやつっす。",
+      "news_index": 2,
+      "start_sec": 87.68,
+      "end_sec": 91.18
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "攻撃も、宝箱の解錠も、技のレベル選びも、ぜーんぶリールの目押しで決まるんす。",
+      "news_index": 2,
+      "start_sec": 91.26,
+      "end_sec": 96.93
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "えっ、宝箱を開けるのにスロットを回すのだ!? もうパチンコ屋なのだー。",
+      "news_index": 2,
+      "start_sec": 97.08,
+      "end_sec": 101.79
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "パチンコ言うなっす w 目押しミスると普通に痛い目見るんすけどね。",
+      "news_index": 2,
+      "start_sec": 101.94,
+      "end_sec": 105.79
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "要するに、運と目押しの腕がモノ言うボードゲームみたいなRPGってことなのだ?",
+      "news_index": 2,
+      "start_sec": 105.94,
+      "end_sec": 111.32
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そうそれっす！盤面のコマを進めるアナログゲームの感触を、RPGに持ち込んだ感じっすね。",
+      "news_index": 2,
+      "start_sec": 111.47,
+      "end_sec": 117.57
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "物語はどんな感じなのだ? 勇者が魔王を倒すやつなのだ?",
+      "news_index": 3,
+      "start_sec": 117.72,
+      "end_sec": 122.07
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "それがフツーじゃないんす。主人公が8人いて、選んだ人ごとに話の見え方が変わるんすよ。",
+      "news_index": 3,
+      "start_sec": 122.22,
+      "end_sec": 127.98
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "8人!? もう旅じゃなくて遠足なのだ、引率の先生が必要なのだー。",
+      "news_index": 3,
+      "start_sec": 128.13,
+      "end_sec": 134.8
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "引率て w それぞれ別ルートで、しかも各キャラが花のモチーフで表現されてるんす。",
+      "news_index": 3,
+      "start_sec": 134.95,
+      "end_sec": 139.94
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "花のモチーフ、なんかオシャレなのだ。ボクは枝豆の花がいいのだー。",
+      "news_index": 3,
+      "start_sec": 140.09,
+      "end_sec": 145.08
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "枝豆は募集してないっす w 物語の中心はローラっていう、30歳の元海賊で未亡人の女性っす。",
+      "news_index": 3,
+      "start_sec": 145.23,
+      "end_sec": 151.6
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "30歳・元海賊・未亡人!? 設定が渋滞してて情報量がすごいのだー。",
+      "news_index": 3,
+      "start_sec": 151.75,
+      "end_sec": 157.55
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "それなっす。要するに、王道の勇者譚じゃなくて、大人の群像劇をリールで遊ぶ変化球RPGっす。",
+      "news_index": 3,
+      "start_sec": 157.7,
+      "end_sec": 164.48
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "こんな尖った作品、誰が作ったのだ?",
+      "news_index": 4,
+      "start_sec": 164.63,
+      "end_sec": 167.57
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "製作総指揮は、サガシリーズの生みの親、河津秋敏さんっす。",
+      "news_index": 4,
+      "start_sec": 167.72,
+      "end_sec": 172.0
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "生みの親が自分のシリーズで変化球を投げてきたのだ。攻めの姿勢なのだー。",
+      "news_index": 4,
+      "start_sec": 172.15,
+      "end_sec": 176.95
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そうなんす。河津さんはエンディングテーマ『天翔ける翼』の作詞も手がけてるんすよ。",
+      "news_index": 4,
+      "start_sec": 177.1,
+      "end_sec": 182.41
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "監督が作詞まで。多才なのだー。",
+      "news_index": 4,
+      "start_sec": 182.56,
+      "end_sec": 185.03
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "で、音楽はあーしの推し、浜渦正志さんっす！",
+      "news_index": 4,
+      "start_sec": 185.18,
+      "end_sec": 188.44
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "つむぎ、急に声が一段高くなったのだー。",
+      "news_index": 4,
+      "start_sec": 188.59,
+      "end_sec": 191.87
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "だってオープニングの『序曲』がガチで荘厳なんすよ。実機で何周しても毎回鳥肌っす。",
+      "news_index": 4,
+      "start_sec": 192.02,
+      "end_sec": 197.9
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "……つむぎ、目が完全にオタクなのだ。早口になってるのだー。",
+      "news_index": 4,
+      "start_sec": 198.05,
+      "end_sec": 202.06
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "あ、すんません、キモかったっすね w 聴いたことないオタクくんは、序曲だけでも探して聴いてほしいっす。",
+      "news_index": 4,
+      "start_sec": 202.21,
+      "end_sec": 208.69
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "そんなに叩かれたのに、どれくらい売れたのだ?",
+      "news_index": 5,
+      "start_sec": 208.84,
+      "end_sec": 211.83
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "国内でだいたい56万本っす。叩かれた割には、しっかり手に取られてるんすよ。",
+      "news_index": 5,
+      "start_sec": 211.98,
+      "end_sec": 217.22
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "56万本!? もう街ひとつ全員が持ってる計算なのだー。",
+      "news_index": 5,
+      "start_sec": 217.37,
+      "end_sec": 222.85
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "街ひとつは盛りすぎっす先輩 w ファミ通レビューは8・8・8・7の31点で、シルバー殿堂入りっす。",
+      "news_index": 5,
+      "start_sec": 223.0,
+      "end_sec": 229.87
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "叩く人もいれば、ちゃんと評価する人もいたのだね。",
+      "news_index": 5,
+      "start_sec": 230.02,
+      "end_sec": 233.46
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そうっす。「新鮮で斬新」って声と「拒絶反応が出る人もいる」って声が同居してたんす。",
+      "news_index": 5,
+      "start_sec": 233.61,
+      "end_sec": 239.79
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "一本のソフトで、天国と地獄が同時に起きてた感じなのだー。",
+      "news_index": 5,
+      "start_sec": 239.94,
+      "end_sec": 244.2
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "うまいこと言うっす。で、やり込み勢が長い年月かけて深さを掘り当てて、評価がひっくり返ったんすよ。",
+      "news_index": 5,
+      "start_sec": 244.35,
+      "end_sec": 250.85
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "つむぎは結局この作品、好きなのだ? 嫌いなのだ?",
+      "news_index": 6,
+      "start_sec": 251.0,
+      "end_sec": 254.86
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "大好きっす。中古屋で発掘して、最初は意味分かんなくて投げかけたんすけどね。",
+      "news_index": 6,
+      "start_sec": 255.01,
+      "end_sec": 259.88
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "投げかけたのだ。やっぱり最初は難しいのだー。",
+      "news_index": 6,
+      "start_sec": 260.03,
+      "end_sec": 263.23
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "でも攻略本を片手に、リールの仕組みが腑に落ちた瞬間、世界の見え方が変わったんすよ。",
+      "news_index": 6,
+      "start_sec": 263.38,
+      "end_sec": 269.09
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "分かるとハマる、まさにスルメゲーなのだー。",
+      "news_index": 6,
+      "start_sec": 269.24,
+      "end_sec": 272.27
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "それっす。ギャル友達には絶対言えない趣味なんすけどね。",
+      "news_index": 6,
+      "start_sec": 272.42,
+      "end_sec": 276.14
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "つむぎに友達なんていたのだ?",
+      "news_index": 6,
+      "start_sec": 276.29,
+      "end_sec": 278.54
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "shirake",
+      "text": "……先輩。",
+      "news_index": 6,
+      "start_sec": 278.69,
+      "end_sec": 279.56
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "な、なんでもないのだ……ごめんなさいなのだ……",
+      "news_index": 6,
+      "start_sec": 279.71,
+      "end_sec": 283.64
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "コホン。とにかく、人を選ぶけど刺さると抜けない、それがアンリミテッドサガっす。",
+      "news_index": 6,
+      "start_sec": 283.79,
+      "end_sec": 288.73
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "いやー、クソゲー扱いから再評価まで、ジェットコースターな一本だったのだー。",
+      "news_index": 6,
+      "start_sec": 288.88,
+      "end_sec": 294.0
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "でしょっす。あ、リールは釣りのやつじゃないっすからね、念のため。",
+      "news_index": 6,
+      "start_sec": 294.15,
+      "end_sec": 298.35
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "まだ言うのだ!? でもボク、ちょっと目押ししてみたくなったのだー。",
+      "news_index": 6,
+      "start_sec": 298.5,
+      "end_sec": 302.39
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "それでこそっす。気になったオタクくんは、覚悟を決めて触ってみてほしいっす。",
+      "news_index": 6,
+      "start_sec": 302.54,
+      "end_sec": 307.13
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "それじゃ、また旅の道ラジオで会いましょうなのだー！",
+      "news_index": 6,
+      "start_sec": 307.28,
+      "end_sec": 310.79
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "ばいちゃっす、オタクくん！",
+      "news_index": 6,
+      "start_sec": 310.94,
+      "end_sec": 312.53
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 313.23,
+      "end_sec": 320.93
+    }
+  ],
+  "wall_time_sec": 10.03,
+  "audio_url": "/audio/indie/20260702_050942.mp3?v=1782937904"
+}

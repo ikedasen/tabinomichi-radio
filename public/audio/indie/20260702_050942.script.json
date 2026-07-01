@@ -1,0 +1,428 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-06-28T17:49:23.803906+00:00",
+  "title": "回るリールの果てに 〜賛否を割ったサガの異端児〜",
+  "segments": [
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "旅の道ラジオへようこそなのだー！今回はパーソナリティのずんだもんと、レトロゲームの回なのだ！",
+      "news_index": 0
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "intro",
+      "text": "またまた、あーしが担当するっすよー！今回のテーマは、2002年のPS2ソフト『アンリミテッドサガ』っす！",
+      "news_index": 0,
+      "reading": "またまた、あーしがたんとうするっすよー！こんかいのテーマは、にせんにねんのPS2ソフト『アンリミテッドサガ』っす！"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "おお、サガシリーズなのだ！ボクでも名前だけは聞いたことあるのだー。",
+      "news_index": 0
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "それなっす。でもこれ、サガの中でもガチで賛否両論のカルト枠っすよ、先輩。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "賛否両論? なんだか香ばしい匂いがしてきたのだー。",
+      "news_index": 0
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "先に正直に言うっす。発売当時は「難解すぎてクソゲー」って散々叩かれた一本っす。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "いきなり身内をクソゲー呼ばわりとは、つむぎ攻めてるのだー。",
+      "news_index": 1
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "事実っすもん。海外レビューじゃ「退屈」とか「最大の落胆」呼ばわりっすよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "落胆て。期待されてたのに盛大に転んだ感じなのだ……。",
+      "news_index": 1
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そうっす。でも十数年たって「実は超奥深い意欲作だった」って再評価が固まってきたんすよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "クソゲーから意欲作に大出世なのだ。手のひら返しがすごいのだー。",
+      "news_index": 1
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに、合わない人は秒で投げて、ハマる人は一生掘る、極端に割れる作品っす。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "で、なにがそんなに難解なのだ? 戦闘が鬼なのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "一番の名物が「リールシステム」っす。スロットみたいなリールが回って行動の成否を決めるんすよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "リールって、釣りのリールなのだ? 魚を釣るゲームなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "釣りじゃないっす先輩。スロットのあのクルクル回るやつっす。",
+      "news_index": 2
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "攻撃も、宝箱の解錠も、技のレベル選びも、ぜーんぶリールの目押しで決まるんす。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "えっ、宝箱を開けるのにスロットを回すのだ!? もうパチンコ屋なのだー。",
+      "news_index": 2
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "パチンコ言うなっす w 目押しミスると普通に痛い目見るんすけどね。",
+      "news_index": 2,
+      "reading": "パチンコいうなっすわらめおしミスるとふつうにいたいめみるんすけどね。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "要するに、運と目押しの腕がモノ言うボードゲームみたいなRPGってことなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そうそれっす！盤面のコマを進めるアナログゲームの感触を、RPGに持ち込んだ感じっすね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "物語はどんな感じなのだ? 勇者が魔王を倒すやつなのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "それがフツーじゃないんす。主人公が8人いて、選んだ人ごとに話の見え方が変わるんすよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "8人!? もう旅じゃなくて遠足なのだ、引率の先生が必要なのだー。",
+      "news_index": 3
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "引率て w それぞれ別ルートで、しかも各キャラが花のモチーフで表現されてるんす。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "花のモチーフ、なんかオシャレなのだ。ボクは枝豆の花がいいのだー。",
+      "news_index": 3
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "枝豆は募集してないっす w 物語の中心はローラっていう、30歳の元海賊で未亡人の女性っす。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "30歳・元海賊・未亡人!? 設定が渋滞してて情報量がすごいのだー。",
+      "news_index": 3
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "それなっす。要するに、王道の勇者譚じゃなくて、大人の群像劇をリールで遊ぶ変化球RPGっす。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "こんな尖った作品、誰が作ったのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "製作総指揮は、サガシリーズの生みの親、河津秋敏さんっす。",
+      "news_index": 4,
+      "reading": "せいさくそうしきは、サガシリーズのうみのおや、かわづあきとしさんっす。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "生みの親が自分のシリーズで変化球を投げてきたのだ。攻めの姿勢なのだー。",
+      "news_index": 4
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そうなんす。河津さんはエンディングテーマ『天翔ける翼』の作詞も手がけてるんすよ。",
+      "news_index": 4,
+      "reading": "そうなんす。かわづさんはエンディングテーマ『アマカケルツバサ』のさくしもてがけてるんすよ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "監督が作詞まで。多才なのだー。",
+      "news_index": 4
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "で、音楽はあーしの推し、浜渦正志さんっす！",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "つむぎ、急に声が一段高くなったのだー。",
+      "news_index": 4
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "だってオープニングの『序曲』がガチで荘厳なんすよ。実機で何周しても毎回鳥肌っす。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "……つむぎ、目が完全にオタクなのだ。早口になってるのだー。",
+      "news_index": 4
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "あ、すんません、キモかったっすね w 聴いたことないオタクくんは、序曲だけでも探して聴いてほしいっす。",
+      "news_index": 4,
+      "reading": "あ、すんません、キモかったっすねわらきいたことないオタクくんは、じょきょくだけでもさがしてきいてほしいっす。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "そんなに叩かれたのに、どれくらい売れたのだ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "国内でだいたい56万本っす。叩かれた割には、しっかり手に取られてるんすよ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "56万本!? もう街ひとつ全員が持ってる計算なのだー。",
+      "news_index": 5
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "街ひとつは盛りすぎっす先輩 w ファミ通レビューは8・8・8・7の31点で、シルバー殿堂入りっす。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "叩く人もいれば、ちゃんと評価する人もいたのだね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そうっす。「新鮮で斬新」って声と「拒絶反応が出る人もいる」って声が同居してたんす。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "一本のソフトで、天国と地獄が同時に起きてた感じなのだー。",
+      "news_index": 5
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "うまいこと言うっす。で、やり込み勢が長い年月かけて深さを掘り当てて、評価がひっくり返ったんすよ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "つむぎは結局この作品、好きなのだ? 嫌いなのだ?",
+      "news_index": 6
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "大好きっす。中古屋で発掘して、最初は意味分かんなくて投げかけたんすけどね。",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "投げかけたのだ。やっぱり最初は難しいのだー。",
+      "news_index": 6
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "でも攻略本を片手に、リールの仕組みが腑に落ちた瞬間、世界の見え方が変わったんすよ。",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "分かるとハマる、まさにスルメゲーなのだー。",
+      "news_index": 6
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "それっす。ギャル友達には絶対言えない趣味なんすけどね。",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "つむぎに友達なんていたのだ?",
+      "news_index": 6
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "shirake",
+      "text": "……先輩。",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "な、なんでもないのだ……ごめんなさいなのだ……",
+      "news_index": 6
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "コホン。とにかく、人を選ぶけど刺さると抜けない、それがアンリミテッドサガっす。",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "いやー、クソゲー扱いから再評価まで、ジェットコースターな一本だったのだー。",
+      "news_index": 6
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "でしょっす。あ、リールは釣りのやつじゃないっすからね、念のため。",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "まだ言うのだ!? でもボク、ちょっと目押ししてみたくなったのだー。",
+      "news_index": 6
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "それでこそっす。気になったオタクくんは、覚悟を決めて触ってみてほしいっす。",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "それじゃ、また旅の道ラジオで会いましょうなのだー！",
+      "news_index": 6
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "ばいちゃっす、オタクくん！",
+      "news_index": 6
+    }
+  ],
+  "program_description": "今回はレトロゲーム回。2002年にスクウェアがPS2で出した『アンリミテッド:サガ』を、つむぎが実機愛たっぷりに深掘りする回。発売当時は『難解すぎてクソゲー』と散々叩かれ、海外レビューでも『退屈』『最大の落胆』と言われた一本が、十数年かけてやり込み勢に再評価され『実は超奥深い意欲作』へと評価がひっくり返った――その賛否両論っぷりを正直に並べていく。名物の『リールシステム』では攻撃も宝箱の解錠も技レベル選びもぜんぶスロット状のリールの目押しで決まる仕様を、ずんだもんが『釣りのリール?』『もうパチンコ屋なのだ』とボケ倒し、つむぎが盤面を進めるボードゲーム感触のRPGだと整理。主人公8人と花のモチーフ、30歳・元海賊・未亡人のローラを中心にした群像劇、製作総指揮の河津秋敏とエンディングテーマ作詞、音楽の浜渦正志『序曲』の荘厳さ、国内56万本・ファミ通31点シルバー殿堂入りといった事実まで触れつつ、人を選ぶけど刺さると抜けないスルメゲーとして締める回。",
+  "featured_game": {
+    "app_id": null,
+    "igdb_id": 11314,
+    "title": "アンリミテッド:サガ",
+    "image_rel": "/images/topics/indie_20260702_050942_chars.webp",
+    "hero_rel": "/image/games/igdb_11314.jpg",
+    "screenshot_rels": [
+      "/image/games/igdb_11314_ss1.jpg",
+      "/image/games/igdb_11314_ss2.jpg",
+      "/image/games/igdb_11314_ss3.jpg",
+      "/image/games/igdb_11314_ss4.jpg"
+    ],
+    "developers": [
+      "Square Product Development Division 2"
+    ],
+    "publishers": [
+      "Atari Europe",
+      "Square Enix",
+      "Square"
+    ],
+    "genres": [
+      "Role-playing (RPG)"
+    ],
+    "release_date": "2002-12-19",
+    "price": "6,800円",
+    "short_description": "\"Unlimited SaGa\" is a sequel to Square's famous series of non-linear RPGs. Like in the early Romancing Saga games, and in Saga Frontier, you assume the role of eight main characters (selectable at the beginning of the game). The story centers around Laura, a 30-year old widow and an ex-pirate, but you view the story and make it progress differently depending on which character you have chosen, and on the decisions you take throughout the game. Each character is represented by a different kind of flower.\n\n\"Unlimited SaGa\" feels and plays a lot like a classic board RPG. Everything - from disarmi",
+    "alttitle": "Unlimited SaGa",
+    "dedup_verified": true
+  },
+  "bank_meta": {
+    "built_at": "2026-06-29T03:21:20.884829",
+    "title": "アンリミテッド:サガ",
+    "title_spec": "アンリミテッド:サガ|Unlimited Saga",
+    "variant": "retro",
+    "built_ts": "20260629_024923",
+    "residual_cleaned": true
+  }
+}
