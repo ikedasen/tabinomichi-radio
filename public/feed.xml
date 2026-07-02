@@ -7,8 +7,8 @@
     <description>ずんだもん × めたん × つむぎが届ける、ゲーム &amp; テックニュース雑談ラジオ。朝便と夜便で毎日更新、レトロから新作まで、最新 AI 動向から業界マクロまで雑談形式でサクッと。</description>
     <language>ja</language>
     <copyright>© 2026 tabinomichi</copyright>
-    <lastBuildDate>Thu, 02 Jul 2026 09:53:39 +0900</lastBuildDate>
-    <pubDate>Thu, 02 Jul 2026 05:20:08 +0900</pubDate>
+    <lastBuildDate>Fri, 03 Jul 2026 05:25:49 +0900</lastBuildDate>
+    <pubDate>Fri, 03 Jul 2026 05:14:56 +0900</pubDate>
     <generator>build_rss_feed.py (tabinomichi radio)</generator>
     <image>
       <url>https://news.tabinomichi.jp/podcast-cover.png?v=1779005902</url>
@@ -29,6 +29,36 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>国が株主になる朝 〜お金と半導体が渦巻く、テック朝便4本立て〜</title>
+      <link>https://news.tabinomichi.jp/radio/20260703_051456</link>
+      <guid isPermaLink="false">tabinomichi-radio-20260703_051456</guid>
+      <pubDate>Fri, 03 Jul 2026 05:14:56 +0900</pubDate>
+      <description>今朝のテック朝便は、お金と半導体が主役の四本立て。まずオープンエーアイが、評価額8,520億ドルのうち5%を政府に渡すという前代未聞のプラン。続いてAWSが10億ドル規模でForward Deployed Engineering組織を立ち上げ、顧客企業にエンジニアを送り込む話。マイクロソフトについては『Frontier Firm』というAI活用企業像の文脈に直す。。三本目はアンソロピックはGoogle/BroadcomのTPU容量やAWS Trainium、Microsoft Azure上のNvidiaシステムなど、複数の計算基盤を使う・拡張する動き。、脱エヌビディアじゃなく保険の一手。ラストは中国生まれの無料AI『ジーエルエム』が、プログラムの弱点探しでクロードを追い抜き、しかも六分の一の安さという下剋上。どのニュースも、めぐりめぐって私たちのAI料金や仕事に効いてくる、そんな朝の四本をサクッとお届けしました。</description>
+      <content:encoded><![CDATA[今朝のテック朝便は、お金と半導体が主役の四本立て。まずオープンエーアイが、評価額8,520億ドルのうち5%を政府に渡すという前代未聞のプラン。続いてAWSが10億ドル規模でForward Deployed Engineering組織を立ち上げ、顧客企業にエンジニアを送り込む話。マイクロソフトについては『Frontier Firm』というAI活用企業像の文脈に直す。。三本目はアンソロピックはGoogle/BroadcomのTPU容量やAWS Trainium、Microsoft Azure上のNvidiaシステムなど、複数の計算基盤を使う・拡張する動き。、脱エヌビディアじゃなく保険の一手。ラストは中国生まれの無料AI『ジーエルエム』が、プログラムの弱点探しでクロードを追い抜き、しかも六分の一の安さという下剋上。どのニュースも、めぐりめぐって私たちのAI料金や仕事に効いてくる、そんな朝の四本をサクッとお届けしました。]]></content:encoded>
+      <enclosure url="https://news.tabinomichi.jp/audio/ai/20260703_051456.mp3?v=1783023942" length="6358456" type="audio/mpeg"/>
+      <itunes:title>国が株主になる朝 〜お金と半導体が渦巻く、テック朝便4本立て〜</itunes:title>
+      <itunes:summary>今朝のテック朝便は、お金と半導体が主役の四本立て。まずオープンエーアイが、評価額8,520億ドルのうち5%を政府に渡すという前代未聞のプラン。続いてAWSが10億ドル規模でForward Deployed Engineering組織を立ち上げ、顧客企業にエンジニアを送り込む話。マイクロソフトについては『Frontier Firm』というAI活用企業像の文脈に直す。。三本目はアンソロピックはGoogle/BroadcomのTPU容量やAWS Trainium、Microsoft Azure上のNvidiaシステムなど、複数の計算基盤を使う・拡張する動き。、脱エヌビディアじゃなく保険の一手。ラストは中国生まれの無料AI『ジーエルエム』が、プログラムの弱点探しでクロードを追い抜き、しかも六分の一の安さという下剋上。どのニュースも、めぐりめぐって私たちのAI料金や仕事に効いてくる、そんな朝の四本をサクッとお届けしました。</itunes:summary>
+      <itunes:image href="https://news.tabinomichi.jp/images/og/20260703_051456.jpg"/>
+      <itunes:duration>6:37</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>人間発電所、爆走す 〜データイーストが放った伝説の怪作チェルノブ〜</title>
+      <link>https://news.tabinomichi.jp/radio/20260703_050631</link>
+      <guid isPermaLink="false">tabinomichi-radio-20260703_050631</guid>
+      <pubDate>Fri, 03 Jul 2026 05:06:31 +0900</pubDate>
+      <description>今回のレトロ回は、データイーストが1988年にアーケードで放った伝説的怪作『チェルノブ 戦う人間発電所』を深掘り。『戦う人間発電所』というパワーワードなサブタイトル、炭鉱で働いていた主人公が事故の放射線で超人化するというぶっ飛んだ設定、止まれない強制横スクロールの緊張感、砂漠を走ってくるピラミッドや遮光器土偶そっくりのボスといった狂った世界観を、レトロゲームマニアのつむぎが実体験まじりで熱く語る回。長らくバカゲー・伝説の迷ゲー扱いされてきたけれど、近年は『バカゲーのふりをした異色の良作』として再評価されている本作の二面性、当時の名前や設定が物議を醸しメーカーが『カルノフの従兄弟設定で無関係』と釈明したエピソード、メガドライブ版『アトミックランナー チェルノブ』やメガドライブミニ2収録まで触れていく。ずんだもんが『発電所がパンチしてくる説』をめぐってボケ倒し、笑っているうちに最後は遊んでみたくなる、そんな一本です。</description>
+      <content:encoded><![CDATA[今回のレトロ回は、データイーストが1988年にアーケードで放った伝説的怪作『チェルノブ 戦う人間発電所』を深掘り。『戦う人間発電所』というパワーワードなサブタイトル、炭鉱で働いていた主人公が事故の放射線で超人化するというぶっ飛んだ設定、止まれない強制横スクロールの緊張感、砂漠を走ってくるピラミッドや遮光器土偶そっくりのボスといった狂った世界観を、レトロゲームマニアのつむぎが実体験まじりで熱く語る回。長らくバカゲー・伝説の迷ゲー扱いされてきたけれど、近年は『バカゲーのふりをした異色の良作』として再評価されている本作の二面性、当時の名前や設定が物議を醸しメーカーが『カルノフの従兄弟設定で無関係』と釈明したエピソード、メガドライブ版『アトミックランナー チェルノブ』やメガドライブミニ2収録まで触れていく。ずんだもんが『発電所がパンチしてくる説』をめぐってボケ倒し、笑っているうちに最後は遊んでみたくなる、そんな一本です。]]></content:encoded>
+      <enclosure url="https://news.tabinomichi.jp/audio/indie/20260703_050631.mp3?v=1783023947" length="6257310" type="audio/mpeg"/>
+      <itunes:title>人間発電所、爆走す 〜データイーストが放った伝説の怪作チェルノブ〜</itunes:title>
+      <itunes:summary>今回のレトロ回は、データイーストが1988年にアーケードで放った伝説的怪作『チェルノブ 戦う人間発電所』を深掘り。『戦う人間発電所』というパワーワードなサブタイトル、炭鉱で働いていた主人公が事故の放射線で超人化するというぶっ飛んだ設定、止まれない強制横スクロールの緊張感、砂漠を走ってくるピラミッドや遮光器土偶そっくりのボスといった狂った世界観を、レトロゲームマニアのつむぎが実体験まじりで熱く語る回。長らくバカゲー・伝説の迷ゲー扱いされてきたけれど、近年は『バカゲーのふりをした異色の良作』として再評価されている本作の二面性、当時の名前や設定が物議を醸しメーカーが『カルノフの従兄弟設定で無関係』と釈明したエピソード、メガドライブ版『アトミックランナー チェルノブ』やメガドライブミニ2収録まで触れていく。ずんだもんが『発電所がパンチしてくる説』をめぐってボケ倒し、笑っているうちに最後は遊んでみたくなる、そんな一本です。</itunes:summary>
+      <itunes:image href="https://news.tabinomichi.jp/images/og/20260703_050631.jpg"/>
+      <itunes:duration>6:31</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AIに賭ける巨人たちの朝 〜兆円・倉庫・丸写し、お金が渦巻くテック朝便〜</title>
       <link>https://news.tabinomichi.jp/radio/20260702_052008</link>

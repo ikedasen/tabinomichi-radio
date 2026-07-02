@@ -1,0 +1,736 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-07-03T05:06:31+09:00",
+  "title": "人間発電所、爆走す 〜データイーストが放った伝説の怪作チェルノブ〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 391.02,
+  "script_hash": "sha256:7284a58f02538696e19ad1d92d7483841020e8c5752d6109f22461a44261e3bb",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 5.56
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "旅の道ラジオへようこそなのだー！ パーソナリティのずんだもんなのだ！",
+      "news_index": 0,
+      "start_sec": 5.56,
+      "end_sec": 10.04
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "今回はひさしぶりのレトロゲーム回なのだー！",
+      "news_index": 0,
+      "start_sec": 10.12,
+      "end_sec": 13.33
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "またまた、あーしが担当するっすよー！ 今回のテーマはデータイーストの『チェルノブ』っす！",
+      "news_index": 0,
+      "start_sec": 13.48,
+      "end_sec": 19.03
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "サブタイトルがエグくて、『戦う人間発電所』っすよ。パワーワードすぎて優勝っす。",
+      "news_index": 0,
+      "start_sec": 19.11,
+      "end_sec": 24.73
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "せ、戦う人間発電所……？ 発電所がパンチしてくるゲームなのだ？",
+      "news_index": 0,
+      "start_sec": 24.88,
+      "end_sec": 29.79
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "発電所が殴ってくるわけないっすよ先輩 w 人間が発電所みたいにエネルギー出して戦うって意味っす。",
+      "news_index": 0,
+      "start_sec": 29.94,
+      "end_sec": 35.64
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに、体から光線をビュンビュン出す超人が主人公ってことっすね。",
+      "news_index": 0,
+      "start_sec": 35.72,
+      "end_sec": 40.33
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "光線ビュンビュン超人、字面が強すぎてもうワクワクするのだ！",
+      "news_index": 0,
+      "start_sec": 40.48,
+      "end_sec": 45.03
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "基本情報からいくっす。チェルノブは1988年、データイーストがアーケードで出した強制横スクロールのアクションっす。",
+      "news_index": 1,
+      "start_sec": 45.18,
+      "end_sec": 52.57
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "1988年って、もうボクが生まれる前の前の前くらいなのだ。",
+      "news_index": 1,
+      "start_sec": 52.72,
+      "end_sec": 57.95
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "先輩、ずんだもんに生まれた年とかあるんすか……ってツッコミは置いとくっす w",
+      "news_index": 1,
+      "start_sec": 58.1,
+      "end_sec": 62.9
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "とにかく当時のゲーセンで動いてた、ガチのレトロっす。あーしは中古基板の動画から沼ったクチっす。",
+      "news_index": 1,
+      "start_sec": 62.98,
+      "end_sec": 68.87
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "強制横スクロールって、勝手に画面が進んじゃうやつなのだ？",
+      "news_index": 1,
+      "start_sec": 69.02,
+      "end_sec": 73.21
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "それっす。自分で止まれなくて、画面がガンガン右に進む中を走って撃って跳ぶっす。",
+      "news_index": 1,
+      "start_sec": 73.36,
+      "end_sec": 78.57
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "ええっ、止まれないのだ!? ボク歩くのも止まるのも下手なのに、無理ゲーなのだー！",
+      "news_index": 1,
+      "start_sec": 78.72,
+      "end_sec": 85.53
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そう、その『止まれない緊張感』がチェルノブの肝っす。要するに走る覚悟が試されるゲームっすね。",
+      "news_index": 1,
+      "start_sec": 85.68,
+      "end_sec": 92.19
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "で、ここ大事なんすけど、チェルノブって長いこと『バカゲー』『伝説の迷ゲー』扱いされてきた一本なんすよ。",
+      "news_index": 2,
+      "start_sec": 92.27,
+      "end_sec": 99.37
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "バカゲー!? さっきまで超人ヒーローっぽかったのに、急に評価が雑なのだ！",
+      "news_index": 2,
+      "start_sec": 99.52,
+      "end_sec": 104.56
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "それがっすね、最近は『バカゲーのふりをした異色の良作』って再評価されてるんすよ。",
+      "news_index": 2,
+      "start_sec": 104.71,
+      "end_sec": 110.41
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ふりだけバカゲー？ つまり本性はちゃんと面白いってことなのだ？",
+      "news_index": 2,
+      "start_sec": 110.56,
+      "end_sec": 114.92
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そういうことっす。見た目とノリはぶっ飛んでるけど、中身はちゃんと歯ごたえのあるアクションっす。",
+      "news_index": 2,
+      "start_sec": 115.07,
+      "end_sec": 120.44
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "あーしと一緒っすね。ギャルのふりした陰のオタクっていう……あ、今のナシで w",
+      "news_index": 2,
+      "start_sec": 120.52,
+      "end_sec": 125.59
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "その超人、どうやって超人になったのだ？ 修行なのだ？",
+      "news_index": 3,
+      "start_sec": 125.74,
+      "end_sec": 129.74
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "それがヘビーで、炭鉱で働いてた人が事故の大量の放射線を浴びて、奇跡的に生き残って超能力に目覚めるって設定っす。",
+      "news_index": 3,
+      "start_sec": 129.89,
+      "end_sec": 137.72
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "設定が重いのだー！ そこから光線ビュンビュンにどう繋がるのだ!?",
+      "news_index": 3,
+      "start_sec": 137.87,
+      "end_sec": 143.19
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そこは『そういうもん』で突き進むのが、この時代のパワーっす。で、その力を狙う秘密組織と戦うって筋っす。",
+      "news_index": 3,
+      "start_sec": 143.34,
+      "end_sec": 151.0
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ちなみにこの名前と設定、当時の現実の出来事を連想させて、けっこう物議を醸したんすよ。",
+      "news_index": 3,
+      "start_sec": 151.08,
+      "end_sec": 156.99
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "うっ、それはちょっとデリケートな話なのだね……。",
+      "news_index": 3,
+      "start_sec": 157.14,
+      "end_sec": 160.19
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そうっす。メーカーは『これは自社キャラ、カルノフの従兄弟って設定で、その出来事とは無関係っす』って公式に釈明してるっす。",
+      "news_index": 3,
+      "start_sec": 160.34,
+      "end_sec": 168.44
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "従兄弟!? カルノフさんの親戚が、まさかの人間発電所だったのだ。",
+      "news_index": 3,
+      "start_sec": 168.59,
+      "end_sec": 173.49
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "親戚一同パワー系すぎるっすよ w でもまあ、線引きはメーカーが当時ちゃんと言葉にしてるってことっす。",
+      "news_index": 3,
+      "start_sec": 173.64,
+      "end_sec": 179.57
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "で、ここからがチェルノブの真骨頂、世界観がマジで狂ってるんすよ。",
+      "news_index": 4,
+      "start_sec": 179.65,
+      "end_sec": 184.08
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "狂ってる……？ どんなふうになのだ？",
+      "news_index": 4,
+      "start_sec": 184.23,
+      "end_sec": 186.57
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "あるステージ、砂漠なんすけど、ピラミッドが砂漠の上をズザーって走って向かってくるっす。",
+      "news_index": 4,
+      "start_sec": 186.72,
+      "end_sec": 192.08
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "ピラミッドが走る!? 動かない代表みたいなやつが走ったら、もうなにも信じられないのだー！",
+      "news_index": 4,
+      "start_sec": 192.23,
+      "end_sec": 200.1
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "しかもそのステージのボス、遮光器土偶にそっくりなやつが出てくるっす。",
+      "news_index": 4,
+      "start_sec": 200.25,
+      "end_sec": 204.37
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "土偶ってあの、教科書に載ってる縄文時代のやつなのだ？ なんで敵なのだ？",
+      "news_index": 4,
+      "start_sec": 204.52,
+      "end_sec": 209.6
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "理由は聞いちゃダメっす w 『なんかカッコいいから』で出てくる、それがこのゲームっす。",
+      "news_index": 4,
+      "start_sec": 209.75,
+      "end_sec": 215.09
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "つむぎ、なんだか今日はだんだん語りが早口になってる気がするのだ……。",
+      "news_index": 4,
+      "start_sec": 215.24,
+      "end_sec": 219.57
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriama",
+      "text": "そんなことないっすよ。あーしはいつも通りっす、ぴーすぴーす。",
+      "news_index": 4,
+      "start_sec": 219.72,
+      "end_sec": 223.59
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "……目が笑ってないのだ。",
+      "news_index": 4,
+      "start_sec": 223.74,
+      "end_sec": 225.05
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "操作の話するっす！ チェルノブはジャンプ、ショット、それと『振り向き』の3つで戦うっす。",
+      "news_index": 5,
+      "start_sec": 225.2,
+      "end_sec": 231.4
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "振り向きが専用ボタンなのだ？ 後ろを見るのにボタンが要るのだ?",
+      "news_index": 5,
+      "start_sec": 231.55,
+      "end_sec": 235.84
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そう、強制スクロールだから後ろから来る敵に振り向いて撃つのが超大事なんすよ。慣れないと事故るっす。",
+      "news_index": 5,
+      "start_sec": 235.99,
+      "end_sec": 242.16
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "なるほど、後ろの気配を読む。ボクの得意分野なのだ。",
+      "news_index": 5,
+      "start_sec": 242.31,
+      "end_sec": 246.3
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "武器も豊富で、光子力光線とかエネルギーブーメランとか電撃のムチとか、アイテムで6種類に切り替わるっす。",
+      "news_index": 5,
+      "start_sec": 246.45,
+      "end_sec": 253.1
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "電撃のムチ、なんかカッコいいのだ……ボクそれ一個ほしいのだー！",
+      "news_index": 5,
+      "start_sec": 253.25,
+      "end_sec": 257.96
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "わかるっす！ あと『赤城山ミサイル』っていう、名前の地元感がたまらん武器もあるっす。",
+      "news_index": 5,
+      "start_sec": 258.11,
+      "end_sec": 263.87
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "急に群馬!? 光線の中に一個だけご当地が混ざってて混乱するのだー！",
+      "news_index": 5,
+      "start_sec": 264.02,
+      "end_sec": 270.6
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriama",
+      "text": "細かいことはいいんすよ。楽しいから……ね？ ぴーす。",
+      "news_index": 5,
+      "start_sec": 270.75,
+      "end_sec": 274.56
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "で、このゲーム、見た目のノリと裏腹に難度はガチで高いっす。死にゲー寄りっすね。",
+      "news_index": 6,
+      "start_sec": 274.64,
+      "end_sec": 279.96
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "止まれない、プラス後ろから敵、で難しいのは想像つくのだ。当時の人クリアできたのだ？",
+      "news_index": 6,
+      "start_sec": 280.11,
+      "end_sec": 286.37
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "できた人は本物の猛者っす。あーしも何度コンティニューを溶かしたか分かんないっす。",
+      "news_index": 6,
+      "start_sec": 286.52,
+      "end_sec": 291.29
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "つむぎでも溶かすのだ!? じゃあボクなんか、最初の1分でゲームオーバー連発で、彼女もできないレベルなのだ。",
+      "news_index": 6,
+      "start_sec": 291.44,
+      "end_sec": 299.27
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "shirake",
+      "text": "……先輩、それ今この話に関係あるっすか？",
+      "news_index": 6,
+      "start_sec": 299.42,
+      "end_sec": 302.83
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "な、なんでもないのだ……ごめんなさいなのだ……。",
+      "news_index": 6,
+      "start_sec": 302.98,
+      "end_sec": 306.92
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "コホン。で、最後に待ち構えてるのが自由の女神っていう、もう象徴みたいな名物シーンっす。",
+      "news_index": 6,
+      "start_sec": 307.07,
+      "end_sec": 313.13
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "自由の女神がラスト!? アメリカ縦断してたのだ、このゲーム!?",
+      "news_index": 6,
+      "start_sec": 313.28,
+      "end_sec": 317.49
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriama",
+      "text": "そこにどう辿り着くかは、遊んでのお楽しみっす……げへへ、ぴーす。",
+      "news_index": 6,
+      "start_sec": 317.64,
+      "end_sec": 322.14
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "で、今これどうやって遊ぶのって話っすけど、メガドライブ版『アトミックランナー チェルノブ』があるっす。",
+      "news_index": 7,
+      "start_sec": 322.22,
+      "end_sec": 328.49
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "アーケードから移植されたのだね。中身は同じなのだ？",
+      "news_index": 7,
+      "start_sec": 328.64,
+      "end_sec": 332.26
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "それが結構変わってて、1992年に出た移植版はストーリーや演出がガラッと作り直されてるっす。",
+      "news_index": 7,
+      "start_sec": 332.41,
+      "end_sec": 339.0
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "同じゲームなのに別物。レトロあるあるなのだ。",
+      "news_index": 7,
+      "start_sec": 339.15,
+      "end_sec": 342.41
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "しかもメガドライブミニ2にも収録されてるんで、今でも普通に手を出せるっす。同志のオタクくん、チャンスっすよ。",
+      "news_index": 7,
+      "start_sec": 342.56,
+      "end_sec": 349.32
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "ちゃんと令和でも遊べるの、なんかうれしいのだ。",
+      "news_index": 7,
+      "start_sec": 349.47,
+      "end_sec": 352.68
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "いやー、バカゲーって聞いてたのに、最後はちゃんと遊んでみたくなったのだ。",
+      "news_index": 7,
+      "start_sec": 352.76,
+      "end_sec": 357.48
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "それが狙いっす。『バカゲーのふり』にまんまと騙されてみてほしいっす。",
+      "news_index": 7,
+      "start_sec": 357.63,
+      "end_sec": 361.9
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ところでさっきの、発電所がパンチしてくる説、けっきょく合ってたのだ？",
+      "news_index": 7,
+      "start_sec": 362.05,
+      "end_sec": 367.08
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "合ってないっす w 一周回って最初に戻らないでほしいっす先輩。",
+      "news_index": 7,
+      "start_sec": 367.23,
+      "end_sec": 370.91
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "というわけで今回のレトロ回はここまでなのだ！ また旅の道ラジオで会いましょうなのだー！",
+      "news_index": 7,
+      "start_sec": 371.06,
+      "end_sec": 376.84
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "チェルノブ、気になったオタクくんはぜひ触ってみてほしいっす！ あーし春日部つむぎ、ばいちゃーっす！",
+      "news_index": 7,
+      "start_sec": 376.99,
+      "end_sec": 382.62
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 383.32,
+      "end_sec": 391.02
+    }
+  ],
+  "wall_time_sec": 14.08,
+  "audio_url": "/audio/indie/20260703_050631.mp3?v=1783023947"
+}

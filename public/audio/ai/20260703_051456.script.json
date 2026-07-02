@@ -1,0 +1,445 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-07-02T20:14:56.606059+00:00",
+  "title": "国が株主になる朝 〜お金と半導体が渦巻く、テック朝便4本立て〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便、テックニュースの回。四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今日も朝のテック話題、軽くいくのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今日はね、お金と半導体の話が多めよ。数字が好きなあんたには、たまらない回かも。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "やった、数字の回はボクの得意分野なのだ! で、いくら動くのだ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "一本目から飛ばすわよ。なんと、国がAI企業の株主になるかも、って話。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "国が株主!? のっけからスケールがデカいのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ一本目。オープンエーアイが、アメリカ政府に自社株の5%を渡すプランを検討してるのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "オープンエーアイって、チャットジーピーティーの会社だっけ。5%も、ぽんとあげちゃうのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "ただのプレゼントじゃないの。狙いは、政治の風当たりをやわらげることね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "風当たり? AIって、そんなに睨まれてるのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "けっこう睨まれてるのよ。だから『儲けは国民みんなに分けます』って形を作りたいわけ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、それで政府を仲間に引き込む作戦なのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "話が早いわね。で、ここから数字の時間よ。会社ぜんぶの値打ちが、8,520億ドル。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "8,520億ドル!? 円だと130兆円くらいのやつ!? 桁が壊れてるのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "その5%だから、政府に渡る分だけで426億ドル。日本円なら6兆円を超えるわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "たった5%で6兆円……。ボクのお小遣いを一億年ためても、届かないのだー。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "しかもオープンエーアイ一社じゃないの。他の大手にも同じ5%を出させて、みんなで基金を作る案なのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "基金? 石油で潤ってる、どこかの州がやってるやつみたいなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "まさにそれがお手本。ただ実現には議会の承認がいるから、今はまだ構想どまりね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、これがボクたちに、どう関係するのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "国がAI企業のオーナーの一角に座る、前代未聞の形。うまく回れば、AIの儲けが税金みたいに国民へ戻ってくる話よ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "へえ、ボクの財布にもチャリンと来るなら、応援したいのだー。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目。アマゾンのAWSが、AI導入を支援するForward Deployed Engineering組織に10億ドルを投じるのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "AI導入を専門に? ソフトを作る会社が、なんで導入係を作るのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "名前は『Forward Deployed Engineering』。投資額は10億ドル規模、またはMicrosoft文脈なら『Frontier Firm』は新会社名ではなくAI活用企業の概念。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "3,800億円を、導入のお手伝いにだけ!? 気前が良すぎるのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "数千人規模のAWSエンジニアを顧客企業に送り込み、AIシステムの構築・導入を支援するの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "会社の中に!? 家庭教師が、ずっと隣に座ってるみたいなやつなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いい例えね。今って、AIを入れたけど使いこなせない会社だらけなのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あー、道具だけ買って、説明書で挫折するやつなのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。だから『中に入って、動かすまで面倒みます』を商売にしたわけ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ほかの会社は、指くわえて見てるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "まさか。この話自体が、アマゾンのAWSが10億ドルを投じる取り組みなのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "みんな『AIを売る』から『AIを使わせる』に、商売替えしてるってことなのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、私たちへの影響はね。使える人と使えない人の差が、会社ごと大きく開いていく合図よ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "うっ……置いてかれないよう、ボクも今から慣れとくのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目。クロードを作ってるアンソロピックが、GoogleのTPUやAWSのTrainiumなど、Nvidia以外の計算基盤も増やしているのよ。",
+      "news_index": 3,
+      "reading": "さんぼんめ。クロードをツクッテルアンソロピックが、GoogleのTPUやAWSのTrainiumなど、エヌビディアイガイノケイサンキバンモフヤシテイルノヨ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "チップ? AIって、エヌビディアの高いやつを借りてたんじゃないのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこがミソ。今までAI各社は、エヌビディアのチップを取り合ってきたの。計算を爆速でやる部品ね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あの、品薄で値段がとんでもない、あれなのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう。だから借りるだけじゃなく、自前も持っておこう、って保険をかけ始めたのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "サムスンって、スマホの会社だっけ。チップも作れるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "作れるのよ。今回は2ナノっていう、髪の毛の何万分の一の細かさで作る話が出てるわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "そんな細かいの、エヌビディアにけんか売ってるのだ!?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "けんかじゃないわよ。アンソロピック自身も『エヌビディアは引き続き大事』って、ちゃんと言ってるの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "なら、なんでわざわざ自分でも作るのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "計算のコストを削れれば、それがそのまま会社の儲けになるから。だから各社こぞって、自前チップに走ってるの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、ボクたちの生活には、どう効くのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "すぐには変わらない。でも計算が安くなれば、めぐりめぐってAIの月額料金が下がる方に効いてくるわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "じわじわ安くなるなら、気長に待つのだー。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあラスト四本目。中国生まれの無料AIが、クロードを一部で追い抜いた、って話よ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "無料が、あの有料のクロードに勝ったのだ!? どこで勝ったのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "『ジーエルエム』ってモデルでね。プログラムに潜む弱点、穴を見つける力で上回ったの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "穴を見つける? AIがハッカーみたいに、弱点を探すってことなのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "守る側の使い方ね。先回りで穴を見つけて直すのに使って、テストではクロードを32点、こっちが39点で上回ったの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "差は小さいけど、無料が有料に勝った、ってのが事件なのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこよ。しかもコストは、だいたい六分の一で済んだの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "六分の一!? 安いうえに強いとか、ずるいのだー!",
+      "news_index": 4,
+      "reading": "ろくぶんのいち!?やすいうえにつよいとか、ずるいのだー!"
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "『オープンウェイト』っていって、モデルの重みや関連コードが公開されているのも大きいの。高性能GPU環境やクラウドを用意すれば、自分たちで動かして検証できるのよ。",
+      "news_index": 4,
+      "reading": "『おーぷんうぇいと』っていって、モデルのおもみやかんれんコードがコーカイサレテイルノモオオキイノ。こうせいのうGPUカンキョーヤクラウドをようい すれば、ジブンタチデウゴカシテケンショウデキルノヨ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "設計図まで配っちゃうのだ? 太っ腹すぎない?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "その太っ腹が武器なのよ。ただ、勝ったのは一つのテストだけ、他の穴では逆転もある、って但し書きは付くわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、これがボクたちに、どう効くのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "『高い商用AIじゃなきゃ』って常識が、崩れ始めてる合図ね。安くて強いAIが増えれば、私たちのサービスも安くなりやすいわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "財布にやさしいAI、大歓迎なのだー!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "さて、今日の四本、どうだったかしら。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "国が株主、住み込みエンジニア、自前チップに、無料AIの下剋上。濃かったのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "並べると、お金も技術も、ぐるぐる動いてる朝って感じね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "気になったのがあったら、あとで調べてみてほしいのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それじゃ、旅の道ラジオ朝便、テックの回はここまで。いってらっしゃい。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "また明日のテック朝便で会おうなのだー! ばいばーい!",
+      "news_index": 0
+    }
+  ],
+  "program_description": "今朝のテック朝便は、お金と半導体が主役の四本立て。まずオープンエーアイが、評価額8,520億ドルのうち5%を政府に渡すという前代未聞のプラン。続いてAWSが10億ドル規模でForward Deployed Engineering組織を立ち上げ、顧客企業にエンジニアを送り込む話。マイクロソフトについては『Frontier Firm』というAI活用企業像の文脈に直す。。三本目はアンソロピックはGoogle/BroadcomのTPU容量やAWS Trainium、Microsoft Azure上のNvidiaシステムなど、複数の計算基盤を使う・拡張する動き。、脱エヌビディアじゃなく保険の一手。ラストは中国生まれの無料AI『ジーエルエム』が、プログラムの弱点探しでクロードを追い抜き、しかも六分の一の安さという下剋上。どのニュースも、めぐりめぐって私たちのAI料金や仕事に効いてくる、そんな朝の四本をサクッとお届けしました。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20260703_051456_chars.webp",
+    "hero_rel": "/images/topics/tech_20260703_051456.webp",
+    "title": "国が株主になる朝 〜お金と半導体が渦巻く、テック朝便4本立て〜",
+    "companies": [
+      "Amazon",
+      "Claude",
+      "NVIDIA",
+      "OpenAI",
+      "Microsoft",
+      "Google"
+    ]
+  },
+  "summary_short": "評価額の5%を国に譲るオープンエーアイ、10億ドルでエンジニア部隊を送り込むアマゾン、脱エヌビディアではなく保険で複数基盤を握るアンソロピック、そして中国産無料AIがクロードを安さと実力で追い抜く下剋上。お金と半導体が絡む朝のテック四本立て。"
+}
