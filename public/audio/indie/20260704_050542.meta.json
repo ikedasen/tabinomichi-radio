@@ -1,0 +1,666 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-07-04T05:05:42+09:00",
+  "title": "四八ショック 〜伝説のクソゲーが変えたもの〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 336.48,
+  "script_hash": "sha256:a77e466785bdec5077bd30c296451a17abcc1d8589d7162d3afdb16a0ec8ae14",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 4.64
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "旅の道ラジオへようこそなのだー！パーソナリティのずんだもんなのだ！",
+      "news_index": 0,
+      "start_sec": 4.64,
+      "end_sec": 9.12
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "今回はひさびさのレトロゲーム回なのだー！",
+      "news_index": 0,
+      "start_sec": 9.2,
+      "end_sec": 12.3
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "intro",
+      "text": "ちっす！またまた、レトロ担当のあーしが出張ってくるっすよー！",
+      "news_index": 0,
+      "start_sec": 12.45,
+      "end_sec": 16.27
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "今回のテーマは、伝説のクソゲー『四八（仮）』っす！",
+      "news_index": 0,
+      "start_sec": 16.35,
+      "end_sec": 20.42
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "クソゲー!? いきなりオタクくんの前でディスっていいのだ?",
+      "news_index": 0,
+      "start_sec": 20.57,
+      "end_sec": 24.38
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ディスじゃないっす先輩。クソゲーとして語り継がれてる怪作を、愛をこめて掘り下げる回っす。",
+      "news_index": 0,
+      "start_sec": 24.53,
+      "end_sec": 30.09
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "なるほど、クソゲーを褒め称える回ってことなのだね。で、どんなゲームなのだ?",
+      "news_index": 1,
+      "start_sec": 30.24,
+      "end_sec": 35.34
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "発売は2007年11月22日、世に出したのはバンプレストっす。",
+      "news_index": 1,
+      "start_sec": 35.49,
+      "end_sec": 40.22
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "バンプレスト? あの、ガンプラ作ってる所なのだ?",
+      "news_index": 1,
+      "start_sec": 40.37,
+      "end_sec": 44.49
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "惜しいっす、ガンプラはバンダイっす w。バンプレストはその身内でゲームとか出してた会社っすね。",
+      "news_index": 1,
+      "start_sec": 44.64,
+      "end_sec": 50.14
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "中身を作ったのはシャノンとアルカディア・プロジェクト。要するに、開発と販売は別チームってことっす。",
+      "news_index": 1,
+      "start_sec": 50.22,
+      "end_sec": 56.72
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、四十八で『四八』なのだ? なんで48なのだ?",
+      "news_index": 1,
+      "start_sec": 56.87,
+      "end_sec": 61.62
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "47都道府県プラス、ラストの1本で48っす。全国各地の怪談を読み進めるホラーADVなんすよ。",
+      "news_index": 1,
+      "start_sec": 61.77,
+      "end_sec": 69.16
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "47都道府県全部!? ボクの夏休み、まるごと肝試しで消えちゃうのだー！",
+      "news_index": 1,
+      "start_sec": 69.31,
+      "end_sec": 75.43
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "消えるっす w。てか始める前に心が折れるっす。要は“ご当地怪談ツアー”ってノリっすね。",
+      "news_index": 1,
+      "start_sec": 75.58,
+      "end_sec": 81.67
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあタイトルの『仮』ってのは、なんなのだ?",
+      "news_index": 1,
+      "start_sec": 81.82,
+      "end_sec": 85.17
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そこが洒落てて、作中で“サンプルのゲームを試遊する”って設定だから、わざと未完成っぽく『仮』を付けてるっす。",
+      "news_index": 1,
+      "start_sec": 85.32,
+      "end_sec": 92.94
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "へえ、『仮』にもちゃんと意味があるのだね。ちょっと手が込んでるじゃん。",
+      "news_index": 1,
+      "start_sec": 93.09,
+      "end_sec": 97.51
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そうなんすよ。あーしらマニアは、縮めてヨンパチって呼んでるっす。",
+      "news_index": 1,
+      "start_sec": 97.66,
+      "end_sec": 101.7
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriama",
+      "text": "あーし、これ当時しっかり定価で買ったんすよ。わくわくしながら……。うん、いい思い出っす。ぴーす。",
+      "news_index": 1,
+      "start_sec": 101.78,
+      "end_sec": 108.33
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "……つむぎ、なんか目の奥が暗いのだ。",
+      "news_index": 1,
+      "start_sec": 108.48,
+      "end_sec": 110.87
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "気のせいっす。で、ここからが本題っす先輩。",
+      "news_index": 2,
+      "start_sec": 111.02,
+      "end_sec": 114.36
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ヨンパチは“クソゲーオブザイヤー2007”の大賞を獲ってるっす。",
+      "news_index": 2,
+      "start_sec": 114.44,
+      "end_sec": 118.55
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "大賞!? おめでとうなのだー！……って、喜んでいい賞なのだ?",
+      "news_index": 2,
+      "start_sec": 118.7,
+      "end_sec": 123.52
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "よくないっす w。その年いちばんヤバいクソゲーに贈られる、不名誉な金メダルっす。",
+      "news_index": 2,
+      "start_sec": 123.67,
+      "end_sec": 128.87
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ファミ通のクロスレビューでは40点満点中26点、電撃プレイステーションでは歴代最低のD評価っす。",
+      "news_index": 2,
+      "start_sec": 128.95,
+      "end_sec": 135.63
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "26点って、半分以上あるじゃん。ボクのテストより全然いい点なのだ。",
+      "news_index": 2,
+      "start_sec": 135.78,
+      "end_sec": 141.19
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "先輩のテストと並べちゃダメっす w。当時のあの雑誌で26点は、ほぼ最底辺の数字っすよ。",
+      "news_index": 2,
+      "start_sec": 141.34,
+      "end_sec": 147.42
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "雑誌に最低って言われるゲーム……ボク、ちょっと頭がぐるぐるしてきたのだ。",
+      "news_index": 2,
+      "start_sec": 147.57,
+      "end_sec": 154.05
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "何がヤバいって、シナリオごとの出来の差が激しすぎるとこっす。",
+      "news_index": 3,
+      "start_sec": 154.2,
+      "end_sec": 157.96
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "出来の差? 三兄弟でひとりだけ顔が違う、みたいなことなのだ?",
+      "news_index": 3,
+      "start_sec": 158.11,
+      "end_sec": 163.15
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "まさにそれっす w。ガチで震える神シナリオがある隣に、数分で終わる“ヒバゴン”って話が並んでるんすよ。",
+      "news_index": 3,
+      "start_sec": 163.3,
+      "end_sec": 170.24
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "数分!? カップ麺待ってる間に終わっちゃうのだ!?",
+      "news_index": 3,
+      "start_sec": 170.39,
+      "end_sec": 174.45
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "終わるっす。しかもオチもよく飲み込めない、その温度差そのものが伝説っすね。",
+      "news_index": 3,
+      "start_sec": 174.6,
+      "end_sec": 179.27
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "極めつけは、進行が止まって全クリア不可能になるバグまであったことっす。",
+      "news_index": 3,
+      "start_sec": 179.35,
+      "end_sec": 183.82
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "クリアできないゲームって、もうゲームとして成立してるのだ……? わかんなくなってきたのだー。",
+      "news_index": 3,
+      "start_sec": 183.97,
+      "end_sec": 191.23
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "つむぎ、なんだか今日は様子が変なのだ……。",
+      "news_index": 3,
+      "start_sec": 191.31,
+      "end_sec": 194.99
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriama",
+      "text": "そんなことないっすよ。あーしはいつも通りっすよー。ぴーすぴーす。",
+      "news_index": 3,
+      "start_sec": 195.14,
+      "end_sec": 199.15
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "……笑顔なのに、目だけ完全に死んでるのだ。",
+      "news_index": 3,
+      "start_sec": 199.3,
+      "end_sec": 202.02
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "意外なのが、発売前は怪談やホラー界隈の著名な作家さんたちが参加するって、大々的にアピールされてたっす。",
+      "news_index": 4,
+      "start_sec": 202.17,
+      "end_sec": 209.31
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "豪華メンバーだったのに、どうしてこうなったのだ?",
+      "news_index": 4,
+      "start_sec": 209.46,
+      "end_sec": 212.63
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "良い話もちゃんとあったっす。でも全体で見ると当たり外れが激しすぎて、期待とのギャップで余計に伝説化したっすね。",
+      "news_index": 4,
+      "start_sec": 212.78,
+      "end_sec": 219.82
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "でね先輩、ここがあーしの一番ガチで語りたいとこっす。",
+      "news_index": 4,
+      "start_sec": 219.9,
+      "end_sec": 223.43
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "出た、つむぎが急にマニアの顔になったのだ。",
+      "news_index": 4,
+      "start_sec": 223.58,
+      "end_sec": 226.79
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "この“四八ショック”を境に、クソゲー語りが“ただの感想”から“客観的な検証”に変わったんすよ。",
+      "news_index": 4,
+      "start_sec": 226.94,
+      "end_sec": 234.56
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "感想が……検証に……? 学校の読書感想文が、急に裁判になった感じなのだ?",
+      "news_index": 4,
+      "start_sec": 234.71,
+      "end_sec": 242.74
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "近いっす w。プレイ動画で“ほんとに酷いのか”をみんなで確かめる文化が生まれた、その出発点っす。",
+      "news_index": 4,
+      "start_sec": 242.89,
+      "end_sec": 249.35
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "クソゲーなのに、ゲームの語られ方そのものを変えちゃったってことなのだね。",
+      "news_index": 4,
+      "start_sec": 249.5,
+      "end_sec": 254.02
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "そうそう……って、あーし今めっちゃ早口だったっすね。キモくてさーせんっす。",
+      "news_index": 4,
+      "start_sec": 254.17,
+      "end_sec": 259.18
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "やべえ、つむぎの方が先輩なのだ……ボク、なにも言えないのだ……。",
+      "news_index": 4,
+      "start_sec": 259.33,
+      "end_sec": 265.01
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ところでつむぎ、これ全部クリアしたのだ?",
+      "news_index": 5,
+      "start_sec": 265.09,
+      "end_sec": 267.91
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriama",
+      "text": "全クリしたっす。47都道府県、ぜんぶ。……楽しかったっすよ。ぴーす。",
+      "news_index": 5,
+      "start_sec": 268.06,
+      "end_sec": 273.25
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "そんなクソゲー全クリするなんて、つむぎ、相当ヒマな時期だったのだ?",
+      "news_index": 5,
+      "start_sec": 273.4,
+      "end_sec": 278.35
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "shirake",
+      "text": "……先輩。",
+      "news_index": 5,
+      "start_sec": 278.5,
+      "end_sec": 279.36
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "な、なんでもないのだ……ごめんなさいなのだ……。",
+      "news_index": 5,
+      "start_sec": 279.51,
+      "end_sec": 283.45
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "コホン。まあおかげで、一生分の語りネタが手に入ったっす。これは勲章っすよ。",
+      "news_index": 5,
+      "start_sec": 283.6,
+      "end_sec": 288.86
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "中身のヤバいとこは、聴いてるみんなのために言わない感じなのだね?",
+      "news_index": 5,
+      "start_sec": 289.01,
+      "end_sec": 293.24
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "もちろんっす。怖いとことオチは伏せとくっす。気になるオタクくんは、自力でたどり着いてほしいっす。",
+      "news_index": 5,
+      "start_sec": 293.39,
+      "end_sec": 299.43
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "よし、ボク来年の夏休みは、ヨンパチで47都道府県を制覇するのだー！",
+      "news_index": 5,
+      "start_sec": 299.58,
+      "end_sec": 304.95
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "だから夏休み消し飛ぶやつっす w。さっきも言ったじゃないっすか先輩。",
+      "news_index": 5,
+      "start_sec": 305.1,
+      "end_sec": 309.28
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "というわけで今回は、伝説のクソゲー・ヨンパチをたっぷり掘り下げたのだー！",
+      "news_index": 5,
+      "start_sec": 309.43,
+      "end_sec": 314.16
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "クソゲーを笑い飛ばせるのも、最後までやり切ったオタクくんの特権っすからね！",
+      "news_index": 5,
+      "start_sec": 314.31,
+      "end_sec": 318.74
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "また旅の道ラジオで会うのだー！みんな、楽しかったのだー！",
+      "news_index": 5,
+      "start_sec": 318.89,
+      "end_sec": 323.71
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "それじゃ『四八（仮）』、機会があったら遊んでみてほしいっす！",
+      "news_index": 5,
+      "start_sec": 323.86,
+      "end_sec": 328.08
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 328.78,
+      "end_sec": 336.48
+    }
+  ],
+  "wall_time_sec": 10.34,
+  "audio_url": "/audio/indie/20260704_050542.mp3?v=1783110531"
+}
