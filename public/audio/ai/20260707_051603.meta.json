@@ -1,0 +1,726 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-07-07T05:16:03+09:00",
+  "title": "賢さより、値段と守り 〜スイカAIから格安コーディングまで、今朝のテック四本〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 369.41,
+  "script_hash": "sha256:3cf1e71d56d05f2e41cf303d8f94aa7231e449277150a9650b6e544fa2e55320",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 6.34
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便、テックニュースの回。四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 6.34,
+      "end_sec": 11.56
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝もテックの話題、軽くつまんでいくのだー!",
+      "news_index": 0,
+      "start_sec": 11.71,
+      "end_sec": 16.51
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "通勤・通学のおともに、今の業界どうなってるかをサクッと。今日は4本立てでいくわ。",
+      "news_index": 0,
+      "start_sec": 16.66,
+      "end_sec": 21.86
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "4本! どれもボクの知らない巨人たちの話なのだ?",
+      "news_index": 0,
+      "start_sec": 22.01,
+      "end_sec": 25.63
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "AIの新モデル、ネットのボット対策、業界へのダメ出し、それに格安のコーディングAI。",
+      "news_index": 0,
+      "start_sec": 25.78,
+      "end_sec": 32.0
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "おっ、最後のは安いやつ、ボク好みなのだ! じゃあ1本目いこう!",
+      "news_index": 0,
+      "start_sec": 32.15,
+      "end_sec": 36.71
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ1本目。メタが、次のAI『ウォーターメロン』が結構やるらしいって明かしたのよ。",
+      "news_index": 1,
+      "start_sec": 36.86,
+      "end_sec": 42.47
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "うぉーたーめろん? AIなのに、スイカって名前なのだ?",
+      "news_index": 1,
+      "start_sec": 42.62,
+      "end_sec": 46.59
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう、コードネームがフルーツ縛り。前のモデルは『アボカド』だったわ。",
+      "news_index": 1,
+      "start_sec": 46.74,
+      "end_sec": 51.06
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "スイカにアボカド、朝から美味しそうな名前なのだ〜!",
+      "news_index": 1,
+      "start_sec": 51.21,
+      "end_sec": 54.85
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "中身はね、複数の有名ベンチマークで、OpenAIのGPT-5.5に追いついたと社内で説明されたの。",
+      "news_index": 1,
+      "start_sec": 55.0,
+      "end_sec": 62.03
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "迫るって、追いついたってこと? メタって出遅れてなかったっけ?",
+      "news_index": 1,
+      "start_sec": 62.18,
+      "end_sec": 66.83
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "それがミソでね。今回は、前モデルAvocadoより一桁多い計算資源を使って学習しているらしいわ。",
+      "news_index": 1,
+      "start_sec": 66.98,
+      "end_sec": 73.6
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、パッと答えないで、一回悩んでから喋るAIってことなのだ?",
+      "news_index": 1,
+      "start_sec": 73.75,
+      "end_sec": 78.71
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。ただし裏で、学習に、前モデルより一桁多い計算資源を使っているって話。",
+      "news_index": 1,
+      "start_sec": 78.86,
+      "end_sec": 85.16
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "10倍!? 賢さって、気合いじゃなくて電気代で決まるのだ!?",
+      "news_index": 1,
+      "start_sec": 85.31,
+      "end_sec": 89.76
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今はね、お金と電力を積んだ会社が上に行く時代なのよ。",
+      "news_index": 1,
+      "start_sec": 89.91,
+      "end_sec": 93.48
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあボクたちには、どう関係するのだ?",
+      "news_index": 1,
+      "start_sec": 93.63,
+      "end_sec": 96.42
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "選べるAIの選択肢が増えるってこと。安くて賢いのが揃えば、使う側は得よね。",
+      "news_index": 1,
+      "start_sec": 96.57,
+      "end_sec": 102.1
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "巨人同士が殴り合うほど、ボクらのおやつが増えるのだ。ありがたいのだ〜。",
+      "news_index": 1,
+      "start_sec": 102.25,
+      "end_sec": 106.87
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "2本目。クラウドフレアって会社が、AIのボット対策をガラッと変えたのよ。",
+      "news_index": 2,
+      "start_sec": 107.02,
+      "end_sec": 111.76
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "くらうどふれあ? ぼっと? なんか聞き慣れないのだ。",
+      "news_index": 2,
+      "start_sec": 111.91,
+      "end_sec": 115.42
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "クラウドフレアは、世界中のサイトの門番みたいな会社ね。怪しいアクセスを弾く役目。",
+      "news_index": 2,
+      "start_sec": 115.57,
+      "end_sec": 121.18
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボットっていうのは、その怪しいアクセスのこと?",
+      "news_index": 2,
+      "start_sec": 121.33,
+      "end_sec": 124.58
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ボットは、人の代わりに自動でウェブを巡回するプログラム。検索用もいれば、AIの学習用もいるわ。",
+      "news_index": 2,
+      "start_sec": 124.73,
+      "end_sec": 131.37
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、AIがボクらの記事を勝手に読んで、お勉強しちゃうやつなのだ!",
+      "news_index": 2,
+      "start_sec": 131.52,
+      "end_sec": 136.42
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "察しがいいわね。従来のrobots.txtだけでは用途ごとの意思表示が弱かったけれど、今回は用途別のシグナルを出せるようになったの。",
+      "news_index": 2,
+      "start_sec": 136.57,
+      "end_sec": 145.0
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "それを、細かく分けられるようにしたってこと?",
+      "news_index": 2,
+      "start_sec": 145.15,
+      "end_sec": 148.23
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それをsearch、ai-input、ai-trainの3用途に分けて、利用可否を意思表示できるようになったのよ。",
+      "news_index": 2,
+      "start_sec": 148.38,
+      "end_sec": 155.48
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "なんでそこまでする必要があったのだ?",
+      "news_index": 2,
+      "start_sec": 155.63,
+      "end_sec": 158.26
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ネットを巡るアクセスが、初めて人間より機械のほうが多くなったからよ。",
+      "news_index": 2,
+      "start_sec": 158.41,
+      "end_sec": 163.03
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "人間より機械が多い!? ネットって、もう誰のものなのだ……。",
+      "news_index": 2,
+      "start_sec": 163.18,
+      "end_sec": 167.42
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "しかも広告で食べてるサイトだと、Cloudflareはすでに多数のドメインで、初期設定としてsearch=yes、ai-train=no、ai-inputは未指定にしているわ。",
+      "news_index": 2,
+      "start_sec": 167.57,
+      "end_sec": 177.88
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "それって、ボクらが読むぶんには関係あるのだ?",
+      "news_index": 2,
+      "start_sec": 178.03,
+      "end_sec": 181.29
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "あるわよ。書く人が『タダで学習されない』盾を持てると、ネットに良い記事が残りやすくなるじゃない?",
+      "news_index": 2,
+      "start_sec": 181.44,
+      "end_sec": 187.44
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "なるほど、書く人が守られると、読むボクらも嬉しいってことなのだ。",
+      "news_index": 2,
+      "start_sec": 187.59,
+      "end_sec": 191.99
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "3本目。ちょっと業界にケンカ売った話ね。パランティアってデータ会社のトップが、大手AIをこき下ろしたの。",
+      "news_index": 3,
+      "start_sec": 192.14,
+      "end_sec": 198.9
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ぱらんてぃあ? それも初耳の巨人なのだ。",
+      "news_index": 3,
+      "start_sec": 199.05,
+      "end_sec": 202.0
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "企業や政府のデータ分析を請け負う会社ね。そこのカープさんが噛みついたわ。",
+      "news_index": 3,
+      "start_sec": 202.15,
+      "end_sec": 207.19
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "誰に噛みついたのだ?",
+      "news_index": 3,
+      "start_sec": 207.34,
+      "end_sec": 209.01
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "オープンエーアイとアンソロピック。『AIモデルは無責任なくらい過大評価されてきた』ってバッサリよ。",
+      "news_index": 3,
+      "start_sec": 209.16,
+      "end_sec": 215.22
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "面と向かってそれ言ったのだ!? 強気すぎるでしょ!",
+      "news_index": 3,
+      "start_sec": 215.37,
+      "end_sec": 218.69
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "核心はね、『なんで企業が、自分の武器になるデータをよそのAIに渡すんだ』って疑問なのよ。",
+      "news_index": 3,
+      "start_sec": 218.84,
+      "end_sec": 224.91
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "えっと……データを渡すと、何がまずいのだ?",
+      "news_index": 3,
+      "start_sec": 225.06,
+      "end_sec": 228.42
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "使った文字の量でお金を払う仕組みでしょ。払った上に大事なデータまで吸われている、とカープCEOは主張している、って言いたいわけ。",
+      "news_index": 3,
+      "start_sec": 228.57,
+      "end_sec": 237.14
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "お金も取られて、中身も持ってかれる。それ、二重取りなのだ!",
+      "news_index": 3,
+      "start_sec": 237.29,
+      "end_sec": 241.38
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "しかも、企業の一部は、コストを下げるために中国系のオープンウェイトモデルへ乗り換え始めているんだって。",
+      "news_index": 3,
+      "start_sec": 241.53,
+      "end_sec": 247.53
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "16倍!? そんなに違ったら、そりゃ文句も言いたくなるのだ。",
+      "news_index": 3,
+      "start_sec": 247.68,
+      "end_sec": 251.93
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "この毒舌が刺さったのか、パランティアの株はその日9%も上がったのよ。",
+      "news_index": 3,
+      "start_sec": 252.08,
+      "end_sec": 256.94
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、ボクたち普通の人には、どう効いてくるのだ?",
+      "news_index": 3,
+      "start_sec": 257.09,
+      "end_sec": 260.62
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "会社がAIを選ぶ時、賢さだけじゃなく『データを守れるか』も見る流れになるってこと。",
+      "news_index": 3,
+      "start_sec": 260.77,
+      "end_sec": 266.53
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "一番賢いのを選べば勝ち、って時代でもなくなってきたのだね。",
+      "news_index": 3,
+      "start_sec": 266.68,
+      "end_sec": 270.9
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ラスト4本目。ぐっと軽く、お財布に優しい話。中国発の格安コーディングAIが出たのよ。",
+      "news_index": 4,
+      "start_sec": 271.05,
+      "end_sec": 277.5
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "待ってました、安いやつ! いくらなのだ?",
+      "news_index": 4,
+      "start_sec": 277.65,
+      "end_sec": 280.83
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "名前は『ZCode』。価格はLiteが月16.20ドル、Maxが月144ドルと報じられているわ。",
+      "news_index": 4,
+      "start_sec": 280.98,
+      "end_sec": 287.69
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "タダ!? 500万文字って、ボクが一生かけても書けない量なのだ!",
+      "news_index": 4,
+      "start_sec": 287.84,
+      "end_sec": 292.36
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "できることも欲張りでね。ファイルいじりも、テストも、履歴の管理も、全部おしゃべりで指示できるの。",
+      "news_index": 4,
+      "start_sec": 292.51,
+      "end_sec": 298.55
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "それって、CursorやGitHub Copilotと同じ土俵ってこと?",
+      "news_index": 4,
+      "start_sec": 298.7,
+      "end_sec": 303.02
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、真っ向勝負ね。高いコンテキスト長や一部タスクで注目されつつ、価格はCursorなどより割安に設定されているのよ。",
+      "news_index": 4,
+      "start_sec": 303.17,
+      "end_sec": 311.18
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "なんでそんなに安くできるのだ?",
+      "news_index": 4,
+      "start_sec": 311.33,
+      "end_sec": 313.55
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "中核モデルのGLM 5.2がオープンソースで、ZCodeはほかのモデルにもつなげられる作りなんだって。",
+      "news_index": 4,
+      "start_sec": 313.7,
+      "end_sec": 320.32
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、それ効くのは、プログラムを勉強したい学生さんとかなのだ!",
+      "news_index": 4,
+      "start_sec": 320.47,
+      "end_sec": 324.86
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ご名答。高い道具に手が出なかった人でも、ガンガン試せる時代になるってわけ。",
+      "news_index": 4,
+      "start_sec": 325.01,
+      "end_sec": 329.77
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "安くなるのは正義なのだ〜! ボクもなんか作ってみたくなったのだ!",
+      "news_index": 4,
+      "start_sec": 329.92,
+      "end_sec": 333.94
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで今朝は4本。スイカAI、ネットの門番、業界へのダメ出し、格安コーディングと来たわね。",
+      "news_index": 0,
+      "start_sec": 334.09,
+      "end_sec": 341.0
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "振り返ると、どれも『賢さより、値段と守り』の話だった気がするのだ。",
+      "news_index": 0,
+      "start_sec": 341.15,
+      "end_sec": 346.77
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いいまとめじゃない。派手さより、地に足のついた選び方の回だったわね。",
+      "news_index": 0,
+      "start_sec": 346.92,
+      "end_sec": 351.06
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "気になったやつあったら、あとで調べてみてほしいのだ!",
+      "news_index": 0,
+      "start_sec": 351.21,
+      "end_sec": 354.94
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それじゃ、今日も一日ぼちぼちいきましょ。四国めたんでした。",
+      "news_index": 0,
+      "start_sec": 355.09,
+      "end_sec": 358.86
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ずんだもんでした! また明日のテック朝便で会おうなのだー!",
+      "news_index": 0,
+      "start_sec": 359.01,
+      "end_sec": 362.68
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 363.38,
+      "end_sec": 369.41
+    }
+  ],
+  "wall_time_sec": 10.68,
+  "audio_url": "/audio/ai/20260707_051603.mp3?v=1783369626"
+}
