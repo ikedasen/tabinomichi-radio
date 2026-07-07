@@ -7,8 +7,8 @@
     <description>ずんだもん × めたん × つむぎが届ける、ゲーム &amp; テックニュース雑談ラジオ。朝便と夜便で毎日更新、レトロから新作まで、最新 AI 動向から業界マクロまで雑談形式でサクッと。</description>
     <language>ja</language>
     <copyright>© 2026 tabinomichi</copyright>
-    <lastBuildDate>Tue, 07 Jul 2026 05:27:13 +0900</lastBuildDate>
-    <pubDate>Tue, 07 Jul 2026 05:16:03 +0900</pubDate>
+    <lastBuildDate>Wed, 08 Jul 2026 05:28:21 +0900</lastBuildDate>
+    <pubDate>Wed, 08 Jul 2026 05:16:03 +0900</pubDate>
     <generator>build_rss_feed.py (tabinomichi radio)</generator>
     <image>
       <url>https://news.tabinomichi.jp/podcast-cover.png?v=1779005902</url>
@@ -29,6 +29,36 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>便利の裏で、誰かが払う 〜机を出た同僚AIと、値上がりする明日〜</title>
+      <link>https://news.tabinomichi.jp/radio/20260708_051603</link>
+      <guid isPermaLink="false">tabinomichi-radio-20260708_051603</guid>
+      <pubDate>Wed, 08 Jul 2026 05:16:03 +0900</pubDate>
+      <description>旅の道ラジオ朝便、今朝のテック雑談は四本立て。一本目はアンソロピックの『クロード・コワーク』がスマホとウェブに広がり、AIが机の上から通勤先までついてくる同僚になった話。二本目はマイクロソフトがコパイロットの中身を自社製AIにこっそり入れ替え、コスト削減の裏で品質はどうなるのという話。三本目は中国テンセントが公開した無料の高性能AI『エイチワイスリー』、必要な部分だけ動かす省エネ設計で誰でも商用に使える衝撃。ラストはAI向けメモリ争奪のしわ寄せで、今年（2026年）スマホやパソコンが値上がりしそうという、お財布に直結する話題。便利さの裏で誰かがコストを払う、そんな朝の四本をサクッとお届けしました。</description>
+      <content:encoded><![CDATA[旅の道ラジオ朝便、今朝のテック雑談は四本立て。一本目はアンソロピックの『クロード・コワーク』がスマホとウェブに広がり、AIが机の上から通勤先までついてくる同僚になった話。二本目はマイクロソフトがコパイロットの中身を自社製AIにこっそり入れ替え、コスト削減の裏で品質はどうなるのという話。三本目は中国テンセントが公開した無料の高性能AI『エイチワイスリー』、必要な部分だけ動かす省エネ設計で誰でも商用に使える衝撃。ラストはAI向けメモリ争奪のしわ寄せで、今年（2026年）スマホやパソコンが値上がりしそうという、お財布に直結する話題。便利さの裏で誰かがコストを払う、そんな朝の四本をサクッとお届けしました。]]></content:encoded>
+      <enclosure url="https://news.tabinomichi.jp/audio/ai/20260708_051603.mp3?v=1783456095" length="6093470" type="audio/mpeg"/>
+      <itunes:title>便利の裏で、誰かが払う 〜机を出た同僚AIと、値上がりする明日〜</itunes:title>
+      <itunes:summary>旅の道ラジオ朝便、今朝のテック雑談は四本立て。一本目はアンソロピックの『クロード・コワーク』がスマホとウェブに広がり、AIが机の上から通勤先までついてくる同僚になった話。二本目はマイクロソフトがコパイロットの中身を自社製AIにこっそり入れ替え、コスト削減の裏で品質はどうなるのという話。三本目は中国テンセントが公開した無料の高性能AI『エイチワイスリー』、必要な部分だけ動かす省エネ設計で誰でも商用に使える衝撃。ラストはAI向けメモリ争奪のしわ寄せで、今年（2026年）スマホやパソコンが値上がりしそうという、お財布に直結する話題。便利さの裏で誰かがコストを払う、そんな朝の四本をサクッとお届けしました。</itunes:summary>
+      <itunes:image href="https://news.tabinomichi.jp/images/og/20260708_051603.jpg"/>
+      <itunes:duration>6:20</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>夜明けまでの四百九十九円 〜poncle が築いた狩りの新ジャンル〜</title>
+      <link>https://news.tabinomichi.jp/radio/20260708_050711</link>
+      <guid isPermaLink="false">tabinomichi-radio-20260708_050711</guid>
+      <pubDate>Wed, 08 Jul 2026 05:07:11 +0900</pubDate>
+      <description>今回は新作ニュースじゃなく、もう評判が固まった名作を今からでも遊ぶ価値ありとして一本掘り下げる回。題材はローグライトの金字塔『ヴァンパイアサバイバーズ』。見下ろし画面で押し寄せる大量の夜の化け物を、自動で振られる武器でなぎ倒して夜明けまで生き延びるっていうシンプルさが逆に中毒的、って話から、開発元ポンクルのルカ・ガランテがほぼ個人から始めたこと、2021年のアーリーアクセスから2022年の正式版までの流れ、そして2023年のバフタ賞でエルデンリングやゴッド・オブ・ウォーを抑えてベストゲームを獲った“事件”まで語ってる回。ずんだもんが499円の安さに食いつきまくり、めたんがゴシックホラーに当てられて厨二モードを発病する、わちゃわちゃ深掘り回。フォロワー作品を山ほど生んだ“逆シューティング”というジャンルの祖としての凄さも掘り下げてる。</description>
+      <content:encoded><![CDATA[今回は新作ニュースじゃなく、もう評判が固まった名作を今からでも遊ぶ価値ありとして一本掘り下げる回。題材はローグライトの金字塔『ヴァンパイアサバイバーズ』。見下ろし画面で押し寄せる大量の夜の化け物を、自動で振られる武器でなぎ倒して夜明けまで生き延びるっていうシンプルさが逆に中毒的、って話から、開発元ポンクルのルカ・ガランテがほぼ個人から始めたこと、2021年のアーリーアクセスから2022年の正式版までの流れ、そして2023年のバフタ賞でエルデンリングやゴッド・オブ・ウォーを抑えてベストゲームを獲った“事件”まで語ってる回。ずんだもんが499円の安さに食いつきまくり、めたんがゴシックホラーに当てられて厨二モードを発病する、わちゃわちゃ深掘り回。フォロワー作品を山ほど生んだ“逆シューティング”というジャンルの祖としての凄さも掘り下げてる。]]></content:encoded>
+      <enclosure url="https://news.tabinomichi.jp/audio/indie/20260708_050711.mp3?v=1783456100" length="6120637" type="audio/mpeg"/>
+      <itunes:title>夜明けまでの四百九十九円 〜poncle が築いた狩りの新ジャンル〜</itunes:title>
+      <itunes:summary>今回は新作ニュースじゃなく、もう評判が固まった名作を今からでも遊ぶ価値ありとして一本掘り下げる回。題材はローグライトの金字塔『ヴァンパイアサバイバーズ』。見下ろし画面で押し寄せる大量の夜の化け物を、自動で振られる武器でなぎ倒して夜明けまで生き延びるっていうシンプルさが逆に中毒的、って話から、開発元ポンクルのルカ・ガランテがほぼ個人から始めたこと、2021年のアーリーアクセスから2022年の正式版までの流れ、そして2023年のバフタ賞でエルデンリングやゴッド・オブ・ウォーを抑えてベストゲームを獲った“事件”まで語ってる回。ずんだもんが499円の安さに食いつきまくり、めたんがゴシックホラーに当てられて厨二モードを発病する、わちゃわちゃ深掘り回。フォロワー作品を山ほど生んだ“逆シューティング”というジャンルの祖としての凄さも掘り下げてる。</itunes:summary>
+      <itunes:image href="https://news.tabinomichi.jp/images/og/20260708_050711.jpg"/>
+      <itunes:duration>6:22</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>賢さより、値段と守り 〜スイカAIから格安コーディングまで、今朝のテック四本〜</title>
       <link>https://news.tabinomichi.jp/radio/20260707_051603</link>
