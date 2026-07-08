@@ -1,0 +1,606 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-07-09T05:06:02+09:00",
+  "title": "ちいさな狐の大きな謎 〜説明書が読めない冒険〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 349.24,
+  "script_hash": "sha256:b43af1a09c81cb81d3f487c659c2432da02c7019b57ef5a9fcc4d450d7c934e9",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 4.64
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "旅の道ラジオ、パーソナリティのめたんよ。今回はね、評判がガッチリ固まった名作を一本だけ、じっくり掘り下げる回にしようと思って。",
+      "news_index": 0,
+      "start_sec": 4.64,
+      "end_sec": 13.33
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "旅の道ラジオへようこそなのだー！パーソナリティのずんだもんなのだ！",
+      "news_index": 0,
+      "start_sec": 13.48,
+      "end_sec": 17.63
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "名作って、なんの話なのだ？",
+      "news_index": 0,
+      "start_sec": 17.71,
+      "end_sec": 20.09
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今日掘るのはね、テュニックっていうゲーム。二〇二二年に出て、もう評価が完全に固まった一本よ。",
+      "news_index": 0,
+      "start_sec": 20.24,
+      "end_sec": 26.56
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "テュニック……それボクがいつも着てる、あのチュニックって服のことなのだ？",
+      "news_index": 0,
+      "start_sec": 26.71,
+      "end_sec": 31.52
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "服の話じゃないわ。ちいさな狐が主役のアクションアドベンチャーよ。",
+      "news_index": 0,
+      "start_sec": 31.67,
+      "end_sec": 35.76
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "……はい、ごめんなさいなのだ。",
+      "news_index": 0,
+      "start_sec": 35.91,
+      "end_sec": 37.83
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに、可愛い狐が広い世界を冒険する見下ろし型ゲーム。ここ押さえとけば大丈夫。",
+      "news_index": 0,
+      "start_sec": 37.98,
+      "end_sec": 43.78
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "まず見た目はね、斜め見下ろしのクォータービュー。剣と盾を持って、ローリングで避けて戦う作りなの。",
+      "news_index": 1,
+      "start_sec": 43.86,
+      "end_sec": 49.96
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "狐が剣持ってるのだ!? モフモフのくせに、もう片手間に勇者やってるのだー。",
+      "news_index": 1,
+      "start_sec": 50.11,
+      "end_sec": 55.76
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "片手間じゃないけどね。ダンジョン探索して、鍵集めて、仕掛け解いて、っていう構造なのよ。",
+      "news_index": 1,
+      "start_sec": 55.91,
+      "end_sec": 61.74
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "それ完全にゼルダなのだ！狐版ゼルダって言っちゃっていいのだ？",
+      "news_index": 1,
+      "start_sec": 61.89,
+      "end_sec": 66.01
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "影響は隠してないわね。ただ可愛い見た目に油断すると痛い目見る、要は見た目詐欺の骨太ゲーってこと。",
+      "news_index": 1,
+      "start_sec": 66.16,
+      "end_sec": 72.65
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "可愛い顔して中身は鬼なのだね。詐欺は良くないけど、ゲームならアリなのだ。",
+      "news_index": 1,
+      "start_sec": 72.8,
+      "end_sec": 77.87
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "作ってるのがまた面白くてね。作者のアンドリューさんっていうかたが、ほぼ一人で七年かけて作ったの。",
+      "news_index": 2,
+      "start_sec": 78.02,
+      "end_sec": 83.93
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "七年!? ボクが七年あったら、ずんだ餅を何個食べられるか計算したいのだー。",
+      "news_index": 2,
+      "start_sec": 84.08,
+      "end_sec": 91.22
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "餅から離れなさい。社会人が小学校に入って卒業間近になるくらいの時間、ずっと一本に注いだってことよ。",
+      "news_index": 2,
+      "start_sec": 91.37,
+      "end_sec": 98.55
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "そう言われると重みがすごいのだ。一人でそこまでやるって、ほんと執念だね。",
+      "news_index": 2,
+      "start_sec": 98.7,
+      "end_sec": 103.59
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "カナダの開発でね、途中からプロデューサーが合流して、ファインジっていうインディーの名門が拾い上げたの。",
+      "news_index": 2,
+      "start_sec": 103.74,
+      "end_sec": 109.93
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ファインジ……なんだか美味しそうな響きなのだ。狐に餌付けする人なのだ？",
+      "news_index": 2,
+      "start_sec": 110.08,
+      "end_sec": 114.73
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "hisohiso",
+      "text": "餌付けじゃなくて目利き。ここが付くと「あ、当たりかも」って業界がちょっとざわつく名門なのよ。",
+      "news_index": 2,
+      "start_sec": 114.88,
+      "end_sec": 122.42
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "つまり一人開発だけど、ぼっちじゃなかったってことなのだね。",
+      "news_index": 2,
+      "start_sec": 122.57,
+      "end_sec": 126.39
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、ここからが本題。このゲーム、ゲームの中に「紙の説明書」が出てくるの。",
+      "news_index": 3,
+      "start_sec": 126.54,
+      "end_sec": 131.93
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "説明書? あの、昔のソフトに入ってた、ペラペラのやつなのだ？",
+      "news_index": 3,
+      "start_sec": 132.08,
+      "end_sec": 136.94
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、それ。そのページが世界中にバラ撒かれてて、拾い集めていくの。しかもね、大半が謎の文字で書かれてるのよ。",
+      "news_index": 3,
+      "start_sec": 137.09,
+      "end_sec": 144.46
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "読めない説明書!? そんなの集めても、ボクのお片付けが増えるだけなのだー。",
+      "news_index": 3,
+      "start_sec": 144.61,
+      "end_sec": 151.45
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "片付けじゃなくて宝集めなの。子供の頃、輸入ゲームを言葉分からないまま手探りで遊んだ感覚、あれを再現したくてね。",
+      "news_index": 3,
+      "start_sec": 151.6,
+      "end_sec": 159.34
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "あー、分かるのだ。何が書いてあるか分からないまま手探りで進めたあの感じ、大好きなのだー。",
+      "news_index": 3,
+      "start_sec": 159.49,
+      "end_sec": 166.52
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "でしょ。で、すごいのが、この謎の文字、開発側が答えを出さなかったの。プレイヤーが寄ってたかって解読しちゃった。",
+      "news_index": 3,
+      "start_sec": 166.67,
+      "end_sec": 174.11
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "世界中のプレイヤーで暗号を解くって、もう壮大な交換日記なのだ！熱すぎるのだー。",
+      "news_index": 3,
+      "start_sec": 174.26,
+      "end_sec": 179.99
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "交換日記っていうか集団暗号解読ね。要は説明書が読めないこと自体が、このゲーム最大の遊びになってるってこと。",
+      "news_index": 3,
+      "start_sec": 180.14,
+      "end_sec": 187.74
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、難易度の話なんだけどね。これがソウルライクっぽい歯ごたえで、油断するとあっさり倒されるの。",
+      "news_index": 4,
+      "start_sec": 187.82,
+      "end_sec": 193.9
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ええっ、こんな可愛い狐なのにスパルタなのだ!? モフって油断した瞬間にやられるやつなのだー。",
+      "news_index": 4,
+      "start_sec": 194.05,
+      "end_sec": 200.51
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "chuuni",
+      "text": "ふっ……古き力は地の底で眠り、読めぬ文字だけがその真名を囁く……狐は知らずに深淵へ歩を進めるのよ。",
+      "news_index": 4,
+      "start_sec": 200.66,
+      "end_sec": 207.91
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "出たのだ！また厨二モード発病してるのだー！急にポエム始まったのだ!?",
+      "news_index": 4,
+      "start_sec": 208.06,
+      "end_sec": 213.08
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ごめんごめん。古代の遺跡とか封印とか出てくると、つい発作が出ちゃうのよ。",
+      "news_index": 4,
+      "start_sec": 213.23,
+      "end_sec": 217.84
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "まあ世界観はガチで神秘的だもんね。隠し要素もモリモリって聞いたのだ。",
+      "news_index": 4,
+      "start_sec": 217.99,
+      "end_sec": 222.78
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そうなの。寄り道の秘密が多くて、エンディングも条件で変わる。要するに、見た目の三倍は奥行きがあるって話。",
+      "news_index": 4,
+      "start_sec": 222.93,
+      "end_sec": 230.23
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "評価もね、口だけじゃないのよ。バフタっていう、イギリスの権威ある賞でアートディレクション部門を獲ったの。",
+      "news_index": 5,
+      "start_sec": 230.31,
+      "end_sec": 236.45
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "バフタって、あの有名なやつなのだ!? どんな相手と競ったのだ？",
+      "news_index": 5,
+      "start_sec": 236.6,
+      "end_sec": 241.46
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "なんとエルデンリングとか、ゴッド・オブ・ウォー ラグナロクを相手にして勝ったの。新人賞にあたるベストデビューも獲ってる。",
+      "news_index": 5,
+      "start_sec": 241.61,
+      "end_sec": 248.6
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ええっ、あの超大作たちを抑えたのだ!? 小さい狐が大きいの全部踏んづけたのだー。",
+      "news_index": 5,
+      "start_sec": 248.75,
+      "end_sec": 254.62
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "踏んづけてはいないけど、見た目で勝ったっていうのが効いてるわね。要は中身も賞も折り紙付きってこと。",
+      "news_index": 5,
+      "start_sec": 254.77,
+      "end_sec": 260.81
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "hisohiso",
+      "text": "音楽も良くてね。ライフフォームドとジャニス・クワンっていう二人が手がけてて、環境音を自分たちの近所で録ってたりするの。",
+      "news_index": 5,
+      "start_sec": 260.89,
+      "end_sec": 269.56
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "近所の音が狐の世界になるって、もうご近所が異世界なのだね。手作り感がいいのだー。",
+      "news_index": 5,
+      "start_sec": 269.71,
+      "end_sec": 275.61
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、結論。発売から年単位で経ってるけど、今からでも遊ぶ価値しかない一本だと思うわ。",
+      "news_index": 6,
+      "start_sec": 275.76,
+      "end_sec": 281.8
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "ボク完全にやりたくなってきたのだー！謎の文字、自力で解いてみたいのだ！",
+      "news_index": 6,
+      "start_sec": 281.95,
+      "end_sec": 287.34
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "お値段もね、三千円ちょっと。この密度でこの値段なら、お得な部類よ。",
+      "news_index": 6,
+      "start_sec": 287.49,
+      "end_sec": 292.18
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "三千円ちょっとで七年ぶんの執念が買えるのだ!? 時給で割ったらバグるのだー。",
+      "news_index": 6,
+      "start_sec": 292.33,
+      "end_sec": 299.11
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "また割り算する。要するに、安いしボリュームある、それでいいの。",
+      "news_index": 6,
+      "start_sec": 299.26,
+      "end_sec": 303.42
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "……はい、なのだ。もう計算しないのだ。",
+      "news_index": 6,
+      "start_sec": 303.57,
+      "end_sec": 306.27
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "謎解きと探索が好きなかた、手応えのある冒険がしたいかたには特に刺さると思う。これはおすすめできる名作ね。",
+      "news_index": 6,
+      "start_sec": 306.42,
+      "end_sec": 313.37
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "じゃあボク、テュニックを遊ぶために、まずはチュニックを着てくるのだ。形から入るのだー。",
+      "news_index": 6,
+      "start_sec": 313.52,
+      "end_sec": 319.61
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "服はいらないって最初に言ったでしょ……って、まだその冗談で押し通すつもりなのね。",
+      "news_index": 6,
+      "start_sec": 319.76,
+      "end_sec": 324.82
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "さて、そろそろお別れの時間ね。今回はちいさな狐の大きな冒険、テュニックをお届けしました。",
+      "news_index": 6,
+      "start_sec": 324.9,
+      "end_sec": 331.46
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "リスナーのみなさん、気になったらぜひ遊んでみてほしいのだ！ずんだもんでしたー！",
+      "news_index": 6,
+      "start_sec": 331.61,
+      "end_sec": 336.45
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "それじゃあ、また旅の道ラジオで会いましょう。めたんでした。",
+      "news_index": 6,
+      "start_sec": 336.6,
+      "end_sec": 340.34
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "またなのだー！バイバイなのだ！",
+      "news_index": 6,
+      "start_sec": 340.49,
+      "end_sec": 342.51
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 343.21,
+      "end_sec": 349.24
+    }
+  ],
+  "wall_time_sec": 9.15,
+  "audio_url": "/audio/indie/20260709_050602.mp3?v=1783542226"
+}
