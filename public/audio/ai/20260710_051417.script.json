@@ -1,0 +1,437 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-07-09T20:14:17.530809+00:00",
+  "title": "値段で殴り合う朝 〜安いAI・働くAI・お持ち帰りAI、今朝のテック四本〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便、テックニュースの回。四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝もテックの話題を、軽くつまみ食いしていくのだ!",
+      "news_index": 0,
+      "reading": "ボク、ずんだもんなのだー!けさもテックのわだいを、かるくつまみぐいしていくのだ!"
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今日は四本立て。コーディングAIの新入りに、チャットジーピーティーの大改造、それと訴訟が一本ね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "四本かー。朝から頭がパンクしない量で頼むのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "大丈夫、難しい言葉はちゃんと噛み砕くから。通勤のお供にどうぞ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "よし、じゃあ一本目、いってみよーなのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "まず一本目。メタが、コードにも強いAI『Muse Spark 1.1』を七月九日に発表し、米国開発者向けにMeta Model APIのパブリックプレビューで提供し始めたのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "みゅーず・すぱーく? それって、絵を描くやつじゃなくてなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "それは別物。今回のはコードを書く方の相棒ね、名前が紛らわしいだけよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "コードを書くAIって、そんなに珍しいものなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "珍しくはないの。クロードもチャットジーピーティーも先にやってて、メタは先行するOpenAIやAnthropicを追いかける立場なのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、あんなに大きい会社が後発なのだ!?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう。だから、性能を伸ばしつつ、かなり攻めた価格も武器にしている。ここが今日の肝ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "値段って、AIってどうやってお金を取るのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "トークンっていう、読ませたり書かせたりする文字のかたまりで課金するの。ミューズ・スパークは百万個で、入力1.25ドル、出力4.25ドルね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "うーん、ボクにはピンと来ない安さなのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "ざっくり言うと、GoogleやOpenAIの主力級モデルより安い価格設定。賢さそこそこを、とにかく安くばら撒く作戦よ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あっ、性能でも追い上げつつ、値段でも殴りにきたってことなのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そういうこと。ザッカーバーグさん自ら『安くて強い』って推してるあたり、本気だわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、私たちに効くのは、プログラマーが使う道具がまた一段安くなるってこと。巡り巡って、アプリやサービスの値段にも効いてくるのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "安くなるのはいいことなのだ。次いこ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目。オープンエーアイが、パソコン版のチャットジーピーティーを大改造したのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "大改造? 見た目が変わったってことなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "中身ね。『コーデックス』っていうコード書き係のAIを、本体にがっつり合体させたの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "こーでっくす? 動画を圧縮するやつだっけ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "それはコーデック。こっちはコーデックス、オープンエーアイのプログラミング担当AIよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "一文字違いで、ややこしいのだ……。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、新しい『Work』機能／設定として、ChatGPTデスクトップアプリにCodexの機能が入る。おしゃべり用とコード用が、一つの窓にまとまったの。",
+      "news_index": 2,
+      "reading": "で、あたらしい『Work』キノウ／セッテイトシテ、ChatGPTデスクトップアプリにこーでっくすのキノウガハイル。おしゃべりようとこーどようが、ひとつのまどにまとまったの。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "まとまると、何が嬉しいのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "『最終的にこれが欲しい』ってゴールだけ伝えれば、ざっくりした指示でも勝手に仕上げてくれるのが売りなの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "指示が雑でも汲み取ってくれるのだ!? ボクにぴったりじゃん!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "あなたの雑さは、想定を超えてそうだけどね。",
+      "news_index": 2,
+      "reading": "あなたのざつさは、ソウテイヲコエテソウダケドネ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "ひどいのだー!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "デスクトップアプリ向けに展開され、MacとWindowsのユーザーが対象になる。",
+      "news_index": 2,
+      "reading": "でスクトップアプリむけにてんかいされ、Macとうぃんどうずのユーザーがタイショウニナル。"
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "要するに、チャットジーピーティーが『質問に答える箱』から『成果物を作って渡す相棒』に変わる、って話ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "聞く相手から、働く相手になるのだ。次!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目は、ちょっと大人の事情。さっきのオープンエーアイが、新聞社ともめてるのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "新聞社と? 何を揉めてるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ニューヨーク・タイムズたちが『記事を無断でAIの勉強に使われた』って訴えてる裁判ね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "その裁判で、今度は何があったのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "オープンエーアイが二年以上『学習データは検索できない』って言い張ってたのに、新聞社側は、OpenAIの従業員証言が『検索できない』という従来説明と食い違う、と主張しているの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "できないって言ってたのに、できたのだ!?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "社内の担当者の証言で発覚してね。しかもデータセットやChatGPTログの開示・保全をめぐって争いになっていることまで出てきたの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "七千八百万!? ボクの一生分のおしゃべりでも、届かない数なのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "でしょうね。それで新聞社側は『隠したり壊したりした証拠があるなら、制裁を科してほしい』って怒ってるわけ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "証拠を出せって言われて、出さなかったのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "新聞社側は、OpenAIが重要なデータセットやログを不当に出さなかったり、破棄したりしたと主張している、それで制裁を求める騒ぎになってる。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "私たちに関わるのは、AIが何を勉強に使ったのかを、どこまで開示させられるか。そのルールが決まる裁判なのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "便利の裏で、誰かの記事がこっそり使われてるかも、なのだ……。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そう身構えないで。ちゃんと線引きしようって動きでもあるから。次いくわよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ラスト四本目。ぐっと軽く、中国のテンセントが、無料で持ち帰れるAIを公開したのよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "持ち帰れる? AIって、借りて使うものじゃないのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "普通はね。でもこれは中身を丸ごと配ってて、自分のパソコンにダウンロードして動かせるの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "自分の機械で動かせるのだ!? しかもタダで!?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "しかも商売に使っても自由なライセンス付き。太っ腹でしょ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でもタダで巨大なら、動かすのは重いんじゃないのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そこが賢いの。モデル名を明示して数値を合わせる。Hunyuan-A13Bなら『全体は800億、実際に動くのは130億』。Hunyuan-Largeなら『全体は3890億、実際に動くのは520億』っていう作りなのよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "全部は使わないで、必要な分だけ動かすってことなのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ご名答。だから見た目は巨大でも、動かす負担は軽い。大型モデル並みの賢さを、安く回せるってわけ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "いいとこ取りじゃん、ずるいのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "オープンルーターってサービスなら、七月二十一日まで無料で試せるわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "で、私たちに効くのは、高いAIを借りなくても、そこそこ賢いのをタダで自前で動かせる時代が近づいてるってこと。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "お財布に優しい未来なのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そんなわけで、今朝は四本立てでお届けしました。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "安いコーディングAIに、働くチャットジーピーティー、それにお持ち帰りAIが面白かったのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "訴訟の話も、忘れないであげてね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "忘れてないのだー、ちょっと重かっただけなのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "気になったやつがあったら、あとで調べてみて。旅の道ラジオ朝便でした。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "また明日のテック朝便で会おうなのだ! いってらっしゃい!",
+      "news_index": 0
+    }
+  ],
+  "program_description": "旅の道ラジオ朝便、テックニュースの回。今朝は四本立て。一本目はメタがプログラムを書くAI『ミューズ・スパーク』を七月九日に公開、賢さより値段で殴り込む後発戦略の話。二本目はオープンエーアイがパソコン版チャットジーピーティーを大改造して、コード書き係の『コーデックス』を合体させた『チャットジーピーティー・ワーク』、ゴールだけ伝えれば自走する相棒に。三本目はちょっと重め、ニューヨーク・タイムズたちがオープンエーアイの学習データ開示めぐって制裁を申し立てた訴訟の話。ラストは中国テンセントが、丸ごとダウンロードして自分のパソコンで動かせる無料AIを公開した『お持ち帰り』ネタ。安くなるAIと、その裏で問われる透明さを、通勤のお供にサクッとまとめる回。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20260710_051417_chars.webp",
+    "hero_rel": "/images/topics/tech_20260710_051417.webp",
+    "title": "値段で殴り合う朝 〜安いAI・働くAI・お持ち帰りAI、今朝のテック四本〜",
+    "companies": [
+      "OpenAI",
+      "Meta",
+      "Claude"
+    ]
+  },
+  "summary_short": "メタ発AI、OpenAIの自走コーディング相棒、NYT対OpenAIの開示訴訟、テンセントの持ち帰り無料AI。安さと自律性で押し合うAI四社の攻防を、透明性という宿題込みで駆け足チェックする一本。"
+}
