@@ -1,0 +1,636 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-07-11T05:08:28+09:00",
+  "title": "牢獄の鼓動 〜死んで、覚えて、駆け抜ける名作〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 410.12,
+  "script_hash": "sha256:a83b0b8017dcb3e8b95e54a34e943ddabbb713570e0815197a0285214fe57f6e",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 5.05
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "はい、旅の道ラジオ、パーソナリティのめたんよ。今回はね、ずっと名作って言われ続けてるアクションを一本、じっくり掘り下げる回。",
+      "news_index": 0,
+      "start_sec": 5.05,
+      "end_sec": 13.48
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ずんだもん登場なのだー！名作って聞くとワクワクするのだ。今回のお題はなんなのだ？",
+      "news_index": 0,
+      "start_sec": 13.63,
+      "end_sec": 19.31
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ずばり『デッドセルズ』。2018年に出て、もう何年も「今でも遊べる名作」の筆頭に挙げられ続けてる一本ね。",
+      "news_index": 1,
+      "start_sec": 19.46,
+      "end_sec": 27.11
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "デッドセルズ！名前だけは聞いたことあるのだ。なんか死にまくるゲームって噂じゃん。",
+      "news_index": 1,
+      "start_sec": 27.26,
+      "end_sec": 33.2
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そうそう、そこが核心。ジャンルはローグライトとメトロイドヴァニアの合体で、開発元はそれを「ローグヴァニア」って呼んでるのよ。",
+      "news_index": 1,
+      "start_sec": 33.35,
+      "end_sec": 41.13
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "ローグヴァニア……それって、ローグ・ワンみたいなスターウォーズの外伝なのだ？",
+      "news_index": 1,
+      "start_sec": 41.28,
+      "end_sec": 47.67
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "違う違う、映画じゃないわ。死んだら最初からやり直すローグライトに、探索して道が広がるメトロイドヴァニアを足した造語ってこと。",
+      "news_index": 1,
+      "start_sec": 47.82,
+      "end_sec": 55.99
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "なるほどなのだ。要するに、死んでも何度も潜って、ちょっとずつ先に進むゲームってことなのだね？",
+      "news_index": 1,
+      "start_sec": 56.14,
+      "end_sec": 62.45
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "今の一行が正解。城っていうか、無秩序にグニャグニャ変わる牢獄を、横スクロールのソウルライクな戦闘で駆け抜けていくの。",
+      "news_index": 1,
+      "start_sec": 62.6,
+      "end_sec": 70.85
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "横スクロールのソウルライク……手強そうなのだ。でもボク、難しいゲームすぐ投げちゃうタイプなのだ。",
+      "news_index": 1,
+      "start_sec": 71.0,
+      "end_sec": 77.29
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それがね、デッドセルズは死ぬのが前提の設計だから、テンポがめちゃくちゃ速いの。死んでもサクッと次に行けるのよ。",
+      "news_index": 1,
+      "start_sec": 77.44,
+      "end_sec": 84.35
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "公式の合言葉が「殺して、死んで、学ぶ」らしいのだ！ボク、最後の学ぶだけ毎回サボりそうなのだ。",
+      "news_index": 1,
+      "start_sec": 84.5,
+      "end_sec": 91.7
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこサボったら永遠に牢獄から出られないわよ。死ぬたびに敵の配置や攻撃を覚えて、プレイヤー自身が上手くなっていく作りなの。",
+      "news_index": 1,
+      "start_sec": 91.85,
+      "end_sec": 99.77
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ところで、これ作ったのはどこのスタジオなのだ？すごい大企業なのだ？",
+      "news_index": 1,
+      "start_sec": 99.92,
+      "end_sec": 104.64
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それがね、モーショントゥインっていうフランスのインディースタジオ。しかも普通の会社じゃなくて、協同組合なのよ。",
+      "news_index": 1,
+      "start_sec": 104.79,
+      "end_sec": 111.33
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "きょうどうくみあい……？ええっ、農協みたいなやつなのだ？ゲーム、野菜と一緒に売ってるのだ？",
+      "news_index": 1,
+      "start_sec": 111.48,
+      "end_sec": 119.86
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "野菜は売ってないわ。給料も意思決定の権利も、メンバー全員フラットっていう働き方の会社ってこと。",
+      "news_index": 1,
+      "start_sec": 120.01,
+      "end_sec": 126.38
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "全員おなじお給料なのだ？社長がボーナス独り占め、みたいなのが無いってことなのだね。",
+      "news_index": 1,
+      "start_sec": 126.53,
+      "end_sec": 132.45
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。みんな対等な小さなチームが、世界中で1000万本売れる怪物を生んだ、ってのがこのゲームの面白いとこなのよ。",
+      "news_index": 1,
+      "start_sec": 132.6,
+      "end_sec": 140.46
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "1000万本……ボク、その数字に弱いのだ。クラスメイト全員に配っても、まだ大量に余っちゃうのだ。",
+      "news_index": 1,
+      "start_sec": 140.61,
+      "end_sec": 148.13
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "学校に何人いる前提なのよ。とにかく、それくらい化け物級に売れた名作ってこと。",
+      "news_index": 1,
+      "start_sec": 148.28,
+      "end_sec": 153.67
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "hisohiso",
+      "text": "（ここだけの話、面白い裏側があってね……発売の翌年から、運営をまるごと別のチームに引き継いでるのよ）",
+      "news_index": 1,
+      "start_sec": 153.75,
+      "end_sec": 161.76
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "（え、作った人たちが手放しちゃったのだ？喧嘩でもしたのだ？）",
+      "news_index": 1,
+      "start_sec": 161.91,
+      "end_sec": 166.06
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "喧嘩じゃないわ。モーショントゥインは次回作に進みたかったから、イービルエンパイアっていう別チームに長期アップデートを任せたの。",
+      "news_index": 1,
+      "start_sec": 166.21,
+      "end_sec": 173.63
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "へえー。だから何年経っても、まだ新しい更新が来てるってことなのだね。買って放置されないの、安心なのだ。",
+      "news_index": 1,
+      "start_sec": 173.78,
+      "end_sec": 181.09
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そうなの。元はインディーの一発勝負だったのに、今やずっと面倒を見てもらえる超ロングセラーになったってわけ。",
+      "news_index": 1,
+      "start_sec": 181.24,
+      "end_sec": 187.88
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "それにしても、死んで覚える牢獄ゲーって、なんか雰囲気も暗そうなのだ。",
+      "news_index": 1,
+      "start_sec": 188.03,
+      "end_sec": 192.81
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "chuuni",
+      "text": "……牢獄とは、囚われた魂が己の死を幾度も噛みしめる煉獄。光なき回廊で、お前はまた覚醒するのよ……。",
+      "news_index": 1,
+      "start_sec": 192.96,
+      "end_sec": 200.26
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "うわー出た！急に厨二モード発病なのだ！？さっきまで普通に解説してたじゃん！",
+      "news_index": 1,
+      "start_sec": 200.41,
+      "end_sec": 205.96
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ふふ、ごめん。死と再生を繰り返すゲームの話してると、つい出ちゃうのよ。",
+      "news_index": 1,
+      "start_sec": 206.11,
+      "end_sec": 210.79
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "出ちゃうので済む話じゃないのだ……でも世界観、確かにダークでかっこいいってことなのだね。",
+      "news_index": 1,
+      "start_sec": 210.94,
+      "end_sec": 216.49
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "見た目はね、ドット絵なんだけど、ぬるぬる動くのが評価高いの。戦闘の手触りが気持ちいいって、みんな口を揃えて言うわ。",
+      "news_index": 1,
+      "start_sec": 216.64,
+      "end_sec": 224.29
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "手触りかー。ボク、アクション下手だけど、気持ちよさだけは分かるタイプなのだ。",
+      "news_index": 1,
+      "start_sec": 224.44,
+      "end_sec": 229.43
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "武器の種類もすごくて、出た時点で90種類くらいあったの。剣も弓も、変わり種の罠みたいな武器もあるのよ。",
+      "news_index": 1,
+      "start_sec": 229.58,
+      "end_sec": 236.4
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "90種類！？ボク、一個ずつ試してたら牢獄出る前におじいちゃんになっちゃうのだ。",
+      "news_index": 1,
+      "start_sec": 236.55,
+      "end_sec": 242.96
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それくらい遊びの幅が広いってこと。一周ごとに違う武器構成になるから、毎回ちょっと別のゲームを遊んでる感覚なの。",
+      "news_index": 1,
+      "start_sec": 243.11,
+      "end_sec": 250.55
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "毎回ちがう装備……ガチャみたいで楽しそうなのだ。当たり武器引いた時、テンション上がるやつなのだね。",
+      "news_index": 1,
+      "start_sec": 250.7,
+      "end_sec": 257.46
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そうそう、その瞬間が脳汁出るのよ。引き次第で、自分でも信じられないくらい強くなれる回があるの。",
+      "news_index": 1,
+      "start_sec": 257.61,
+      "end_sec": 264.64
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "リスナーのみんな、ここからが本題なのだ。なんと、あの有名シリーズとコラボしてるらしいのだ！",
+      "news_index": 1,
+      "start_sec": 264.79,
+      "end_sec": 270.77
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、悪魔城ドラキュラ……キャッスルヴァニアね。2023年に「リターン・トゥ・キャッスルヴァニア」っていう大型DLCが出たのよ。",
+      "news_index": 1,
+      "start_sec": 270.92,
+      "end_sec": 278.97
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "キャッスルヴァニア！ボクでも名前知ってるやつなのだ。ムチでビシバシするゲームじゃん！",
+      "news_index": 1,
+      "start_sec": 279.12,
+      "end_sec": 284.69
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そのムチの一族、リヒター・ベルモンドが参戦するの。しかも宿敵だったアルカードまで使えちゃうのよ。",
+      "news_index": 1,
+      "start_sec": 284.84,
+      "end_sec": 291.06
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ベルモンドにアルカード！ボク、そういう本家キャラが別ゲーに殴り込んでくるの大好きなのだー。",
+      "news_index": 1,
+      "start_sec": 291.21,
+      "end_sec": 297.75
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "面白いのが、このコラボがすごく評判良くて、コナミとの関係まで深まっていったって流れなの。",
+      "news_index": 1,
+      "start_sec": 297.9,
+      "end_sec": 303.52
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ふっふっふ……つまり、デッドセルズが頑張った結果、本家にまで認められたってことなのだね。出世魚みたいなのだ。",
+      "news_index": 1,
+      "start_sec": 303.67,
+      "end_sec": 311.93
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "出世魚は言い得て妙ね。小さなインディーが、レジェンド級の老舗とがっちり組むまでになった、ってこと。",
+      "news_index": 1,
+      "start_sec": 312.08,
+      "end_sec": 318.4
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "それにしてもめたん、こういう連携プレイ、ボクらの掛け合いみたいで素敵なのだ。ベルモンドがボクで、アルカードがめたんで——",
+      "news_index": 1,
+      "start_sec": 318.55,
+      "end_sec": 327.06
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "ずんだもん。",
+      "news_index": 1,
+      "start_sec": 327.21,
+      "end_sec": 328.02
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "……はい、なのだ？",
+      "news_index": 1,
+      "start_sec": 328.17,
+      "end_sec": 329.59
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "sexy",
+      "text": "私を闇の眷属あつかいしたら、本気で牢獄に放り込むわよ。",
+      "news_index": 1,
+      "start_sec": 329.74,
+      "end_sec": 334.84
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "ごめんなさいなのだ……ボク、調子に乗りましたのだ……",
+      "news_index": 1,
+      "start_sec": 334.99,
+      "end_sec": 339.45
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "コホン。話を戻すと、何年も更新され続けて、今が中身いちばん詰まってる状態なの。だから今から始めても全然遅くないのよ。",
+      "news_index": 1,
+      "start_sec": 339.6,
+      "end_sec": 348.25
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "発売から何年も経ってるのに、むしろ今が買い時ってことなのだね。古びてないのがすごいのだ。",
+      "news_index": 1,
+      "start_sec": 348.4,
+      "end_sec": 354.52
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "セールもちょくちょく来るから、値段的にも手を出しやすいわ。難しそうって人ほど、テンポの良さで化けると思う。",
+      "news_index": 1,
+      "start_sec": 354.67,
+      "end_sec": 361.17
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "アクション苦手なリスナーのみんな、これは「下手でも何度も挑める」タイプなのだ。ボクと一緒に死にまくろうなのだ！",
+      "news_index": 1,
+      "start_sec": 361.32,
+      "end_sec": 368.42
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "誘い方が物騒なのよ。でもまあ、死んで覚えるゲームだから、その心構えはむしろ正解ね。",
+      "news_index": 1,
+      "start_sec": 368.57,
+      "end_sec": 374.51
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "いやー、今回のデッドセルズ、ボクすっかり遊びたくなったのだ。ローグ・ワン……じゃなくて、ローグヴァニア、ちゃんと覚えたのだ。",
+      "news_index": 0,
+      "start_sec": 374.66,
+      "end_sec": 382.84
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "冒頭の勘違い、最後にちゃんと回収したわね。偉いじゃない。",
+      "news_index": 0,
+      "start_sec": 382.99,
+      "end_sec": 387.21
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "リスナーのみんな、気になったら牢獄で会おうなのだ！ボク、入り口で死んで待ってるのだ。",
+      "news_index": 0,
+      "start_sec": 387.36,
+      "end_sec": 392.82
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "入り口で待つな、先に進みなさい。それじゃ、また次の旅の道ラジオで。お相手はめたんと——",
+      "news_index": 0,
+      "start_sec": 392.97,
+      "end_sec": 399.13
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ずんだもんでしたのだー！またなのだー！",
+      "news_index": 0,
+      "start_sec": 399.28,
+      "end_sec": 401.71
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 402.41,
+      "end_sec": 410.12
+    }
+  ],
+  "wall_time_sec": 10.0,
+  "audio_url": "/audio/indie/20260711_050828.mp3?v=1783715252"
+}
