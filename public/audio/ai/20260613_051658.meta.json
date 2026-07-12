@@ -3,15 +3,15 @@
   "generated_at": "2026-06-13T05:16:58+09:00",
   "title": "AIが半導体を呑み込む朝 〜5倍のメモリ・自前のチップ・揺れる工場、テック4本立て〜",
   "audio_path": "ai_latest.wav",
-  "duration_sec": 434.42,
-  "script_hash": "sha256:d8bdf6ae721cdcada316ad38c4495c9095fa155c297f83f9e45d4629d8c24b21",
+  "duration_sec": 433.04,
+  "script_hash": "sha256:c5840f57b801d788a55bb4c1c97e408cdd6712bc11acbadda2c1b1966ffad59d",
   "segments": [
     {
       "index": -1,
       "type": "intro",
       "text": "🎵 ジングル + 旅の道ラジオ！",
       "start_sec": 0.0,
-      "end_sec": 4.64
+      "end_sec": 4.69
     },
     {
       "index": 0,
@@ -20,8 +20,8 @@
       "tone": "normal",
       "text": "おはようございます、旅の道ラジオ朝便。テックニュースの回、四国めたんよ。",
       "news_index": 0,
-      "start_sec": 4.64,
-      "end_sec": 9.85
+      "start_sec": 4.69,
+      "end_sec": 9.9
     },
     {
       "index": 1,
@@ -30,8 +30,8 @@
       "tone": "mic",
       "text": "ボク、ずんだもんなのだー! 今朝もテックの話題、軽くつまんでいくのだ!",
       "news_index": 0,
-      "start_sec": 10.0,
-      "end_sec": 14.72
+      "start_sec": 10.05,
+      "end_sec": 14.77
     },
     {
       "index": 2,
@@ -40,8 +40,8 @@
       "tone": "niyari",
       "text": "今日はね、ぜんぶ繋がってるテーマなの。ひとことで言うと『AIが半導体もサイフも呑み込んでる』って話。",
       "news_index": 0,
-      "start_sec": 14.87,
-      "end_sec": 21.57
+      "start_sec": 14.92,
+      "end_sec": 21.62
     },
     {
       "index": 3,
@@ -50,8 +50,8 @@
       "tone": "kangae",
       "text": "はんどうたい? 朝からむずかしい単語が出てきたのだ……。",
       "news_index": 0,
-      "start_sec": 21.72,
-      "end_sec": 25.32
+      "start_sec": 21.77,
+      "end_sec": 25.37
     },
     {
       "index": 4,
@@ -60,8 +60,8 @@
       "tone": "amaama",
       "text": "大丈夫、ちゃんと噛み砕くから。半導体っていうのは、パソコンやスマホの頭脳になる小さな部品ね。",
       "news_index": 0,
-      "start_sec": 25.47,
-      "end_sec": 32.0
+      "start_sec": 25.52,
+      "end_sec": 32.05
     },
     {
       "index": 5,
@@ -70,8 +70,8 @@
       "tone": "yubisashi",
       "text": "あ、あの小指の爪みたいなチップのことなのだ! それなら知ってるのだ!",
       "news_index": 0,
-      "start_sec": 32.15,
-      "end_sec": 36.74
+      "start_sec": 32.2,
+      "end_sec": 36.79
     },
     {
       "index": 6,
@@ -80,8 +80,8 @@
       "tone": "normal",
       "text": "そう、それ。今日はそのチップを巡る話を4本、サクッといくわよ。",
       "news_index": 0,
-      "start_sec": 36.89,
-      "end_sec": 41.43
+      "start_sec": 36.94,
+      "end_sec": 41.48
     },
     {
       "index": 7,
@@ -90,8 +90,8 @@
       "tone": "normal",
       "text": "じゃあ1本目。最近パソコンのメモリが、とんでもなく値上がりしてるのよ。",
       "news_index": 1,
-      "start_sec": 41.51,
-      "end_sec": 45.89
+      "start_sec": 41.56,
+      "end_sec": 45.95
     },
     {
       "index": 8,
@@ -100,8 +100,8 @@
       "tone": "normal",
       "text": "メモリって、パソコンが一度にいろいろ覚えておく作業机みたいなやつだっけ?",
       "news_index": 1,
-      "start_sec": 46.04,
-      "end_sec": 51.14
+      "start_sec": 46.1,
+      "end_sec": 51.2
     },
     {
       "index": 9,
@@ -110,8 +110,8 @@
       "tone": "niyari",
       "text": "お、いい例えね。その作業机がね、半年ちょっとで5倍くらいの値段になったの。",
       "news_index": 1,
-      "start_sec": 51.29,
-      "end_sec": 56.57
+      "start_sec": 51.35,
+      "end_sec": 56.63
     },
     {
       "index": 10,
@@ -120,8 +120,8 @@
       "tone": "shock",
       "text": "5倍!? ボクのお小遣いが急に5分の1の価値になるくらいヤバいやつじゃん!",
       "news_index": 1,
-      "start_sec": 56.72,
-      "end_sec": 61.74
+      "start_sec": 56.78,
+      "end_sec": 61.8
     },
     {
       "index": 11,
@@ -130,8 +130,8 @@
       "tone": "normal",
       "text": "具体的には、32GB、つまり16GB×2のDDR5キットは米国小売で約360ドル前後が下限になっていて、一部の転売・異常出品では1000ドル超も出ているのよ。",
       "news_index": 1,
-      "start_sec": 61.89,
-      "end_sec": 74.78
+      "start_sec": 61.95,
+      "end_sec": 74.84
     },
     {
       "index": 12,
@@ -140,8 +140,8 @@
       "tone": "shock",
       "text": "11万円!? メモリだけで!? 中古のスクーター買えちゃうのだ!",
       "news_index": 1,
-      "start_sec": 74.93,
-      "end_sec": 79.57
+      "start_sec": 74.99,
+      "end_sec": 79.63
     },
     {
       "index": 13,
@@ -150,8 +150,8 @@
       "tone": "tsuntsun",
       "text": "スクーターは言いすぎだけど、パソコン本体も1割から2割は値上がりしてるわ。",
       "news_index": 1,
-      "start_sec": 79.72,
-      "end_sec": 84.5
+      "start_sec": 79.78,
+      "end_sec": 84.56
     },
     {
       "index": 14,
@@ -160,8 +160,8 @@
       "tone": "kangae",
       "text": "なんでそんなに上がってるのだ? メモリ工場が火事にでもなったのだ?",
       "news_index": 1,
-      "start_sec": 84.65,
-      "end_sec": 89.14
+      "start_sec": 84.71,
+      "end_sec": 89.2
     },
     {
       "index": 15,
@@ -170,8 +170,8 @@
       "tone": "normal",
       "text": "犯人はね、AIなの。AIを動かす巨大なサーバーが、特別な高速メモリを大量に欲しがってて。",
       "news_index": 1,
-      "start_sec": 89.29,
-      "end_sec": 96.11
+      "start_sec": 89.35,
+      "end_sec": 96.17
     },
     {
       "index": 16,
@@ -180,8 +180,8 @@
       "tone": "normal",
       "text": "特別な高速メモリ? ボクのパソコンのとは違うやつなのだ?",
       "news_index": 1,
-      "start_sec": 96.26,
-      "end_sec": 100.51
+      "start_sec": 96.32,
+      "end_sec": 100.58
     },
     {
       "index": 17,
@@ -190,8 +190,8 @@
       "tone": "amaama",
       "text": "そう、エイチビーエムっていう、AIチップの隣に積む超高速メモリね。工場がそっち優先に切り替えたの。",
       "news_index": 1,
-      "start_sec": 100.66,
-      "end_sec": 107.93
+      "start_sec": 100.73,
+      "end_sec": 107.99
     },
     {
       "index": 18,
@@ -200,8 +200,8 @@
       "tone": "yubisashi",
       "text": "あ! だから普通のメモリを作る分が減って、取り合いで値上がりってことなのだ!",
       "news_index": 1,
-      "start_sec": 108.08,
-      "end_sec": 113.19
+      "start_sec": 108.14,
+      "end_sec": 113.25
     },
     {
       "index": 19,
@@ -210,8 +210,8 @@
       "tone": "niyari",
       "text": "ご名答。要するに『AIがメモリを横取りして、自作パソコン勢が割を食ってる』って話。",
       "news_index": 1,
-      "start_sec": 113.34,
-      "end_sec": 119.29
+      "start_sec": 113.4,
+      "end_sec": 119.35
     },
     {
       "index": 20,
@@ -220,8 +220,8 @@
       "tone": "namidame",
       "text": "ボクの新しいパソコンの夢が、AIに食べられちゃったのだ……。",
       "news_index": 1,
-      "start_sec": 119.44,
-      "end_sec": 124.61
+      "start_sec": 119.5,
+      "end_sec": 124.67
     },
     {
       "index": 21,
@@ -230,8 +230,8 @@
       "tone": "normal",
       "text": "落ち着くとしても早くて2028年ごろ、長引けばさらに先という見方もある。今すぐパソコン買うなら、値段に覚悟しときなさい。",
       "news_index": 1,
-      "start_sec": 124.76,
-      "end_sec": 132.82
+      "start_sec": 124.82,
+      "end_sec": 132.88
     },
     {
       "index": 22,
@@ -240,8 +240,8 @@
       "tone": "normal",
       "text": "2本目。そのチップを巡って、AIの会社たちが面白い動きをしてるのよ。",
       "news_index": 2,
-      "start_sec": 132.9,
-      "end_sec": 137.85
+      "start_sec": 132.96,
+      "end_sec": 137.91
     },
     {
       "index": 23,
@@ -250,8 +250,8 @@
       "tone": "kangae",
       "text": "AIの会社? チャットのAI作ってるとこが、チップに何の用があるのだ?",
       "news_index": 2,
-      "start_sec": 138.0,
-      "end_sec": 143.35
+      "start_sec": 138.06,
+      "end_sec": 143.4
     },
     {
       "index": 24,
@@ -260,8 +260,8 @@
       "tone": "normal",
       "text": "今までAI各社は、エヌビディアっていう会社からチップを買ってたの。AIの計算を爆速でやる専用チップね。",
       "news_index": 2,
-      "start_sec": 143.5,
-      "end_sec": 150.6
+      "start_sec": 143.55,
+      "end_sec": 150.65
     },
     {
       "index": 25,
@@ -270,8 +270,8 @@
       "tone": "yubisashi",
       "text": "あー、ジーピーユーってやつなのだ! みんなそれを取り合ってるって前に聞いたのだ!",
       "news_index": 2,
-      "start_sec": 150.75,
-      "end_sec": 155.64
+      "start_sec": 150.8,
+      "end_sec": 155.69
     },
     {
       "index": 26,
@@ -280,8 +280,8 @@
       "tone": "niyari",
       "text": "そう。でもね、買うばっかりじゃ高いし、足りない。だから『自分で設計しちゃおう』って流れなの。",
       "news_index": 2,
-      "start_sec": 155.79,
-      "end_sec": 161.7
+      "start_sec": 155.84,
+      "end_sec": 161.75
     },
     {
       "index": 27,
@@ -290,8 +290,8 @@
       "tone": "shock",
       "text": "自分で作る!? チップって、そんな気軽に手作りできるものなのだ?",
       "news_index": 2,
-      "start_sec": 161.85,
-      "end_sec": 166.6
+      "start_sec": 161.9,
+      "end_sec": 166.65
     },
     {
       "index": 28,
@@ -300,8 +300,8 @@
       "tone": "tsuntsun",
       "text": "気軽じゃないわよ。アンソロピック、クロードを作ってる会社が、自社チップの検討を始めたんだけどね。",
       "news_index": 2,
-      "start_sec": 166.75,
-      "end_sec": 172.86
+      "start_sec": 166.8,
+      "end_sec": 172.91
     },
     {
       "index": 29,
@@ -310,8 +310,8 @@
       "tone": "normal",
       "text": "検討を始めて、どうなったのだ?",
       "news_index": 2,
-      "start_sec": 173.01,
-      "end_sec": 175.46
+      "start_sec": 173.06,
+      "end_sec": 175.51
     },
     {
       "index": 30,
@@ -320,8 +320,8 @@
       "tone": "normal",
       "text": "設計するだけで、ざっと5億ドル、700億円以上かかる見込みなの。まだチームも仕様も決まってないのによ。",
       "news_index": 2,
-      "start_sec": 175.61,
-      "end_sec": 182.53
+      "start_sec": 175.66,
+      "end_sec": 182.58
     },
     {
       "index": 31,
@@ -330,8 +330,8 @@
       "tone": "shock",
       "text": "700億円!? 設計図を描くだけで!? 完成までいくら飛ぶのだ……。",
       "news_index": 2,
-      "start_sec": 182.68,
-      "end_sec": 187.77
+      "start_sec": 182.73,
+      "end_sec": 187.82
     },
     {
       "index": 32,
@@ -340,8 +340,8 @@
       "tone": "normal",
       "text": "しかもグーグル、メタ、オープンエーアイ、アマゾンは、もう先に自社チップを進めてるの。",
       "news_index": 2,
-      "start_sec": 187.92,
-      "end_sec": 193.24
+      "start_sec": 187.97,
+      "end_sec": 193.29
     },
     {
       "index": 33,
@@ -350,8 +350,8 @@
       "tone": "kangae",
       "text": "横文字の巨人たちが、みんな自前チップ……なんでそこまでするのだ?",
       "news_index": 2,
-      "start_sec": 193.39,
-      "end_sec": 198.04
+      "start_sec": 193.44,
+      "end_sec": 198.1
     },
     {
       "index": 34,
@@ -360,8 +360,8 @@
       "tone": "niyari",
       "text": "他社のチップ頼みだと、供給も値段も握られるでしょ。要は『自分の頭脳は自分で作る』っていう独立宣言ね。",
       "news_index": 2,
-      "start_sec": 198.19,
-      "end_sec": 205.25
+      "start_sec": 198.25,
+      "end_sec": 205.3
     },
     {
       "index": 35,
@@ -370,8 +370,8 @@
       "tone": "heart",
       "text": "なるほど、お弁当を買うのやめて自炊を始めた感じなのだ。えらいのだ。",
       "news_index": 2,
-      "start_sec": 205.4,
-      "end_sec": 210.68
+      "start_sec": 205.45,
+      "end_sec": 210.73
     },
     {
       "index": 36,
@@ -380,8 +380,8 @@
       "tone": "amaama",
       "text": "近いわ。で、これが効くのは数年先。うまくいけば、AIを使う値段が将来ちょっと下がるかも、って話。",
       "news_index": 2,
-      "start_sec": 210.83,
-      "end_sec": 218.44
+      "start_sec": 210.88,
+      "end_sec": 218.49
     },
     {
       "index": 37,
@@ -390,8 +390,8 @@
       "tone": "normal",
       "text": "3本目。じゃあそのチップ、どこの工場で作るのか、って話なんだけど。",
       "news_index": 3,
-      "start_sec": 218.52,
-      "end_sec": 223.2
+      "start_sec": 218.57,
+      "end_sec": 223.25
     },
     {
       "index": 38,
@@ -400,8 +400,8 @@
       "tone": "kangae",
       "text": "工場? 設計と、作るのは別なのだ?",
       "news_index": 3,
-      "start_sec": 223.35,
-      "end_sec": 226.63
+      "start_sec": 223.4,
+      "end_sec": 226.68
     },
     {
       "index": 39,
@@ -410,8 +410,8 @@
       "tone": "normal",
       "text": "設計と製造は別。実際に作る工場を『ファウンドリ』、半導体専門の工場って言うのよ。",
       "news_index": 3,
-      "start_sec": 226.78,
-      "end_sec": 233.02
+      "start_sec": 226.83,
+      "end_sec": 233.07
     },
     {
       "index": 40,
@@ -420,8 +420,8 @@
       "tone": "normal",
       "text": "ふぁうんどり……で、その工場ってどこにあるのだ?",
       "news_index": 3,
-      "start_sec": 233.17,
-      "end_sec": 236.56
+      "start_sec": 233.22,
+      "end_sec": 236.61
     },
     {
       "index": 41,
@@ -430,8 +430,8 @@
       "tone": "kangae",
       "text": "今はほぼ台湾のティーエスエムシーっていう1社に集中してて。でも、そこがもう手一杯なの。",
       "news_index": 3,
-      "start_sec": 236.71,
-      "end_sec": 242.58
+      "start_sec": 236.76,
+      "end_sec": 242.63
     },
     {
       "index": 42,
@@ -440,8 +440,8 @@
       "tone": "shock",
       "text": "1社に全部!? その工場が忙しすぎたら、世界中が順番待ちじゃん!",
       "news_index": 3,
-      "start_sec": 242.73,
-      "end_sec": 247.94
+      "start_sec": 242.78,
+      "end_sec": 247.99
     },
     {
       "index": 43,
@@ -450,8 +450,8 @@
       "tone": "tsuntsun",
       "text": "まさにそれが起きてる。ティーエスエムシーのトップ自身が『数年は供給が追いつかない』って認めてるくらい。",
       "news_index": 3,
-      "start_sec": 248.09,
-      "end_sec": 254.67
+      "start_sec": 248.14,
+      "end_sec": 254.73
     },
     {
       "index": 44,
@@ -460,8 +460,8 @@
       "tone": "normal",
       "text": "それは困るのだ……他に作れる工場はないのだ?",
       "news_index": 3,
-      "start_sec": 254.82,
-      "end_sec": 258.11
+      "start_sec": 254.88,
+      "end_sec": 258.16
     },
     {
       "index": 45,
@@ -470,8 +470,8 @@
       "tone": "niyari",
       "text": "そこで急に注目されてるのが、インテル。ちょっと元気がなかった老舗のチップ会社ね。",
       "news_index": 3,
-      "start_sec": 258.26,
-      "end_sec": 263.17
+      "start_sec": 258.31,
+      "end_sec": 263.22
     },
     {
       "index": 46,
@@ -480,8 +480,8 @@
       "tone": "yubisashi",
       "text": "インテル! パソコンに『インテル入ってる』ってシール貼ってある、あの会社なのだ!",
       "news_index": 3,
-      "start_sec": 263.32,
-      "end_sec": 268.6
+      "start_sec": 263.37,
+      "end_sec": 268.65
     },
     {
       "index": 47,
@@ -490,8 +490,8 @@
       "tone": "normal",
       "text": "そう、その会社。グーグルがそのインテルに、ティーピーユーっていうAI用チップを300万個以上、発注したって報じられてるの。",
       "news_index": 3,
-      "start_sec": 268.75,
-      "end_sec": 276.77
+      "start_sec": 268.8,
+      "end_sec": 276.82
     },
     {
       "index": 48,
@@ -500,8 +500,8 @@
       "tone": "shock",
       "text": "300万個!? それ、ぜんぶ作れたらインテル大復活じゃん!",
       "news_index": 3,
-      "start_sec": 276.92,
-      "end_sec": 281.36
+      "start_sec": 276.97,
+      "end_sec": 281.41
     },
     {
       "index": 49,
@@ -510,8 +510,8 @@
       "tone": "normal",
       "text": "エヌビディアも、次世代チップでインテルの工場を試し始めてる。まだ正式発注じゃないけどね。",
       "news_index": 3,
-      "start_sec": 281.51,
-      "end_sec": 287.21
+      "start_sec": 281.56,
+      "end_sec": 287.26
     },
     {
       "index": 50,
@@ -520,18 +520,18 @@
       "tone": "normal",
       "text": "台湾の1社頼みから、作る場所が散らばっていくってことなのだ?",
       "news_index": 3,
-      "start_sec": 287.36,
-      "end_sec": 291.62
+      "start_sec": 287.41,
+      "end_sec": 291.67
     },
     {
       "index": 51,
       "type": "speech",
       "speaker": "metan",
       "tone": "niyari",
-      "text": "要するに『台湾TSMC一極集中を少しでも和らげる動きが出てきた、くらいに言うのが正確。』って話。インテルの株もこれで跳ねたわ。",
+      "text": "要するに、台湾TSMC一極集中を少しでも和らげる動きが出てきた、って話。インテルの株もこれで跳ねたわ。",
       "news_index": 3,
-      "start_sec": 291.77,
-      "end_sec": 300.69
+      "start_sec": 291.82,
+      "end_sec": 299.31
     },
     {
       "index": 52,
@@ -540,8 +540,8 @@
       "tone": "heart",
       "text": "作る場所が増えれば、いつか順番待ちも減って、ボクのパソコンも安くなるかもなのだ?",
       "news_index": 3,
-      "start_sec": 300.84,
-      "end_sec": 307.2
+      "start_sec": 299.46,
+      "end_sec": 305.82
     },
     {
       "index": 53,
@@ -550,8 +550,8 @@
       "tone": "amaama",
       "text": "気の長い話だけどね。でも供給が安定すれば、巡り巡って値段に効いてくる。そこは期待していいわ。",
       "news_index": 3,
-      "start_sec": 307.35,
-      "end_sec": 314.3
+      "start_sec": 305.97,
+      "end_sec": 312.92
     },
     {
       "index": 54,
@@ -560,8 +560,8 @@
       "tone": "normal",
       "text": "じゃあラスト4本目。ちょっと毛色を変えて、AIのお値段の話。",
       "news_index": 4,
-      "start_sec": 314.38,
-      "end_sec": 318.58
+      "start_sec": 313.0,
+      "end_sec": 317.2
     },
     {
       "index": 55,
@@ -570,8 +570,8 @@
       "tone": "yubisashi",
       "text": "お金の話、好きなのだ! AIって無料のもあるけど、何の値段なのだ?",
       "news_index": 4,
-      "start_sec": 318.73,
-      "end_sec": 323.9
+      "start_sec": 317.35,
+      "end_sec": 322.52
     },
     {
       "index": 56,
@@ -580,8 +580,8 @@
       "tone": "normal",
       "text": "プログラムを書くのを手伝うAIで、コーデックスっていうのがあるの。これ、使える量に上限があってね。",
       "news_index": 4,
-      "start_sec": 324.05,
-      "end_sec": 330.26
+      "start_sec": 322.67,
+      "end_sec": 328.88
     },
     {
       "index": 57,
@@ -590,8 +590,8 @@
       "tone": "kangae",
       "text": "上限? たくさん使うと、今日はもう終わり、って止められるやつなのだ?",
       "news_index": 4,
-      "start_sec": 330.41,
-      "end_sec": 335.4
+      "start_sec": 329.03,
+      "end_sec": 334.02
     },
     {
       "index": 58,
@@ -600,8 +600,8 @@
       "tone": "niyari",
       "text": "そう。その上限が回復するのを待つ仕組みだったんだけど、今回『回復ぶんを貯金できる』ようにしたの。",
       "news_index": 4,
-      "start_sec": 335.55,
-      "end_sec": 341.91
+      "start_sec": 334.17,
+      "end_sec": 340.53
     },
     {
       "index": 59,
@@ -610,8 +610,8 @@
       "tone": "shock",
       "text": "貯金!? 使わなかった分を、翌週に持ち越せるってことなのだ?",
       "news_index": 4,
-      "start_sec": 342.06,
-      "end_sec": 346.72
+      "start_sec": 340.68,
+      "end_sec": 345.34
     },
     {
       "index": 60,
@@ -620,8 +620,8 @@
       "tone": "amaama",
       "text": "その通り。しかも友達を3人まで招待すると、自分にも相手にもボーナスがつくの。",
       "news_index": 4,
-      "start_sec": 346.87,
-      "end_sec": 352.65
+      "start_sec": 345.49,
+      "end_sec": 351.27
     },
     {
       "index": 61,
@@ -630,8 +630,8 @@
       "tone": "niyari",
       "text": "なんか、携帯の『家族紹介キャンペーン』みたいになってきたのだ。",
       "news_index": 4,
-      "start_sec": 352.8,
-      "end_sec": 357.84
+      "start_sec": 351.42,
+      "end_sec": 356.46
     },
     {
       "index": 62,
@@ -640,8 +640,8 @@
       "tone": "niyari",
       "text": "鋭いわね。まさにそれ。あるメディアは『AIの値下げ合戦の号砲』って書いてたわ。",
       "news_index": 4,
-      "start_sec": 357.99,
-      "end_sec": 363.3
+      "start_sec": 356.61,
+      "end_sec": 361.92
     },
     {
       "index": 63,
@@ -650,8 +650,8 @@
       "tone": "kangae",
       "text": "ねだんの戦争? AI同士で安売りバトルが始まるってことなのだ?",
       "news_index": 4,
-      "start_sec": 363.45,
-      "end_sec": 368.29
+      "start_sec": 362.07,
+      "end_sec": 366.91
     },
     {
       "index": 64,
@@ -660,8 +660,8 @@
       "tone": "normal",
       "text": "そういうこと。オープンエーアイは、ライバルのお客を取り込もうと、料金の引き下げも検討中って報じられてるの。",
       "news_index": 4,
-      "start_sec": 368.44,
-      "end_sec": 375.13
+      "start_sec": 367.06,
+      "end_sec": 373.75
     },
     {
       "index": 65,
@@ -670,8 +670,8 @@
       "tone": "heart",
       "text": "会社同士が値下げで殴り合うと、使うボクらは得しちゃうやつなのだ!",
       "news_index": 4,
-      "start_sec": 375.28,
-      "end_sec": 380.24
+      "start_sec": 373.9,
+      "end_sec": 378.86
     },
     {
       "index": 66,
@@ -680,8 +680,8 @@
       "tone": "niyari",
       "text": "そう、要するに『AIの定期券が、だんだんお得競争に入った』って話。消費者には嬉しい流れね。",
       "news_index": 4,
-      "start_sec": 380.39,
-      "end_sec": 387.27
+      "start_sec": 379.01,
+      "end_sec": 385.89
     },
     {
       "index": 67,
@@ -690,8 +690,8 @@
       "tone": "normal",
       "text": "というわけで今朝は、AIが半導体を呑み込む話を4本、お届けしたわ。",
       "news_index": 0,
-      "start_sec": 387.35,
-      "end_sec": 392.33
+      "start_sec": 385.97,
+      "end_sec": 390.95
     },
     {
       "index": 68,
@@ -700,8 +700,8 @@
       "tone": "yubisashi",
       "text": "メモリ高騰、自社チップ、インテル復活、そしてAIの値下げ合戦、なのだ!",
       "news_index": 0,
-      "start_sec": 392.48,
-      "end_sec": 397.95
+      "start_sec": 391.1,
+      "end_sec": 396.58
     },
     {
       "index": 69,
@@ -710,8 +710,8 @@
       "tone": "niyari",
       "text": "前半3本は『AIがチップを食い尽くす』話、最後の1本は『その分ソフトは安くなりそう』って対比ね。",
       "news_index": 0,
-      "start_sec": 398.1,
-      "end_sec": 405.21
+      "start_sec": 396.73,
+      "end_sec": 403.83
     },
     {
       "index": 70,
@@ -720,8 +720,8 @@
       "tone": "normal",
       "text": "ボクらの財布は、ハードで損してソフトで得する、みたいな感じなのだ?",
       "news_index": 0,
-      "start_sec": 405.36,
-      "end_sec": 410.12
+      "start_sec": 403.98,
+      "end_sec": 408.74
     },
     {
       "index": 71,
@@ -730,8 +730,8 @@
       "tone": "amaama",
       "text": "うまくまとめたわね。今すぐパソコンを買うなら、メモリの値段だけは覚悟しておいて。",
       "news_index": 0,
-      "start_sec": 410.27,
-      "end_sec": 415.48
+      "start_sec": 408.89,
+      "end_sec": 414.1
     },
     {
       "index": 72,
@@ -740,8 +740,8 @@
       "tone": "heart",
       "text": "気になったやつがあったら、ぜひ調べてみてほしいのだ!",
       "news_index": 0,
-      "start_sec": 415.63,
-      "end_sec": 419.44
+      "start_sec": 414.25,
+      "end_sec": 418.06
     },
     {
       "index": 73,
@@ -750,8 +750,8 @@
       "tone": "kamera",
       "text": "それじゃ、また明日のテック朝便で。四国めたんでした。",
       "news_index": 0,
-      "start_sec": 419.59,
-      "end_sec": 423.13
+      "start_sec": 418.21,
+      "end_sec": 421.75
     },
     {
       "index": 74,
@@ -760,17 +760,17 @@
       "tone": "mic",
       "text": "ずんだもんでしたー! いってらっしゃいなのだー!",
       "news_index": 0,
-      "start_sec": 423.28,
-      "end_sec": 426.02
+      "start_sec": 421.9,
+      "end_sec": 424.64
     },
     {
       "index": 9999,
       "type": "outro",
       "text": "🎵 ジングル + またね！",
-      "start_sec": 426.72,
-      "end_sec": 434.42
+      "start_sec": 425.34,
+      "end_sec": 433.04
     }
   ],
-  "wall_time_sec": 7.73,
-  "audio_url": "/audio/ai/20260613_051658.mp3?v=1781296287"
+  "wall_time_sec": 10.99,
+  "audio_url": "/audio/ai/20260613_051658.mp3?v=1783840074"
 }

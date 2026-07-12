@@ -3,15 +3,15 @@
   "generated_at": "2026-07-09T05:12:36+09:00",
   "title": "賢さ横並び、値段で殴る朝 〜安いAI・他人が写る絵・こっそりコード、今朝のテック五本〜",
   "audio_path": "ai_latest.wav",
-  "duration_sec": 422.05,
-  "script_hash": "sha256:535cf3c672be0997ea628bdd6f64863522fa49b105fe17025a86b460ac6345bf",
+  "duration_sec": 420.04,
+  "script_hash": "sha256:9915a071d6fdb146863ea8cfb791e1c55da441473301d9503883977939e15e2e",
   "segments": [
     {
       "index": -1,
       "type": "intro",
       "text": "🎵 ジングル + 旅の道ラジオ！",
       "start_sec": 0.0,
-      "end_sec": 6.34
+      "end_sec": 4.69
     },
     {
       "index": 0,
@@ -20,8 +20,8 @@
       "tone": "normal",
       "text": "おはようございます、旅の道ラジオ朝便、テックニュースの回。四国めたんよ。",
       "news_index": 0,
-      "start_sec": 6.34,
-      "end_sec": 11.56
+      "start_sec": 4.69,
+      "end_sec": 9.9
     },
     {
       "index": 1,
@@ -30,8 +30,8 @@
       "tone": "mic",
       "text": "ボク、ずんだもんなのだー! 今日も朝から、テックの話題をサクッといくのだー!",
       "news_index": 0,
-      "start_sec": 11.71,
-      "end_sec": 16.6
+      "start_sec": 10.05,
+      "end_sec": 14.95
     },
     {
       "index": 2,
@@ -40,8 +40,8 @@
       "tone": "niyari",
       "text": "今日はね、AI周りを中心に、軽めのやつを五本流していくわ。",
       "news_index": 0,
-      "start_sec": 16.75,
-      "end_sec": 21.07
+      "start_sec": 15.1,
+      "end_sec": 19.42
     },
     {
       "index": 3,
@@ -50,8 +50,8 @@
       "tone": "kangae",
       "text": "五本! 朝ごはん食べてるうちに、ちょうど聴き終わるくらいなのだ?",
       "news_index": 0,
-      "start_sec": 21.22,
-      "end_sec": 25.47
+      "start_sec": 19.57,
+      "end_sec": 23.82
     },
     {
       "index": 4,
@@ -60,8 +60,8 @@
       "tone": "amaama",
       "text": "そうそう、そのくらいの軽さでいくつもり。通勤の友にどうぞ。",
       "news_index": 0,
-      "start_sec": 25.62,
-      "end_sec": 29.75
+      "start_sec": 23.97,
+      "end_sec": 28.09
     },
     {
       "index": 5,
@@ -70,8 +70,8 @@
       "tone": "yubisashi",
       "text": "よーし、一本目、いってみようなのだ!",
       "news_index": 0,
-      "start_sec": 29.9,
-      "end_sec": 32.67
+      "start_sec": 28.24,
+      "end_sec": 31.02
     },
     {
       "index": 6,
@@ -80,8 +80,8 @@
       "tone": "normal",
       "text": "じゃあ一本目。イーロン・マスクのところが、新しいAI『Grok 4.5』を、Grok Build、Cursor、SpaceXAIのコンソール向けに提供開始したのよ。",
       "news_index": 1,
-      "start_sec": 32.82,
-      "end_sec": 43.47
+      "start_sec": 31.17,
+      "end_sec": 41.81
     },
     {
       "index": 7,
@@ -90,8 +90,8 @@
       "tone": "kangae",
       "text": "ぐろっく? それ、どこの会社のAIなのだ?",
       "news_index": 1,
-      "start_sec": 43.62,
-      "end_sec": 47.0
+      "start_sec": 41.96,
+      "end_sec": 45.34
     },
     {
       "index": 8,
@@ -100,8 +100,8 @@
       "tone": "normal",
       "text": "SpaceXAI（スペースエックスエーアイ）っていう、マスクさんのAI会社ね。で、本人いわく『オーパス級の賢さなのに、速くて安い』んだって。",
       "news_index": 1,
-      "start_sec": 47.15,
-      "end_sec": 57.57
+      "start_sec": 45.49,
+      "end_sec": 55.91
     },
     {
       "index": 9,
@@ -110,8 +110,8 @@
       "tone": "kangae",
       "text": "オーパスって、クロードの一番上等なやつだっけ? それと同じくらい賢いってこと?",
       "news_index": 1,
-      "start_sec": 57.72,
-      "end_sec": 63.51
+      "start_sec": 56.06,
+      "end_sec": 61.87
     },
     {
       "index": 10,
@@ -120,8 +120,8 @@
       "tone": "niyari",
       "text": "同クラスの一部モデルにはベンチマークで強いけど、最新の最上位モデル全体に並んだ、とはまだ言い切れないわね。でも、ここのミソは値段のほう。同じ仕事をやらせても、利用料が数分の一で済むケースがあるの。",
       "news_index": 1,
-      "start_sec": 63.66,
-      "end_sec": 76.36
+      "start_sec": 62.02,
+      "end_sec": 74.72
     },
     {
       "index": 11,
@@ -130,8 +130,8 @@
       "tone": "shock",
       "text": "数分の一!? 同じ系統の仕事で比べると、かなり安く使えるケースがあるのだ!?",
       "news_index": 1,
-      "start_sec": 76.51,
-      "end_sec": 82.65
+      "start_sec": 74.87,
+      "end_sec": 81.0
     },
     {
       "index": 12,
@@ -140,8 +140,8 @@
       "tone": "normal",
       "text": "そうなの。しかも最近は、テストのスコア差なんて、せいぜい数パーセント。",
       "news_index": 1,
-      "start_sec": 82.8,
-      "end_sec": 87.57
+      "start_sec": 81.15,
+      "end_sec": 85.92
     },
     {
       "index": 13,
@@ -150,8 +150,8 @@
       "tone": "niyari",
       "text": "えっ、じゃあもう『一番賢いの選ぶ』より『一番安いの選ぶ』でよくない?",
       "news_index": 1,
-      "start_sec": 87.72,
-      "end_sec": 93.97
+      "start_sec": 86.07,
+      "end_sec": 92.32
     },
     {
       "index": 14,
@@ -160,8 +160,8 @@
       "tone": "niyari",
       "text": "まさにそれ。企業の選ぶ基準が、賢さから『同じ仕事をどれだけ安くこなすか』に移ってきてるのよ。",
       "news_index": 1,
-      "start_sec": 94.12,
-      "end_sec": 100.2
+      "start_sec": 92.47,
+      "end_sec": 98.55
     },
     {
       "index": 15,
@@ -170,8 +170,8 @@
       "tone": "normal",
       "text": "なんか、スペック競争が値段競争に変わってきた感じなのだね。",
       "news_index": 1,
-      "start_sec": 100.35,
-      "end_sec": 104.64
+      "start_sec": 98.7,
+      "end_sec": 103.0
     },
     {
       "index": 16,
@@ -180,8 +180,8 @@
       "tone": "normal",
       "text": "で、これがボクたちにどう効くかっていうと、AIサービスの月額が、これからじわじわ下がる方向に働くってこと。",
       "news_index": 1,
-      "start_sec": 104.79,
-      "end_sec": 111.9
+      "start_sec": 103.15,
+      "end_sec": 110.26
     },
     {
       "index": 17,
@@ -190,8 +190,8 @@
       "tone": "amaama",
       "text": "安くなるのは大歓迎なのだ! 次いこ、次!",
       "news_index": 1,
-      "start_sec": 112.05,
-      "end_sec": 115.79
+      "start_sec": 110.41,
+      "end_sec": 114.15
     },
     {
       "index": 18,
@@ -200,8 +200,8 @@
       "tone": "normal",
       "text": "二本目。メタが、絵を作る新しいAI『ミューズ』を出したの。これがちょっと際どくてね。",
       "news_index": 2,
-      "start_sec": 115.94,
-      "end_sec": 121.81
+      "start_sec": 114.3,
+      "end_sec": 120.17
     },
     {
       "index": 19,
@@ -210,8 +210,8 @@
       "tone": "kangae",
       "text": "際どい? 絵を作るだけなら、よくあるやつじゃないのだ?",
       "news_index": 2,
-      "start_sec": 121.96,
-      "end_sec": 125.82
+      "start_sec": 120.32,
+      "end_sec": 124.18
     },
     {
       "index": 20,
@@ -220,8 +220,8 @@
       "tone": "kangae",
       "text": "普通のは、自分の写真を加工するでしょ。ミューズはね、Instagramアカウントを@メンションすると、公開写真をもとにその人の見た目をAI画像に取り込める機能があるのよ。",
       "news_index": 2,
-      "start_sec": 125.97,
-      "end_sec": 137.13
+      "start_sec": 124.33,
+      "end_sec": 135.49
     },
     {
       "index": 21,
@@ -230,18 +230,18 @@
       "tone": "shock",
       "text": "他人を!? 知らない人の顔を、勝手に絵に混ぜられるってことなのだ!?",
       "news_index": 2,
-      "start_sec": 137.28,
-      "end_sec": 142.11
+      "start_sec": 135.64,
+      "end_sec": 140.47
     },
     {
       "index": 22,
       "type": "speech",
       "speaker": "metan",
       "tone": "normal",
-      "text": "理屈のうえでは、公開写真が使われうるので、同意や再利用設定の扱いが問題になりそう、くらいに留めるのが安全ね。ってこと。",
+      "text": "理屈のうえでは、公開されてる写真が使われうるってこと。メタ側も再利用を管理する設定は用意してるけど、同意の扱いが問題になりそうなのよ。",
       "news_index": 2,
-      "start_sec": 142.26,
-      "end_sec": 150.84
+      "start_sec": 140.62,
+      "end_sec": 149.85
     },
     {
       "index": 23,
@@ -250,8 +250,8 @@
       "tone": "tsuntsun",
       "text": "それ、使われた側はめちゃくちゃ嫌なやつじゃん……。",
       "news_index": 2,
-      "start_sec": 150.99,
-      "end_sec": 153.87
+      "start_sec": 150.0,
+      "end_sec": 152.88
     },
     {
       "index": 24,
@@ -260,8 +260,8 @@
       "tone": "tsuntsun",
       "text": "そう、まさにそこ。肖像権とかプライバシーの心配は、避けて通れないわね。",
       "news_index": 2,
-      "start_sec": 154.02,
-      "end_sec": 159.03
+      "start_sec": 153.03,
+      "end_sec": 158.05
     },
     {
       "index": 25,
@@ -270,8 +270,8 @@
       "tone": "kangae",
       "text": "メタは、その辺どうするつもりなのだ?",
       "news_index": 2,
-      "start_sec": 159.18,
-      "end_sec": 161.85
+      "start_sec": 158.2,
+      "end_sec": 160.86
     },
     {
       "index": 26,
@@ -280,8 +280,8 @@
       "tone": "niyari",
       "text": "Metaは再利用を管理する設定は用意しているけど、それで十分かどうかが焦点ね。",
       "news_index": 2,
-      "start_sec": 162.0,
-      "end_sec": 167.03
+      "start_sec": 161.01,
+      "end_sec": 166.05
     },
     {
       "index": 27,
@@ -290,8 +290,8 @@
       "tone": "namidame",
       "text": "便利さの裏で、自分の顔が勝手に使われるのは、やっぱり怖いのだ……。",
       "news_index": 2,
-      "start_sec": 167.18,
-      "end_sec": 173.24
+      "start_sec": 166.2,
+      "end_sec": 172.26
     },
     {
       "index": 28,
@@ -300,8 +300,8 @@
       "tone": "normal",
       "text": "結局、便利さと悪用リスクのせめぎ合いって話。ここは重いから、さらっと次いくわ。",
       "news_index": 2,
-      "start_sec": 173.39,
-      "end_sec": 179.03
+      "start_sec": 172.41,
+      "end_sec": 178.05
     },
     {
       "index": 29,
@@ -310,8 +310,8 @@
       "tone": "amaama",
       "text": "三本目は軽いわよ。オープンエーアイが『ジーピーティー・ライブ』ってのを発表したの。",
       "news_index": 3,
-      "start_sec": 179.11,
-      "end_sec": 184.88
+      "start_sec": 178.13,
+      "end_sec": 183.9
     },
     {
       "index": 30,
@@ -320,8 +320,8 @@
       "tone": "niyari",
       "text": "らいぶ? AIが生放送でもするのだ?",
       "news_index": 3,
-      "start_sec": 185.03,
-      "end_sec": 188.36
+      "start_sec": 184.05,
+      "end_sec": 187.38
     },
     {
       "index": 31,
@@ -330,8 +330,8 @@
       "tone": "niyari",
       "text": "惜しい、そっちじゃない。チャットジーピーティーの音声モードが、『聞きながら話す』を同時にこなせるようになったの。",
       "news_index": 3,
-      "start_sec": 188.51,
-      "end_sec": 194.67
+      "start_sec": 187.53,
+      "end_sec": 193.71
     },
     {
       "index": 32,
@@ -340,8 +340,8 @@
       "tone": "kangae",
       "text": "今までは、同時にはできなかったのだ?",
       "news_index": 3,
-      "start_sec": 194.82,
-      "end_sec": 197.51
+      "start_sec": 193.86,
+      "end_sec": 196.55
     },
     {
       "index": 33,
@@ -350,8 +350,8 @@
       "tone": "normal",
       "text": "そう。こっちが喋り終わるのを待ってから、AIが返してた。トランシーバーみたいにね。",
       "news_index": 3,
-      "start_sec": 197.66,
-      "end_sec": 202.97
+      "start_sec": 196.7,
+      "end_sec": 202.01
     },
     {
       "index": 34,
@@ -360,8 +360,8 @@
       "tone": "yubisashi",
       "text": "あー、『どうぞ』って言うまで喋れないやつなのだ!",
       "news_index": 3,
-      "start_sec": 203.12,
-      "end_sec": 206.28
+      "start_sec": 202.16,
+      "end_sec": 205.32
     },
     {
       "index": 35,
@@ -370,8 +370,8 @@
       "tone": "niyari",
       "text": "そう、その堅苦しいのが取れるの。人間同士みたいに、相槌とか割り込みを自然に挟めるようになるのよ。",
       "news_index": 3,
-      "start_sec": 206.43,
-      "end_sec": 212.84
+      "start_sec": 205.47,
+      "end_sec": 211.89
     },
     {
       "index": 36,
@@ -380,8 +380,8 @@
       "tone": "amaama",
       "text": "それいいのだ! AIと電話してる感じから、友達と喋ってる感じになるってことなのだね。",
       "news_index": 3,
-      "start_sec": 212.99,
-      "end_sec": 219.53
+      "start_sec": 212.04,
+      "end_sec": 218.58
     },
     {
       "index": 37,
@@ -390,8 +390,8 @@
       "tone": "normal",
       "text": "裏では、声を聞くのと話すのを同時に処理しててね。要は、反応の速さとの戦いなの。",
       "news_index": 3,
-      "start_sec": 219.68,
-      "end_sec": 225.37
+      "start_sec": 218.73,
+      "end_sec": 224.42
     },
     {
       "index": 38,
@@ -400,8 +400,8 @@
       "tone": "normal",
       "text": "むずかしいことしてるのに、使う側は自然に感じるってことなのだね。",
       "news_index": 3,
-      "start_sec": 225.52,
-      "end_sec": 229.96
+      "start_sec": 224.57,
+      "end_sec": 229.01
     },
     {
       "index": 39,
@@ -410,8 +410,8 @@
       "tone": "normal",
       "text": "そういうこと。で、これが効くと、電話の自動音声が、オペレーターっぽさから本物の会話相手に近づくわ。",
       "news_index": 3,
-      "start_sec": 230.11,
-      "end_sec": 237.15
+      "start_sec": 229.16,
+      "end_sec": 236.2
     },
     {
       "index": 40,
@@ -420,8 +420,8 @@
       "tone": "heart",
       "text": "あの機械っぽい自動音声が、もっと人間っぽくなるのは嬉しいのだ〜。",
       "news_index": 3,
-      "start_sec": 237.3,
-      "end_sec": 242.26
+      "start_sec": 236.35,
+      "end_sec": 241.31
     },
     {
       "index": 41,
@@ -430,8 +430,8 @@
       "tone": "normal",
       "text": "四本目。アンソロピックが、Claude Fable 5を、Pro、Max、Team、一部Enterprise契約者向けに期間限定で追加料金なしにするのよ。",
       "news_index": 4,
-      "start_sec": 242.41,
-      "end_sec": 251.95
+      "start_sec": 241.46,
+      "end_sec": 250.98
     },
     {
       "index": 42,
@@ -440,8 +440,8 @@
       "tone": "shock",
       "text": "半年もタダ!? 太っ腹すぎるのだ! 誰でももらえるのだ?",
       "news_index": 4,
-      "start_sec": 252.1,
-      "end_sec": 256.34
+      "start_sec": 251.13,
+      "end_sec": 255.37
     },
     {
       "index": 43,
@@ -450,8 +450,8 @@
       "tone": "normal",
       "text": "誰でもじゃないの。対象はPro、Max、Team、一部Enterpriseの利用者で、オープンソース開発者限定の施策ではないのよ。",
       "news_index": 4,
-      "start_sec": 256.49,
-      "end_sec": 264.74
+      "start_sec": 255.52,
+      "end_sec": 263.78
     },
     {
       "index": 44,
@@ -460,18 +460,18 @@
       "tone": "kangae",
       "text": "なんで、その人たちにだけタダで配るのだ?",
       "news_index": 4,
-      "start_sec": 264.89,
-      "end_sec": 267.91
+      "start_sec": 263.93,
+      "end_sec": 266.95
     },
     {
       "index": 45,
       "type": "speech",
       "speaker": "metan",
       "tone": "niyari",
-      "text": "狙いはハッキリしてる。新モデルの利用機会を広げる期間限定キャンペーン、というくらいに留めるのが安全ね。",
+      "text": "狙いはハッキリしてる。新モデルの利用機会を広げる、期間限定のキャンペーンってことね。",
       "news_index": 4,
-      "start_sec": 268.06,
-      "end_sec": 274.46
+      "start_sec": 267.1,
+      "end_sec": 272.31
     },
     {
       "index": 46,
@@ -480,8 +480,8 @@
       "tone": "niyari",
       "text": "あー、最初はタダで、ハマった頃に有料に切り替えるやつなのだ?",
       "news_index": 4,
-      "start_sec": 274.61,
-      "end_sec": 279.42
+      "start_sec": 272.46,
+      "end_sec": 277.27
     },
     {
       "index": 47,
@@ -490,8 +490,8 @@
       "tone": "niyari",
       "text": "ご名答。無料期間が終わったあと、何割が課金し続けるか。そこが本当の勝負よ。",
       "news_index": 4,
-      "start_sec": 279.57,
-      "end_sec": 284.98
+      "start_sec": 277.42,
+      "end_sec": 282.83
     },
     {
       "index": 48,
@@ -500,8 +500,8 @@
       "tone": "normal",
       "text": "なんか、AIの性能そのものより、人の取り合いになってる感じなのだ。",
       "news_index": 4,
-      "start_sec": 285.13,
-      "end_sec": 289.97
+      "start_sec": 282.98,
+      "end_sec": 287.81
     },
     {
       "index": 49,
@@ -510,8 +510,8 @@
       "tone": "normal",
       "text": "そこ鋭いわ。今はグーグルとかオープンエーアイと、開発者の奪い合いをやってる段階なの。",
       "news_index": 4,
-      "start_sec": 290.12,
-      "end_sec": 295.7
+      "start_sec": 287.96,
+      "end_sec": 293.54
     },
     {
       "index": 50,
@@ -520,8 +520,8 @@
       "tone": "kangae",
       "text": "で、ボクたち普通に使う側には、何か関係あるのだ?",
       "news_index": 4,
-      "start_sec": 295.85,
-      "end_sec": 299.99
+      "start_sec": 293.69,
+      "end_sec": 297.82
     },
     {
       "index": 51,
@@ -530,8 +530,8 @@
       "tone": "normal",
       "text": "開発者がどのAIに慣れるかで、この先ボクらが使うアプリの中身も決まってくる。地味だけど、けっこう効くのよ。",
       "news_index": 4,
-      "start_sec": 300.14,
-      "end_sec": 307.06
+      "start_sec": 297.97,
+      "end_sec": 304.9
     },
     {
       "index": 52,
@@ -540,8 +540,8 @@
       "tone": "nagomi",
       "text": "見えないところで、陣取り合戦してるってことなのだね。",
       "news_index": 4,
-      "start_sec": 307.21,
-      "end_sec": 310.74
+      "start_sec": 305.05,
+      "end_sec": 308.58
     },
     {
       "index": 53,
@@ -550,8 +550,8 @@
       "tone": "normal",
       "text": "ラスト五本目。ちょっと気まずい話ね。クロードコードに、こっそりした仕掛けが見つかったの。",
       "news_index": 5,
-      "start_sec": 310.89,
-      "end_sec": 316.18
+      "start_sec": 308.73,
+      "end_sec": 314.02
     },
     {
       "index": 54,
@@ -560,8 +560,8 @@
       "tone": "kangae",
       "text": "こっそり? どんな仕掛けなのだ?",
       "news_index": 5,
-      "start_sec": 316.33,
-      "end_sec": 318.64
+      "start_sec": 314.17,
+      "end_sec": 316.47
     },
     {
       "index": 55,
@@ -570,8 +570,8 @@
       "tone": "kangae",
       "text": "中国在住や中国AI企業に関係するユーザーを検出する隠しコードがあった、と研究者や投稿者が指摘しているのよ。パソコンの時計の設定なんかで判定してたの。",
       "news_index": 5,
-      "start_sec": 318.79,
-      "end_sec": 329.79
+      "start_sec": 316.62,
+      "end_sec": 327.65
     },
     {
       "index": 56,
@@ -580,8 +580,8 @@
       "tone": "shock",
       "text": "勝手に、どこの国の人か調べてたってことなのだ!?",
       "news_index": 5,
-      "start_sec": 329.94,
-      "end_sec": 333.62
+      "start_sec": 327.8,
+      "end_sec": 331.48
     },
     {
       "index": 57,
@@ -590,8 +590,8 @@
       "tone": "normal",
       "text": "プロキシが検出されたときに、Asia/ShanghaiやAsia/Urumqiのタイムゾーン、プロキシURL内の中国系ドメインやAIラボ名を見ていた、とされているわ。しかも、検出ロジックは難読化され、結果はシステムプロンプト内の表記ゆれに埋め込む形で送られていた、と報じられているわ。の。",
       "news_index": 5,
-      "start_sec": 333.77,
-      "end_sec": 348.81
+      "start_sec": 331.63,
+      "end_sec": 346.67
     },
     {
       "index": 58,
@@ -600,8 +600,8 @@
       "tone": "tsuntsun",
       "text": "それ、隠す気まんまんじゃん……。なんでそんなことしてたのだ?",
       "news_index": 5,
-      "start_sec": 348.96,
-      "end_sec": 352.52
+      "start_sec": 346.82,
+      "end_sec": 350.38
     },
     {
       "index": 59,
@@ -610,8 +610,8 @@
       "tone": "normal",
       "text": "会社の説明だと、不正な転売とか、AIの中身をパクられる対策なんだって。",
       "news_index": 5,
-      "start_sec": 352.67,
-      "end_sec": 358.05
+      "start_sec": 350.53,
+      "end_sec": 355.92
     },
     {
       "index": 60,
@@ -620,8 +620,8 @@
       "tone": "normal",
       "text": "理由はあるにしても、規約に書いてなかったのは、まずいのだ?",
       "news_index": 5,
-      "start_sec": 358.2,
-      "end_sec": 362.2
+      "start_sec": 356.07,
+      "end_sec": 360.07
     },
     {
       "index": 61,
@@ -630,8 +630,8 @@
       "tone": "tsuntsun",
       "text": "そう、そこが炎上ポイント。開発者に断りもなくやってたから、猛反発を食らってるの。",
       "news_index": 5,
-      "start_sec": 362.35,
-      "end_sec": 368.04
+      "start_sec": 360.22,
+      "end_sec": 365.91
     },
     {
       "index": 62,
@@ -640,8 +640,8 @@
       "tone": "kangae",
       "text": "もう直したのだ?",
       "news_index": 5,
-      "start_sec": 368.19,
-      "end_sec": 369.57
+      "start_sec": 366.06,
+      "end_sec": 367.43
     },
     {
       "index": 63,
@@ -650,8 +650,8 @@
       "tone": "normal",
       "text": "担当エンジニアは、該当コードを外すプルリクエストは7月1日にマージされた、と説明しているわ。でも『監視は反対』って掲げてた会社だけに、ちょっとブーメランよね。",
       "news_index": 5,
-      "start_sec": 369.72,
-      "end_sec": 380.55
+      "start_sec": 367.58,
+      "end_sec": 378.42
     },
     {
       "index": 64,
@@ -660,8 +660,8 @@
       "tone": "namidame",
       "text": "立派なこと言ってた人が、裏でこっそり、っていうのは残念なのだ……。",
       "news_index": 5,
-      "start_sec": 380.7,
-      "end_sec": 386.62
+      "start_sec": 378.57,
+      "end_sec": 384.49
     },
     {
       "index": 65,
@@ -670,8 +670,8 @@
       "tone": "normal",
       "text": "結局、便利なツールでも、中で何をしてるかは気にする時代ってこと。ここはこのくらいにしとくわ。",
       "news_index": 5,
-      "start_sec": 386.77,
-      "end_sec": 392.77
+      "start_sec": 384.64,
+      "end_sec": 390.63
     },
     {
       "index": 66,
@@ -680,8 +680,8 @@
       "tone": "amaama",
       "text": "というわけで、今朝は五本お届けしたわ。",
       "news_index": 0,
-      "start_sec": 392.85,
-      "end_sec": 395.53
+      "start_sec": 390.71,
+      "end_sec": 393.39
     },
     {
       "index": 67,
@@ -690,8 +690,8 @@
       "tone": "normal",
       "text": "安いAI、他人が写る絵、喋る音声、タダ配り、こっそりコード……盛りだくさんだったのだ。",
       "news_index": 0,
-      "start_sec": 395.68,
-      "end_sec": 402.31
+      "start_sec": 393.54,
+      "end_sec": 400.29
     },
     {
       "index": 68,
@@ -700,8 +700,8 @@
       "tone": "niyari",
       "text": "よくまとめたわね。気になったやつがあったら、あとで調べてみて。",
       "news_index": 0,
-      "start_sec": 402.46,
-      "end_sec": 406.01
+      "start_sec": 400.44,
+      "end_sec": 404.0
     },
     {
       "index": 69,
@@ -710,8 +710,8 @@
       "tone": "mic",
       "text": "今日も一日、ぼちぼちいくのだー!",
       "news_index": 0,
-      "start_sec": 406.16,
-      "end_sec": 408.63
+      "start_sec": 404.15,
+      "end_sec": 406.61
     },
     {
       "index": 70,
@@ -720,8 +720,8 @@
       "tone": "normal",
       "text": "それじゃあ、また明日のテック朝便で。四国めたんでした。",
       "news_index": 0,
-      "start_sec": 408.78,
-      "end_sec": 412.42
+      "start_sec": 406.76,
+      "end_sec": 410.41
     },
     {
       "index": 71,
@@ -730,17 +730,17 @@
       "tone": "mic",
       "text": "ずんだもんでしたー! いってらっしゃいなのだー!",
       "news_index": 0,
-      "start_sec": 412.57,
-      "end_sec": 415.32
+      "start_sec": 410.56,
+      "end_sec": 413.3
     },
     {
       "index": 9999,
       "type": "outro",
       "text": "🎵 ジングル + またね！",
-      "start_sec": 416.02,
-      "end_sec": 422.05
+      "start_sec": 414.0,
+      "end_sec": 420.04
     }
   ],
-  "wall_time_sec": 11.16,
-  "audio_url": "/audio/ai/20260709_051236.mp3?v=1783542222"
+  "wall_time_sec": 11.04,
+  "audio_url": "/audio/ai/20260709_051236.mp3?v=1783840058"
 }
