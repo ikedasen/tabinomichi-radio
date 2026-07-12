@@ -11,7 +11,10 @@ tsconfig.tsbuildinfo
 # Misc
 .DS_Store
 *.pem
-.env*.local
+# Public repo: never commit any env file (plain .env included)
+.env
+.env.*
+!.env.example
 .vercel
 
 # Editor

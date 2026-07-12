@@ -1,7 +1,7 @@
 'use client'
 
 import Link from 'next/link'
-import { useSearchParams } from 'next/navigation'
+import { useRouter, useSearchParams } from 'next/navigation'
 import { Suspense, useEffect, useMemo, useRef, useState } from 'react'
 import SharePopover from '../components/SharePopover'
 import { VALID_TONES, type Tone } from './generated/valid-tones'
@@ -96,23 +96,36 @@ function fmt(sec: number) {
   return `${m}:${s}`
 }
 
+// ViewCounter はモバイル用/デスクトップ用の 2 箇所に CSS 出し分けでマウントされる
+// (両方常時 mount)。ガードを module レベルで共有しないと、1 閲覧で GET×2、
+// 1 再生で POST×2 (= KV 課金 2 倍 + カウント二重計上) になる (2026-07-12 review H1)。
+const viewCountFetches = new Map<string, Promise<number | null>>()
+const viewIncremented = new Set<string>()
+
 function ViewCounter({ episodeId, isPlaying }: { episodeId: string | null; isPlaying: boolean }) {
   const [count, setCount] = useState<number | null>(null)
-  const incrementedRef = useRef(false)
 
   useEffect(() => {
     if (!episodeId) { setCount(null); return }
     setCount(null)
-    incrementedRef.current = false
-    fetch(`/api/views/${episodeId}`, { cache: 'no-store' })
-      .then((r) => (r.ok ? r.json() : null))
-      .then((d) => { if (d && typeof d.count === 'number') setCount(d.count) })
-      .catch(() => {})
+    let cancelled = false
+    let p = viewCountFetches.get(episodeId)
+    if (!p) {
+      p = fetch(`/api/views/${episodeId}`, { cache: 'no-store' })
+        .then((r) => (r.ok ? r.json() : null))
+        .then((d) => (d && typeof d.count === 'number' ? (d.count as number) : null))
+        .catch(() => null)
+      viewCountFetches.set(episodeId, p)
+      // 同一 commit 内の二重 mount だけ相乗りさせ、後の再訪では取り直す
+      p.finally(() => { setTimeout(() => viewCountFetches.delete(episodeId), 2000) })
+    }
+    p.then((n) => { if (!cancelled && n !== null) setCount(n) })
+    return () => { cancelled = true }
   }, [episodeId])
 
   useEffect(() => {
-    if (!episodeId || !isPlaying || incrementedRef.current) return
-    incrementedRef.current = true
+    if (!episodeId || !isPlaying || viewIncremented.has(episodeId)) return
+    viewIncremented.add(episodeId)
     try {
       const dedupKey = `viewed:${episodeId}`
       const last = typeof localStorage !== 'undefined' ? localStorage.getItem(dedupKey) : null
@@ -187,6 +200,7 @@ export default function RadioPage() {
 }
 
 export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } = {}) {
+  const router = useRouter()
   const searchParams = useSearchParams()
   const urlEpisode = searchParams?.get('episode') || initialEpisode || null
   const urlDate = searchParams?.get('date') || null  // YYYY-MM-DD: この日付の連続再生キュー
@@ -230,7 +244,14 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
           if (sameDay.length > 0 && !currentEpisode) setCurrentEpisode(sameDay[0])
         }
       })
-      .catch(() => setEpisodes([]))
+      .catch(() => {
+        // 一覧の取得失敗を握りつぶすと program effect が走らず「読み込み中...」の
+        // まま永久スピナーになる (2026-07-12 review M2)。エラーを明示して止める。
+        setAllEpisodes([])
+        setEpisodes([])
+        setError('エピソード一覧を読み込めませんでした。通信環境を確認して再読み込みしてください。')
+        setLoading(false)
+      })
   }, [urlEpisode, urlQueue, urlDate])
   const [program, setProgram] = useState<ProgramMeta | null>(null)
   const [loading, setLoading] = useState(true)
@@ -381,9 +402,13 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
       setLoading(false)
       return
     }
+    // 高速ナビ (‹› 連打) で古い応答が後着すると別エピソードの meta を上書きする
+    // race があった (2026-07-12 review M1)。cancelled flag で後着を破棄する。
+    let cancelled = false
     fetch(target.meta_url, { cache: 'no-store' })
       .then((r) => r.ok ? r.json() : null)
       .then((meta: any) => {
+        if (cancelled) return
         const program: ProgramMeta = {
           profile: 'indie',
           episode_id: target.episode_id,
@@ -411,8 +436,9 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
         }
         setProgram(program)
       })
-      .catch((e) => setError(String(e?.message || e)))
-      .finally(() => setLoading(false))
+      .catch((e) => { if (!cancelled) setError(String(e?.message || e)) })
+      .finally(() => { if (!cancelled) setLoading(false) })
+    return () => { cancelled = true }
   }, [allEpisodes, currentEpisode])
 
   // 現在エピソードのリスト内位置。program でなく currentEpisode (state) を参照することで
@@ -472,10 +498,9 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
         title: showTitle,
         artist: '旅の道ラジオ',
         album: '旅の道ラジオ',
-        artwork: [
-          { src: artUrl, sizes: '512x512', type: 'image/jpeg' },
-          { src: artUrl, sizes: '256x256', type: 'image/jpeg' },
-        ],
+        // type/sizes は詐称しない (実体は webp/jpg 混在・サイズ非固定。誤った MIME 宣言で
+        // 一部プラットフォームがデコードをスキップする)。省略時は UA が自動判定する。
+        artwork: [{ src: artUrl }],
       })
     } catch {}
   }, [currentEpisodeIdForMeta])
@@ -495,6 +520,14 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
       })
       ms.setActionHandler('play', () => audioRef.current?.play().catch(() => {}))
       ms.setActionHandler('pause', () => audioRef.current?.pause())
+      // setPositionState でシークバーを見せている以上、seekto が無いと
+      // ロック画面のスクラブが「掴めるのに戻る」動作になる (2026-07-12 review)。
+      ms.setActionHandler('seekto', (d: any) => {
+        const a = audioRef.current
+        if (a && d && typeof d.seekTime === 'number' && isFinite(d.seekTime)) {
+          a.currentTime = d.seekTime
+        }
+      })
     } catch {}
   }, [])
 
@@ -586,8 +619,8 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
         if (idx >= 0 && idx < queueIds.length - 1) {
           setCurrentEpisode(queueIds[idx + 1])
         } else if (idx === queueIds.length - 1) {
-          // 全エピソード再生完了 → トップへ
-          window.location.href = '/'
+          // 全エピソード再生完了 → トップへ (内部遷移は router 経由が site 規約)
+          router.push('/')
         }
       }
     }
@@ -618,8 +651,14 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
   const prevBlobUrlRef = useRef<string | null>(null)
   useEffect(() => {
     if (!audioUrl) { setBlobUrl(null); return }
+    // エピソード切替時は旧音声を即停止する。旧実装は新 blob の DL 完了まで旧 ep が
+    // 鳴り続け、新 ep の字幕/立ち絵と食い違っていた (2026-07-12 review M4)。
+    const a = audioRef.current
+    if (a && !a.paused) a.pause()
     let canceled = false
-    fetch(audioUrl, { cache: 'force-cache' })
+    // ‹› 連打時に不要になった MP3 の全量 DL (5-10MB/本) を打ち切る
+    const ac = new AbortController()
+    fetch(audioUrl, { cache: 'force-cache', signal: ac.signal })
       .then((r) => r.ok ? r.blob() : Promise.reject(new Error(`status ${r.status}`)))
       .then((blob) => {
         if (canceled) return
@@ -633,9 +672,25 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
         setBlobUrl(newUrl)
         if (oldUrl) setTimeout(() => URL.revokeObjectURL(oldUrl), 1500)
       })
-      .catch(() => { if (!canceled) setBlobUrl(audioUrl) })  // 失敗時は通常 URL にフォールバック
-    return () => { canceled = true }
+      .catch((e) => {
+        if (canceled || (e && e.name === 'AbortError')) return
+        // フォールバック時も旧 blob を解放してから通常 URL へ
+        const oldUrl = prevBlobUrlRef.current
+        prevBlobUrlRef.current = null
+        if (oldUrl) setTimeout(() => URL.revokeObjectURL(oldUrl), 1500)
+        setBlobUrl(audioUrl)
+      })
+    return () => { canceled = true; ac.abort() }
   }, [audioUrl])
+
+  // unmount 時に最後の blob URL を解放。旧実装は「次の blob 成功時」しか revoke
+  // しないため、ラジオ⇔ホームを往復するたび ~6MB の Blob がタブ寿命まで残留し、
+  // iOS PWA のメモリ死の一因だった (2026-07-12 review M3)。
+  useEffect(() => () => {
+    const last = prevBlobUrlRef.current
+    prevBlobUrlRef.current = null
+    if (last) setTimeout(() => URL.revokeObjectURL(last), 1500)
+  }, [])
 
   // audio 要素に playbackRate を反映 (speed menu からの変更 + 新 blob load 時)
   // 多重防御で「効いたり効かなかったり」事象を確実に潰す:
@@ -1269,7 +1324,7 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
                     {program.featured_game.genres.map((g) => (
                       <Link
                         key={g}
-                        href={`/?genre=${encodeURIComponent(g)}`}
+                        href={`/?genre=${encodeURIComponent(g)}${profile === 'ai' ? '&profile=ai' : ''}`}
                         className="px-2 py-0.5 text-[10px] bg-white/10 hover:bg-white/20 rounded-full text-zinc-300 hover:text-white transition-colors"
                       >{g}</Link>
                     ))}
@@ -1362,7 +1417,7 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
                       {program.featured_game.genres.map((g) => (
                         <Link
                           key={g}
-                          href={`/?genre=${encodeURIComponent(g)}`}
+                          href={`/?genre=${encodeURIComponent(g)}${profile === 'ai' ? '&profile=ai' : ''}`}
                           className="text-[10px] px-2 py-0.5 rounded-full bg-white/10 hover:bg-white/20 text-zinc-200 hover:text-white transition-colors"
                         >
                           {g}

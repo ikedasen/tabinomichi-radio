@@ -1,6 +1,6 @@
 name = "tabinomichi-radio"
 main = "src/worker.ts"
-compatibility_date = "2024-12-01"
+compatibility_date = "2026-07-01"
 
 # 静的アセット (Next.js export 結果) を ./out から配信する
 [assets]

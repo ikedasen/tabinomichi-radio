@@ -1,0 +1,30 @@
+# Workers Static Assets custom headers (2026-07-12 review).
+# NOTE: run_worker_first is OFF — static assets bypass the Worker (unbilled),
+# so headers must live here, not in src/worker.ts.
+
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  X-Frame-Options: DENY
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
+
+# Content-hashed Next.js bundles: safe to cache forever.
+/_next/static/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Audio/images are addressed with ?v=<mtime> cache-busting from episodes.json,
+# so long browser caching is safe (a re-synth changes the ?v= and busts it).
+# Was max-age=0 -> every replay re-downloaded the full ~7MB mp3.
+/audio/*
+  Cache-Control: public, max-age=86400
+
+/images/*
+  Cache-Control: public, max-age=604800
+
+# Character sprites have no ?v= (SW revalidates them stale-while-revalidate);
+# bound browser staleness to a day.
+/characters/*
+  Cache-Control: public, max-age=86400
+
+/icons/*
+  Cache-Control: public, max-age=604800

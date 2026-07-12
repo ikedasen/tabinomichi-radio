@@ -51,7 +51,9 @@ export const metadata: Metadata = {
 }
 
 export const viewport: Viewport = {
-  themeColor: '#451a03',
+  // 実 UI の Steam 系パレットに一致させる (旧 #451a03 は改装前の琥珀色で、
+  // Android のステータスバー/スプラッシュだけ茶色くなっていた)
+  themeColor: '#171a21',
   width: 'device-width',
   initialScale: 1,
   maximumScale: 5,

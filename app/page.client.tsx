@@ -39,12 +39,20 @@ const formatDate = (iso: string | null) => {
   catch { return iso }
 }
 
+// 日付グループキーは ISO 文字列の日付部 (= pipeline が出す JST の暦日) をそのまま使う。
+// 旧実装は new Date() 経由で「閲覧者のローカル TZ の暦日」を返しており、海外閲覧時に
+// 「この日を連続再生」の ?date= (JST 前提で slice 比較) と食い違ってキューが崩れていた。
 const dateKey = (iso: string | null): string => {
-  if (!iso) return 'unknown'
-  try {
-    const d = new Date(iso)
-    return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`
-  } catch { return iso.slice(0, 10) }
+  if (!iso || !/^\d{4}-\d{2}-\d{2}/.test(iso)) return 'unknown'
+  return iso.slice(0, 10)
+}
+
+// グループ見出しは key (JST 暦日) から直接整形する。formatDate (ローカル TZ) を使うと
+// key と見出しの日付がずれる閲覧環境がある。
+const formatDateKeyHeading = (key: string): string => {
+  const m = key.match(/^(\d{4})-(\d{2})-(\d{2})$/)
+  if (!m) return key
+  return `${m[1]}年${parseInt(m[2], 10)}月${parseInt(m[3], 10)}日`
 }
 
 const shortenDesc = (text: string, target = 150): string => {
@@ -232,7 +240,7 @@ export default function PageClient() {
             <span className="text-[#c7d5e0]/80">ジャンルで絞り込み中:</span>
             <span className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-[#66c0f4]/20 ring-1 ring-[#66c0f4]/40 text-[#c7d5e0]">
               {filterGenre}
-              <Link href="/" className="text-[#c7d5e0]/70 hover:text-white" aria-label="フィルタ解除">×</Link>
+              <Link href={profile === 'ai' ? '/?profile=ai' : '/'} className="text-[#c7d5e0]/70 hover:text-white" aria-label="フィルタ解除">×</Link>
             </span>
           </div>
         )}
@@ -261,13 +269,12 @@ export default function PageClient() {
 
         {!loading && filteredEpisodes.length > 0 && (
           <div className="space-y-10">
-            {groupedByDate.map(({ key, episodes: dayEpisodes }) => {
-              const firstIso = dayEpisodes[0]?.generated_at
+            {groupedByDate.map(({ key, episodes: dayEpisodes }, groupIdx) => {
               return (
                 <section key={key}>
                   <div className="flex items-center justify-between gap-3 mb-4 border-b border-[#c7d5e0]/20 pb-2">
                     <h2 className="text-lg md:text-xl font-bold text-[#c7d5e0] tracking-wide">
-                      {firstIso ? formatDate(firstIso) : key}
+                      {formatDateKeyHeading(key)}
                     </h2>
                     <Link
                       href={`/radio?date=${key}&queue=1`}
@@ -282,8 +289,11 @@ export default function PageClient() {
                   </div>
 
                   <div className="space-y-4">
-                    {dayEpisodes.map((ep) => {
+                    {dayEpisodes.map((ep, epIdx) => {
                       const game = ep.featured_game
+                      // 初回描画で 20 カード ×~180KB の画像を全部 eager ロードすると
+                      // ホームの初回転送が ~3.5MB になる。最初の視界に入る分だけ eager。
+                      const imgLoading: 'eager' | 'lazy' = groupIdx === 0 && epIdx < 3 ? 'eager' : 'lazy'
                       // image_rel を優先 (個別ページ左ジャケットと同じ優先順)。
                       // hero_rel が *_bg.jpg (Steam Library 背景 = 空) のケースで
                       // home サムネだけ空表示になる事故を防ぐ
@@ -306,7 +316,7 @@ export default function PageClient() {
                                 <img
                                   src={bg}
                                   alt={ep.title}
-                                  loading="eager"
+                                  loading={imgLoading}
                                   className="absolute inset-0 w-full h-full object-cover"
                                   onError={(e) => { (e.currentTarget as HTMLImageElement).style.visibility = 'hidden' }}
                                 />
@@ -322,6 +332,7 @@ export default function PageClient() {
                                 <img
                                   src={bg}
                                   aria-hidden
+                                  loading={imgLoading}
                                   className="absolute inset-0 w-full h-full object-cover scale-110 blur-xl"
                                 />
                               ) : (
@@ -355,7 +366,7 @@ export default function PageClient() {
                                 <img
                                   src={bg}
                                   alt={ep.title}
-                                  loading="eager"
+                                  loading={imgLoading}
                                   className="absolute inset-0 w-full h-full object-cover"
                                   onError={(e) => { (e.currentTarget as HTMLImageElement).style.visibility = 'hidden' }}
                                 />
