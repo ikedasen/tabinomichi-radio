@@ -1,0 +1,406 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-07-12T20:13:39.193918+00:00",
+  "title": "賢い相棒が机に降りる朝 〜自分でネットを触るAIと、消える円盤・金より高い容量〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便。テックニュースの回、四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝もテックの話、軽くサクッといくのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今日は気になった話題を4本、流していくわ。通勤・通学のおともにどうぞ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "4本かー。今朝はどんなラインナップなのだ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "自分でネットを触るAI、消えるゲームディスク、高くなりすぎたSSD、それと机の上で動く化け物パソコン。",
+      "news_index": 0,
+      "reading": "ジブンデネットをサワルAI、ケエルゲエムディスクゲームディスク、タカクナリスギタえすえすでぃー、それとつくえのうえでうごくばけものぱそこんパソコン。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "字面だけで濃いのだ! さっそく1本目いくのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ1本目。クロードコードってAIに、内蔵ブラウザがついたのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "くろーどこーど? それ、何なのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "プログラムを書くのを手伝ってくれるAIね。そこに、AI自身が使えるブラウザの窓がついたの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ブラウザって、ボクがネット見るあれ? AIが動画でも見て暇つぶすのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "違う違う。AIが自分でサイトを開いて、中身を読んで、リンクをカチカチ押して、入力欄に文字まで打てるのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、AIが勝手にポチポチ操作するってこと!?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。今までは人間がコピペして渡してた作業を、AIが自分で見に行くようになったの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "勝手にお買い物されたり、アカウント作られたら怖いのだ……。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこは考えてあって、サイトごとに『一回だけ許可・いつも許可・拒否』を人間に聞く仕組みなの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "なるほど、ちゃんと門番がいるのだね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "しかもログイン情報を持たない、まっさらなブラウザで動くの。個人のログイン状態と切り離して使えるのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "つまり、AIが自分で調べ物して作業する相棒になった、ってことなのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに、これからは『AIに検索して』じゃなくて『AIが自分でネットを見て仕上げる』時代の入口ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "2本目。ソニーが、プレステのゲームディスクの生産をやめるって発表したのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、あのソフトの円盤、無くなるのだ!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "正確には、2028年1月以降に出る新作が、ダウンロード版だけになるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "それより前のソフトや、今持ってるディスクはどうなるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そっちは影響なし。あくまで、これから出る新作の話ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "じゃあボクの棚のディスク、プレミアついて金の延べ棒になるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "ならないわよ。ただの中古ソフトのまま棚で眠るだけ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "理由はね、みんなもうダウンロードで買ってるから。2024年には、物理ソフトの流通がプレイステーションの売上高に占めた割合は、たった3パーセントだったのよ。",
+      "news_index": 2,
+      "reading": "リユーワネ、みんなもうダウンロードでかってるから。にせんにじゅうよんねんには、ぶつりソフトのリュウツウガプレイステーションのウリアゲダカニシメタワリアイワ、たった3パーセントだったのよ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "3パーセント!? 売上全体で見ると、円盤の割合はそこまで小さくなってたのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そういうこと。作る側も、コストをかけて円盤を刷る意味が薄れちゃったのね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも、ダウンロードだけって、貸し借りとか売るのはどうなるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこよね。ディスク版がなくなると、新作を中古で売ったり、友達に円盤を貸したりできなくなるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "遊び終わったソフトを売る、あの小遣い稼ぎができなくなるのだ……。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "3本目は、お財布に痛い話。SSDが、とんでもなく高くなってるのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "えすえすでぃー? それ、何だっけなのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "データをしまっておく部品ね。パソコンの物置みたいなものよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "その物置が、なんで急に高くなるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "1テラの容量が、2024年は8,000円くらいだったのに、今は2万円から4万円以上するの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "4万!? 数年で5倍近くってことなのだ!?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "中身のチップの卸値も、この1年で2倍以上に跳ね上がってるわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "じゃあ8テラの大きいやつなんて、いくらするのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "sexy",
+      "text": "海外だと平均で23万円くらい。同じ重さの金と比べても、SSDのほうが高いって言われてるのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "ボクのお小遣い、全部つぎ込んでも1個買えないやつなのだ……。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "原因はまたAIね。AI向けデータセンターの需要が急増して、SSDに使うチップの供給が厳しくなってるの。",
+      "news_index": 3,
+      "reading": "ゲンインワマタAIね。AIむけデータセンターのジュヨウガキュウゾウシテ、えすえすでぃーにツカウチップのキューキューガキビシクナッテルノ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "また巨大AIの需要が、ボクらの部品の値段にも響いてるのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに、今年パソコンの容量を増やすなら、財布に覚悟がいるって話。",
+      "news_index": 3,
+      "reading": "ようするに、ことしパソコンのようりょうをふやすなら、さいふにかくごがいるってはなし。"
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "ラスト4本目は、明るい話よ。手のひらサイズなのに、化け物みたいなミニパソコンが出るの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "待ってたのだ、組み立て系のやつ! ボクこういうの好きなのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "マウスコンピューターのモンスターミニPCで、名前はダイブ・シーエックス。8月発売予定ね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "化け物って、いったい何がすごいのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "メモリを128ギガも積めるの。ふつうのパソコンの、何倍もの作業スペースね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "128ギガ!? ボクのスマホが、何十台ぶんなのだ!?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "しかもこれ、大きなAIを丸ごと自分のパソコンの中で動かすための機械なのよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "自分のパソコンで? いつもは、会社のAIを借りて使ってるのだね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。ふだんはクラウド、つまり誰かの倉庫にあるAIに、毎回お金を払って繋いでるでしょ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あっ、それを自分の机の上で動かせる、ってことなのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "ご名答。ローカルで処理すればデータをクラウドへ送らずに済むし、サービスの従量課金も抑えられるわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "AIが、クラウドから机の上に降りてくるのだね!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。少し先だけど、AIを自分の手元で飼う人が増える、その入口の一台ね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで今朝は4本。自分でネットを触るAI、プレステのディスク終了、SSD高騰、机で動くAIパソコンだったわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "どれも『持ち方・使い方』が変わっていく話だったのだね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いいまとめじゃない。気になったやつは、あとで調べてみてね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "ボクはSSDの値段を見て、そっと財布を閉じるのだ……。",
+      "news_index": 0,
+      "reading": "ボクはえすえすでぃーのネダンヲミテ、そっとサイフヲトジルノダ……。"
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "気持ちは分かるわ。それじゃ、また明日のテック朝便で。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "旅の道ラジオ朝便、ずんだもんがお届けしたのだー! またなのだー!",
+      "news_index": 0
+    }
+  ],
+  "program_description": "旅の道ラジオ朝便、テックニュースの回。今朝は4本立て。1本目はクロードコードに内蔵ブラウザがついて、AIが自分でサイトを開いて読んだりクリックしたりできるようになった話。2本目はソニーがプレステの新作ゲームディスクの生産を2028年1月で終えて、これからの新作はダウンロード版だけになる話。3本目はSSDの値段が数年で何倍にも跳ね上がって、容量が金より高いと言われる高騰ぶり。4本目は手のひらサイズなのにメモリを128ギガ積んで、大きなAIを自分の机の上で丸ごと動かせるモンスターミニPCの話。AIとデジタルが『持ち方・使い方』を作り替えていく空気を、通勤・通学のおともに軽くまとめた回です。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20260713_051339_chars.webp",
+    "hero_rel": "/images/topics/tech_20260713_051339.webp",
+    "title": "賢い相棒が机に降りる朝 〜自分でネットを触るAIと、消える円盤・金より高い容量〜",
+    "companies": [
+      "Claude"
+    ]
+  },
+  "summary_short": "AIが自分でネットを開いてクリックする時代が到来、PSディスクは28年で終幕、SSDは容量が金より高い高騰劇、そして机の上で大型AIを丸ごと動かす手のひらモンスターPCまで、暮らしとAIの\"距離\"がぐっと縮まる4本立て。"
+}
