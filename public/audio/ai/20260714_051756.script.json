@@ -1,0 +1,480 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-07-13T20:17:56.562541+00:00",
+  "title": "消える窓、値上がる机 〜AIが動かす朝のテック四本〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便、テックニュースの回。四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝もテックの話題、軽くつまんでいくのだー!",
+      "news_index": 0,
+      "reading": "ボク、ずんだもんなのだー!けさもテックのわだい、かるくつまんでいくのだー!"
+    },
+    {
+      "speaker": "metan",
+      "tone": "welcome",
+      "text": "通勤・通学のおともに、今のテック業界こんな感じ、って四本立てでね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "四本! 今日はどんなラインナップなのだ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "消えちゃうAIブラウザ、値上がりするスマホ、エヌビディアの新しい相棒、それに九年ぶりのカメラよ。",
+      "news_index": 0,
+      "reading": "きえちゃうAIブラウザ、ネアガリスルスマホ、エヌビディアのあたらしいあいぼう、それにキューネンブリノカメラよ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "うわ、バラバラで楽しそうなのだ! 最後カメラって、テックの回なのに珍しいじゃん!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ふふ、そこもちゃんとAIが絡んでるのよ。じゃ、一本目いきましょ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。オープンエーアイが、自分で出したブラウザ『アトラス』を、もう畳むって発表したの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ぶらうざ? ボクがネット見る、あの窓のやつだっけ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。去年の十月に、鳴り物入りで出したばっかりのやつね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "十月!? まだ一年たってないのに、もう店じまいなのだ!?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "八月九日でおしまい。世に出てから、十ヶ月足らずの命だったの。",
+      "news_index": 1,
+      "reading": "はちがつここのかでおしまい。ヨニデテカラ、じゅうかげつたらずのいのちだったの。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "八ヶ月って、ボクの夏休みの延長戦くらいの感覚なのだ… 短すぎるでしょ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "しかもね、パソコンのマックでしか動かないまま終わったの。ウィンドウズ版もスマホ版も、結局出なかったのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "約束したのに出さずに退場って、それはちょっと寂しいのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "理由はざっくり『寄り道はやめよう』ってこと。あれこれ広げるより、本命のチャットジーピーティーに力を集めるの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "え、じゃあアトラスにあった便利機能は、全部消えちゃうのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ブラウザで作業する機能は、チャットジーピーティーのデスクトップアプリやクローム用の追加機能に生かされるの。ただし、お気に入りは自分で書き出して移す必要があるわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、店は閉めるけど、商品は本店に移すってことなのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。要するに、単独のブラウザを終えて、アトラスで得た知見をチャットジーピーティー本体やクローム側に生かす判断ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "で、これボクたちにどう関係あるのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "アトラス使ってた人は、八月九日までにお気に入りを書き出して逃がしとくこと。使ってない人は、デスクトップアプリやクローム用の追加機能で、似たブラウザ作業を試せるわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "なるほど、引っ越しの荷造りは早めに、なのだね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目。世界のスマホが、今年ドカッと売れなくなる見通しなのよ。",
+      "news_index": 2,
+      "reading": "にほんめ。セカイノスマホが、ことしドカッとウレナクナルミトオシナノヨ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ドカッて、どれくらいなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "調査会社のアイディーシーいわく、去年より約十四%減。台数にして十億九千万台くらい、過去でも一番級の落ち込みなの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "出荷全体が十億九千万台で、そこから去年より一億台以上も減るって、スケールが大きすぎてピンとこないのだ…",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "一番大きな原因はメモリ不足。そこに、アメリカとイランの戦争による原油価格や輸送費の上昇も重なってるの。データを一時的に置いとく、スマホやパソコンの作業机みたいな部品ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "その作業机が、なんで急に足りなくなるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "AIを動かす巨大なサーバー倉庫、データセンターがね、世界で作られる高性能なディーラムの約七割を消費する見通しなの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "七割!? 七割!? スマホやパソコン向けに回るメモリが、かなり圧迫されるってことなのだ!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "そうよ。だから残りの取り合いで値段も上がる。スマホ一台あたりの平均価格が、去年の四百五十ドルから五百五十ドルへ約二十二%上がって、過去最高になる見通しなの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "うわ、AIが賢くなる裏で、ボクのスマホ代が上がってるってことじゃん…",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "察しがいいわね。ただ、アップルとサムスンは部品調達が上手くて、そこまで減ってないの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "大手は踏みとどまって、割を食うのは?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "安い機種ね。値上がりを吸収できないから、低価格帯にしわ寄せがいくの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "つまり、庶民の味方だった安いスマホほど、買い替えがキツくなるってことなのだ…",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "ご名答。今年スマホ買い替えるなら、ちょっとお財布に覚悟がいるわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目は、ちょっとワクワクする話。エヌビディアが、ウィンドウズのパソコン向けに、自分で頭脳チップを作ったの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "待ってたのだ、組み立て系のやつ! エヌビディアって、あのAIの計算チップの会社だっけ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、AIの計算を爆速でやる部品で有名なとこ。その会社が『アールティーエックス・スパーク』って名前のチップを出すのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "へえ。でも計算チップの会社が、パソコンの頭脳まで作るのって、普通のことなのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "それがね、エヌビディアがウィンドウズのパソコン向けにこの手のチップを出すのは、なんと約十三年ぶりなの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "十三年ぶり!? ボクが生まれる前から作ってなかったやつを、急に復活させたのだ!?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "中身がすごくて、計算する頭脳のシーピーユーと、絵やAIが得意なジーピーユーを、一個にまとめてるの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "シーピーユーとジーピーユー? それ、どう違うんだっけ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "ざっくり、シーピーユーが何でも屋の司令塔、ジーピーユーが力仕事と絵が得意な相棒。その二人を一つの箱に同居させたのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "司令塔と力持ちが同居って、最強のシェアハウスみたいなのだ!",
+      "news_index": 3,
+      "reading": "シレイトウトチカラモチガドウキョイッテ、さいきょうのシェアハウスみたいなのだ!"
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "うまいこと言うわね。しかもデータ置き場も、最大百二十八ギガを二人で共有できて、AIの性能もお化け級なの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、これが何に効くのだ? ボクのパソコンが賢くなるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "狙いは『個人用のAIエージェント』が動くパソコン。あなたが寝てる間も、AIが代わりに作業してくれる一台ね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "エージェント、つまり人間の代わりに勝手に働いてくれるAIってやつだっけ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。今年の秋から、いろんなメーカーのパソコンに載って出てくる予定よ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "つまり秋には、AIが住み込みで働くパソコンが、お店に並ぶってことなのだね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ラスト四本目。ぐっと軽く、ソニーが九年ぶりに、あるカメラを出すのよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "カメラ? テックの回なのに、急にカメラなのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "これがね、ちゃんとAIも入ってるの。名前は『アールエックステン・マークファイブ』。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "九年ぶりって、それまで新型が出てなかったのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、前のモデルが二〇一七年。ずっと後継機が待たれてた、高倍率ズームのカメラなの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "こうばいりつ? なんかむずかしい言葉が出てきたのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "遠くのものを、ぐーっと大きく引き寄せて撮れるってこと。このカメラ、光学二十五倍まで寄れるの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "二十五倍!? 運動会でグラウンドの端っこの子も、ドアップで撮れちゃうやつなのだ!?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。しかもAIが被写体を自動で見つけて、ピントを合わせ続けてくれるの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、そこがAIなのだ! 動く子どもや鳥にも、勝手にピントが追いつくってことじゃん!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう。被写体を追う負担が減って、撮る側は構図に集中しやすくなるの。で、お値段は…市場の想定で、だいたい三十六万円ね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "三十六万!? ボクのお小遣いを何年ぶんためても、レンズのフタしか買えないやつなのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "高いわよね。まあ、これ一台で広くも遠くも撮れるから、レンズ何本も買うより、って考えるかたには刺さるの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "つまり、本気で撮りたい人向けの、全部入りカメラってことなのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そういうこと。発売は今月末。気になるかたは、まずお財布と相談ね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "さて、今朝は四本立てでお届けしたわね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "消えるブラウザに、値上がりスマホ、エヌビディアの新チップ、九年ぶりカメラ… 濃かったのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "共通してたのは、AIが業界のあちこちを動かしてる、ってことね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "便利になる裏で、ボクたちのお財布も動いてるのが、よく分かったのだ…",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "ふふ、そこに気づけたら上出来よ。気になったやつがあったら、あとで調べてみてね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "それじゃ、また明日のテック朝便で会おうなのだ! いってらっしゃいなのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四国めたんでした。今日も一日、いってらっしゃい。",
+      "news_index": 0
+    }
+  ],
+  "program_description": "旅の道ラジオ朝便、テックニュースの回。今朝は四本立て。まずオープンエーアイが鳴り物入りで出したブラウザ『アトラス』を、公開からわずか八ヶ月で畳む話。次に、AIのデータセンターがメモリを吸い上げた影響で、今年の世界スマホ出荷が過去最大級に落ち込み、安いスマホほど値上がりするという懐事情。三本目はエヌビディアが約十三年ぶりに投入するウィンドウズ向けの新チップ『アールティーエックス・スパーク』で、AIが住み込みで働くパソコンの話。ラストはソニーが九年ぶりに出す高倍率カメラ『アールエックステン・マークファイブ』を、AIのピント合わせとお値段の両面から。便利の裏でお財布も動く、そんな朝のテック雑談をサクッとまとめた回。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20260714_051756_chars.webp",
+    "hero_rel": "/images/topics/tech_20260714_051756.webp",
+    "title": "消える窓、値上がる机 〜AIが動かす朝のテック四本〜",
+    "companies": [
+      "NVIDIA",
+      "OpenAI",
+      "Apple"
+    ]
+  },
+  "summary_short": "AIが暮らしとお財布を静かに書き換える朝。話題のブラウザが早々に幕を下ろし、スマホは値上がり、パソコンにはAIが住み込みで働き始め、カメラはピント合わせまでAI任せに。便利になるほど出費もかさむ、そんな四本のテック事情をサクッと読み解きます。"
+}

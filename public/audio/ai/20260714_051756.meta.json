@@ -1,0 +1,786 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-07-14T05:17:56+09:00",
+  "title": "消える窓、値上がる机 〜AIが動かす朝のテック四本〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 451.51,
+  "script_hash": "sha256:c1d73bb5acabec9ed5a663473234854e05bde59a2cbe70baf2bb396e2b6c284b",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 4.64
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便、テックニュースの回。四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 4.64,
+      "end_sec": 9.85
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝もテックの話題、軽くつまんでいくのだー!",
+      "news_index": 0,
+      "start_sec": 10.0,
+      "end_sec": 14.8
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "welcome",
+      "text": "通勤・通学のおともに、今のテック業界こんな感じ、って四本立てでね。",
+      "news_index": 0,
+      "start_sec": 14.95,
+      "end_sec": 20.33
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "四本! 今日はどんなラインナップなのだ?",
+      "news_index": 0,
+      "start_sec": 20.48,
+      "end_sec": 23.25
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "消えちゃうAIブラウザ、値上がりするスマホ、エヌビディアの新しい相棒、それに九年ぶりのカメラよ。",
+      "news_index": 0,
+      "start_sec": 23.4,
+      "end_sec": 29.77
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "うわ、バラバラで楽しそうなのだ! 最後カメラって、テックの回なのに珍しいじゃん!",
+      "news_index": 0,
+      "start_sec": 29.92,
+      "end_sec": 35.4
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ふふ、そこもちゃんとAIが絡んでるのよ。じゃ、一本目いきましょ。",
+      "news_index": 0,
+      "start_sec": 35.55,
+      "end_sec": 39.88
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。オープンエーアイが、自分で出したブラウザ『アトラス』を、もう畳むって発表したの。",
+      "news_index": 1,
+      "start_sec": 39.96,
+      "end_sec": 46.17
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ぶらうざ? ボクがネット見る、あの窓のやつだっけ?",
+      "news_index": 1,
+      "start_sec": 46.32,
+      "end_sec": 49.98
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。去年の十月に、鳴り物入りで出したばっかりのやつね。",
+      "news_index": 1,
+      "start_sec": 50.13,
+      "end_sec": 54.05
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "十月!? まだ一年たってないのに、もう店じまいなのだ!?",
+      "news_index": 1,
+      "start_sec": 54.2,
+      "end_sec": 58.42
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "八月九日でおしまい。世に出てから、十ヶ月足らずの命だったの。",
+      "news_index": 1,
+      "start_sec": 58.57,
+      "end_sec": 62.99
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "八ヶ月って、ボクの夏休みの延長戦くらいの感覚なのだ… 短すぎるでしょ。",
+      "news_index": 1,
+      "start_sec": 63.14,
+      "end_sec": 71.08
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "しかもね、パソコンのマックでしか動かないまま終わったの。ウィンドウズ版もスマホ版も、結局出なかったのよ。",
+      "news_index": 1,
+      "start_sec": 71.23,
+      "end_sec": 77.97
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "約束したのに出さずに退場って、それはちょっと寂しいのだ。",
+      "news_index": 1,
+      "start_sec": 78.12,
+      "end_sec": 82.07
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "理由はざっくり『寄り道はやめよう』ってこと。あれこれ広げるより、本命のチャットジーピーティーに力を集めるの。",
+      "news_index": 1,
+      "start_sec": 82.22,
+      "end_sec": 89.32
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "え、じゃあアトラスにあった便利機能は、全部消えちゃうのだ?",
+      "news_index": 1,
+      "start_sec": 89.47,
+      "end_sec": 93.72
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ブラウザで作業する機能は、チャットジーピーティーのデスクトップアプリやクローム用の追加機能に生かされるの。ただし、お気に入りは自分で書き出して移す必要があるわ。",
+      "news_index": 1,
+      "start_sec": 93.87,
+      "end_sec": 102.99
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、店は閉めるけど、商品は本店に移すってことなのだ!",
+      "news_index": 1,
+      "start_sec": 103.14,
+      "end_sec": 107.46
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。要するに、単独のブラウザを終えて、アトラスで得た知見をチャットジーピーティー本体やクローム側に生かす判断ね。",
+      "news_index": 1,
+      "start_sec": 107.61,
+      "end_sec": 115.23
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "で、これボクたちにどう関係あるのだ?",
+      "news_index": 1,
+      "start_sec": 115.38,
+      "end_sec": 118.08
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "アトラス使ってた人は、八月九日までにお気に入りを書き出して逃がしとくこと。使ってない人は、デスクトップアプリやクローム用の追加機能で、似たブラウザ作業を試せるわ。",
+      "news_index": 1,
+      "start_sec": 118.23,
+      "end_sec": 129.11
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "なるほど、引っ越しの荷造りは早めに、なのだね。",
+      "news_index": 1,
+      "start_sec": 129.26,
+      "end_sec": 132.69
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目。世界のスマホが、今年ドカッと売れなくなる見通しなのよ。",
+      "news_index": 2,
+      "start_sec": 132.84,
+      "end_sec": 136.89
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ドカッて、どれくらいなのだ?",
+      "news_index": 2,
+      "start_sec": 137.04,
+      "end_sec": 139.11
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "調査会社のアイディーシーいわく、去年より約十四%減。台数にして十億九千万台くらい、過去でも一番級の落ち込みなの。",
+      "news_index": 2,
+      "start_sec": 139.26,
+      "end_sec": 147.95
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "出荷全体が十億九千万台で、そこから去年より一億台以上も減るって、スケールが大きすぎてピンとこないのだ…",
+      "news_index": 2,
+      "start_sec": 148.1,
+      "end_sec": 155.98
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "一番大きな原因はメモリ不足。そこに、アメリカとイランの戦争による原油価格や輸送費の上昇も重なってるの。データを一時的に置いとく、スマホやパソコンの作業机みたいな部品ね。",
+      "news_index": 2,
+      "start_sec": 156.13,
+      "end_sec": 168.41
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "その作業机が、なんで急に足りなくなるのだ?",
+      "news_index": 2,
+      "start_sec": 168.56,
+      "end_sec": 171.99
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "AIを動かす巨大なサーバー倉庫、データセンターがね、世界で作られる高性能なディーラムの約七割を消費する見通しなの。",
+      "news_index": 2,
+      "start_sec": 172.14,
+      "end_sec": 180.39
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "七割!? 七割!? スマホやパソコン向けに回るメモリが、かなり圧迫されるってことなのだ!?",
+      "news_index": 2,
+      "start_sec": 180.54,
+      "end_sec": 187.29
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "そうよ。だから残りの取り合いで値段も上がる。スマホ一台あたりの平均価格が、去年の四百五十ドルから五百五十ドルへ約二十二%上がって、過去最高になる見通しなの。",
+      "news_index": 2,
+      "start_sec": 187.44,
+      "end_sec": 198.61
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "うわ、AIが賢くなる裏で、ボクのスマホ代が上がってるってことじゃん…",
+      "news_index": 2,
+      "start_sec": 198.76,
+      "end_sec": 203.39
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "察しがいいわね。ただ、アップルとサムスンは部品調達が上手くて、そこまで減ってないの。",
+      "news_index": 2,
+      "start_sec": 203.54,
+      "end_sec": 208.78
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "大手は踏みとどまって、割を食うのは?",
+      "news_index": 2,
+      "start_sec": 208.93,
+      "end_sec": 211.74
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "安い機種ね。値上がりを吸収できないから、低価格帯にしわ寄せがいくの。",
+      "news_index": 2,
+      "start_sec": 211.89,
+      "end_sec": 216.64
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "つまり、庶民の味方だった安いスマホほど、買い替えがキツくなるってことなのだ…",
+      "news_index": 2,
+      "start_sec": 216.79,
+      "end_sec": 224.44
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "ご名答。今年スマホ買い替えるなら、ちょっとお財布に覚悟がいるわ。",
+      "news_index": 2,
+      "start_sec": 224.59,
+      "end_sec": 228.99
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目は、ちょっとワクワクする話。エヌビディアが、ウィンドウズのパソコン向けに、自分で頭脳チップを作ったの。",
+      "news_index": 3,
+      "start_sec": 229.07,
+      "end_sec": 235.99
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "待ってたのだ、組み立て系のやつ! エヌビディアって、あのAIの計算チップの会社だっけ?",
+      "news_index": 3,
+      "start_sec": 236.14,
+      "end_sec": 242.06
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、AIの計算を爆速でやる部品で有名なとこ。その会社が『アールティーエックス・スパーク』って名前のチップを出すのよ。",
+      "news_index": 3,
+      "start_sec": 242.21,
+      "end_sec": 250.61
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "へえ。でも計算チップの会社が、パソコンの頭脳まで作るのって、普通のことなのだ?",
+      "news_index": 3,
+      "start_sec": 250.76,
+      "end_sec": 256.95
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "それがね、エヌビディアがウィンドウズのパソコン向けにこの手のチップを出すのは、なんと約十三年ぶりなの。",
+      "news_index": 3,
+      "start_sec": 257.1,
+      "end_sec": 263.51
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "十三年ぶり!? ボクが生まれる前から作ってなかったやつを、急に復活させたのだ!?",
+      "news_index": 3,
+      "start_sec": 263.66,
+      "end_sec": 269.67
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "中身がすごくて、計算する頭脳のシーピーユーと、絵やAIが得意なジーピーユーを、一個にまとめてるの。",
+      "news_index": 3,
+      "start_sec": 269.82,
+      "end_sec": 276.53
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "シーピーユーとジーピーユー? それ、どう違うんだっけ?",
+      "news_index": 3,
+      "start_sec": 276.68,
+      "end_sec": 280.61
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "ざっくり、シーピーユーが何でも屋の司令塔、ジーピーユーが力仕事と絵が得意な相棒。その二人を一つの箱に同居させたのよ。",
+      "news_index": 3,
+      "start_sec": 280.76,
+      "end_sec": 289.35
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "司令塔と力持ちが同居って、最強のシェアハウスみたいなのだ!",
+      "news_index": 3,
+      "start_sec": 289.5,
+      "end_sec": 294.4
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "うまいこと言うわね。しかもデータ置き場も、最大百二十八ギガを二人で共有できて、AIの性能もお化け級なの。",
+      "news_index": 3,
+      "start_sec": 294.55,
+      "end_sec": 301.77
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、これが何に効くのだ? ボクのパソコンが賢くなるのだ?",
+      "news_index": 3,
+      "start_sec": 301.92,
+      "end_sec": 306.05
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "狙いは『個人用のAIエージェント』が動くパソコン。あなたが寝てる間も、AIが代わりに作業してくれる一台ね。",
+      "news_index": 3,
+      "start_sec": 306.2,
+      "end_sec": 313.63
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "エージェント、つまり人間の代わりに勝手に働いてくれるAIってやつだっけ?",
+      "news_index": 3,
+      "start_sec": 313.78,
+      "end_sec": 319.06
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。今年の秋から、いろんなメーカーのパソコンに載って出てくる予定よ。",
+      "news_index": 3,
+      "start_sec": 319.21,
+      "end_sec": 323.56
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "つまり秋には、AIが住み込みで働くパソコンが、お店に並ぶってことなのだね。",
+      "news_index": 3,
+      "start_sec": 323.71,
+      "end_sec": 329.23
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ラスト四本目。ぐっと軽く、ソニーが九年ぶりに、あるカメラを出すのよ。",
+      "news_index": 4,
+      "start_sec": 329.38,
+      "end_sec": 334.03
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "カメラ? テックの回なのに、急にカメラなのだ?",
+      "news_index": 4,
+      "start_sec": 334.18,
+      "end_sec": 337.71
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "これがね、ちゃんとAIも入ってるの。名前は『アールエックステン・マークファイブ』。",
+      "news_index": 4,
+      "start_sec": 337.86,
+      "end_sec": 342.58
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "九年ぶりって、それまで新型が出てなかったのだ?",
+      "news_index": 4,
+      "start_sec": 342.73,
+      "end_sec": 346.33
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、前のモデルが二〇一七年。ずっと後継機が待たれてた、高倍率ズームのカメラなの。",
+      "news_index": 4,
+      "start_sec": 346.48,
+      "end_sec": 352.5
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "こうばいりつ? なんかむずかしい言葉が出てきたのだ。",
+      "news_index": 4,
+      "start_sec": 352.65,
+      "end_sec": 356.2
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "遠くのものを、ぐーっと大きく引き寄せて撮れるってこと。このカメラ、光学二十五倍まで寄れるの。",
+      "news_index": 4,
+      "start_sec": 356.35,
+      "end_sec": 362.53
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "二十五倍!? 運動会でグラウンドの端っこの子も、ドアップで撮れちゃうやつなのだ!?",
+      "news_index": 4,
+      "start_sec": 362.68,
+      "end_sec": 368.4
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。しかもAIが被写体を自動で見つけて、ピントを合わせ続けてくれるの。",
+      "news_index": 4,
+      "start_sec": 368.55,
+      "end_sec": 373.75
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、そこがAIなのだ! 動く子どもや鳥にも、勝手にピントが追いつくってことじゃん!",
+      "news_index": 4,
+      "start_sec": 373.9,
+      "end_sec": 379.47
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう。被写体を追う負担が減って、撮る側は構図に集中しやすくなるの。で、お値段は…市場の想定で、だいたい三十六万円ね。",
+      "news_index": 4,
+      "start_sec": 379.62,
+      "end_sec": 388.1
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "三十六万!? ボクのお小遣いを何年ぶんためても、レンズのフタしか買えないやつなのだ!",
+      "news_index": 4,
+      "start_sec": 388.25,
+      "end_sec": 394.31
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "高いわよね。まあ、これ一台で広くも遠くも撮れるから、レンズ何本も買うより、って考えるかたには刺さるの。",
+      "news_index": 4,
+      "start_sec": 394.46,
+      "end_sec": 401.48
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "つまり、本気で撮りたい人向けの、全部入りカメラってことなのだ。",
+      "news_index": 4,
+      "start_sec": 401.63,
+      "end_sec": 405.93
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そういうこと。発売は今月末。気になるかたは、まずお財布と相談ね。",
+      "news_index": 4,
+      "start_sec": 406.08,
+      "end_sec": 411.13
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "さて、今朝は四本立てでお届けしたわね。",
+      "news_index": 0,
+      "start_sec": 411.21,
+      "end_sec": 413.95
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "消えるブラウザに、値上がりスマホ、エヌビディアの新チップ、九年ぶりカメラ… 濃かったのだ!",
+      "news_index": 0,
+      "start_sec": 414.1,
+      "end_sec": 420.18
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "共通してたのは、AIが業界のあちこちを動かしてる、ってことね。",
+      "news_index": 0,
+      "start_sec": 420.33,
+      "end_sec": 424.68
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "便利になる裏で、ボクたちのお財布も動いてるのが、よく分かったのだ…",
+      "news_index": 0,
+      "start_sec": 424.83,
+      "end_sec": 429.94
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "ふふ、そこに気づけたら上出来よ。気になったやつがあったら、あとで調べてみてね。",
+      "news_index": 0,
+      "start_sec": 430.09,
+      "end_sec": 435.23
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "それじゃ、また明日のテック朝便で会おうなのだ! いってらっしゃいなのだー!",
+      "news_index": 0,
+      "start_sec": 435.38,
+      "end_sec": 439.88
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四国めたんでした。今日も一日、いってらっしゃい。",
+      "news_index": 0,
+      "start_sec": 440.03,
+      "end_sec": 443.11
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 443.81,
+      "end_sec": 451.51
+    }
+  ],
+  "wall_time_sec": 11.95,
+  "audio_url": "/audio/ai/20260714_051756.mp3?v=1783974936"
+}
