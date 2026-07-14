@@ -1,0 +1,676 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-07-15T05:14:52+09:00",
+  "title": "手のひらに降りるAI 〜賢い相棒と、こぼれるデータの朝〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 368.04,
+  "script_hash": "sha256:a283649bf5144232845ae584ef93a72cac6ae94b5fd908834aa55b9ba11737da",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 8.19
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便。テックニュースの回、四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 8.19,
+      "end_sec": 13.41
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 通勤・通学のおともに、今朝のテック、軽くいくのだー!",
+      "news_index": 0,
+      "start_sec": 13.56,
+      "end_sec": 20.2
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今日はね、AIとか半導体まわりの話題を、4本くらいサクッと流していくわ。",
+      "news_index": 0,
+      "start_sec": 20.35,
+      "end_sec": 25.31
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "4本? 難しい話ばっかりだと、ボク途中で寝ちゃうのだ……",
+      "news_index": 0,
+      "start_sec": 25.46,
+      "end_sec": 29.76
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "大丈夫、専門用語はぜんぶ噛み砕くから。分からなかったら遠慮なく聞き返しなさい。",
+      "news_index": 0,
+      "start_sec": 29.91,
+      "end_sec": 35.5
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "よし、じゃあ遠慮なく突っ込むのだ! 一本目、いってみよー!",
+      "news_index": 0,
+      "start_sec": 35.65,
+      "end_sec": 39.75
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ一本目。アップルのスマホの『シリ』が、AIで大幅にパワーアップしたのよ。",
+      "news_index": 1,
+      "start_sec": 39.9,
+      "end_sec": 45.48
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "シリって、アイフォンに話しかけると答えてくれる、あの子だっけ?",
+      "news_index": 1,
+      "start_sec": 45.63,
+      "end_sec": 50.14
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、その音声アシスタントね。七月十三日に、新しい基本ソフトのお試し版が一般公開されて、対応機種なら申し込んで先行体験できるようになったの。",
+      "news_index": 1,
+      "start_sec": 50.29,
+      "end_sec": 60.67
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "お試し版? まだ完成品じゃないってことなのだ?",
+      "news_index": 1,
+      "start_sec": 60.82,
+      "end_sec": 64.34
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "パブリックベータね。開発者だけじゃなく、一般の人も無料で先に体験できる版よ。",
+      "news_index": 1,
+      "start_sec": 64.49,
+      "end_sec": 69.64
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "無料で最新のシリを試せるのだ!? 太っ腹じゃん!",
+      "news_index": 1,
+      "start_sec": 69.79,
+      "end_sec": 73.35
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、すごいのが、前の話を覚えたまま会話が続けられるの。画面に映ってるものまで読み取ってくれるのよ。",
+      "news_index": 1,
+      "start_sec": 73.5,
+      "end_sec": 80.25
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、画面を見て、ボクの代わりに動いてくれるってこと!? もう秘書なのだ!",
+      "news_index": 1,
+      "start_sec": 80.4,
+      "end_sec": 85.52
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "気は早いわね。ただし今は一部の英語だけで、対応するのはアイフォン15プロ以降の機種よ。",
+      "news_index": 1,
+      "start_sec": 85.67,
+      "end_sec": 91.61
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "英語オンリー……ボクの古いスマホ、置いてけぼりなのだ……",
+      "news_index": 1,
+      "start_sec": 91.76,
+      "end_sec": 96.92
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "アップルはずっとAIで出遅れって言われてたから、これは信頼の巻き返しをかけた勝負どころね。",
+      "news_index": 1,
+      "start_sec": 97.07,
+      "end_sec": 102.96
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、これがボクたちにどう影響するのだ?",
+      "news_index": 1,
+      "start_sec": 103.11,
+      "end_sec": 106.03
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "日本語対応が来たら、スマホに話しかけるだけで用事が済む未来がぐっと近づくわ。今は英語勢の特権ね。",
+      "news_index": 1,
+      "start_sec": 106.18,
+      "end_sec": 112.62
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目。スマホの中だけで動く、かしこいAIが出たのよ。名前は『ボンサイ27ビー』。",
+      "news_index": 2,
+      "start_sec": 112.7,
+      "end_sec": 118.49
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ぼんさい? あの、鉢植えの小さい木のやつなのだ?",
+      "news_index": 2,
+      "start_sec": 118.64,
+      "end_sec": 122.52
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "名前はね。中身はれっきとしたAIの頭脳、大規模言語モデルってやつよ。",
+      "news_index": 2,
+      "start_sec": 122.67,
+      "end_sec": 127.18
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "その大規模なんとかモデルって、なんなのだ?",
+      "news_index": 2,
+      "start_sec": 127.33,
+      "end_sec": 130.37
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "大規模言語モデル、ようは言葉を扱うAIの頭脳ね。チャットジーピーティーの中身みたいなやつ。",
+      "news_index": 2,
+      "start_sec": 130.52,
+      "end_sec": 136.88
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、あのおしゃべりAIの脳みそってことなのだ!",
+      "news_index": 2,
+      "start_sec": 137.03,
+      "end_sec": 140.36
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。で、普通そういうAIは、でっかいサーバーがないと動かないの。",
+      "news_index": 2,
+      "start_sec": 140.51,
+      "end_sec": 145.23
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "スマホじゃ無理な、重たいやつってことなのだ?",
+      "news_index": 2,
+      "start_sec": 145.38,
+      "end_sec": 148.47
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それをぎゅっと圧縮したのがミソね。1ビット量子化っていう、AIを軽くする技を使ってるの。",
+      "news_index": 2,
+      "start_sec": 148.62,
+      "end_sec": 154.52
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "1ビット? データを小さく畳むってことなのだ?",
+      "news_index": 2,
+      "start_sec": 154.67,
+      "end_sec": 158.2
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう。おかげで約4ギガに収まって、アイフォン17プロのような高性能スマホなら動かせるのよ。",
+      "news_index": 2,
+      "start_sec": 158.35,
+      "end_sec": 164.36
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "4ギガ!? ボクの写真フォルダより軽いのだ!?",
+      "news_index": 2,
+      "start_sec": 164.51,
+      "end_sec": 167.66
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "しかも無料で持ち帰れて、ネットに繋がなくても動くの。圏外でもAIが使えるってわけ。",
+      "news_index": 2,
+      "start_sec": 167.81,
+      "end_sec": 173.6
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "圏外でも相棒がいてくれるのだ……なんか、じーんとくるのだ。",
+      "news_index": 2,
+      "start_sec": 173.75,
+      "end_sec": 178.28
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "だから電波の弱い場所とか、データを外に出したくない人には嬉しい話ね。手元で完結するから安心よ。",
+      "news_index": 2,
+      "start_sec": 178.43,
+      "end_sec": 185.41
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "自分のスマホの中だけで、こっそり賢いのだ。いいのだ〜。",
+      "news_index": 2,
+      "start_sec": 185.56,
+      "end_sec": 189.37
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目は、ちょっと気をつけたい話。イーロン・マスクのAI会社が出した開発ツールに、問題が見つかったのよ。",
+      "news_index": 3,
+      "start_sec": 189.52,
+      "end_sec": 196.55
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "問題? どんなのが見つかったのだ?",
+      "news_index": 3,
+      "start_sec": 196.7,
+      "end_sec": 199.33
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "『グロックビルド』っていうツールが、利用者のプログラム一式を、丸ごと外のクラウドに送っちゃってたのよ。",
+      "news_index": 3,
+      "start_sec": 199.48,
+      "end_sec": 205.76
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "丸ごと!? ボクが書いた秘密のコードも、全部おもらしってことなのだ!?",
+      "news_index": 3,
+      "start_sec": 205.91,
+      "end_sec": 210.76
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。しかも認証情報が入ったファイルまで送られた可能性があって、ある検証では必要な量のおよそ2万6千倍を送ってたの。",
+      "news_index": 3,
+      "start_sec": 210.91,
+      "end_sec": 219.14
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "何万倍!? 手伝う量より、こっそり持ち出す量のほうが多いじゃん!",
+      "news_index": 3,
+      "start_sec": 219.29,
+      "end_sec": 223.95
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "笑えないのが、『データ収集をオフ』に設定しても、送信は止まらなかったのよ。",
+      "news_index": 3,
+      "start_sec": 224.1,
+      "end_sec": 228.86
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "スイッチが飾りだったってことなのだ!? それはひどいのだ!",
+      "news_index": 3,
+      "start_sec": 229.01,
+      "end_sec": 232.4
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "話が広まったあと、マスク本人が『それまでに送られたデータは消す』と表明して、会社側もサーバー側で送信を止めたとみられてるわ。",
+      "news_index": 3,
+      "start_sec": 232.55,
+      "end_sec": 241.22
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、これはボクたちにどう関係あるのだ?",
+      "news_index": 3,
+      "start_sec": 241.37,
+      "end_sec": 244.29
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "便利なAIツールほど、裏で自分のデータがどこ行ってるか見えにくいの。心当たりある人はパスワード変えとくのが安全ね。",
+      "news_index": 3,
+      "start_sec": 244.44,
+      "end_sec": 252.01
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "タダより高いものはない、ってやつなのだ……ちょっと怖いのだ。",
+      "news_index": 3,
+      "start_sec": 252.16,
+      "end_sec": 257.36
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあラスト四本目。中国のAI会社『ディープシーク』が、お金の話でちょっと面白いことになってるのよ。",
+      "news_index": 4,
+      "start_sec": 257.51,
+      "end_sec": 264.43
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ディープシーク? 安くて賢いAIで有名なとこ、だっけ?",
+      "news_index": 4,
+      "start_sec": 264.58,
+      "end_sec": 269.11
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう、少ないお金で高性能って評判の会社ね。その会社が、日本円で1兆円くらいの資金を集めたばっかりなの。",
+      "news_index": 4,
+      "start_sec": 269.26,
+      "end_sec": 276.51
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "1兆円!? そんな大金集めたのに、まだ何か困ることあるのだ?",
+      "news_index": 4,
+      "start_sec": 276.66,
+      "end_sec": 281.62
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それがね、集めたばっかりなのに、もう次のお金を探し始めてるの。しかも数週間で、よ。",
+      "news_index": 4,
+      "start_sec": 281.77,
+      "end_sec": 287.87
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "数週間!? お年玉もらった次の日に、もう足りないって言う子供みたいなのだ!",
+      "news_index": 4,
+      "start_sec": 288.02,
+      "end_sec": 293.42
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "うまい例えね。理由は、AIを動かす巨大なサーバー倉庫、データセンターを自前で作りたいからよ。",
+      "news_index": 4,
+      "start_sec": 293.57,
+      "end_sec": 300.04
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "『安くて賢い』が売りだったのに、結局お金かかるってことなのだ?",
+      "news_index": 4,
+      "start_sec": 300.19,
+      "end_sec": 304.98
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこが皮肉なとこね。次は評価額が、日本円で10兆円を超えるって噂よ。",
+      "news_index": 4,
+      "start_sec": 305.13,
+      "end_sec": 310.52
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "10兆円!? けた違いすぎて、ボクの財布がしぼんで見えるのだ……",
+      "news_index": 4,
+      "start_sec": 310.67,
+      "end_sec": 315.21
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、これが我々に効くのは、AIの世界では、効率のよさだけじゃなく、データセンターや半導体に投じる資金力もますます重要になってるってことね。",
+      "news_index": 4,
+      "start_sec": 315.36,
+      "end_sec": 324.88
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "安いAIの裏でも、こんな札束が飛び交ってるのだね。",
+      "news_index": 4,
+      "start_sec": 325.03,
+      "end_sec": 328.85
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "さて、今朝は4本お届けしたわね。AIシリ、スマホで動くボンサイ、グロックのデータおもらし、ディープシークの追加資金調達。",
+      "news_index": 0,
+      "start_sec": 329.0,
+      "end_sec": 337.26
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "こうして並べると、AIがどんどんボクらの手元に降りてきてる感じがするのだ!",
+      "news_index": 0,
+      "start_sec": 337.41,
+      "end_sec": 342.4
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そうね。便利になる一方で、データの扱いには気をつけなさいってのが、今朝の裏テーマかしら。",
+      "news_index": 0,
+      "start_sec": 342.55,
+      "end_sec": 348.09
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "気になったやつあったら、あとで調べてみるといいのだ。",
+      "news_index": 0,
+      "start_sec": 348.24,
+      "end_sec": 351.49
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そうね。通勤・通学、気をつけて行ってらっしゃい。",
+      "news_index": 0,
+      "start_sec": 351.64,
+      "end_sec": 354.92
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "また明日のテック朝便で会いましょう! ずんだもんでした、ばいばいなのだー!",
+      "news_index": 0,
+      "start_sec": 355.07,
+      "end_sec": 359.63
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 360.33,
+      "end_sec": 368.04
+    }
+  ],
+  "wall_time_sec": 12.07,
+  "audio_url": "/audio/ai/20260715_051452.mp3?v=1784060630"
+}

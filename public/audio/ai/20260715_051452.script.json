@@ -1,0 +1,414 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-07-14T20:14:52.515847+00:00",
+  "title": "手のひらに降りるAI 〜賢い相棒と、こぼれるデータの朝〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便。テックニュースの回、四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 通勤・通学のおともに、今朝のテック、軽くいくのだー!",
+      "news_index": 0,
+      "reading": "ボク、ずんだもんなのだー!ツウキン・つうきん・つうがくのおともに、けさのテック、かるくいくのだー!"
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今日はね、AIとか半導体まわりの話題を、4本くらいサクッと流していくわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "4本? 難しい話ばっかりだと、ボク途中で寝ちゃうのだ……",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "大丈夫、専門用語はぜんぶ噛み砕くから。分からなかったら遠慮なく聞き返しなさい。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "よし、じゃあ遠慮なく突っ込むのだ! 一本目、いってみよー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ一本目。アップルのスマホの『シリ』が、AIで大幅にパワーアップしたのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "シリって、アイフォンに話しかけると答えてくれる、あの子だっけ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、その音声アシスタントね。七月十三日に、新しい基本ソフトのお試し版が一般公開されて、対応機種なら申し込んで先行体験できるようになったの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "お試し版? まだ完成品じゃないってことなのだ?",
+      "news_index": 1,
+      "reading": "おタメシバン?まだかんせいひんじゃないってことなのだ?"
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "パブリックベータね。開発者だけじゃなく、一般の人も無料で先に体験できる版よ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "無料で最新のシリを試せるのだ!? 太っ腹じゃん!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、すごいのが、前の話を覚えたまま会話が続けられるの。画面に映ってるものまで読み取ってくれるのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、画面を見て、ボクの代わりに動いてくれるってこと!? もう秘書なのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "気は早いわね。ただし今は一部の英語だけで、対応するのはアイフォン15プロ以降の機種よ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "英語オンリー……ボクの古いスマホ、置いてけぼりなのだ……",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "アップルはずっとAIで出遅れって言われてたから、これは信頼の巻き返しをかけた勝負どころね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、これがボクたちにどう影響するのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "日本語対応が来たら、スマホに話しかけるだけで用事が済む未来がぐっと近づくわ。今は英語勢の特権ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目。スマホの中だけで動く、かしこいAIが出たのよ。名前は『ボンサイ27ビー』。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ぼんさい? あの、鉢植えの小さい木のやつなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "名前はね。中身はれっきとしたAIの頭脳、大規模言語モデルってやつよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "その大規模なんとかモデルって、なんなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "大規模言語モデル、ようは言葉を扱うAIの頭脳ね。チャットジーピーティーの中身みたいなやつ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、あのおしゃべりAIの脳みそってことなのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。で、普通そういうAIは、でっかいサーバーがないと動かないの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "スマホじゃ無理な、重たいやつってことなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それをぎゅっと圧縮したのがミソね。1ビット量子化っていう、AIを軽くする技を使ってるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "1ビット? データを小さく畳むってことなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう。おかげで約4ギガに収まって、アイフォン17プロのような高性能スマホなら動かせるのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "4ギガ!? ボクの写真フォルダより軽いのだ!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "しかも無料で持ち帰れて、ネットに繋がなくても動くの。圏外でもAIが使えるってわけ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "圏外でも相棒がいてくれるのだ……なんか、じーんとくるのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "だから電波の弱い場所とか、データを外に出したくない人には嬉しい話ね。手元で完結するから安心よ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "自分のスマホの中だけで、こっそり賢いのだ。いいのだ〜。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目は、ちょっと気をつけたい話。イーロン・マスクのAI会社が出した開発ツールに、問題が見つかったのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "問題? どんなのが見つかったのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "『グロックビルド』っていうツールが、利用者のプログラム一式を、丸ごと外のクラウドに送っちゃってたのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "丸ごと!? ボクが書いた秘密のコードも、全部おもらしってことなのだ!?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。しかも認証情報が入ったファイルまで送られた可能性があって、ある検証では必要な量のおよそ2万6千倍を送ってたの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "何万倍!? 手伝う量より、こっそり持ち出す量のほうが多いじゃん!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "笑えないのが、『データ収集をオフ』に設定しても、送信は止まらなかったのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "スイッチが飾りだったってことなのだ!? それはひどいのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "話が広まったあと、マスク本人が『それまでに送られたデータは消す』と表明して、会社側もサーバー側で送信を止めたとみられてるわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、これはボクたちにどう関係あるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "便利なAIツールほど、裏で自分のデータがどこ行ってるか見えにくいの。心当たりある人はパスワード変えとくのが安全ね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "タダより高いものはない、ってやつなのだ……ちょっと怖いのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあラスト四本目。中国のAI会社『ディープシーク』が、お金の話でちょっと面白いことになってるのよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ディープシーク? 安くて賢いAIで有名なとこ、だっけ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう、少ないお金で高性能って評判の会社ね。その会社が、日本円で1兆円くらいの資金を集めたばっかりなの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "1兆円!? そんな大金集めたのに、まだ何か困ることあるのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それがね、集めたばっかりなのに、もう次のお金を探し始めてるの。しかも数週間で、よ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "数週間!? お年玉もらった次の日に、もう足りないって言う子供みたいなのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "うまい例えね。理由は、AIを動かす巨大なサーバー倉庫、データセンターを自前で作りたいからよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "『安くて賢い』が売りだったのに、結局お金かかるってことなのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこが皮肉なとこね。次は評価額が、日本円で10兆円を超えるって噂よ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "10兆円!? けた違いすぎて、ボクの財布がしぼんで見えるのだ……",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、これが我々に効くのは、AIの世界では、効率のよさだけじゃなく、データセンターや半導体に投じる資金力もますます重要になってるってことね。",
+      "news_index": 4,
+      "reading": "で、これがワレワレニキクノワ、えーあいのせかいでは、こうりつのよさだけじゃなく、データセンターやハンドウタイニトウジルシキンリョクモマスマスジュウヨウニナッテルッテコトネ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "安いAIの裏でも、こんな札束が飛び交ってるのだね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "さて、今朝は4本お届けしたわね。AIシリ、スマホで動くボンサイ、グロックのデータおもらし、ディープシークの追加資金調達。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "こうして並べると、AIがどんどんボクらの手元に降りてきてる感じがするのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そうね。便利になる一方で、データの扱いには気をつけなさいってのが、今朝の裏テーマかしら。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "気になったやつあったら、あとで調べてみるといいのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そうね。通勤・通学、気をつけて行ってらっしゃい。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "また明日のテック朝便で会いましょう! ずんだもんでした、ばいばいなのだー!",
+      "news_index": 0,
+      "reading": "またあしたのてっくあさびんであいましょう!ずんだもんでした、ばいばいなのだー!"
+    }
+  ],
+  "program_description": "今朝のテック朝便は4本立て。まずは、アップルのシリがAIで大幅にパワーアップして、新しい基本ソフトのお試し版で誰でも先に試せるようになった話。次に、スマホの中だけで動くかしこいAI『ボンサイ27ビー』が無料で公開され、圏外でも使えるようになった話。三本目は、イーロン・マスクのAI会社の開発ツールが、利用者のプログラム一式を勝手にクラウドへ送っていた問題。ラストは、中国のディープシークが1兆円集めた直後にもう次の資金集めに動いている、AI業界の体力勝負ぶり。便利さと、データの扱い。そのせめぎ合いを軽く流した回です。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20260715_051452_chars.webp",
+    "hero_rel": "/images/topics/tech_20260715_051452.webp",
+    "title": "手のひらに降りるAI 〜賢い相棒と、こぼれるデータの朝〜",
+    "companies": [
+      "DeepSeek",
+      "X",
+      "Apple",
+      "OpenAI"
+    ]
+  },
+  "summary_short": "スマホもクラウドも「勝手に動く」時代の朝便。シリが賢くなり、オフラインAIも無料で使えるようになった一方、マスク社のツールはコードを黙って送信、ディープシークは資金調達を止めない。便利の裏で進むデータの綱引きを、さらりと4本まとめてお届け。"
+}
