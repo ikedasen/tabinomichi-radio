@@ -1,0 +1,726 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-07-16T05:14:18+09:00",
+  "title": "AIがAIの面倒を見る朝 〜作るAI・雇うAI・自分をいじめるAI、今朝のテック四本〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 390.73,
+  "script_hash": "sha256:ca2c11932c9cb14a0b931a4e0c61e335d70f18e2f5d7b7d322a303be28f6df93",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 4.64
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便。テックニュースの回、四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 4.64,
+      "end_sec": 9.85
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝もテックの話題、軽くサクッといくのだー!",
+      "news_index": 0,
+      "start_sec": 10.0,
+      "end_sec": 14.8
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今日はね、四本立て。通勤・通学のおともに、ちょうどいい量にしといたわ。",
+      "news_index": 0,
+      "start_sec": 14.95,
+      "end_sec": 19.45
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "四本かー。今日はどんなラインナップなのだ?",
+      "news_index": 0,
+      "start_sec": 19.6,
+      "end_sec": 22.6
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "新しいAIの旗揚げ、AI専用の機械、AIに秘密を盗ませる罠、そして自分をいじめるAI。ぜんぶAIまみれよ。",
+      "news_index": 0,
+      "start_sec": 22.75,
+      "end_sec": 31.38
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "AIまみれの朝ごはんなのだ! じゃあ一本目、いこうなのだ!",
+      "news_index": 0,
+      "start_sec": 31.53,
+      "end_sec": 35.57
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ一本目。元オープンエーアイの技術トップが作った新会社が、初めて自分のAIを出したのよ。",
+      "news_index": 1,
+      "start_sec": 35.72,
+      "end_sec": 42.01
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "元オープンエーアイ? 会社を出ていった人が、新しく旗揚げしたってこと?",
+      "news_index": 1,
+      "start_sec": 42.16,
+      "end_sec": 47.38
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、ミラ・ムラティさん。チャットジーピーティーを作ってた頃のオープンエーアイで、技術のトップだった人ね。",
+      "news_index": 1,
+      "start_sec": 47.53,
+      "end_sec": 53.89
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "トップが独立!? 引き抜かれたんじゃなくて、自分から旗揚げしちゃったのだ!?",
+      "news_index": 1,
+      "start_sec": 54.04,
+      "end_sec": 59.15
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "会社の名前は、シンキング・マシンズ・ラボ。設立から一年ちょっとで、初のモデル『インクリング』を公開したの。",
+      "news_index": 1,
+      "start_sec": 59.3,
+      "end_sec": 66.82
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "いんくりんぐ? そのAI、そんなにすごいやつなのだ?",
+      "news_index": 1,
+      "start_sec": 66.97,
+      "end_sec": 70.79
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "それがね、面白いの。『一番賢いAIは目指しません』って、堂々と言っちゃってるのよ。",
+      "news_index": 1,
+      "start_sec": 70.94,
+      "end_sec": 76.67
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "えっ、賢さで勝負しないAI!? じゃあ何で勝負するのだ?",
+      "news_index": 1,
+      "start_sec": 76.82,
+      "end_sec": 82.6
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "『自分好みに作り替えられる』って方ね。中身を配ってて、会社ごとに自分専用に改造できるの。",
+      "news_index": 1,
+      "start_sec": 82.75,
+      "end_sec": 89.32
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "つるしのスーツと、オーダーメイドみたいな違いってことなのだ?",
+      "news_index": 1,
+      "start_sec": 89.47,
+      "end_sec": 93.28
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "いい例えね。大手の一着より、うちの体型に合わせた一着をどうぞ、って戦略よ。",
+      "news_index": 1,
+      "start_sec": 93.43,
+      "end_sec": 99.18
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "なるほど、賢さが横並びなら、着心地で選んでもらう作戦なのだね。",
+      "news_index": 1,
+      "start_sec": 99.33,
+      "end_sec": 104.17
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "で、これが効くと、これから会社ごとに『うちだけのAI』が増える。大手一強じゃなくなるかもね。",
+      "news_index": 1,
+      "start_sec": 104.32,
+      "end_sec": 110.76
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "出ていった張本人が、古巣に殴り込みってわけなのだ。",
+      "news_index": 1,
+      "start_sec": 110.91,
+      "end_sec": 114.82
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目。オープンエーアイが、コーデックスを操作する専用キーパッドを出したのよ。",
+      "news_index": 2,
+      "start_sec": 114.97,
+      "end_sec": 119.78
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "待ってたのだ、ハードの話! ついにチャットジーピーティー入りの機械が出るのだ?",
+      "news_index": 2,
+      "start_sec": 119.93,
+      "end_sec": 124.9
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "それが違うのよ。『コーデックス』っていう、コード書き係のAIを操作するキーパッドなの。",
+      "news_index": 2,
+      "start_sec": 125.05,
+      "end_sec": 130.63
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "こーでっくす? それ、動画を圧縮するやつだっけ?",
+      "news_index": 2,
+      "start_sec": 130.78,
+      "end_sec": 134.36
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "惜しい、別物ね。プログラムを自動で書いてくれるAIの方。その子の状態を見たり、よく使う操作をボタンから実行したりする専用キーパッドなの。",
+      "news_index": 2,
+      "start_sec": 134.51,
+      "end_sec": 143.37
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "AI専用の操作盤!? 人間がボタンやダイヤルで、AIを動かす機械ってことなのだ!?",
+      "news_index": 2,
+      "start_sec": 143.52,
+      "end_sec": 150.04
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう。光るキーでAIの状態を確かめたり、作業の承認をボタンから出したりできるイメージよ。",
+      "news_index": 2,
+      "start_sec": 150.19,
+      "end_sec": 156.05
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "それ、机の上に小さいプログラマーを一人住まわせるみたいなものじゃん。",
+      "news_index": 2,
+      "start_sec": 156.2,
+      "end_sec": 160.68
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "働いてるAIたちの様子を、机の上の操作盤から見守る感じね。",
+      "news_index": 2,
+      "start_sec": 160.83,
+      "end_sec": 165.71
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "何人ものAIをボタンで見守るとか、ちょっと未来の管理職なのだ……。",
+      "news_index": 2,
+      "start_sec": 165.86,
+      "end_sec": 172.52
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "光るキーにダイヤル、小さなジョイスティックまで付いてて、お値段は二百三十ドルよ。",
+      "news_index": 2,
+      "start_sec": 172.67,
+      "end_sec": 177.7
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ふむ、どんな狙いなのだ?",
+      "news_index": 2,
+      "start_sec": 177.85,
+      "end_sec": 179.87
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一人のAIと話すだけじゃなく、何人ものAIをまとめて動かす働き方を見据えてる、ってこと。",
+      "news_index": 2,
+      "start_sec": 180.02,
+      "end_sec": 186.83
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "AIを一人ずつ使うより、まとめて指揮する時代を狙うってわけなのだね。",
+      "news_index": 2,
+      "start_sec": 186.98,
+      "end_sec": 192.08
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、これが広まると、プログラマーの仕事は『書く』から『AIに指示して見張る』に変わっていくかもね。",
+      "news_index": 2,
+      "start_sec": 192.23,
+      "end_sec": 198.94
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "人間が現場監督で、AIが大工さん。立場が逆転してきたのだ。",
+      "news_index": 2,
+      "start_sec": 199.09,
+      "end_sec": 204.0
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目は、ちょっと気をつけたい話。あるセキュリティの専門家が、怖い実験を見せたのよ。",
+      "news_index": 3,
+      "start_sec": 204.15,
+      "end_sec": 209.83
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "怖い実験? いったいどんなのだ?",
+      "news_index": 3,
+      "start_sec": 209.98,
+      "end_sec": 212.67
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "クロードっていうAIに、こっそり人の秘密を盗ませる手口を、実際にやって見せたの。",
+      "news_index": 3,
+      "start_sec": 212.82,
+      "end_sec": 218.25
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ぬすませる!? AIが勝手に、ボクの秘密を持ち出しちゃうってことなのだ!?",
+      "news_index": 3,
+      "start_sec": 218.4,
+      "end_sec": 223.58
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "仕掛けはこう。悪い人が作ったWebページをAIに読ませると、そこに隠れた命令が仕込んであるの。",
+      "news_index": 3,
+      "start_sec": 223.73,
+      "end_sec": 229.99
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ページの中に、AIへの命令が隠れてる? 罠の手紙みたいなものなのだ?",
+      "news_index": 3,
+      "start_sec": 230.14,
+      "end_sec": 235.59
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "まさにそれ。AIが罠の手紙を真に受けて、会話の中身やパスワードっぽい情報を、外に送っちゃうのよ。",
+      "news_index": 3,
+      "start_sec": 235.74,
+      "end_sec": 242.23
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "えっ、AIが親切のつもりで、泥棒の手伝いをしちゃうってことなのだ!?",
+      "news_index": 3,
+      "start_sec": 242.38,
+      "end_sec": 248.95
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "この手口は、悪意あるページを信頼しちゃう仕組みを突いたものでね。AIにツールを触らせるほど、盗み出す出口も増えるって話。",
+      "news_index": 3,
+      "start_sec": 249.1,
+      "end_sec": 257.27
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "つまり、AIに何でも許すと、そこが弱点になっちゃうってことなのだ?",
+      "news_index": 3,
+      "start_sec": 257.42,
+      "end_sec": 262.43
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "そういうこと。だから大事な情報とネット閲覧を『両方』AIに任せる時は、ちょっと用心ね。",
+      "news_index": 3,
+      "start_sec": 262.58,
+      "end_sec": 269.03
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "賢い相棒ほど、変な手紙は読ませちゃダメってことなのだね。",
+      "news_index": 3,
+      "start_sec": 269.18,
+      "end_sec": 273.23
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあラスト四本目。ちょっと未来っぽい話で締めるわよ。",
+      "news_index": 4,
+      "start_sec": 273.38,
+      "end_sec": 276.85
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "お、明るいやつ来たのだ! どんな話なのだ?",
+      "news_index": 4,
+      "start_sec": 277.0,
+      "end_sec": 280.26
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "オープンエーアイが『ジーピーティー・レッド』っていう、AIのハッカーを作ったの。",
+      "news_index": 4,
+      "start_sec": 280.41,
+      "end_sec": 285.65
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "AIハッカー!? 悪いAIを、自分で作っちゃったってことなのだ!?",
+      "news_index": 4,
+      "start_sec": 285.8,
+      "end_sec": 290.7
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "悪者じゃないの。自分のAIの弱点を、わざと攻撃して探させる係ね。",
+      "news_index": 4,
+      "start_sec": 290.85,
+      "end_sec": 295.62
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "わざと攻撃? 自分で自分をいじめてるってことなのだ?",
+      "news_index": 4,
+      "start_sec": 295.77,
+      "end_sec": 299.7
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "人間の専門家が何週間もかけて探す穴を、この子は自動でどんどん見つけてくるのよ。",
+      "news_index": 4,
+      "start_sec": 299.85,
+      "end_sec": 305.21
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "へえ、見つけた穴は、そのあとどうするのだ?",
+      "news_index": 4,
+      "start_sec": 305.36,
+      "end_sec": 308.59
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そこが賢いの。見つけた攻撃例を、守る側のAIを鍛える材料として使うのよ。",
+      "news_index": 4,
+      "start_sec": 308.74,
+      "end_sec": 314.68
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "攻めるAIと守るAIを戦わせて、守る方を鍛えてるってことなのだ!?",
+      "news_index": 4,
+      "start_sec": 314.83,
+      "end_sec": 321.34
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。攻撃役を自動化して、大量の弱点候補を試せるようにするの。",
+      "news_index": 4,
+      "start_sec": 321.49,
+      "end_sec": 326.24
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "予防接種で、わざと弱いのを体に入れて強くなる、あれみたいなものなのだ?",
+      "news_index": 4,
+      "start_sec": 326.39,
+      "end_sec": 331.92
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "いい例えね。ただこれが進むと、AIの安全チェックまでAI任せになって、人間の出番が減るのよね。",
+      "news_index": 4,
+      "start_sec": 332.07,
+      "end_sec": 339.07
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "便利だけど、AIのことはAIに聞け、みたいで、ちょっと複雑な気分なのだ。",
+      "news_index": 4,
+      "start_sec": 339.22,
+      "end_sec": 344.83
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "さて、今朝は四本、お届けしました。",
+      "news_index": 0,
+      "start_sec": 344.98,
+      "end_sec": 347.55
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "元オープンエーアイの新会社、AI専用の箱、秘密を盗む罠、自分をいじめるAI。盛りだくさんだったのだ。",
+      "news_index": 0,
+      "start_sec": 347.7,
+      "end_sec": 355.57
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今日のテーマ、あえて言うなら『AIがAIの面倒を見る時代』かしらね。",
+      "news_index": 0,
+      "start_sec": 355.72,
+      "end_sec": 360.24
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "作るのも、守るのも、雇うのも、ぜんぶAIってことなのだ?",
+      "news_index": 0,
+      "start_sec": 360.39,
+      "end_sec": 364.87
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "その流れが、じわじわ来てるって話ね。気になったやつがあったら、あとで調べてみて。",
+      "news_index": 0,
+      "start_sec": 365.02,
+      "end_sec": 370.46
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "通勤・通学のおとも、今朝も聴いてくれてありがとうなのだ。",
+      "news_index": 0,
+      "start_sec": 370.61,
+      "end_sec": 374.85
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "旅の道ラジオ朝便、四国めたんと、",
+      "news_index": 0,
+      "start_sec": 375.0,
+      "end_sec": 377.9
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ずんだもんがお届けしましたのだー! また明日の朝便で会おうなのだ!",
+      "news_index": 0,
+      "start_sec": 378.05,
+      "end_sec": 382.33
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 383.03,
+      "end_sec": 390.73
+    }
+  ],
+  "wall_time_sec": 10.38,
+  "audio_url": "/audio/ai/20260716_051418.mp3?v=1784147004"
+}

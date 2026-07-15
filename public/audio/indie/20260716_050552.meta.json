@@ -1,0 +1,646 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-07-16T05:05:52+09:00",
+  "title": "紙とペンの迷宮 〜出口を知らないホテルへ〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 375.24,
+  "script_hash": "sha256:cb4e0f14a62df59a8e9eccd43eda0bfa5284112765d46503fa7b3dc2bee793b7",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 4.69
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "はい、旅の道ラジオ。お送りするのはめたんよ。今回は評判がすっかり固まった名作を一本だけ深掘りする回。",
+      "news_index": 0,
+      "start_sec": 4.69,
+      "end_sec": 12.07
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ずんだもん登場なのだー！リスナーのみなさん、今回のお題はなんなのだ？",
+      "news_index": 0,
+      "start_sec": 12.22,
+      "end_sec": 17.04
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "2024年に出た『ローレライ・アンド・ザ・レーザーアイズ』っていう、パズルアドベンチャーよ。",
+      "news_index": 0,
+      "start_sec": 17.19,
+      "end_sec": 22.71
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "レーザーアイズ!? 目からビーム出して敵をなぎ倒すヒーローものなのだ!?",
+      "news_index": 1,
+      "start_sec": 22.86,
+      "end_sec": 27.88
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "なぎ倒さないわよ。レーザーは一発も出なくて、中身は紙とペンでメモ取りながら解く謎解きゲームなの。",
+      "news_index": 1,
+      "start_sec": 28.03,
+      "end_sec": 34.32
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "ゲームなのにメモ取るのだ!? それもう夏休みの宿題なのだー。",
+      "news_index": 1,
+      "start_sec": 34.47,
+      "end_sec": 39.73
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "宿題と違って、自分から沼にハマりに行くのよ。爽快アクションの真逆、鉛筆なめなめ系の頭脳ゲームね。",
+      "news_index": 1,
+      "start_sec": 39.88,
+      "end_sec": 46.77
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "なるほど、レーザーアイズって名前で殴っといて、中身は鉛筆なのだね。完全に看板詐欺なのだ。",
+      "news_index": 1,
+      "start_sec": 46.92,
+      "end_sec": 53.43
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "詐欺じゃなくて、ギャップで掴むタイトルなの。舞台は中欧の古いホテルで、目が覚めたら自分が誰かも分からない。",
+      "news_index": 1,
+      "start_sec": 53.58,
+      "end_sec": 60.36
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "自分が誰か分からないのだ!? じゃあ受付の宿帳に堂々と『ずんだもん参上』って書いとくのだ！",
+      "news_index": 1,
+      "start_sec": 60.51,
+      "end_sec": 67.77
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "名前も思い出せないのに、なんでずんだもんだけ確信あるのよ。",
+      "news_index": 1,
+      "start_sec": 67.92,
+      "end_sec": 71.64
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "あ、それもそうなのだ。記憶ないのに署名できる方がホラーなのだ。",
+      "news_index": 1,
+      "start_sec": 71.79,
+      "end_sec": 76.16
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。要するに、自分探しと謎解きが丸ごと絡んだ一本ってわけ。",
+      "news_index": 1,
+      "start_sec": 76.31,
+      "end_sec": 81.21
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "でね、そのホテルが丸ごと一個の巨大なパズル箱になってて、部屋を回って手がかりを集める非線形の構造なの。",
+      "news_index": 1,
+      "start_sec": 81.29,
+      "end_sec": 88.14
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "非線形? それ、まっすぐ進まずにくねくね歩けってことなのだ?",
+      "news_index": 1,
+      "start_sec": 88.29,
+      "end_sec": 92.72
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "歩き方じゃなくて、解く順番が決まってないってこと。好きな謎から手を付けて、解けたらまた新しい謎が顔を出すの。",
+      "news_index": 1,
+      "start_sec": 92.87,
+      "end_sec": 99.8
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあバイキングの謎解き版なのだね。好きな皿から取って、食べたら次の皿が出てくるのだ。",
+      "news_index": 1,
+      "start_sec": 99.95,
+      "end_sec": 105.73
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "その例え、案外いい線いってるわね。皿が無限に湧くのがちょっと地獄だけど。",
+      "news_index": 1,
+      "start_sec": 105.88,
+      "end_sec": 111.01
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "hisohiso",
+      "text": "(ここだけの話、この手のゲームって、攻略サイト開いた瞬間に負けた気持ちになるのよね…)",
+      "news_index": 1,
+      "start_sec": 111.09,
+      "end_sec": 117.54
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "わかるのだー！自力で解けた時の、脳がシャキーンってなる感じ、あれのために生きてるのだ！",
+      "news_index": 1,
+      "start_sec": 117.69,
+      "end_sec": 124.04
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、作ってるのがシモゴっていう、スウェーデンのちっちゃなインディースタジオなの。",
+      "news_index": 1,
+      "start_sec": 124.19,
+      "end_sec": 128.74
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "シモゴ…ちっちゃいってことは、できたばっかりの新人さんなのだ?",
+      "news_index": 1,
+      "start_sec": 128.89,
+      "end_sec": 132.97
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "とんでもない。『イヤーウォーク』とか『デバイス・シックス』とか、尖った名作を作ってきたベテランよ。",
+      "news_index": 1,
+      "start_sec": 133.12,
+      "end_sec": 139.42
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ちっちゃいのにベテラン、つまり小さな大物なのだ。山椒は小粒でもピリリと辛いってやつなのだね。",
+      "news_index": 1,
+      "start_sec": 139.57,
+      "end_sec": 145.76
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そう、まさにそれ。粒は小さくても効きはガツンとくる、いいことわざ持ってきたわね。",
+      "news_index": 1,
+      "start_sec": 145.91,
+      "end_sec": 151.39
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "しかもこれ、シモゴにとって九本目で、五年ぶりの新作だったの。",
+      "news_index": 1,
+      "start_sec": 151.47,
+      "end_sec": 155.57
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "五年ぶり!? それもう新作っていうより、長期熟成の樽出しワインなのだー！",
+      "news_index": 1,
+      "start_sec": 155.72,
+      "end_sec": 161.47
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "うまいこと言うわね。その煮込んだ五年が、そのまま謎の密度になってる感じよ。",
+      "news_index": 1,
+      "start_sec": 161.62,
+      "end_sec": 166.44
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、評判がまた凄くてね。2024年のザ・ゲームアワードで、最優秀インディーゲーム部門にノミネートされたの。",
+      "news_index": 1,
+      "start_sec": 166.52,
+      "end_sec": 174.2
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "ノミネート!? 紙とペンの地味ゲーが、ドンパチ系の大作と同じ土俵に立ったってことなのだ!?",
+      "news_index": 1,
+      "start_sec": 174.35,
+      "end_sec": 181.15
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "立ったどころか、堂々と渡り合ったの。ゴールデンジョイスティックでも候補入りして、海外メディアの年間ベストにもいくつも食い込んだわ。",
+      "news_index": 1,
+      "start_sec": 181.3,
+      "end_sec": 188.94
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "鉛筆一本で世界の強豪を殴り倒したのだ。もうこのゲーム、文房具界のヒーローなのだ！",
+      "news_index": 1,
+      "start_sec": 189.09,
+      "end_sec": 195.28
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "結局ヒーローに着地するのね。まあ要は、地味な見た目で世界から評価された実力派ってことよ。",
+      "news_index": 1,
+      "start_sec": 195.43,
+      "end_sec": 201.76
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "実際、ある国内の大手メディアのレビューが『メモ必須の傑作』ってタイトルで付けてたくらいだから。",
+      "news_index": 1,
+      "start_sec": 201.84,
+      "end_sec": 207.76
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "メモ必須が誉め言葉なのだ? 学校だったら『要復習』って真っ赤に書かれてるやつなのだ。",
+      "news_index": 1,
+      "start_sec": 207.91,
+      "end_sec": 213.91
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "テストの赤ペンと違って、こっちは自分で進んで書くメモよ。海外の大手サイトなんて、これは一つの大きなパズルボックスだ、って評してたわ。",
+      "news_index": 1,
+      "start_sec": 214.06,
+      "end_sec": 222.71
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "ホテル丸ごとパズルボックス…ボクの脳までボックス化してきたのだー。",
+      "news_index": 1,
+      "start_sec": 222.86,
+      "end_sec": 228.35
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "脳は箱にしなくていいわよ。要するに、建物そのものが一個の謎の塊だってことね。",
+      "news_index": 1,
+      "start_sec": 228.5,
+      "end_sec": 234.05
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "雰囲気もね、ただの謎解きじゃないの。虚構と現実が溶け合って、悪夢みたいにシュールな世界に飲み込まれていく。",
+      "news_index": 1,
+      "start_sec": 234.13,
+      "end_sec": 240.9
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "chuuni",
+      "text": "鏡の奥で揺らめくのは過去か、それとも見たくなかった己か…この迷宮に、出口など初めから無いのよ。",
+      "news_index": 1,
+      "start_sec": 240.98,
+      "end_sec": 247.79
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "出たのだ! めたんの厨二モード発病なのだー!",
+      "news_index": 1,
+      "start_sec": 247.94,
+      "end_sec": 251.12
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ふふ、ごめんごめん。こういう幻想迷宮系のゲームやると、つい出ちゃうのよ。",
+      "news_index": 1,
+      "start_sec": 251.27,
+      "end_sec": 256.12
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "でも今のでちょっと世界観伝わったのだ。要するに、雰囲気もガチってことなのだね。",
+      "news_index": 1,
+      "start_sec": 256.27,
+      "end_sec": 262.32
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。プレイ感としては、数字当てとか、計算とか、暗号みたいなのまで、パズルの種類がとにかく幅広いの。",
+      "news_index": 1,
+      "start_sec": 262.47,
+      "end_sec": 269.89
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "ボク算数は苦手なのだ。でも、なぞなぞは得意だから、足して二で割れば実質パズルマスターなのだ！",
+      "news_index": 1,
+      "start_sec": 270.04,
+      "end_sec": 277.34
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "苦手となぞなぞ足しても、パズルマスターにはならないわよ。",
+      "news_index": 1,
+      "start_sec": 277.49,
+      "end_sec": 280.97
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "…ごめんなさいなのだ。",
+      "news_index": 1,
+      "start_sec": 281.12,
+      "end_sec": 282.36
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "でね、面白いのが、一個解くたびに、別の場所の謎がカチッと繋がる瞬間があるの。",
+      "news_index": 1,
+      "start_sec": 282.51,
+      "end_sec": 287.87
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "それボク大好きなやつなのだー！点と点が線になる、あの感覚、脳が気持ちいいのだ！",
+      "news_index": 1,
+      "start_sec": 288.02,
+      "end_sec": 294.47
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そうそう、その快感のために、手書きメモで紙がびっしり埋まっていくのよ。",
+      "news_index": 1,
+      "start_sec": 294.62,
+      "end_sec": 299.43
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "じゃあクリアした頃には、そのメモ帳が世界に一冊だけの宝物になってるのだね。",
+      "news_index": 1,
+      "start_sec": 299.58,
+      "end_sec": 304.83
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "まさに。自分だけの攻略本が手元に残る、それがこのゲームの締めくくりの味ってわけ。",
+      "news_index": 1,
+      "start_sec": 304.98,
+      "end_sec": 310.41
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "対応機種も幅広くて、スイッチとパソコンで出てて、後からプレステ版も追加されたの。",
+      "news_index": 1,
+      "start_sec": 310.49,
+      "end_sec": 315.77
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあ大体どのおうちでも遊べるのだ。あとは紙とペンさえ買い足せば完璧なのだね。",
+      "news_index": 1,
+      "start_sec": 315.92,
+      "end_sec": 321.09
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "hisohiso",
+      "text": "(ただし一回ハマると、気づいた頃には時間がごっそり溶けてるから、覚悟しておきなさいよ…)",
+      "news_index": 1,
+      "start_sec": 321.24,
+      "end_sec": 327.36
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "時間も溶けるのだ!? このゲーム、ホテルも脳も時間も溶かして、もはや溶岩なのだー！",
+      "news_index": 1,
+      "start_sec": 327.51,
+      "end_sec": 335.11
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "溶岩じゃないわよ。要は、それだけ夢中になれる中毒性があるってことね。",
+      "news_index": 1,
+      "start_sec": 335.26,
+      "end_sec": 339.9
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "という訳で今回は『ローレライ・アンド・ザ・レーザーアイズ』。発売からしばらく経った今でも、全然遊ぶ価値のある名作でした。",
+      "news_index": 1,
+      "start_sec": 339.98,
+      "end_sec": 347.46
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "謎解き好きなリスナーのみんなは、紙とペン用意して挑むのだ！目からレーザーは出ないけど、脳からは出るのだ！",
+      "news_index": 1,
+      "start_sec": 347.61,
+      "end_sec": 354.46
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "脳からも出ないわよ。でも、解けた時に頭がピカッと光る感じは、ほんとにその通りね。",
+      "news_index": 1,
+      "start_sec": 354.61,
+      "end_sec": 360.45
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "それじゃ、また旅の道ラジオで会おうなのだー！",
+      "news_index": 1,
+      "start_sec": 360.6,
+      "end_sec": 363.84
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "めたんでした。次の一本も、お楽しみに。",
+      "news_index": 1,
+      "start_sec": 363.99,
+      "end_sec": 366.84
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 367.54,
+      "end_sec": 375.24
+    }
+  ],
+  "wall_time_sec": 12.22,
+  "audio_url": "/audio/indie/20260716_050552.mp3?v=1784147008"
+}
