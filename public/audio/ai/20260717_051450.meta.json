@@ -1,0 +1,646 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-07-17T05:14:50+09:00",
+  "title": "働くAIと、国の資源 〜今朝のテック四本を噛み砕く〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 364.93,
+  "script_hash": "sha256:8bd4186e9b8eb8f0d2d3cffa125564722214a7eb9f51c37f0e15061a21ac7cf9",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 6.47
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便。四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 6.47,
+      "end_sec": 10.53
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今日も朝から、テックの話を軽くいくのだー!",
+      "news_index": 0,
+      "start_sec": 10.68,
+      "end_sec": 15.47
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今朝は、AIとか半導体まわりの話題を四本、サクッと流していくわ。",
+      "news_index": 0,
+      "start_sec": 15.62,
+      "end_sec": 20.32
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "四本! 通勤・通学のおともに、ちょうどいい量なのだ!",
+      "news_index": 0,
+      "start_sec": 20.47,
+      "end_sec": 24.19
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "一本目は、スマホ閉じても勝手に働いてくれるAI。二本目は、日本がとんでもない数のAIチップを囲い込む話ね。",
+      "news_index": 0,
+      "start_sec": 24.34,
+      "end_sec": 31.77
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "後半は? まだあるのだ?",
+      "news_index": 0,
+      "start_sec": 31.92,
+      "end_sec": 34.04
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目はAIのルール作りで揉めてる話、四本目はドイツ発の小さくて賢いAI。じゃ、いきましょ。",
+      "news_index": 0,
+      "start_sec": 34.19,
+      "end_sec": 41.45
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "一本目。グーグルが『ジェミニ・スパーク』っていう新しいAIを、日本語でも使えるようにしたのよ。",
+      "news_index": 1,
+      "start_sec": 41.53,
+      "end_sec": 47.88
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じぇみに・すぱーく? それ、ふつうのお喋りAIと何が違うのだ?",
+      "news_index": 1,
+      "start_sec": 48.03,
+      "end_sec": 52.84
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ふつうのは、話しかけたら答える相棒でしょ。これはね、スマホ閉じてても、裏で勝手に用事を片付けてくれるの。",
+      "news_index": 1,
+      "start_sec": 52.99,
+      "end_sec": 59.82
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "閉じてても動く!? ボクが寝てる間も働いてるってことなのだ!?",
+      "news_index": 1,
+      "start_sec": 59.97,
+      "end_sec": 64.31
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。メール整理とか予定調整を、クラウド側で24時間こなすの。いわゆるAIエージェント、人の代わりに作業する係ね。",
+      "news_index": 1,
+      "start_sec": 64.46,
+      "end_sec": 72.76
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "24時間はたらく秘書を、雇った気分なのだー!",
+      "news_index": 1,
+      "start_sec": 72.91,
+      "end_sec": 76.68
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ただ暴走しないように、メール送信みたいに外部へ影響する操作の前には、『やっていい？』って確認してくる設計なのよ。",
+      "news_index": 1,
+      "start_sec": 76.83,
+      "end_sec": 84.92
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "あ、勝手に高い買い物とかされたら困るもんね。そこは安心なのだ。",
+      "news_index": 1,
+      "start_sec": 85.07,
+      "end_sec": 90.46
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、これが使えるのは、今のベータ版を使えるのは、月額14,500円からの最上位プランの人だけ。",
+      "news_index": 1,
+      "start_sec": 90.61,
+      "end_sec": 97.83
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "14,500円!? ボクのお小遣い、一瞬で溶ける値段じゃん!",
+      "news_index": 1,
+      "start_sec": 97.98,
+      "end_sec": 102.91
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに、お金を出せる人だけ、24時間働く秘書を持てる時代ってこと。ここでもまた格差ね。",
+      "news_index": 1,
+      "start_sec": 103.06,
+      "end_sec": 108.94
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目。日本が、AI専用の計算工場を、どでかく作るって話。",
+      "news_index": 2,
+      "start_sec": 109.02,
+      "end_sec": 113.86
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "計算工場? いったい何を作る工場なのだ?",
+      "news_index": 2,
+      "start_sec": 114.01,
+      "end_sec": 117.76
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "『ノエトラ』っていう新会社が、ソフトバンクやNECなど、44の企業や団体から出資を受けて進めるの。AIを動かす頭脳を、国産で持とうって計画ね。",
+      "news_index": 2,
+      "start_sec": 117.91,
+      "end_sec": 128.35
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "44社! オールジャパンで組んだやつなのだ!",
+      "news_index": 2,
+      "start_sec": 128.5,
+      "end_sec": 131.45
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "目玉が、エヌビディアの最新チップ『ルビン』を、なんと約2万7,500基もそろえること。",
+      "news_index": 2,
+      "start_sec": 131.6,
+      "end_sec": 137.85
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "2万7,500!? チップって、そんなにいっぱい要るものなのだ!?",
+      "news_index": 2,
+      "start_sec": 138.0,
+      "end_sec": 142.59
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "AIの計算を爆速でやる専用チップね。これを大量に並べて、一つの巨大な脳みそにするのよ。",
+      "news_index": 2,
+      "start_sec": 142.74,
+      "end_sec": 148.9
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "2万7,500基って、ボクの部屋のパソコン何万台ぶんの計算力なのだ……想像つかないのだ。",
+      "news_index": 2,
+      "start_sec": 149.05,
+      "end_sec": 155.7
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "しかも国が3,873億円も補助金を出してるの。着工が2027年、動き出すのは2028年ね。",
+      "news_index": 2,
+      "start_sec": 155.85,
+      "end_sec": 164.14
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "3,873億!? 国が本気で財布を開けてるのだ!",
+      "news_index": 2,
+      "start_sec": 164.29,
+      "end_sec": 168.89
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "背景はね、AIのチップって世界中で取り合いになってて、日本もよそに頼りきりだと危ないって話。",
+      "news_index": 2,
+      "start_sec": 169.04,
+      "end_sec": 175.65
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "だから自分の国の分は、自分で確保しとこうってことなのだ?",
+      "news_index": 2,
+      "start_sec": 175.8,
+      "end_sec": 180.05
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そういうこと。要するに、AIの計算力が石油みたいな『国の資源』になってきたって話ね。",
+      "news_index": 2,
+      "start_sec": 180.2,
+      "end_sec": 186.22
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目。ちょっとお堅い話。クロードを作ってるアンソロピックが、AIのルール作りで面白い動きをしてるの。",
+      "news_index": 3,
+      "start_sec": 186.3,
+      "end_sec": 193.29
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ルール作り? AIの会社が、自分を縛るルールを欲しがってるってこと?",
+      "news_index": 3,
+      "start_sec": 193.44,
+      "end_sec": 198.68
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そうなの、そこが変わってて。でも連邦議会のルール作りが進まないから、今は州が先に動いているのよ。",
+      "news_index": 3,
+      "start_sec": 198.83,
+      "end_sec": 205.17
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、アンソロピックは違うのだ?",
+      "news_index": 3,
+      "start_sec": 205.32,
+      "end_sec": 207.73
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "逆なの。アンソロピックは、州レベルでも安全策を強めようとしていて、今回もマサチューセッツ州の法案を後押ししてるわ。",
+      "news_index": 3,
+      "start_sec": 207.88,
+      "end_sec": 215.58
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "自分から厳しくして!? 縛られたくないのが、普通じゃないのだ?",
+      "news_index": 3,
+      "start_sec": 215.73,
+      "end_sec": 220.16
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "アンソロピックは、企業の自己申告だけではもう足りないとして、第三者による安全監査が必要だと考えてるの。",
+      "news_index": 3,
+      "start_sec": 220.31,
+      "end_sec": 227.53
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、飛行機は安全検査してから飛ばすもんね。AIも同じにしろってことなのだ。",
+      "news_index": 3,
+      "start_sec": 227.68,
+      "end_sec": 233.21
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "ただ反対派からは『厳しくして、ライバルを締め出す気だろ』って皮肉も出てるわ。",
+      "news_index": 3,
+      "start_sec": 233.36,
+      "end_sec": 238.34
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "うーん、正義なのか作戦なのか、微妙なとこなのだ……",
+      "news_index": 3,
+      "start_sec": 238.49,
+      "end_sec": 242.75
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに、AIが勝手に強くなる中で『誰が安全のブレーキを握るか』の綱引きね。私たちの生活の土台に関わる話よ。",
+      "news_index": 3,
+      "start_sec": 242.9,
+      "end_sec": 251.03
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "じゃあラスト四本目。ぐっと軽く、ドイツ発の小さくて賢いAIの話。",
+      "news_index": 4,
+      "start_sec": 251.11,
+      "end_sec": 256.24
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "小さくて賢い! ボク、こういうの好きなのだ!",
+      "news_index": 4,
+      "start_sec": 256.39,
+      "end_sec": 259.59
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "名前は『スーフィー・エス』。ドイツのAI業界団体や大学が組んで作った、オープンモデルなの。",
+      "news_index": 4,
+      "start_sec": 259.74,
+      "end_sec": 265.97
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "おーぷんもでる? それ、なんなのだ?",
+      "news_index": 4,
+      "start_sec": 266.12,
+      "end_sec": 268.69
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "中身を丸ごと無料で公開してるAIね。誰でも持ち帰って、自分のパソコンで動かせるの。",
+      "news_index": 4,
+      "start_sec": 268.84,
+      "end_sec": 274.8
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "タダで持ち帰れるやつなのだ! 前も、中国のがあったやつだね。",
+      "news_index": 4,
+      "start_sec": 274.95,
+      "end_sec": 279.18
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう。で、面白いのが賢さの仕組み。頭脳の部品は約316億個あるのに、文章を一つ処理するたびに使うのは、そのうち約32億個ぶんだけなの。",
+      "news_index": 4,
+      "start_sec": 279.33,
+      "end_sec": 289.31
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "全部使わないのだ? なんで一部だけなのだ?",
+      "news_index": 4,
+      "start_sec": 289.46,
+      "end_sec": 292.66
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "必要なとこだけ電気を点ける感じね。だから計算を抑えながら、開発チームの比較では、完全公開モデルのドイツ語と英語の総合評価で首位になったの。",
+      "news_index": 4,
+      "start_sec": 292.81,
+      "end_sec": 302.62
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "省エネで一番!? 燃費のいい車が一番速い、みたいな話じゃん!",
+      "news_index": 4,
+      "start_sec": 302.77,
+      "end_sec": 307.77
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "うまい例えね。しかも重みや訓練コード、データの配合情報まで公開していて、透明性が高いの。",
+      "news_index": 4,
+      "start_sec": 307.92,
+      "end_sec": 314.22
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "なんで、そこまで全部見せちゃうのだ?",
+      "news_index": 4,
+      "start_sec": 314.37,
+      "end_sec": 317.03
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "大手のAIが中身を隠す時代に、あえて国が金を出して、開かれたAIを持とうって動きなの。要は、AIを一部の会社に独占させないための対抗策ね。",
+      "news_index": 4,
+      "start_sec": 317.18,
+      "end_sec": 327.36
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "今日は四本、あっという間だったのだ。",
+      "news_index": 0,
+      "start_sec": 327.51,
+      "end_sec": 330.18
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "働くAI、国の計算工場、ルール作り、ドイツの省エネAI。並べると、今のテックの空気が見えるでしょ。",
+      "news_index": 0,
+      "start_sec": 330.33,
+      "end_sec": 338.16
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "AIが賢くなるほど、誰がどう手綱を握るかって話になってくるのだねー。",
+      "news_index": 0,
+      "start_sec": 338.31,
+      "end_sec": 343.39
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いいまとめ。気になったやつがあったら、あとで調べてみてね。",
+      "news_index": 0,
+      "start_sec": 343.54,
+      "end_sec": 346.81
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "ボクは、秘書AIがタダで来る日を待つのだー!",
+      "news_index": 0,
+      "start_sec": 346.96,
+      "end_sec": 350.4
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "気長に待ちなさい。じゃ、また明日のテック朝便で。",
+      "news_index": 0,
+      "start_sec": 350.55,
+      "end_sec": 353.99
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "また聴いてほしいのだー! ばいばーい!",
+      "news_index": 0,
+      "start_sec": 354.14,
+      "end_sec": 356.53
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 357.23,
+      "end_sec": 364.93
+    }
+  ],
+  "wall_time_sec": 10.09,
+  "audio_url": "/audio/ai/20260717_051450.mp3?v=1784233604"
+}
