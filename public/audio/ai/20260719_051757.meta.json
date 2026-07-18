@@ -1,0 +1,1036 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-07-19T05:17:57+09:00",
+  "title": "安いAIが揺らす地面 〜巨人の時価総額と、鍵の渡し方〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 536.21,
+  "script_hash": "sha256:b6f19c248b2a3f3d26de24a6e65cdafa2bdf29fb77498168aa4ded9c05e5f1fa",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 5.05
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便。テックニュースの回、四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 5.05,
+      "end_sec": 10.27
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝もテックの話題、サクッといくのだー!",
+      "news_index": 0,
+      "start_sec": 10.42,
+      "end_sec": 14.87
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今日は4本立て。中国発の巨大AI、AIの国際機関、開発ツールの穴、それとパスワードの渡し方ね。",
+      "news_index": 0,
+      "start_sec": 15.02,
+      "end_sec": 22.35
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "並べると、バラバラに聞こえるのだ。何かつながってるのだ?",
+      "news_index": 0,
+      "start_sec": 22.5,
+      "end_sec": 26.69
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "全部『AIに何をどこまで渡すか』の話。お金も、ルールも、鍵もね。",
+      "news_index": 0,
+      "start_sec": 26.84,
+      "end_sec": 32.05
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、それなら朝からちゃんと聴けるやつじゃん!",
+      "news_index": 0,
+      "start_sec": 32.2,
+      "end_sec": 35.04
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ一本目。中国のムーンショット・エーアイってところが、とんでもないAIを出したのよ。",
+      "news_index": 1,
+      "start_sec": 35.19,
+      "end_sec": 40.79
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "むーんしょっと? 会社の名前が、なんかロケットっぽいのだ。",
+      "news_index": 1,
+      "start_sec": 40.94,
+      "end_sec": 44.93
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "中国のAI新興企業ね。出したモデルの名前が『キミ・ケースリー』、七月十六日から十七日にかけての発表よ。",
+      "news_index": 1,
+      "start_sec": 45.08,
+      "end_sec": 53.09
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "キミって! なんか呼びかけてるみたいで、かわいい名前なのだ。",
+      "news_index": 1,
+      "start_sec": 53.24,
+      "end_sec": 57.62
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "名前は優しいけど、中身は化け物。パラメータが2.8兆で、公開予定の重み付きモデルとしては、世界最大級なの。",
+      "news_index": 1,
+      "start_sec": 57.77,
+      "end_sec": 65.46
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "2.8兆!? それ、何を数えた数字なのだ?",
+      "news_index": 1,
+      "start_sec": 65.61,
+      "end_sec": 69.39
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "AIの頭の中にある、調整つまみの数だと思って。モデル全体の規模を表す指標のひとつだけど、多ければ必ず賢いとは限らないわ。",
+      "news_index": 1,
+      "start_sec": 69.54,
+      "end_sec": 78.42
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "つまみが2.8兆個……。ボクの部屋の電気のスイッチ、2個なのだ。",
+      "news_index": 1,
+      "start_sec": 78.57,
+      "end_sec": 83.16
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "比べる相手が雑すぎるわ。で、大事なのはここからよ。",
+      "news_index": 1,
+      "start_sec": 83.31,
+      "end_sec": 87.02
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "お、値段の話が来る顔してるのだ!",
+      "news_index": 1,
+      "start_sec": 87.17,
+      "end_sec": 89.91
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ご名答。アメリカの最上位クラスと比べて、入力も出力も4割から5割安いのよ。",
+      "news_index": 1,
+      "start_sec": 90.06,
+      "end_sec": 95.87
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "半額!? しかも中身まで配っちゃうって、太っ腹すぎじゃん!",
+      "news_index": 1,
+      "start_sec": 96.02,
+      "end_sec": 100.24
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう、七月二十七日に中身を公開する予定でね。で、この発表も株式市場を揺らした材料のひとつになったの。",
+      "news_index": 1,
+      "start_sec": 100.39,
+      "end_sec": 107.73
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "AIが出ただけで、株が動くものなのだ?",
+      "news_index": 1,
+      "start_sec": 107.88,
+      "end_sec": 111.02
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "動いたわ。半導体株の指数が六月末の最高値から2割下がって、弱気相場入りしたの。",
+      "news_index": 1,
+      "start_sec": 111.17,
+      "end_sec": 117.17
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "よわき相場? 相場が弱気になるって、どういうことなのだ?",
+      "news_index": 1,
+      "start_sec": 117.32,
+      "end_sec": 121.48
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "最高値から2割下がった状態を、そう呼ぶだけ。『みんな怖くなって売った』のサインね。",
+      "news_index": 1,
+      "start_sec": 121.63,
+      "end_sec": 126.93
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "何が怖かったのだ? 賢いAIが出たなら、いい話じゃないのだ?",
+      "news_index": 1,
+      "start_sec": 127.08,
+      "end_sec": 131.88
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "sexy",
+      "text": "『そんなに高い機械を買わなくても、いいAIが作れるのでは?』って疑われたのよ。",
+      "news_index": 1,
+      "start_sec": 132.03,
+      "end_sec": 138.58
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "あー! 高い機械を売ってる側が、いちばん困るやつじゃん!",
+      "news_index": 1,
+      "start_sec": 138.73,
+      "end_sec": 142.73
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "その通り。エヌビディアの株が2%以上下げて、時価総額が一時4兆8,500億ドルまで落ちたの。",
+      "news_index": 1,
+      "start_sec": 142.88,
+      "end_sec": 149.8
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも4兆ドルって、まだ想像つかないくらい大きいのだ。それでも困るのだ?",
+      "news_index": 1,
+      "start_sec": 149.95,
+      "end_sec": 155.21
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "困るのよ。その瞬間、アップルに抜かれて、世界一の座を明け渡したもの。",
+      "news_index": 1,
+      "start_sec": 155.36,
+      "end_sec": 159.99
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "王座陥落!? もともとの下げにAIの新発表も重なって、一時的に世界一が入れ替わったのだ!?",
+      "news_index": 1,
+      "start_sec": 160.14,
+      "end_sec": 167.28
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに『安くていいAI』が一本出るだけで、業界の地面が揺れるって話ね。",
+      "news_index": 1,
+      "start_sec": 167.43,
+      "end_sec": 172.94
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、それはボクたちに何かあるのだ?",
+      "news_index": 1,
+      "start_sec": 173.09,
+      "end_sec": 175.76
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "悪くないわ。安い選択肢が増えれば、私たちが払うAIの月額も下がる方に力がかかるもの。",
+      "news_index": 1,
+      "start_sec": 175.91,
+      "end_sec": 182.62
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "値下げ競争は大歓迎なのだー。次いこ、次!",
+      "news_index": 1,
+      "start_sec": 182.77,
+      "end_sec": 186.39
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目。同じ七月十六日にね、上海でAIの国際機関が旗揚げしたのよ。",
+      "news_index": 2,
+      "start_sec": 186.54,
+      "end_sec": 192.17
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "国際機関? 国連みたいなやつなのだ?",
+      "news_index": 2,
+      "start_sec": 192.32,
+      "end_sec": 195.41
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "形は近いわね。名前は『世界人工知能協力機構』、本部は上海に置くの。",
+      "news_index": 2,
+      "start_sec": 195.56,
+      "end_sec": 201.11
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "何をするところなのだ?",
+      "news_index": 2,
+      "start_sec": 201.26,
+      "end_sec": 203.03
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "AIを秩序立てて発展させましょう、っていう国どうしの話し合いの場ね。29カ国が調印したわ。",
+      "news_index": 2,
+      "start_sec": 203.18,
+      "end_sec": 209.68
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "29カ国! そこそこの大所帯じゃん。どこの国が入ってるのだ?",
+      "news_index": 2,
+      "start_sec": 209.83,
+      "end_sec": 214.46
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "中国、ロシア、パキスタン、カザフスタン、ラオスあたりね。調印式には国連の事務総長も出席してるわ。",
+      "news_index": 2,
+      "start_sec": 214.61,
+      "end_sec": 221.76
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "あれ? 日本とかアメリカの名前が出てこないのだ。",
+      "news_index": 2,
+      "start_sec": 221.91,
+      "end_sec": 225.37
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "入ってないの。そこが今回いちばん、地図として面白いところね。",
+      "news_index": 2,
+      "start_sec": 225.52,
+      "end_sec": 229.43
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "つまり、AIのルールを決める場が、ひとつじゃないってことなのだ?",
+      "news_index": 2,
+      "start_sec": 229.58,
+      "end_sec": 233.99
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今の時点ではそうなるわね。AIの国際協力や統治を話し合う場が、またひとつ加わった形ね。",
+      "news_index": 2,
+      "start_sec": 234.14,
+      "end_sec": 240.62
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ルールが二種類あると、何が起きるのだ?",
+      "news_index": 2,
+      "start_sec": 240.77,
+      "end_sec": 243.73
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "どんな共通ルールや協力策を打ち出すのか、これから見ていく必要があるわ。",
+      "news_index": 2,
+      "start_sec": 243.88,
+      "end_sec": 248.64
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "え、旅行先でボクのお気に入りAIが開かない、みたいなことなのだ!?",
+      "news_index": 2,
+      "start_sec": 248.79,
+      "end_sec": 253.94
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "極端に言えばね。今すぐじゃないけど、頭の隅に置いとくといい話。次いくわよ。",
+      "news_index": 2,
+      "start_sec": 254.09,
+      "end_sec": 259.95
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目は、ちょっと背筋が寒い話。『カーソル』ってAIの開発ツールに、穴が見つかったのよ。",
+      "news_index": 3,
+      "start_sec": 260.03,
+      "end_sec": 266.54
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "かーそる? 画面でチカチカしてる、あの棒のことなのだ?",
+      "news_index": 3,
+      "start_sec": 266.69,
+      "end_sec": 270.66
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "惜しいけど別物。プログラムを書くのをAIが手伝ってくれる道具で、利用者は700万人以上いるわ。",
+      "news_index": 3,
+      "start_sec": 270.81,
+      "end_sec": 277.34
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "700万人! それ、穴があったら大事件じゃん!",
+      "news_index": 3,
+      "start_sec": 277.49,
+      "end_sec": 280.99
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。しかもゼロデイ、つまり直す手当てがまだ無い状態の穴だったの。",
+      "news_index": 3,
+      "start_sec": 281.14,
+      "end_sec": 285.51
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "どんな穴なのだ?",
+      "news_index": 3,
+      "start_sec": 285.66,
+      "end_sec": 287.04
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "他人が公開してるプログラム一式に悪いファイルを仕込んでおくと、開いた瞬間に勝手に走っちゃうの。",
+      "news_index": 3,
+      "start_sec": 287.19,
+      "end_sec": 293.24
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "開いただけで!? クリックもしてないのに動き出すってことなのだ!?",
+      "news_index": 3,
+      "start_sec": 293.39,
+      "end_sec": 297.67
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこが怖いところね。それが、あなたの権限のまま実行されるの。",
+      "news_index": 3,
+      "start_sec": 297.82,
+      "end_sec": 301.89
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "ボクの顔して、勝手に家の中を歩き回られるみたいなやつなのだ……。",
+      "news_index": 3,
+      "start_sec": 302.04,
+      "end_sec": 307.85
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いい比喩じゃない。で、ここからが本題で、報告が去年の十二月十五日なのよ。",
+      "news_index": 3,
+      "start_sec": 308.0,
+      "end_sec": 313.16
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "十二月? それ、けっこう前なのだ。",
+      "news_index": 3,
+      "start_sec": 313.31,
+      "end_sec": 316.14
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "shock",
+      "text": "一ヶ月後に最初の返事は来たけど、その後の問い合わせには何ヶ月も回答がなかったの。その間に更新は70回以上出てるのに、直らなかったの。",
+      "news_index": 3,
+      "start_sec": 316.29,
+      "end_sec": 325.97
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "70回も更新して、そこだけスルー!? わざとじゃないのだ!?",
+      "news_index": 3,
+      "start_sec": 326.12,
+      "end_sec": 330.57
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "理由は分からないわ。ただ、報告した会社が七月十四日に全部公表する道を選んだの。",
+      "news_index": 3,
+      "start_sec": 330.72,
+      "end_sec": 336.61
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "公表しちゃったら、悪い人にも手口が伝わるんじゃないのだ?",
+      "news_index": 3,
+      "start_sec": 336.76,
+      "end_sec": 340.9
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "sexy",
+      "text": "そう、最後の手段よ。黙ってても直らないなら、使う側に知らせた方がマシって判断ね。",
+      "news_index": 3,
+      "start_sec": 341.05,
+      "end_sec": 348.36
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "報告した側も、ずっとモヤモヤしてただろうな……。",
+      "news_index": 3,
+      "start_sec": 348.51,
+      "end_sec": 352.52
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに『穴そのものより、直す仕組みが止まってた』のが問題って話。公表された時点では、修正パッチも公式の注意喚起も出ていなかったわ。",
+      "news_index": 3,
+      "start_sec": 352.67,
+      "end_sec": 361.99
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、ボクたちが気をつけることは何なのだ?",
+      "news_index": 3,
+      "start_sec": 362.14,
+      "end_sec": 365.14
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "AIの道具は、あなたのパソコンの中身に深く手を入れるの。知らない人のプログラムを軽い気持ちで開かないこと。",
+      "news_index": 3,
+      "start_sec": 365.29,
+      "end_sec": 372.21
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "拾った鍵を、いきなり自分の家で試さないのと一緒なのだ!",
+      "news_index": 3,
+      "start_sec": 372.36,
+      "end_sec": 376.25
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "上手いわね。じゃあラスト、その『鍵』の話で明るく締めるわよ。",
+      "news_index": 3,
+      "start_sec": 376.4,
+      "end_sec": 380.93
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四本目。パスワードの金庫アプリ『ワンパスワード』が、クロード向けに面白い機能を出したの。",
+      "news_index": 4,
+      "start_sec": 381.01,
+      "end_sec": 387.16
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "きんこアプリ? パスワードをまとめてしまっとくやつだっけ?",
+      "news_index": 4,
+      "start_sec": 387.31,
+      "end_sec": 391.24
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。今回のは、AIに代わりにログインしてもらいたい時の仕組みね。",
+      "news_index": 4,
+      "start_sec": 391.39,
+      "end_sec": 395.87
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、AIにパスワード教えるのだ!? それさっきの話の直後だと、怖すぎじゃん!",
+      "news_index": 4,
+      "start_sec": 396.02,
+      "end_sec": 402.05
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "落ち着いて。教えないの。そこが今回の売りよ。",
+      "news_index": 4,
+      "start_sec": 402.2,
+      "end_sec": 405.22
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "教えないのに、ログインできるのだ? 意味が分からないのだ。",
+      "news_index": 4,
+      "start_sec": 405.37,
+      "end_sec": 409.31
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "AIが『ここに入りたい』と言うと、金庫の側が『どれを、なぜ使うか』をあなたに見せるの。",
+      "news_index": 4,
+      "start_sec": 409.46,
+      "end_sec": 415.45
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ふむ。それでボクが、いいよって言うのだ?",
+      "news_index": 4,
+      "start_sec": 415.6,
+      "end_sec": 418.51
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "指紋なんかで承認するとね、金庫がページに直接、文字を打ち込んでくれるの。",
+      "news_index": 4,
+      "start_sec": 418.66,
+      "end_sec": 423.51
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ! AIの手を通らずに、金庫が自分で入力しに行くってことなのだ!",
+      "news_index": 4,
+      "start_sec": 423.66,
+      "end_sec": 428.83
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そういうこと。だからパスワードも、使い捨ての確認コードも、AIの中には一切入らないの。",
+      "news_index": 4,
+      "start_sec": 428.98,
+      "end_sec": 434.74
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "賢いのだー! 鍵は渡さないで、扉だけ開けてあげる感じなのだ!",
+      "news_index": 4,
+      "start_sec": 434.89,
+      "end_sec": 439.92
+    },
+    {
+      "index": 84,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "その一行が今日いちばんの要約ね。しかも権限は、その用事が終わったら切れるの。",
+      "news_index": 4,
+      "start_sec": 440.07,
+      "end_sec": 445.68
+    },
+    {
+      "index": 85,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "使い捨ての合鍵じゃん! 帰りに回収されるやつなのだ!",
+      "news_index": 4,
+      "start_sec": 445.83,
+      "end_sec": 449.65
+    },
+    {
+      "index": 86,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "あと『エージェンティックモード』ってのも付いてて、AIが操作し始めると、金庫へのアクセスが自動で制限されるのよ。",
+      "news_index": 4,
+      "start_sec": 449.8,
+      "end_sec": 457.32
+    },
+    {
+      "index": 87,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "AIが来たら、金庫のふたが勝手に閉まるってことなのだ?",
+      "news_index": 4,
+      "start_sec": 457.47,
+      "end_sec": 461.41
+    },
+    {
+      "index": 88,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。許可した分だけしか触れなくなるの。ただ、今のところ対応はマックだけね。",
+      "news_index": 4,
+      "start_sec": 461.56,
+      "end_sec": 466.52
+    },
+    {
+      "index": 89,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "あー、ボクのウィンドウズは仲間はずれなのだ……。",
+      "news_index": 4,
+      "start_sec": 466.67,
+      "end_sec": 471.15
+    },
+    {
+      "index": 90,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "あとクレジットカードと身分証の情報は対象外。任せられるのはログインまでよ。",
+      "news_index": 4,
+      "start_sec": 471.3,
+      "end_sec": 476.29
+    },
+    {
+      "index": 91,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "むしろそこは任せない方が安心するのだ。",
+      "news_index": 4,
+      "start_sec": 476.44,
+      "end_sec": 479.22
+    },
+    {
+      "index": 92,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "同感ね。で、これが我々にとって何かというと、AIに用事を頼む時代の『鍵の渡し方』の見本なの。",
+      "news_index": 4,
+      "start_sec": 479.37,
+      "end_sec": 486.46
+    },
+    {
+      "index": 93,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "見本ってことは、他のところも真似してくるのだ?",
+      "news_index": 4,
+      "start_sec": 486.61,
+      "end_sec": 489.84
+    },
+    {
+      "index": 94,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "たぶんね。AIに全権を渡すか渡さないか、の二択から抜ける道が見えた形だから。",
+      "news_index": 4,
+      "start_sec": 489.99,
+      "end_sec": 495.56
+    },
+    {
+      "index": 95,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "全部か、ゼロかじゃない! そこが今日の四本、全部につながってるのだ!",
+      "news_index": 0,
+      "start_sec": 495.71,
+      "end_sec": 500.52
+    },
+    {
+      "index": 96,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "お、いいところ着地したわね。安さも、ルールも、権限も、結局『どこまで渡すか』の話だったわ。",
+      "news_index": 0,
+      "start_sec": 500.67,
+      "end_sec": 507.97
+    },
+    {
+      "index": 97,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "今日はボク、ちょっと賢くなった気がするのだ。",
+      "news_index": 0,
+      "start_sec": 508.12,
+      "end_sec": 511.05
+    },
+    {
+      "index": 98,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "その自信は明日には消えてるでしょうけどね。気になったやつがあったら、あとで調べてみて。",
+      "news_index": 0,
+      "start_sec": 511.2,
+      "end_sec": 516.39
+    },
+    {
+      "index": 99,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ひどいのだー! でも調べるのだ! ここまで聴いてくれたかた、いってらっしゃいなのだー!",
+      "news_index": 0,
+      "start_sec": 516.54,
+      "end_sec": 521.51
+    },
+    {
+      "index": 100,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "いい一日を。旅の道ラジオ朝便、また明日のテックの回で会いましょう。",
+      "news_index": 0,
+      "start_sec": 521.66,
+      "end_sec": 527.8
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 528.5,
+      "end_sec": 536.21
+    }
+  ],
+  "wall_time_sec": 14.01,
+  "audio_url": "/audio/ai/20260719_051757.mp3?v=1784406655"
+}
