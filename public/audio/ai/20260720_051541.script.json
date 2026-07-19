@@ -1,0 +1,495 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-07-19T20:15:41.496261+00:00",
+  "title": "配って囲う朝 〜巨大AIの値下げ合戦と、静かに変わる「目」〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便。テックニュースの回、四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝も通勤・通学のおともに、テックの話をサクッといくのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今日は四本立て。中国の超巨大AI、タダで配られてるAI、動画から目を作る研究、それと自分のAI使用時間を晒されるダッシュボード。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "最後のやつ、なんか響きが怖いのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "怖いわよ。スマホの画面時間を見せられた時と、同じ顔になるから。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "あれ、見るたびにヘコむやつじゃん……。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "その話は最後のお楽しみね。じゃ、一本目いくわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。アリババが『クウェン3.8』っていう、とんでもなくデカいAIのお試し版を出したのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "デカいって、どのくらいのやつだっけ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "頭の中のつまみが、2兆4,000億個。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "2兆4,000億!? ボクの頭のつまみ、たぶん三個くらいなのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "自分下げが雑すぎるわ。まあでも、今世に出てるAIの中でも最大級ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "そのつまみって、多いほど賢くなるってこと?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "傾向としてはそう。ただ、賢さも動かす電力も、パラメータの総数だけじゃなくて、設計や実際に使う部分で変わるのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あっ、デカいエンジン積んだ車がガソリン食うのと同じやつじゃん!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "その例え、今日一番いいわ。朝からちゃんと冴えてるじゃない。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "たまには当たるのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、アリババの言い分は『いま世界で二番目に強い』。ただし成績表は、まだ一枚も出してないの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "自己申告!? テストの点数を隠したまま『学年二位なのだ』って言ってるようなもんじゃん!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "そこが引っかかるとこ。しかもプレビュー期間中は、呼び出しに使うクレジットの消費量が、通常の最小十分の一になるキャンペーン中なのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "安すぎでしょ。なんでそんな大盤振る舞いするのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "sexy",
+      "text": "まず試してもらうための、プレビュー期間限定キャンペーンってわけね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "でもボクたちからすると、賢いAIが安売り合戦してくれるのは普通に助かるのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこは素直に喜んでいいとこ。二本目いくわよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目。グーグルがタダで配ってるAI『ジェンマ4』が、名前そのままで中身だけ差し替わったのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "名前そのまま? バージョンの数字、上げないのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "上げてないの。だから作り手のあいだから『紛らわしい』って苦情が出てるわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、じゃあ気づかないまま古いの使い続けてる人いるじゃん!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "いるわね。七月十六日より前に落としたかたは、更新内容を受け取るために取り直しが必要よ。ただ、最大70%の高速化は対応するH100以降の環境に限られるわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "そもそも、何がどう良くなったの?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "対応するH100以降の環境では、入力を読み込む処理量が最大70%アップ。あと、外の道具を呼び出す時の不具合も直ったわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "入力の処理量が70%アップなら、長い文章を読ませる時なんかに効きそうなのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "体感で言うと、返事が来るまでの『……』が短くなる感じね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "それ、地味に一番うれしいとこなのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "で、このジェンマの売りは、自分のパソコンに落として動かせること。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ってことは、中身を外に送らなくていいってこと?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そう。仕事の書類を社外に出したくない人には、ここが一番効くのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "タダで、速くて、手元で動く。三拍子そろってるじゃん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに『無料AIの底上げが続いてる』って話ね。三本目いくわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "三本目は、ちょっと先の未来の話。グーグル・ディープマインドが面白い研究を出したの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "面白いって、どんなやつ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "動画を作るために学習したAIを土台にして、いろんなものを見るAIへ作り替えたのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "作る側が、見る側に転職したってことなのだ?",
+      "news_index": 3,
+      "reading": "つくるがわが、ミルガワニテンショクシタッテコトナノダ?"
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "言い方は雑だけど、ほぼ合ってるわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも絵を描くのと、物を見分けるのって、別の仕事じゃない?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこがミソでね。動画生成の学習で身につけた、奥行きや動きの手がかりを、見る仕事にも活かせたの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あー! 作るために覚えたことが、見る仕事にも使えたってことなのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。だから奥行きの測定とか、人の姿勢の読み取りとか、六つの別々の仕事を一つでこなせたの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "六つ掛け持ち!? そのAI、働きすぎじゃん!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "機械の労働環境を心配するんじゃないわよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、その一つでこなすやつ、専門の道具に勝てるものなの?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "多くの課題で専門モデルと同等か、それ以上だったの。しかも一部の比較では、同等の成績に必要な学習データが七分の一から五百分の一で済んだのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "五百分の一!? 参考書一冊で難関大に受かる勢いなのだ!",
+      "news_index": 3,
+      "reading": "ごひゃくぶんのいち!?サンコウショイッサツデナンカンダイニウカルイキオイナノダ!"
+    },
+    {
+      "speaker": "metan",
+      "tone": "sexy",
+      "text": "例えが強いけど、驚きの大きさは近いわね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "これ、ボクたちの生活にはどう効いてくるの?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "将来、ロボットみたいに現実世界を見るAIへ応用できるかもしれないの。ただ、今はまだ研究段階ね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "今すぐじゃないけど、静かに効いてくるやつなのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあラスト四本目。アンソロピックが、クロードの使い方を振り返れる機能を出したのよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "振り返る? 何を見せられるってこと?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "過去1ヶ月、3ヶ月、半年、一年で、いつ、どんな話題や作業にクロードを使ったか。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "うわっ、それ絶対に見たくないやつなのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "スマホの画面時間と、同じ種類の気まずさよね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "見た瞬間『こんなに?』ってなるやつじゃん……。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "面白いのが、休憩のお知らせと『静かな時間』の設定まで付いてること。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "静かな時間? その間は使えなくなるってこと?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "曜日と時間帯を自分で決めて、その時間に開くと休むよう知らせてくれる仕組みね。続けようと思えば、そのまま使えるわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "AIの会社が、AIを使いすぎるなって言ってるのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "sexy",
+      "text": "そこよ。使わせたい側が、あえて距離の取り方を用意してきたの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "なんでそんな、損しそうなことするの?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "利用者から、AIを生活にどう取り入れるべきか把握したいって声が出ていたからよ。専門家とも相談して作ったそうね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "あー、それなら納得なのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "無料のかたでも使えるけど、記憶の機能をオンにしてないと出てこないから、そこだけ注意ね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ボクの使用時間は……そっと見ないでおくのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "はい、今朝は四本。まとめると、実用のAIでは期間限定のお得な提供や、無料で使えるモデルの改良が続いてるわね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "その裏で、研究の方は静かに未来を組み立ててるのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "あら、いい締め方するじゃない。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "気になったやつがあったら、あとで調べてみてほしいのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "聴いてくれてるかた、乗り過ごさないようにね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "それでは、また明日のテック朝便で会いましょうなのだ!",
+      "news_index": 0
+    }
+  ],
+  "program_description": "旅の道ラジオ朝便、テックニュースの回。今朝は四本立て。一本目はアリババが出した2兆4,000億パラメータの巨大AI「クウェン3.8」、世界二番手を自称しながら成績表は未公開、しかもお試し版は正規価格の十分の一という囲い込み戦略の話。二本目はグーグルが無料で配っているAI「ジェンマ4」が、バージョン名そのままで中身だけ差し替わり、処理速度が最大70%上がった件。三本目はグーグル・ディープマインドの研究で、動画を作るAIをそのまま「目」に転用したら、六つの視覚タスクを専門モデル並みにこなしてしまったという未来寄りの話題。ラストはアンソロピックが公開した、クロードの使用状況を振り返れるダッシュボード。休憩のお知らせや静かな時間まで用意された、AI会社があえて距離の取り方を提案してきた一件を軽く雑談しています。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20260720_051541_chars.webp",
+    "hero_rel": "/images/topics/tech_20260720_051541.webp",
+    "title": "配って囲う朝 〜巨大AIの値下げ合戦と、静かに変わる「目」〜",
+    "companies": [
+      "Claude",
+      "Google",
+      "NVIDIA"
+    ]
+  },
+  "summary_short": "今朝の四本立て、値下げで攻めるアリババの巨大AIから、無料版なのに速度7割増しのグーグルAI、動画生成AIが「目」として専門モデル級に化けた研究、そしてアンソロピックが提案する静かな距離の取り方まで、AI業界のいまを一気に駆け抜けます。"
+}
