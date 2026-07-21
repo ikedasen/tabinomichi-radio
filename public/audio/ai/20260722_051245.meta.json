@@ -1,0 +1,756 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-07-22T05:12:45+09:00",
+  "title": "見せて覚える朝 〜AIに仕事を教える手と、消える紙の本〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 389.34,
+  "script_hash": "sha256:2b236783b975ea49e093d48ce03240dd9028e9e84a6415f3f52fbc4d9bbb368f",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 5.05
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便。テックニュースの回、四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 5.05,
+      "end_sec": 10.27
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今日も朝から、テックの話をサクッといくのだー!",
+      "news_index": 0,
+      "start_sec": 10.42,
+      "end_sec": 15.3
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今日は肩の力を抜いて、最近のテック話題を四本ね。通勤・通学のおともにどうぞ。",
+      "news_index": 0,
+      "start_sec": 15.45,
+      "end_sec": 20.86
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "四本かー。今日はどんなラインナップなのだ?",
+      "news_index": 0,
+      "start_sec": 21.01,
+      "end_sec": 24.01
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "AIに仕事を教える新しいやり方、オープンエーアイが安いAIに怯えてる話、あとは転売とアウトドアグッズよ。",
+      "news_index": 0,
+      "start_sec": 24.16,
+      "end_sec": 31.65
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "おっ、堅いのと柔らかいのが混ざってるやつなのだ! 楽しみなのだ。",
+      "news_index": 0,
+      "start_sec": 31.8,
+      "end_sec": 36.15
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そうそう、朝だから重い話は軽めにね。じゃあ一本目いきましょ。",
+      "news_index": 0,
+      "start_sec": 36.3,
+      "end_sec": 40.75
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。アンソロピックの『クロード・コワーク』ってAIに、面白い機能がついたのよ。",
+      "news_index": 1,
+      "start_sec": 40.83,
+      "end_sec": 46.8
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "くろーど・こわーく? それ、どんなやつなのだ?",
+      "news_index": 1,
+      "start_sec": 46.95,
+      "end_sec": 50.3
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "人の代わりに作業してくれるAI、いわゆるエージェントね。そこに新しい仕事の覚えさせ方が加わったの。",
+      "news_index": 1,
+      "start_sec": 50.45,
+      "end_sec": 57.1
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "覚えさせ方? 今までってどうやってたのだ?",
+      "news_index": 1,
+      "start_sec": 57.25,
+      "end_sec": 60.45
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "これまでも文章で手順をまとめたスキルは作れたけど、仕事の流れを言葉に起こして教える必要があったのよ。",
+      "news_index": 1,
+      "start_sec": 60.6,
+      "end_sec": 67.36
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "うへえ、それプログラム分かる人じゃないと無理そうなのだ。",
+      "news_index": 1,
+      "start_sec": 67.51,
+      "end_sec": 71.07
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこが変わったの。画面を録画して、口で「こうやるんだよ」って説明するだけでいいのよ。",
+      "news_index": 1,
+      "start_sec": 71.22,
+      "end_sec": 76.62
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、実演して喋るだけ!? それだけでAIが手順を覚えちゃうのだ!?",
+      "news_index": 1,
+      "start_sec": 76.77,
+      "end_sec": 81.82
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。見せて喋る、それだけ。するとAIが録画と説明から再利用できるスキルを作ってくれるの。",
+      "news_index": 1,
+      "start_sec": 81.97,
+      "end_sec": 88.26
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "それ、新人さんに実演しながら仕事を教えるのに近いやり方じゃん!",
+      "news_index": 1,
+      "start_sec": 88.41,
+      "end_sec": 92.95
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いいところ突くわね。まさにAIに背中を見せて覚えさせる感覚に近いのよ。",
+      "news_index": 1,
+      "start_sec": 93.1,
+      "end_sec": 97.72
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でもこれ、ボクたちの生活だと何が変わるのだ?",
+      "news_index": 1,
+      "start_sec": 97.87,
+      "end_sec": 101.23
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "エンジニアじゃない現場の人でも、自分の仕事のやり方をAIに直接教え込めるってこと。",
+      "news_index": 1,
+      "start_sec": 101.38,
+      "end_sec": 107.0
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "あ、それいいのだ! 詳しい人に頼まなくても、自分でAIを育てられるってことなのだ。",
+      "news_index": 1,
+      "start_sec": 107.15,
+      "end_sec": 113.78
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そういうこと。会社でAIに業務手順を教える手間を、減らそうとしている動きね。",
+      "news_index": 1,
+      "start_sec": 113.93,
+      "end_sec": 119.4
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "覚えが早い後輩、うらやましいのだ……。じゃあ次いこ!",
+      "news_index": 1,
+      "start_sec": 119.55,
+      "end_sec": 123.27
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目。あのオープンエーアイが、ちょっとビビってるって話なのよ。",
+      "news_index": 2,
+      "start_sec": 123.42,
+      "end_sec": 127.29
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ビビってる!? あの天下のオープンエーアイがなのだ!?",
+      "news_index": 2,
+      "start_sec": 127.44,
+      "end_sec": 130.94
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "相手はね、オープンウェイトっていう種類のAI。モデルの重みを入手して、自前の環境で動かしたり調整したりできる種類のAIよ。",
+      "news_index": 2,
+      "start_sec": 131.09,
+      "end_sec": 139.46
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "持ってこれるAI? いつも借りて使うのと、何が違うのだ?",
+      "news_index": 2,
+      "start_sec": 139.61,
+      "end_sec": 144.2
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "借りるタイプは、使うたびにお金を払うでしょ。オープンウェイトはモデルの重みが配布されていて、安く提供されるサービスもあるの。",
+      "news_index": 2,
+      "start_sec": 144.35,
+      "end_sec": 152.18
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "タダ同然で強いのが出回ったら、お金を取ってる方は商売あがったりじゃん!",
+      "news_index": 2,
+      "start_sec": 152.33,
+      "end_sec": 157.45
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこよ。安いAIが値段全体を押し下げて、大手の儲けを削るって指摘が出てるの。",
+      "news_index": 2,
+      "start_sec": 157.6,
+      "end_sec": 162.78
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、オープンエーアイはどうしたのだ?",
+      "news_index": 2,
+      "start_sec": 162.93,
+      "end_sec": 165.41
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "ここが引っかかるのよ。戦略担当のディーン・ボールが、政権は中国製オープンウェイトモデルの利用に規制上のリスクを作る方向へ進むだろう、と投稿したの。",
+      "news_index": 2,
+      "start_sec": 165.56,
+      "end_sec": 175.5
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "規制!? 自分が勝てないから、ルールで縛っちゃえってことなのだ!?",
+      "news_index": 2,
+      "start_sec": 175.65,
+      "end_sec": 180.07
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう受け取られてね。ホワイトハウス顧問らから規制による競争排除ではないかと批判されて、本人は根拠の薄い規制を提案したわけではないと釈明したのよ。",
+      "news_index": 2,
+      "start_sec": 180.22,
+      "end_sec": 189.89
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "出た負けフラグ。競争相手を規制で遠ざけたいようにも見えて、反発が出るのは分かるのだ。",
+      "news_index": 2,
+      "start_sec": 190.04,
+      "end_sec": 196.4
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "政府の側も海外の激安モデルの締め出しを考えてるらしいけど、背景には、バックドアやサイバーセキュリティーへの懸念があるみたい。",
+      "news_index": 2,
+      "start_sec": 196.55,
+      "end_sec": 204.65
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "それ、ボクらに回り回ってどうなるのだ?",
+      "news_index": 2,
+      "start_sec": 204.8,
+      "end_sec": 207.69
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "安いAIが増えれば、私たちが使うサービスの値段も下がりやすいってこと。",
+      "news_index": 2,
+      "start_sec": 207.84,
+      "end_sec": 212.91
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "なるほど、安い競争相手がいた方が、ボクらの財布には優しいのだ。",
+      "news_index": 2,
+      "start_sec": 213.06,
+      "end_sec": 218.3
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そういう構図ね。守りに入った大手が、これからどう出るか見ものよ。",
+      "news_index": 2,
+      "start_sec": 218.45,
+      "end_sec": 222.37
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目。ぐっと身近にいくわよ。『週刊少年ジャンプ』が、また店頭から消えたのよ。",
+      "news_index": 3,
+      "start_sec": 222.45,
+      "end_sec": 228.55
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、あのジャンプが!? 売り切れってことなのだ?",
+      "news_index": 3,
+      "start_sec": 228.7,
+      "end_sec": 232.14
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "売り切れっていうか、転売ヤーの買い占めね。限定カード目当ての大量購入で、売り切れが続出したの。",
+      "news_index": 3,
+      "start_sec": 232.29,
+      "end_sec": 238.83
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "転売ヤー? 雑誌なんて安いのに、なんで買い占めるのだ?",
+      "news_index": 3,
+      "start_sec": 238.98,
+      "end_sec": 243.24
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今回は付録の『ワンピースカードゲーム』限定カードを、雑誌より高く売ろうと狙ったのよ。中身より転売の値札で買ってるの。",
+      "news_index": 3,
+      "start_sec": 243.39,
+      "end_sec": 251.53
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "それ、読みたい子が読めなくなるやつじゃん! ひどいのだ。",
+      "news_index": 3,
+      "start_sec": 251.68,
+      "end_sec": 254.96
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "実際、あるマンガ家さんが、紙の本が殺されるって怒りと不安を書いてたわ。",
+      "news_index": 3,
+      "start_sec": 255.11,
+      "end_sec": 259.83
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "描いてる本人が一番つらいやつなのだ……ファンに届かないんだもん。",
+      "news_index": 3,
+      "start_sec": 259.98,
+      "end_sec": 265.5
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "一方で、読めなかった人には電子版という選択肢もあるわね。",
+      "news_index": 3,
+      "start_sec": 265.65,
+      "end_sec": 269.82
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "あー、買い占められない電子版なら、確実に読めるってことなのだ。",
+      "news_index": 3,
+      "start_sec": 269.97,
+      "end_sec": 274.3
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そう。皮肉だけど、こういう騒動が続けば、電子版を選ぶ人が増えるかもしれないのよ。",
+      "news_index": 3,
+      "start_sec": 274.45,
+      "end_sec": 280.34
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "つまり、転売騒ぎが紙の本を選びにくくする心配があるってことなのだ!",
+      "news_index": 3,
+      "start_sec": 280.49,
+      "end_sec": 285.43
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "紙で読みたい人にも届く売り方と、電子版の選択肢、その両方が大事って話ね。",
+      "news_index": 3,
+      "start_sec": 285.58,
+      "end_sec": 290.92
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ四本目、最後は軽く。アウトドアの『モンベル』が、街でめちゃくちゃ流行ってるのよ。",
+      "news_index": 4,
+      "start_sec": 291.0,
+      "end_sec": 296.64
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "待ってたのだ、モノ系の話! モンベルって山登りのやつだっけ?",
+      "news_index": 4,
+      "start_sec": 296.79,
+      "end_sec": 301.15
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、その登山ブランドね。人気すぎて、街でも同じアイテム持ってる人だらけなの。",
+      "news_index": 4,
+      "start_sec": 301.3,
+      "end_sec": 306.5
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "人気すぎると、逆にみんなと被る問題が出るやつなのだ。",
+      "news_index": 4,
+      "start_sec": 306.65,
+      "end_sec": 310.79
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "よく分かってるじゃない。そこで流行ってるのが、あるポーチのアレンジなのよ。",
+      "news_index": 4,
+      "start_sec": 310.94,
+      "end_sec": 314.86
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ポーチをアレンジ? どういうことなのだ?",
+      "news_index": 4,
+      "start_sec": 315.01,
+      "end_sec": 317.87
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "『ユーエル・ペーパーポーチ・エム』っていう、とても薄い生地のポーチがあってね。お値段は税込2,000円。",
+      "news_index": 4,
+      "start_sec": 318.02,
+      "end_sec": 324.81
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "薄いってどのくらいなのだ?",
+      "news_index": 4,
+      "start_sec": 324.96,
+      "end_sec": 326.9
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "なんと重さ14グラム。単三電池一本より軽いくらいよ。",
+      "news_index": 4,
+      "start_sec": 327.05,
+      "end_sec": 331.21
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "14グラム!? そんなの、風で飛んでっちゃいそうなのだ!",
+      "news_index": 4,
+      "start_sec": 331.36,
+      "end_sec": 335.22
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "大げさね。そこに好きな紐を付けて、肩掛けのミニバッグに作り替えるの。",
+      "news_index": 4,
+      "start_sec": 335.37,
+      "end_sec": 339.6
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "自分だけの組み合わせにできるってことなのだ! それは被らないのだ。",
+      "news_index": 4,
+      "start_sec": 339.75,
+      "end_sec": 344.36
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "夏フェスのおともにちょうどいいって、SNSで広がってるのよ。",
+      "news_index": 4,
+      "start_sec": 344.51,
+      "end_sec": 348.33
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "既製品を自分好みに改造、これぞDIYの醍醐味なのだ!",
+      "news_index": 4,
+      "start_sec": 348.48,
+      "end_sec": 352.8
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "手を動かすのが好きな人には、たまらない遊びよね。",
+      "news_index": 4,
+      "start_sec": 352.95,
+      "end_sec": 356.32
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "さて、今朝は四本お届けしたわね。AIに仕事を教える話から、フェス用のポーチまで。",
+      "news_index": 0,
+      "start_sec": 356.4,
+      "end_sec": 362.36
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "振り幅すごかったのだ。でも全部、地味にボクらの暮らしに刺さる話だったのだ。",
+      "news_index": 0,
+      "start_sec": 362.51,
+      "end_sec": 367.64
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そうね。気になったやつがあったら、あとで調べてみてちょうだい。",
+      "news_index": 0,
+      "start_sec": 367.79,
+      "end_sec": 371.22
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "それじゃあ、今日も一日がんばるのだー! また明日のテック朝便で会おうなのだ!",
+      "news_index": 0,
+      "start_sec": 371.37,
+      "end_sec": 376.28
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "旅の道ラジオ朝便、四国めたんがお送りしました。いってらっしゃい。",
+      "news_index": 0,
+      "start_sec": 376.43,
+      "end_sec": 380.94
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 381.64,
+      "end_sec": 389.34
+    }
+  ],
+  "wall_time_sec": 11.14,
+  "audio_url": "/audio/ai/20260722_051245.mp3?v=1784665382"
+}

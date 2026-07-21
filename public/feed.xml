@@ -7,8 +7,8 @@
     <description>ずんだもん × めたん × つむぎが届ける、ゲーム &amp; テックニュース雑談ラジオ。朝便と夜便で毎日更新、レトロから新作まで、最新 AI 動向から業界マクロまで雑談形式でサクッと。</description>
     <language>ja</language>
     <copyright>© 2026 tabinomichi</copyright>
-    <lastBuildDate>Tue, 21 Jul 2026 05:23:34 +0900</lastBuildDate>
-    <pubDate>Tue, 21 Jul 2026 05:11:57 +0900</pubDate>
+    <lastBuildDate>Wed, 22 Jul 2026 05:23:04 +0900</lastBuildDate>
+    <pubDate>Wed, 22 Jul 2026 05:12:45 +0900</pubDate>
     <generator>build_rss_feed.py (tabinomichi radio)</generator>
     <image>
       <url>https://news.tabinomichi.jp/podcast-cover.png?v=1779005902</url>
@@ -29,6 +29,21 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>見せて覚える朝 〜AIに仕事を教える手と、消える紙の本〜</title>
+      <link>https://news.tabinomichi.jp/radio/20260722_051245</link>
+      <guid isPermaLink="false">tabinomichi-radio-20260722_051245</guid>
+      <pubDate>Wed, 22 Jul 2026 05:12:45 +0900</pubDate>
+      <description>今朝のテック朝便は、肩の力を抜いて聴ける話題を四本お届け。一本目はアンソロピックのAIエージェント『クロード・コワーク』に、画面録画と口頭の説明だけで新しい仕事を覚えさせられる機能がついた話。二本目はオープンエーアイが、誰でも安く動かせるオープンウェイトAIの台頭に危機感を強め、一時は規制を訴えて撤回した業界の駆け引き。三本目は転売ヤーの買い占めで『週刊少年ジャンプ』が店頭から消え、紙の本が電子版へ押し出されていく皮肉。締めは街で人気のモンベルの薄型ポーチを、紐でサコッシュにアレンジする夏フェス向けのDIY。AIの新機能から暮らしの小ネタまで、今のテックをサクッとまとめる回。</description>
+      <content:encoded><![CDATA[今朝のテック朝便は、肩の力を抜いて聴ける話題を四本お届け。一本目はアンソロピックのAIエージェント『クロード・コワーク』に、画面録画と口頭の説明だけで新しい仕事を覚えさせられる機能がついた話。二本目はオープンエーアイが、誰でも安く動かせるオープンウェイトAIの台頭に危機感を強め、一時は規制を訴えて撤回した業界の駆け引き。三本目は転売ヤーの買い占めで『週刊少年ジャンプ』が店頭から消え、紙の本が電子版へ押し出されていく皮肉。締めは街で人気のモンベルの薄型ポーチを、紐でサコッシュにアレンジする夏フェス向けのDIY。AIの新機能から暮らしの小ネタまで、今のテックをサクッとまとめる回。]]></content:encoded>
+      <enclosure url="https://news.tabinomichi.jp/audio/ai/20260722_051245.mp3?v=1784665382" length="6230560" type="audio/mpeg"/>
+      <itunes:title>見せて覚える朝 〜AIに仕事を教える手と、消える紙の本〜</itunes:title>
+      <itunes:summary>今朝のテック朝便は、肩の力を抜いて聴ける話題を四本お届け。一本目はアンソロピックのAIエージェント『クロード・コワーク』に、画面録画と口頭の説明だけで新しい仕事を覚えさせられる機能がついた話。二本目はオープンエーアイが、誰でも安く動かせるオープンウェイトAIの台頭に危機感を強め、一時は規制を訴えて撤回した業界の駆け引き。三本目は転売ヤーの買い占めで『週刊少年ジャンプ』が店頭から消え、紙の本が電子版へ押し出されていく皮肉。締めは街で人気のモンベルの薄型ポーチを、紐でサコッシュにアレンジする夏フェス向けのDIY。AIの新機能から暮らしの小ネタまで、今のテックをサクッとまとめる回。</itunes:summary>
+      <itunes:image href="https://news.tabinomichi.jp/images/og/20260722_051245.jpg"/>
+      <itunes:duration>6:29</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>焼き込むシリコン、値上がるスマホ 〜AIが裏で動かす今朝のテック四本〜</title>
       <link>https://news.tabinomichi.jp/radio/20260721_051157</link>
@@ -1511,21 +1526,6 @@
       <itunes:summary>おはようございます、旅の道ラジオ朝便のテックニュース回。今朝は最近のAI・テック話題を4本サクッとお届け。1本目はアンソロピックと約50のパートナーが、重要ソフト全体で高・重大度の脆弱性を1万件以上見つけた。オープンソースについては、1000超のプロジェクトをスキャンし、全重要度で2万3019件、高・重大度推定で6202件を見つけた。のに、人間の修理が追いつかないという「見つける力と直す力の非対称」の話。2本目はオープンエーアイが生命科学AI『GPT-Rosalind』のtrusted accessを、選ばれた米政府および同盟国パートナー、公衆衛生・バイオ防衛向けの資格審査済みチームに広げる一方、悪用リスクも抱えるデュアルユース問題。3本目はアンソロピックがAIをどう安全に閉じ込めてるか、その『檻』の仕組みを全公開した透明性の話。ラストは肩の力を抜いて、レースに興味ないマンガ家までハマった『フォルツァ・ホライゾン6』の『下手でも楽しい快適さ』。前半ちょっと怖くて後半ほっこり、緩急のある朝便です。</itunes:summary>
       <itunes:image href="https://news.tabinomichi.jp/images/og/20260601_050952.jpg"/>
       <itunes:duration>6:23</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>雛見沢に響く謎 〜同人発で歴史を変えたサウンドノベル〜</title>
-      <link>https://news.tabinomichi.jp/radio/20260601_050250</link>
-      <guid isPermaLink="false">tabinomichi-radio-20260601_050250</guid>
-      <pubDate>Mon, 01 Jun 2026 05:02:50 +0900</pubDate>
-      <description>今回はサウンドノベルの金字塔『ひぐらしのなく頃に』を、つむぎが完全にスイッチ入った状態でじっくり語る回。サークル07th Expansionが2002年の夏コミから出し始めた同人サウンドノベルで、舞台は架空の村・雛見沢、時代は1983年6月。毎年の綿流しのお祭りで誰かが死ぬという伝承をめぐる出題編・解答編全8本構成の話運びや、ニコ動全盛期に重なって考察カルチャーごと膨らんで社会現象になっていった経緯、ファンとしてどこに惚れたか、ホラー苦手なずんだもんが部屋の隅をチラ見しながら聴くトーンで進む回。核心のトリックや結末は完全にネタバレ厳禁、雰囲気と魅力と歴史的インパクトだけで惹きつけにいく深掘り構成。</description>
-      <content:encoded><![CDATA[今回はサウンドノベルの金字塔『ひぐらしのなく頃に』を、つむぎが完全にスイッチ入った状態でじっくり語る回。サークル07th Expansionが2002年の夏コミから出し始めた同人サウンドノベルで、舞台は架空の村・雛見沢、時代は1983年6月。毎年の綿流しのお祭りで誰かが死ぬという伝承をめぐる出題編・解答編全8本構成の話運びや、ニコ動全盛期に重なって考察カルチャーごと膨らんで社会現象になっていった経緯、ファンとしてどこに惚れたか、ホラー苦手なずんだもんが部屋の隅をチラ見しながら聴くトーンで進む回。核心のトリックや結末は完全にネタバレ厳禁、雰囲気と魅力と歴史的インパクトだけで惹きつけにいく深掘り構成。]]></content:encoded>
-      <enclosure url="https://news.tabinomichi.jp/audio/indie/20260601_050250.mp3?v=1780276759" length="5935899" type="audio/mpeg"/>
-      <itunes:title>雛見沢に響く謎 〜同人発で歴史を変えたサウンドノベル〜</itunes:title>
-      <itunes:summary>今回はサウンドノベルの金字塔『ひぐらしのなく頃に』を、つむぎが完全にスイッチ入った状態でじっくり語る回。サークル07th Expansionが2002年の夏コミから出し始めた同人サウンドノベルで、舞台は架空の村・雛見沢、時代は1983年6月。毎年の綿流しのお祭りで誰かが死ぬという伝承をめぐる出題編・解答編全8本構成の話運びや、ニコ動全盛期に重なって考察カルチャーごと膨らんで社会現象になっていった経緯、ファンとしてどこに惚れたか、ホラー苦手なずんだもんが部屋の隅をチラ見しながら聴くトーンで進む回。核心のトリックや結末は完全にネタバレ厳禁、雰囲気と魅力と歴史的インパクトだけで惹きつけにいく深掘り構成。</itunes:summary>
-      <itunes:image href="https://news.tabinomichi.jp/images/og/20260601_050250.jpg"/>
-      <itunes:duration>6:10</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
