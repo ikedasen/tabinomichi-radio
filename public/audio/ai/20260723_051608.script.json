@@ -1,0 +1,425 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-07-22T20:16:08.746032+00:00",
+  "title": "めぐるお金と電気 〜AIチップ経済圏をほどく朝〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便。四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今日もテックの話題、軽くサクッといくのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今朝は最近のテックニュースを4本、通勤のおともにざっくり流していくわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "4本? どんなラインナップなのだ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "AIチップの巨額提携に、半導体の値上げ、著作権のでっかい裁判、それに中国のAIが世界を揺らしてる話ね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "お金の話が多いのだ! ボクの財布にも関係あるやつなのだ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "バッチリ関係あるわよ。じゃ、一本目からいきましょ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。エーエムディーっていうチップ会社が、クロードを作ってるアンソロピックに、どーんと出資したのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "えーえむでぃー? 聞いたことあるような無いような…なんの会社なのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "パソコンやサーバーの頭脳チップを作ってる大手ね。エヌビディアのライバル、って言えば分かるかな。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、エヌビディアのライバルなのだ! で、いくら出したのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "将来、最大で50億ドルを出資する計画よ。日本円だと7,000億円を超える規模よ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "7,000億!? そんなの、ボクのお小遣いを何十万年ためても届かないやつじゃん!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "でね、面白いのがその見返り。アンソロピックがエーエムディーのチップを大量に買って、2ギガワットぶんの計算パワーを確保するの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "2ギガワット? それ、電気の話なのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そう、AIを動かすのに必要な電力の規模ね。でっかい発電所を丸ごとAI用に使っちゃうレベルよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "発電所まるごと!? AIって、そんなに電気食いなのだ…!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "でね、ここがちょっとクセモノ。エーエムディーによる出資計画と、アンソロピックによるエーエムディー製GPUの導入がセットになった提携なの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "え、それって…自分で出したお金で、自分の商品を買ってもらってるってことなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "出資先が自社製品を大量導入する形だから、循環的な資金関係に見えるという懸念もあるわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "なんか、お店が自分でお客さんにお金配って買わせてるみたいで、ちょっと変な感じなのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに、アンソロピックがエヌビディア以外のGPUも大規模に採用して、調達先を広げるって話ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "つまりボクたちのAIも、いろんな会社のチップで動く時代になって、値段が下がるといいのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目。今度は値上げの話。ティーエスエムシーが、2027年からチップの製造代を上げるのよ。",
+      "news_index": 2,
+      "reading": "にほんめ。こんどはねあげのはなし。ティーエスエムシーが、にせんにじゅうななねんからチップのセイゾウダイをアゲルノヨ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "てぃーえすえむしー? また知らない会社が出てきたのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "ほかの会社が設計した半導体を受託製造する、世界最大手の会社ね。エヌビディアもアップルも、みんなここに作ってもらってるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、みんなが頼りにしてる工場なのだ! いくら上がるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "製品や顧客に応じて5から10パーセント。さらに、当初の予測を超える高性能コンピューティング向けの追加注文には、10から15パーセントの割増料金がかかると報じられてるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "上乗せの上乗せ!? 二段構えで値上げしてくるのだ!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そうよ。しかも当初の予測を超えて追加注文すると、割増料金がかかる仕組みなの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "いっぱい買う人ほど高くなるって、なんか逆じゃないのだ? 普通は安くしてくれるやつ…",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それだけ工場の取り合いが激しいのよ。材料も高いし、アメリカに新しい工場も建ててて、そのツケが乗ってるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "うぅ、で、それってボクたちには関係あるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "大アリよ。製造コストが上がれば、グラボやパソコン、スマホの価格にも影響が及ぶ可能性はあるわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "えー、来年の自作パソコン、また予算オーバーしちゃうやつなのだ…",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに「AIブームの裏で、静かに値上げが進んでる」って話。実際の製品価格にどこまで響くかは、これから要チェックね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目。ちょっと固い話だけど大事なやつ。アンソロピックが、本の著者たちとの裁判で、でっかい和解をしたのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "裁判? AIの会社が、なんで本の人たちと揉めてたのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "AIに勉強させるために、大量の本を無断で使ってた、って訴えられてたの。しかもその本、海賊版サイトから持ってきてたのが問題でね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "海賊版! それはさすがにマズいやつなのだ…!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、和解金がすごくて、15億ドル。日本円でおよそ2,200億円よ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "2,200億!? 本の勉強代にしては、桁が違いすぎるのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "対象はざっと50万冊、1冊あたり平均3,000ドルね。著作権の裁判としては、アメリカで過去最大なの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも、AIに本を読ませて勉強させるのって、それ自体はダメだったのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこが肝でね。裁判所は「勉強に使うこと自体はセーフ」って認めたの。アウトだったのは「海賊版で手に入れた」ところ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、勉強はオッケーで、盗んできた入手ルートがダメってことなのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そういうこと。この裁判では、モデルの学習はフェアユースと判断された一方、海賊版から作った書籍ライブラリーの取得と保管は別の問題だとされたの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "つまり、少なくとも海賊版から本を集めるやり方には、大きな法的リスクがあるってことなのだ。ちょっと安心なのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあラスト四本目。中国のAIが、アメリカのやり方をまるごとひっくり返しにきてる、って話。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ひっくり返す? どういうことなのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "アメリカでは、オープンエーアイやアンソロピックみたいに、モデルの重みを公開せず、利用料を取る大手が中心なの。使った分だけ課金される仕組みね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ふむふむ。で、中国のほうはどう違うのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "中国では、モデルの重みを公開して、ダウンロードや改変をしやすくする企業が目立つの。ただしライセンス条件や、動かすための費用はモデルごとに違うわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "タダで配る!? そんなことして、中国は儲かるのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこが狙いでね。高性能なモデルをオープンウェイトで広く提供して、世界中の開発者への普及を優先する戦略なの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、その作戦、うまくいってるのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "アメリカのある大手投資会社いわく、オープンなAIを使うスタートアップの、けっこうな割合が中国製を選んでるらしいわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、アメリカの会社なのに、中国のAI使ってるのだ!?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "性能とコストに加えて、自由に調整しやすいことも選ばれる理由みたいね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "つまりAIの勝負が、性能自慢から「どっちが多く使ってもらえるか」の陣取り合戦になってきたのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ご名答。私たちが将来どのAIを使うかも、この綱引き次第ってわけ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで、今朝は4本お届けしました。チップの提携、値上げ、著作権、中国のAI。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "お金と電気の話ばっかりだった気もするけど、どれも巡り巡ってボクたちの財布に来るやつなのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そうよ。気になったニュースがあったら、あとで調べてみてね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "旅の道ラジオ朝便、今日も聴いてくれてありがとうなのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それじゃ、また明日のテック朝便で。いってらっしゃい。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "いってらっしゃいなのだー!",
+      "news_index": 0
+    }
+  ],
+  "program_description": "旅の道ラジオ朝便、テックニュースの回。今朝は業界を動かすお金と電気にまつわる4本をサクッと。まず一本目、チップ大手AMDがクロードを作るアンソロピックに最大50億ドルを出資し、2ギガワットぶんのGPUを供給するビッグ提携。ただし出したお金が自社チップ代で戻ってくる循環構造にバブル懸念も。二本目は世界一の半導体工場ティーエスエムシーが2027年から製造代を5〜10%値上げ、AI向けはさらに上乗せという話で、グラボやPCの値段にじわり波及。三本目はアンソロピックが著作権裁判で15億ドルの過去最大和解、学習はセーフ・海賊版入手はアウトの線引き。ラストは中国の無料オープンAIがアメリカの課金モデルを揺さぶる陣取り合戦。どれも巡り巡って私たちの財布に届く話、という締めでお届けしました。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20260723_051608_chars.webp",
+    "hero_rel": "/images/topics/tech_20260723_051608.webp",
+    "title": "めぐるお金と電気 〜AIチップ経済圏をほどく朝〜",
+    "companies": [
+      "Claude",
+      "AMD",
+      "NVIDIA",
+      "TSMC",
+      "OpenAI",
+      "Apple"
+    ]
+  },
+  "summary_short": "AIチップを巡るお金の流れが一気に見える回。アンソロピックへの巨額出資は自社チップ購入とセットの循環取引、TSMCの値上げは巡り巡ってPC価格へ波及、そして著作権訴訟の巨額和解と中国発無料AIの台頭まで、財布に直結するテック経済ニュースを一挙にお届けします。"
+}

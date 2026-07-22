@@ -7,8 +7,8 @@
     <description>ずんだもん × めたん × つむぎが届ける、ゲーム &amp; テックニュース雑談ラジオ。朝便と夜便で毎日更新、レトロから新作まで、最新 AI 動向から業界マクロまで雑談形式でサクッと。</description>
     <language>ja</language>
     <copyright>© 2026 tabinomichi</copyright>
-    <lastBuildDate>Wed, 22 Jul 2026 05:23:04 +0900</lastBuildDate>
-    <pubDate>Wed, 22 Jul 2026 05:12:45 +0900</pubDate>
+    <lastBuildDate>Thu, 23 Jul 2026 05:28:48 +0900</lastBuildDate>
+    <pubDate>Thu, 23 Jul 2026 05:16:08 +0900</pubDate>
     <generator>build_rss_feed.py (tabinomichi radio)</generator>
     <image>
       <url>https://news.tabinomichi.jp/podcast-cover.png?v=1779005902</url>
@@ -29,6 +29,21 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>めぐるお金と電気 〜AIチップ経済圏をほどく朝〜</title>
+      <link>https://news.tabinomichi.jp/radio/20260723_051608</link>
+      <guid isPermaLink="false">tabinomichi-radio-20260723_051608</guid>
+      <pubDate>Thu, 23 Jul 2026 05:16:08 +0900</pubDate>
+      <description>旅の道ラジオ朝便、テックニュースの回。今朝は業界を動かすお金と電気にまつわる4本をサクッと。まず一本目、チップ大手AMDがクロードを作るアンソロピックに最大50億ドルを出資し、2ギガワットぶんのGPUを供給するビッグ提携。ただし出したお金が自社チップ代で戻ってくる循環構造にバブル懸念も。二本目は世界一の半導体工場ティーエスエムシーが2027年から製造代を5〜10%値上げ、AI向けはさらに上乗せという話で、グラボやPCの値段にじわり波及。三本目はアンソロピックが著作権裁判で15億ドルの過去最大和解、学習はセーフ・海賊版入手はアウトの線引き。ラストは中国の無料オープンAIがアメリカの課金モデルを揺さぶる陣取り合戦。どれも巡り巡って私たちの財布に届く話、という締めでお届けしました。</description>
+      <content:encoded><![CDATA[旅の道ラジオ朝便、テックニュースの回。今朝は業界を動かすお金と電気にまつわる4本をサクッと。まず一本目、チップ大手AMDがクロードを作るアンソロピックに最大50億ドルを出資し、2ギガワットぶんのGPUを供給するビッグ提携。ただし出したお金が自社チップ代で戻ってくる循環構造にバブル懸念も。二本目は世界一の半導体工場ティーエスエムシーが2027年から製造代を5〜10%値上げ、AI向けはさらに上乗せという話で、グラボやPCの値段にじわり波及。三本目はアンソロピックが著作権裁判で15億ドルの過去最大和解、学習はセーフ・海賊版入手はアウトの線引き。ラストは中国の無料オープンAIがアメリカの課金モデルを揺さぶる陣取り合戦。どれも巡り巡って私たちの財布に届く話、という締めでお届けしました。]]></content:encoded>
+      <enclosure url="https://news.tabinomichi.jp/audio/ai/20260723_051608.mp3?v=1784752126" length="6550299" type="audio/mpeg"/>
+      <itunes:title>めぐるお金と電気 〜AIチップ経済圏をほどく朝〜</itunes:title>
+      <itunes:summary>旅の道ラジオ朝便、テックニュースの回。今朝は業界を動かすお金と電気にまつわる4本をサクッと。まず一本目、チップ大手AMDがクロードを作るアンソロピックに最大50億ドルを出資し、2ギガワットぶんのGPUを供給するビッグ提携。ただし出したお金が自社チップ代で戻ってくる循環構造にバブル懸念も。二本目は世界一の半導体工場ティーエスエムシーが2027年から製造代を5〜10%値上げ、AI向けはさらに上乗せという話で、グラボやPCの値段にじわり波及。三本目はアンソロピックが著作権裁判で15億ドルの過去最大和解、学習はセーフ・海賊版入手はアウトの線引き。ラストは中国の無料オープンAIがアメリカの課金モデルを揺さぶる陣取り合戦。どれも巡り巡って私たちの財布に届く話、という締めでお届けしました。</itunes:summary>
+      <itunes:image href="https://news.tabinomichi.jp/images/og/20260723_051608.jpg"/>
+      <itunes:duration>6:49</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>見せて覚える朝 〜AIに仕事を教える手と、消える紙の本〜</title>
       <link>https://news.tabinomichi.jp/radio/20260722_051245</link>
@@ -1511,21 +1526,6 @@
       <itunes:summary>今回はビジュアルノベル史に名を残す金字塔『メモリーズオフ』を、ずんだもんと春日部つむぎでじっくり掘り下げる回。1999年9月30日、PlayStationでキッドから出た本作は、後にEver17や9時間9人9扉などSFミステリーで名を馳せる打越鋼太郎のシナリオデビュー作という事実から入って、シリーズ全編を彩る阿保剛のピアノ基調BGM、佐々木睦美の繊細なキャラデザ、そして主人公・三上智也が亡くなった彼女・樋月彩花の記憶を抱えたまま新しい一歩を踏み出す物語の入り口までを丁寧に紹介。続編が10年以上にわたって作られ続けた背景、キッド倒産からMAGES.への系譜、現在の入手手段まで、つむぎの実機マニア知識とずんだの素直な驚きで掛け合いながらお届け。物語の核心やヒロインルートの結末には触れない、これからプレイするオタクくんにも安心の入門ガイド回。</itunes:summary>
       <itunes:image href="https://news.tabinomichi.jp/images/og/20260601_210249.jpg"/>
       <itunes:duration>6:09</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>AIが見つけて、人が直せない朝 〜バグ1万件・感染症AI・AIの檻、テック4本立て〜</title>
-      <link>https://news.tabinomichi.jp/radio/20260601_050952</link>
-      <guid isPermaLink="false">tabinomichi-radio-20260601_050952</guid>
-      <pubDate>Mon, 01 Jun 2026 05:09:52 +0900</pubDate>
-      <description>おはようございます、旅の道ラジオ朝便のテックニュース回。今朝は最近のAI・テック話題を4本サクッとお届け。1本目はアンソロピックと約50のパートナーが、重要ソフト全体で高・重大度の脆弱性を1万件以上見つけた。オープンソースについては、1000超のプロジェクトをスキャンし、全重要度で2万3019件、高・重大度推定で6202件を見つけた。のに、人間の修理が追いつかないという「見つける力と直す力の非対称」の話。2本目はオープンエーアイが生命科学AI『GPT-Rosalind』のtrusted accessを、選ばれた米政府および同盟国パートナー、公衆衛生・バイオ防衛向けの資格審査済みチームに広げる一方、悪用リスクも抱えるデュアルユース問題。3本目はアンソロピックがAIをどう安全に閉じ込めてるか、その『檻』の仕組みを全公開した透明性の話。ラストは肩の力を抜いて、レースに興味ないマンガ家までハマった『フォルツァ・ホライゾン6』の『下手でも楽しい快適さ』。前半ちょっと怖くて後半ほっこり、緩急のある朝便です。</description>
-      <content:encoded><![CDATA[おはようございます、旅の道ラジオ朝便のテックニュース回。今朝は最近のAI・テック話題を4本サクッとお届け。1本目はアンソロピックと約50のパートナーが、重要ソフト全体で高・重大度の脆弱性を1万件以上見つけた。オープンソースについては、1000超のプロジェクトをスキャンし、全重要度で2万3019件、高・重大度推定で6202件を見つけた。のに、人間の修理が追いつかないという「見つける力と直す力の非対称」の話。2本目はオープンエーアイが生命科学AI『GPT-Rosalind』のtrusted accessを、選ばれた米政府および同盟国パートナー、公衆衛生・バイオ防衛向けの資格審査済みチームに広げる一方、悪用リスクも抱えるデュアルユース問題。3本目はアンソロピックがAIをどう安全に閉じ込めてるか、その『檻』の仕組みを全公開した透明性の話。ラストは肩の力を抜いて、レースに興味ないマンガ家までハマった『フォルツァ・ホライゾン6』の『下手でも楽しい快適さ』。前半ちょっと怖くて後半ほっこり、緩急のある朝便です。]]></content:encoded>
-      <enclosure url="https://news.tabinomichi.jp/audio/ai/20260601_050952.mp3?v=1780276754" length="6132340" type="audio/mpeg"/>
-      <itunes:title>AIが見つけて、人が直せない朝 〜バグ1万件・感染症AI・AIの檻、テック4本立て〜</itunes:title>
-      <itunes:summary>おはようございます、旅の道ラジオ朝便のテックニュース回。今朝は最近のAI・テック話題を4本サクッとお届け。1本目はアンソロピックと約50のパートナーが、重要ソフト全体で高・重大度の脆弱性を1万件以上見つけた。オープンソースについては、1000超のプロジェクトをスキャンし、全重要度で2万3019件、高・重大度推定で6202件を見つけた。のに、人間の修理が追いつかないという「見つける力と直す力の非対称」の話。2本目はオープンエーアイが生命科学AI『GPT-Rosalind』のtrusted accessを、選ばれた米政府および同盟国パートナー、公衆衛生・バイオ防衛向けの資格審査済みチームに広げる一方、悪用リスクも抱えるデュアルユース問題。3本目はアンソロピックがAIをどう安全に閉じ込めてるか、その『檻』の仕組みを全公開した透明性の話。ラストは肩の力を抜いて、レースに興味ないマンガ家までハマった『フォルツァ・ホライゾン6』の『下手でも楽しい快適さ』。前半ちょっと怖くて後半ほっこり、緩急のある朝便です。</itunes:summary>
-      <itunes:image href="https://news.tabinomichi.jp/images/og/20260601_050952.jpg"/>
-      <itunes:duration>6:23</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
