@@ -1,0 +1,501 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-07-23T20:14:58.601616+00:00",
+  "title": "読まれる体、跳ねる値札 〜AIが日常に降りてきた朝〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便。四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝もテックの話をサクッといくのだー!",
+      "news_index": 0,
+      "reading": "ボク、ずんだもんなのだー!けさもテックのハナシオサクッといくのだー!"
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今日は最近のテックの話題を四本、軽く流していく回ね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "四本! 通勤の電車のあいだに終わるやつだっけ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そのつもりで作ってるわ。難しい言葉は、その都度こっちで崩すから安心して。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ボクは『それ何なのだ?』って聞く係なのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "頼りにしてるわ。じゃあ一本目、いきましょ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。チャットジーピーティーでは、健康情報をつないで相談できる『ヘルス』機能が、一部の利用者向けに提供されているのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "健康? AIがボクの体のこと、面倒みてくれるってこと?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "近いわね。アメリカの対象ユーザーに順次提供されていて、アイフォンの『ヘルスケア』アプリとつなげられるの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "へるすけあ! 歩数とか睡眠が、勝手に貯まってくやつだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "それそれ。さらに病院の電子カルテ、通院の記録までつなげられるわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "カルテまで!? ボクの健康診断の結果、AIに丸見えじゃん!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "丸見えなのは、自分でつないだ人だけよ。血液検査の数値が去年からどう動いたか、勝手に並べて比べてくれるの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、去年より悪くなってるのが一発で分かるってことなのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。睡眠と運動と、体の数字がどう絡んでるかも教えてくれるわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "じゃあボクが夜中にお菓子を食べたことも、自分で記録していれば相談材料になるのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "そこは自己申告よ。勝手に冷蔵庫を覗く機能まではついてないわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "あと、そのデータって広告に使われたりしないのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこは明言してるの。つないだ医療データは、学習にも広告にも使わないって。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "そこがいちばん大事なのだ。体のことで広告出されたら、たまったもんじゃないよね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "要するに『検査結果の紙を読んでくれる人が、家に一人いる』状態ね。日本で使えるかは、これからよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあボクは、まず健康診断を受けにいくとこからなのだ……。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目。クロードっていうAIのおしゃべり機能が、急に賢くなったって話。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "おしゃべり機能? 話しかけたら、声で返してくれるやつだっけ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、音声モードね。今までは中身が、いちばん軽いモデル固定だったの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "軽いモデル? AIの中身って、選べるものなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "選べるのよ。同じ会社のAIでも、速いけど浅く考えるやつと、遅いけどじっくり考えるやつがあるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ! 声でしゃべる時だけ、軽いほうに固定されてたってことじゃん!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "返事の速さを優先してたのね。それが今回、じっくり考えるほうでも喋れるようになったわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、じゃあ声のまま本気の相談ができちゃうのだ!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "できるわ。しかも会話の途中で、頭の中身を切り替えることもできるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "途中で頭を入れ替える! なんか改造ロボットみたいで面白いのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "あと許可を出せば、メールや社内チャットの中身も見にいけるようになってる。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "メールを見にいく!? それ、こっちが許可した時だけなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "もちろん許可制よ。そこは自分で線を引くところね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "さっきの健康データといい、AIに預けるもの増えすぎじゃん!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "その警戒は正しいわ。便利さと引き換えだってことは、覚えといて損はない。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、これって結局ボクらの何が変わるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "歩きながらでも、ちゃんとした相談ができるようになるってこと。机の前に座らなくてよくなるのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "朝の支度をしながら相談できるの、地味にありがたいのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目、ぐっと楽しい話。音と映像を一緒に生成する、新しいAIの開発内容が発表されたのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "待ってたのだ、作る系の話! 音がつくって、どういうことなのだ?",
+      "news_index": 3,
+      "reading": "マッテタノダ、ツクルケーノハナシ!おとがつくって、どういうことなのだ?"
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "今までの動画を作るAIって、映像だけ出して音は無音だったの。あとから音を貼る手作業が要ったのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "あー、昔のサイレント映画みたいな状態だったのだね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "言い得て妙ね。それが『フラックス・スリー』っていう開発中のモデルで、映像と音声をまとめて生成する設計なの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "セリフも!? AIが声優さんの役までやっちゃうってこと?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "口の動きに合う発話や、映像内の出来事に合う効果音の生成を目指しているの。作ってるのはドイツの『ブラック・フォレスト・ラボ』、画像を作るAIで有名なとこね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ぶらっく・ふぉれすと……黒い森って、ケーキの名前みたいなのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "ドイツの地名よ。ケーキのほうが名前を借りてるの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、どのくらいの長さが作れるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "七月二十三日に開発内容が発表されたけど、生成できる長さや一般向けの提供時期は、公式にはまだ示されていないわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "二十秒!? 映画どころか、アニメ一話にも全然足りないじゃん!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこよ。ただ、どんな長さの動画を作れるのかは、正式な製品発表を待つ必要があるわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "あっ! まだ使い道を決めつける段階じゃないのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そういうこと。映像と音を一度に作れる技術が、制作の流れをどう変えるか注目ね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "便利なのは分かるけど、ちょっと複雑な気持ちになるのだ……。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあラスト四本目。お財布に直撃するやつでしめるわよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "うっ、朝からいちばん怖い前振りじゃん。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "バッファローが、八月三日から105品目を値上げするの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ばっふぁろー? パソコンの周りのものを作ってる会社だっけ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そう。外付けのハードディスクとか、ワイファイのルーターとか、家に一個はあるやつね。",
+      "news_index": 4,
+      "reading": "そう。そとづけのハードディスクとか、ワイファイのルーターとか、イエニイッコワアルヤツネ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "うちにもあるのだ。で、どのくらい上がるのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "上げ幅は五点八パーセントから、大きいものだと四十二点五パーセント。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "四割以上!? 値上げっていうより、もう別の商品になってるじゃん!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二テラバイトの外付けハードディスクだと、26,400円が37,620円ね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "1万円以上も上がってるじゃん! ボクのお小遣い、何ヶ月ぶん貯めれば届くのだ……",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "理由は『市場環境の変化』とだけ書いてあるわ。でも背景はだいたい読めるの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "読める? 裏でなにが起きてるのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "メーカーが示している理由は『市場環境の変化』までで、個別の部品事情は公表されていないのよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ! AIが使うぶんが増えたから、ボクらに回ってこないってことなのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ご名答。ただ、今回の発表だけでは、何がどこまで値上げに影響したのかは分からないってわけ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあ買うなら、八月三日より前なのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "sexy",
+      "text": "そうね。写真のバックアップを先延ばしにしてるかたは、今週が勝負よ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "今朝は四本、なかなか振れ幅がすごかったのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "健康、しゃべるAI、音つき動画、そして値上げ。ジェットコースターね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "夢の話とお財布の話が、同じ日に来るのがテック業界なのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "いい要約だわ。気になったのがあったら、あとで調べてみて。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "旅の道ラジオ朝便、また明日のテック朝便で会うのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "それじゃ、いってらっしゃい。今日もほどほどにね。",
+      "news_index": 0
+    }
+  ],
+  "program_description": "テック朝便、今朝は四本立て。一本目はチャットジーピーティーに正式についた健康機能の話で、アイフォンのヘルスケアや電子カルテとつないで血液検査の推移まで読んでくれる仕組みと、医療データを学習や広告に使わないという線引きを整理。二本目はクロードの音声モードが軽いモデル固定から解放されて、声のまま本気の相談ができるようになった変化。三本目はドイツ発のフラックス・スリーが最長二十秒の音つき動画をまるごと生成できるようになった話で、広告一本ぶんの長さという意味を考える。ラストはバッファローが八月三日から105品目を最大42.5パーセント値上げする件を、AI向けサーバー倉庫が部品を吸い上げる構図から読み解く。夢の話とお財布の話が同じ日に届く、テック業界らしい朝の回。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20260724_051458_chars.webp",
+    "hero_rel": "/images/topics/tech_20260724_051458.webp",
+    "title": "読まれる体、跳ねる値札 〜AIが日常に降りてきた朝〜",
+    "companies": [
+      "Claude",
+      "OpenAI"
+    ]
+  },
+  "summary_short": "AIが健康チェックから会話相談、動画生成まで一気に日常へ入り込んだ朝。その裏で日用品が軒並み値上げという現実も同時進行、テック企業がAI設備にお金を集める構図が財布を直撃する様子を四本立てで読み解く回。"
+}
