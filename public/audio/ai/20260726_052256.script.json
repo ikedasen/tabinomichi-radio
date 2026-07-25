@@ -1,0 +1,608 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-07-25T20:22:56.982042+00:00",
+  "title": "半額になった頭脳 〜値札と電気で読み解く今朝のテック五本〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便、テックニュースの回。四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今日も朝からテックの話、軽くいくのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今日は五本。AIの新モデルから、お財布に刺さるメモリの話まで。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、メモリ! それボクの一番弱いとこなのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "弱いっていうか、財布の話でしょ。締めは日本の会社の話にするわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "通勤中のかたは、寝ぼけたままで聞いてほしいのだー。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ一本目。アンソロピックが七月二十四日に、新しいAI『クロード・オーパス5』を出したのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "また新しいのが出たのだ? 最近ペース速すぎじゃん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "速いわね。でも今回の目玉は、賢さより値札のほう。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "値札!? AIって、そんな値下げ合戦するものなのだ!?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "同じ会社の最上位モデルと比べて、ちょうど半分の値段。多くのタスクで、それに近い性能だと主張してるわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "上のやつが半額で来たら、上のやつの立場ないじゃん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこは私も思った。ただ、本題はもう一つの数字。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "もう一つ? なんの数字なのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "プロンプトインジェクション、ようはウェブページに『こっそり別の命令』を仕込んで、AIを乗っ取る手口ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、AIって、そんな簡単に他人の言うこと聞いちゃうのだ!?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "聞いちゃうのよ、これまではね。追加の安全策を有効にして、129の検証環境で攻撃を試したところ、突破ゼロだったって。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "129回ぜんぶはじいた!? ボクなら三回目くらいで騙されてる自信あるのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "その自信の使いどころが心配だわ。仕組みは二段構えで、入り口で怪しい命令を弾いて、抜けても危ない操作自体を止めるの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "玄関に鍵かけて、金庫にも鍵かけるやつなのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "うん、その例えでいいわ。要するに『AIにネットの操作を任せていいか』のハードルが、一段下がった話。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "AIにおつかい頼める日が、近づいてるってことなのだ……!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "まだ完全じゃないけどね。次いくわよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目。お財布に直撃するやつ、メモリの話よ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "うっ、朝からいちばん聞きたくないやつなのだ……。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "アップルがね、アメリカ政府に『中国のメモリ会社と取引させてくれ』って求めてるって報じられてるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "取引させてくれ? 普通に買えばいいじゃん。なんでお願いが要るのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "その中国のメモリ会社、アメリカ国防総省のブラックリストに載ってるのよ。だからアップルは、取引を認めてもらうため政府に働きかけてるわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、天下のアップルが、頭下げてまで欲しがってるのだ!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "それだけメモリが足りてないってこと。価格は今年の七月から九月で、40から50パーセント上がる予測。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "五割!? 三ヶ月で牛丼が四百円から六百円になるくらいの上がりかたじゃん!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "例えが庶民的すぎるけど、体感としては合ってる。しかも改善は2028年まで見込めないって話。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "二年後……ボクの自作パソコン計画、白紙なのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、ここに待ったをかけてるのが、アメリカのメモリ大手マイクロン。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "マイクロン? なんで他所の買い物に口を出すのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "sexy",
+      "text": "中国メーカーを特例扱いすれば、アメリカのメモリ産業や製造基盤を傷つけかねない、って警告してるのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "安く買いたいアップルと、守りたいマイクロン。どっちも自分の都合じゃん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ご名答。要するに、私たちのパソコンやスマホの値段が、政治の綱引きで決まる時代ってことね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "値札の裏に国際情勢が挟まってるの、朝から重すぎるのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目はちょっと固いけど、短くいくわ。アメリカで『AIキルスイッチ法案』ってのが出たの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "きるすいっち!? AIを、ボタン一つで止めちゃうやつなのだ!?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。AIが暴走したら政府が強制的に止められるようにする法案で、七月二十三日に連邦議会へ提出されたわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "それ、いいことじゃないの? 暴走されたら困るじゃん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "その翌日には、別のAI規制をめぐって、業界の25の企業と団体が連名の書簡を公表したのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "翌日!? 反応が早すぎるのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "エヌビディア、マイクロソフト、メタあたりね。言い分は『オープンウェイトのAIを一律に縛ると、安全性や技術革新を損ねる』よ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "中身を公開? 手の内を見せたら、逆に悪用されないのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこは賛否あるわ。ただ、みんなで検証できるほうが穴も早く見つかる、っていう理屈。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、それってオープンソースの考えかたと同じやつなのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そう、その発想。で、オープンエーアイとアンソロピックは、この書簡に署名してないの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "署名しなかった理由までは、この書簡だけじゃ分からないのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "察しがいいわね。要するにAI業界は一枚岩じゃなくて、私たちに効いてくるのも何年か先って話。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "今日明日の話じゃないなら、ちょっと安心なのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四本目、今日いちばん面白い事件よ。送電線が一本切れただけで、電力網がぐらついたの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "一本切れたら、そりゃ停電するんじゃないの?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "逆よ。電気が足りなくなったんじゃなくて、余っちゃったの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "余った!? 意味が分からないのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "近所のデータセンターが一斉に、自前のバックアップ電源へ切り替えたのよ。それも三十秒以内にね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "データセンターって、AIとかを動かしてる巨大なサーバー倉庫だっけ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう。その倉庫たちが合計3.1ギガワット分、電力網からいっぺんに消えたわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ぎがわっと? 単位がデカすぎて、想像もつかないのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "大きな発電所が一基で、ざっくり一ギガワット。つまり三基分の行き先が、三十秒で消えた計算。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、蛇口はそのままで、コップだけ引っ込めたみたいなことなのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "うまいわね、まさにそれ。おかげで周辺の照明がちらついて、落ち着くまで十一分かかったって。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "十一分って、長いほうなのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "sexy",
+      "text": "普通は数秒で戻るところよ。しかもこの一帯、世界でいちばんデータセンターが密集してる地域なの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "じゃあ、これからもっと増えるってこと!?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "この送電網に占めるデータセンターの比率、2024年は6パーセント。2040年には24パーセントの見通し。",
+      "news_index": 4,
+      "reading": "このそうでんもうにしめるデータセンターのヒリツ、にせんにじゅうよんねんは6パーセント。にせんよんじゅうねんには24パーセントのミトオシ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "四倍……電気の取り合いが本格化するやつじゃん。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "対策の議論は始まってるわ。一斉に落ちないよう順番に切り替えるとか、でっかい予備バッテリーを置くとかね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、これボクたちの生活にどう関係するのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "データセンターが増えるほど、電力網の安定化や設備増強の負担をどう分けるかが重要になる話よ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "AIに聞いた分だけ、うちの電気代が上がるのだ……。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあラスト五本目。日本の会社の話でしめるわよ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "待ってたのだ、日本! どこの会社なのだ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "東京の『サカナ・エーアイ』。名前の由来はそのまま、魚ね。",
+      "news_index": 5,
+      "reading": "とうきょうの『サカナ・エーアイ』。ナマエノユライハソノママ、さかなね。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "魚! AIの会社なのに、めちゃくちゃ和むネーミングなのだ。",
+      "news_index": 5,
+      "reading": "さかな!AIのぎょ かいしゃなのに、めちゃくちゃナジムネーミングなのだ。"
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "小さい魚が群れて大きな力を出す、っていう思想が入ってるの。そこが今日の話とつながるのよ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "群れ? 小さいAIをいっぱい集めるってこと?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "近いわ。出したのは『AIルーター』ってやつで、質問が来たら世の中のAIから得意なやつへ振り分けるの。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、病院の受付なのだ! 症状を聞いて、何科に行けって教えてくれるやつ!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "その例えいいわね。で、そのルーターが更新されて、面白い主張をしてるわ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "面白い主張? どんなのだ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "振り分け先の候補に最強のAIを入れてないのに、その最強のAIより成績が良かった、って。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、エースを使わずにエースに勝った!? そんなことある!?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "適材適所で回せば、一人のスターに勝てるって話ね。ただし第三者の検証はまだ無いから、そこは割り引いて聞いてね。",
+      "news_index": 5,
+      "reading": "てきざいてきしょでまわせば、ひとりのスターにカテルッテハナシネ。ただしダイサンシャノケンショウハマダナイカラ、そこはワリビイテキイテネ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "自己申告の段階ってことなのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そう。でも本当なら、いちばん高いAIを買わなくても済む未来があるってこと。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "お財布にやさしい未来、ボク大歓迎なのだー!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "はい、今日は五本。半額の新モデル、メモリの値上げ、キルスイッチ法案。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あと、送電線とデータセンターの事件と、魚の会社なのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "まとめかたが雑だけど、だいたい合ってるわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "今日いちばん刺さったのは、やっぱりメモリなのだ……。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "買い替えの予定があるかたは、早めに動いたほうがいいかもね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "気になったやつがあったら、あとで調べてみてほしいのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それじゃ、いってらっしゃい。また明日のテック朝便で。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "いってらっしゃいなのだー!",
+      "news_index": 0
+    }
+  ],
+  "program_description": "テック朝便、今朝は五本立て。アンソロピックが七月二十四日に出した新モデル「クロード・オーパス5」が、上位モデルの半額で並ぶ性能を主張し、ウェブ経由の乗っ取り攻撃129パターンを全部はじいた話。アップルがメモリ価格高騰を受けて中国メモリ企業との取引許可を米政府に求め、マイクロンが猛反発している一件。AIが暴走したら政府が止められる「キルスイッチ法案」に、エヌビディアら25の企業・団体が反論書簡で応じた動き。送電線が一本切れただけでデータセンター群が一斉離脱し、電力網が十一分ぐらついた事件。そして東京発のサカナ・エーアイが、最強AIを候補に入れずに最強AIへ勝ったと主張するAIルーターの話まで。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20260726_052256_chars.webp",
+    "hero_rel": "/images/topics/tech_20260726_052256.webp",
+    "title": "半額になった頭脳 〜値札と電気で読み解く今朝のテック五本〜",
+    "companies": [
+      "Claude",
+      "Apple",
+      "NVIDIA",
+      "OpenAI",
+      "Microsoft",
+      "Meta"
+    ]
+  },
+  "summary_short": "テック朝便五本、今朝の目玉はクロード新モデルの半額性能と全攻撃遮断。アップル対マイクロンのメモリ争奪戦、AI暴走阻止の法案に反発する25社、送電線一本で揺れた電力網、そして最強AI抜きで勝利を主張する日本発ルーターまで。値札と電気で今朝のテックを五本斬り。"
+}
