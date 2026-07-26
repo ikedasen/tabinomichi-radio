@@ -1,0 +1,926 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-07-27T05:19:58+09:00",
+  "title": "持ち出しと、置きどころ 〜線を引き直す今朝のテック五本〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 469.31,
+  "script_hash": "sha256:98629f41b87974b4020abf0df87671ee188b15e65c0ce4f327cec9b337297761",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 5.05
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kamera",
+      "text": "おはようございます、旅の道ラジオ朝便。四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 5.05,
+      "end_sec": 9.12
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝も元気にテックの話、いくのだー!",
+      "news_index": 0,
+      "start_sec": 9.27,
+      "end_sec": 13.75
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今日は最近のテックの話題を、五本まとめて軽く流していく回ね。",
+      "news_index": 0,
+      "start_sec": 13.9,
+      "end_sec": 18.02
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "五本!? 朝からそんなに詰め込んで、ボクの頭もつ?",
+      "news_index": 0,
+      "start_sec": 18.17,
+      "end_sec": 22.18
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "大丈夫、ぜんぶ噛み砕くわ。むしろ噛み砕きを引き出すのがあなたの仕事。",
+      "news_index": 0,
+      "start_sec": 22.33,
+      "end_sec": 26.71
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "分かんなかったら『それ何?』って言えばいいってことじゃん! それなら得意なのだ!",
+      "news_index": 0,
+      "start_sec": 26.86,
+      "end_sec": 31.81
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "頼もしいわ。じゃ、一本目いくわよ。",
+      "news_index": 0,
+      "start_sec": 31.96,
+      "end_sec": 34.78
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。アップルがオープンエーアイを、裁判所に訴えたのよ。",
+      "news_index": 1,
+      "start_sec": 34.86,
+      "end_sec": 39.09
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? あの二社、仲良しコンビじゃなかったっけ!?",
+      "news_index": 1,
+      "start_sec": 39.24,
+      "end_sec": 42.79
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう、アイフォンにチャットジーピーティーを載せた相棒同士。それが七月十日に正面衝突。",
+      "news_index": 1,
+      "start_sec": 42.94,
+      "end_sec": 48.59
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "何をやらかしたら、そこまでこじれるのだ?",
+      "news_index": 1,
+      "start_sec": 48.74,
+      "end_sec": 51.62
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "アップルの言い分は『うちの営業秘密を盗まれた』。社外に出しちゃいけない設計の中身ね。",
+      "news_index": 1,
+      "start_sec": 51.77,
+      "end_sec": 57.68
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、企業のマル秘レシピみたいなやつだね!",
+      "news_index": 1,
+      "start_sec": 57.83,
+      "end_sec": 60.73
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "近いわ。訴状でいちばん引っかかるのが、採用面接のくだり。",
+      "news_index": 1,
+      "start_sec": 60.88,
+      "end_sec": 64.78
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "面接? 普通に人を採っただけじゃん。",
+      "news_index": 1,
+      "start_sec": 64.93,
+      "end_sec": 67.83
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "sexy",
+      "text": "面接に来たアップル社員へ『実物の部品を持ってきて見せて』と促した、という主張があるの。",
+      "news_index": 1,
+      "start_sec": 67.98,
+      "end_sec": 74.68
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "部品を持参!? 面接の手土産って、そういう意味じゃないでしょ!",
+      "news_index": 1,
+      "start_sec": 74.83,
+      "end_sec": 79.24
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "そこがアップルの怒りどころ。しかも元アップル社員、もう400人以上あっちにいるらしいわ。",
+      "news_index": 1,
+      "start_sec": 79.39,
+      "end_sec": 84.93
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "400人! それ転職っていうか、集団引っ越しじゃん!",
+      "news_index": 1,
+      "start_sec": 85.08,
+      "end_sec": 89.07
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "オープンエーアイ側は全面否定よ。争点はただの転職じゃなくて、設計資料や試作品などの営業秘密を不正に持ち出したかどうかよ。",
+      "news_index": 1,
+      "start_sec": 89.22,
+      "end_sec": 97.83
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "うーん、線引きが難しいやつだね。で、ボクらに関係ある?",
+      "news_index": 1,
+      "start_sec": 97.98,
+      "end_sec": 102.8
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "オープンエーアイは画面のないAI機器を開発中でね。今回の訴訟は、その機器にアップルの営業秘密が使われたのかを争うことになるわ。",
+      "news_index": 1,
+      "start_sec": 102.95,
+      "end_sec": 111.67
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "未来のガジェットが、法廷の都合で遠のくのだ……。",
+      "news_index": 1,
+      "start_sec": 111.82,
+      "end_sec": 116.44
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "はい、二本目はちょっと楽しい話。エヌビディアが、シーグラフっていう映像技術の国際学会で新しいAIを見せたの。",
+      "news_index": 2,
+      "start_sec": 116.59,
+      "end_sec": 124.76
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "映像のAI? 写真をきれいにする加工アプリみたいなやつ?",
+      "news_index": 2,
+      "start_sec": 124.91,
+      "end_sec": 129.2
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "近いけど、こっちはゲーム用。名前はディーエルエスエス5で、ゲームの映像に、AIで写実的な照明や質感を加える技術よ。",
+      "news_index": 2,
+      "start_sec": 129.35,
+      "end_sec": 137.86
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、足りないとこをAIが勝手に盛ってくれるやつじゃん!",
+      "news_index": 2,
+      "start_sec": 138.01,
+      "end_sec": 141.65
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ご名答。で、最初に見せた段階では、調整の仕組みがほとんど説明されてなかったの。",
+      "news_index": 2,
+      "start_sec": 141.8,
+      "end_sec": 147.36
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "一種類だと、何が困るのだ?",
+      "news_index": 2,
+      "start_sec": 147.51,
+      "end_sec": 149.95
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "キャラの顔や作品本来の画風まで変えてしまうんじゃないかって、批判が出てたのよ。",
+      "news_index": 2,
+      "start_sec": 150.1,
+      "end_sec": 155.12
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "あー、美肌フィルタを全力にした時の、あの顔なのだ。",
+      "news_index": 2,
+      "start_sec": 155.27,
+      "end_sec": 159.28
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "その例え、悪くないわ。だから5では中身の違うAIを三種類用意して、場面ごとに切り替えられるようにしたの。",
+      "news_index": 2,
+      "start_sec": 159.43,
+      "end_sec": 166.2
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "三種類!? 主人公と背景で、別のAIを使い分けられるってこと!?",
+      "news_index": 2,
+      "start_sec": 166.35,
+      "end_sec": 171.73
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、キャラ単位で指定できるわ。盛り具合を決めるつまみも二つ付いたの。",
+      "news_index": 2,
+      "start_sec": 171.88,
+      "end_sec": 176.49
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "つまみ? ゲームを作る人が、手加減を調整できるってことだね。",
+      "news_index": 2,
+      "start_sec": 176.64,
+      "end_sec": 181.19
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そういうこと。投入は今年の秋ごろの予定。",
+      "news_index": 2,
+      "start_sec": 181.34,
+      "end_sec": 184.39
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "で、ボクたちの生活はどう変わるのだ?",
+      "news_index": 2,
+      "start_sec": 184.54,
+      "end_sec": 187.53
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "対応するジーフォース・アールティーエックス五十シリーズなら、対応ゲームで新しい映像表現を使えるようになるわ。",
+      "news_index": 2,
+      "start_sec": 187.68,
+      "end_sec": 194.89
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "買い替えなくていい話、いちばん好きなやつなのだー!",
+      "news_index": 2,
+      "start_sec": 195.04,
+      "end_sec": 198.85
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "三本目。お財布に直撃するやつよ、エスエスディーがとんでもなく高くなってるの。",
+      "news_index": 3,
+      "start_sec": 199.0,
+      "end_sec": 204.0
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "えすえすでぃー? パソコンの中に入ってる、あれだっけ?",
+      "news_index": 3,
+      "start_sec": 204.15,
+      "end_sec": 208.11
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、写真もゲームも保存しとく記憶部品ね。ここ最近、値札の桁が変わってきてるのよ。",
+      "news_index": 3,
+      "start_sec": 208.26,
+      "end_sec": 214.21
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "桁!? どのくらい上がったのだ!?",
+      "news_index": 3,
+      "start_sec": 214.36,
+      "end_sec": 216.73
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "1テラバイトのものが、二年前は8,000円くらい。それが今は22,000円から、上だと45,000円くらいまで。",
+      "news_index": 3,
+      "start_sec": 216.88,
+      "end_sec": 223.78
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "三倍から五倍! ボクのお小遣い、何ヶ月ぶん積み上げれば届くのだ!",
+      "news_index": 3,
+      "start_sec": 223.93,
+      "end_sec": 228.9
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "大きな要因のひとつがAI需要よ。データセンター向けの需要が急増して、家庭向けの供給にも影響が出てるの。",
+      "news_index": 3,
+      "start_sec": 229.05,
+      "end_sec": 236.75
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でーたせんたー? それ、何なのだ?",
+      "news_index": 3,
+      "start_sec": 236.9,
+      "end_sec": 239.55
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "AIやクラウドを動かしてる、巨大なサーバー倉庫のこと。そこで使う記憶部品の需要が、いま一気に膨らんでるの。",
+      "news_index": 3,
+      "start_sec": 239.7,
+      "end_sec": 246.85
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、AIがボクのパソコンのぶんまで食べちゃってるのだ!",
+      "news_index": 3,
+      "start_sec": 247.0,
+      "end_sec": 250.82
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "sexy",
+      "text": "そういうこと。さらに象徴的なのが、マイクロンっていう大手が『クルーシャル』ってブランドを畳んだ件。",
+      "news_index": 3,
+      "start_sec": 250.97,
+      "end_sec": 258.72
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "くるーしゃる? 自作パソコンの話で見た気がするのだ。",
+      "news_index": 3,
+      "start_sec": 258.87,
+      "end_sec": 262.32
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "29年続いた、安くて堅い定番よ。それを捨てて、企業向けに全振りしたの。",
+      "news_index": 3,
+      "start_sec": 262.47,
+      "end_sec": 267.88
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "29年の定番が、AI景気に押し出されちゃったのだ……。",
+      "news_index": 3,
+      "start_sec": 268.03,
+      "end_sec": 273.2
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに『安くて良いやつ』の席が減ったって話。パソコン買い替えるなら、容量は妥協する覚悟がいるわね。",
+      "news_index": 3,
+      "start_sec": 273.35,
+      "end_sec": 280.02
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "今年の自作、予算オーバー確定なのだ……。",
+      "news_index": 3,
+      "start_sec": 280.17,
+      "end_sec": 284.52
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四本目は七月二十一日の話。マイクロソフトが、フランスのミストラルってAI会社と手を組み直したのよ。",
+      "news_index": 4,
+      "start_sec": 284.67,
+      "end_sec": 291.66
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "みすとらる? 聞き慣れない名前だね。",
+      "news_index": 4,
+      "start_sec": 291.81,
+      "end_sec": 294.31
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ヨーロッパでいちばん名前の売れてるAI企業よ。アメリカ勢に正面から張り合える、数少ない存在。",
+      "news_index": 4,
+      "start_sec": 294.46,
+      "end_sec": 300.71
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "組み直したってことは、前から仲良かったってこと?",
+      "news_index": 4,
+      "start_sec": 300.86,
+      "end_sec": 304.43
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう、前からの提携を広げて、マイクロソフトがミストラルのヨーロッパの計算設備に数十億ドルを投じるの。ヨーロッパにAI用の計算設備をどんと建てる話ね。",
+      "news_index": 4,
+      "start_sec": 304.58,
+      "end_sec": 314.4
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "数十億ドル!? 会社が国みたいな買い物してるじゃん!",
+      "news_index": 4,
+      "start_sec": 314.55,
+      "end_sec": 318.39
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "面白いのが、その売り文句。『データや運用を自分たちで管理できる』っていうのが目玉なの。",
+      "news_index": 4,
+      "start_sec": 318.54,
+      "end_sec": 324.24
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "外に出ない? 出たら、何が困るのだ?",
+      "news_index": 4,
+      "start_sec": 324.39,
+      "end_sec": 327.46
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "病院や銀行みたいな規制の厳しい業界だと、データの保管場所や扱い方に厳しい条件が付くことがあるのよ。",
+      "news_index": 4,
+      "start_sec": 327.61,
+      "end_sec": 335.21
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、AIの賢さじゃなくて『どこに置くか』で勝負してるってことじゃん!",
+      "news_index": 4,
+      "start_sec": 335.36,
+      "end_sec": 340.37
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今の一行が正解ね。モデルの賢さだけじゃなく、データの置き場所や管理方法も競争軸になったってこと。",
+      "news_index": 4,
+      "start_sec": 340.52,
+      "end_sec": 347.13
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "住所で勝負するAI、なんか不動産屋さんみたいなのだ。",
+      "news_index": 4,
+      "start_sec": 347.28,
+      "end_sec": 351.28
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "茶化さないの。日本だって他人事じゃないわ、役所や病院がAIを入れる時に必ず同じ議論になるから。",
+      "news_index": 4,
+      "start_sec": 351.43,
+      "end_sec": 357.94
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "便利さより先に、置き場所を決める時代なのだね。",
+      "news_index": 4,
+      "start_sec": 358.09,
+      "end_sec": 361.61
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "じゃあラスト五本目。今日いちばん地味で、いちばん夏に効くやつ。",
+      "news_index": 5,
+      "start_sec": 361.76,
+      "end_sec": 365.9
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "待ってたのだ、身近なやつ! なんなのだ?",
+      "news_index": 5,
+      "start_sec": 366.05,
+      "end_sec": 368.89
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "エアコンの室外機の上に、マットを一枚置くの。それだけ。",
+      "news_index": 5,
+      "start_sec": 369.04,
+      "end_sec": 372.64
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "マット? 玄関に敷いてるやつと同じ?",
+      "news_index": 5,
+      "start_sec": 372.79,
+      "end_sec": 375.91
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "形は似てるけど中身は別物よ。名前はジーエックスマットで、七月十四日に中核技術の特許が取れたの。",
+      "news_index": 5,
+      "start_sec": 376.06,
+      "end_sec": 383.22
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "置くだけで、何が起きるのだ?",
+      "news_index": 5,
+      "start_sec": 383.37,
+      "end_sec": 385.6
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "雨水をマットが溜めて、じわじわ蒸発するのよ。その気化熱で室外機の周りが冷える仕組みね。",
+      "news_index": 5,
+      "start_sec": 385.75,
+      "end_sec": 391.76
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "打ち水を、室外機の専属でやらせてる感じじゃん!",
+      "news_index": 5,
+      "start_sec": 391.91,
+      "end_sec": 395.41
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "いい例え。ある鉄道会社での試験だと、56日間の平均で空調の電気を38パーセント削減。",
+      "news_index": 5,
+      "start_sec": 395.56,
+      "end_sec": 402.94
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "38パーセント!? その試験では、空調に使う電気が四割近く減ったってこと!?",
+      "news_index": 5,
+      "start_sec": 403.09,
+      "end_sec": 409.35
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "条件次第だけどね。お値段は小さいので15,000円、大きいので22,500円よ。",
+      "news_index": 5,
+      "start_sec": 409.5,
+      "end_sec": 415.6
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "うーん、元は取れるのだ?",
+      "news_index": 5,
+      "start_sec": 415.75,
+      "end_sec": 417.92
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこは各家庭の電気代次第。ただ『AIが電気を食い尽くす』話ばっかりの中で、こういう地味な節約こそ効くのよ。",
+      "news_index": 5,
+      "start_sec": 418.07,
+      "end_sec": 425.44
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "巨大なAIの話のあとに、マット一枚。落差がすごいのだ。",
+      "news_index": 5,
+      "start_sec": 425.59,
+      "end_sec": 429.91
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "はい、今朝は五本。訴訟、映像AI、エスエスディー高騰、ヨーロッパの提携、そして室外機のマットね。",
+      "news_index": 0,
+      "start_sec": 430.06,
+      "end_sec": 437.03
+    },
+    {
+      "index": 84,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "並べると、めちゃくちゃバラバラなのだ。",
+      "news_index": 0,
+      "start_sec": 437.18,
+      "end_sec": 440.34
+    },
+    {
+      "index": 85,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "それがね、ぜんぶ裏で同じ電気とお金が動いてる話なのよ。",
+      "news_index": 0,
+      "start_sec": 440.49,
+      "end_sec": 444.61
+    },
+    {
+      "index": 86,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、つながってるのだ! 大きい話も、最後はボクの電気代に届くってことじゃん!",
+      "news_index": 0,
+      "start_sec": 444.76,
+      "end_sec": 450.28
+    },
+    {
+      "index": 87,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kamera",
+      "text": "そういうこと。気になったやつがあったら、あとで自分でも調べてみて。",
+      "news_index": 0,
+      "start_sec": 450.43,
+      "end_sec": 454.46
+    },
+    {
+      "index": 88,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "旅の道ラジオ朝便、また明日のテックの回で会うのだー!",
+      "news_index": 0,
+      "start_sec": 454.61,
+      "end_sec": 458.63
+    },
+    {
+      "index": 89,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "いってらっしゃい。四国めたんでした。",
+      "news_index": 0,
+      "start_sec": 458.78,
+      "end_sec": 460.91
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 461.61,
+      "end_sec": 469.31
+    }
+  ],
+  "wall_time_sec": 13.87,
+  "audio_url": "/audio/ai/20260727_051958.mp3?v=1785097915"
+}

@@ -7,8 +7,8 @@
     <description>ずんだもん × めたん × つむぎが届ける、ゲーム &amp; テックニュース雑談ラジオ。朝便と夜便で毎日更新、レトロから新作まで、最新 AI 動向から業界マクロまで雑談形式でサクッと。</description>
     <language>ja</language>
     <copyright>© 2026 tabinomichi</copyright>
-    <lastBuildDate>Sun, 26 Jul 2026 05:35:54 +0900</lastBuildDate>
-    <pubDate>Sun, 26 Jul 2026 05:22:56 +0900</pubDate>
+    <lastBuildDate>Mon, 27 Jul 2026 05:31:58 +0900</lastBuildDate>
+    <pubDate>Mon, 27 Jul 2026 05:19:58 +0900</pubDate>
     <generator>build_rss_feed.py (tabinomichi radio)</generator>
     <image>
       <url>https://news.tabinomichi.jp/podcast-cover.png?v=1779005902</url>
@@ -29,6 +29,21 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>持ち出しと、置きどころ 〜線を引き直す今朝のテック五本〜</title>
+      <link>https://news.tabinomichi.jp/radio/20260727_051958</link>
+      <guid isPermaLink="false">tabinomichi-radio-20260727_051958</guid>
+      <pubDate>Mon, 27 Jul 2026 05:19:58 +0900</pubDate>
+      <description>旅の道ラジオ朝便、テックニュースの回。まずアップルがオープンエーアイを営業秘密の窃取で訴えた一件を、面接に部品を持参させたという主張や、元アップル社員が400人以上あちらにいる話から追いかけます。続いてエヌビディアが学会で見せた新しい映像AI「ディーエルエスエス5」、三種類のAIを場面ごとに切り替えられる仕組みを解説。三本目はお財布直撃、エスエスディーの高騰と、29年続いた定番ブランドが畳まれた話。四本目はマイクロソフトとミストラルの提携で見えてきた、AIの競争軸が賢さから「データの置き場所」に移った流れ。ラストは室外機の上に一枚置くだけで空調の電気を減らすマットの特許取得と、その効き目。大きいAIの話から、うちの電気代まで一本の線でつなぐ回です。</description>
+      <content:encoded><![CDATA[旅の道ラジオ朝便、テックニュースの回。まずアップルがオープンエーアイを営業秘密の窃取で訴えた一件を、面接に部品を持参させたという主張や、元アップル社員が400人以上あちらにいる話から追いかけます。続いてエヌビディアが学会で見せた新しい映像AI「ディーエルエスエス5」、三種類のAIを場面ごとに切り替えられる仕組みを解説。三本目はお財布直撃、エスエスディーの高騰と、29年続いた定番ブランドが畳まれた話。四本目はマイクロソフトとミストラルの提携で見えてきた、AIの競争軸が賢さから「データの置き場所」に移った流れ。ラストは室外機の上に一枚置くだけで空調の電気を減らすマットの特許取得と、その効き目。大きいAIの話から、うちの電気代まで一本の線でつなぐ回です。]]></content:encoded>
+      <enclosure url="https://news.tabinomichi.jp/audio/ai/20260727_051958.mp3?v=1785097915" length="7509933" type="audio/mpeg"/>
+      <itunes:title>持ち出しと、置きどころ 〜線を引き直す今朝のテック五本〜</itunes:title>
+      <itunes:summary>旅の道ラジオ朝便、テックニュースの回。まずアップルがオープンエーアイを営業秘密の窃取で訴えた一件を、面接に部品を持参させたという主張や、元アップル社員が400人以上あちらにいる話から追いかけます。続いてエヌビディアが学会で見せた新しい映像AI「ディーエルエスエス5」、三種類のAIを場面ごとに切り替えられる仕組みを解説。三本目はお財布直撃、エスエスディーの高騰と、29年続いた定番ブランドが畳まれた話。四本目はマイクロソフトとミストラルの提携で見えてきた、AIの競争軸が賢さから「データの置き場所」に移った流れ。ラストは室外機の上に一枚置くだけで空調の電気を減らすマットの特許取得と、その効き目。大きいAIの話から、うちの電気代まで一本の線でつなぐ回です。</itunes:summary>
+      <itunes:image href="https://news.tabinomichi.jp/images/og/20260727_051958.jpg"/>
+      <itunes:duration>7:49</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>半額になった頭脳 〜値札と電気で読み解く今朝のテック五本〜</title>
       <link>https://news.tabinomichi.jp/radio/20260726_052256</link>
@@ -1511,21 +1526,6 @@
       <itunes:summary>今回は SFC 屈指の名作 RPG『クロノ・トリガー』をじっくり深掘り。1995 年 3 月 11 日にスクウェアから発売された、堀井雄二・鳥山明・坂口博信・加藤正人・光田康典という当時のドリームプロジェクトが結集した伝説のタイトル。7 つの時代を行き来するタイムトラベル RPG という設定、アクティブタイムバトル、シンボルエンカウント、仲間との連携技、強くてニューゲーム、複数エンディングといった当時としては野心的な仕組みを丁寧になぞりつつ、光田康典のデビュー作とは思えない楽曲の完成度、ファミ通『平成のゲームベスト100』で堂々の 1 位という偉業まで踏み込む。レトロ担当のつむぎが『あーし、何周しても新しい発見があるっす』とテンション爆発、ずんだは『ボクも時間旅行したいのだ』と興奮しながら、ネタバレ厳禁ラインを慎重に守ってリスナーに『未プレイならいますぐ遊んでほしい』と熱く推すリスペクト回。</itunes:summary>
       <itunes:image href="https://news.tabinomichi.jp/images/og/20260603_171137.jpg"/>
       <itunes:duration>5:09</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>カネと体と無料の朝 〜AIが世界を呑む5つのニュース〜</title>
-      <link>https://news.tabinomichi.jp/radio/20260603_091624</link>
-      <guid isPermaLink="false">tabinomichi-radio-20260603_091624</guid>
-      <pubDate>Wed, 03 Jun 2026 09:16:24 +0900</pubDate>
-      <description>旅の道ラジオ朝便、テックニュースの回。今朝はAIと業界の話題を5本軽くまとめてお届け。1本目はグーグルの親会社アルファベットが800億ドル(約11兆円)を集めてAIの巨大倉庫に突っ込む話、バフェットも一枚噛んでた。2本目は中国ミニマックスの新AI「M3」が無料で配られて有料勢に殴り込む話。3本目はメタのAIサポートが口車で騙されて有名人のインスタが乗っ取られた事件、二段階認証の大切さも。4本目はオープンエーアイがロボット作りに本腰、まずは建設用から一家に一台の万能ロボまで。最後はギリシャ神話の街づくりゲーム「テオス」のほっこり話題。通勤通学のお供にどうぞ。</description>
-      <content:encoded><![CDATA[旅の道ラジオ朝便、テックニュースの回。今朝はAIと業界の話題を5本軽くまとめてお届け。1本目はグーグルの親会社アルファベットが800億ドル(約11兆円)を集めてAIの巨大倉庫に突っ込む話、バフェットも一枚噛んでた。2本目は中国ミニマックスの新AI「M3」が無料で配られて有料勢に殴り込む話。3本目はメタのAIサポートが口車で騙されて有名人のインスタが乗っ取られた事件、二段階認証の大切さも。4本目はオープンエーアイがロボット作りに本腰、まずは建設用から一家に一台の万能ロボまで。最後はギリシャ神話の街づくりゲーム「テオス」のほっこり話題。通勤通学のお供にどうぞ。]]></content:encoded>
-      <enclosure url="https://news.tabinomichi.jp/audio/ai/20260603_091624.mp3?v=1780449050" length="7027190" type="audio/mpeg"/>
-      <itunes:title>カネと体と無料の朝 〜AIが世界を呑む5つのニュース〜</itunes:title>
-      <itunes:summary>旅の道ラジオ朝便、テックニュースの回。今朝はAIと業界の話題を5本軽くまとめてお届け。1本目はグーグルの親会社アルファベットが800億ドル(約11兆円)を集めてAIの巨大倉庫に突っ込む話、バフェットも一枚噛んでた。2本目は中国ミニマックスの新AI「M3」が無料で配られて有料勢に殴り込む話。3本目はメタのAIサポートが口車で騙されて有名人のインスタが乗っ取られた事件、二段階認証の大切さも。4本目はオープンエーアイがロボット作りに本腰、まずは建設用から一家に一台の万能ロボまで。最後はギリシャ神話の街づくりゲーム「テオス」のほっこり話題。通勤通学のお供にどうぞ。</itunes:summary>
-      <itunes:image href="https://news.tabinomichi.jp/images/og/20260603_091624.jpg"/>
-      <itunes:duration>7:19</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
