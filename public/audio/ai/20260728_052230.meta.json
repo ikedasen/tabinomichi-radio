@@ -1,0 +1,916 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-07-28T05:22:30+09:00",
+  "title": "検索窓の向こう側 〜こぼれた会話と、埋まっていく答え〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 454.67,
+  "script_hash": "sha256:91047f624f7a7f329009f36a8a344b6f002010f1b089e05157138372e478ada9",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 4.64
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kamera",
+      "text": "おはようございます、旅の道ラジオ朝便。四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 4.64,
+      "end_sec": 8.7
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝もテックの話、軽くいくのだー!",
+      "news_index": 0,
+      "start_sec": 8.85,
+      "end_sec": 13.22
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今日は六本。ぜんぶ検索とか、つながりが絡んでて、地味に並びがいいの。",
+      "news_index": 0,
+      "start_sec": 13.37,
+      "end_sec": 18.26
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "検索? グーグルにポチポチ打つ、あれのこと?",
+      "news_index": 0,
+      "start_sec": 18.41,
+      "end_sec": 21.91
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう、その窓から始めるわ。一本目は、うっかり検索に出ちゃった会話の話。",
+      "news_index": 0,
+      "start_sec": 22.06,
+      "end_sec": 27.03
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "会話が出た!? ボクの独り言、漏れてないよね!?",
+      "news_index": 0,
+      "start_sec": 27.18,
+      "end_sec": 30.82
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。クロードっていうエーアイとの会話が、グーグルの検索結果に出ちゃってたのよ。",
+      "news_index": 1,
+      "start_sec": 30.97,
+      "end_sec": 36.19
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? ボクの相談ごとが、知らない人に読まれてたってこと!?",
+      "news_index": 1,
+      "start_sec": 36.34,
+      "end_sec": 40.6
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "落ち着いて、全部じゃないわ。共有リンクを作った会話だけ。",
+      "news_index": 1,
+      "start_sec": 40.75,
+      "end_sec": 44.75
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "共有リンク? 写真を人に送る時の、あのアドレスみたいなやつ?",
+      "news_index": 1,
+      "start_sec": 44.9,
+      "end_sec": 49.68
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "まさにそれ。本来は、そのアドレスを知ってる人だけが見られる設計ね。",
+      "news_index": 1,
+      "start_sec": 49.83,
+      "end_sec": 54.14
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、じゃあ誰にも教えなきゃ安全なやつじゃん!",
+      "news_index": 1,
+      "start_sec": 54.29,
+      "end_sec": 57.42
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "そのはずが、検索エンジンの巡回ロボットに拾われたの。ここは索引に入れないで、っていう札が抜けてたのよ。",
+      "news_index": 1,
+      "start_sec": 57.57,
+      "end_sec": 64.3
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "札一枚!? そんな薄いもので守られてたのだ!?",
+      "news_index": 1,
+      "start_sec": 64.45,
+      "end_sec": 68.01
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "その一行で、検索結果に載るかどうかが変わるの。ただし共有リンク自体は、知ってる人なら誰でも見られる公開ページよ。",
+      "news_index": 1,
+      "start_sec": 68.16,
+      "end_sec": 75.56
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、何が読めちゃってたのだ?",
+      "news_index": 1,
+      "start_sec": 75.71,
+      "end_sec": 77.84
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "法律の相談、仕事のコード、履歴書まで並んでたって報じられてるわ。グーグル側からはほぼ消えたけど、ビングにはまだ残ってたって。",
+      "news_index": 1,
+      "start_sec": 77.99,
+      "end_sec": 86.27
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "履歴書! 人生まるごと道端に落ちてるのと同じじゃん!",
+      "news_index": 1,
+      "start_sec": 86.42,
+      "end_sec": 90.28
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "だから今日の宿題は一行よ。共有リンクを作った覚えがあるなら、要らないやつを消しなさい。",
+      "news_index": 1,
+      "start_sec": 90.43,
+      "end_sec": 95.89
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "閉じたつもりのドアに、鍵が無かったやつなのだ。次いこ!",
+      "news_index": 1,
+      "start_sec": 96.04,
+      "end_sec": 99.83
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目。グーグルで検索した時、いちばん上にエーアイがまとめた答えが出るでしょ。",
+      "news_index": 2,
+      "start_sec": 99.98,
+      "end_sec": 105.1
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あー、青いリンクの前に居座ってるやつ!",
+      "news_index": 2,
+      "start_sec": 105.25,
+      "end_sec": 108.05
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "その居座り率が、検索全体の43パーセントまで来たの。",
+      "news_index": 2,
+      "start_sec": 108.2,
+      "end_sec": 112.15
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "43パーセント!? もう二回に一回はエーアイが先に喋ってるじゃん!",
+      "news_index": 2,
+      "start_sec": 112.3,
+      "end_sec": 117.27
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一年前は15パーセントよ。三倍近い伸び方ね。",
+      "news_index": 2,
+      "start_sec": 117.42,
+      "end_sec": 120.97
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "なんでそんなに急に増えたのだ?",
+      "news_index": 2,
+      "start_sec": 121.12,
+      "end_sec": 123.37
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "グーグルが本気で寄せてるからよ。エーアイに質問する専用モードも、去年6月の1億2,600万回から、今年5月は2億7,900万回に増えてるわ。",
+      "news_index": 2,
+      "start_sec": 123.52,
+      "end_sec": 134.21
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "2億7,900万!? ボクが一生で開くページ、たぶん一万もないのだ!",
+      "news_index": 2,
+      "start_sec": 134.36,
+      "end_sec": 139.99
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "比べる相手は違うけど、桁の感覚は合ってるわ。",
+      "news_index": 2,
+      "start_sec": 140.14,
+      "end_sec": 143.25
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、誰か困るのだ? 便利になってよくない?",
+      "news_index": 2,
+      "start_sec": 143.4,
+      "end_sec": 146.73
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "困ってるのはサイトを書いてる側。エーアイの答えだけで済ませる人が増えて、元のページへのアクセスが減る心配があるのよ。",
+      "news_index": 2,
+      "start_sec": 146.88,
+      "end_sec": 154.24
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "あー……ごはん屋さんの前に、試食コーナーだけ置かれた感じなのだね。",
+      "news_index": 2,
+      "start_sec": 154.39,
+      "end_sec": 160.38
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "うまいこと言うわ。で、我々への影響はひとつ。調べものは速くなるけど、合ってるか確かめる癖は前より要る。",
+      "news_index": 2,
+      "start_sec": 160.53,
+      "end_sec": 167.81
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "聞き上手すぎる友達を、たまに疑うのだ。次!",
+      "news_index": 2,
+      "start_sec": 167.96,
+      "end_sec": 171.39
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目、これは実害が出るやつ。警視庁が7月24日に注意を呼びかけたの。",
+      "news_index": 3,
+      "start_sec": 171.54,
+      "end_sec": 177.02
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "警視庁!? 急に物々しくなったのだ!",
+      "news_index": 3,
+      "start_sec": 177.17,
+      "end_sec": 180.16
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "投資詐欺のグループが、検索結果を自分たちの都合よく作り変えてたのよ。",
+      "news_index": 3,
+      "start_sec": 180.31,
+      "end_sec": 185.14
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "作り変える? 検索って、勝手に並ぶものじゃないのだ?",
+      "news_index": 3,
+      "start_sec": 185.29,
+      "end_sec": 189.53
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "具体的な方法は明らかになってないけど、不正な情報を検索結果で目立たせる細工ね。",
+      "news_index": 3,
+      "start_sec": 189.68,
+      "end_sec": 195.38
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、行列に横入りするやつなのだ!",
+      "news_index": 3,
+      "start_sec": 195.53,
+      "end_sec": 198.4
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "近いわ。でも本番はその次で、エーアイがまとめた答えのほうに、これは詐欺ではありません、って言わせるように仕込むのよ。",
+      "news_index": 3,
+      "start_sec": 198.55,
+      "end_sec": 205.76
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、エーアイに嘘の太鼓判を押させたってこと!?",
+      "news_index": 3,
+      "start_sec": 205.91,
+      "end_sec": 209.57
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。エーアイに聞いたら大丈夫って言われた、が安心の根拠にならなくなったわけ。",
+      "news_index": 3,
+      "start_sec": 209.72,
+      "end_sec": 214.92
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "いちばん頼りにしてた相談相手が、買収されてたやつなのだ……。",
+      "news_index": 3,
+      "start_sec": 215.07,
+      "end_sec": 221.02
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "言い方は古いけど、構図は合ってる。お金が絡む話だけは、検索とエーアイのまとめで決めない。",
+      "news_index": 3,
+      "start_sec": 221.17,
+      "end_sec": 226.9
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "公式サイトを自分の目で見るのだ。覚えたのだ!",
+      "news_index": 3,
+      "start_sec": 227.05,
+      "end_sec": 230.22
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四本目。お金がどこに流れてるかの話、いくわよ。",
+      "news_index": 4,
+      "start_sec": 230.37,
+      "end_sec": 233.88
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "待ってたのだ、でっかい金額のやつ!",
+      "news_index": 4,
+      "start_sec": 234.03,
+      "end_sec": 236.54
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "アメリカの通信会社ベライゾンが、グーグルと10億ドル以上の契約を結んだの。",
+      "news_index": 4,
+      "start_sec": 236.69,
+      "end_sec": 241.51
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "10億ドル!? 日本円で1,500億円くらいじゃん!",
+      "news_index": 4,
+      "start_sec": 241.66,
+      "end_sec": 245.4
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "契約したのはダークファイバーによる接続。まだ通信に使われていない光ファイバーを活用する仕組みね。",
+      "news_index": 4,
+      "start_sec": 245.55,
+      "end_sec": 252.02
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "敷いたのに使ってなかったのだ? もったいなくない?",
+      "news_index": 4,
+      "start_sec": 252.17,
+      "end_sec": 255.57
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "使われていない光ファイバーが、データセンターをつなぐ需要で価値を増してるのよ。エーアイのデータセンター同士を太い線で結ばないと、運ぶ量に間に合わないの。",
+      "news_index": 4,
+      "start_sec": 255.72,
+      "end_sec": 265.63
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、道が渋滞するから、眠ってた高速道路を開けたってことなのだ!",
+      "news_index": 4,
+      "start_sec": 265.78,
+      "end_sec": 270.64
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "その比喩、今日いちばん出来がいいわ。しかもベライゾンは、年末までにほかの契約も発表する見込みで、今後数年の売上は合計で数十億ドル規模になるって言ってるの。",
+      "news_index": 4,
+      "start_sec": 270.79,
+      "end_sec": 280.72
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "通信会社が、エーアイブームのおいしいとこ持ってったってこと!?",
+      "news_index": 4,
+      "start_sec": 280.87,
+      "end_sec": 285.27
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "チップと電気ばかり見られてたけど、線を持ってる側にも大きな商機がある。ただ、この契約が通信料にどう響くかまでは報じられてないわ。",
+      "news_index": 4,
+      "start_sec": 285.42,
+      "end_sec": 294.32
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "地面の下でも、静かに取り合いが始まってるのだね。",
+      "news_index": 4,
+      "start_sec": 294.47,
+      "end_sec": 297.94
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "五本目、ぐっと身近に。夏のアキバで今売れてるの、ほぼ扇風機なのよ。",
+      "news_index": 5,
+      "start_sec": 298.09,
+      "end_sec": 303.14
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "扇風機? パソコンの話じゃなかったっけ?",
+      "news_index": 5,
+      "start_sec": 303.29,
+      "end_sec": 306.65
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "パソコンの話よ。中を冷やすファンが、どんどん大きく、どんどん数を増やしてるの。",
+      "news_index": 5,
+      "start_sec": 306.8,
+      "end_sec": 311.61
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "どのくらい大きいのだ?",
+      "news_index": 5,
+      "start_sec": 311.76,
+      "end_sec": 313.44
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "前面に160ミリのファンを2基積んだケースが出てるわ。手のひらより大きいのが二枚、正面で回ってる感じ。",
+      "news_index": 5,
+      "start_sec": 313.59,
+      "end_sec": 321.02
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "正面で二枚!? パソコンっていうか、もう送風機じゃん!",
+      "news_index": 5,
+      "start_sec": 321.17,
+      "end_sec": 325.18
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "水冷のほうも派手よ。120ミリのファンを4つ横並びにしたキットが、5万5,000円くらいで並んでるの。",
+      "news_index": 5,
+      "start_sec": 325.33,
+      "end_sec": 332.02
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "5万5,000円! 冷やすだけの部品で、その値段なのだ!?",
+      "news_index": 5,
+      "start_sec": 332.17,
+      "end_sec": 336.28
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "サーバー向けだからね。エーアイの処理が重くて熱が出るぶん、熱を捨てる装置のほうが太っていくのよ。",
+      "news_index": 5,
+      "start_sec": 336.43,
+      "end_sec": 343.05
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ普通に使ってるボクのパソコンは、関係ないのだ?",
+      "news_index": 5,
+      "start_sec": 343.2,
+      "end_sec": 347.14
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今年の夏は関係あるわ。埃の詰まったファンは風量が落ちるから、掃除するだけで体感が変わるの。",
+      "news_index": 5,
+      "start_sec": 347.29,
+      "end_sec": 353.21
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "帰ったら、パソコンの埃を吹き飛ばすのだ!",
+      "news_index": 5,
+      "start_sec": 353.36,
+      "end_sec": 356.37
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあラスト六本目。今朝いちばん力が抜ける話でしめるわ。",
+      "news_index": 6,
+      "start_sec": 356.52,
+      "end_sec": 360.32
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "待ってたのだ、ゆるいやつ!",
+      "news_index": 6,
+      "start_sec": 360.47,
+      "end_sec": 362.27
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "時価総額で世界のてっぺんにいるエヌビディア、そのトップが7月15日に来日したの。",
+      "news_index": 6,
+      "start_sec": 362.42,
+      "end_sec": 367.57
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "えらい人が来たのだね。で、どこ行ったのだ? 高そうなお寿司?",
+      "news_index": 6,
+      "start_sec": 367.72,
+      "end_sec": 372.18
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "東京・神田の、やきとん屋さん。ふつうの居酒屋よ。",
+      "news_index": 6,
+      "start_sec": 372.33,
+      "end_sec": 375.76
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "やきとん!? 世界一の会社の社長が、串とビールなのだ!?",
+      "news_index": 6,
+      "start_sec": 375.91,
+      "end_sec": 380.16
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "しかもそのお店、そのとき出した内容をまるごと、ご来店記念コースとしてメニュー化したの。",
+      "news_index": 6,
+      "start_sec": 380.31,
+      "end_sec": 385.97
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "商魂たくましいのだ! そういうの、ボクは好きなのだ!",
+      "news_index": 6,
+      "start_sec": 386.12,
+      "end_sec": 389.57
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "税込4,500円、2時間飲み放題つきで全10品。串焼き、モツ鍋、しめのラーメンまでフルコースよ。",
+      "news_index": 6,
+      "start_sec": 389.72,
+      "end_sec": 396.5
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "4,500円で世界一の社長と同じごはん! じゅうぶん元が取れるじゃん!",
+      "news_index": 6,
+      "start_sec": 396.65,
+      "end_sec": 402.04
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "エーアイのチップの話をさんざんしてきたけど、その頂点にいる人の夜ごはんが、モツ鍋としめのラーメン。今朝いちばん我々に近いテックの話、たぶんこれね。",
+      "news_index": 6,
+      "start_sec": 402.19,
+      "end_sec": 412.26
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "えらい人も、ちゃんとしめにラーメン食べるのだね。",
+      "news_index": 6,
+      "start_sec": 412.41,
+      "end_sec": 415.4
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで今朝は六本。共有リンクの事故、エーアイ検索、詐欺の細工、光ファイバー、アキバの風、それと居酒屋。",
+      "news_index": 0,
+      "start_sec": 415.55,
+      "end_sec": 423.34
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "並べると、振れ幅がすごいのだね。",
+      "news_index": 0,
+      "start_sec": 423.49,
+      "end_sec": 426.06
+    },
+    {
+      "index": 84,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "テック業界っていつもこう。地面の下の回線から、串焼きまでつながってるのよ。",
+      "news_index": 0,
+      "start_sec": 426.21,
+      "end_sec": 430.99
+    },
+    {
+      "index": 85,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "今日やることは決まったのだ。共有リンクの掃除と、パソコンの埃の掃除!",
+      "news_index": 0,
+      "start_sec": 431.14,
+      "end_sec": 436.12
+    },
+    {
+      "index": 86,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "両方お掃除なのが、朝らしくていいじゃない。",
+      "news_index": 0,
+      "start_sec": 436.27,
+      "end_sec": 439.15
+    },
+    {
+      "index": 87,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "旅の道ラジオ朝便、お相手はずんだもんと",
+      "news_index": 0,
+      "start_sec": 439.3,
+      "end_sec": 442.59
+    },
+    {
+      "index": 88,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kamera",
+      "text": "四国めたんでした。いってらっしゃい、また明日の朝便で。",
+      "news_index": 0,
+      "start_sec": 442.74,
+      "end_sec": 446.26
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 446.96,
+      "end_sec": 454.67
+    }
+  ],
+  "wall_time_sec": 16.3,
+  "audio_url": "/audio/ai/20260728_052230.mp3?v=1785184543"
+}
