@@ -7,8 +7,8 @@
     <description>ずんだもん × めたん × つむぎが届ける、ゲーム &amp; テックニュース雑談ラジオ。朝便と夜便で毎日更新、レトロから新作まで、最新 AI 動向から業界マクロまで雑談形式でサクッと。</description>
     <language>ja</language>
     <copyright>© 2026 tabinomichi</copyright>
-    <lastBuildDate>Tue, 28 Jul 2026 05:35:46 +0900</lastBuildDate>
-    <pubDate>Tue, 28 Jul 2026 05:22:30 +0900</pubDate>
+    <lastBuildDate>Wed, 29 Jul 2026 05:31:21 +0900</lastBuildDate>
+    <pubDate>Wed, 29 Jul 2026 05:17:11 +0900</pubDate>
     <generator>build_rss_feed.py (tabinomichi radio)</generator>
     <image>
       <url>https://news.tabinomichi.jp/podcast-cover.png?v=1779005902</url>
@@ -29,6 +29,21 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>二千億ドルの胃袋 〜AIが呑み込むお金と、うちのコンセント〜</title>
+      <link>https://news.tabinomichi.jp/radio/20260729_051711</link>
+      <guid isPermaLink="false">tabinomichi-radio-20260729_051711</guid>
+      <pubDate>Wed, 29 Jul 2026 05:17:11 +0900</pubDate>
+      <description>AIがお金と電気をどんどん呑み込んでいく、今朝のテック5本。まずはグーグルの親会社アルファベットが設備投資を2,050億ドルまで引き上げた話で、好決算なのに株価が下がった理由を噛み砕きます。続いてアマゾンが自社AIの新規開発を止めて新チームに賭け直した話、マイクロソフトが出したセキュリティ専用のAI、そしてエヌビディアが52社を集めた業界連合と、そこに大手三社が居ないねじれ。最後は東京都が始めた家庭向けの節電キャンペーンで、太陽光や蓄電池の補助金まで。巨大なサーバー倉庫の話が、最後はうちのコンセントに着地する回です。</description>
+      <content:encoded><![CDATA[AIがお金と電気をどんどん呑み込んでいく、今朝のテック5本。まずはグーグルの親会社アルファベットが設備投資を2,050億ドルまで引き上げた話で、好決算なのに株価が下がった理由を噛み砕きます。続いてアマゾンが自社AIの新規開発を止めて新チームに賭け直した話、マイクロソフトが出したセキュリティ専用のAI、そしてエヌビディアが52社を集めた業界連合と、そこに大手三社が居ないねじれ。最後は東京都が始めた家庭向けの節電キャンペーンで、太陽光や蓄電池の補助金まで。巨大なサーバー倉庫の話が、最後はうちのコンセントに着地する回です。]]></content:encoded>
+      <enclosure url="https://news.tabinomichi.jp/audio/ai/20260729_051711.mp3?v=1785270678" length="7575971" type="audio/mpeg"/>
+      <itunes:title>二千億ドルの胃袋 〜AIが呑み込むお金と、うちのコンセント〜</itunes:title>
+      <itunes:summary>AIがお金と電気をどんどん呑み込んでいく、今朝のテック5本。まずはグーグルの親会社アルファベットが設備投資を2,050億ドルまで引き上げた話で、好決算なのに株価が下がった理由を噛み砕きます。続いてアマゾンが自社AIの新規開発を止めて新チームに賭け直した話、マイクロソフトが出したセキュリティ専用のAI、そしてエヌビディアが52社を集めた業界連合と、そこに大手三社が居ないねじれ。最後は東京都が始めた家庭向けの節電キャンペーンで、太陽光や蓄電池の補助金まで。巨大なサーバー倉庫の話が、最後はうちのコンセントに着地する回です。</itunes:summary>
+      <itunes:image href="https://news.tabinomichi.jp/images/og/20260729_051711.jpg"/>
+      <itunes:duration>7:53</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>検索窓の向こう側 〜こぼれた会話と、埋まっていく答え〜</title>
       <link>https://news.tabinomichi.jp/radio/20260728_052230</link>
@@ -1511,21 +1526,6 @@
       <itunes:summary>今夜の夜便は、注目の新作アクション『ケムリ』を深掘り。背景では、『ゴーストワイヤー東京』のクリエイティブディレクターを務めた中村育美さんがタンゴ・ゲームワークスを離れ、東京の独立スタジオ・UNSEEN（アンシーン）を立ち上げた経緯と、世界的な和風妖怪ブームの中でこの題材を選んだ狙いを整理したよ。本作では、生と死の境目にある街を舞台に、指で輪を作る『狐の窓』で異界を覗き、妖怪と契約して力をまとうシステム、そして発見役・誘導役・止め役に分かれる3人協力プレイの『儀式的』な設計を紹介。総括では、火力を持ち寄る既存の協力アクションとの違い、連携好きに刺さる一方ソロ派には向きにくい点、2027年発売予定ゆえ今は様子見で続報待ちという立ち位置を話したよ。</itunes:summary>
       <itunes:image href="https://news.tabinomichi.jp/images/og/20260604_172027.jpg"/>
       <itunes:duration>8:13</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>自前AIで殴り合う朝 〜マイクロソフトの反逆と、10分の1になるAIの値段〜</title>
-      <link>https://news.tabinomichi.jp/radio/20260603_171825</link>
-      <guid isPermaLink="false">tabinomichi-radio-20260603_171825</guid>
-      <pubDate>Thu, 04 Jun 2026 05:01:00 +0900</pubDate>
-      <description>旅の道ラジオ朝便、テックニュースの回。今朝はAIまわりで動きの多かった4本をサクッと。1本目はマイクロソフトが自社製AIを7つも一挙発表、初の『考えてから答える』推論AIまで揃えてオープンエーアイ頼みから自前路線へ。2本目はトランプ大統領がサインしたAIの大統領令、強力なAIを公開30日前に政府がチェックする仕組みだけど『お願いベース』で義務じゃない点がミソ。3本目はオープンエーアイのコーデックスがコードを書けない人にも開放、職種別の便利セットで非エンジニア利用が急増中。ラストはエヌビディアが新AIサーバー『ヴェラ・ルビン』を量産開始、AIの計算コストが10分の1になるかも、という財布に効く話。気軽に聴ける回です。</description>
-      <content:encoded><![CDATA[旅の道ラジオ朝便、テックニュースの回。今朝はAIまわりで動きの多かった4本をサクッと。1本目はマイクロソフトが自社製AIを7つも一挙発表、初の『考えてから答える』推論AIまで揃えてオープンエーアイ頼みから自前路線へ。2本目はトランプ大統領がサインしたAIの大統領令、強力なAIを公開30日前に政府がチェックする仕組みだけど『お願いベース』で義務じゃない点がミソ。3本目はオープンエーアイのコーデックスがコードを書けない人にも開放、職種別の便利セットで非エンジニア利用が急増中。ラストはエヌビディアが新AIサーバー『ヴェラ・ルビン』を量産開始、AIの計算コストが10分の1になるかも、という財布に効く話。気軽に聴ける回です。]]></content:encoded>
-      <enclosure url="https://news.tabinomichi.jp/audio/ai/20260603_171825.mp3?v=1780478845" length="5758684" type="audio/mpeg"/>
-      <itunes:title>自前AIで殴り合う朝 〜マイクロソフトの反逆と、10分の1になるAIの値段〜</itunes:title>
-      <itunes:summary>旅の道ラジオ朝便、テックニュースの回。今朝はAIまわりで動きの多かった4本をサクッと。1本目はマイクロソフトが自社製AIを7つも一挙発表、初の『考えてから答える』推論AIまで揃えてオープンエーアイ頼みから自前路線へ。2本目はトランプ大統領がサインしたAIの大統領令、強力なAIを公開30日前に政府がチェックする仕組みだけど『お願いベース』で義務じゃない点がミソ。3本目はオープンエーアイのコーデックスがコードを書けない人にも開放、職種別の便利セットで非エンジニア利用が急増中。ラストはエヌビディアが新AIサーバー『ヴェラ・ルビン』を量産開始、AIの計算コストが10分の1になるかも、という財布に効く話。気軽に聴ける回です。</itunes:summary>
-      <itunes:image href="https://news.tabinomichi.jp/images/og/20260603_171825.jpg"/>
-      <itunes:duration>5:59</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>

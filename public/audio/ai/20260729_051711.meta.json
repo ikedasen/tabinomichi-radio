@@ -1,0 +1,996 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-07-29T05:17:11+09:00",
+  "title": "二千億ドルの胃袋 〜AIが呑み込むお金と、うちのコンセント〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 473.42,
+  "script_hash": "sha256:bc8e78d09e144d948fa50b34833add2f50f96d0437e4387937366e3e2c017ecf",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 6.34
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便。四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 6.34,
+      "end_sec": 10.41
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今日もテックの話題、軽くいくのだー!",
+      "news_index": 0,
+      "start_sec": 10.56,
+      "end_sec": 14.84
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今朝は5本。ぜんぶ「AIがお金と電気を呑み込んでいく」って一本の線でつながってるわ。",
+      "news_index": 0,
+      "start_sec": 14.99,
+      "end_sec": 20.69
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "お金と電気? なんか胃袋の話みたいじゃん。",
+      "news_index": 0,
+      "start_sec": 20.84,
+      "end_sec": 24.2
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "まさに胃袋よ。最後はあなたの家のコンセントまで話が降りてくるから。",
+      "news_index": 0,
+      "start_sec": 24.35,
+      "end_sec": 28.77
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "うちのコンセントまで来るのだ!? じゃあ最後まで聴くしかないのだ!",
+      "news_index": 0,
+      "start_sec": 28.92,
+      "end_sec": 32.87
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。グーグルの親会社アルファベットが、今年つかう設備投資の見通しを引き上げたのよ。",
+      "news_index": 1,
+      "start_sec": 33.02,
+      "end_sec": 38.85
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "せつびとうし? 会社がする、大きい買い物のことなのだ?",
+      "news_index": 1,
+      "start_sec": 39.0,
+      "end_sec": 43.2
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そう、建物や機械にかけるお金ね。投資の大半は、サーバーやデータセンターなどの技術基盤に向かう見込みよ。",
+      "news_index": 1,
+      "start_sec": 43.35,
+      "end_sec": 50.85
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、いくらに上げたのだ?",
+      "news_index": 1,
+      "start_sec": 51.0,
+      "end_sec": 52.91
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "上限で2,050億ドル。前は最大でも1,900億ドルって言ってたの。",
+      "news_index": 1,
+      "start_sec": 53.06,
+      "end_sec": 57.8
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "2,050億ドル!? 日本円で30兆円くらいじゃん!",
+      "news_index": 1,
+      "start_sec": 57.95,
+      "end_sec": 61.93
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ええ。しかも決算の中身は、市場の予想を上回る好決算だったのよ。",
+      "news_index": 1,
+      "start_sec": 62.08,
+      "end_sec": 66.75
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "儲かってて、投資も増やす。完璧じゃん!",
+      "news_index": 1,
+      "start_sec": 66.9,
+      "end_sec": 69.85
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "それがね、7月23日に株価が一時8パーセント近く下がったの。",
+      "news_index": 1,
+      "start_sec": 70.0,
+      "end_sec": 74.72
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "なんでだよ! 良い話しかしてないのだ!",
+      "news_index": 1,
+      "start_sec": 74.87,
+      "end_sec": 78.21
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "投資が急に増えると、手元に残るお金が減るでしょ。投資家はそこを嫌がったのよ。",
+      "news_index": 1,
+      "start_sec": 78.36,
+      "end_sec": 83.8
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "あ、給料が上がった日に、その倍の値段の車を買っちゃった人なのだ?",
+      "news_index": 1,
+      "start_sec": 83.95,
+      "end_sec": 89.04
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "近いわ。しかも、その車が投資に見合う利益を生むか、まだ読みづらい状態ね。",
+      "news_index": 1,
+      "start_sec": 89.19,
+      "end_sec": 94.11
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "それは、財布が先に泣くやつなのだ……。",
+      "news_index": 1,
+      "start_sec": 94.26,
+      "end_sec": 98.02
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、私たちにどう効くか。AIサービスを支える計算能力が、さらに増強されるって話につながるの。",
+      "news_index": 1,
+      "start_sec": 98.17,
+      "end_sec": 105.13
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、赤字覚悟で場所取りしてる時期ってことなのだ!",
+      "news_index": 1,
+      "start_sec": 105.28,
+      "end_sec": 108.76
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう。使う側にとっては、サービスの処理能力や機能が伸びる可能性があるってわけ。",
+      "news_index": 1,
+      "start_sec": 108.91,
+      "end_sec": 114.05
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "太っ腹なうちに使い倒すのだ。次いこー!",
+      "news_index": 1,
+      "start_sec": 114.2,
+      "end_sec": 117.18
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目。アマゾンが、自社AI「ノヴァ」の主力モデルの多くを段階的に縮小してるのよ。",
+      "news_index": 2,
+      "start_sec": 117.33,
+      "end_sec": 123.17
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、アマゾンってAI作ってたのだ!? 荷物届ける会社じゃん!",
+      "news_index": 2,
+      "start_sec": 123.32,
+      "end_sec": 127.89
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "ネットの裏側を貸し出す商売では世界最大手よ。「ノヴァ」っていう自社AIを、2024年から並べてたの。",
+      "news_index": 2,
+      "start_sec": 128.04,
+      "end_sec": 135.17
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "そのノヴァを、やめちゃうってこと?",
+      "news_index": 2,
+      "start_sec": 135.32,
+      "end_sec": 137.54
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "全部を消すんじゃなくて、主力モデルの多くを保守中心に移すの。利用者向けの提供は当面続ける見込みね。",
+      "news_index": 2,
+      "start_sec": 137.69,
+      "end_sec": 144.64
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "塩漬け……。作った人たち、ちょっと切ないのだ。",
+      "news_index": 2,
+      "start_sec": 144.79,
+      "end_sec": 149.19
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "代わりに新しい研究チームを立ち上げて、人もお金もそっちへ寄せたわ。",
+      "news_index": 2,
+      "start_sec": 149.34,
+      "end_sec": 154.01
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "チーム替えただけじゃん? なにが変わるのだ?",
+      "news_index": 2,
+      "start_sec": 154.16,
+      "end_sec": 157.15
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "率いてるのが、ロボットAI企業コヴァリアントとの提携を機に加わった研究者。狙ってる先が一段違うのよ。",
+      "news_index": 2,
+      "start_sec": 157.3,
+      "end_sec": 164.07
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、今のAIを磨くんじゃなくて、次の型を作りにいってるのだ!",
+      "news_index": 2,
+      "start_sec": 164.22,
+      "end_sec": 168.98
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そういうこと。いちばん上の新しいモデルは、今年後半の自社イベントでお披露目の見込みよ。",
+      "news_index": 2,
+      "start_sec": 169.13,
+      "end_sec": 175.09
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "今の主力を絞って、次のモデルに力を寄せるやつじゃん。思い切ったのだ。",
+      "news_index": 2,
+      "start_sec": 175.24,
+      "end_sec": 180.5
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "しかもアマゾンは、よそのAI会社にも巨額を出資してるの。自前にこだわらない構えね。",
+      "news_index": 2,
+      "start_sec": 180.65,
+      "end_sec": 186.25
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、ボクたちにはどう効くのだ?",
+      "news_index": 2,
+      "start_sec": 186.4,
+      "end_sec": 188.7
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ノヴァの一部は縮むけど、アマゾンのクラウドでは他社製も含めて複数のAIを選べる状態が続くわ。",
+      "news_index": 2,
+      "start_sec": 188.85,
+      "end_sec": 194.97
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "一本に絞ってくれると助かるのだ。次いこ!",
+      "news_index": 2,
+      "start_sec": 195.12,
+      "end_sec": 198.21
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目。マイクロソフトが7月27日に、セキュリティ専用のAIを出したわ。",
+      "news_index": 3,
+      "start_sec": 198.36,
+      "end_sec": 203.74
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "せきゅりてぃ専用? ウイルスを見つけるやつなのだ?",
+      "news_index": 3,
+      "start_sec": 203.89,
+      "end_sec": 207.4
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "もう一歩手前ね。プログラムの中に残ってる「穴」を探すのが仕事なの。",
+      "news_index": 3,
+      "start_sec": 207.55,
+      "end_sec": 212.4
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "穴!? ボクのパソコン、穴だらけってことじゃん!",
+      "news_index": 3,
+      "start_sec": 212.55,
+      "end_sec": 215.84
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "落ち着きなさい。どんなソフトにも見落としはあって、それを先に見つける側の話よ。",
+      "news_index": 3,
+      "start_sec": 215.99,
+      "end_sec": 221.03
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "その穴探し、今までは誰がやってたのだ?",
+      "news_index": 3,
+      "start_sec": 221.18,
+      "end_sec": 224.39
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "人間の専門家。何時間もコードを読み込む、しんどい作業だったの。",
+      "news_index": 3,
+      "start_sec": 224.54,
+      "end_sec": 228.94
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "そこをAIが手伝って、調査を速く回せるようにするのだ! 徹夜が減るかもしれないじゃん!",
+      "news_index": 3,
+      "start_sec": 229.09,
+      "end_sec": 234.86
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ええ。専用の試験でスコアは96パーセント、運用の費用も半分くらいに落ちるって話ね。",
+      "news_index": 3,
+      "start_sec": 235.01,
+      "end_sec": 241.16
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "半分!? セキュリティって、高くて当たり前のイメージだったのだ。",
+      "news_index": 3,
+      "start_sec": 241.31,
+      "end_sec": 245.69
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "面白いのが、攻める役・見つける役・直す役をAIの三人組で回す仕組みも一緒に出したこと。",
+      "news_index": 3,
+      "start_sec": 245.84,
+      "end_sec": 252.49
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "AIが自作自演で、自分を殴ってるじゃん!",
+      "news_index": 3,
+      "start_sec": 252.64,
+      "end_sec": 256.04
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "その自作自演がいちばん強いのよ。8月3日にお試し版が始まるわ。",
+      "news_index": 3,
+      "start_sec": 256.19,
+      "end_sec": 260.88
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクたちの生活には、どう降りてくるのだ?",
+      "news_index": 3,
+      "start_sec": 261.03,
+      "end_sec": 264.01
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "まずは企業向けのマイクロソフト・セキュリティ製品と連携するの。専門家の防御作業を支える仕組みね。",
+      "news_index": 3,
+      "start_sec": 264.16,
+      "end_sec": 271.08
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "知らない間に守られてるの、いちばんありがたいやつなのだ。",
+      "news_index": 3,
+      "start_sec": 271.23,
+      "end_sec": 275.05
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四本目、さっきの続きみたいな話。エヌビディアが、AIを守るための業界連合を旗揚げしたの。",
+      "news_index": 4,
+      "start_sec": 275.2,
+      "end_sec": 281.65
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "連合? 会社が集まって、何をするのだ?",
+      "news_index": 4,
+      "start_sec": 281.8,
+      "end_sec": 285.14
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "AIやAIエージェントを守る技術を、みんなで作って無料で公開するのよ。",
+      "news_index": 4,
+      "start_sec": 285.29,
+      "end_sec": 290.25
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "えーじぇんと? それ、なんなのだ?",
+      "news_index": 4,
+      "start_sec": 290.4,
+      "end_sec": 292.92
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "人の代わりに勝手に作業してくれるAIね。便利だけど、乗っ取られたら怖い相手でもあるの。",
+      "news_index": 4,
+      "start_sec": 293.07,
+      "end_sec": 299.07
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "乗っ取られる!? ボクの代わりに買い物されちゃうやつなのだ!?",
+      "news_index": 4,
+      "start_sec": 299.22,
+      "end_sec": 303.18
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "そう、だから守り方を早く配ろうって話。発足の顔ぶれは、エヌビディアを含めて37の企業や団体よ。",
+      "news_index": 4,
+      "start_sec": 303.33,
+      "end_sec": 310.56
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "52社!? 学校のクラスまるごとより多いじゃん!",
+      "news_index": 4,
+      "start_sec": 310.71,
+      "end_sec": 314.29
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "マイクロソフト、アドビ、シスコ、デル。名前を聞いたことある会社ばっかりね。",
+      "news_index": 4,
+      "start_sec": 314.44,
+      "end_sec": 319.26
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "すごい面子なのだ。……あれ、いちばん有名なとこが居ない気がするのだ。",
+      "news_index": 4,
+      "start_sec": 319.41,
+      "end_sec": 324.18
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "よく気づいたわね。オープンエーアイとグーグルとアンソロピック、この三社が入ってないの。",
+      "news_index": 4,
+      "start_sec": 324.33,
+      "end_sec": 329.13
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "AIを作ってる本人が、AIを守る会に来てないのだ!?",
+      "news_index": 4,
+      "start_sec": 329.28,
+      "end_sec": 334.61
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこが今朝いちばんの見どころ。ただ、三社が参加していない理由までは公表されてないのよ。",
+      "news_index": 4,
+      "start_sec": 334.76,
+      "end_sec": 340.57
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、ボクたちには、どう関係するのだ?",
+      "news_index": 4,
+      "start_sec": 340.72,
+      "end_sec": 343.7
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "この連合が作るのは、誰でも検証して導入できるオープンな防御ツール。利用者側の選択肢を増やそうとしてるのね。",
+      "news_index": 4,
+      "start_sec": 343.85,
+      "end_sec": 351.28
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "結局、気をつけるのはボクなのだ……。",
+      "news_index": 4,
+      "start_sec": 351.43,
+      "end_sec": 355.0
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあラスト五本目。ここまでの話、全部たどると「電気」に着地するのよ。",
+      "news_index": 5,
+      "start_sec": 355.15,
+      "end_sec": 360.26
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "あ、サーバー倉庫って電気をめちゃくちゃ食うやつだっけ?",
+      "news_index": 5,
+      "start_sec": 360.41,
+      "end_sec": 364.19
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "食うわね。で、東京都が7月22日から、家庭向けの節電キャンペーンを始めたの。",
+      "news_index": 5,
+      "start_sec": 364.34,
+      "end_sec": 370.13
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "都が? AIの話から、急に町内会みたいになったのだ。",
+      "news_index": 5,
+      "start_sec": 370.28,
+      "end_sec": 374.6
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "名前が「エイチ・ティー・ティー」。電気をへらす、つくる、ためる、の頭文字ね。",
+      "news_index": 5,
+      "start_sec": 374.75,
+      "end_sec": 380.18
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "へらす、つくる、ためる。おこづかいと同じ理屈じゃん!",
+      "news_index": 5,
+      "start_sec": 380.33,
+      "end_sec": 383.9
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "まさにそれ。今年のテーマは「できることいろいろ」で、カルタで覚えさせにきてるわ。",
+      "news_index": 5,
+      "start_sec": 384.05,
+      "end_sec": 389.6
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "カルタ!? 令和にカルタなのだ!?",
+      "news_index": 5,
+      "start_sec": 389.75,
+      "end_sec": 392.23
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "耳で覚えるから強いのよ。あなたも今、もう覚えたでしょ。",
+      "news_index": 5,
+      "start_sec": 392.38,
+      "end_sec": 395.85
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "たしかに、へらす・つくる・ためる、もう入っちゃったのだ。",
+      "news_index": 5,
+      "start_sec": 396.0,
+      "end_sec": 399.78
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "補助金も出るわ。今ある住宅なら、太陽光パネルは1キロワットあたり最大15万円ね。",
+      "news_index": 5,
+      "start_sec": 399.93,
+      "end_sec": 405.88
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "1キロワットあたり? 全部で15万円じゃないってこと?",
+      "news_index": 5,
+      "start_sec": 406.03,
+      "end_sec": 410.09
+    },
+    {
+      "index": 84,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、載せる量に応じて増えるの。蓄電池のほうも、貯められる量に応じて補助が付くわ。",
+      "news_index": 5,
+      "start_sec": 410.24,
+      "end_sec": 415.73
+    },
+    {
+      "index": 85,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "じゃあ屋根がでっかい家ほど得するのだ!? 世の中は屋根なのだー!",
+      "news_index": 5,
+      "start_sec": 415.88,
+      "end_sec": 420.14
+    },
+    {
+      "index": 86,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "言い方。でも方向は合ってるわ、屋根は資産よ。",
+      "news_index": 5,
+      "start_sec": 420.29,
+      "end_sec": 423.53
+    },
+    {
+      "index": 87,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "賃貸のボクは、どうすればいいのだ……。",
+      "news_index": 5,
+      "start_sec": 423.68,
+      "end_sec": 427.34
+    },
+    {
+      "index": 88,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "へらす、を担当なさい。エアコンの設定を1度いじるだけでも効くわよ。",
+      "news_index": 5,
+      "start_sec": 427.49,
+      "end_sec": 432.14
+    },
+    {
+      "index": 89,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "まかせるのだ! 今日から1度、上げてみるのだー!",
+      "news_index": 5,
+      "start_sec": 432.29,
+      "end_sec": 435.39
+    },
+    {
+      "index": 90,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "はい、今朝は5本。お金、撤退、守り、連合、そして家の電気でした。",
+      "news_index": 0,
+      "start_sec": 435.54,
+      "end_sec": 440.75
+    },
+    {
+      "index": 91,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "振り返ると、ぜんぶ同じ話に見えるのだ。",
+      "news_index": 0,
+      "start_sec": 440.9,
+      "end_sec": 444.06
+    },
+    {
+      "index": 92,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そうなの。AIが大きくなるほど、お金と電気の請求書がどこかに回ってくるって話。",
+      "news_index": 0,
+      "start_sec": 444.21,
+      "end_sec": 449.58
+    },
+    {
+      "index": 93,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ボク、屋根のある家に住む夢ができたのだ。",
+      "news_index": 0,
+      "start_sec": 449.73,
+      "end_sec": 453.03
+    },
+    {
+      "index": 94,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "小さいのか大きいのか分からない夢ね。気になったやつがあったら、あとで調べてみて。",
+      "news_index": 0,
+      "start_sec": 453.18,
+      "end_sec": 458.52
+    },
+    {
+      "index": 95,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "旅の道ラジオ朝便、また明日のテック回で会うのだー!",
+      "news_index": 0,
+      "start_sec": 458.67,
+      "end_sec": 462.56
+    },
+    {
+      "index": 96,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kamera",
+      "text": "いってらっしゃい。今日もよい一日を。",
+      "news_index": 0,
+      "start_sec": 462.71,
+      "end_sec": 465.02
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 465.72,
+      "end_sec": 473.42
+    }
+  ],
+  "wall_time_sec": 19.2,
+  "audio_url": "/audio/ai/20260729_051711.mp3?v=1785270678"
+}
