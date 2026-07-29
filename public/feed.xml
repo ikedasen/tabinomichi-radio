@@ -7,8 +7,8 @@
     <description>ずんだもん × めたん × つむぎが届ける、ゲーム &amp; テックニュース雑談ラジオ。朝便と夜便で毎日更新、レトロから新作まで、最新 AI 動向から業界マクロまで雑談形式でサクッと。</description>
     <language>ja</language>
     <copyright>© 2026 tabinomichi</copyright>
-    <lastBuildDate>Wed, 29 Jul 2026 05:31:21 +0900</lastBuildDate>
-    <pubDate>Wed, 29 Jul 2026 05:17:11 +0900</pubDate>
+    <lastBuildDate>Thu, 30 Jul 2026 05:38:33 +0900</lastBuildDate>
+    <pubDate>Thu, 30 Jul 2026 05:19:19 +0900</pubDate>
     <generator>build_rss_feed.py (tabinomichi radio)</generator>
     <image>
       <url>https://news.tabinomichi.jp/podcast-cover.png?v=1779005902</url>
@@ -29,6 +29,21 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>わざと残した誤字 〜AIの跡を数える今朝のテック六本〜</title>
+      <link>https://news.tabinomichi.jp/radio/20260730_051919</link>
+      <guid isPermaLink="false">tabinomichi-radio-20260730_051919</guid>
+      <pubDate>Thu, 30 Jul 2026 05:19:19 +0900</pubDate>
+      <description>おはようございます、旅の道ラジオ朝便。今朝はテックの話題を六本、軽く流していく回です。一本目はエーエムディーが出した安いグラフィックボード、279ドルという値札の話。二本目はチャットジーピーティー有料プランの五時間ごとの上限が戻る件と、使える時間が約18パーセント伸びる改善。三本目はパナソニック コネクトが自社のAIで年78万8,000時間を削ったという国内の数字。四本目は大手コンサル会社のレポートに存在しない出典が載っていた騒動。五本目はグーグルプレイの年齢を見分ける仕組みが世界へ広がる話。そして最後は、AIに間違われたくない作家たちがダッシュ記号を手放し、わざと誤字を残しはじめたという不思議な流れについて話しました。</description>
+      <content:encoded><![CDATA[おはようございます、旅の道ラジオ朝便。今朝はテックの話題を六本、軽く流していく回です。一本目はエーエムディーが出した安いグラフィックボード、279ドルという値札の話。二本目はチャットジーピーティー有料プランの五時間ごとの上限が戻る件と、使える時間が約18パーセント伸びる改善。三本目はパナソニック コネクトが自社のAIで年78万8,000時間を削ったという国内の数字。四本目は大手コンサル会社のレポートに存在しない出典が載っていた騒動。五本目はグーグルプレイの年齢を見分ける仕組みが世界へ広がる話。そして最後は、AIに間違われたくない作家たちがダッシュ記号を手放し、わざと誤字を残しはじめたという不思議な流れについて話しました。]]></content:encoded>
+      <enclosure url="https://news.tabinomichi.jp/audio/ai/20260730_051919.mp3?v=1785357511" length="7541280" type="audio/mpeg"/>
+      <itunes:title>わざと残した誤字 〜AIの跡を数える今朝のテック六本〜</itunes:title>
+      <itunes:summary>おはようございます、旅の道ラジオ朝便。今朝はテックの話題を六本、軽く流していく回です。一本目はエーエムディーが出した安いグラフィックボード、279ドルという値札の話。二本目はチャットジーピーティー有料プランの五時間ごとの上限が戻る件と、使える時間が約18パーセント伸びる改善。三本目はパナソニック コネクトが自社のAIで年78万8,000時間を削ったという国内の数字。四本目は大手コンサル会社のレポートに存在しない出典が載っていた騒動。五本目はグーグルプレイの年齢を見分ける仕組みが世界へ広がる話。そして最後は、AIに間違われたくない作家たちがダッシュ記号を手放し、わざと誤字を残しはじめたという不思議な流れについて話しました。</itunes:summary>
+      <itunes:image href="https://news.tabinomichi.jp/images/og/20260730_051919.jpg"/>
+      <itunes:duration>7:51</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>二千億ドルの胃袋 〜AIが呑み込むお金と、うちのコンセント〜</title>
       <link>https://news.tabinomichi.jp/radio/20260729_051711</link>
@@ -1511,21 +1526,6 @@
       <itunes:summary>今回はスーパーファミコン時代の超大作RPG『ファイナルファンタジー VI』を、ずんだもんとレトロ担当の春日部つむぎが深掘りする回。1994年4月2日にスクウェアから定価11,400円で発売された、シリーズの中でも屈指の物語重視作品。プロデューサーに退いた坂口博信、ディレクターに抜擢された北瀬佳範と伊藤裕之、そして音楽の植松伸夫——次世代スタッフが揃った世代交代の象徴的タイトルでもある。SFC の音源を絞り上げて『歌』をやってのけた伝説のオペラ座シーン、群像劇として組まれた仲間ひとりひとりの主人公級ドラマ、笑顔のまま壊していく異色の悪役ケフカ・パラッツォ、魔法を兵器化した『魔導』世界観、植松神の名曲『仲間を求めて』——核心ネタバレは避けつつ、つむぎがガチのレトロ RPG マニア顔で熱量爆発させる回。ピクセルリマスターで今からでも入門できる作品なので、未プレイのオタクくんはこの機会にぜひ。</itunes:summary>
       <itunes:image href="https://news.tabinomichi.jp/images/og/20260604_175933.jpg"/>
       <itunes:duration>6:42</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>『ゴーストワイヤー東京』の作り手が独立 〜『ケムリ』3人協力で挑む妖怪狩りの新機軸〜</title>
-      <link>https://news.tabinomichi.jp/radio/20260604_172027</link>
-      <guid isPermaLink="false">tabinomichi-radio-20260604_172027</guid>
-      <pubDate>Thu, 04 Jun 2026 17:20:27 +0900</pubDate>
-      <description>今夜の夜便は、注目の新作アクション『ケムリ』を深掘り。背景では、『ゴーストワイヤー東京』のクリエイティブディレクターを務めた中村育美さんがタンゴ・ゲームワークスを離れ、東京の独立スタジオ・UNSEEN（アンシーン）を立ち上げた経緯と、世界的な和風妖怪ブームの中でこの題材を選んだ狙いを整理したよ。本作では、生と死の境目にある街を舞台に、指で輪を作る『狐の窓』で異界を覗き、妖怪と契約して力をまとうシステム、そして発見役・誘導役・止め役に分かれる3人協力プレイの『儀式的』な設計を紹介。総括では、火力を持ち寄る既存の協力アクションとの違い、連携好きに刺さる一方ソロ派には向きにくい点、2027年発売予定ゆえ今は様子見で続報待ちという立ち位置を話したよ。</description>
-      <content:encoded><![CDATA[今夜の夜便は、注目の新作アクション『ケムリ』を深掘り。背景では、『ゴーストワイヤー東京』のクリエイティブディレクターを務めた中村育美さんがタンゴ・ゲームワークスを離れ、東京の独立スタジオ・UNSEEN（アンシーン）を立ち上げた経緯と、世界的な和風妖怪ブームの中でこの題材を選んだ狙いを整理したよ。本作では、生と死の境目にある街を舞台に、指で輪を作る『狐の窓』で異界を覗き、妖怪と契約して力をまとうシステム、そして発見役・誘導役・止め役に分かれる3人協力プレイの『儀式的』な設計を紹介。総括では、火力を持ち寄る既存の協力アクションとの違い、連携好きに刺さる一方ソロ派には向きにくい点、2027年発売予定ゆえ今は様子見で続報待ちという立ち位置を話したよ。]]></content:encoded>
-      <enclosure url="https://news.tabinomichi.jp/audio/indie/20260604_172027.mp3?v=1780563544" length="7898635" type="audio/mpeg"/>
-      <itunes:title>『ゴーストワイヤー東京』の作り手が独立 〜『ケムリ』3人協力で挑む妖怪狩りの新機軸〜</itunes:title>
-      <itunes:summary>今夜の夜便は、注目の新作アクション『ケムリ』を深掘り。背景では、『ゴーストワイヤー東京』のクリエイティブディレクターを務めた中村育美さんがタンゴ・ゲームワークスを離れ、東京の独立スタジオ・UNSEEN（アンシーン）を立ち上げた経緯と、世界的な和風妖怪ブームの中でこの題材を選んだ狙いを整理したよ。本作では、生と死の境目にある街を舞台に、指で輪を作る『狐の窓』で異界を覗き、妖怪と契約して力をまとうシステム、そして発見役・誘導役・止め役に分かれる3人協力プレイの『儀式的』な設計を紹介。総括では、火力を持ち寄る既存の協力アクションとの違い、連携好きに刺さる一方ソロ派には向きにくい点、2027年発売予定ゆえ今は様子見で続報待ちという立ち位置を話したよ。</itunes:summary>
-      <itunes:image href="https://news.tabinomichi.jp/images/og/20260604_172027.jpg"/>
-      <itunes:duration>8:13</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>

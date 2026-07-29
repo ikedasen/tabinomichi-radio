@@ -1,0 +1,617 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-07-29T20:19:19.708466+00:00",
+  "title": "わざと残した誤字 〜AIの跡を数える今朝のテック六本〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便。テックニュースの回、四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝も軽くサクッといくのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今朝は六本。値札の話から、わざと誤字を残す作家の話まで、振り幅が広いわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "わざと誤字? 学校で赤ペン入るやつじゃん?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "それが今、人間が書いた証明になってるの。最後にやるから待ってて。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "気になるやつを最後に置く作戦なのだね。じゃあ一本目、なにから行くのだ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "お財布に効くやつから。今朝はめずらしく、嬉しい方向よ。",
+      "news_index": 0,
+      "reading": "おサイフニキクヤツカラ。けさはめずらしく、ウレシイホウコウヨ。"
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "エーエムディーが七月二十九日に、入門向けのグラフィックボードを出したの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ぐらふぃっくぼーど? パソコンの絵を担当してる部品だっけ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そう、映像の計算をまとめて引き受ける板ね。ゲームの絵づくり係。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、それエーアイの計算にも使われてるやつじゃん!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そういう用途にも使われるけど、この製品はゲーム向けの入門モデルね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "出たのは『ラデオン アールエックス 9050』。希望小売価格が279ドル。",
+      "reading": "デタノハ、ラデオン アールエックス きゅうまるごーまる。きぼうこうりうりかかくが、にひゃくななじゅうきゅうドル。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "279ドル!? 今の相場だと、ずいぶん優しい値札じゃん!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "日本だとアスロック製が七月三十一日発売で、想定価格は54,800円ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "あー、日本に来ると毎回ちょっと厚みが出るのだ……。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "ただ、上位モデルとの価格差が小さいから、お得かどうかは比べて決めたいところね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、これでどのくらい遊べるのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "会社の数字だと、フルエイチディーの中設定でサイバーパンク2077が1秒あたり96コマ。要するに、いちばん普通の画面サイズなら足りるって話。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "新しい入門モデルの選択肢が増えたってことなのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目。仕事向けのチャットジーピーティーと、コーデックスっていうプログラム書きの道具に、上限がまた戻ってくるのよ。",
+      "news_index": 2,
+      "reading": "にほんめ。しごとむけのチャットジーピーティーと、コーデックスっていうトジーピーティートコーデックスッテユープログラムカキノドーグニ、ジョウゲンガマタモドッテクルノヨ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "上限!? 使えなくなるってこと!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "順番に話すわ。もともと五時間ごとに、使える量の枠があったでしょ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "五時間ごと? 食べ放題の九十分制みたいなやつなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "発想は近いわね。で、その枠を七月十二日から一時的に外してたのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "なんで外したのだ? 急に太っ腹すぎない?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "太っ腹じゃなくてお詫びよ。新しいモデルが、想定より燃費が悪かったの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "燃費!? エーアイに燃費があるのだ!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "あるわ。同じ質問でも、裏でよけいに考えこむと消費が増えるって仕組み。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "考えすぎて勝手に残業してるタイプなのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "うまい言い方。で、七月二十八日に幹部が『明日から枠を戻す』と言ったわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "無制限のお祭り、終わっちゃうのだね……。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ただ改善も入って、使える時間は約18パーセント伸びる見込み。要するに、お祭りは終わるけど元よりちょっと得よ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "枠は戻るのに中身は広がってる! 悪くないじゃん!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目は日本の会社。パナソニック コネクトの話いくわよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "家電のパナソニックとは、別のところなのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "同じグループで、会社向けの機器やシステムを担当してるところね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこが七月二十九日に、自社のエーアイで削った労働時間を発表したわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "削った時間? どのくらい消えたのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "sexy",
+      "text": "2025年度で、78万8,000時間。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "78万時間!? ボクが一生ぶん働いても届かないのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "届かなくていいわよ。会社の年間労働時間の3.4パーセントぶんね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "78万は巨大なのに、パーセントにすると急にしぼむじゃん?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "いい引っかかり方。国内だけで社員が約1万1,800人だから、割れば一人分は控えめなのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "大事なのは伸び方。前の年度の二倍で、2030年には10パーセント削減が目標。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、これがボクたちに何の関係があるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "エーアイを『聞く道具』から『頼む道具』に変えた会社が、数字を出し始めたってこと。要するに、会社の中でもエーアイに仕事を任せる使い方が広がってきたのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "聞くだけで止まってると、置いてかれるじゃん!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四本目、笑えないやつ。大手コンサル会社のレポートに、存在しない出典が載ってたのよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "こんさる? 会社に助言する仕事の人たちだっけ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、お金をもらって『こうすべき』を教える商売ね。今回はピー・ダブリュー・シーの中東部門。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "教える側が、でっち上げたのだ!?",
+      "news_index": 4,
+      "reading": "おしえるがわが、でっちアゲタノダ!?"
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "正確には、エーアイに書かせてそのまま出した疑いね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "そこが一番マズいところ。2024年から2026年のレポート四本で見つかってるわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "どうやってバレたのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "文章の判定ツールでは、一本の大部分がエーアイ生成らしいという結果も出たわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "判定ツールだけじゃなく、出典を一つずつ調べて分かったのだね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "皮肉よね。会社側は『一部の引用を更新中』と言うだけで、原因は説明してないわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、ボクには関係あるのだ? コンサルなんて頼まないじゃん。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "あるわよ。エーアイは出典を聞かれると、それっぽい嘘を作る癖があるって話だから。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、宿題やレポートでやったら一発で沈むやつじゃん!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "sexy",
+      "text": "そう。要するに、出典は自分の足で確かめなさいってこと。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "五本目。グーグルプレイに、年齢を見分ける仕組みが世界へ広がるって。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ぐーぐるぷれい? アンドロイドでアプリを取るお店だっけ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そう、そのお店の裏側の仕組みね。名前はプレイ・エイジ・シグナルズ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "えいじ・しぐなるず? 何を教えてくれるやつなのだ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "アプリを作る側に、使ってる人の年齢層や、保護者の見守りが付いてるかを渡すのよ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、ボクの歳がアプリ全部にバレるのだ!?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "歳そのものじゃなくて、大人か子どもかのざっくりした区分ね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "それで、アプリ側は何をするってこと?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "子ども向けなら機能を絞る、保護者の同意を求める。そういう出し分けを自動でやるわけ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、映画のレーティングをアプリでもやるってことじゃん!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "わりと的確ね。もうブラジルで動いてて、八月中旬にオーストラリアとカナダ、年内に全世界。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "なんでそんなに急いでるのだ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "法律に押されてるのよ。アメリカだとユタ州が五月、ルイジアナ州が七月に年齢確認の法律を始めたわ。で、私たちの側は、アプリを入れる時に身分証や顔で歳を確かめる場面がじわじわ増えるってこと。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "便利と面倒、いつも抱き合わせで来るのだ……。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあラスト六本目。冒頭で振った、わざと誤字を残す話ね。",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "待ってたのだ! 誤字が武器になるやつ!",
+      "news_index": 6
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "小説家やライターがね、エーアイに間違われたくなくて書き方を変えてるの。",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "人が書いたのに、疑われるってこと?",
+      "news_index": 6
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "疑われるのよ。文章がきれい過ぎると『機械が書いた』って言われる時代よ。",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、上手いと損するのだ!? 理不尽すぎじゃん!",
+      "news_index": 6
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "特に狙われてるのがダッシュ記号。文の途中に引く、あの長い横線ね。",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "横線が容疑者あつかいなのだ?",
+      "news_index": 6
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "そう。だから昔から愛用してた人まで、使うのをやめ始めてるわ。",
+      "news_index": 6
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "誤字のほうは逆ね。誤字があると人間らしく見えると思って、あえて残す人まで出てきたわけ。",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "焼き物の、ちょっと歪んでるやつが高いのと同じ理屈なのだね。",
+      "news_index": 6
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "うまい例え。ただ批判もあって、それは書き手が自分の道具を捨ててるだけって声もあるわ。",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "疑われるのが怖くて下手に書くの、ちょっと切ないじゃん。",
+      "news_index": 6
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこが本題ね。要するに、作品より先に疑いが来る時代になったってこと。",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "じゃあボクは、これからも堂々と誤字るのだー。",
+      "news_index": 6
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "あんたのは天然だから、証明にならないわよ。",
+      "news_index": 6
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで今朝は六本。ざっとおさらいするわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "安いグラフィックボードと、エーアイの上限が戻る話だったのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "あと日本の会社の78万時間、コンサルの架空の出典、アプリの年齢確認ね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "そして、わざと誤字を残す作家たち!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "気になったのがあったら、あとで自分の足で確かめてみて。今朝の四本目の教訓ね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "じゃあまた明日のテック朝便で会おうねー! ずんだもんだったのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四国めたんでした。いってらっしゃい。",
+      "news_index": 0
+    }
+  ],
+  "program_description": "おはようございます、旅の道ラジオ朝便。今朝はテックの話題を六本、軽く流していく回です。一本目はエーエムディーが出した安いグラフィックボード、279ドルという値札の話。二本目はチャットジーピーティー有料プランの五時間ごとの上限が戻る件と、使える時間が約18パーセント伸びる改善。三本目はパナソニック コネクトが自社のAIで年78万8,000時間を削ったという国内の数字。四本目は大手コンサル会社のレポートに存在しない出典が載っていた騒動。五本目はグーグルプレイの年齢を見分ける仕組みが世界へ広がる話。そして最後は、AIに間違われたくない作家たちがダッシュ記号を手放し、わざと誤字を残しはじめたという不思議な流れについて話しました。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20260730_051919_chars.webp",
+    "hero_rel": "/images/topics/tech_20260730_051919.webp",
+    "title": "わざと残した誤字 〜AIの跡を数える今朝のテック六本〜",
+    "companies": [
+      "AMD",
+      "OpenAI",
+      "Google"
+    ]
+  },
+  "summary_short": "今朝のテック六本、279ドルGPU、ChatGPT改善、パナソニックのAI削減効果、コンサル報告書の\"存在しない出典\"騒動、グーグルプレイの年齢判定拡大、そしてAIっぽさを消すため誤字をわざと残す作家たちまで一気に紹介します。"
+}

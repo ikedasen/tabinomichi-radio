@@ -1,0 +1,1016 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-07-30T05:19:19+09:00",
+  "title": "わざと残した誤字 〜AIの跡を数える今朝のテック六本〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 471.27,
+  "script_hash": "sha256:eea49ebe50191d477d61d55a683f961e20a65ce66cb88f5bb644e1e8c4f8699e",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 4.64
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便。テックニュースの回、四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 4.64,
+      "end_sec": 9.85
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝も軽くサクッといくのだー!",
+      "news_index": 0,
+      "start_sec": 10.0,
+      "end_sec": 13.79
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今朝は六本。値札の話から、わざと誤字を残す作家の話まで、振り幅が広いわ。",
+      "news_index": 0,
+      "start_sec": 13.94,
+      "end_sec": 19.4
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "わざと誤字? 学校で赤ペン入るやつじゃん?",
+      "news_index": 0,
+      "start_sec": 19.55,
+      "end_sec": 22.83
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "それが今、人間が書いた証明になってるの。最後にやるから待ってて。",
+      "news_index": 0,
+      "start_sec": 22.98,
+      "end_sec": 27.68
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "気になるやつを最後に置く作戦なのだね。じゃあ一本目、なにから行くのだ?",
+      "news_index": 0,
+      "start_sec": 27.83,
+      "end_sec": 32.86
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "お財布に効くやつから。今朝はめずらしく、嬉しい方向よ。",
+      "news_index": 0,
+      "start_sec": 33.01,
+      "end_sec": 36.79
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "エーエムディーが七月二十九日に、入門向けのグラフィックボードを出したの。",
+      "news_index": 1,
+      "start_sec": 36.87,
+      "end_sec": 41.47
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ぐらふぃっくぼーど? パソコンの絵を担当してる部品だっけ?",
+      "news_index": 1,
+      "start_sec": 41.62,
+      "end_sec": 45.67
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そう、映像の計算をまとめて引き受ける板ね。ゲームの絵づくり係。",
+      "news_index": 1,
+      "start_sec": 45.82,
+      "end_sec": 50.67
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、それエーアイの計算にも使われてるやつじゃん!",
+      "news_index": 1,
+      "start_sec": 50.82,
+      "end_sec": 54.18
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そういう用途にも使われるけど、この製品はゲーム向けの入門モデルね。",
+      "news_index": 1,
+      "start_sec": 54.33,
+      "end_sec": 58.67
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "出たのは『ラデオン アールエックス 9050』。希望小売価格が279ドル。",
+      "news_index": 1,
+      "start_sec": 58.75,
+      "end_sec": 64.46
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "279ドル!? 今の相場だと、ずいぶん優しい値札じゃん!",
+      "news_index": 1,
+      "start_sec": 64.61,
+      "end_sec": 69.41
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "日本だとアスロック製が七月三十一日発売で、想定価格は54,800円ね。",
+      "news_index": 1,
+      "start_sec": 69.56,
+      "end_sec": 75.57
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "あー、日本に来ると毎回ちょっと厚みが出るのだ……。",
+      "news_index": 1,
+      "start_sec": 75.72,
+      "end_sec": 80.78
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "ただ、上位モデルとの価格差が小さいから、お得かどうかは比べて決めたいところね。",
+      "news_index": 1,
+      "start_sec": 80.93,
+      "end_sec": 85.86
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、これでどのくらい遊べるのだ?",
+      "news_index": 1,
+      "start_sec": 86.01,
+      "end_sec": 88.48
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "会社の数字だと、フルエイチディーの中設定でサイバーパンク2077が1秒あたり96コマ。要するに、いちばん普通の画面サイズなら足りるって話。",
+      "news_index": 1,
+      "start_sec": 88.63,
+      "end_sec": 98.61
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "新しい入門モデルの選択肢が増えたってことなのだ!",
+      "news_index": 1,
+      "start_sec": 98.76,
+      "end_sec": 102.3
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目。仕事向けのチャットジーピーティーと、コーデックスっていうプログラム書きの道具に、上限がまた戻ってくるのよ。",
+      "news_index": 2,
+      "start_sec": 102.45,
+      "end_sec": 111.21
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "上限!? 使えなくなるってこと!?",
+      "news_index": 2,
+      "start_sec": 111.36,
+      "end_sec": 113.94
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "順番に話すわ。もともと五時間ごとに、使える量の枠があったでしょ。",
+      "news_index": 2,
+      "start_sec": 114.09,
+      "end_sec": 118.75
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "五時間ごと? 食べ放題の九十分制みたいなやつなのだ?",
+      "news_index": 2,
+      "start_sec": 118.9,
+      "end_sec": 123.17
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "発想は近いわね。で、その枠を七月十二日から一時的に外してたのよ。",
+      "news_index": 2,
+      "start_sec": 123.32,
+      "end_sec": 128.32
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "なんで外したのだ? 急に太っ腹すぎない?",
+      "news_index": 2,
+      "start_sec": 128.47,
+      "end_sec": 131.6
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "太っ腹じゃなくてお詫びよ。新しいモデルが、想定より燃費が悪かったの。",
+      "news_index": 2,
+      "start_sec": 131.75,
+      "end_sec": 136.44
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "燃費!? エーアイに燃費があるのだ!?",
+      "news_index": 2,
+      "start_sec": 136.59,
+      "end_sec": 139.47
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "あるわ。同じ質問でも、裏でよけいに考えこむと消費が増えるって仕組み。",
+      "news_index": 2,
+      "start_sec": 139.62,
+      "end_sec": 144.36
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "考えすぎて勝手に残業してるタイプなのだ。",
+      "news_index": 2,
+      "start_sec": 144.51,
+      "end_sec": 147.72
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "うまい言い方。で、七月二十八日に幹部が『明日から枠を戻す』と言ったわ。",
+      "news_index": 2,
+      "start_sec": 147.87,
+      "end_sec": 153.64
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "無制限のお祭り、終わっちゃうのだね……。",
+      "news_index": 2,
+      "start_sec": 153.79,
+      "end_sec": 157.6
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ただ改善も入って、使える時間は約18パーセント伸びる見込み。要するに、お祭りは終わるけど元よりちょっと得よ。",
+      "news_index": 2,
+      "start_sec": 157.75,
+      "end_sec": 164.77
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "枠は戻るのに中身は広がってる! 悪くないじゃん!",
+      "news_index": 2,
+      "start_sec": 164.92,
+      "end_sec": 168.33
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目は日本の会社。パナソニック コネクトの話いくわよ。",
+      "news_index": 3,
+      "start_sec": 168.48,
+      "end_sec": 172.5
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "家電のパナソニックとは、別のところなのだ?",
+      "news_index": 3,
+      "start_sec": 172.65,
+      "end_sec": 175.83
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "同じグループで、会社向けの機器やシステムを担当してるところね。",
+      "news_index": 3,
+      "start_sec": 175.98,
+      "end_sec": 180.28
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこが七月二十九日に、自社のエーアイで削った労働時間を発表したわ。",
+      "news_index": 3,
+      "start_sec": 180.36,
+      "end_sec": 185.26
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "削った時間? どのくらい消えたのだ?",
+      "news_index": 3,
+      "start_sec": 185.41,
+      "end_sec": 188.11
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "sexy",
+      "text": "2025年度で、78万8,000時間。",
+      "news_index": 3,
+      "start_sec": 188.26,
+      "end_sec": 192.29
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "78万時間!? ボクが一生ぶん働いても届かないのだ!",
+      "news_index": 3,
+      "start_sec": 192.44,
+      "end_sec": 196.96
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "届かなくていいわよ。会社の年間労働時間の3.4パーセントぶんね。",
+      "news_index": 3,
+      "start_sec": 197.11,
+      "end_sec": 201.61
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "78万は巨大なのに、パーセントにすると急にしぼむじゃん?",
+      "news_index": 3,
+      "start_sec": 201.76,
+      "end_sec": 206.45
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "いい引っかかり方。国内だけで社員が約1万1,800人だから、割れば一人分は控えめなのよ。",
+      "news_index": 3,
+      "start_sec": 206.6,
+      "end_sec": 213.0
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "大事なのは伸び方。前の年度の二倍で、2030年には10パーセント削減が目標。",
+      "news_index": 3,
+      "start_sec": 213.08,
+      "end_sec": 218.98
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、これがボクたちに何の関係があるのだ?",
+      "news_index": 3,
+      "start_sec": 219.13,
+      "end_sec": 222.28
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "エーアイを『聞く道具』から『頼む道具』に変えた会社が、数字を出し始めたってこと。要するに、会社の中でもエーアイに仕事を任せる使い方が広がってきたのよ。",
+      "news_index": 3,
+      "start_sec": 222.43,
+      "end_sec": 232.25
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "聞くだけで止まってると、置いてかれるじゃん!",
+      "news_index": 3,
+      "start_sec": 232.4,
+      "end_sec": 234.98
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四本目、笑えないやつ。大手コンサル会社のレポートに、存在しない出典が載ってたのよ。",
+      "news_index": 4,
+      "start_sec": 235.13,
+      "end_sec": 240.82
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "こんさる? 会社に助言する仕事の人たちだっけ?",
+      "news_index": 4,
+      "start_sec": 240.97,
+      "end_sec": 244.59
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、お金をもらって『こうすべき』を教える商売ね。今回はピー・ダブリュー・シーの中東部門。",
+      "news_index": 4,
+      "start_sec": 244.74,
+      "end_sec": 250.72
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "教える側が、でっち上げたのだ!?",
+      "news_index": 4,
+      "start_sec": 250.87,
+      "end_sec": 253.39
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "正確には、エーアイに書かせてそのまま出した疑いね。",
+      "news_index": 4,
+      "start_sec": 253.54,
+      "end_sec": 257.05
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "そこが一番マズいところ。2024年から2026年のレポート四本で見つかってるわ。",
+      "news_index": 4,
+      "start_sec": 257.13,
+      "end_sec": 263.04
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "どうやってバレたのだ?",
+      "news_index": 4,
+      "start_sec": 263.19,
+      "end_sec": 264.76
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "文章の判定ツールでは、一本の大部分がエーアイ生成らしいという結果も出たわ。",
+      "news_index": 4,
+      "start_sec": 264.91,
+      "end_sec": 270.18
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "判定ツールだけじゃなく、出典を一つずつ調べて分かったのだね。",
+      "news_index": 4,
+      "start_sec": 270.33,
+      "end_sec": 274.96
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "皮肉よね。会社側は『一部の引用を更新中』と言うだけで、原因は説明してないわ。",
+      "news_index": 4,
+      "start_sec": 275.11,
+      "end_sec": 281.05
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、ボクには関係あるのだ? コンサルなんて頼まないじゃん。",
+      "news_index": 4,
+      "start_sec": 281.2,
+      "end_sec": 285.19
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "あるわよ。エーアイは出典を聞かれると、それっぽい嘘を作る癖があるって話だから。",
+      "news_index": 4,
+      "start_sec": 285.34,
+      "end_sec": 290.61
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、宿題やレポートでやったら一発で沈むやつじゃん!",
+      "news_index": 4,
+      "start_sec": 290.76,
+      "end_sec": 294.43
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "sexy",
+      "text": "そう。要するに、出典は自分の足で確かめなさいってこと。",
+      "news_index": 4,
+      "start_sec": 294.58,
+      "end_sec": 299.65
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "五本目。グーグルプレイに、年齢を見分ける仕組みが世界へ広がるって。",
+      "news_index": 5,
+      "start_sec": 299.73,
+      "end_sec": 304.15
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ぐーぐるぷれい? アンドロイドでアプリを取るお店だっけ?",
+      "news_index": 5,
+      "start_sec": 304.3,
+      "end_sec": 308.13
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そう、そのお店の裏側の仕組みね。名前はプレイ・エイジ・シグナルズ。",
+      "news_index": 5,
+      "start_sec": 308.28,
+      "end_sec": 313.2
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "えいじ・しぐなるず? 何を教えてくれるやつなのだ?",
+      "news_index": 5,
+      "start_sec": 313.35,
+      "end_sec": 318.35
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "アプリを作る側に、使ってる人の年齢層や、保護者の見守りが付いてるかを渡すのよ。",
+      "news_index": 5,
+      "start_sec": 318.5,
+      "end_sec": 324.07
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、ボクの歳がアプリ全部にバレるのだ!?",
+      "news_index": 5,
+      "start_sec": 324.22,
+      "end_sec": 327.32
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "歳そのものじゃなくて、大人か子どもかのざっくりした区分ね。",
+      "news_index": 5,
+      "start_sec": 327.47,
+      "end_sec": 331.15
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "それで、アプリ側は何をするってこと?",
+      "news_index": 5,
+      "start_sec": 331.3,
+      "end_sec": 334.07
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "子ども向けなら機能を絞る、保護者の同意を求める。そういう出し分けを自動でやるわけ。",
+      "news_index": 5,
+      "start_sec": 334.22,
+      "end_sec": 339.52
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、映画のレーティングをアプリでもやるってことじゃん!",
+      "news_index": 5,
+      "start_sec": 339.67,
+      "end_sec": 343.15
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "わりと的確ね。もうブラジルで動いてて、八月中旬にオーストラリアとカナダ、年内に全世界。",
+      "news_index": 5,
+      "start_sec": 343.3,
+      "end_sec": 349.02
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "なんでそんなに急いでるのだ?",
+      "news_index": 5,
+      "start_sec": 349.17,
+      "end_sec": 351.26
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "法律に押されてるのよ。アメリカだとユタ州が五月、ルイジアナ州が七月に年齢確認の法律を始めたわ。で、私たちの側は、アプリを入れる時に身分証や顔で歳を確かめる場面がじわじわ増えるってこと。",
+      "news_index": 5,
+      "start_sec": 351.41,
+      "end_sec": 364.65
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "便利と面倒、いつも抱き合わせで来るのだ……。",
+      "news_index": 5,
+      "start_sec": 364.8,
+      "end_sec": 369.1
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあラスト六本目。冒頭で振った、わざと誤字を残す話ね。",
+      "news_index": 6,
+      "start_sec": 369.25,
+      "end_sec": 373.25
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "待ってたのだ! 誤字が武器になるやつ!",
+      "news_index": 6,
+      "start_sec": 373.4,
+      "end_sec": 375.76
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "小説家やライターがね、エーアイに間違われたくなくて書き方を変えてるの。",
+      "news_index": 6,
+      "start_sec": 375.91,
+      "end_sec": 380.18
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "人が書いたのに、疑われるってこと?",
+      "news_index": 6,
+      "start_sec": 380.33,
+      "end_sec": 383.09
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "疑われるのよ。文章がきれい過ぎると『機械が書いた』って言われる時代よ。",
+      "news_index": 6,
+      "start_sec": 383.24,
+      "end_sec": 388.23
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、上手いと損するのだ!? 理不尽すぎじゃん!",
+      "news_index": 6,
+      "start_sec": 388.38,
+      "end_sec": 391.82
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "特に狙われてるのがダッシュ記号。文の途中に引く、あの長い横線ね。",
+      "news_index": 6,
+      "start_sec": 391.97,
+      "end_sec": 396.42
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "横線が容疑者あつかいなのだ?",
+      "news_index": 6,
+      "start_sec": 396.57,
+      "end_sec": 398.93
+    },
+    {
+      "index": 84,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "そう。だから昔から愛用してた人まで、使うのをやめ始めてるわ。",
+      "news_index": 6,
+      "start_sec": 399.08,
+      "end_sec": 403.48
+    },
+    {
+      "index": 85,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "誤字のほうは逆ね。誤字があると人間らしく見えると思って、あえて残す人まで出てきたわけ。",
+      "news_index": 6,
+      "start_sec": 403.56,
+      "end_sec": 409.25
+    },
+    {
+      "index": 86,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "焼き物の、ちょっと歪んでるやつが高いのと同じ理屈なのだね。",
+      "news_index": 6,
+      "start_sec": 409.4,
+      "end_sec": 413.79
+    },
+    {
+      "index": 87,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "うまい例え。ただ批判もあって、それは書き手が自分の道具を捨ててるだけって声もあるわ。",
+      "news_index": 6,
+      "start_sec": 413.94,
+      "end_sec": 419.48
+    },
+    {
+      "index": 88,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "疑われるのが怖くて下手に書くの、ちょっと切ないじゃん。",
+      "news_index": 6,
+      "start_sec": 419.63,
+      "end_sec": 423.62
+    },
+    {
+      "index": 89,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこが本題ね。要するに、作品より先に疑いが来る時代になったってこと。",
+      "news_index": 6,
+      "start_sec": 423.77,
+      "end_sec": 428.62
+    },
+    {
+      "index": 90,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "じゃあボクは、これからも堂々と誤字るのだー。",
+      "news_index": 6,
+      "start_sec": 428.77,
+      "end_sec": 431.63
+    },
+    {
+      "index": 91,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "あんたのは天然だから、証明にならないわよ。",
+      "news_index": 6,
+      "start_sec": 431.78,
+      "end_sec": 434.73
+    },
+    {
+      "index": 92,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで今朝は六本。ざっとおさらいするわ。",
+      "news_index": 0,
+      "start_sec": 434.81,
+      "end_sec": 437.81
+    },
+    {
+      "index": 93,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "安いグラフィックボードと、エーアイの上限が戻る話だったのだ。",
+      "news_index": 0,
+      "start_sec": 437.96,
+      "end_sec": 442.29
+    },
+    {
+      "index": 94,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "あと日本の会社の78万時間、コンサルの架空の出典、アプリの年齢確認ね。",
+      "news_index": 0,
+      "start_sec": 442.44,
+      "end_sec": 448.11
+    },
+    {
+      "index": 95,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "そして、わざと誤字を残す作家たち!",
+      "news_index": 0,
+      "start_sec": 448.26,
+      "end_sec": 450.89
+    },
+    {
+      "index": 96,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "気になったのがあったら、あとで自分の足で確かめてみて。今朝の四本目の教訓ね。",
+      "news_index": 0,
+      "start_sec": 451.04,
+      "end_sec": 456.42
+    },
+    {
+      "index": 97,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "じゃあまた明日のテック朝便で会おうねー! ずんだもんだったのだー!",
+      "news_index": 0,
+      "start_sec": 456.57,
+      "end_sec": 460.63
+    },
+    {
+      "index": 98,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四国めたんでした。いってらっしゃい。",
+      "news_index": 0,
+      "start_sec": 460.78,
+      "end_sec": 462.87
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 463.57,
+      "end_sec": 471.27
+    }
+  ],
+  "wall_time_sec": 12.76,
+  "audio_url": "/audio/ai/20260730_051919.mp3?v=1785357511"
+}
