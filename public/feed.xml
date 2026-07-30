@@ -7,8 +7,8 @@
     <description>ずんだもん × めたん × つむぎが届ける、ゲーム &amp; テックニュース雑談ラジオ。朝便と夜便で毎日更新、レトロから新作まで、最新 AI 動向から業界マクロまで雑談形式でサクッと。</description>
     <language>ja</language>
     <copyright>© 2026 tabinomichi</copyright>
-    <lastBuildDate>Thu, 30 Jul 2026 05:38:33 +0900</lastBuildDate>
-    <pubDate>Thu, 30 Jul 2026 05:19:19 +0900</pubDate>
+    <lastBuildDate>Fri, 31 Jul 2026 05:30:03 +0900</lastBuildDate>
+    <pubDate>Fri, 31 Jul 2026 05:17:43 +0900</pubDate>
     <generator>build_rss_feed.py (tabinomichi radio)</generator>
     <image>
       <url>https://news.tabinomichi.jp/podcast-cover.png?v=1779005902</url>
@@ -29,6 +29,21 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>降りてくるお金 〜値下げと値上げが同居する今朝のテック五本〜</title>
+      <link>https://news.tabinomichi.jp/radio/20260731_051743</link>
+      <guid isPermaLink="false">tabinomichi-radio-20260731_051743</guid>
+      <pubDate>Fri, 31 Jul 2026 05:17:43 +0900</pubDate>
+      <description>旅の道ラジオ朝便、テックニュースの回。オープンエーアイが最安モデル『ルナ』を約80パーセント値下げした価格競争の話から、エヌビディアがオープンエーアイのオハイオ州データセンターに2,500億ドルの金融保証を検討しているという協議中の報道、グーグル・ディープマインドが出した全身を動かせるロボット用AI、リークで出回っているスマホの100ドル値上げとメモリ削減、そして八月七日発売のサムスンの新しい腕時計まで、五本をサクッと並べた回。AIに集まったお金が上から順に降りてきて、最後にボクたちの財布へ着地するまでを追いかけます。</description>
+      <content:encoded><![CDATA[旅の道ラジオ朝便、テックニュースの回。オープンエーアイが最安モデル『ルナ』を約80パーセント値下げした価格競争の話から、エヌビディアがオープンエーアイのオハイオ州データセンターに2,500億ドルの金融保証を検討しているという協議中の報道、グーグル・ディープマインドが出した全身を動かせるロボット用AI、リークで出回っているスマホの100ドル値上げとメモリ削減、そして八月七日発売のサムスンの新しい腕時計まで、五本をサクッと並べた回。AIに集まったお金が上から順に降りてきて、最後にボクたちの財布へ着地するまでを追いかけます。]]></content:encoded>
+      <enclosure url="https://news.tabinomichi.jp/audio/ai/20260731_051743.mp3?v=1785443401" length="6630965" type="audio/mpeg"/>
+      <itunes:title>降りてくるお金 〜値下げと値上げが同居する今朝のテック五本〜</itunes:title>
+      <itunes:summary>旅の道ラジオ朝便、テックニュースの回。オープンエーアイが最安モデル『ルナ』を約80パーセント値下げした価格競争の話から、エヌビディアがオープンエーアイのオハイオ州データセンターに2,500億ドルの金融保証を検討しているという協議中の報道、グーグル・ディープマインドが出した全身を動かせるロボット用AI、リークで出回っているスマホの100ドル値上げとメモリ削減、そして八月七日発売のサムスンの新しい腕時計まで、五本をサクッと並べた回。AIに集まったお金が上から順に降りてきて、最後にボクたちの財布へ着地するまでを追いかけます。</itunes:summary>
+      <itunes:image href="https://news.tabinomichi.jp/images/og/20260731_051743.jpg"/>
+      <itunes:duration>6:54</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>わざと残した誤字 〜AIの跡を数える今朝のテック六本〜</title>
       <link>https://news.tabinomichi.jp/radio/20260730_051919</link>
@@ -1510,21 +1525,6 @@
       <itunes:title>手元に降りてくるAIの朝 〜絵も声も動画も、ノートの中で〜</itunes:title>
       <itunes:summary>旅の道ラジオ朝便、テックニュースの回。今朝はAIの話題を4本、軽く流していくわ。1本目は絵を描くAI『アイデオグラム』の新版が、絵の中の文字までキレイに書けて、しかも手元のパソコンで動かせるオープンウェイトで登場した話。2本目はグーグルの『ジェマ4』が、ごく普通の16ギガのノートパソコンだけで、画像も音声も動画も読めちゃうって話。3本目はグーグル検索のAI要約に『うちのサイトは載せないで』と言える仕組みがイギリスから始まった件。ラストは、AI大手のトップたちが珍しく揃って署名した、生き物の材料を悪用させないための共同書簡の話。通勤・通学のおともにどうぞ。</itunes:summary>
       <itunes:image href="https://news.tabinomichi.jp/images/og/20260604_180616.jpg"/>
-      <itunes:duration>6:42</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>魔導と歌の崩壊譚 〜ファイナルファンタジー VI と語り継がれる群像劇〜</title>
-      <link>https://news.tabinomichi.jp/radio/20260604_175933</link>
-      <guid isPermaLink="false">tabinomichi-radio-20260604_175933</guid>
-      <pubDate>Fri, 05 Jun 2026 05:00:00 +0900</pubDate>
-      <description>今回はスーパーファミコン時代の超大作RPG『ファイナルファンタジー VI』を、ずんだもんとレトロ担当の春日部つむぎが深掘りする回。1994年4月2日にスクウェアから定価11,400円で発売された、シリーズの中でも屈指の物語重視作品。プロデューサーに退いた坂口博信、ディレクターに抜擢された北瀬佳範と伊藤裕之、そして音楽の植松伸夫——次世代スタッフが揃った世代交代の象徴的タイトルでもある。SFC の音源を絞り上げて『歌』をやってのけた伝説のオペラ座シーン、群像劇として組まれた仲間ひとりひとりの主人公級ドラマ、笑顔のまま壊していく異色の悪役ケフカ・パラッツォ、魔法を兵器化した『魔導』世界観、植松神の名曲『仲間を求めて』——核心ネタバレは避けつつ、つむぎがガチのレトロ RPG マニア顔で熱量爆発させる回。ピクセルリマスターで今からでも入門できる作品なので、未プレイのオタクくんはこの機会にぜひ。</description>
-      <content:encoded><![CDATA[今回はスーパーファミコン時代の超大作RPG『ファイナルファンタジー VI』を、ずんだもんとレトロ担当の春日部つむぎが深掘りする回。1994年4月2日にスクウェアから定価11,400円で発売された、シリーズの中でも屈指の物語重視作品。プロデューサーに退いた坂口博信、ディレクターに抜擢された北瀬佳範と伊藤裕之、そして音楽の植松伸夫——次世代スタッフが揃った世代交代の象徴的タイトルでもある。SFC の音源を絞り上げて『歌』をやってのけた伝説のオペラ座シーン、群像劇として組まれた仲間ひとりひとりの主人公級ドラマ、笑顔のまま壊していく異色の悪役ケフカ・パラッツォ、魔法を兵器化した『魔導』世界観、植松神の名曲『仲間を求めて』——核心ネタバレは避けつつ、つむぎがガチのレトロ RPG マニア顔で熱量爆発させる回。ピクセルリマスターで今からでも入門できる作品なので、未プレイのオタクくんはこの機会にぜひ。]]></content:encoded>
-      <enclosure url="https://news.tabinomichi.jp/audio/indie/20260604_175933.mp3?v=1780603577" length="6443301" type="audio/mpeg"/>
-      <itunes:title>魔導と歌の崩壊譚 〜ファイナルファンタジー VI と語り継がれる群像劇〜</itunes:title>
-      <itunes:summary>今回はスーパーファミコン時代の超大作RPG『ファイナルファンタジー VI』を、ずんだもんとレトロ担当の春日部つむぎが深掘りする回。1994年4月2日にスクウェアから定価11,400円で発売された、シリーズの中でも屈指の物語重視作品。プロデューサーに退いた坂口博信、ディレクターに抜擢された北瀬佳範と伊藤裕之、そして音楽の植松伸夫——次世代スタッフが揃った世代交代の象徴的タイトルでもある。SFC の音源を絞り上げて『歌』をやってのけた伝説のオペラ座シーン、群像劇として組まれた仲間ひとりひとりの主人公級ドラマ、笑顔のまま壊していく異色の悪役ケフカ・パラッツォ、魔法を兵器化した『魔導』世界観、植松神の名曲『仲間を求めて』——核心ネタバレは避けつつ、つむぎがガチのレトロ RPG マニア顔で熱量爆発させる回。ピクセルリマスターで今からでも入門できる作品なので、未プレイのオタクくんはこの機会にぜひ。</itunes:summary>
-      <itunes:image href="https://news.tabinomichi.jp/images/og/20260604_175933.jpg"/>
       <itunes:duration>6:42</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>

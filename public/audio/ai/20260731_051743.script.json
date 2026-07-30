@@ -1,0 +1,551 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-07-30T20:17:43.026754+00:00",
+  "title": "降りてくるお金 〜値下げと値上げが同居する今朝のテック五本〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便。四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今日もテックの話、軽くいくのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今朝は五本立て。値下げ、でっかい保証、ロボット、スマホの値札、腕時計ね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "並べ方が雑すぎるじゃん。最後だけ急に日用品なのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "それが全部つながってるの。要するに、AIに集まったお金がどこまで降りてきたかって話。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あっ、ボクの財布まで降りてくるやつなのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そこは覚悟しといて。じゃあ一本目、行くわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "覚悟したのだ! どーんと来てほしいのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "オープンエーアイが七月三十日に、AIの利用料をどーんと下げたのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "値下げ!? AIって上がる一方だと思ってたのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一番安いモデルの『ルナ』が、いきなり約80パーセント引き。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "はちじゅっぱーせんと? それ、閉店セールの札じゃん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "閉店じゃなくて殴り込みね。入力100万トークンあたり、20セントまで落ちたわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "20セント! 自販機のジュース一本より安いのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "真ん中の『テラ』も20パーセント引き。でも一番上の『ソル』だけは、据え置き。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "なんで上のやつだけ強気なのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "上位モデルは据え置いたまま、価格を重視する利用者が多い低価格帯で勝負を仕掛けた形ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "あー、安いとこだけ値札の殴り合いが起きてるってこと?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ご名答。しかもこのモデル、出てから三週間での値下げよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "三週間!? ボクが買った翌週に半額になるやつと、同じ悔しさなのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、私たちに効くのはここ。まず直接下がるのは、開発者が払うこのモデルの利用料ってこと。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "サブスクが安くなるのは、素直に嬉しいのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目。エヌビディアが、オープンエーアイ向けの巨大データセンター計画で金融保証を付けるかもって話よ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "保証人!? 親戚のおじさんが一番やっちゃダメなやつじゃん!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "その感覚、だいたい合ってるわ。ただし金額が2,500億ドルね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "2,500億ドル!? 日本円で何十兆円コースなのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "オハイオ州のウラン濃縮工場跡地で、ソフトバンク系の会社が進める巨大データセンターを借りる計画のためよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "なんでオープンエーアイが、自分で借りないのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "計画があまりに巨大だから、エヌビディアの信用で資金調達を支える案が協議されてるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あっ、お金じゃなくて信用のほうを貸してるってこと!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今の一行が正解ね。おまけにチップ購入用で、別枠3,500億ドル規模の話まで出てるわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "桁が増えるたびに、頭がぐるぐるしてくるのだ……。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "落ち着きなさい。まだ協議中で、まとまるかは分からない話よ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、それボクたちに関係あるやつなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "あるわ。あるとすれば、こんな巨額の保証をエヌビディアが背負う金融リスクのほうね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "壮大な話の終点が、うちの電気代なのだ……。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "三本目は、ちょっと楽しいやつ。グーグル・ディープマインドが、ロボット用の新しいAIを出したの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "待ってたのだ、ロボット! 今度は何ができるようになったのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "前のは上半身だけだったのよ。今回は歩く、しゃがむ、つかむまで、体ぜんぶを操れるわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "上半身だけって、どういう状態だったのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "机に置かれた腕、みたいな感じね。これまでは、移動しない据え置き型のロボットアームが中心だったの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、それめちゃくちゃ不便じゃん!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "中身は三つのAIの分業なの。動きを作る係、段取りを考える係、ロボットの中で直接動く係ね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "段取り係って、何をする人なのだ?",
+      "news_index": 3,
+      "reading": "だんどりがかりって、ナニヲスルヒトナノダ?"
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "数分かかる仕事を細かい手順に割って、複数のロボットの連携まで仕切るのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ロボットにも中間管理職がいるってことじゃん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "言い方。デモではアプトロニックの『アポロ』が、部屋を歩いてじょうろを低い棚に置いたわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じょうろ? もっとすごい仕事は、させないのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "地味に見えて難しいのよ。ただ全身を使う仕事の成功率は、45パーセントから76パーセントくらい。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "課題によっては、半分以上うまく終えられないってこと!?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "考えるためにいちいち止まるから、動きも遅いの。要するに、家に来るのはまだ先ね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "じょうろを運ぶだけで褒められる時代、ちょっと平和なのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四本目、お財布に直撃するやつ。グーグルの次のスマホの値段が、リークで出回ってるの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "りーく? 発表前に情報が漏れちゃうやつだっけ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、正式発表じゃないから話半分でね。出回ってる数字だと、一番安いので899ドル。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "899ドル!? 日本円だと13万円くらいじゃん!",
+      "news_index": 4,
+      "reading": "899ドル!?ニホンエンダトじゅうさんまんえんくらいじゃん!"
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "しかも全部の型が、前の世代より100ドルずつ上がってるわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "一斉に上がるって、そんなに豪華になったのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "逆よ。上のモデルの作業用メモリは、16ギガから12ギガに減ってるって話だし。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "減ってるのに高いのだ!? それ完全に逆じゃん!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "原因はさっきから出てるAIね。AIデータセンター需要の急増でメモリ価格が上がって、スマホの部品コストにも響いてるの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あっ、一本目と二本目のツケが、ここで回ってきてるのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "回ってきてるのは、私たちの財布のほうだけどね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "うっ……買い替え、来年に延ばそうかな。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "悪くない判断よ。ただ来年下がる保証もないの、そこが厄介なところ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "待っても報われないの、いちばんずるいのだ……。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあラスト五本目。もう少し身近な、腕の上の話でしめるわ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "腕! それ時計のやつなのだ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "サムスンの新しい腕時計が、八月七日に発売なのよ。標準のと、上位のウルトラ2ね。",
+      "news_index": 5,
+      "reading": "サムスンのアタラシイウデドケイガ、ハチガツナノカニハツバイナノヨ。ヒョウジュンノト、ジョーイノうるとらつーね。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "お値段は? 怖いから小声で言ってほしいのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "sasayaki",
+      "text": "標準が67,980円から。上のウルトラ2が、137,280円。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "13万円!? 時計っていうか、腕に乗せるパソコンじゃん!",
+      "news_index": 5,
+      "reading": "じゅうさんまんえん!?トケイッテユーカ、うでにのせるぱそこんパソコンじゃん!"
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "近いわね。省エネな新しいチップが入って、健康まわりをAIが見てくれるの。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "健康を見るって、何を見てくれるのだ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "心拍や睡眠を測って、傾向をまとめてくれるやつ。上位機はチタン製で、潜水にも対応してるわ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "潜水!? 誰が時計つけて海に潜るのだ!?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "潜るかたはいるのよ。水深と潜った時間、水温まで自動で記録してくれるの。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ボクはお風呂の湯温だけ測ってもらうのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "贅沢な使い方ね。まあ、AIがとうとう腕まで降りてきたって話よ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "腕まで来たなら、次はどこに降りてくるのだ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "はい、今朝は五本。値下げ、保証、ロボット、スマホ、腕時計。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "並べると、お金の話とモノの話が交互に来てたのだね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "気付いた? AIに集まったお金が、上から順番に降りてきてるのよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "で、いちばん下でボクの財布が受け止めてるってこと!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "受け止めきれない時は、買い替えを一年ずらす。それも立派な作戦よ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "気になったやつがあったら、あとで調べてみてほしいのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ、また明日のテック朝便で。いってらっしゃい。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "今日も一日、無理しないのだー!",
+      "news_index": 0
+    }
+  ],
+  "program_description": "旅の道ラジオ朝便、テックニュースの回。オープンエーアイが最安モデル『ルナ』を約80パーセント値下げした価格競争の話から、エヌビディアがオープンエーアイのオハイオ州データセンターに2,500億ドルの金融保証を検討しているという協議中の報道、グーグル・ディープマインドが出した全身を動かせるロボット用AI、リークで出回っているスマホの100ドル値上げとメモリ削減、そして八月七日発売のサムスンの新しい腕時計まで、五本をサクッと並べた回。AIに集まったお金が上から順に降りてきて、最後にボクたちの財布へ着地するまでを追いかけます。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20260731_051743_chars.webp",
+    "hero_rel": "/images/topics/tech_20260731_051743.webp",
+    "title": "降りてくるお金 〜値下げと値上げが同居する今朝のテック五本〜",
+    "companies": [
+      "OpenAI",
+      "NVIDIA",
+      "Google"
+    ]
+  },
+  "summary_short": "お金がAIから財布まで降りてくる様子を追う、価格競争と値上げが同時進行する朝のテック五本立て。オープンエーアイの大幅値下げから始まり、ロボット用AI、スマホ値上げ、新型腕時計まで一気に駆け抜けます。"
+}
