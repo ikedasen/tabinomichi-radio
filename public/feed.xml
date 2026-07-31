@@ -7,8 +7,8 @@
     <description>ずんだもん × めたん × つむぎが届ける、ゲーム &amp; テックニュース雑談ラジオ。朝便と夜便で毎日更新、レトロから新作まで、最新 AI 動向から業界マクロまで雑談形式でサクッと。</description>
     <language>ja</language>
     <copyright>© 2026 tabinomichi</copyright>
-    <lastBuildDate>Fri, 31 Jul 2026 05:30:03 +0900</lastBuildDate>
-    <pubDate>Fri, 31 Jul 2026 05:17:43 +0900</pubDate>
+    <lastBuildDate>Sat, 01 Aug 2026 05:29:35 +0900</lastBuildDate>
+    <pubDate>Sat, 01 Aug 2026 05:18:49 +0900</pubDate>
     <generator>build_rss_feed.py (tabinomichi radio)</generator>
     <image>
       <url>https://news.tabinomichi.jp/podcast-cover.png?v=1779005902</url>
@@ -29,6 +29,21 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>儲けた側と、払った側 〜開いていた扉と、消えた景色〜</title>
+      <link>https://news.tabinomichi.jp/radio/20260801_051849</link>
+      <guid isPermaLink="false">tabinomichi-radio-20260801_051849</guid>
+      <pubDate>Sat, 01 Aug 2026 05:18:49 +0900</pubDate>
+      <description>今朝のテック朝便は5本立て。まずは日本のメモリ大手キオクシアの決算で、3か月の売上が前の年の5倍以上、もうけの率75パーセントという歴史的な数字と、最大8,000億円の自社株買いの話。続いて、そのメモリとエスエスディーの値段が7月から9月にかけてまだ上がるという予測と、上がり方がゆるんだ理由が「工場が増えたから」ではなく「買う側が払えなくなったから」という切ない事情。3本目はアンソロピックが自分から公開した評価テストの事故で、ネットにつながってないと伝えていた囲いが、実は開けっ放しだった話。4本目はエヌビディアが誰でも使えるように公開したAIを、日立製作所やエヌティティデータが土台にして日本向けのAIを作っている流れ。最後はグーグルアースに入った画像を作るAIが、出た直後に止められた一件をお届けしました。</description>
+      <content:encoded><![CDATA[今朝のテック朝便は5本立て。まずは日本のメモリ大手キオクシアの決算で、3か月の売上が前の年の5倍以上、もうけの率75パーセントという歴史的な数字と、最大8,000億円の自社株買いの話。続いて、そのメモリとエスエスディーの値段が7月から9月にかけてまだ上がるという予測と、上がり方がゆるんだ理由が「工場が増えたから」ではなく「買う側が払えなくなったから」という切ない事情。3本目はアンソロピックが自分から公開した評価テストの事故で、ネットにつながってないと伝えていた囲いが、実は開けっ放しだった話。4本目はエヌビディアが誰でも使えるように公開したAIを、日立製作所やエヌティティデータが土台にして日本向けのAIを作っている流れ。最後はグーグルアースに入った画像を作るAIが、出た直後に止められた一件をお届けしました。]]></content:encoded>
+      <enclosure url="https://news.tabinomichi.jp/audio/ai/20260801_051849.mp3?v=1785529773" length="7116634" type="audio/mpeg"/>
+      <itunes:title>儲けた側と、払った側 〜開いていた扉と、消えた景色〜</itunes:title>
+      <itunes:summary>今朝のテック朝便は5本立て。まずは日本のメモリ大手キオクシアの決算で、3か月の売上が前の年の5倍以上、もうけの率75パーセントという歴史的な数字と、最大8,000億円の自社株買いの話。続いて、そのメモリとエスエスディーの値段が7月から9月にかけてまだ上がるという予測と、上がり方がゆるんだ理由が「工場が増えたから」ではなく「買う側が払えなくなったから」という切ない事情。3本目はアンソロピックが自分から公開した評価テストの事故で、ネットにつながってないと伝えていた囲いが、実は開けっ放しだった話。4本目はエヌビディアが誰でも使えるように公開したAIを、日立製作所やエヌティティデータが土台にして日本向けのAIを作っている流れ。最後はグーグルアースに入った画像を作るAIが、出た直後に止められた一件をお届けしました。</itunes:summary>
+      <itunes:image href="https://news.tabinomichi.jp/images/og/20260801_051849.jpg"/>
+      <itunes:duration>7:24</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>降りてくるお金 〜値下げと値上げが同居する今朝のテック五本〜</title>
       <link>https://news.tabinomichi.jp/radio/20260731_051743</link>
@@ -1511,21 +1526,6 @@
       <itunes:summary>夜便の新作深掘り回。今夜の主役は昨日6月4日に発売されたばかりの『The 7th Guest Remake』。背景では、実写映像をゲームに取り込むFMVの先駆けとして1993年に登場し、Mystと並んでCD-ROMドライブを世に広めた原典の伝説を振り返ったよ。全世界200万本以上を売り上げ、ビル・ゲイツも双方向エンタメの新基準と絶賛した一本なんだ。本作では、開発元のExkeeが屋敷も役者の演技も一から作り直した「リメイク」であること、役者を全方向から撮って立体化するボリュメトリック映像で幽霊屋敷の不気味さが桁違いになったこと、ストウフ邸を巡る謎解き構造を紹介。テンポの遅さや操作のもたつきという不安要素にも正直に触れたよ。総括では、19.99ドルという手頃さ、Myst系が好きな人に刺さる一方アクション派には向かない点、レトロ名作を現代技術でリメイクする潮流とホラーパズル再評価への期待を語ったんだ。</itunes:summary>
       <itunes:image href="https://news.tabinomichi.jp/images/og/20260605_171448.jpg"/>
       <itunes:duration>7:48</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>手元に降りてくるAIの朝 〜絵も声も動画も、ノートの中で〜</title>
-      <link>https://news.tabinomichi.jp/radio/20260604_180616</link>
-      <guid isPermaLink="false">tabinomichi-radio-20260604_180616</guid>
-      <pubDate>Fri, 05 Jun 2026 05:01:00 +0900</pubDate>
-      <description>旅の道ラジオ朝便、テックニュースの回。今朝はAIの話題を4本、軽く流していくわ。1本目は絵を描くAI『アイデオグラム』の新版が、絵の中の文字までキレイに書けて、しかも手元のパソコンで動かせるオープンウェイトで登場した話。2本目はグーグルの『ジェマ4』が、ごく普通の16ギガのノートパソコンだけで、画像も音声も動画も読めちゃうって話。3本目はグーグル検索のAI要約に『うちのサイトは載せないで』と言える仕組みがイギリスから始まった件。ラストは、AI大手のトップたちが珍しく揃って署名した、生き物の材料を悪用させないための共同書簡の話。通勤・通学のおともにどうぞ。</description>
-      <content:encoded><![CDATA[旅の道ラジオ朝便、テックニュースの回。今朝はAIの話題を4本、軽く流していくわ。1本目は絵を描くAI『アイデオグラム』の新版が、絵の中の文字までキレイに書けて、しかも手元のパソコンで動かせるオープンウェイトで登場した話。2本目はグーグルの『ジェマ4』が、ごく普通の16ギガのノートパソコンだけで、画像も音声も動画も読めちゃうって話。3本目はグーグル検索のAI要約に『うちのサイトは載せないで』と言える仕組みがイギリスから始まった件。ラストは、AI大手のトップたちが珍しく揃って署名した、生き物の材料を悪用させないための共同書簡の話。通勤・通学のおともにどうぞ。]]></content:encoded>
-      <enclosure url="https://news.tabinomichi.jp/audio/ai/20260604_180616.mp3?v=1780603572" length="6441212" type="audio/mpeg"/>
-      <itunes:title>手元に降りてくるAIの朝 〜絵も声も動画も、ノートの中で〜</itunes:title>
-      <itunes:summary>旅の道ラジオ朝便、テックニュースの回。今朝はAIの話題を4本、軽く流していくわ。1本目は絵を描くAI『アイデオグラム』の新版が、絵の中の文字までキレイに書けて、しかも手元のパソコンで動かせるオープンウェイトで登場した話。2本目はグーグルの『ジェマ4』が、ごく普通の16ギガのノートパソコンだけで、画像も音声も動画も読めちゃうって話。3本目はグーグル検索のAI要約に『うちのサイトは載せないで』と言える仕組みがイギリスから始まった件。ラストは、AI大手のトップたちが珍しく揃って署名した、生き物の材料を悪用させないための共同書簡の話。通勤・通学のおともにどうぞ。</itunes:summary>
-      <itunes:image href="https://news.tabinomichi.jp/images/og/20260604_180616.jpg"/>
-      <itunes:duration>6:42</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
