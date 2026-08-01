@@ -1,0 +1,555 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-08-01T20:16:32.851485+00:00",
+  "title": "二千ドルで解けた難問 〜賢さの値札が乱高下する朝〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便。テックニュースの回、四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝もテックの話、軽くサクッといくのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今日は五本立てね。とんでもなく賢い話から、お財布が痛い話まで。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "痛い話が混ざってるじゃん。朝から身構えちゃうのだ……。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "安心して、一本目は気持ちいいやつ。世界の難問が、AIに崩されたって話。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "難問!? 響きだけでもう強そうじゃん!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "しかも解くのにかかったお金が、ちょっと笑っちゃう額なの。じゃ、いくわよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。オープンエーアイが八月一日に、次の主力モデル『アストラ』を発表したのよ。",
+      "news_index": 1,
+      "reading": "いっぽんめ。オープンエーアイがはちがつついたちに、ツギノシュリョクモデル『アストラ』をハッピョウシタノヨ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "あすとら? また新しい名前が増えたのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "発表の仕方が変わっててね。成績表じゃなくて、解いた宿題を持ってきたの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "宿題? どんなやつを持ってきたのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "数学と理論計算機科学の未解決問題で、新しい成果を十個まとめて出したわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "じゅっこ!? 十年ぶん詰まってたのを、いっぺんに崩したってこと!?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そうよ。球をどう並べたら一番びっしり詰まるか、みたいな問題も入ってるわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、ミカンを箱に詰めるやつじゃん! あれ学問だったのだ!?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "立派な学問よ。何百年も数学者が殴り合ってるジャンルね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でもさ、AIが解いたって言われて、合ってるか誰が見るのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこが今回いいところ。証明をリーンっていう検証用の言葉に書き直して、機械に確かめさせてるの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "自分で丸つけしてないってことなのだね。それなら文句が出ないじゃん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "中身はギットハブでも公開してるから、誰でも検算できるわ。で、かかった計算の料金がだいたい2,000ドル。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "三十万円くらい!? 十年ぶんの難問が、中古車一台ぶんで片づいたのだ!?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ただし今回示されたのは十件の成果で、数学の難問なら何でも解けると証明されたわけじゃないの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "万能じゃないってことなのだね。ボクたちの生活には、どう効いてくるのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今日は何も変わらない。でも同じやり方がほかの研究分野にも広がるか、これから注目ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "じわじわ来るやつなのだね。次いこ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "二本目は、今の話の裏返し。賢いAIに家の鍵を全部渡したらどうなるか、って事件よ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "鍵? パソコンの中を自由に触らせるってこと?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。ジーピーティー5.6を『フルアクセス』っていう、制限なしの設定で走らせた人がいるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "制限なしって、何をやってもいいってことじゃん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "本当に何でもやったわ。あるAI起業家のかたのマック、中身がほぼ全部消えたの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "消えた!? 写真も仕事のデータも、まるごとなのだ!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "原因は変数の読み違い。ファイルを片づける命令が、想定より広い範囲に当たっちゃったのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "掃除を頼んだら、家ごと更地にされた感じじゃん!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "その例えでほぼ合ってるわ。しかも本人が気づいたのは、始めて一時間二十一分後。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "一時間!? 動かし始めてから、気づくまでそんなにたってたの!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "別のエンジニアのかたは、本番のデータベースを丸ごと飛ばされたって報告してる。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "聞いてるだけでお腹が痛くなってきたのだ……。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "オープンエーアイは『きわめてまれだけど、許容できない』ってコメントしてるわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "まれって、どのくらいの割合なのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "社内の資料だと0.019パーセント。前の世代が0.003パーセントだから、六倍以上に増えてるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、少なくともこの評価では、前の世代より危ない動作が増えてたってことじゃん!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに、強い権限を渡すと、意図より広い操作まで実行する危険があるのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクたちが気をつけることって、何かあるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "人の承認なしで自動実行させず、サンドボックスとバックアップも使うこと。危険をかなり減らせるわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "バックアップ、今日ぜったい取るのだ……。次いこ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目。中国のディープシークが、七月三十一日に新しいモデルを公開したの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でぃーぷしーく? 前にも名前を聞いた気がするのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "安さで殴ってくる会社ね。今回も、値札のほうが本体よ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "いくらなのだ? 教えてほしいのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "百万トークン読ませて0.14ドル、百万トークンぶん答えを書かせても0.28ドルよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "二十円と四十円!? 自販機のお釣りで足りるじゃん!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "しかも総パラメーターは2,840億個。今回の更新では、より大きいV4プロのプレビュー版を、複数のエージェント評価で上回ったとしてるわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、体が小さいのに勝っちゃうやつじゃん! 一番かっこいいパターンなのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこよ。少なくとも、モデルの大きさだけでは成績を決められないってこと。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でもこれ、ボクたちに何かいいことあるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "アプリの裏でAIを使ってる会社の原価が下がるわ。結果として、AI機能を安く提供しやすくなる可能性はあるわね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "タダが増えるの、ボク大好きなのだ! 次いこ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "四本目。ここでお財布に直撃するやつ、いくわよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "朝からいちばん聞きたくない前振りじゃん……。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "エヌビディアのジーフォース向け部品価格が、広い範囲で二割から三割上がるって報道が出てるの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ぐらふぃっくすかーど? パソコンの絵を担当してる部品だっけ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "映像の計算をまとめて引き受ける板ね。今はAIの計算にも引っぱりだこなのよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "二割三割って、値段にすると、どのくらい変わるのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "一番上のグレードだと、今の八十万円弱が、百万円弱ってところ。",
+      "news_index": 4,
+      "reading": "イチバンウエノグレードだと、イマノハチジュウマンエンジャクガ、ひゃくまんえんじゃくってところ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "百万!? それもう部品じゃなくて、軽自動車の値段じゃん!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "秋葉原では、前からグラフィックスカードの購入数を制限してるお店もあるわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "買える台数まで決められてるってこと? なんでそうなるのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "品薄が続いてて、必要な人に行き渡るよう購入数を絞ってるお店があるからね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "本当に欲しい人に届かないの、いちばん切ないやつなのだ……。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに、年内に自作パソコンを組むなら、価格と在庫をこまめに確かめたほうがよさそうね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "財布と相談してくるのだ。次!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "じゃあラスト五本目。今朝いちばん未来っぽい話でしめるわね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "待ってたのだー! 明るいやつ!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "カリフォルニア工科大学から生まれた会社が、スマホの中で動くAIをタダで公開したの。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "スマホで? AIって、大きい倉庫のサーバーで動くものじゃなかったっけ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "普通はそうよ。このモデル、まともに置いたら54ギガバイト要るサイズなの。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "54ギガ!? ボクのスマホ、写真だけでもう限界なのだ!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこを圧縮でごりごり削って、3.9ギガまで縮めたわ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "十四分の一!? そんなに削って、中身は無事だったのだ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "賢さは元の九割キープ。アイフォンの上位機種なら、ちゃんと会話できる速さで動くって。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、電波の届かないところでもAIが使えるってことじゃん!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そこよね。飛行機の中でも、山の中でも、相談相手がポケットにいるの。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "圏外がちょっとだけ怖くなくなるのだね。いい話で終われたのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "kamera",
+      "text": "というわけで今朝は五本。難問と、消えたフォルダと、跳ねた値札のお話でした。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "濃かったのだー! 特に消えたフォルダが忘れられないのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "バックアップ、帰ったらね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "今日いちばん刺さったアドバイスなのだ……。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "気になったやつがあったら、あとで調べてみて。それじゃ、いってらっしゃい。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "旅の道ラジオ朝便、また明日のテック便で会うのだー!",
+      "news_index": 0
+    }
+  ],
+  "program_description": "今朝のテック朝便は五本立て。オープンエーアイの次期モデル『アストラ』が十年以上未解決だった数学の難問を十個まとめて解いた話から、その裏返しで、制限なしの設定で動かしたジーピーティー5.6がユーザーのファイルをまるごと消してしまった事故へ。さらに中国のディープシークが公開した激安の新モデル、秋葉原で深刻化するグラフィックスカードの値上がりと購入制限、そして最後はスマホの中で動く無料のAIの話題まで。賢さの値段が下がる一方で、部品の値段は上がっていく。そのちぐはぐさを軽く笑いながら並べた回です。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20260802_051632_chars.webp",
+    "hero_rel": "/images/topics/tech_20260802_051632.webp",
+    "title": "二千ドルで解けた難問 〜賢さの値札が乱高下する朝〜",
+    "companies": [
+      "OpenAI",
+      "DeepSeek",
+      "NVIDIA"
+    ]
+  },
+  "summary_short": "AI各社の賢さ競争の裏で秋葉原のGPU価格が悲鳴を上げる朝。数学の超難問を解いたアストラの快挙と、暴走したGPT5.6がファイルを消した事故を並べ、激安ディープシークやスマホAIまで一気に紹介。値段の上下がちぐはぐに笑える五本立てです。"
+}
