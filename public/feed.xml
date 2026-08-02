@@ -7,8 +7,8 @@
     <description>ずんだもん × めたん × つむぎが届ける、ゲーム &amp; テックニュース雑談ラジオ。朝便と夜便で毎日更新、レトロから新作まで、最新 AI 動向から業界マクロまで雑談形式でサクッと。</description>
     <language>ja</language>
     <copyright>© 2026 tabinomichi</copyright>
-    <lastBuildDate>Sun, 02 Aug 2026 05:27:56 +0900</lastBuildDate>
-    <pubDate>Sun, 02 Aug 2026 05:16:32 +0900</pubDate>
+    <lastBuildDate>Mon, 03 Aug 2026 05:30:21 +0900</lastBuildDate>
+    <pubDate>Mon, 03 Aug 2026 05:17:43 +0900</pubDate>
     <generator>build_rss_feed.py (tabinomichi radio)</generator>
     <image>
       <url>https://news.tabinomichi.jp/podcast-cover.png?v=1779005902</url>
@@ -29,6 +29,21 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>任せる線を引く朝 〜秘書が上陸して、ルールが始まる〜</title>
+      <link>https://news.tabinomichi.jp/radio/20260803_051743</link>
+      <guid isPermaLink="false">tabinomichi-radio-20260803_051743</guid>
+      <pubDate>Mon, 03 Aug 2026 05:17:43 +0900</pubDate>
+      <description>グーグルの個人用AIエージェント『ジェミニ・スパーク』が日本語対応になった話から。画面を閉じても裏で作業を続ける仕組みと、上位プランから順に降りてくる料金の話をざっくり。二本目はヨーロッパのAI規制が八月二日から本番に入った件で、開示義務や『これはAIです』と分かるようにする表示ルール、売上の三パーセントという罰金まで。三本目はメタの研究者が出した『記憶担当のAIをもう一体置く』という設計で、黙っていることも仕事のうち、という発想を紹介。最後は次のアイフォンのメモリが十二ギガに揃うという予想と、それでも値段は据え置きらしいという話。AIに何をどこまで任せるか、で今朝のテックを四本まとめた回。</description>
+      <content:encoded><![CDATA[グーグルの個人用AIエージェント『ジェミニ・スパーク』が日本語対応になった話から。画面を閉じても裏で作業を続ける仕組みと、上位プランから順に降りてくる料金の話をざっくり。二本目はヨーロッパのAI規制が八月二日から本番に入った件で、開示義務や『これはAIです』と分かるようにする表示ルール、売上の三パーセントという罰金まで。三本目はメタの研究者が出した『記憶担当のAIをもう一体置く』という設計で、黙っていることも仕事のうち、という発想を紹介。最後は次のアイフォンのメモリが十二ギガに揃うという予想と、それでも値段は据え置きらしいという話。AIに何をどこまで任せるか、で今朝のテックを四本まとめた回。]]></content:encoded>
+      <enclosure url="https://news.tabinomichi.jp/audio/ai/20260803_051743.mp3?v=1785702619" length="6687390" type="audio/mpeg"/>
+      <itunes:title>任せる線を引く朝 〜秘書が上陸して、ルールが始まる〜</itunes:title>
+      <itunes:summary>グーグルの個人用AIエージェント『ジェミニ・スパーク』が日本語対応になった話から。画面を閉じても裏で作業を続ける仕組みと、上位プランから順に降りてくる料金の話をざっくり。二本目はヨーロッパのAI規制が八月二日から本番に入った件で、開示義務や『これはAIです』と分かるようにする表示ルール、売上の三パーセントという罰金まで。三本目はメタの研究者が出した『記憶担当のAIをもう一体置く』という設計で、黙っていることも仕事のうち、という発想を紹介。最後は次のアイフォンのメモリが十二ギガに揃うという予想と、それでも値段は据え置きらしいという話。AIに何をどこまで任せるか、で今朝のテックを四本まとめた回。</itunes:summary>
+      <itunes:image href="https://news.tabinomichi.jp/images/og/20260803_051743.jpg"/>
+      <itunes:duration>6:57</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>二千ドルで解けた難問 〜賢さの値札が乱高下する朝〜</title>
       <link>https://news.tabinomichi.jp/radio/20260802_051632</link>
@@ -1511,21 +1526,6 @@
       <itunes:summary>AIがどんどん人間っぽくなってきた、をテーマにテックの話題を4本つまみ食い。1本目はチャットジーピーティーの新しい記憶のしくみ「ドリーミング」、暇な時間に裏で会話を整理して勝手に覚えてくれる話。2本目はクロードを作るアンソロピックの株式上場準備と、AI投資への懐疑論にどう答えたか。3本目はマイクロソフトとオープンエーアイの長年の蜜月解消、独占から複数クラウドへ。ラストはAIがAIを作り始めた報告と、開発元自身が「少し止まろう」と語る不思議。通勤・通学のおともにサクッと聴ける回。</itunes:summary>
       <itunes:image href="https://news.tabinomichi.jp/images/og/20260605_180438.jpg"/>
       <itunes:duration>7:59</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>ヴァレリア島の運命 〜重き選択の戦記、再び〜</title>
-      <link>https://news.tabinomichi.jp/radio/20260605_175439</link>
-      <guid isPermaLink="false">tabinomichi-radio-20260605_175439</guid>
-      <pubDate>Sat, 06 Jun 2026 05:09:36 +0900</pubDate>
-      <description>今回は1995年のスーパーファミコン作品で多くの SRPG ファンに金字塔として記憶されている『タクティクスオウガ』を、2010年に PSP でリメイクした『運命の輪』を深掘りする回。松野泰己が描いたヴァレリア島の民族紛争、ロウ・カオス・ニュートラルの三分岐ルート、崎元仁と岩田匡治のオーケストラ調 BGM、吉田明彦のキャラクターデザインといった原作の魂をリメイクで受け継ぎつつ、戦闘巻き戻しシステム『チャリオット』と物語分岐システム『ワールド』という革新機能を追加した経緯を、つむぎがガチオタク魂全開で語る。副題が原作と同じ『Let Us Cling Together』で残ったクイーン由来センスの話、キャラ死亡が緩和されて初心者にも遊びやすくなった話、そしてつむぎが PSP 実機で5周してる重度のマニアっぷりまで、SRPG 史を語るうえで外せない作品を、ずんだもんが世代じゃないなりに食らいついていく構図で進める回。</description>
-      <content:encoded><![CDATA[今回は1995年のスーパーファミコン作品で多くの SRPG ファンに金字塔として記憶されている『タクティクスオウガ』を、2010年に PSP でリメイクした『運命の輪』を深掘りする回。松野泰己が描いたヴァレリア島の民族紛争、ロウ・カオス・ニュートラルの三分岐ルート、崎元仁と岩田匡治のオーケストラ調 BGM、吉田明彦のキャラクターデザインといった原作の魂をリメイクで受け継ぎつつ、戦闘巻き戻しシステム『チャリオット』と物語分岐システム『ワールド』という革新機能を追加した経緯を、つむぎがガチオタク魂全開で語る。副題が原作と同じ『Let Us Cling Together』で残ったクイーン由来センスの話、キャラ死亡が緩和されて初心者にも遊びやすくなった話、そしてつむぎが PSP 実機で5周してる重度のマニアっぷりまで、SRPG 史を語るうえで外せない作品を、ずんだもんが世代じゃないなりに食らいついていく構図で進める回。]]></content:encoded>
-      <enclosure url="https://news.tabinomichi.jp/audio/indie/20260605_175439.mp3?v=1780690186" length="4496030" type="audio/mpeg"/>
-      <itunes:title>ヴァレリア島の運命 〜重き選択の戦記、再び〜</itunes:title>
-      <itunes:summary>今回は1995年のスーパーファミコン作品で多くの SRPG ファンに金字塔として記憶されている『タクティクスオウガ』を、2010年に PSP でリメイクした『運命の輪』を深掘りする回。松野泰己が描いたヴァレリア島の民族紛争、ロウ・カオス・ニュートラルの三分岐ルート、崎元仁と岩田匡治のオーケストラ調 BGM、吉田明彦のキャラクターデザインといった原作の魂をリメイクで受け継ぎつつ、戦闘巻き戻しシステム『チャリオット』と物語分岐システム『ワールド』という革新機能を追加した経緯を、つむぎがガチオタク魂全開で語る。副題が原作と同じ『Let Us Cling Together』で残ったクイーン由来センスの話、キャラ死亡が緩和されて初心者にも遊びやすくなった話、そしてつむぎが PSP 実機で5周してる重度のマニアっぷりまで、SRPG 史を語るうえで外せない作品を、ずんだもんが世代じゃないなりに食らいついていく構図で進める回。</itunes:summary>
-      <itunes:image href="https://news.tabinomichi.jp/images/og/20260605_175439.jpg"/>
-      <itunes:duration>4:40</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
