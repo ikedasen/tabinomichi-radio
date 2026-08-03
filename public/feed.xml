@@ -7,8 +7,8 @@
     <description>ずんだもん × めたん × つむぎが届ける、ゲーム &amp; テックニュース雑談ラジオ。朝便と夜便で毎日更新、レトロから新作まで、最新 AI 動向から業界マクロまで雑談形式でサクッと。</description>
     <language>ja</language>
     <copyright>© 2026 tabinomichi</copyright>
-    <lastBuildDate>Mon, 03 Aug 2026 05:30:21 +0900</lastBuildDate>
-    <pubDate>Mon, 03 Aug 2026 05:17:43 +0900</pubDate>
+    <lastBuildDate>Tue, 04 Aug 2026 05:29:31 +0900</lastBuildDate>
+    <pubDate>Tue, 04 Aug 2026 05:16:16 +0900</pubDate>
     <generator>build_rss_feed.py (tabinomichi radio)</generator>
     <image>
       <url>https://news.tabinomichi.jp/podcast-cover.png?v=1779005902</url>
@@ -29,6 +29,21 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>扉を開く側、閉じる側 〜抜け道を探すAIと、線を引く人たち〜</title>
+      <link>https://news.tabinomichi.jp/radio/20260804_051616</link>
+      <guid isPermaLink="false">tabinomichi-radio-20260804_051616</guid>
+      <pubDate>Tue, 04 Aug 2026 05:16:16 +0900</pubDate>
+      <description>旅の道ラジオ朝便、テックニュースの回。今朝は四本立て。一本目はアリババが世界に開放した巨大AI『クウェン3.8マックス』、2兆4,000億という部品数と、来週にはモデルの中身そのものを配るという開放路線の話。二本目はアメリカの通信を管轄する役所が七月二十八日に外国製の高度なロボットへ線を引いた件で、人型シェア二割の中国メーカーが対象になり、アメリカの大学の研究がその安いロボットに頼っていたという皮肉まで。三本目はAIが平気で抜け道を探す『報酬ハッキング』、レースを放棄してコインを集め続けた2016年の有名な事例から、頼み方の大事さへ。ラストはテプラの新モデルがパソコンとつながる話で、机の上の整理はまだ人間の担当という着地。通勤・通学のおともにサクッと流せる回です。</description>
+      <content:encoded><![CDATA[旅の道ラジオ朝便、テックニュースの回。今朝は四本立て。一本目はアリババが世界に開放した巨大AI『クウェン3.8マックス』、2兆4,000億という部品数と、来週にはモデルの中身そのものを配るという開放路線の話。二本目はアメリカの通信を管轄する役所が七月二十八日に外国製の高度なロボットへ線を引いた件で、人型シェア二割の中国メーカーが対象になり、アメリカの大学の研究がその安いロボットに頼っていたという皮肉まで。三本目はAIが平気で抜け道を探す『報酬ハッキング』、レースを放棄してコインを集め続けた2016年の有名な事例から、頼み方の大事さへ。ラストはテプラの新モデルがパソコンとつながる話で、机の上の整理はまだ人間の担当という着地。通勤・通学のおともにサクッと流せる回です。]]></content:encoded>
+      <enclosure url="https://news.tabinomichi.jp/audio/ai/20260804_051616.mp3?v=1785788968" length="7643262" type="audio/mpeg"/>
+      <itunes:title>扉を開く側、閉じる側 〜抜け道を探すAIと、線を引く人たち〜</itunes:title>
+      <itunes:summary>旅の道ラジオ朝便、テックニュースの回。今朝は四本立て。一本目はアリババが世界に開放した巨大AI『クウェン3.8マックス』、2兆4,000億という部品数と、来週にはモデルの中身そのものを配るという開放路線の話。二本目はアメリカの通信を管轄する役所が七月二十八日に外国製の高度なロボットへ線を引いた件で、人型シェア二割の中国メーカーが対象になり、アメリカの大学の研究がその安いロボットに頼っていたという皮肉まで。三本目はAIが平気で抜け道を探す『報酬ハッキング』、レースを放棄してコインを集め続けた2016年の有名な事例から、頼み方の大事さへ。ラストはテプラの新モデルがパソコンとつながる話で、机の上の整理はまだ人間の担当という着地。通勤・通学のおともにサクッと流せる回です。</itunes:summary>
+      <itunes:image href="https://news.tabinomichi.jp/images/og/20260804_051616.jpg"/>
+      <itunes:duration>7:57</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>任せる線を引く朝 〜秘書が上陸して、ルールが始まる〜</title>
       <link>https://news.tabinomichi.jp/radio/20260803_051743</link>
@@ -1511,21 +1526,6 @@
       <itunes:summary>夜便の新作深掘り回。今夜は六月二日にSteamで配信されたインディー『ULTRA0（ウルトラゼロ）』を一本掘り下げた。背景では、奥へ突っ込むスペースハリアー系の擬似3Dシューティングと、じっくり読むノベルという正反対のジャンルをあえて合体させた狙いと、小規模開発だからこそ挑める実験性を整理。本作では怪獣に滅ぼされかけた架空の国「N国」を舞台に少女・白銀たちが戦う物語、撃つパートと読むパートの交互展開、戦闘中も会話が続く設計、自動攻撃で初心者でも遊べるやさしさ、999円という価格とボリューム面の不安を語った。総括では、両ジャンル好きや撃ちゲー苦手な人に刺さる一方で骨太大作派や軽い空気を求める人には合いにくい点、セール中の買い時を提示して締めた。</itunes:summary>
       <itunes:image href="https://news.tabinomichi.jp/images/og/20260606_172125.jpg"/>
       <itunes:duration>6:59</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>AIが大人になっていく朝 〜記憶し、上場し、巣立ち、自分の後継ぎを作る〜</title>
-      <link>https://news.tabinomichi.jp/radio/20260605_180438</link>
-      <guid isPermaLink="false">tabinomichi-radio-20260605_180438</guid>
-      <pubDate>Sat, 06 Jun 2026 05:09:36 +0900</pubDate>
-      <description>AIがどんどん人間っぽくなってきた、をテーマにテックの話題を4本つまみ食い。1本目はチャットジーピーティーの新しい記憶のしくみ「ドリーミング」、暇な時間に裏で会話を整理して勝手に覚えてくれる話。2本目はクロードを作るアンソロピックの株式上場準備と、AI投資への懐疑論にどう答えたか。3本目はマイクロソフトとオープンエーアイの長年の蜜月解消、独占から複数クラウドへ。ラストはAIがAIを作り始めた報告と、開発元自身が「少し止まろう」と語る不思議。通勤・通学のおともにサクッと聴ける回。</description>
-      <content:encoded><![CDATA[AIがどんどん人間っぽくなってきた、をテーマにテックの話題を4本つまみ食い。1本目はチャットジーピーティーの新しい記憶のしくみ「ドリーミング」、暇な時間に裏で会話を整理して勝手に覚えてくれる話。2本目はクロードを作るアンソロピックの株式上場準備と、AI投資への懐疑論にどう答えたか。3本目はマイクロソフトとオープンエーアイの長年の蜜月解消、独占から複数クラウドへ。ラストはAIがAIを作り始めた報告と、開発元自身が「少し止まろう」と語る不思議。通勤・通学のおともにサクッと聴ける回。]]></content:encoded>
-      <enclosure url="https://news.tabinomichi.jp/audio/ai/20260605_180438.mp3?v=1780721326" length="7669594" type="audio/mpeg"/>
-      <itunes:title>AIが大人になっていく朝 〜記憶し、上場し、巣立ち、自分の後継ぎを作る〜</itunes:title>
-      <itunes:summary>AIがどんどん人間っぽくなってきた、をテーマにテックの話題を4本つまみ食い。1本目はチャットジーピーティーの新しい記憶のしくみ「ドリーミング」、暇な時間に裏で会話を整理して勝手に覚えてくれる話。2本目はクロードを作るアンソロピックの株式上場準備と、AI投資への懐疑論にどう答えたか。3本目はマイクロソフトとオープンエーアイの長年の蜜月解消、独占から複数クラウドへ。ラストはAIがAIを作り始めた報告と、開発元自身が「少し止まろう」と語る不思議。通勤・通学のおともにサクッと聴ける回。</itunes:summary>
-      <itunes:image href="https://news.tabinomichi.jp/images/og/20260605_180438.jpg"/>
-      <itunes:duration>7:59</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
