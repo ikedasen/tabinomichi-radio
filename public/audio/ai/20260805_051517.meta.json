@@ -1,0 +1,986 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-08-05T05:15:17+09:00",
+  "title": "金利2パーセントの戦争 〜見えない保証人と、居座る同居人〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 481.97,
+  "script_hash": "sha256:9b7dc51c0a3f3c96f01d5bc0a0f4576360b712e5b0c6ec47afa363c0b830df18",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 5.56
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便。テックニュースの回、四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 5.56,
+      "end_sec": 10.77
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝も軽くサクッといくのだー!",
+      "news_index": 0,
+      "start_sec": 10.92,
+      "end_sec": 14.71
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今日は四本。お金の桁がでかい話から始めて、最後はあなたのパソコンの中に着地するわ。",
+      "news_index": 0,
+      "start_sec": 14.86,
+      "end_sec": 20.51
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクのパソコン? なんか勝手に触られてる気配がするのだ。",
+      "news_index": 0,
+      "start_sec": 20.66,
+      "end_sec": 24.59
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "触られてはないわね。ただ、居座られてはいるかも。",
+      "news_index": 0,
+      "start_sec": 24.74,
+      "end_sec": 28.0
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "居座り!? 家賃も払わずに!?",
+      "news_index": 0,
+      "start_sec": 28.15,
+      "end_sec": 30.67
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "その話はラストにとっておく。まずは一本目、桁の話ね。",
+      "news_index": 0,
+      "start_sec": 30.82,
+      "end_sec": 34.86
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "でっかい数字、待ってたのだー!",
+      "news_index": 0,
+      "start_sec": 35.01,
+      "end_sec": 37.19
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "アンソロピックが使うグーグル製AIチップを、専用の別会社が借入金で調達して貸し出す仕組みを組んだのよ。",
+      "news_index": 1,
+      "start_sec": 37.34,
+      "end_sec": 44.52
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "帳簿から外す? 借金って、消せるものだっけ?",
+      "news_index": 1,
+      "start_sec": 44.67,
+      "end_sec": 48.41
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "消えてないわ。この取引専用の別会社をこしらえて、借りたお金でチップを調達し、アンソロピックに貸し出す形にしたの。",
+      "news_index": 1,
+      "start_sec": 48.56,
+      "end_sec": 55.76
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "別会社!? 散らかった部屋の物を、押し入れに突っ込んだだけじゃん!",
+      "news_index": 1,
+      "start_sec": 55.91,
+      "end_sec": 60.4
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "その感覚、だいたい合ってる。ただし押し入れの中身が350億ドル。",
+      "news_index": 1,
+      "start_sec": 60.55,
+      "end_sec": 65.21
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "350億ドル!? 日本円で5兆円コースじゃん!",
+      "news_index": 1,
+      "start_sec": 65.36,
+      "end_sec": 69.29
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "中身はティーピーユーが、ざっくり100万個。グーグルが自分で設計した、AI専用の計算チップね。",
+      "news_index": 1,
+      "start_sec": 69.44,
+      "end_sec": 76.27
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、エヌビディアから買わずに、自前で作っちゃうパターンじゃん!",
+      "news_index": 1,
+      "start_sec": 76.42,
+      "end_sec": 80.51
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "面白いのはここから。ブロードコムっていう半導体の大手が、そのうち約300億ドル分に保証を付けてるのよ。",
+      "news_index": 1,
+      "start_sec": 80.66,
+      "end_sec": 87.1
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "保証? また保証人が出てきたのだ。",
+      "news_index": 1,
+      "start_sec": 87.25,
+      "end_sec": 89.91
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "お金を貸す側から見ると、チップを処分しても返済に足りない場合にブロードコムが穴を埋めるぶん、リスクが小さくなるわけ。",
+      "news_index": 1,
+      "start_sec": 90.06,
+      "end_sec": 97.66
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "信用のある人を、前に立たせたってことだね。",
+      "news_index": 1,
+      "start_sec": 97.81,
+      "end_sec": 101.08
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "その効果で、借入の金利が7.1パーセント。エヌビディア側の陣営は9.3パーセントよ。",
+      "news_index": 1,
+      "start_sec": 101.23,
+      "end_sec": 107.62
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "2パーセントの差って、そんなに大事なやつ?",
+      "news_index": 1,
+      "start_sec": 107.77,
+      "end_sec": 110.82
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "sexy",
+      "text": "兆の単位で借りるなら、その約2ポイントの差が資金調達コストに大きく響くわ。",
+      "news_index": 1,
+      "start_sec": 110.97,
+      "end_sec": 117.18
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "うっ、住宅ローンで悩んでるレベルの話じゃないのだ……。",
+      "news_index": 1,
+      "start_sec": 117.33,
+      "end_sec": 122.58
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "要するに、AIの競争では『賢さ』だけじゃなく、『計算資源をどれだけ有利に調達できるか』も重要になってるって話。",
+      "news_index": 1,
+      "start_sec": 122.73,
+      "end_sec": 131.24
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、ボクたちには何が関係あるのだ?",
+      "news_index": 1,
+      "start_sec": 131.39,
+      "end_sec": 134.24
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "こうした資金調達コストは、将来のAIサービスの価格にも影響する可能性があるのよ。",
+      "news_index": 1,
+      "start_sec": 134.39,
+      "end_sec": 140.38
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "見えないところに、大人の事情が詰まってるのだね。",
+      "news_index": 1,
+      "start_sec": 140.53,
+      "end_sec": 143.84
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目は日本の会社。東京のサカナ・エーアイが八月三日に、日本向けに調整したAIを配り始めたわ。",
+      "news_index": 2,
+      "start_sec": 143.99,
+      "end_sec": 151.33
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "日本! 国産って聞くと、なんか応援したくなるのだ!",
+      "news_index": 2,
+      "start_sec": 151.48,
+      "end_sec": 155.07
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこがひねくれててね。土台は中国のムーンショット・エーアイが無料公開してるモデルなの。",
+      "news_index": 2,
+      "start_sec": 155.22,
+      "end_sec": 160.49
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "えっ、国産じゃないの!? 話が急にこんがらがってきたのだ!",
+      "news_index": 2,
+      "start_sec": 160.64,
+      "end_sec": 166.22
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "中身を日本語と日本の商習慣で鍛え直してるから、日本の言葉や文化、制度に合うよう、追加で調整してあるのね。",
+      "news_index": 2,
+      "start_sec": 166.37,
+      "end_sec": 174.07
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "つまり、輸入した麺で日本のラーメン作った感じ?",
+      "news_index": 2,
+      "start_sec": 174.22,
+      "end_sec": 177.92
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "うまい例え。日本向けの味付けを、あとからしっかり加えた感じね。",
+      "news_index": 2,
+      "start_sec": 178.07,
+      "end_sec": 182.5
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、それって誰が使うやつ? ボクでも触れるの?",
+      "news_index": 2,
+      "start_sec": 182.65,
+      "end_sec": 186.31
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "エーピーアイっていって、会社が自分のサービスにAIを差し込むための、接続口の形で配ってるの。",
+      "news_index": 2,
+      "start_sec": 186.46,
+      "end_sec": 192.74
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "せつぞくぐち? コンセントみたいなやつ?",
+      "news_index": 2,
+      "start_sec": 192.89,
+      "end_sec": 195.77
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう。しかも今までチャットジーピーティー用に作った接続口を、行き先を一箇所書き換えるだけで乗り換えられるのよ。",
+      "news_index": 2,
+      "start_sec": 195.92,
+      "end_sec": 202.48
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "一箇所!? 引っ越しなのに、住所シール貼り替えて終わりじゃん!",
+      "news_index": 2,
+      "start_sec": 202.63,
+      "end_sec": 206.83
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "値段も強気でね。文章を100万トークン読ませて、日本円でだいたい152円。",
+      "news_index": 2,
+      "start_sec": 206.98,
+      "end_sec": 212.43
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "とーくん? 単位がふわっとしてるのだ。",
+      "news_index": 2,
+      "start_sec": 212.58,
+      "end_sec": 215.31
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "AIが文章を数える時の、かたまりの単位ね。本の長さや分け方にもよるけど、100万トークンなら長い文章を何冊ぶんも扱える規模ね。",
+      "news_index": 2,
+      "start_sec": 215.46,
+      "end_sec": 224.81
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、100万トークン読ませて百円ちょっと!? かなり安いのだ!",
+      "news_index": 2,
+      "start_sec": 224.96,
+      "end_sec": 229.55
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこよ。日本語のニュアンスに強いAIが、その値段まで降りてきたってこと。",
+      "news_index": 2,
+      "start_sec": 229.7,
+      "end_sec": 234.17
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、ボクの生活はどう変わるのだ?",
+      "news_index": 2,
+      "start_sec": 234.32,
+      "end_sec": 236.99
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "日本のサービスの問い合わせ窓口が、妙な直訳をしなくなるわ。地味だけど効くやつ。",
+      "news_index": 2,
+      "start_sec": 237.14,
+      "end_sec": 242.46
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "『恐れ入りますが』が、変な位置に来なくなるのだね。",
+      "news_index": 2,
+      "start_sec": 242.61,
+      "end_sec": 246.01
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "三本目、ちょっと物騒よ。公開された文章でAIを騙し、権限の強い別のAIを動かせると分かった脆弱性。",
+      "news_index": 3,
+      "start_sec": 246.16,
+      "end_sec": 253.87
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "AI同士のケンカ!? ボクたち置いてけぼりじゃん!",
+      "news_index": 3,
+      "start_sec": 254.02,
+      "end_sec": 257.46
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "舞台はグーグルが配ってる『エーディーケー』っていう、AIエージェントを作るための道具箱ね。",
+      "news_index": 3,
+      "start_sec": 257.61,
+      "end_sec": 263.49
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "えーじぇんと? 人の代わりに勝手に働くAI、だっけ?",
+      "news_index": 3,
+      "start_sec": 263.64,
+      "end_sec": 266.9
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、頼まれた作業を自分で進めるAIよ。今回はそれが二体、役割違いで並んでたの。",
+      "news_index": 3,
+      "start_sec": 267.05,
+      "end_sec": 273.32
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "二体? どんな役割分担なの?",
+      "news_index": 3,
+      "start_sec": 273.47,
+      "end_sec": 276.1
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "受付係と、修理係。受付は誰でも話しかけられるけど、権限はほとんど無いわ。",
+      "news_index": 3,
+      "start_sec": 276.25,
+      "end_sec": 281.78
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、修理係のほうが強い鍵を持ってるパターンなのだ!",
+      "news_index": 3,
+      "start_sec": 281.93,
+      "end_sec": 285.8
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ご名答。で、セキュリティ会社のピラー・セキュリティが、その受付を言葉だけで騙す方法を見つけたの。",
+      "news_index": 3,
+      "start_sec": 285.95,
+      "end_sec": 292.43
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "騙す? どんな言葉を使ったのだ?",
+      "news_index": 3,
+      "start_sec": 292.58,
+      "end_sec": 295.26
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "誰でも書き込める公開の連絡欄に、指示文を紛れ込ませただけ。受付がそれを本物の依頼だと信じたのよ。",
+      "news_index": 3,
+      "start_sec": 295.41,
+      "end_sec": 302.42
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "受付のバイトを丸め込んで、金庫の鍵を持った店長を呼ばせたってこと!?",
+      "news_index": 3,
+      "start_sec": 302.57,
+      "end_sec": 308.97
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "その例え、そのまま使いたいくらい正確だわ。",
+      "news_index": 3,
+      "start_sec": 309.12,
+      "end_sec": 312.22
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、何を持っていかれちゃったの?",
+      "news_index": 3,
+      "start_sec": 312.37,
+      "end_sec": 314.73
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "実験の中では、自動テストの環境で好きなプログラムを動かせて、鍵にあたるトークンまで取り出せたわ。",
+      "news_index": 3,
+      "start_sec": 314.88,
+      "end_sec": 321.12
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "鍵まで!? それ完全に詰んでるじゃん!",
+      "news_index": 3,
+      "start_sec": 321.27,
+      "end_sec": 323.94
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "落ち着いて。グーグルは七月二十一日に修正済みで、問題になった仕組みも三つ消してるの。",
+      "news_index": 3,
+      "start_sec": 324.09,
+      "end_sec": 330.09
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "よかったのだ……。心臓に悪い話なのだ。",
+      "news_index": 3,
+      "start_sec": 330.24,
+      "end_sec": 334.44
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "教訓は一つ。AIに仕事を任せる時は、『それ誰の指示?』を確かめる係が要るってこと。",
+      "news_index": 3,
+      "start_sec": 334.59,
+      "end_sec": 340.82
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "それ、ボクが使うAI秘書にも起きるやつ?",
+      "news_index": 3,
+      "start_sec": 340.97,
+      "end_sec": 344.13
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "sexy",
+      "text": "起きるわ。届いたメールの本文に命令が仕込んであったら、素直なAIほど従うもの。",
+      "news_index": 3,
+      "start_sec": 344.28,
+      "end_sec": 350.96
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "素直がいちばん危ないって、切ない世の中なのだ……。",
+      "news_index": 3,
+      "start_sec": 351.11,
+      "end_sec": 355.47
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "じゃあラスト四本目。冒頭で振った、あなたのパソコンに居座ってる同居人の話。",
+      "news_index": 4,
+      "start_sec": 355.62,
+      "end_sec": 360.48
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "待ってたのだ、家賃を払わないやつ!",
+      "news_index": 4,
+      "start_sec": 360.63,
+      "end_sec": 363.11
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "対応するコパイロットプラスPCでは、ウィンドウズ11が使うローカルAIモデルが入ることがあるのよ。文章を処理するファイ・シリカや、画像生成や画像修正に使うモデルなどね。",
+      "news_index": 4,
+      "start_sec": 363.26,
+      "end_sec": 374.7
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "入ってるだけなら、別に困らなくない?",
+      "news_index": 4,
+      "start_sec": 374.85,
+      "end_sec": 377.69
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "容量を食うのよ。軽いって言われてる言語モデル一つで、2.5ギガバイト以上。",
+      "news_index": 4,
+      "start_sec": 377.84,
+      "end_sec": 382.79
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "2.5ギガ!? スマホで撮った写真、何百枚ぶんじゃん!",
+      "news_index": 4,
+      "start_sec": 382.94,
+      "end_sec": 386.94
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "しかも使ってなくても、そこに居るからね。押し入れの奥の健康器具みたいなもの。",
+      "news_index": 4,
+      "start_sec": 387.09,
+      "end_sec": 392.05
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "いちばん罪深いやつを、例えに持ってきたのだ。",
+      "news_index": 4,
+      "start_sec": 392.2,
+      "end_sec": 395.58
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、マイクロソフトが『じゃあ消せるようにするか』って画面を用意し始めたわ。",
+      "news_index": 4,
+      "start_sec": 395.73,
+      "end_sec": 400.67
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "消していいのだ!? どこから触るやつ?",
+      "news_index": 4,
+      "start_sec": 400.82,
+      "end_sec": 403.55
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "設定のシステムの中に、『AIコンポーネント』って項目ができるの。提供元も容量も、一覧で出るわ。",
+      "news_index": 4,
+      "start_sec": 403.7,
+      "end_sec": 410.83
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "一覧! 誰がどれだけ場所を取ってるか、丸見えになるのだ!",
+      "news_index": 4,
+      "start_sec": 410.98,
+      "end_sec": 414.92
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今の実験版では、少なくともファイ・シリカにアンインストールボタンが見つかっていて、削除すればそのぶんの容量を空けられるって。",
+      "news_index": 4,
+      "start_sec": 415.07,
+      "end_sec": 422.36
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "自分のパソコンを、自分で決められる感じがして好きなのだ。",
+      "news_index": 4,
+      "start_sec": 422.51,
+      "end_sec": 426.74
+    },
+    {
+      "index": 84,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ただし今はまだ、先に試してもらう実験段階。全員の手元には届いてないわ。",
+      "news_index": 4,
+      "start_sec": 426.89,
+      "end_sec": 432.42
+    },
+    {
+      "index": 85,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "そこは待つしかないのだね……。",
+      "news_index": 4,
+      "start_sec": 432.57,
+      "end_sec": 435.05
+    },
+    {
+      "index": 86,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "要するに、一部のローカルAIモデルを、持ち主が管理しやすくなる方向に一歩進んだって話よ。",
+      "news_index": 4,
+      "start_sec": 435.2,
+      "end_sec": 441.84
+    },
+    {
+      "index": 87,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "居座りじゃなくて、ちゃんとお願いして住んでもらうのだ。",
+      "news_index": 4,
+      "start_sec": 441.99,
+      "end_sec": 445.35
+    },
+    {
+      "index": 88,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "はい、今朝は四本。お金の桁、日本語のAI、AI同士の騙し合い、パソコンの大掃除ね。",
+      "news_index": 0,
+      "start_sec": 445.5,
+      "end_sec": 452.24
+    },
+    {
+      "index": 89,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "並べてみたら、ぜんぶ『誰が決めるか』の話に見えてきたのだ。",
+      "news_index": 0,
+      "start_sec": 452.39,
+      "end_sec": 456.93
+    },
+    {
+      "index": 90,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いい着地。保証するのは誰か、指示したのは誰か、消すのは誰か。",
+      "news_index": 0,
+      "start_sec": 457.08,
+      "end_sec": 461.29
+    },
+    {
+      "index": 91,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "最後のやつだけは、ボクが決められるのだー!",
+      "news_index": 0,
+      "start_sec": 461.44,
+      "end_sec": 464.27
+    },
+    {
+      "index": 92,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そこが今朝いちばんの朗報かもね。",
+      "news_index": 0,
+      "start_sec": 464.42,
+      "end_sec": 466.63
+    },
+    {
+      "index": 93,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "気になったやつがあったら、あとで調べてみてほしいのだ!",
+      "news_index": 0,
+      "start_sec": 466.78,
+      "end_sec": 470.17
+    },
+    {
+      "index": 94,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kamera",
+      "text": "それじゃ、また明日のテック朝便で。いってらっしゃい。",
+      "news_index": 0,
+      "start_sec": 470.32,
+      "end_sec": 473.58
+    },
+    {
+      "index": 95,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "いってらっしゃいなのだー!",
+      "news_index": 0,
+      "start_sec": 473.73,
+      "end_sec": 475.23
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 475.93,
+      "end_sec": 481.97
+    }
+  ],
+  "wall_time_sec": 14.03,
+  "audio_url": "/audio/ai/20260805_051517.mp3?v=1785875451"
+}

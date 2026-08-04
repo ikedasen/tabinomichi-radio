@@ -1,0 +1,606 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-08-04T20:15:17.355786+00:00",
+  "title": "金利2パーセントの戦争 〜見えない保証人と、居座る同居人〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便。テックニュースの回、四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝も軽くサクッといくのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今日は四本。お金の桁がでかい話から始めて、最後はあなたのパソコンの中に着地するわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクのパソコン? なんか勝手に触られてる気配がするのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "触られてはないわね。ただ、居座られてはいるかも。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "居座り!? 家賃も払わずに!?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "その話はラストにとっておく。まずは一本目、桁の話ね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "でっかい数字、待ってたのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "アンソロピックが使うグーグル製AIチップを、専用の別会社が借入金で調達して貸し出す仕組みを組んだのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "帳簿から外す? 借金って、消せるものだっけ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "消えてないわ。この取引専用の別会社をこしらえて、借りたお金でチップを調達し、アンソロピックに貸し出す形にしたの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "別会社!? 散らかった部屋の物を、押し入れに突っ込んだだけじゃん!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "その感覚、だいたい合ってる。ただし押し入れの中身が350億ドル。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "350億ドル!? 日本円で5兆円コースじゃん!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "中身はティーピーユーが、ざっくり100万個。グーグルが自分で設計した、AI専用の計算チップね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、エヌビディアから買わずに、自前で作っちゃうパターンじゃん!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "面白いのはここから。ブロードコムっていう半導体の大手が、そのうち約300億ドル分に保証を付けてるのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "保証? また保証人が出てきたのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "お金を貸す側から見ると、チップを処分しても返済に足りない場合にブロードコムが穴を埋めるぶん、リスクが小さくなるわけ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "信用のある人を、前に立たせたってことだね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "その効果で、借入の金利が7.1パーセント。エヌビディア側の陣営は9.3パーセントよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "2パーセントの差って、そんなに大事なやつ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "sexy",
+      "text": "兆の単位で借りるなら、その約2ポイントの差が資金調達コストに大きく響くわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "うっ、住宅ローンで悩んでるレベルの話じゃないのだ……。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "要するに、AIの競争では『賢さ』だけじゃなく、『計算資源をどれだけ有利に調達できるか』も重要になってるって話。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、ボクたちには何が関係あるのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "こうした資金調達コストは、将来のAIサービスの価格にも影響する可能性があるのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "見えないところに、大人の事情が詰まってるのだね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目は日本の会社。東京のサカナ・エーアイが八月三日に、日本向けに調整したAIを配り始めたわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "日本! 国産って聞くと、なんか応援したくなるのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこがひねくれててね。土台は中国のムーンショット・エーアイが無料公開してるモデルなの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "えっ、国産じゃないの!? 話が急にこんがらがってきたのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "中身を日本語と日本の商習慣で鍛え直してるから、日本の言葉や文化、制度に合うよう、追加で調整してあるのね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "つまり、輸入した麺で日本のラーメン作った感じ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "うまい例え。日本向けの味付けを、あとからしっかり加えた感じね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、それって誰が使うやつ? ボクでも触れるの?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "エーピーアイっていって、会社が自分のサービスにAIを差し込むための、接続口の形で配ってるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "せつぞくぐち? コンセントみたいなやつ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう。しかも今までチャットジーピーティー用に作った接続口を、行き先を一箇所書き換えるだけで乗り換えられるのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "一箇所!? 引っ越しなのに、住所シール貼り替えて終わりじゃん!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "値段も強気でね。文章を100万トークン読ませて、日本円でだいたい152円。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "とーくん? 単位がふわっとしてるのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "AIが文章を数える時の、かたまりの単位ね。本の長さや分け方にもよるけど、100万トークンなら長い文章を何冊ぶんも扱える規模ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、100万トークン読ませて百円ちょっと!? かなり安いのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこよ。日本語のニュアンスに強いAIが、その値段まで降りてきたってこと。",
+      "reading": "そこよ。ニホンゴノニュアンスにツヨいエーアイが、そのねだんまでおりてきたってこと。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、ボクの生活はどう変わるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "日本のサービスの問い合わせ窓口が、妙な直訳をしなくなるわ。地味だけど効くやつ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "『恐れ入りますが』が、変な位置に来なくなるのだね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "三本目、ちょっと物騒よ。公開された文章でAIを騙し、権限の強い別のAIを動かせると分かった脆弱性。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "AI同士のケンカ!? ボクたち置いてけぼりじゃん!",
+      "reading": "エーアイドウシノケンカ!? ボクたちオイテケボリジャン!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "舞台はグーグルが配ってる『エーディーケー』っていう、AIエージェントを作るための道具箱ね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "えーじぇんと? 人の代わりに勝手に働くAI、だっけ?",
+      "reading": "えーじぇんと? エージェントエーアイ、だっけ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、頼まれた作業を自分で進めるAIよ。今回はそれが二体、役割違いで並んでたの。",
+      "reading": "そう、タノマレサギョーオジブンデススメルエーアイよ。コンカイハソレガニタイ、やくわりちがいでならんでたの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "二体? どんな役割分担なの?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "受付係と、修理係。受付は誰でも話しかけられるけど、権限はほとんど無いわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、修理係のほうが強い鍵を持ってるパターンなのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ご名答。で、セキュリティ会社のピラー・セキュリティが、その受付を言葉だけで騙す方法を見つけたの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "騙す? どんな言葉を使ったのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "誰でも書き込める公開の連絡欄に、指示文を紛れ込ませただけ。受付がそれを本物の依頼だと信じたのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "受付のバイトを丸め込んで、金庫の鍵を持った店長を呼ばせたってこと!?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "その例え、そのまま使いたいくらい正確だわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、何を持っていかれちゃったの?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "実験の中では、自動テストの環境で好きなプログラムを動かせて、鍵にあたるトークンまで取り出せたわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "鍵まで!? それ完全に詰んでるじゃん!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "落ち着いて。グーグルは七月二十一日に修正済みで、問題になった仕組みも三つ消してるの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "よかったのだ……。心臓に悪い話なのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "教訓は一つ。AIに仕事を任せる時は、『それ誰の指示?』を確かめる係が要るってこと。",
+      "reading": "キョウクンハヒトツ。エーアイにしごとをまかせるときは、『それダレノシジ?』をタシカメルカカリガイルッテコト。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "それ、ボクが使うAI秘書にも起きるやつ?",
+      "reading": "それ、ボクがツカウエーアイヒショニモオキルヤツ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "sexy",
+      "text": "起きるわ。届いたメールの本文に命令が仕込んであったら、素直なAIほど従うもの。",
+      "reading": "おきるわ。とどいたメールのホンブンニメイレイガシコンデアッタラ、スナオナエーアイほどしたがうもの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "素直がいちばん危ないって、切ない世の中なのだ……。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "じゃあラスト四本目。冒頭で振った、あなたのパソコンに居座ってる同居人の話。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "待ってたのだ、家賃を払わないやつ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "対応するコパイロットプラスPCでは、ウィンドウズ11が使うローカルAIモデルが入ることがあるのよ。文章を処理するファイ・シリカや、画像生成や画像修正に使うモデルなどね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "入ってるだけなら、別に困らなくない?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "容量を食うのよ。軽いって言われてる言語モデル一つで、2.5ギガバイト以上。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "2.5ギガ!? スマホで撮った写真、何百枚ぶんじゃん!",
+      "news_index": 4,
+      "reading": "にてんごぎが!?スマホでとったしゃしん、ナンビャクマイブンジャン!"
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "しかも使ってなくても、そこに居るからね。押し入れの奥の健康器具みたいなもの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "いちばん罪深いやつを、例えに持ってきたのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、マイクロソフトが『じゃあ消せるようにするか』って画面を用意し始めたわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "消していいのだ!? どこから触るやつ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "設定のシステムの中に、『AIコンポーネント』って項目ができるの。提供元も容量も、一覧で出るわ。",
+      "reading": "セッテイノシステムのナカニ、『エーアイコンポーネント』ってコウモクガデキルノ。テイキョウモトモヨウリョウモ、イチランデデルワ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "一覧! 誰がどれだけ場所を取ってるか、丸見えになるのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今の実験版では、少なくともファイ・シリカにアンインストールボタンが見つかっていて、削除すればそのぶんの容量を空けられるって。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "自分のパソコンを、自分で決められる感じがして好きなのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ただし今はまだ、先に試してもらう実験段階。全員の手元には届いてないわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "そこは待つしかないのだね……。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "要するに、一部のローカルAIモデルを、持ち主が管理しやすくなる方向に一歩進んだって話よ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "居座りじゃなくて、ちゃんとお願いして住んでもらうのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "はい、今朝は四本。お金の桁、日本語のAI、AI同士の騙し合い、パソコンの大掃除ね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "並べてみたら、ぜんぶ『誰が決めるか』の話に見えてきたのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いい着地。保証するのは誰か、指示したのは誰か、消すのは誰か。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "最後のやつだけは、ボクが決められるのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そこが今朝いちばんの朗報かもね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "気になったやつがあったら、あとで調べてみてほしいのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "kamera",
+      "text": "それじゃ、また明日のテック朝便で。いってらっしゃい。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "いってらっしゃいなのだー!",
+      "news_index": 0
+    }
+  ],
+  "program_description": "今朝のテック朝便は四本立て。まずはグーグルがアンソロピックに渡したAIチップ350億ドル分を専用の別会社に持たせ、ブロードコムの保証で借入金利を7.1パーセントまで下げた金融の裏側から。二本目は東京のサカナ・エーアイが八月三日に出した日本語専用AI、土台が中国の公開モデルという意外な出自と、その安さの話。三本目はグーグルの開発キットで見つかった、受付役のAIを言葉で騙して権限の強いAIを動かす手口、修正済みだけど教訓は重め。ラストはウィンドウズ11に居座るAI部品を、持ち主の判断で消せるようになる新画面。お金の桁の話から始まって、最後はあなたのパソコンの空き容量に着地する回。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20260805_051517_chars.webp",
+    "hero_rel": "/images/topics/tech_20260805_051517.webp",
+    "title": "金利2パーセントの戦争 〜見えない保証人と、居座る同居人〜",
+    "companies": [
+      "Google",
+      "Claude",
+      "NVIDIA",
+      "Microsoft",
+      "OpenAI"
+    ]
+  },
+  "summary_short": "お金の桁の話から始まったニュースが、AIチップ担保の裏金融、日本語AIの意外な出自、AI同士を言葉で騙す新手口を経て、最後は自分のパソコンの空き容量に着地する回。"
+}
