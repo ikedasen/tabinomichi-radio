@@ -1,0 +1,906 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-08-06T05:15:42+09:00",
+  "title": "引き継ぎの朝 〜席を立つ人と、消える住人〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 431.96,
+  "script_hash": "sha256:2e7b430e519b633acb88eaad74c8f380f21c93c458a24631a231402c0011427b",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 8.19
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便。テックニュースの回、四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 8.19,
+      "end_sec": 13.41
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 通勤中のかた、お疲れさまなのだ!",
+      "news_index": 0,
+      "start_sec": 13.56,
+      "end_sec": 17.88
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今朝は五本、軽く流していくわ。裏テーマは「お別れ」ね。",
+      "news_index": 0,
+      "start_sec": 18.03,
+      "end_sec": 21.93
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "お別れ!? 朝からしんみりするやつじゃん!",
+      "news_index": 0,
+      "start_sec": 22.08,
+      "end_sec": 24.88
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "そこまで湿っぽくないわ。あなたのスマホの中の住人が、一人いなくなる話。",
+      "news_index": 0,
+      "start_sec": 25.03,
+      "end_sec": 29.87
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "住人!? ボクのスマホ、誰か住んでたのだ!?",
+      "news_index": 0,
+      "start_sec": 30.02,
+      "end_sec": 34.41
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "一本目でやるから、慌てないで。",
+      "news_index": 0,
+      "start_sec": 34.56,
+      "end_sec": 36.86
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ一本目。グーグルアシスタントが、九月四日から順番に止まっていくのよ。",
+      "news_index": 1,
+      "start_sec": 36.94,
+      "end_sec": 42.57
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、それ! 「オッケーグーグル」って呼びかけるやつじゃん!",
+      "news_index": 1,
+      "start_sec": 42.72,
+      "end_sec": 46.38
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう、その住人ね。アンドロイドのスマホもタブレットも、腕時計も、車のアンドロイドオートまで対象。",
+      "news_index": 1,
+      "start_sec": 46.53,
+      "end_sec": 52.7
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "全部!? 引っ越しどころか、一家離散なのだ!",
+      "news_index": 1,
+      "start_sec": 52.85,
+      "end_sec": 56.33
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "離散じゃなくて世代交代。後釜はジェミニっていう、グーグルのAIに一本化されるわ。",
+      "news_index": 1,
+      "start_sec": 56.48,
+      "end_sec": 61.87
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じぇみに? 今までのやつと、どこが違うのだ?",
+      "news_index": 1,
+      "start_sec": 62.02,
+      "end_sec": 65.35
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "アシスタントも言葉を理解して動くけど、ジェミニはもっと自由な言い回しや、複数の指示をまとめて扱えるAIね。",
+      "news_index": 1,
+      "start_sec": 65.5,
+      "end_sec": 73.0
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "賢くなるなら、得しかない話じゃん。",
+      "news_index": 1,
+      "start_sec": 73.15,
+      "end_sec": 75.89
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "そこが微妙。一度切り替わったら、もう元には戻せないの。",
+      "news_index": 1,
+      "start_sec": 76.04,
+      "end_sec": 79.74
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "戻せない!? 「タイマー三分」しか頼んでこなかったボクは、どうなるのだ……。",
+      "news_index": 1,
+      "start_sec": 79.89,
+      "end_sec": 86.55
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "あなたの使い方なら平気よ。困るのは、毎朝きっちり同じ動きを期待してるかたね。",
+      "news_index": 1,
+      "start_sec": 86.7,
+      "end_sec": 92.33
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "あっ、考えるAIって、たまに気を利かせすぎるやつじゃん!",
+      "news_index": 1,
+      "start_sec": 92.48,
+      "end_sec": 96.73
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこよ。電気を消す、エアコンをつける、その手順を家ごと任せてる人は、移行後も同じように動くか確かめておきたいわ。",
+      "news_index": 1,
+      "start_sec": 96.88,
+      "end_sec": 104.45
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "賭け……朝いちばんに外したくないやつなのだ。",
+      "news_index": 1,
+      "start_sec": 104.6,
+      "end_sec": 107.58
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに、九月から声の相手が別人になる。夏のうちに設定を見直しなさい、って話。",
+      "news_index": 1,
+      "start_sec": 107.73,
+      "end_sec": 113.5
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目。メタが八月五日に、プログラムを書くAIをベータ版で出したのよ。",
+      "news_index": 2,
+      "start_sec": 113.58,
+      "end_sec": 118.57
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "めた? インスタとかフェイスブックの会社だっけ?",
+      "news_index": 2,
+      "start_sec": 118.72,
+      "end_sec": 122.02
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、そこ。名前はミューズ・コードで、黒い画面に文字を打ち込んで使う道具ね。",
+      "news_index": 2,
+      "start_sec": 122.17,
+      "end_sec": 127.41
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "黒い画面!? 映画でハッカーがカタカタやってるアレじゃん!",
+      "news_index": 2,
+      "start_sec": 127.56,
+      "end_sec": 132.35
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "見た目はまさにアレ。中身は、人の代わりに作業してくれるAIエージェントよ。",
+      "news_index": 2,
+      "start_sec": 132.5,
+      "end_sec": 137.15
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "えーじぇんと? それ、何をしてくれるやつなのだ?",
+      "news_index": 2,
+      "start_sec": 137.3,
+      "end_sec": 140.62
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "指示を受けて、自分で段取りを決めて、書いて、ちゃんと動くか確かめるところまでやるの。",
+      "news_index": 2,
+      "start_sec": 140.77,
+      "end_sec": 146.19
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "段取りまで!? もう新人じゃなくて、中堅社員じゃん!",
+      "news_index": 2,
+      "start_sec": 146.34,
+      "end_sec": 150.18
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "面白いのは、やった作業をぜんぶその場に書き残していく設計なところ。",
+      "news_index": 2,
+      "start_sec": 150.33,
+      "end_sec": 154.67
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "書き残す? 日報みたいなやつだね。",
+      "news_index": 2,
+      "start_sec": 154.82,
+      "end_sec": 157.5
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "近いわ。おかげで途中で止まっても、それまでの作業記録を引き継いで再開できるの。",
+      "news_index": 2,
+      "start_sec": 157.65,
+      "end_sec": 162.5
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あー! 電源が落ちても続きから始まる、ゲームのセーブデータじゃん!",
+      "news_index": 2,
+      "start_sec": 162.65,
+      "end_sec": 167.21
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "いい例えね。実際、難しい調整をほぼ丸一日ぶっ通しで回した事例も紹介されてるわ。",
+      "news_index": 2,
+      "start_sec": 167.36,
+      "end_sec": 173.83
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "丸一日……ボクなら三十分で飽きるのだ。",
+      "news_index": 2,
+      "start_sec": 173.98,
+      "end_sec": 178.38
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに、書く仕事から見張る仕事へ寄ってきてるってこと。私たちが使うアプリが増える速さも、たぶん変わるわ。",
+      "news_index": 2,
+      "start_sec": 178.53,
+      "end_sec": 185.35
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目。グーグルのAI部門で、トップ二人が同じ日に役割を降りたのよ。",
+      "news_index": 3,
+      "start_sec": 185.43,
+      "end_sec": 190.47
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "同じ日に二人!? それ、会社が揺れるやつじゃん!",
+      "news_index": 3,
+      "start_sec": 190.62,
+      "end_sec": 194.1
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "揺れたわ。発表のあと、親会社アルファベットの株価が四パーセントほど下がったの。",
+      "news_index": 3,
+      "start_sec": 194.25,
+      "end_sec": 199.06
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "人事のお知らせ一枚で、株って下がるものなのだ?",
+      "news_index": 3,
+      "start_sec": 199.21,
+      "end_sec": 202.82
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "中身が中身だからね。一人はデミス・ハサビス、囲碁のAIで有名になったディープマインドの創業者。",
+      "news_index": 3,
+      "start_sec": 202.97,
+      "end_sec": 209.31
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あー! プロ棋士に勝ったAIのとこじゃん!",
+      "news_index": 3,
+      "start_sec": 209.46,
+      "end_sec": 212.24
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。ただ彼は辞めるんじゃなくて、親会社ぜんぶの科学のトップに移るの。",
+      "news_index": 3,
+      "start_sec": 212.39,
+      "end_sec": 217.03
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあ、もう一人は誰なのだ?",
+      "news_index": 3,
+      "start_sec": 217.18,
+      "end_sec": 219.38
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ジェフ・ディーン。二十七年グーグルにいた人で、こっちは会社を出るほうね。",
+      "news_index": 3,
+      "start_sec": 219.53,
+      "end_sec": 224.47
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "二十七年!? ボクが生まれる前から座ってた席じゃん!",
+      "news_index": 3,
+      "start_sec": 224.62,
+      "end_sec": 228.43
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "その席を立って、ディスカバリー・ループっていう新会社を始めるの。AIに研究そのものをやらせる会社よ。",
+      "news_index": 3,
+      "start_sec": 228.58,
+      "end_sec": 235.15
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "研究をAIが!? 人間の研究員、立場がないのだ!",
+      "news_index": 3,
+      "start_sec": 235.3,
+      "end_sec": 240.75
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "複雑で何段階もある科学や工学の作業を自動化して、発見を早めるのが狙いね。",
+      "news_index": 3,
+      "start_sec": 240.9,
+      "end_sec": 246.42
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、ボクたちの生活には何が変わるのだ?",
+      "news_index": 3,
+      "start_sec": 246.57,
+      "end_sec": 249.72
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "科学や工学の研究を早めようって話。ただ、具体的な成果がいつ暮らしに届くかは、まだ分からないわ。",
+      "news_index": 3,
+      "start_sec": 249.87,
+      "end_sec": 256.41
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四本目。オープンエーアイが、チャットジーピーティーの声の仕組みを作り直した舞台裏を公開したの。",
+      "news_index": 4,
+      "start_sec": 256.49,
+      "end_sec": 262.48
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "声? 話しかけたら、声で返してくれるあの機能だっけ?",
+      "news_index": 4,
+      "start_sec": 262.63,
+      "end_sec": 266.79
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう。名前はジーピーティー・ライブ。このリアルタイムの仕組みを、半年かけて作り直したって話ね。",
+      "news_index": 4,
+      "start_sec": 266.94,
+      "end_sec": 272.92
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "半年。それ、速いのか普通なのか、ボクには分からないのだ。",
+      "news_index": 4,
+      "start_sec": 273.07,
+      "end_sec": 277.37
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "この規模なら相当速いほう。肝は、聞くのとしゃべるのを同時にやる作りにしたところよ。",
+      "news_index": 4,
+      "start_sec": 277.52,
+      "end_sec": 282.81
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "同時? 今までは違ったってこと?",
+      "news_index": 4,
+      "start_sec": 282.96,
+      "end_sec": 285.7
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "今までより大きく違うのは、AIがしゃべってる最中も、こっちの声を聞き続けられるところね。",
+      "news_index": 4,
+      "start_sec": 285.85,
+      "end_sec": 291.93
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あー! 「どうぞ」って言われるまで話しちゃダメなやつじゃん!",
+      "news_index": 4,
+      "start_sec": 292.08,
+      "end_sec": 295.53
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "その「どうぞ」が消えたのよ。しゃべってる途中で割り込んでも、ちゃんと拾って話題を変えてくれるわ。",
+      "news_index": 4,
+      "start_sec": 295.68,
+      "end_sec": 301.97
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、じゃあ人間の会話とほとんど同じじゃん!",
+      "news_index": 4,
+      "start_sec": 302.12,
+      "end_sec": 305.42
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "近いわね。込み入った質問が来たら、会話を止めずに裏で別のAIに相談する仕組みも入ってるの。",
+      "news_index": 4,
+      "start_sec": 305.57,
+      "end_sec": 311.7
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "相槌を打ちながら、こっそりカンニングしてるってことだね。",
+      "news_index": 4,
+      "start_sec": 311.85,
+      "end_sec": 315.67
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "人間もやってるでしょ、それ。",
+      "news_index": 4,
+      "start_sec": 315.82,
+      "end_sec": 317.62
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "うっ、反論できないのだ……。",
+      "news_index": 4,
+      "start_sec": 317.77,
+      "end_sec": 320.7
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに、AIとの会話の待ち時間がぐっと短くなる。手を動かしながら使いやすくなるってことね。",
+      "news_index": 4,
+      "start_sec": 320.85,
+      "end_sec": 327.07
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあラスト五本目。今朝いちばん手に取りやすい話でしめるわ。",
+      "news_index": 5,
+      "start_sec": 327.15,
+      "end_sec": 330.89
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "待ってたのだ、ボクにも買えるやつ!",
+      "news_index": 5,
+      "start_sec": 331.04,
+      "end_sec": 333.31
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "シャープが八月五日に、アクオス・ウィッシュ・シックスっていうスマホを発表したのよ。",
+      "news_index": 5,
+      "start_sec": 333.46,
+      "end_sec": 338.51
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "うぃっしゅ? 願いごとの、あのウィッシュなのだ?",
+      "news_index": 5,
+      "start_sec": 338.66,
+      "end_sec": 341.77
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そのウィッシュね。値段を抑えた、いちばん基本のモデル。日本と台湾で九月中旬以降の発売よ。",
+      "news_index": 5,
+      "start_sec": 341.92,
+      "end_sec": 348.24
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "基本モデルって、我慢するとこが多いイメージだね。",
+      "news_index": 5,
+      "start_sec": 348.39,
+      "end_sec": 351.79
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "それが今回、変な方向に頑張っててね。画面の明るさが、前の機種の約二倍になってるの。",
+      "news_index": 5,
+      "start_sec": 351.94,
+      "end_sec": 357.58
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "二倍!? 夜に見たら目がやられるやつじゃん!",
+      "news_index": 5,
+      "start_sec": 357.73,
+      "end_sec": 360.63
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "逆よ。夏の炎天下で画面が見えない、あのイライラをつぶすための明るさ。",
+      "news_index": 5,
+      "start_sec": 360.78,
+      "end_sec": 365.44
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あー! 外で地図を見ようとして、真っ黒な鏡になるやつなのだ!",
+      "news_index": 5,
+      "start_sec": 365.59,
+      "end_sec": 369.78
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "それ。あともう一個、曲がりにくさが前の機種より約二割上がってるわ。",
+      "news_index": 5,
+      "start_sec": 369.93,
+      "end_sec": 374.64
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "明るくて丈夫。派手さゼロで、実用だけ盛ってきたのだね。",
+      "news_index": 5,
+      "start_sec": 374.79,
+      "end_sec": 379.06
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "値段はまだ出てないけどね。要するに、外で使う時間が長い人ほど効く一台ってこと。",
+      "news_index": 5,
+      "start_sec": 379.21,
+      "end_sec": 384.56
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで今朝は五本。声の相手が代わる話から、丈夫なスマホまで流したわ。",
+      "news_index": 0,
+      "start_sec": 384.64,
+      "end_sec": 389.71
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "全部つなげると、けっこう「お別れ」と「引き継ぎ」の朝だったのだ。",
+      "news_index": 0,
+      "start_sec": 389.86,
+      "end_sec": 394.7
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "拾ったわね。アシスタントも、二十七年いた人も、順番待ちの会話も、まとめて役目を降りたわけ。",
+      "news_index": 0,
+      "start_sec": 394.85,
+      "end_sec": 400.89
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "新しいのが来るのは楽しみだけど、ちょっとだけ寂しいのだ。",
+      "news_index": 0,
+      "start_sec": 401.04,
+      "end_sec": 405.29
+    },
+    {
+      "index": 84,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "その寂しさ、九月に一回ちゃんと来るわよ。設定だけは見直しておきなさい。",
+      "news_index": 0,
+      "start_sec": 405.44,
+      "end_sec": 410.57
+    },
+    {
+      "index": 85,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "気になったやつがあったら、あとで調べてみてほしいのだ!",
+      "news_index": 0,
+      "start_sec": 410.72,
+      "end_sec": 414.11
+    },
+    {
+      "index": 86,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kamera",
+      "text": "それじゃ今日も一日、無理しない程度に。旅の道ラジオ朝便、四国めたんでした。",
+      "news_index": 0,
+      "start_sec": 414.26,
+      "end_sec": 419.82
+    },
+    {
+      "index": 87,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ずんだもんなのだー! また明日のテック朝便で会うのだー!",
+      "news_index": 0,
+      "start_sec": 419.97,
+      "end_sec": 423.55
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 424.25,
+      "end_sec": 431.96
+    }
+  ],
+  "wall_time_sec": 14.72,
+  "audio_url": "/audio/ai/20260806_051542.mp3?v=1785961562"
+}

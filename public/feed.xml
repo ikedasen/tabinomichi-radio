@@ -7,8 +7,8 @@
     <description>ずんだもん × めたん × つむぎが届ける、ゲーム &amp; テックニュース雑談ラジオ。朝便と夜便で毎日更新、レトロから新作まで、最新 AI 動向から業界マクロまで雑談形式でサクッと。</description>
     <language>ja</language>
     <copyright>© 2026 tabinomichi</copyright>
-    <lastBuildDate>Wed, 05 Aug 2026 05:30:54 +0900</lastBuildDate>
-    <pubDate>Wed, 05 Aug 2026 05:15:17 +0900</pubDate>
+    <lastBuildDate>Thu, 06 Aug 2026 05:26:04 +0900</lastBuildDate>
+    <pubDate>Thu, 06 Aug 2026 05:15:42 +0900</pubDate>
     <generator>build_rss_feed.py (tabinomichi radio)</generator>
     <image>
       <url>https://news.tabinomichi.jp/podcast-cover.png?v=1779005902</url>
@@ -29,6 +29,21 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>引き継ぎの朝 〜席を立つ人と、消える住人〜</title>
+      <link>https://news.tabinomichi.jp/radio/20260806_051542</link>
+      <guid isPermaLink="false">tabinomichi-radio-20260806_051542</guid>
+      <pubDate>Thu, 06 Aug 2026 05:15:42 +0900</pubDate>
+      <description>今朝のテック朝便は五本立て。まずグーグルアシスタントが九月四日から順番に停止して、後継のジェミニに一本化される話。一度切り替わったら元には戻せない仕様で、家の音声操作を任せてるかたは要注意。二本目はメタが出したプログラムを書くAI「ミューズ・コード」、途中で落ちても止まった場所から再開できる設計がポイント。三本目はグーグルのAI部門で創業者と長年の重鎮が同じ日に役割を降りた話、二十七年在籍した人は新会社を立ち上げるらしい。四本目はチャットジーピーティーの音声機能が聞きながら話せる作りになって、会話の順番待ちが消えた話。最後はシャープの新しいスマホ、明るさ約二倍と丈夫さで実用だけ盛ってきた一台を紹介したよ。</description>
+      <content:encoded><![CDATA[今朝のテック朝便は五本立て。まずグーグルアシスタントが九月四日から順番に停止して、後継のジェミニに一本化される話。一度切り替わったら元には戻せない仕様で、家の音声操作を任せてるかたは要注意。二本目はメタが出したプログラムを書くAI「ミューズ・コード」、途中で落ちても止まった場所から再開できる設計がポイント。三本目はグーグルのAI部門で創業者と長年の重鎮が同じ日に役割を降りた話、二十七年在籍した人は新会社を立ち上げるらしい。四本目はチャットジーピーティーの音声機能が聞きながら話せる作りになって、会話の順番待ちが消えた話。最後はシャープの新しいスマホ、明るさ約二倍と丈夫さで実用だけ盛ってきた一台を紹介したよ。]]></content:encoded>
+      <enclosure url="https://news.tabinomichi.jp/audio/ai/20260806_051542.mp3?v=1785961562" length="6912252" type="audio/mpeg"/>
+      <itunes:title>引き継ぎの朝 〜席を立つ人と、消える住人〜</itunes:title>
+      <itunes:summary>今朝のテック朝便は五本立て。まずグーグルアシスタントが九月四日から順番に停止して、後継のジェミニに一本化される話。一度切り替わったら元には戻せない仕様で、家の音声操作を任せてるかたは要注意。二本目はメタが出したプログラムを書くAI「ミューズ・コード」、途中で落ちても止まった場所から再開できる設計がポイント。三本目はグーグルのAI部門で創業者と長年の重鎮が同じ日に役割を降りた話、二十七年在籍した人は新会社を立ち上げるらしい。四本目はチャットジーピーティーの音声機能が聞きながら話せる作りになって、会話の順番待ちが消えた話。最後はシャープの新しいスマホ、明るさ約二倍と丈夫さで実用だけ盛ってきた一台を紹介したよ。</itunes:summary>
+      <itunes:image href="https://news.tabinomichi.jp/images/og/20260806_051542.jpg"/>
+      <itunes:duration>7:11</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>金利2パーセントの戦争 〜見えない保証人と、居座る同居人〜</title>
       <link>https://news.tabinomichi.jp/radio/20260805_051517</link>
@@ -1511,21 +1526,6 @@
       <itunes:summary>今朝のテック朝便は5本立て。スペースエックスがグーグルに毎月9億2,000万ドルでAI計算能力を提供する巨大契約、ニューヨーク州が、成立すれば全米初となる大型データセンターの1年モラトリアム法案、家庭用パソコン1台でサーバーを落とせる弱点をオープンエーアイのコーデックスが見つけた話、ウーバーが1年ぶんのAI予算をたった4ヶ月で溶かしたコスト爆発と業界の対策、そして締めはスターウォーズの新作戦略ゲームが8月27日に発売決定、まで。AIの土台が取り合いと反発の段階に入った今を、ずんだもんと四国めたんが噛み砕いて雑談する回。</itunes:summary>
       <itunes:image href="https://news.tabinomichi.jp/images/og/20260606_181746.jpg"/>
       <itunes:duration>8:17</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>歴史の裏側へ 〜ファイナルファンタジータクティクスが灯した獅子戦争〜</title>
-      <link>https://news.tabinomichi.jp/radio/20260606_180854</link>
-      <guid isPermaLink="false">tabinomichi-radio-20260606_180854</guid>
-      <pubDate>Sun, 07 Jun 2026 05:08:05 +0900</pubDate>
-      <description>今回はプレイステーション屈指の名作シミュレーションRPG『ファイナルファンタジータクティクス』をじっくり深掘りする回。1997年6月、松野泰己ディレクションのもとクエスト出身チームがスクウェアに合流して作り上げた獅子戦争の物語、ジョブシステムの圧倒的な自由度、崎元仁・岩田匡治コンビによる2枚組71曲のオーケストラ風BGM、吉田明彦の中世画集レベルのキャラデザインまで、プレステ初期作品とは思えない密度を、つむぎがガチ勢目線で語っていく。歴史改竄や身分闘争という重いテーマ、ラムザ・ベオルブと幼馴染ディリータの対比、初見殺しの鬼門ボス、英語版の名翻訳エピソード、PSP獅子戦争から2025年9月発売のイヴァリース クロニクルズ リマスターまで、28年経っても色褪せない名作の魅力を、核心ネタバレを避けつつ掘り下げる回。</description>
-      <content:encoded><![CDATA[今回はプレイステーション屈指の名作シミュレーションRPG『ファイナルファンタジータクティクス』をじっくり深掘りする回。1997年6月、松野泰己ディレクションのもとクエスト出身チームがスクウェアに合流して作り上げた獅子戦争の物語、ジョブシステムの圧倒的な自由度、崎元仁・岩田匡治コンビによる2枚組71曲のオーケストラ風BGM、吉田明彦の中世画集レベルのキャラデザインまで、プレステ初期作品とは思えない密度を、つむぎがガチ勢目線で語っていく。歴史改竄や身分闘争という重いテーマ、ラムザ・ベオルブと幼馴染ディリータの対比、初見殺しの鬼門ボス、英語版の名翻訳エピソード、PSP獅子戦争から2025年9月発売のイヴァリース クロニクルズ リマスターまで、28年経っても色褪せない名作の魅力を、核心ネタバレを避けつつ掘り下げる回。]]></content:encoded>
-      <enclosure url="https://news.tabinomichi.jp/audio/indie/20260606_180854.mp3?v=1780776496" length="7117470" type="audio/mpeg"/>
-      <itunes:title>歴史の裏側へ 〜ファイナルファンタジータクティクスが灯した獅子戦争〜</itunes:title>
-      <itunes:summary>今回はプレイステーション屈指の名作シミュレーションRPG『ファイナルファンタジータクティクス』をじっくり深掘りする回。1997年6月、松野泰己ディレクションのもとクエスト出身チームがスクウェアに合流して作り上げた獅子戦争の物語、ジョブシステムの圧倒的な自由度、崎元仁・岩田匡治コンビによる2枚組71曲のオーケストラ風BGM、吉田明彦の中世画集レベルのキャラデザインまで、プレステ初期作品とは思えない密度を、つむぎがガチ勢目線で語っていく。歴史改竄や身分闘争という重いテーマ、ラムザ・ベオルブと幼馴染ディリータの対比、初見殺しの鬼門ボス、英語版の名翻訳エピソード、PSP獅子戦争から2025年9月発売のイヴァリース クロニクルズ リマスターまで、28年経っても色褪せない名作の魅力を、核心ネタバレを避けつつ掘り下げる回。</itunes:summary>
-      <itunes:image href="https://news.tabinomichi.jp/images/og/20260606_180854.jpg"/>
-      <itunes:duration>7:24</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
