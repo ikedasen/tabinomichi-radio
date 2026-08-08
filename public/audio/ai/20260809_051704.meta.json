@@ -1,0 +1,986 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-08-09T05:17:04+09:00",
+  "title": "一日ぶんの猶予 〜任せる線が引き直される朝〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 499.47,
+  "script_hash": "sha256:942c01aad55f0c749e75d5304af983d3acb328c93bea62b43f5667a736607d70",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 6.47
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便。テックニュースの回、四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 6.47,
+      "end_sec": 11.68
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今日も朝から、テックの話をサクッといくのだー!",
+      "news_index": 0,
+      "start_sec": 11.83,
+      "end_sec": 16.72
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今朝は五本。AIに「どこまで任せるか」の線を、あちこちで引き直してる回ね。",
+      "news_index": 0,
+      "start_sec": 16.87,
+      "end_sec": 22.11
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "線? 校庭に白い粉でひくやつだっけ?",
+      "news_index": 0,
+      "start_sec": 22.26,
+      "end_sec": 25.51
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "運動会じゃないの。ここから先はAIが勝手にやっていい、っていう境目の話。",
+      "news_index": 0,
+      "start_sec": 25.66,
+      "end_sec": 30.98
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、それ気になるやつじゃん! ボクの分の仕事、残ってるのだ?",
+      "news_index": 0,
+      "start_sec": 31.13,
+      "end_sec": 35.53
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "残ってるわ。その答え合わせも込みで、軽くいきましょ。",
+      "news_index": 0,
+      "start_sec": 35.68,
+      "end_sec": 39.36
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ一本目。オープンエーアイが、企業ごとに決めた問い合わせ対応や社内業務へ、AIを導入する仕組みを出したのよ。",
+      "news_index": 1,
+      "start_sec": 39.44,
+      "end_sec": 46.99
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "問い合わせ窓口? 電話するとずっと保留の音楽が流れてるとこだっけ?",
+      "news_index": 1,
+      "start_sec": 47.14,
+      "end_sec": 52.73
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこ。名前は「プレゼンス」で、七月二十二日から一部の企業向けに動き始めてるわ。",
+      "news_index": 1,
+      "start_sec": 52.88,
+      "end_sec": 58.83
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、電話に出るAIなんて、もうあちこちにいるじゃん! 今さらなの!?",
+      "news_index": 1,
+      "start_sec": 58.98,
+      "end_sec": 64.14
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "従来にも柔軟に会話できるAIはあったけど、今回のは会社のルールごと覚えて、判断まで任せる作りなの。",
+      "news_index": 1,
+      "start_sec": 64.29,
+      "end_sec": 71.38
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "ルールごと? ボクの頭がもう追いつかないのだ。",
+      "news_index": 1,
+      "start_sec": 71.53,
+      "end_sec": 75.53
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "返金していい範囲、人間に代わるべき場面、やっちゃいけない行動。社内の決まりごとを丸ごと持たせるのよ。",
+      "news_index": 1,
+      "start_sec": 75.68,
+      "end_sec": 82.51
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "新人研修をすっ飛ばして、いきなりベテランで座ってるやつじゃん。",
+      "news_index": 1,
+      "start_sec": 82.66,
+      "end_sec": 87.09
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "言い得て妙ね。しかもオープンエーアイ自身が英語の電話サポートをこれで回してて、七十五パーセントは人が出ずに片づいてるって。",
+      "news_index": 1,
+      "start_sec": 87.24,
+      "end_sec": 94.74
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "四回に三回!? じゃあ人間の出番、残り一回しかないのだ!",
+      "news_index": 1,
+      "start_sec": 94.89,
+      "end_sec": 99.5
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこが今朝のテーマ。残った一回が「いちばん厄介な一回」になる、って話でもあるの。",
+      "news_index": 1,
+      "start_sec": 99.65,
+      "end_sec": 105.25
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "うっ。楽になったのか、しんどくなったのか分かんないのだ……。",
+      "news_index": 1,
+      "start_sec": 105.4,
+      "end_sec": 111.13
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ソフトバンクも自然な日本語での顧客対応を試してるけど、正式な導入時期はまだ出てないわ。",
+      "news_index": 1,
+      "start_sec": 111.28,
+      "end_sec": 117.34
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "つまり、ボクがどんなに長く粘っても、向こうは疲れないってこと?",
+      "news_index": 1,
+      "start_sec": 117.49,
+      "end_sec": 123.34
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう、こっちだけ疲れるの。次いくわよ。",
+      "news_index": 1,
+      "start_sec": 123.49,
+      "end_sec": 126.15
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目。アンソロピックが、プログラムを書くAIに「オートモード」を用意してるわ。",
+      "news_index": 2,
+      "start_sec": 126.23,
+      "end_sec": 131.33
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "切り替える? どこがどう変わるのだ?",
+      "news_index": 2,
+      "start_sec": 131.48,
+      "end_sec": 134.09
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今までは、AIが何かするたびに人間が「やっていい」ってボタンを押してたの。オートモードを選ぶと、別のAIが操作ごとに実行していいか判定するの。",
+      "news_index": 2,
+      "start_sec": 134.24,
+      "end_sec": 143.99
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "確認なしで勝手に動くってこと!? それ、いちばん怖いやつじゃん!",
+      "news_index": 2,
+      "start_sec": 144.14,
+      "end_sec": 148.69
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "私も同じ顔をしたわ。ところが、出てきた数字が真逆だったのよ。",
+      "news_index": 2,
+      "start_sec": 148.84,
+      "end_sec": 152.81
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "真逆? どういうことなの?",
+      "news_index": 2,
+      "start_sec": 152.96,
+      "end_sec": 155.09
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "社内で確認された危ない操作では、AIの検査役にも十七パーセントの見逃しがあったの。",
+      "news_index": 2,
+      "start_sec": 155.24,
+      "end_sec": 161.19
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "じゅうさんパーセント!? 人間、ほとんど素通りさせてるじゃん!",
+      "news_index": 2,
+      "start_sec": 161.34,
+      "end_sec": 165.46
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "押すボタンが多すぎると、人は中身を読まなくなるのよ。長い利用規約に全部「同意する」を押すのと同じ。",
+      "news_index": 2,
+      "start_sec": 165.61,
+      "end_sec": 172.64
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "うっ、耳が痛いのだ……ボクも読まずに押すタイプなのだ。",
+      "news_index": 2,
+      "start_sec": 172.79,
+      "end_sec": 178.31
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "取り返しのつかない操作は今まで通り止まるし、止められ続けたら手動の確認に戻る作りね。",
+      "news_index": 2,
+      "start_sec": 178.46,
+      "end_sec": 184.2
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、暴走しかけたら勝手にブレーキが踏まれるのだね。",
+      "news_index": 2,
+      "start_sec": 184.35,
+      "end_sec": 187.97
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ただ、確認待ちが減るぶん、長い作業を途中で止めずに進めやすくなるそう。",
+      "news_index": 2,
+      "start_sec": 188.12,
+      "end_sec": 193.01
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、プログラムを書かないボクたちには、なんの関係があるのだ?",
+      "news_index": 2,
+      "start_sec": 193.16,
+      "end_sec": 197.4
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "sexy",
+      "text": "毎回の確認にも承認疲れがあるから、任せ方を選ぶ余地が増えたってこと。ハンコを押す係より、任せる範囲を決める係が偉くなるわ。",
+      "news_index": 2,
+      "start_sec": 197.55,
+      "end_sec": 208.47
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "押す人から、押さなくていい線を引く人になるってことなのだね。",
+      "news_index": 2,
+      "start_sec": 208.62,
+      "end_sec": 212.51
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "今の一行が正解よ。三本目いくわね。",
+      "news_index": 2,
+      "start_sec": 212.66,
+      "end_sec": 215.73
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "三本目は、ちょっと笑える失敗談。同じくアンソロピックの話。",
+      "news_index": 3,
+      "start_sec": 215.81,
+      "end_sec": 219.86
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "待ってたのだ、朝から笑えるやつ!",
+      "news_index": 3,
+      "start_sec": 220.01,
+      "end_sec": 222.37
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "いちばん上等なAIがね、生物の質問に真面目になりすぎて、答えるのをやめちゃってたの。",
+      "news_index": 3,
+      "start_sec": 222.52,
+      "end_sec": 228.33
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "真面目すぎて黙る? どのくらいのレベルの質問なの?",
+      "news_index": 3,
+      "start_sec": 228.48,
+      "end_sec": 232.15
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ミトコンドリアとか、ワクチンの仕組みとか。高校の教科書に載ってる話でも、下のモデルに勝手にバトンを渡してたのよ。",
+      "news_index": 3,
+      "start_sec": 232.3,
+      "end_sec": 239.59
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "教科書の範囲で怯えてるじゃん! テスト前にいちばん頼りにならないやつ!",
+      "news_index": 3,
+      "start_sec": 239.74,
+      "end_sec": 244.61
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "危ない知識をせき止める検査役が、働き者すぎたのね。研究者からも苦情が出てたわ。",
+      "news_index": 3,
+      "start_sec": 244.76,
+      "end_sec": 250.27
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、直ったのだ?",
+      "news_index": 3,
+      "start_sec": 250.42,
+      "end_sec": 251.98
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "八月七日に、その検査役のルールそのものを書き直したって発表があったの。誤って止めてた件数が、およそ八十五パーセント減ったって。",
+      "news_index": 3,
+      "start_sec": 252.13,
+      "end_sec": 260.77
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "八割以上カット! ビクビクしてたのを、やっと落ち着かせたのだね。",
+      "news_index": 3,
+      "start_sec": 260.92,
+      "end_sec": 265.23
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "全部ゆるめたわけじゃないわよ。ウイルス学とか毒性学みたいな、薬にも武器にもなる分野は据え置き。",
+      "news_index": 3,
+      "start_sec": 265.38,
+      "end_sec": 271.89
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "線は残したまま、位置だけずらしたってこと?",
+      "news_index": 3,
+      "start_sec": 272.04,
+      "end_sec": 275.08
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そう。今朝いちばんきれいな要約だわ。",
+      "news_index": 3,
+      "start_sec": 275.23,
+      "end_sec": 277.86
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "えへへ、たまには言えるのだ。",
+      "news_index": 3,
+      "start_sec": 278.01,
+      "end_sec": 280.31
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、私たちに効くのはここ。生物の普通の質問まで、別のモデルに回される場面が減る。",
+      "news_index": 3,
+      "start_sec": 280.46,
+      "end_sec": 286.64
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "あの、急に真顔になるやつ。減るなら嬉しいのだ。",
+      "news_index": 3,
+      "start_sec": 286.79,
+      "end_sec": 290.25
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四本目。今朝いちばん、命に近い話よ。",
+      "news_index": 4,
+      "start_sec": 290.4,
+      "end_sec": 293.57
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "急に空気が変わったのだ。なんの話?",
+      "news_index": 4,
+      "start_sec": 293.72,
+      "end_sec": 296.74
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "グーグル・ディープマインドとグーグル・リサーチが、台風やハリケーンを予測するAIを公開してるの。",
+      "news_index": 4,
+      "start_sec": 296.89,
+      "end_sec": 303.1
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "天気予報のAI? もうスマホの中にいる気がするのだ。",
+      "news_index": 4,
+      "start_sec": 303.25,
+      "end_sec": 307.25
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "精度の桁が違うわ。五日先の進路を、従来の有力モデルの三日半先と同じくらい正確に出せたの。",
+      "news_index": 4,
+      "start_sec": 307.4,
+      "end_sec": 314.24
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "三日先が、二日先と同じ……? ごめん、頭がこんがらがってきたのだ。",
+      "news_index": 4,
+      "start_sec": 314.39,
+      "end_sec": 320.97
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "うまく実際の警報に生かせれば、避難の判断を早められる可能性があるってこと。",
+      "news_index": 4,
+      "start_sec": 321.12,
+      "end_sec": 326.28
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "丸一日!? それ、逃げ切れる人の数が全然変わるやつじゃん!",
+      "news_index": 4,
+      "start_sec": 326.43,
+      "end_sec": 331.0
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "アメリカの国立ハリケーンセンターやイギリスの気象庁などが、予測の検証や改善に協力してるわ。去年のハリケーン・メリッサでは、ジャマイカへの上陸を五日前に当てたの。",
+      "news_index": 4,
+      "start_sec": 331.15,
+      "end_sec": 341.99
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "五日前! ボクの週末の予定より、ずっと先まで見えてるのだ!",
+      "news_index": 4,
+      "start_sec": 342.14,
+      "end_sec": 346.74
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "あなたの週末に予定が入ってた試しがないでしょ。",
+      "news_index": 4,
+      "start_sec": 346.89,
+      "end_sec": 349.83
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "そこ掘り返すとこじゃないのだ!",
+      "news_index": 4,
+      "start_sec": 349.98,
+      "end_sec": 351.84
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "面白いのが、世界全体の気象データと、過去およそ五千個の熱帯低気圧データを一緒に学ばせてるところ。専門家も驚いてる部分ね。",
+      "news_index": 4,
+      "start_sec": 351.99,
+      "end_sec": 360.72
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ざっくり見てるのに当たるの? それ、なんか落ち着かないじゃん。",
+      "news_index": 4,
+      "start_sec": 360.87,
+      "end_sec": 364.78
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "落ち着かないわよ。ただ、予測データはウェザー・ラボで公開されて、専門家が比較や検証に使える。",
+      "news_index": 4,
+      "start_sec": 364.93,
+      "end_sec": 371.5
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、みんなで検算すれば、そのうち理由もはっきりするかもしれないのだね。",
+      "news_index": 4,
+      "start_sec": 371.65,
+      "end_sec": 376.52
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そういうこと。日本の台風シーズンにも、遠からず効いてくる話よ。",
+      "news_index": 4,
+      "start_sec": 376.67,
+      "end_sec": 381.25
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "一日早く逃げられる。それだけで、助かる人がいるのだ……。",
+      "news_index": 4,
+      "start_sec": 381.4,
+      "end_sec": 386.72
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "じゃあラスト五本目。お財布の話でしめるわ。",
+      "news_index": 5,
+      "start_sec": 386.87,
+      "end_sec": 389.56
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "待ってたのだ、ボクにも関係あるやつ!",
+      "news_index": 5,
+      "start_sec": 389.71,
+      "end_sec": 392.26
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "折りたたみのスマホ、ギャラクシーの新型が八月七日に日本で発売されたのよ。",
+      "news_index": 5,
+      "start_sec": 392.41,
+      "end_sec": 397.39
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "折りたたみ? パカパカ開くやつだっけ?",
+      "news_index": 5,
+      "start_sec": 397.54,
+      "end_sec": 400.41
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "縦にパタンと折る小さいのと、本みたいに開く大きいの。今回は小さいフリップと、大きさの違う二種類のフォールド、合わせて三機種が出たわ。",
+      "news_index": 5,
+      "start_sec": 400.56,
+      "end_sec": 409.31
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、お値段は? 小声で言ってほしいのだ。",
+      "news_index": 5,
+      "start_sec": 409.46,
+      "end_sec": 412.45
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "sexy",
+      "text": "いちばん安いフリップが約十九万円で、フォールドは約二十七万円から。",
+      "news_index": 5,
+      "start_sec": 412.6,
+      "end_sec": 418.62
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "にじゅうにまん!? ボクのお小遣いを何年ためても届かないやつじゃん!",
+      "news_index": 5,
+      "start_sec": 418.77,
+      "end_sec": 423.16
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ところがね、通信会社の返却プログラムを使うと、機種や契約条件しだいで実質負担を七万円台からに抑えられる例もあるの。",
+      "news_index": 5,
+      "start_sec": 423.31,
+      "end_sec": 431.3
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "二十二万が五万!? 桁がひとつ吹き飛んでるじゃん!",
+      "news_index": 5,
+      "start_sec": 431.45,
+      "end_sec": 434.93
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "もちろん、決められた期間で本体を返す前提の割引ね。ずっと持ち続けたい人には向かないわ。",
+      "news_index": 5,
+      "start_sec": 435.08,
+      "end_sec": 441.38
+    },
+    {
+      "index": 84,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "借りてるのか買ってるのか、だんだん怪しくなってきたのだ。",
+      "news_index": 5,
+      "start_sec": 441.53,
+      "end_sec": 445.36
+    },
+    {
+      "index": 85,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに「安く試したい人」向け。折りたたみは、実物を触ってから決めなさい。",
+      "news_index": 5,
+      "start_sec": 445.51,
+      "end_sec": 450.86
+    },
+    {
+      "index": 86,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "帰りに店頭でパカパカしてくるのだ。",
+      "news_index": 5,
+      "start_sec": 451.01,
+      "end_sec": 453.53
+    },
+    {
+      "index": 87,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今朝は五本。電話の窓口、プログラムの承認、生物の質問、台風の進路、それと折りたたみのスマホ。",
+      "news_index": 0,
+      "start_sec": 453.68,
+      "end_sec": 461.02
+    },
+    {
+      "index": 88,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "並べるとバラバラなのに、なんだか全部おんなじ話に聞こえるのだ。",
+      "news_index": 0,
+      "start_sec": 461.17,
+      "end_sec": 465.61
+    },
+    {
+      "index": 89,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "気付いた? 全部「どこまで任せるか」の線引きよ。",
+      "news_index": 0,
+      "start_sec": 465.76,
+      "end_sec": 469.16
+    },
+    {
+      "index": 90,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、冒頭でめたんが言ってた、校庭の白い線!",
+      "news_index": 0,
+      "start_sec": 469.31,
+      "end_sec": 472.77
+    },
+    {
+      "index": 91,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "運動会じゃないって言ったでしょ。",
+      "news_index": 0,
+      "start_sec": 472.92,
+      "end_sec": 474.81
+    },
+    {
+      "index": 92,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "覚えてたのに怒られたのだ。理不尽じゃん。",
+      "news_index": 0,
+      "start_sec": 474.96,
+      "end_sec": 477.91
+    },
+    {
+      "index": 93,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "気になったやつがあったら、移動のあいだにでも調べてみて。",
+      "news_index": 0,
+      "start_sec": 478.06,
+      "end_sec": 481.66
+    },
+    {
+      "index": 94,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "それじゃ今日も一日、いってらっしゃいなのだー! また明日のテック朝便で会おうねー!",
+      "news_index": 0,
+      "start_sec": 481.81,
+      "end_sec": 487.02
+    },
+    {
+      "index": 95,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "旅の道ラジオ朝便、四国めたんでした。いってらっしゃい。",
+      "news_index": 0,
+      "start_sec": 487.17,
+      "end_sec": 491.07
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 491.77,
+      "end_sec": 499.47
+    }
+  ],
+  "wall_time_sec": 13.43,
+  "audio_url": "/audio/ai/20260809_051704.mp3?v=1786220961"
+}
