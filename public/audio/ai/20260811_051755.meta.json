@@ -1,0 +1,916 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-08-11T05:17:55+09:00",
+  "title": "そろう規格と、離れる値札 〜AIに吸い寄せられる朝〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 460.42,
+  "script_hash": "sha256:f0ea7246967518a47c2b9726fbfe4a8ebf84f67445e8cdcd390ffa9754d8c702",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 5.56
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便。四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 5.56,
+      "end_sec": 9.62
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今日もテックの話を軽くいくのだー!",
+      "news_index": 0,
+      "start_sec": 9.77,
+      "end_sec": 13.92
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今朝は四本ね。守る側の新しい道具、そろった規格、速くなったAI、そして売れないグラボ。",
+      "news_index": 0,
+      "start_sec": 14.07,
+      "end_sec": 20.11
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "最後だけ急に不穏じゃん。グラボ、売れてないのだ?",
+      "news_index": 0,
+      "start_sec": 20.26,
+      "end_sec": 23.93
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこは最後のお楽しみ。先に言っとくと、お財布の話でもあるわ。",
+      "news_index": 0,
+      "start_sec": 24.08,
+      "end_sec": 28.39
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "朝からお財布!? 心の準備がいるやつじゃん!",
+      "news_index": 0,
+      "start_sec": 28.54,
+      "end_sec": 31.78
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "通勤のあいだに終わるから安心なさい。じゃ、一本目。",
+      "news_index": 0,
+      "start_sec": 31.93,
+      "end_sec": 36.0
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "オープンエーアイが、プログラムの穴探しにも強い、新しい汎用AIを公開したのよ。",
+      "news_index": 1,
+      "start_sec": 36.08,
+      "end_sec": 41.75
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "穴? 靴下に空くやつじゃないよね。",
+      "news_index": 1,
+      "start_sec": 41.9,
+      "end_sec": 44.55
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "靴下は自分で繕いなさい。プログラムの書き損じで残った、外から入れちゃう隙間のこと。",
+      "news_index": 1,
+      "start_sec": 44.7,
+      "end_sec": 50.05
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、ボクのスマホにも空いてるやつじゃん!",
+      "news_index": 1,
+      "start_sec": 50.2,
+      "end_sec": 52.81
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "空いてるわよ、だいたいどこにでもね。名前はジーピーティー5.6ソル。",
+      "news_index": 1,
+      "start_sec": 52.96,
+      "end_sec": 57.3
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "穴を見つけるAI!? それ、泥棒に地図を配ってるのと同じじゃん!",
+      "news_index": 1,
+      "start_sec": 57.45,
+      "end_sec": 62.25
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "だから配り方を絞ってるの。誰でもダウンロード、じゃないわ。",
+      "news_index": 1,
+      "start_sec": 62.4,
+      "end_sec": 66.16
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "絞るって、どうやるのだ?",
+      "news_index": 1,
+      "start_sec": 66.31,
+      "end_sec": 68.29
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "最初は、政府にも参加先を共有した少数の信頼できる組織だけ。一般公開はそのあとの予定よ。",
+      "news_index": 1,
+      "start_sec": 68.44,
+      "end_sec": 75.36
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "会員制のお店じゃん。ボクは入り口で止められるやつなのだ。",
+      "news_index": 1,
+      "start_sec": 75.51,
+      "end_sec": 79.74
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "止められていいの。実際、クロミウムやファイアフォックスを使った評価でも、バグや攻撃につながる手掛かりを見つけてるわ。",
+      "news_index": 1,
+      "start_sec": 79.89,
+      "end_sec": 87.39
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "クローム!? ボクが毎日開いてるブラウザじゃん!",
+      "news_index": 1,
+      "start_sec": 87.54,
+      "end_sec": 90.71
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。要するに、攻撃する側がAIを使い出す前に、守る側へ先に渡しとくって作戦。",
+      "news_index": 1,
+      "start_sec": 90.86,
+      "end_sec": 97.08
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "先回りってことなのだ。それ、間に合うの?",
+      "news_index": 1,
+      "start_sec": 97.23,
+      "end_sec": 100.39
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこが賭けよ。私たちに返ってくるとしたら、ソフトの弱点が早く見つかって、修正までの時間が縮む可能性があることね。",
+      "news_index": 1,
+      "start_sec": 100.54,
+      "end_sec": 108.0
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "更新の通知、これからは感謝しながら押すのだ。",
+      "news_index": 1,
+      "start_sec": 108.15,
+      "end_sec": 111.48
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目。八月六日に、AIの拡張機能の形をそろえる共通規格が出たの。",
+      "news_index": 2,
+      "start_sec": 111.63,
+      "end_sec": 117.12
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "かくちょうきのう? ボクには言葉が硬すぎるのだ。",
+      "news_index": 2,
+      "start_sec": 117.27,
+      "end_sec": 120.57
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "AIに「この手順でやって」って渡す手順書と、外の道具につなぐための設定ね。それを一つの入れ物にまとめる決まりごと。",
+      "news_index": 2,
+      "start_sec": 120.72,
+      "end_sec": 128.69
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "難しい言葉が三つ重なって、もう頭がぐるぐるなのだ。",
+      "news_index": 2,
+      "start_sec": 128.84,
+      "end_sec": 134.06
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "顔に出てるわよ。言い換えるわ、コンセントの形をそろえた、それだけ。",
+      "news_index": 2,
+      "start_sec": 134.21,
+      "end_sec": 138.46
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あー! 海外行くと刺さらないやつ! あれが世界共通になるってことじゃん!",
+      "news_index": 2,
+      "start_sec": 138.61,
+      "end_sec": 143.27
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "その理解で満点。名前はエージェント・プラグインズ、アマゾンやカーソル、マイクロソフト、オープンエーアイ、ヴァーセルの担当者が、共同で運営に入ってる規格よ。",
+      "news_index": 2,
+      "start_sec": 143.42,
+      "end_sec": 154.24
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ヴァーセル。名前だけ聞くと、パンの種類みたいなのだ。",
+      "news_index": 2,
+      "start_sec": 154.39,
+      "end_sec": 157.97
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ウェブアプリを作って公開するためのクラウド基盤を手がける会社ね。面白いのは、そこに乗った顔ぶれのほう。",
+      "news_index": 2,
+      "start_sec": 158.12,
+      "end_sec": 164.45
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "誰が乗ったのだ?",
+      "news_index": 2,
+      "start_sec": 164.6,
+      "end_sec": 166.02
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "sexy",
+      "text": "アマゾン、カーソル、マイクロソフト、オープンエーアイ、ヴァーセル。普段は客の取り合いをしてる連中よ。",
+      "news_index": 2,
+      "start_sec": 166.17,
+      "end_sec": 174.21
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ライバル同士が同じ机に座ったってこと!? それ、事件じゃん!",
+      "news_index": 2,
+      "start_sec": 174.36,
+      "end_sec": 178.76
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "規格の話だけはね。対応先には、チャットジーピーティーとコーデックス、カーソル、ブイエスコード、ギットハブ・コパイロットなどが並んでるわ。",
+      "news_index": 2,
+      "start_sec": 178.91,
+      "end_sec": 187.14
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "あれ、その手順書の仕組みって、もともと別の会社が公開したやつじゃなかったっけ。",
+      "news_index": 2,
+      "start_sec": 187.29,
+      "end_sec": 193.07
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "よく覚えてたわね。そのクロードは、今のところ対応の一覧に名前が無いの。",
+      "news_index": 2,
+      "start_sec": 193.22,
+      "end_sec": 197.95
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "言い出しっぺが輪の外。運動会でよく見るやつなのだ。",
+      "news_index": 2,
+      "start_sec": 198.1,
+      "end_sec": 202.8
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、私たちへの影響ね。共通部分なら、対応しているAIへ持っていきやすくなるわ。",
+      "news_index": 2,
+      "start_sec": 202.95,
+      "end_sec": 208.82
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "つまり、AIを乗り換えても道具を引っ越せるってことじゃん!",
+      "news_index": 2,
+      "start_sec": 208.97,
+      "end_sec": 212.77
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目は未来っぽいやつ。グーグルが、文章の作り方そのものを変えたAIを出してるのよ。",
+      "news_index": 3,
+      "start_sec": 212.92,
+      "end_sec": 218.61
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "作り方? 文章って、前から順に書くものでしょ。",
+      "news_index": 3,
+      "start_sec": 218.76,
+      "end_sec": 222.53
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今までのAIはそう。一語ずつ、しりとりみたいに繋いでいくの。",
+      "news_index": 3,
+      "start_sec": 222.68,
+      "end_sec": 226.6
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "しりとり! じゃあ「ん」が出たら終わりじゃん!",
+      "news_index": 3,
+      "start_sec": 226.75,
+      "end_sec": 230.31
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "終わらないわよ。で、今度のはやり方が真逆なの。",
+      "news_index": 3,
+      "start_sec": 230.46,
+      "end_sec": 233.88
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "逆? 後ろから書くってこと?",
+      "news_index": 3,
+      "start_sec": 234.03,
+      "end_sec": 236.45
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ぼやけた下書きを丸ごと先に置いて、全体を何度も磨いて文章にするの。絵を描くAIと同じ手つきね。",
+      "news_index": 3,
+      "start_sec": 236.6,
+      "end_sec": 243.39
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "文章を、絵みたいに描く!? 発想がバグってるじゃん!",
+      "news_index": 3,
+      "start_sec": 243.54,
+      "end_sec": 247.35
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "名前はディフュージョン・ジェマ。手元の対応ジーピーユーでも動かせて、条件が合えば生成速度は最大で四倍。",
+      "news_index": 3,
+      "start_sec": 247.5,
+      "end_sec": 254.65
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "四倍!? 条件が合えば、文章が出てくる速さが大きく上がるってこと!?",
+      "news_index": 3,
+      "start_sec": 254.8,
+      "end_sec": 259.99
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "計算が早いじゃない。ただ、正直な但し書きが付いてるの。",
+      "news_index": 3,
+      "start_sec": 260.14,
+      "end_sec": 264.34
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "但し書き。契約書のいちばん下に、小さい字で載ってるやつだっけ。",
+      "news_index": 3,
+      "start_sec": 264.49,
+      "end_sec": 269.2
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今回は堂々と書いてあるわ。文章の出来は普通のジェマより落ちる、ってグーグル自身が認めてるの。",
+      "news_index": 3,
+      "start_sec": 269.35,
+      "end_sec": 275.57
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "速いけど雑。ファストフードじゃん。",
+      "news_index": 3,
+      "start_sec": 275.72,
+      "end_sec": 278.22
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "言い方。でも筋は合ってるわ、速さを優先したい場面向けの、実験的な選択肢ってことね。",
+      "news_index": 3,
+      "start_sec": 278.37,
+      "end_sec": 284.07
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、ボクの毎日は何か変わるのだ?",
+      "news_index": 3,
+      "start_sec": 284.22,
+      "end_sec": 287.0
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "自分の手元で動くAIが速くなる方向。待ち時間が減るのって、地味にいちばん効くのよ。",
+      "news_index": 3,
+      "start_sec": 287.15,
+      "end_sec": 292.86
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "待たされないAI、それだけで好きになれるのだ。",
+      "news_index": 3,
+      "start_sec": 293.01,
+      "end_sec": 296.59
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあラスト四本目。冒頭で振った、グラボの話ね。",
+      "news_index": 4,
+      "start_sec": 296.74,
+      "end_sec": 300.2
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "来たのだ、お財布のやつ……。",
+      "news_index": 4,
+      "start_sec": 300.35,
+      "end_sec": 303.07
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "エーエムディーが四月から六月の決算を出したの。売上は115億ドルで、前の年から五割増えたわ。",
+      "news_index": 4,
+      "start_sec": 303.22,
+      "end_sec": 309.87
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "五割増!? 大勝利じゃん! なんでボクの財布が痛む流れになるのだ!?",
+      "news_index": 4,
+      "start_sec": 310.02,
+      "end_sec": 315.0
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "中身を割ると景色が変わるのよ。データセンター向けは、一年で倍になってるわ。",
+      "news_index": 4,
+      "start_sec": 315.15,
+      "end_sec": 319.79
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でーたせんたー。AIを動かしてる、サーバーだらけの巨大な倉庫だっけ。",
+      "news_index": 4,
+      "start_sec": 319.94,
+      "end_sec": 324.93
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "よく覚えてたわね。で、ゲーム部門は7億7,900万ドル。前の年から三割ちょっと減ってるの。",
+      "news_index": 4,
+      "start_sec": 325.08,
+      "end_sec": 332.2
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "減ってる!? 同じ会社の中で、片方だけ落ちるものなのだ?",
+      "news_index": 4,
+      "start_sec": 332.35,
+      "end_sec": 336.73
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "落ちるわ。一つは、プレイステーションやエックスボックスに入れるチップが動いてないこと。",
+      "news_index": 4,
+      "start_sec": 336.88,
+      "end_sec": 341.88
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ゲーム機、みんな買わなくなったってこと?",
+      "news_index": 4,
+      "start_sec": 342.03,
+      "end_sec": 344.88
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "行き渡ったのもあるわね。で、もう一つがグラフィックボードの値段。",
+      "news_index": 4,
+      "start_sec": 345.03,
+      "end_sec": 349.11
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "あ、それ身に覚えがあるのだ。去年見た値札から、ぜんぜん下りてこないやつ。",
+      "news_index": 4,
+      "start_sec": 349.26,
+      "end_sec": 355.91
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "下りてこないの。部品の仕入れ値が上がって、そのぶん売値に乗ってるから。",
+      "news_index": 4,
+      "start_sec": 356.06,
+      "end_sec": 360.32
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "高いから誰も買わない。それ、ぐるぐる回って戻ってこないやつじゃん。",
+      "news_index": 4,
+      "start_sec": 360.47,
+      "end_sec": 364.84
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "戻ってこないわ。社長のリサ・スーも、値段が需要を冷やしたって認めてるの。",
+      "news_index": 4,
+      "start_sec": 364.99,
+      "end_sec": 369.86
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "作ってる側が「高すぎて売れない」って言うの、聞いてて変な気分になるのだ。",
+      "news_index": 4,
+      "start_sec": 370.01,
+      "end_sec": 377.08
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "sexy",
+      "text": "変じゃないわよ。同じ会社の中で、データセンター向けが伸びる一方、ゲーム向けは家庭用ゲーム機の世代後半や部品高の影響を受けてるの。",
+      "news_index": 4,
+      "start_sec": 377.23,
+      "end_sec": 388.39
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あー! AI需要も絡む部品高と、ゲーム機向けの落ち込みが重なってるってことじゃん!",
+      "news_index": 4,
+      "start_sec": 388.54,
+      "end_sec": 394.22
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "筋は通ってるわね。会社は下半期のゲーム部門を、さらに二割以上減ると見てるわ。",
+      "news_index": 4,
+      "start_sec": 394.37,
+      "end_sec": 399.61
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "まだ下がるのだ!? 底が見えないじゃん!",
+      "news_index": 4,
+      "start_sec": 399.76,
+      "end_sec": 402.33
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "しかも減るのは売上の話であって、値札が下がる話じゃないのが厳しいところ。",
+      "news_index": 4,
+      "start_sec": 402.48,
+      "end_sec": 407.58
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "つまり、パソコンを組み替えるなら覚悟が要るってことなのだ……。",
+      "news_index": 4,
+      "start_sec": 407.73,
+      "end_sec": 413.29
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに、データセンター向けは絶好調でも、ゲーム向けには別の逆風が吹いてる。今年の自作は値段をよく見て決めなさい。",
+      "news_index": 4,
+      "start_sec": 413.44,
+      "end_sec": 421.25
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そんなわけで今朝は四本。守る側の道具、そろった規格、速いAI、そして下りてこない値札ね。",
+      "news_index": 0,
+      "start_sec": 421.33,
+      "end_sec": 427.63
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "並べてみると、なんか一本の線に見えるのだ。",
+      "news_index": 0,
+      "start_sec": 427.78,
+      "end_sec": 431.01
+    },
+    {
+      "index": 84,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "言ってごらんなさい。",
+      "news_index": 0,
+      "start_sec": 431.16,
+      "end_sec": 432.31
+    },
+    {
+      "index": 85,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "AI向けが伸びる一方で、ゲーム向けには部品高やゲーム機の世代後半が響いてるってことじゃん!",
+      "news_index": 0,
+      "start_sec": 432.46,
+      "end_sec": 438.85
+    },
+    {
+      "index": 86,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "上出来。朝からいい要約が出たわね。",
+      "news_index": 0,
+      "start_sec": 439.0,
+      "end_sec": 441.67
+    },
+    {
+      "index": 87,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "気になったやつがあったら、あとでゆっくり調べてほしいのだ! ボク、ずんだもんなのだー!",
+      "news_index": 0,
+      "start_sec": 441.82,
+      "end_sec": 447.15
+    },
+    {
+      "index": 88,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "旅の道ラジオ朝便、四国めたんでした。また明日のテック朝便で。",
+      "news_index": 0,
+      "start_sec": 447.3,
+      "end_sec": 452.02
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 452.72,
+      "end_sec": 460.42
+    }
+  ],
+  "wall_time_sec": 12.44,
+  "audio_url": "/audio/ai/20260811_051755.mp3?v=1786393885"
+}
