@@ -7,8 +7,8 @@
     <description>ずんだもん × めたん × つむぎが届ける、ゲーム &amp; テックニュース雑談ラジオ。朝便と夜便で毎日更新、レトロから新作まで、最新 AI 動向から業界マクロまで雑談形式でサクッと。</description>
     <language>ja</language>
     <copyright>© 2026 tabinomichi</copyright>
-    <lastBuildDate>Tue, 11 Aug 2026 05:31:27 +0900</lastBuildDate>
-    <pubDate>Tue, 11 Aug 2026 05:17:55 +0900</pubDate>
+    <lastBuildDate>Wed, 12 Aug 2026 05:28:28 +0900</lastBuildDate>
+    <pubDate>Wed, 12 Aug 2026 05:16:46 +0900</pubDate>
     <generator>build_rss_feed.py (tabinomichi radio)</generator>
     <image>
       <url>https://news.tabinomichi.jp/podcast-cover.png?v=1779005902</url>
@@ -29,6 +29,21 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>手元に降りてくる 〜10億人と、机の上のAI〜</title>
+      <link>https://news.tabinomichi.jp/radio/20260812_051646</link>
+      <guid isPermaLink="false">tabinomichi-radio-20260812_051646</guid>
+      <pubDate>Wed, 12 Aug 2026 05:16:46 +0900</pubDate>
+      <description>今朝のテック朝便は四本立て。まずグーグルのジェミニが月間10億人を突破して、チャットジーピーティーと肩を並べた話。人数集めから稼ぎ方の勝負へ移る転換点を確認します。二本目はメタが公開した『ミューズ・グリマー』、300億パラメータのAIを圧縮して、手元のパソコンで動くようにしたモデルの話。三本目は研究チームがAIの隠れた下書きを外から読み出してしまった件で、公開された会話からパスワードが数十件見つかり、下書きには『マリネ』のような妙な単語が並んでいたという不気味な報告。最後は中国のユニツリーが上海の市場に上場する件で、人型ロボットが夢から決算書に載る商品へ変わった瞬間を追いかけます。</description>
+      <content:encoded><![CDATA[今朝のテック朝便は四本立て。まずグーグルのジェミニが月間10億人を突破して、チャットジーピーティーと肩を並べた話。人数集めから稼ぎ方の勝負へ移る転換点を確認します。二本目はメタが公開した『ミューズ・グリマー』、300億パラメータのAIを圧縮して、手元のパソコンで動くようにしたモデルの話。三本目は研究チームがAIの隠れた下書きを外から読み出してしまった件で、公開された会話からパスワードが数十件見つかり、下書きには『マリネ』のような妙な単語が並んでいたという不気味な報告。最後は中国のユニツリーが上海の市場に上場する件で、人型ロボットが夢から決算書に載る商品へ変わった瞬間を追いかけます。]]></content:encoded>
+      <enclosure url="https://news.tabinomichi.jp/audio/ai/20260812_051646.mp3?v=1786480105" length="6933567" type="audio/mpeg"/>
+      <itunes:title>手元に降りてくる 〜10億人と、机の上のAI〜</itunes:title>
+      <itunes:summary>今朝のテック朝便は四本立て。まずグーグルのジェミニが月間10億人を突破して、チャットジーピーティーと肩を並べた話。人数集めから稼ぎ方の勝負へ移る転換点を確認します。二本目はメタが公開した『ミューズ・グリマー』、300億パラメータのAIを圧縮して、手元のパソコンで動くようにしたモデルの話。三本目は研究チームがAIの隠れた下書きを外から読み出してしまった件で、公開された会話からパスワードが数十件見つかり、下書きには『マリネ』のような妙な単語が並んでいたという不気味な報告。最後は中国のユニツリーが上海の市場に上場する件で、人型ロボットが夢から決算書に載る商品へ変わった瞬間を追いかけます。</itunes:summary>
+      <itunes:image href="https://news.tabinomichi.jp/images/og/20260812_051646.jpg"/>
+      <itunes:duration>7:13</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>そろう規格と、離れる値札 〜AIに吸い寄せられる朝〜</title>
       <link>https://news.tabinomichi.jp/radio/20260811_051755</link>
@@ -1511,21 +1526,6 @@
       <itunes:summary>旅の道ラジオ夜便、新作深掘り回。今夜はアトラスのジェイアールピージー最大シリーズ、10年ぶりのナンバリング新作『ペルソナ6』を掘り下げたよ。背景では、昼は学校・夜は怪異という二層構造がシリーズを唯一無二にした発明や、2016年のペルソナ5以降の沈黙、中心チームがメタファーへ移った世代交代の流れを整理。本作パートでは、墓地や首なし石像が並ぶ緑がかったダークな初公開映像と初代回帰の匂い、そして発売初日からゲームパスに対応するというペルソナ本編ナンバリング新作としては大きな配信方針の変化を噛み砕いた。総括では、100時間以上じっくり浸かりたいジェイアールピージー好きにはド真ん中で、短時間や明るい作風が好きな人には別作品が向くと整理。サブスクで初日から試せる新しい入口の意味と、らしさと新しさを両立した一本だと締めくくったよ。</itunes:summary>
       <itunes:image href="https://news.tabinomichi.jp/images/og/20260608_172602.jpg"/>
       <itunes:duration>8:19</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>死食の年の旅人たち 〜ロマンシング サ・ガ3、8つの自由〜</title>
-      <link>https://news.tabinomichi.jp/radio/20260608_114806</link>
-      <guid isPermaLink="false">tabinomichi-radio-20260608_114806</guid>
-      <pubDate>Tue, 09 Jun 2026 05:12:59 +0900</pubDate>
-      <description>今回はレトロゲーム回。スクウェアが1995年11月にスーパーファミコンで送り出した自由RPGの金字塔『ロマンシング サ・ガ3』を、ガチ勢の春日部つむぎが先輩ずんだもんに体感ベースで解説。300年に1度の『死食』に翻弄される8人の主人公、どこから挑んでもいい四魔貴族、戦闘中にピコーンと閃く技、陣形・コマンダーモード・マスコンバットまで詰め込まれたカートリッジの異常な濃度、河津秋敏が組み上げたフリーシナリオ、伊藤賢治『四魔貴族バトル2』に込められたエレキギター解禁エピソード、小林智美の幻想的なキャラ絵まで、当時を知らない人にも今こそ遊んでほしくなる入口を、ずんだのお年玉ボケと天丼で笑いを挟みつつじっくり掘る。2019年11月のアルテピアッツァ製HDリマスターが8プラットフォームで配信中なので、いまスマホからでも触れられる導線も付き。結末はネタバレ厳禁。</description>
-      <content:encoded><![CDATA[今回はレトロゲーム回。スクウェアが1995年11月にスーパーファミコンで送り出した自由RPGの金字塔『ロマンシング サ・ガ3』を、ガチ勢の春日部つむぎが先輩ずんだもんに体感ベースで解説。300年に1度の『死食』に翻弄される8人の主人公、どこから挑んでもいい四魔貴族、戦闘中にピコーンと閃く技、陣形・コマンダーモード・マスコンバットまで詰め込まれたカートリッジの異常な濃度、河津秋敏が組み上げたフリーシナリオ、伊藤賢治『四魔貴族バトル2』に込められたエレキギター解禁エピソード、小林智美の幻想的なキャラ絵まで、当時を知らない人にも今こそ遊んでほしくなる入口を、ずんだのお年玉ボケと天丼で笑いを挟みつつじっくり掘る。2019年11月のアルテピアッツァ製HDリマスターが8プラットフォームで配信中なので、いまスマホからでも触れられる導線も付き。結末はネタバレ厳禁。]]></content:encoded>
-      <enclosure url="https://news.tabinomichi.jp/audio/indie/20260608_114806.mp3?v=1780890287" length="5597770" type="audio/mpeg"/>
-      <itunes:title>死食の年の旅人たち 〜ロマンシング サ・ガ3、8つの自由〜</itunes:title>
-      <itunes:summary>今回はレトロゲーム回。スクウェアが1995年11月にスーパーファミコンで送り出した自由RPGの金字塔『ロマンシング サ・ガ3』を、ガチ勢の春日部つむぎが先輩ずんだもんに体感ベースで解説。300年に1度の『死食』に翻弄される8人の主人公、どこから挑んでもいい四魔貴族、戦闘中にピコーンと閃く技、陣形・コマンダーモード・マスコンバットまで詰め込まれたカートリッジの異常な濃度、河津秋敏が組み上げたフリーシナリオ、伊藤賢治『四魔貴族バトル2』に込められたエレキギター解禁エピソード、小林智美の幻想的なキャラ絵まで、当時を知らない人にも今こそ遊んでほしくなる入口を、ずんだのお年玉ボケと天丼で笑いを挟みつつじっくり掘る。2019年11月のアルテピアッツァ製HDリマスターが8プラットフォームで配信中なので、いまスマホからでも触れられる導線も付き。結末はネタバレ厳禁。</itunes:summary>
-      <itunes:image href="https://news.tabinomichi.jp/images/og/20260608_114806.jpg"/>
-      <itunes:duration>5:49</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>

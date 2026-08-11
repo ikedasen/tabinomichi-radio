@@ -1,0 +1,846 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-08-12T05:16:46+09:00",
+  "title": "手元に降りてくる 〜10億人と、机の上のAI〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 433.29,
+  "script_hash": "sha256:7e55992f140658cbec89707134a1562f097aa62bdafd506912a7a45fe94fb61c",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 5.56
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便。今朝はテックニュースの回、四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 5.56,
+      "end_sec": 11.08
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今日も朝から、テックの話を軽くいくのだー!",
+      "news_index": 0,
+      "start_sec": 11.23,
+      "end_sec": 16.02
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今朝は四本。人数の話、自分のパソコンの話、AIの下書きの話、それからロボットのお値段ね。",
+      "news_index": 0,
+      "start_sec": 16.17,
+      "end_sec": 22.89
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "下書き? AIって、下書きするのだっけ?",
+      "news_index": 0,
+      "start_sec": 23.04,
+      "end_sec": 26.49
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "するのよ。それは三本目でたっぷりやるわ。",
+      "news_index": 0,
+      "start_sec": 26.64,
+      "end_sec": 29.32
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "じゃあ一本目、お願いしますなのだ!",
+      "news_index": 0,
+      "start_sec": 29.47,
+      "end_sec": 31.91
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目は、桁のでかい話。グーグルの『ジェミニ』ってAIアプリ、月に使う人が10億人を超えたのよ。",
+      "news_index": 1,
+      "start_sec": 32.06,
+      "end_sec": 39.48
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "10億!? 世界の人の、だいたい八人に一人じゃん!",
+      "news_index": 1,
+      "start_sec": 39.63,
+      "end_sec": 43.55
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ざっくりそのくらいね。グーグルの歴史でも、いちばん速く育った商品ですって。",
+      "news_index": 1,
+      "start_sec": 43.7,
+      "end_sec": 48.3
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "速いって、どのくらいのペースだっけ?",
+      "news_index": 1,
+      "start_sec": 48.45,
+      "end_sec": 51.11
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "去年の十月で6億5,000万人、今年の二月に7億5,000万人、七月で9億5,000万人。",
+      "news_index": 1,
+      "start_sec": 51.26,
+      "end_sec": 57.79
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、一年たたずに3億5,000万人ぶん増えてるじゃん!",
+      "news_index": 1,
+      "start_sec": 57.94,
+      "end_sec": 61.9
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "しかもね、チャットジーピーティーのほうも、六月には10億人へ届いてるの。",
+      "news_index": 1,
+      "start_sec": 62.05,
+      "end_sec": 66.87
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "両方!? 10億人のアプリが、同じ年に二つ生えたってこと!?",
+      "news_index": 1,
+      "start_sec": 67.02,
+      "end_sec": 71.72
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "生えるな。……まあ、起きたことはだいたいそれで合ってるけど。",
+      "news_index": 1,
+      "start_sec": 71.87,
+      "end_sec": 75.2
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "めたん、今ちょっとノったのだ。",
+      "news_index": 1,
+      "start_sec": 75.35,
+      "end_sec": 77.61
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "うるさいわね。チャットジーピーティーの取り分は三月に初めて五割を切ってて、パイの取り合いが激しくなってるの。",
+      "news_index": 1,
+      "start_sec": 77.76,
+      "end_sec": 84.6
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "でもパイ自体が毎月でかくなってるなら、みんな幸せなのだ?",
+      "news_index": 1,
+      "start_sec": 84.75,
+      "end_sec": 89.61
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "sexy",
+      "text": "平和ねえ。この人数ぶんの電気代とサーバー代が、まるごと会社にのしかかってる話を忘れなければ。",
+      "news_index": 1,
+      "start_sec": 89.76,
+      "end_sec": 97.58
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "……それ、最後は誰が払うのだ?",
+      "news_index": 1,
+      "start_sec": 97.73,
+      "end_sec": 100.1
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに、ここからは人数だけじゃなく、その利用をどう収益につなげるかも勝負になるわ。",
+      "news_index": 1,
+      "start_sec": 100.25,
+      "end_sec": 105.8
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "タダの枠が減るやつじゃん……朝からいちばん効くのだ。",
+      "news_index": 1,
+      "start_sec": 105.95,
+      "end_sec": 110.61
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目。メタが八月十日に、自分のパソコンでも動かせるAIモデルの重みを、無料で公開したのよ。",
+      "news_index": 2,
+      "start_sec": 110.76,
+      "end_sec": 117.5
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "自分のパソコンで!? AIって、遠くの倉庫のサーバーで動くやつじゃん!",
+      "news_index": 2,
+      "start_sec": 117.65,
+      "end_sec": 122.48
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこが今回の肝ね。ザッカーバーグが『たった一つの善意ある超知能なんて存在しない』って言い切って、その日のうちに公開したの。",
+      "news_index": 2,
+      "start_sec": 122.63,
+      "end_sec": 130.63
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ちょうちのう? 名前からして、ボクには手が届かないのだ。",
+      "news_index": 2,
+      "start_sec": 130.78,
+      "end_sec": 134.53
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "人間よりずっと賢いAI、っていう想定の話。それを一社が独り占めするのが危ない、って主張ね。",
+      "news_index": 2,
+      "start_sec": 134.68,
+      "end_sec": 141.56
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "配っちゃえば独り占めできない、って理屈なのだね。",
+      "news_index": 2,
+      "start_sec": 141.71,
+      "end_sec": 145.28
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そういうこと。名前は『ミューズ・グリマー』、300億パラメータのモデルよ。",
+      "news_index": 2,
+      "start_sec": 145.43,
+      "end_sec": 150.71
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ぱらめーた? それ、何を数えてるのだ?",
+      "news_index": 2,
+      "start_sec": 150.86,
+      "end_sec": 153.94
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "AIの頭の中にある、調整つまみの数ね。多いほど賢い傾向はあるけど、そのぶん重くなるわ。",
+      "news_index": 2,
+      "start_sec": 154.09,
+      "end_sec": 160.69
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "300億個のつまみ!? ボクの机、つまみ二個で散らかってるのだ!",
+      "news_index": 2,
+      "start_sec": 160.84,
+      "end_sec": 165.6
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "あなたの机は今どうでもいいの。そのままだと、55ギガバイト以上のメモリが要るのよ。",
+      "news_index": 2,
+      "start_sec": 165.75,
+      "end_sec": 171.18
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "ごじゅうごギガバイト!? ボクのパソコン、そこで力尽きるやつじゃん。",
+      "news_index": 2,
+      "start_sec": 171.33,
+      "end_sec": 176.96
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "だから中身をぎゅっと圧縮して、20ギガバイト未満まで縮めたの。対応する24ギガ級のビデオメモリか、十分なユニファイドメモリがあれば動かせるわ。",
+      "news_index": 2,
+      "start_sec": 177.11,
+      "end_sec": 186.91
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、外に送らないなら、書いたものが会社に渡らないってことじゃん!",
+      "news_index": 2,
+      "start_sec": 187.06,
+      "end_sec": 191.53
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ご名答。モデル自体の月額料金は要らないし、外部サービスを使わずローカルだけで処理すれば、写真や書類を外へ送らずに済むわ。",
+      "news_index": 2,
+      "start_sec": 191.68,
+      "end_sec": 199.61
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "それ、けっこう嬉しいやつなのだ。",
+      "news_index": 2,
+      "start_sec": 199.76,
+      "end_sec": 202.02
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "ただし24ギガ積んだパソコンが要るからね。メモリが高い今は、その入場券がいちばん高いって話。",
+      "news_index": 2,
+      "start_sec": 202.17,
+      "end_sec": 208.61
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "入り口で財布が死ぬやつじゃん……。",
+      "news_index": 2,
+      "start_sec": 208.76,
+      "end_sec": 211.45
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目は、今朝いちばん不気味なやつ。AIの隠れた下書きが、外から読まれちゃったって研究の話よ。",
+      "news_index": 3,
+      "start_sec": 211.6,
+      "end_sec": 218.22
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "下書き? AIって、いきなり答えを書いてるんじゃないのだ?",
+      "news_index": 3,
+      "start_sec": 218.37,
+      "end_sec": 222.72
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "違うのよ。今回対象になった推論モデルは、答える前に途中の推論文を作ることがあるの。",
+      "news_index": 3,
+      "start_sec": 222.87,
+      "end_sec": 229.26
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、テストの計算用紙みたいなやつじゃん!",
+      "news_index": 3,
+      "start_sec": 229.41,
+      "end_sec": 232.39
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いい例えね。会社側は、その計算用紙に鍵をかけて渡してるつもりだったの。",
+      "news_index": 3,
+      "start_sec": 232.54,
+      "end_sec": 237.35
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "つもり、ってことは……開いちゃったのだっけ?",
+      "news_index": 3,
+      "start_sec": 237.5,
+      "end_sec": 240.46
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "研究チームが、その鍵つきの塊を、同じ会社の弱いほうのAIに流し込んだのよ。",
+      "news_index": 3,
+      "start_sec": 240.61,
+      "end_sec": 246.52
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "弱いほうに読ませたら、そのまま白状しちゃったってこと!?",
+      "news_index": 3,
+      "start_sec": 246.67,
+      "end_sec": 250.55
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "sexy",
+      "text": "そういうこと。お兄ちゃんの計算用紙を、弟がそのまま朗読しちゃったわけ。",
+      "news_index": 3,
+      "start_sec": 250.7,
+      "end_sec": 256.8
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "身内から漏れるの、いちばん防ぎようがないやつなのだ……。",
+      "news_index": 3,
+      "start_sec": 256.95,
+      "end_sec": 261.46
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "shock",
+      "text": "しかもね、公開リポジトリに置かれていたセッション記録の暗号化された下書きから、個人情報や認証情報が多数見つかったの。",
+      "news_index": 3,
+      "start_sec": 261.61,
+      "end_sec": 269.84
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "本物!? そんなの、そのへんに落ちてるものなのだ!?",
+      "news_index": 3,
+      "start_sec": 269.99,
+      "end_sec": 273.59
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "落ちてたのよ。ほかにも、表向きの回答には出なかった危険な情報まで、下書きから取り出せる場合があったらしいわ。",
+      "news_index": 3,
+      "start_sec": 273.74,
+      "end_sec": 281.11
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "マリネ? 急にお料理が混ざってきたじゃん。",
+      "news_index": 3,
+      "start_sec": 281.26,
+      "end_sec": 284.13
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "暗号化されて見えないはずの内容でも、別のモデルを経由すると読めてしまったのが問題なのよ。",
+      "news_index": 3,
+      "start_sec": 284.28,
+      "end_sec": 289.84
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "見られない日記だと、字が汚くなるやつじゃん。分かるのだ。",
+      "news_index": 3,
+      "start_sec": 289.99,
+      "end_sec": 294.14
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに、AIの下書きは消えてないってこと。AIのセッション記録を公開する時は、見えない暗号化部分にも個人情報や認証情報が残っていると思っときなさい。",
+      "news_index": 3,
+      "start_sec": 294.29,
+      "end_sec": 304.96
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "ボク、昨日ぺたっと貼ったやつあるのだ……。",
+      "news_index": 3,
+      "start_sec": 305.11,
+      "end_sec": 308.7
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあラスト四本目。人型ロボットに、はっきり値札がついた話でしめるわ。",
+      "news_index": 4,
+      "start_sec": 308.85,
+      "end_sec": 313.56
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "値札! ついにボクにも買えるやつなのだ!?",
+      "news_index": 4,
+      "start_sec": 313.71,
+      "end_sec": 316.53
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "買えるのはロボットじゃなくて会社のほう。中国のユニツリーが、上海の市場に上場するのよ。",
+      "news_index": 4,
+      "start_sec": 316.68,
+      "end_sec": 322.44
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じょうじょう? 会社が売られちゃうってこと?",
+      "news_index": 4,
+      "start_sec": 322.59,
+      "end_sec": 325.34
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "会社を細かく切り分けて、株として誰でも買えるようにするの。集めたお金で工場を大きくするわけ。",
+      "news_index": 4,
+      "start_sec": 325.49,
+      "end_sec": 332.11
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、いくら集まるのだ?",
+      "news_index": 4,
+      "start_sec": 332.26,
+      "end_sec": 334.19
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "だいたい6億ドル。会社ぜんぶの値段は、上場したあとで62億ドルって見込みね。",
+      "news_index": 4,
+      "start_sec": 334.34,
+      "end_sec": 339.81
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "62億ドル!? ロボット屋さんが、そんな値札になるのだ!?",
+      "news_index": 4,
+      "start_sec": 339.96,
+      "end_sec": 344.29
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "なるのよ。会社の発表では、去年は人型ロボットを5,500台以上出荷して、世界最多だったとしているの。",
+      "news_index": 4,
+      "start_sec": 344.44,
+      "end_sec": 351.14
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "5,500台って、多いのか少ないのか、ボクには分からないのだ。",
+      "news_index": 4,
+      "start_sec": 351.29,
+      "end_sec": 355.83
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "人型ロボットの世界だと圧倒的よ。ちょっと前まで、研究室に一台あるだけでニュースになってた分野だもの。",
+      "news_index": 4,
+      "start_sec": 355.98,
+      "end_sec": 363.01
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、実験室の生き物じゃなくて、もう商品なのだね。",
+      "news_index": 4,
+      "start_sec": 363.16,
+      "end_sec": 367.14
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そこが今回のポイント。しかも主力の商売はきっちり黒字で、利益率もいいの。",
+      "news_index": 4,
+      "start_sec": 367.29,
+      "end_sec": 372.91
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "儲かってるロボット屋さん!? 初めて聞いたのだ!",
+      "news_index": 4,
+      "start_sec": 373.06,
+      "end_sec": 376.33
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに、人型ロボットが売上や利益を生む商品になり始めたってこと。生産が広がれば、今後の値下がりも期待されるわ。",
+      "news_index": 4,
+      "start_sec": 376.48,
+      "end_sec": 384.38
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "じゃあボクの部屋に来る日も、そのうち来るのだ?",
+      "news_index": 4,
+      "start_sec": 384.53,
+      "end_sec": 387.75
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "来るかもね。その頃には電気代の請求書も、一緒に持ってくるかもだけど。",
+      "news_index": 4,
+      "start_sec": 387.9,
+      "end_sec": 392.38
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "夢が二行で終わったのだ……。",
+      "news_index": 4,
+      "start_sec": 392.53,
+      "end_sec": 394.8
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで今朝は四本。10億人と、机の上で動くAIと、覗かれた下書きと、値札のついたロボット。",
+      "news_index": 0,
+      "start_sec": 394.95,
+      "end_sec": 402.23
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "こうやって並べると、AIがどんどん手元に降りてきてるのだね。",
+      "news_index": 0,
+      "start_sec": 402.38,
+      "end_sec": 406.62
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いいまとめじゃない。遠くの倉庫にあったものが、机の上とか部屋の隅まで来てるってことね。",
+      "news_index": 0,
+      "start_sec": 406.77,
+      "end_sec": 411.91
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "じゃあボクは、まずメモリの値段から見張るのだ!",
+      "news_index": 0,
+      "start_sec": 412.06,
+      "end_sec": 415.06
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "気になったのがあったら、あとで調べてみてね。それじゃ今日も一日、いってらっしゃい。",
+      "news_index": 0,
+      "start_sec": 415.21,
+      "end_sec": 420.36
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "旅の道ラジオ朝便でした! また明日のテック朝便で会うのだー!",
+      "news_index": 0,
+      "start_sec": 420.51,
+      "end_sec": 424.89
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 425.59,
+      "end_sec": 433.29
+    }
+  ],
+  "wall_time_sec": 11.98,
+  "audio_url": "/audio/ai/20260812_051646.mp3?v=1786480105"
+}
