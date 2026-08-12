@@ -1,0 +1,756 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-08-12T14:00:34+09:00",
+  "title": "人生と呼ばれたゲーム 〜坂道の下から始まるクラナド〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 426.12,
+  "script_hash": "sha256:8aa5933f4e59dad028dd33a5602c6dbf6eac68ce7f960d517ee421f3e51f3c27",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 9.59
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "旅の道ラジオへようこそなのだ！パーソナリティのずんだもんなのだー！",
+      "news_index": 0,
+      "start_sec": 9.59,
+      "end_sec": 13.73
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "intro",
+      "text": "ちっす！春日部つむぎっす！レトロゲー回は、またまたあーしが担当するっすよー！",
+      "news_index": 0,
+      "start_sec": 13.88,
+      "end_sec": 19.04
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "今回はレトロゲーム回なのだ！つむぎ、お題はなんなのだ？",
+      "news_index": 0,
+      "start_sec": 19.19,
+      "end_sec": 23.26
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "今回のテーマは『CLANNAD』っす！Keyが2004年に出した、泣きゲーの金字塔みたいなビジュアルノベルっすよ！",
+      "news_index": 0,
+      "start_sec": 23.41,
+      "end_sec": 30.38
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "クラナド……なんか強そうな響きなのだ。カナダの親戚かなにかなのだ？",
+      "news_index": 0,
+      "start_sec": 30.53,
+      "end_sec": 35.18
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "国じゃないっすよ先輩。れっきとしたゲームのタイトルっすから、中身から行くっすよ。",
+      "news_index": 0,
+      "start_sec": 35.33,
+      "end_sec": 40.15
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "CLANNADは2004年4月28日発売のパソコン用ビジュアルノベルっす。作ったのはKeyっていう伝説のブランドっすよ。",
+      "news_index": 1,
+      "start_sec": 40.23,
+      "end_sec": 47.5
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "2004年って、ボクがまだ枝豆ですらなかった時代なのだ。歴史の教科書に載るやつじゃん。",
+      "news_index": 1,
+      "start_sec": 47.65,
+      "end_sec": 53.43
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "先輩の年表どうなってんすか。まあでも、20年以上前の作品ってことっすね。",
+      "news_index": 1,
+      "start_sec": 53.58,
+      "end_sec": 58.79
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "主人公は岡崎朋也っていう、学校をサボりがちな三年生っす。物語は学校の前の長い坂道から始まるんすよ。",
+      "news_index": 1,
+      "start_sec": 58.87,
+      "end_sec": 66.53
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "坂道って、自転車で全速力で下る遊びのことなのだ？",
+      "news_index": 1,
+      "start_sec": 66.68,
+      "end_sec": 70.77
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "違うっすよ。坂の下で立ち止まってた朋也が、古河渚っていう女の子の独り言を聞く場面から始まるんす。",
+      "news_index": 1,
+      "start_sec": 70.92,
+      "end_sec": 77.65
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "なんかいいシーンの予感がするのだ。青春の入口じゃん。",
+      "news_index": 1,
+      "start_sec": 77.8,
+      "end_sec": 81.49
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "要するに、この出会いから物語が転がり出すって話っす。あーし、この冒頭だけで空気が変わるのを感じて鳥肌立ったっす。",
+      "news_index": 1,
+      "start_sec": 81.64,
+      "end_sec": 89.47
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ここ大事なんすけど、Keyの前の『Kanon』と『AIR』は18禁のパソコンゲームだったんすよ。でもCLANNADは最初から全年齢対象で出たっす。",
+      "news_index": 1,
+      "start_sec": 89.55,
+      "end_sec": 99.29
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "つまり、だれでも堂々と遊べるようになったってことなのだ？",
+      "news_index": 1,
+      "start_sec": 99.44,
+      "end_sec": 103.33
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そういうことっす。実際このあと、いろんなゲーム機に移植されまくるっすよ。",
+      "news_index": 1,
+      "start_sec": 103.48,
+      "end_sec": 108.05
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "当時の希望小売価格は、初回限定版で7,500円っす。あーしは後追い世代なんで、中古屋で発掘したクチっすけどね。",
+      "news_index": 1,
+      "start_sec": 108.13,
+      "end_sec": 116.01
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "7,500円って、ずんだ餅がだいたい300個分なのだ。枝豆畑がひとつ消える金額じゃん。",
+      "news_index": 1,
+      "start_sec": 116.16,
+      "end_sec": 122.64
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "換算が農業すぎるっす。でも当時のパソコンゲームとしては、普通の値段っすよ。",
+      "news_index": 1,
+      "start_sec": 122.79,
+      "end_sec": 127.84
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "次はスタッフの話っす。シナリオの中心は麻枝准で、涼元悠一たちも参加してるっす。",
+      "news_index": 2,
+      "start_sec": 127.92,
+      "end_sec": 133.9
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "まえだじゅん……名前の響きだけで泣かせてきそうなのだ。涙のソムリエなのだ？",
+      "news_index": 2,
+      "start_sec": 134.05,
+      "end_sec": 139.03
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "職業名が雑っすけど、方向は合ってるっす。麻枝准は泣きゲーってジャンルを代表する書き手っすよ。",
+      "news_index": 2,
+      "start_sec": 139.18,
+      "end_sec": 145.33
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "原画は樋上いたるっす。あの大きな瞳の絵柄、ひと目でKeyって分かるやつっすよ。",
+      "news_index": 2,
+      "start_sec": 145.41,
+      "end_sec": 150.46
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "あの絵はボクも見たことあるのだ。リスナーの皆も、ジャケットを見たら思い出す人が多いはずなのだ。",
+      "news_index": 2,
+      "start_sec": 150.61,
+      "end_sec": 156.71
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "音楽は折戸伸治、戸越まごめ、麻枝准の三人っす！オープニング曲『メグメル』は歌がriyaで、透明感の塊で、イントロの時点でもう……",
+      "news_index": 2,
+      "start_sec": 156.86,
+      "end_sec": 166.38
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "つむぎ、早口になってるのだ。目が完全にオタクなのだ。",
+      "news_index": 2,
+      "start_sec": 166.53,
+      "end_sec": 170.26
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "あーし今めっちゃキモかったっすね、さーせんっす。でも『メグメル』、聴いたことないオタクくんは検索して聴いてみてほしいっす。",
+      "news_index": 2,
+      "start_sec": 170.41,
+      "end_sec": 178.14
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "エンディング曲の『影二つ』もriyaが歌ってて、作曲は戸越まごめっす。",
+      "news_index": 2,
+      "start_sec": 178.22,
+      "end_sec": 183.03
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ボク、曲名だけでもうエモいのだ。『影二つ』って、タイトルが物語してるじゃん。",
+      "news_index": 2,
+      "start_sec": 183.18,
+      "end_sec": 189.56
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに、シナリオも絵も音楽も、全部エース級が揃った一本ってことっす。",
+      "news_index": 2,
+      "start_sec": 189.71,
+      "end_sec": 194.67
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ここからゲームの中身っす。CLANNADは学園編とアフターストーリーの二部構成なんすよ。",
+      "news_index": 3,
+      "start_sec": 194.75,
+      "end_sec": 200.01
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "アフターストーリーって、本編が終わったあとのおまけ漫画みたいなやつなのだ？",
+      "news_index": 3,
+      "start_sec": 200.16,
+      "end_sec": 205.01
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "おまけどころか、そっちが本番って言う人もいるくらいっす。学園編を遊び込むと解放される後半戦っすよ。",
+      "news_index": 3,
+      "start_sec": 205.16,
+      "end_sec": 211.76
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "鍵になるのが『光の玉』っす。いろんなルートをクリアすると集まっていくんすよ。",
+      "news_index": 3,
+      "start_sec": 211.84,
+      "end_sec": 216.89
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "光の玉って、7個集めると願いが叶うドラゴン的なやつなのだ？",
+      "news_index": 3,
+      "start_sec": 217.04,
+      "end_sec": 221.65
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "集める楽しさは近いっすね。ただ意味は全然違うんで、そこは遊んで確かめてほしいっす。",
+      "news_index": 3,
+      "start_sec": 221.8,
+      "end_sec": 227.41
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "気になる引きかたをするじゃん……。アフターストーリーではなにが起きるのだ？",
+      "news_index": 3,
+      "start_sec": 227.56,
+      "end_sec": 231.81
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kangae",
+      "text": "……そこだけはガチで言えないっす。ここから先は、自分の目で確かめてほしいやつっす。",
+      "news_index": 3,
+      "start_sec": 231.96,
+      "end_sec": 237.16
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "ネタバレ防衛が固すぎて、逆に頭がぐるぐるするのだー。",
+      "news_index": 3,
+      "start_sec": 237.31,
+      "end_sec": 242.65
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに、恋愛ゲームの形で始まって、最後は家族の物語として着地する構造ってことっす。",
+      "news_index": 3,
+      "start_sec": 242.8,
+      "end_sec": 249.25
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "あとボリュームがえぐいっす。全部のルートを回ると数十時間コースの超長編っすよ。",
+      "news_index": 3,
+      "start_sec": 249.33,
+      "end_sec": 254.39
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "数十時間って、夏休みが丸ごと溶ける計算なのだ。宿題が全滅するじゃん。",
+      "news_index": 3,
+      "start_sec": 254.54,
+      "end_sec": 260.05
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "実際あーしは、連休をまるっとこのゲームに捧げたっす。後悔は一ミリもないっすけどね。",
+      "news_index": 3,
+      "start_sec": 260.2,
+      "end_sec": 265.8
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ところでつむぎ、その連休のあいだ、友達からの誘いはどうなってたのだ？",
+      "news_index": 3,
+      "start_sec": 265.95,
+      "end_sec": 271.14
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "shirake",
+      "text": "……先輩。",
+      "news_index": 3,
+      "start_sec": 271.29,
+      "end_sec": 272.15
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "な、なんでもないのだ……ごめんなさいなのだ……。",
+      "news_index": 3,
+      "start_sec": 272.3,
+      "end_sec": 276.24
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "コホン。話を戻すっすよ、次は声の話っす。",
+      "news_index": 3,
+      "start_sec": 276.39,
+      "end_sec": 279.96
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "実は2004年のパソコン版、キャラのボイスが入ってなかったんすよ。フルボイスになったのは2006年のPS2版からっす。",
+      "news_index": 3,
+      "start_sec": 280.04,
+      "end_sec": 287.46
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "えっ、声なしなのだ？それでみんな泣いてたのだ？",
+      "news_index": 3,
+      "start_sec": 287.61,
+      "end_sec": 290.98
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そうっすよ、文章と音楽だけで泣かせてたんす。体験としては小説に近いって言えば伝わるっすかね。",
+      "news_index": 3,
+      "start_sec": 291.13,
+      "end_sec": 297.4
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "つまり、声がなくても伝わる文章の力があったってことなのだね。",
+      "news_index": 3,
+      "start_sec": 297.55,
+      "end_sec": 301.91
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "で、この作品を語るとき絶対に出てくる言葉があるっす。『CLANNADは人生』っす。",
+      "news_index": 4,
+      "start_sec": 302.06,
+      "end_sec": 307.6
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "人生……？遊ぶと寿命が延びるゲームってことなのだ？",
+      "news_index": 4,
+      "start_sec": 307.75,
+      "end_sec": 311.34
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "延びないっすよ。『Fateは文学、AIRは芸術、CLANNADは人生』っていう、2ちゃんねる発の有名なコピペがあるんす。",
+      "news_index": 4,
+      "start_sec": 311.49,
+      "end_sec": 319.21
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ネットの大喜利から生まれた言葉が、時代を超えて残ってるのはすごいのだ。",
+      "news_index": 4,
+      "start_sec": 319.36,
+      "end_sec": 323.98
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "恋愛だけじゃなくて、家族とか町とか、人生まるごとを描いてるって評価が、この一言に詰まってるんすよ。",
+      "news_index": 4,
+      "start_sec": 324.13,
+      "end_sec": 330.67
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "茶化しから始まった言葉なのに、中身はガチの愛じゃん。いい話なのだ。",
+      "news_index": 4,
+      "start_sec": 330.82,
+      "end_sec": 335.64
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "アニメの話もしとくっす。2007年から京都アニメーション制作でテレビアニメ化されて、監督は石原立也っす。",
+      "news_index": 4,
+      "start_sec": 335.79,
+      "end_sec": 342.89
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "京アニなのだ！映像が綺麗に決まってるじゃん！",
+      "news_index": 4,
+      "start_sec": 343.04,
+      "end_sec": 346.43
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "2008年からは第2期『CLANNAD AFTER STORY』も放送されて、こっちも伝説っす！アニメから入ったオタクくんも多いはずっすよ！",
+      "news_index": 4,
+      "start_sec": 346.58,
+      "end_sec": 354.91
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "あと2007年9月には、東映アニメーション制作の劇場版も公開されてるっす。こっちの監督は出崎統っすね。",
+      "news_index": 4,
+      "start_sec": 354.99,
+      "end_sec": 362.5
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "テレビと映画で監督が違うのだね。食べ比べができるってことじゃん。",
+      "news_index": 4,
+      "start_sec": 362.65,
+      "end_sec": 366.92
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そういうことっす。まとめると、ゲーム発でアニメまで大きく広がった、Keyの代表作ってことっすね。",
+      "news_index": 4,
+      "start_sec": 367.07,
+      "end_sec": 373.32
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "最後に、いま遊ぶ方法っす。PS4やニンテンドースイッチにも移植されてるし、Steamでも配信されてるっすよ。",
+      "news_index": 5,
+      "start_sec": 373.4,
+      "end_sec": 380.78
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "リスナーの皆、気になったら迷わず行くのだ！これは買いなのだ！",
+      "news_index": 5,
+      "start_sec": 380.93,
+      "end_sec": 385.02
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "それなっす！20年以上前の作品っすけど、家族の話は絶対に古びないっすから！",
+      "news_index": 5,
+      "start_sec": 385.17,
+      "end_sec": 390.71
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "よし、ボクもさっそくクラナドを始めて……カナダに詳しくなるのだ！",
+      "news_index": 5,
+      "start_sec": 390.86,
+      "end_sec": 395.44
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "まだ国だと思ってるんすか。遊べば絶対、その名前ごと好きになるっすよ。",
+      "news_index": 5,
+      "start_sec": 395.59,
+      "end_sec": 400.15
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "冗談なのだ。ボク、坂道の出会いからちゃんと見届けたくなったのだ。",
+      "news_index": 5,
+      "start_sec": 400.3,
+      "end_sec": 404.76
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "オタクくんも、遊んだらぜひ感想を聞かせてほしいっす。あーしと語り合うっすよ。",
+      "news_index": 5,
+      "start_sec": 404.91,
+      "end_sec": 409.65
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "それでは今回はここまでなのだ！また旅の道ラジオで会うのだー！",
+      "news_index": 5,
+      "start_sec": 409.8,
+      "end_sec": 413.96
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "ばいばいっす！次のレトロゲー回も、あーしと遊ぶっすよー！",
+      "news_index": 5,
+      "start_sec": 414.11,
+      "end_sec": 417.72
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 418.42,
+      "end_sec": 426.12
+    }
+  ],
+  "wall_time_sec": 10.85,
+  "audio_url": "/audio/indie/20260812_140034.mp3?v=1786565321"
+}
