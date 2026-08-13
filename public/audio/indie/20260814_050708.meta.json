@@ -1,0 +1,746 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-08-14T05:07:08+09:00",
+  "title": "セーブ禁止の映画館 〜Dの食卓、二時間の古城〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 433.31,
+  "script_hash": "sha256:5b3c81c9a6e79bde45d247966d683fc040b63b7bfcb3b750b35da95a998c6abd",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 5.56
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "旅の道ラジオへようこそなのだ！パーソナリティのずんだもんなのだー！",
+      "news_index": 0,
+      "start_sec": 5.56,
+      "end_sec": 9.7
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "今回はレトロゲーム回なのだ！",
+      "news_index": 0,
+      "start_sec": 9.78,
+      "end_sec": 11.91
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "またまた、あーしが担当するっすよー！今回のテーマは『Dの食卓』っす！",
+      "news_index": 0,
+      "start_sec": 12.06,
+      "end_sec": 17.21
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "1995年に3DOで出た、ワープ制作の伝説のホラーアドベンチャーっすね。",
+      "news_index": 0,
+      "start_sec": 17.29,
+      "end_sec": 22.69
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "Dの食卓って、豪華ディナーを囲む料理ゲームでしょ？食卓って言うくらいだし、レシピを集めるやつなのだ？",
+      "news_index": 1,
+      "start_sec": 22.84,
+      "end_sec": 30.07
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "先輩それガチ違うっす。れっきとしたホラーアドベンチャーっすよ。",
+      "news_index": 1,
+      "start_sec": 30.22,
+      "end_sec": 33.93
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "舞台は1997年のロサンゼルス。総合病院で大量殺人事件が起きるところから始まるっす。",
+      "news_index": 1,
+      "start_sec": 34.01,
+      "end_sec": 40.71
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "病院でって、いきなり重いじゃん……。犯人は誰なのだ？",
+      "news_index": 1,
+      "start_sec": 40.86,
+      "end_sec": 44.66
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "それが院長のリクター・ハリスっす。しかも主人公のローラは、その娘っすよ。",
+      "news_index": 1,
+      "start_sec": 44.81,
+      "end_sec": 49.81
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "父親が犯人で娘が説得に行くって、家族会議のスケールを超えてるのだ。ボクなら電話で済ませたいのだ。",
+      "news_index": 1,
+      "start_sec": 49.96,
+      "end_sec": 57.89
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "電話で済んだらゲームにならないっすよ。で、病院に乗り込んだローラが、なぜか謎の古城に引き込まれるっす。",
+      "news_index": 1,
+      "start_sec": 58.04,
+      "end_sec": 64.7
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "病院に入ったのにお城なのだ？渡り廊下で曲がり間違えたにも程があるのだ。",
+      "news_index": 1,
+      "start_sec": 64.85,
+      "end_sec": 70.06
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "異空間に引き込まれるんすよ。要するに、父を追って謎の城をさまようホラーって話っす。",
+      "news_index": 1,
+      "start_sec": 70.21,
+      "end_sec": 75.83
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そんでこのゲーム、当時としては驚異のフル3DCGっす。全編がムービーで、その中を自分で歩き回るんすよ。",
+      "news_index": 1,
+      "start_sec": 75.91,
+      "end_sec": 83.33
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ムービーの中を歩くって、映画館のスクリーンに突っ込んでいく感じなのだ？",
+      "news_index": 1,
+      "start_sec": 83.48,
+      "end_sec": 88.34
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "イメージはだいたい合ってるっす。映画のフィルムの中に、操作権だけ渡されるようなもんすね。",
+      "news_index": 1,
+      "start_sec": 88.49,
+      "end_sec": 93.89
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "映画を観るんじゃなくて、歩いて出演するのだ。1995年にそれは早すぎるでしょ。",
+      "news_index": 1,
+      "start_sec": 94.04,
+      "end_sec": 100.13
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "そう、インタラクティブシネマって呼ばれた先駆けっす。ここ大事なとこっすよ、オタクくん。",
+      "news_index": 1,
+      "start_sec": 100.28,
+      "end_sec": 105.72
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "で、ここからがこのゲームのとんでもないとこっす。セーブが一切できないっす。",
+      "news_index": 2,
+      "start_sec": 105.8,
+      "end_sec": 110.41
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "えっ、セーブがない？パスワードすらないってこと？",
+      "news_index": 2,
+      "start_sec": 110.56,
+      "end_sec": 114.08
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "パスワードもポーズもなしっす。さらに実時間で2時間たったら、強制的にゲームオーバーっす。",
+      "news_index": 2,
+      "start_sec": 114.23,
+      "end_sec": 119.91
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "セーブなし、ポーズなし、2時間一発勝負……。情報量が多すぎてぐるぐるするのだ……。",
+      "news_index": 2,
+      "start_sec": 120.06,
+      "end_sec": 127.47
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "映画を途中で止めないのと同じ体験にしたかったんすよ。上映時間2時間の映画に、自分で出演する感覚っす。",
+      "news_index": 2,
+      "start_sec": 127.62,
+      "end_sec": 134.8
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "トイレはどうするのだ！？途中で行ったら、その分だけ時間が溶けるじゃん！",
+      "news_index": 2,
+      "start_sec": 134.95,
+      "end_sec": 139.99
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そこは当時のプレイヤー共通の覚悟ポイントっすよ。要するに、遊ぶ側の集中力まで演出に組み込んだ設計って話っす。",
+      "news_index": 2,
+      "start_sec": 140.14,
+      "end_sec": 147.97
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "でも失敗したら2時間まるごと消えるんでしょ？オートセーブに慣れた現代人には地獄なのだ。",
+      "news_index": 2,
+      "start_sec": 148.12,
+      "end_sec": 153.99
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kangae",
+      "text": "そこが評価の割れ目っすねー。緊張感が唯一無二って声と、不便すぎって声で、当時から真っ二つっす。",
+      "news_index": 2,
+      "start_sec": 154.14,
+      "end_sec": 161.27
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "つむぎはどっち派なのだ？",
+      "news_index": 2,
+      "start_sec": 161.42,
+      "end_sec": 163.18
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "あーしは断然アリ派っす！ろうそくの灯りで進むお城の、あの張り詰めた空気はほかで味わえないっす！",
+      "news_index": 2,
+      "start_sec": 163.33,
+      "end_sec": 169.45
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "……その言い方、つむぎ、実機でやったのだ？",
+      "news_index": 2,
+      "start_sec": 169.6,
+      "end_sec": 172.81
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "3DO実機ごと中古屋で発掘したっすよ！気合いの要る買い物だったっすけど、後悔はゼロっす！",
+      "news_index": 2,
+      "start_sec": 172.96,
+      "end_sec": 179.08
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "つむぎの部屋、もう半分博物館じゃん。ギャルの部屋要素はどこにあるのだ？",
+      "news_index": 2,
+      "start_sec": 179.23,
+      "end_sec": 184.36
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "shirake",
+      "text": "……先輩。ネイルコーナーもちゃんとあるっす。",
+      "news_index": 2,
+      "start_sec": 184.51,
+      "end_sec": 187.37
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "ご、ごめんなさいなのだ……。博物館は褒め言葉なのだ……。",
+      "news_index": 2,
+      "start_sec": 187.52,
+      "end_sec": 192.53
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ここからガチで語らせてもらうっすけど、この作品の中心人物は飯野賢治さんっす。開発会社ワープの創業者で、監督と脚本を務めたかたっす。",
+      "news_index": 3,
+      "start_sec": 192.68,
+      "end_sec": 202.06
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "名前は聞いたことあるのだ。たしか、すごく型破りなクリエイターだったんでしょ？",
+      "news_index": 3,
+      "start_sec": 202.21,
+      "end_sec": 207.36
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "90年代を代表するひとりで、鬼才って呼ばれてたっす。アイデアも行動力も規格外だったんすよ。",
+      "news_index": 3,
+      "start_sec": 207.51,
+      "end_sec": 213.63
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "しかも3DO版の発売元は三栄書房、つまり出版社っす。ゲーム業界の常識の外から出てきた作品なんすよ。",
+      "news_index": 3,
+      "start_sec": 213.71,
+      "end_sec": 221.35
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "出版社がゲームを出すって、雑誌の付録に3DOソフトが付いてくる感じなのだ？",
+      "news_index": 3,
+      "start_sec": 221.5,
+      "end_sec": 227.95
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "付録の域を超えてるっすよ。要するに、出どころから型破りだったって話っす。",
+      "news_index": 3,
+      "start_sec": 228.1,
+      "end_sec": 233.17
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "hisohiso",
+      "text": "そんで有名なのが、マスター差し替えの逸話っす。作中に、当時としては相当過激なシーンがあったんすよ。",
+      "news_index": 3,
+      "start_sec": 233.25,
+      "end_sec": 240.72
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "発売中止を恐れて、そのシーンを抜いた版をいったん完成版として配ったっす。そんで製品版で、こっそり元に戻したって話っす。",
+      "news_index": 3,
+      "start_sec": 240.8,
+      "end_sec": 249.1
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "こっそり戻したのだ！？バレたら大事件じゃん！",
+      "news_index": 3,
+      "start_sec": 249.25,
+      "end_sec": 252.12
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "だから今も伝説として残ってるんすよ。翌年には、そのシーン込みのディレクターズカット版も正式に出たっす。",
+      "news_index": 3,
+      "start_sec": 252.27,
+      "end_sec": 258.82
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "表現を守るために、そこまで腹をくくったのだ……。良い子は絶対に真似しちゃダメな伝説なのだ。",
+      "news_index": 3,
+      "start_sec": 258.97,
+      "end_sec": 264.97
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そんで結果も規格外っす！マルチメディアグランプリ95で通商産業大臣賞、移植版はファミ通のクロスレビューでゴールド殿堂入りっす！",
+      "news_index": 3,
+      "start_sec": 265.12,
+      "end_sec": 273.55
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "大臣賞って、ゲームが国に表彰されたのだ！？なら、ずんだ餅は農林水産大臣賞を狙うのだ！",
+      "news_index": 3,
+      "start_sec": 273.7,
+      "end_sec": 280.57
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "部門が違いすぎるっすよ。全世界で100万本売れたとも言われてて、3DOのソフトでは別格の存在っす。",
+      "news_index": 3,
+      "start_sec": 280.72,
+      "end_sec": 287.64
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "あとこの作品、業界の大事件にもつながってるっす。プレイステーション版の初回出荷が想定よりだいぶ絞られて、飯野さんが猛烈に怒ったんすよ。",
+      "news_index": 3,
+      "start_sec": 287.72,
+      "end_sec": 296.94
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "怒って、どうしたのだ？",
+      "news_index": 3,
+      "start_sec": 297.09,
+      "end_sec": 298.84
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "ソニー側の発表会の壇上で、次回作のエネミー・ゼロをセガサターンに移すって発表したっす。敵地のステージのど真ん中で、っすよ。",
+      "news_index": 3,
+      "start_sec": 298.99,
+      "end_sec": 307.53
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "敵地で移籍宣言……。プロレスでもなかなか見ない展開なのだ。",
+      "news_index": 3,
+      "start_sec": 307.68,
+      "end_sec": 312.24
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "エネミー・ゼロ事件って語り継がれてるっす。要するに、信念のためなら巨大企業とも真っ向勝負するかただったって話っす。",
+      "news_index": 3,
+      "start_sec": 312.39,
+      "end_sec": 320.15
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "破天荒だけど、筋が通ってるのだ。ちょっとかっこいいじゃん。",
+      "news_index": 3,
+      "start_sec": 320.3,
+      "end_sec": 324.16
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "飯野さんは2013年に42歳で亡くなったっす。でも今も功績を振り返る記事が出続けてる、愛されたクリエイターっすよ。",
+      "news_index": 3,
+      "start_sec": 324.31,
+      "end_sec": 332.05
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "作品がこうして語り継がれてるのが、なによりの証拠なのだ。",
+      "news_index": 3,
+      "start_sec": 332.2,
+      "end_sec": 336.12
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "移植の話もしとくっす。同じ1995年のうちにセガサターン版とプレイステーション版が出て、そっちで遊んだ人も多いっす。",
+      "news_index": 4,
+      "start_sec": 336.27,
+      "end_sec": 344.24
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "3DO本体を持ってた人のほうが少なそうだしね。いまから遊ぶ手段はあるのだ？",
+      "news_index": 4,
+      "start_sec": 344.39,
+      "end_sec": 349.97
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "いまはSteamで買えるっす。海外の会社が復刻してくれてて、パソコンで遊べるっすよ。",
+      "news_index": 4,
+      "start_sec": 350.12,
+      "end_sec": 355.43
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kangae",
+      "text": "ただ正直に言うと、いま遊ぶと移動は遅いし、操作もじれったいっす。そこは覚悟してほしいっす。",
+      "news_index": 4,
+      "start_sec": 355.51,
+      "end_sec": 361.94
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "さっきまで褒めてたのに、急に正直じゃん。",
+      "news_index": 4,
+      "start_sec": 362.09,
+      "end_sec": 364.86
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "愛があるから正直に言うんすよ。それでも、あの張り詰めた空気と映像の執念は、いま見ても本物っす。",
+      "news_index": 4,
+      "start_sec": 365.01,
+      "end_sec": 371.49
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "要するに、快適さは期待するな、でも体験は唯一無二ってことなのだ？",
+      "news_index": 4,
+      "start_sec": 371.64,
+      "end_sec": 376.75
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "その一行が正解っす、さすが先輩っす！ハマるかたにはとことんハマる、カルトにして偉大な一本っすよ！",
+      "news_index": 4,
+      "start_sec": 376.9,
+      "end_sec": 383.48
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "実機でクリアしたオタクくんがいたら、ガチで同志っす。あの緊張の記憶は一生モノっすから。",
+      "news_index": 4,
+      "start_sec": 383.56,
+      "end_sec": 389.1
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "hisohiso",
+      "text": "リスナーの皆、挑戦するなら2時間の使い方は計画的に、なのだ。",
+      "news_index": 4,
+      "start_sec": 389.25,
+      "end_sec": 394.46
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そろそろ締めっすね。今回は『Dの食卓』、みっちり語ったっす！",
+      "news_index": 5,
+      "start_sec": 394.61,
+      "end_sec": 399.16
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "結局、最後まで豪華ディナーの話は出てこなかったのだ……。食卓はどこにあるのだ……。",
+      "news_index": 5,
+      "start_sec": 399.31,
+      "end_sec": 407.46
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "そこは遊んで確かめてほしいっす、ってことにしとくっす。タイトルの意味を考えるのも、この作品の楽しみっすから。",
+      "news_index": 5,
+      "start_sec": 407.61,
+      "end_sec": 414.87
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "ボクも覚悟を決めて、2時間の一発勝負に挑戦してみたいのだ！",
+      "news_index": 5,
+      "start_sec": 415.02,
+      "end_sec": 419.86
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "また旅の道ラジオで会うっすよ！オタクくんも、ばいばいっす！",
+      "news_index": 5,
+      "start_sec": 420.01,
+      "end_sec": 423.75
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "またなのだー！",
+      "news_index": 5,
+      "start_sec": 423.9,
+      "end_sec": 424.91
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 425.61,
+      "end_sec": 433.31
+    }
+  ],
+  "wall_time_sec": 13.65,
+  "audio_url": "/audio/indie/20260814_050708.mp3?v=1786653004"
+}
