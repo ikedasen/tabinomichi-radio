@@ -1,0 +1,651 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-08-16T20:15:24.492295+00:00",
+  "title": "見張りが止まっていた一年 〜中の人がいたAIと、溶けるコネクタ〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便。テックニュースの回、四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝もテックの話、軽くサクッといくのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今朝は五本。安全まわりの話が二本と、笑える話が二本、あとはお財布と手元の話ね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "笑えるやつが二本もあるじゃん! 朝からうれしいのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ただ一本目は、そこそこ肝が冷えるやつよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、いきなり冷やしにくるのだ!?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "冷えたほうが夏はありがたいでしょ。じゃあ一本目、行くわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "行くのだー!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "アンソロピックが八月十六日に、安全性の報告書を出したの。中身がなかなかよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "報告書? テストの答案を自己採点するやつみたいなの?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "まさにその自己採点ね。危ない質問を弾く仕組みが、一年近く止まってたって書いてあったの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "止まってた!? ブレーカーが落ちてたってこと!?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "感覚としては近いわ。生物兵器とか化学兵器まわりの質問を止める、専用のフィルターね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、いちばん止まっちゃダメなやつじゃん!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "期間は去年の五月から今年の四月まで。その間に、外部の委託作業者およそ5万人が、1億3,300万件のやり取りをフィルター無しで回してたの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "1億3,300万!? ボクが一秒に一件ずつ数えても、四年たっても終わらないやつじゃん!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "数えなくていいわよ。調べた限り、実際に悪用された証拠は出てこなかったって言ってる。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあセーフってこと?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "結果オーライってだけよ。外部の業者側の身元チェックが「しばしば不十分だった」って、自分で認めてるもの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "鍵が開けっぱなしでしたけど泥棒は来ませんでした、って言ってるようなもんじゃん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今のが今朝いちばん正確な要約。よくできました。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、ボクたちには何が関係あるのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "「安全対策やってます」って発表と、それが動き続けてるかは別問題ってこと。看板より点検よ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "じゃあ二本目。ここで一気に空気を軽くするわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "待ってたのだ、笑えるやつ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "サンフランシスコの街なかに、七月の下旬から大きな看板が立ってたの。「AIが動かす最先端のチャット」って宣伝でね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ふつうの広告じゃん。どこがおかしいの?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "中を開けたら、AIが一体もいなかったのよ。男のかたが一人、スマホで全部手打ちで返信してたの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "手打ち!? おそば屋さんじゃないんだから!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "うまいこと言うわね。作ったのはスタンフォード出身で、グーグルにもいたアーティストのかたよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "それ、ウソつきってことにならないのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこが上手いの。看板の「AI」は人工知能じゃなくて、「平均的な一般人」の頭文字だって言い張ってるのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "屁理屈じゃん! でもちょっと好きなのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "看板代は6,000ドル、日本円だとおよそ94万円ね。全部ポケットマネーで打った現代アートですって。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "94万!? 看板一枚で、ボクのお小遣い十年分が消し飛ぶやつじゃん!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "あなたのお小遣い、思ったより手ごろね。ピーク時は一日およそ1,000人を、たった一人でさばいてたそうよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "一日1,000人……途中で指がちぎれるのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "案の定、限界がきて悲鳴をあげてるわ。狙いは「AIって書いてあるだけで、みんな信じちゃうよね」って皮肉ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "言われてみたら、ボクも中身を確かめたことないのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこがこの話の効きどころ。「AI搭載」の四文字、意外と誰も検品してないのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "三本目、また安全の話に戻るわ。短く行くわよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "朝の重い話は、短いのがいちばんなのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "オープンエーアイが七月に、安全部門の体制を組み替えたの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "どんなチームだったのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "モデルの拒否動作や安全評価などを担う、安全システム部門ね。生物やサイバーの壊滅的リスクを評価するプリペアドネス部門とは別よ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、それこそ残しておく側じゃん!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "会社の言い分はこう。「無くしたんじゃなくて、開発チームの中に織り込んだ」ですって。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "要するに、みんなに配り直したってことなのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、安全部門は研究担当の幹部のもとへ移されて、責任者だったヨハネス・ハイデッケは会社を離れたわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "それ、いい話なのか悪い話なのか分からないのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "判断が割れるところよ。専門の見張り役を置くか、全員に見張らせるか、っていう設計思想の違いだから。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、掃除当番を決めるか、気づいた人がやるか、みたいなやつじゃん!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "その比喩、今朝いちばんよ。気づいた人がやる方式は、たいてい誰もやらないの。",
+      "news_index": 3,
+      "reading": "そのひゆ、けさいちばんよ。キヅイタヒトガヤルホウシキワ、たいていダレモヤラナイノ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクの部屋がまさにそれなのだ……。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、使う側にできるのはね。派手な新機能の発表より、こういう地味なお知らせを覚えておくことよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "四本目、やっと手元とお財布の話。自作のパソコンをやってるかた、耳を寄せて。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "待ってたのだ、ボクにも触れるやつ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "グラボに挿す新しい電源コネクタが、溶けるって話がずっと続いてるの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "溶ける!? プラスチックが!?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "焦げて溶けるのよ。その理由の解説が、あらためて整理されてたわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "なんで溶けるのだ? 電気って、そんなに熱くなるものだっけ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "細い線に大きな電流を流すと熱を持つの。今のコネクタは、一本で600ワットまで流す設計よ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "600ワット……それって、多いほうなの?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "コネクタの定格上限が600ワットで、最上位のグラボはそこにかなり近い電力を使うの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "レンジ!? そりゃ溶けるじゃん!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "溶ける側の理屈が分かってきたじゃない。厄介なのはコネクタの構造でね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "構造?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ピンが何本も並んでるんだけど、一本でも接触が甘いと、残りのピンに電気が集中しちゃうの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、テーブルの脚が一本浮いてると、残りの三本に体重が乗るやつじゃん!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "それでいいわ。旧型では「半挿し」が大きな原因とされたけど、改良版でも電流の偏りなどによる焼損報告が続いてるのよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "改良はされてないのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "されてるわ。改良版は電力用のピンを0.25ミリ伸ばし、検知用のピンを短くして、半挿しでは大きな電力を要求しにくい構造になってるの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "じゃあ、もう安心じゃん。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "それがね、今の最上位のグラボは消費電力が575ワット。上限600ワットにベタ付けだから、焼けた報告はまだ出てるのよ。",
+      "news_index": 4,
+      "reading": "それがね、いまのさいじょういのグラボはしょうひでんりょくが575ワット。じょうげん600ワットにベタづけだから、ヤケタホーコクハマダデテルノヨ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "上限ギリギリで毎日走らせてるってことじゃん!",
+      "news_index": 4,
+      "reading": "じょうげんギリギリでマイニチハシラセテルッテコトジャン!"
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "だからリスナーへの結論は一行ね。「電源を切って、すき間がないところまでまっすぐ挿し、コネクタの近くでケーブルを強く曲げない」、まずはこれを守って。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ボク、帰ったらすぐ挿し直すのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "じゃあラスト五本目。今朝いちばん明るいやつでしめるわ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "待ってましたなのだー!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "アメリカの航空局が、ゲーマーを狙って航空管制官の募集をかけたの。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "管制官!? あの、飛行機に指示を出す人!?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、空の交通整理ね。四月十一日にキャンペーンを始めて、八月十日に結果が出たわ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、集まったの?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "募集全体では2,000人以上を採用して、年間目標の94パーセントに過去最速で到達したって。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "2,000人! ゲームやってたら、空の仕事に就いちゃったってこと!?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "「やってたら」は言い過ぎ。採用後も厳しい訓練と選抜があるし、採用された全員が管制官として認定されたわけじゃないわ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "なんでゲーマーを狙ったのだ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "求められる力が近いのよ。とっさの判断、集中を切らさないこと、複数の情報を同時にさばくこと。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、それ全部、ボクが夜中にやってるやつじゃん!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "あなたのは寝不足って言うのよ。声をかけた相手も、対戦ゲームをやってる層ね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ボクが気になるのは、お給料なのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "航空管制官の平均年収はおよそ14万ドルで、募集広告では三年後に平均15万5,000ドルと案内してたわ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "2,200万!? 親に胸を張るどころか、親のほうが応募してくるやつじゃん!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "背景は深刻でね。この十年で人員が6パーセント減って、慢性的な人手不足だったの。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "困ってたところに、意外な人材が隠れてたってことなのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そこが好きなのよ。「役に立たない趣味」って言われてたものが、いきなり求人票に載ったんだから。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ボクの夜更かしにも、いつか値段がつくのだ!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "つくとしたら請求書のほうよ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで今朝は五本。止まってたフィルター、中の人がいたチャット、それと安全チームの解散。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "あと、溶けるコネクタと、ゲーマーの管制官なのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "気になったやつがあったら、あとで調べてみて。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ボクの宿題は決まったのだ。帰ったらパソコンの中を確認するやつ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "感電しない範囲でね。電源は抜いてからよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "旅の道ラジオ朝便、また明日のテックの話でお会いするのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今日も一日、ほどほどにね。おつかれさま。",
+      "news_index": 0
+    }
+  ],
+  "program_description": "テック朝便、今朝は五本立て。アンソロピックが公表した安全性の報告書で、危険な質問を弾くフィルターが一年近く止まっていた話から。次はサンフランシスコの街に立った「最先端AIチャット」の看板、その中身が男のかたひとりの手打ち返信だったという現代アート。三本目はオープンエーアイが壊滅的リスクを見張る専門チームを解散させた件を短めに。四本目は自作パソコン勢に効く話で、グラボの電源コネクタが溶ける理由と、今日から効く一行の対策。締めはアメリカの航空局がゲーマーを狙って航空管制官を募集し、2,000人以上の採用に成功した明るいニュース。通勤通学のおともにどうぞ。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20260817_051524_chars.webp",
+    "hero_rel": "/images/topics/tech_20260817_051524.webp",
+    "title": "見張りが止まっていた一年 〜中の人がいたAIと、溶けるコネクタ〜",
+    "companies": [
+      "OpenAI",
+      "Claude"
+    ]
+  },
+  "summary_short": "今朝はまずアンソロピック自身の告白から。危険な質問フィルターが約一年停止していたと判明し、続いてSFの「AIチャット」看板が実は男性の手打ちだった皮肉なアート、オープンエーアイの壊滅的リスク監視チーム解散、グラボ電源溶解の原因と対策、ゲーマー狙いの航空管制官採用まで一気にお届け。"
+}

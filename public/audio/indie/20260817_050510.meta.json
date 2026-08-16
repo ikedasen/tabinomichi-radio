@@ -1,0 +1,916 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-08-17T05:05:10+09:00",
+  "title": "空にいる少女を探して 〜AIRという夏の奇跡〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 503.89,
+  "script_hash": "sha256:0a2ef2f1a136627a0862261d525ea32b2ac4f6e82ae14cbfb03cca834d01692f",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 6.47
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "旅の道ラジオへようこそなのだ！パーソナリティのずんだもんなのだー！",
+      "news_index": 0,
+      "start_sec": 6.47,
+      "end_sec": 10.94
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "ちっす！後輩の春日部つむぎっす！今回もレトロゲーはあーしが担当するっすよー！",
+      "news_index": 0,
+      "start_sec": 11.09,
+      "end_sec": 16.33
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "またまたつむぎの回なのだ！で、今回のお題はなんなのだ？",
+      "news_index": 0,
+      "start_sec": 16.48,
+      "end_sec": 20.64
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "今回のテーマは『AIR』っす！Keyが2000年に世に出した、泣きゲーの頂点って呼ばれる夏の物語っす！",
+      "news_index": 1,
+      "start_sec": 20.79,
+      "end_sec": 27.98
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "エアーって、空気を紹介する回なのだ？ボク、深呼吸のコーナーが始まるのかと思ったのだ",
+      "news_index": 1,
+      "start_sec": 28.13,
+      "end_sec": 34.48
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "ラジオで空気を紹介してどうするんすか先輩 w。れっきとしたゲームのタイトルっすよ",
+      "news_index": 1,
+      "start_sec": 34.63,
+      "end_sec": 39.4
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "AIRはKanonに続くKeyの第2作っす。2000年9月8日に、パソコン向けに発売されたっす",
+      "news_index": 1,
+      "start_sec": 39.48,
+      "end_sec": 45.4
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "2000年って、ミレニアムで世界が浮かれてた年なのだ。ノストラダムスの予言が外れた直後なのだ",
+      "news_index": 1,
+      "start_sec": 45.55,
+      "end_sec": 51.72
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "先輩そのまとめ、雑だけどだいたい合ってるっす w。要するに26年前の夏に生まれた作品ってことっすね",
+      "news_index": 1,
+      "start_sec": 51.87,
+      "end_sec": 58.56
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "26年前……ボクがまだ枝豆にもなってない時代なのだ",
+      "news_index": 1,
+      "start_sec": 58.71,
+      "end_sec": 62.7
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "開発はKeyってブランドで、販売元はビジュアルアーツっす。ファンは鍵っ子って呼ばれてるっすよ",
+      "news_index": 1,
+      "start_sec": 62.85,
+      "end_sec": 68.68
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "キーって、鍵屋さんの副業なのだ？合鍵を作る合間にゲームを作ったのだ？",
+      "news_index": 1,
+      "start_sec": 68.83,
+      "end_sec": 74.33
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "鍵屋じゃないっす w。まあ、心の鍵を開けてくるブランドって意味なら、あながち間違いでもないんすけどね",
+      "news_index": 1,
+      "start_sec": 74.48,
+      "end_sec": 80.58
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "当時の定価は初回限定版で8,800円っす。当時のパソコンゲームとしては標準的な値段っすね",
+      "news_index": 1,
+      "start_sec": 80.66,
+      "end_sec": 87.21
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "8,800円って、ずんだ餅が880本も買えるのだ！？",
+      "news_index": 1,
+      "start_sec": 87.36,
+      "end_sec": 92.54
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "餅を単価10円で数えるのやめるっす w。あーしの当時のお年玉スケールだと、ガチで手が出ない値段っす",
+      "news_index": 1,
+      "start_sec": 92.69,
+      "end_sec": 98.91
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ところでさっきから出てる泣きゲーってなんなのだ？玉ねぎを刻みながら遊ぶゲームなのだ？",
+      "news_index": 1,
+      "start_sec": 99.06,
+      "end_sec": 104.68
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "違うっす w。遊んだ人が本気で号泣しちゃう、感動特化のゲームジャンルのことっす",
+      "news_index": 1,
+      "start_sec": 104.83,
+      "end_sec": 109.99
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ゲームで泣くなんて大げさなのだ。ボクは絶対に泣かない自信があるのだ",
+      "news_index": 1,
+      "start_sec": 110.14,
+      "end_sec": 115.06
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "その宣言、経験者の前でやると生温かい目で見られるっすよ先輩",
+      "news_index": 1,
+      "start_sec": 115.21,
+      "end_sec": 119.83
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "実際AIRは、いまだにメディアで傑作とか泣きゲーの代表格って紹介される作品っす。要するにジャンルの頂点ってことっす",
+      "news_index": 1,
+      "start_sec": 119.91,
+      "end_sec": 127.44
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "頂点かあ……ハードルが上がりきったのだ。早く本編の話が聞きたいのだ",
+      "news_index": 1,
+      "start_sec": 127.59,
+      "end_sec": 132.48
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "ここから本編の話っす。主人公は国崎往人、人形を操る芸で日銭を稼ぎながら旅を続ける青年っす",
+      "news_index": 2,
+      "start_sec": 132.63,
+      "end_sec": 140.01
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "人形使いって、腹話術で営業してまわる会社員みたいなものなのだ？",
+      "news_index": 2,
+      "start_sec": 140.16,
+      "end_sec": 145.02
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "惜しいようで全然違うっす w。手を触れずに人形が動く、種も仕掛けもない不思議な芸っす",
+      "news_index": 2,
+      "start_sec": 145.17,
+      "end_sec": 150.71
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "で、往人には旅の目的があるっす。母親から代々伝えられた、空にいる少女を探してるんすよ",
+      "news_index": 2,
+      "start_sec": 150.79,
+      "end_sec": 157.22
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "空にいる少女……飛行機で働いてるかたのことなのだ？",
+      "news_index": 2,
+      "start_sec": 157.37,
+      "end_sec": 160.99
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ロマンが急に求人になったっす w。そうじゃなくて、ずっと昔から伝わる言い伝えの中の存在っす",
+      "news_index": 2,
+      "start_sec": 161.14,
+      "end_sec": 167.19
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "言い伝えを追いかけて旅か……それだけで、もう切ない予感がするのだ",
+      "news_index": 2,
+      "start_sec": 167.34,
+      "end_sec": 171.73
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "その予感は正しいっす。で、往人が流れ着くのが、海辺の小さな田舎町っす",
+      "news_index": 2,
+      "start_sec": 171.88,
+      "end_sec": 177.43
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そこで出会うのがメインヒロインの神尾観鈴っす！口癖が、がお、と、にはは、の不思議な女の子っす！",
+      "news_index": 2,
+      "start_sec": 177.51,
+      "end_sec": 184.32
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "がお？つまりこうなのだ？がおーなのだ！",
+      "news_index": 2,
+      "start_sec": 184.47,
+      "end_sec": 187.68
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "先輩のは完全に恐竜っす w。観鈴のがおは、困った時にぽろっと出ちゃう、守りたくなる方のがおっす",
+      "news_index": 2,
+      "start_sec": 187.83,
+      "end_sec": 194.29
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "あと観鈴は、どろり濃厚ピーチ味っていう激甘ジュースが大好物っす。一般人には甘すぎて飲めないって設定っす",
+      "news_index": 2,
+      "start_sec": 194.37,
+      "end_sec": 201.61
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "激甘ジュース！ボクはずんだシェイク派だけど、それは一度飲んでみたいのだー！",
+      "news_index": 2,
+      "start_sec": 201.76,
+      "end_sec": 207.09
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ヒロインは他にもいて、霧島佳乃と遠野美凪。みんな、どこかに小さな不思議を抱えてるんすよ",
+      "news_index": 2,
+      "start_sec": 207.24,
+      "end_sec": 213.48
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "不思議だらけの町なのだ。夏の田舎町ってだけで、もう名作の匂いがするのだ",
+      "news_index": 2,
+      "start_sec": 213.63,
+      "end_sec": 218.84
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "その嗅覚は正しいっす w。要するに、旅人の往人が夏の町で少女たちの謎と向き合う物語ってことっすね",
+      "news_index": 2,
+      "start_sec": 218.99,
+      "end_sec": 226.02
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "あーしこの町の空気感が好きすぎて、夏が終わる頃になると、海辺の町へ一人で聖地っぽい旅に出るんすよ！",
+      "news_index": 2,
+      "start_sec": 226.1,
+      "end_sec": 232.73
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "一人で……？誘う友達がいないから、では決してないのだね？",
+      "news_index": 2,
+      "start_sec": 232.88,
+      "end_sec": 237.25
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "shirake",
+      "text": "……先輩。",
+      "news_index": 2,
+      "start_sec": 237.4,
+      "end_sec": 238.26
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "な、なんでもないのだ……一人旅は上級者のたしなみって言おうとしただけなのだ……",
+      "news_index": 2,
+      "start_sec": 238.41,
+      "end_sec": 245.19
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "コホン。話を戻すっすよ",
+      "news_index": 2,
+      "start_sec": 245.34,
+      "end_sec": 247.35
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "AIRの本編はちょっと特殊な作りで、DREAM編、SUMMER編、AIR編の三部構成になってるっす",
+      "news_index": 3,
+      "start_sec": 247.43,
+      "end_sec": 253.69
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "三部構成……映画の三部作を一本に詰め込んだみたいなものなのだ？",
+      "news_index": 3,
+      "start_sec": 253.84,
+      "end_sec": 258.6
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "近いっすね。しかもSUMMER編では、舞台がいきなり千年前に飛ぶんすよ",
+      "news_index": 3,
+      "start_sec": 258.75,
+      "end_sec": 263.23
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "夏休みの話かと思ったら千年前！？時間のスケールがバグってるのだー！",
+      "news_index": 3,
+      "start_sec": 263.38,
+      "end_sec": 269.91
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そのバグってる感じが仕掛けなんすよ。千年前の物語と現代の夏がどう繋がるか……ここがAIRの心臓部っす",
+      "news_index": 3,
+      "start_sec": 270.06,
+      "end_sec": 277.06
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "どう繋がるのだ？そこが一番聞きたいのだ！",
+      "news_index": 3,
+      "start_sec": 277.21,
+      "end_sec": 280.23
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kangae",
+      "text": "言えないっす。ここをしゃべったら、あーしは全国の鍵っ子に怒られるっす",
+      "news_index": 3,
+      "start_sec": 280.38,
+      "end_sec": 284.93
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "……リスナーには内緒で、ボクにだけこっそり教えてほしいのだ",
+      "news_index": 3,
+      "start_sec": 285.08,
+      "end_sec": 288.74
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "ラジオで内緒話は無理があるっすよ先輩 w。これは意地悪じゃなくて、優しさの沈黙っす",
+      "news_index": 3,
+      "start_sec": 288.89,
+      "end_sec": 294.45
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに、三部構成っていう構造そのものが泣かせの仕掛けになってる、そういう作品ってことっすね",
+      "news_index": 3,
+      "start_sec": 294.53,
+      "end_sec": 300.68
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "構造で泣かせるって、もう建築なのだ。それで、この仕掛けを作った人は誰なのだ？",
+      "news_index": 3,
+      "start_sec": 300.83,
+      "end_sec": 306.45
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "ここからガチで語らせてもらうっすけど、AIRは作った人たちと音楽の話を抜きにできないっす",
+      "news_index": 4,
+      "start_sec": 306.6,
+      "end_sec": 312.16
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "シナリオの中心は麻枝准。のちにCLANNADも手がける、泣きゲーの看板ライターっす",
+      "news_index": 4,
+      "start_sec": 312.24,
+      "end_sec": 317.48
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "シナリオの中心ってことは、泣かせの震源地はこの人なのだ？",
+      "news_index": 4,
+      "start_sec": 317.63,
+      "end_sec": 321.73
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そういうことっす。しかも麻枝准は音楽も書く人で、劇中の名曲、夏影はこの人の作曲っす",
+      "news_index": 4,
+      "start_sec": 321.88,
+      "end_sec": 328.48
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "シナリオも曲も書くって、文化祭を一人で全部回す実行委員みたいなものなのだ",
+      "news_index": 4,
+      "start_sec": 328.63,
+      "end_sec": 334.15
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "その例え、意外と的確っす w。で、絵を描いたのが原画の樋上いたる。あの透明感がAIRの空気を作ってるっす",
+      "news_index": 4,
+      "start_sec": 334.3,
+      "end_sec": 341.79
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そして主題歌、鳥の詩っす！歌はLia、作詞が麻枝准、作曲が折戸伸治っす！",
+      "news_index": 4,
+      "start_sec": 341.87,
+      "end_sec": 347.72
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "曲名まで空を飛んでるのだ。徹底してるのだ",
+      "news_index": 4,
+      "start_sec": 347.87,
+      "end_sec": 351.1
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "この曲、ファンの間じゃ冗談まじりに国歌って呼ばれてるくらいの伝説曲なんすよ",
+      "news_index": 4,
+      "start_sec": 351.25,
+      "end_sec": 356.16
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "国歌！？式典で流れて全員起立しちゃうレベルなのだ！？",
+      "news_index": 4,
+      "start_sec": 356.31,
+      "end_sec": 360.28
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "起立はしないっす w。それくらい体に染みてる人が多いってネタで、聴いたことないオタクくんはぜひ検索して聴いてみてほしいっす",
+      "news_index": 4,
+      "start_sec": 360.43,
+      "end_sec": 367.67
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "hisohiso",
+      "text": "ここだけの話、あーしカラオケで鳥の詩を完璧に歌えるようになるまで、一人で通い詰めたことがあるっす",
+      "news_index": 4,
+      "start_sec": 367.75,
+      "end_sec": 374.75
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "また一人なのだ……",
+      "news_index": 4,
+      "start_sec": 374.9,
+      "end_sec": 376.2
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "shirake",
+      "text": "……先輩、それ以上は戦争っすよ。",
+      "news_index": 4,
+      "start_sec": 376.35,
+      "end_sec": 379.02
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "歌が上手いのは良いことなのだ……尊敬なのだ……",
+      "news_index": 4,
+      "start_sec": 379.17,
+      "end_sec": 382.07
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "分かればいいんすよ w。要するに、脚本と絵と音楽が全部同じ方を向いて夏をやってるのが、AIRの強さってことっす",
+      "news_index": 4,
+      "start_sec": 382.22,
+      "end_sec": 389.53
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "AIRはもともと大人向けのパソコンゲームとして出たんすけど、翌2001年に全年齢版が出て、一気に広がったっす",
+      "news_index": 5,
+      "start_sec": 389.61,
+      "end_sec": 396.86
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "全年齢版……つまりそこからは、みんなの夏になったのだね",
+      "news_index": 5,
+      "start_sec": 397.01,
+      "end_sec": 401.11
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "いいまとめっすね先輩。同じ年にドリームキャスト版、翌年にプレステ2版も出て、家庭用でも遊べるようになったっす",
+      "news_index": 5,
+      "start_sec": 401.26,
+      "end_sec": 408.58
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "さらに2005年には、京都アニメーションのテレビアニメと、出崎統監督の劇場版が同じ年に公開されたっす",
+      "news_index": 5,
+      "start_sec": 408.66,
+      "end_sec": 416.03
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "テレビと映画が同じ年に！？アイドル並みの売れっ子なのだ",
+      "news_index": 5,
+      "start_sec": 416.18,
+      "end_sec": 419.97
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "テレビ版は映像の綺麗さが当時めちゃくちゃ話題になったっす。夏の光の描き方がガチで良いんすよ",
+      "news_index": 5,
+      "start_sec": 420.12,
+      "end_sec": 426.12
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "で、2025年にはフルボイスのHD版がスチームで配信されたっす。26年前の夏が、今も現役で遊べるんすよ",
+      "news_index": 5,
+      "start_sec": 426.2,
+      "end_sec": 434.3
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "つまり今から入っても間に合うってことなのだ！リスナーの皆、夏の宿題はAIRなのだ！",
+      "news_index": 5,
+      "start_sec": 434.45,
+      "end_sec": 440.21
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "宿題にしては重たい感情が返ってくるっすけどね w。要するに、移植とアニメで世代を超えて生き続けてる作品ってことっす",
+      "news_index": 5,
+      "start_sec": 440.36,
+      "end_sec": 447.74
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kangae",
+      "text": "あーし的にAIRは、夏の終わりに遊んでほしいんすよ。蝉の声が遠くなる頃に、いちばん効くやつっす",
+      "news_index": 6,
+      "start_sec": 447.82,
+      "end_sec": 454.5
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "分かる気がするのだ。夏の終わりって、理由もなく切ないのだ",
+      "news_index": 6,
+      "start_sec": 454.65,
+      "end_sec": 458.74
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "遊び終わったあと、観鈴の、にはは、って笑い声がずっと耳に残るんすよ。あれがAIRの余韻っす",
+      "news_index": 6,
+      "start_sec": 458.89,
+      "end_sec": 465.16
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "……ボク、絶対泣かない宣言をしたのに、もう自信がなくなってきたのだ",
+      "news_index": 6,
+      "start_sec": 465.31,
+      "end_sec": 472.19
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "玉ねぎ無しで泣く準備、しといた方がいいっすよ先輩 w",
+      "news_index": 6,
+      "start_sec": 472.34,
+      "end_sec": 476.06
+    },
+    {
+      "index": 84,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ハンカチじゃなくて、バスタオルを用意しておくのだ……",
+      "news_index": 6,
+      "start_sec": 476.21,
+      "end_sec": 479.36
+    },
+    {
+      "index": 85,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "ってことで、今回は夏の物語AIRをがっつり語ったっすー！オタクくんも、この夏の奇跡を体験してほしいっす！",
+      "news_index": 6,
+      "start_sec": 479.51,
+      "end_sec": 486.43
+    },
+    {
+      "index": 86,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボクも観鈴に会いに行くのだ！がおーなのだ！",
+      "news_index": 6,
+      "start_sec": 486.58,
+      "end_sec": 489.35
+    },
+    {
+      "index": 87,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "だからそれは恐竜の方のがおっす w。それじゃ、また旅の道ラジオで会うっすよー！",
+      "news_index": 6,
+      "start_sec": 489.5,
+      "end_sec": 494.32
+    },
+    {
+      "index": 88,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "またなのだー！",
+      "news_index": 6,
+      "start_sec": 494.47,
+      "end_sec": 495.49
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 496.19,
+      "end_sec": 503.89
+    }
+  ],
+  "wall_time_sec": 13.18,
+  "audio_url": "/audio/indie/20260817_050510.mp3?v=1786912050"
+}
