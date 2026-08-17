@@ -1,0 +1,577 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-08-17T20:19:23.064293+00:00",
+  "title": "気づかせない朝 〜AIが埋めた群衆と、甘くなる再生数〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "intro",
+      "text": "おはようございます、旅の道ラジオ朝便。四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝もテックの話、軽くいくのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今日はテックニュースの回ね。AIから半導体、手元のガジェットまで六本流していくわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "六本。通勤の途中で、全部入るのだ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "入るように短く切るから安心なさい。難しい言葉は、そのつど噛み砕くわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "じゃあボクは、分からない言葉が出たらすぐ手を挙げるのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "それが今日のあなたの仕事。じゃ、一本目いくわよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。ネットフリックスが、今年およそ300本の作品で生成AIを使ってたって認めたの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "300本!? ちょっと試してみた、って数じゃないじゃん!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "映画もドラマも含めて、今年だけでおよそ300タイトルに使われたのね。",
+      "news_index": 1,
+      "reading": "エイガもドラマもふくめて、ことしだけでおよそ300タイトルにツカワレタノネ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "どこに使ったのだ? まさか俳優さんの代わり?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこは違うわ。主に撮ったあとの仕上げで、群衆とか、昔の戦とか、風景の映像を作らせてるの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、後ろでワーッてしてる人たちのやつじゃん!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そう、その人だかり。本物を集めるとお金も時間もかかるところを、AIに埋めさせてるのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、どのくらい浮くのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ある歴史ものだと、17分ぶんの映像を、倍の速さで、半分の費用で仕上げたって。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "半分!? そりゃ、もう止まらないじゃん!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "止まらないでしょうね。ただ引っかかるのは、まとまった数字が公表されたのは、株主向けの手紙や決算説明の中ってこと。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "投資家向け!? 見る側には、どこにも出てないってこと?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "作品ごとの表示はないわ。今夜あなたが見る背景の人だかりも、もうAI製かもしれないってこと。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "確かめる方法が無いのが、いちばんモヤるのだ……。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そのモヤモヤ、覚えておきなさい。二本目いくわよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目。ハギングフェイス上の公開データを集計した、オープンモデルの統計が出たのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "はぎんぐふぇいす? ハグする顔?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "顔文字が由来ではあるわね。AIの中身を誰でも置いて、誰でも持って帰れる置き場よ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、AIの図書館みたいなやつじゃん!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "近いわ。その貸出記録を数えたら、中国製がぐんぐん伸びてたって話。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "どのくらい伸びてるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "アリババのクウェンってモデルが、今年七月末までで約20億4,500万回も持ち帰られてるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "20億!? 世界中の人が、四人に一人ずつ持って帰ってる勘定じゃん!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "一人が何度も落とすから、そこは単純じゃないけどね。もっと効くのは、そこから作られた改造版の数よ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "改造版? AIって、勝手にいじっていいのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "中身が公開されてるモデルはね。クウェン発の改造版は15万個以上で、グーグル系の1.8倍、メタ系の2.6倍。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "本家じゃなく、二次創作の数で勝負がついてるやつじゃん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "うまい例えね。しかも中国勢は、商売に使っても文句が出ない緩い条件で配ってる割合が高いの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ会社も、タダで組み込みやすいってことなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。あなたが日本語で使ってるAIサービスの土台が中国製、ってのも普通に起きてるわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目はお金の話。エヌビディアが、スペースエックスの株を210億ドルぶん持ってたって分かったの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "210億ドル!? チップ屋さんが、ロケット屋さんの株!?",
+      "news_index": 3,
+      "reading": "にひゃくじゅうおくどる!?チップやさんが、ろけっとやさんのかぶ!?"
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "その意外さが、今回の見どころね。八月十四日に出した持ち株の届け出で、表に出たのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "とどけで? 何を持ってるか、報告する決まりがあるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "大口の投資家はね。財布の中身を定期的に見せなさい、って制度があるの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、年に何回か家計簿を公開させられるやつじゃん!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "近いわ。で、その中身にロケット会社が入ってた。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "なんでチップ屋が、ロケット会社の株を持ってるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "元はAIの会社に100億ドル出資してたの。そこが二月にスペースエックスに買われて、株が入れ替わったのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "買った覚えのない株が、勝手に増えてたやつじゃん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "しかもエヌビディアの持ち株では、二番目に大きいの。一位はインテルの約300億ドルね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "二位はロケット会社で、一位は同じ半導体業界の会社じゃん!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "そこが今のAI業界よ。チップを売る側が、取引先や提携先の大株主にもなってる。その資金の輪っかは、投資判断を見るうえで要注意ね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四本目。ここで一気に、肩の力を抜くわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "待ってたのだ、笑えるやつ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "味の素が八月十六日に、公式のエックスに出した画像のことで謝ったの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "画像? 変なものでも写ってたのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "「ほんだし」の袋のラベルが、文字ごとぐにゃぐにゃに崩れてたのよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "自分ちの看板商品のラベルが崩れてる!? それ、いちばんやっちゃダメなやつじゃん!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "生成AIでの加工が原因ね。写真そのものは本物で、明るさや色合いをAIで直した結果、ラベルまで巻き込まれたの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "背景を直したかっただけで、商品まで作り直されちゃったのだ……。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "投稿が八月十四日で、謝ったのが十六日。確認が足りなかったって、正面から認めてるわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "AIって、頼んでないところまで気を利かせるやつじゃん。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そこよ。今やAIは写真加工の普通の道具だから、問われるのは「使ったか」じゃなくて「見直したか」なの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "つまり、最後は人が目で見ろってことなのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "天下の味の素でも抜けたんだから、あなたの資料もね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "五本目は手元の話。エクスジミーが八月十七日に、新しいよんケーのプロジェクターを日本で出すって発表したわ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "待ってたのだ、ボクにも買えるやつ!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "買えるかは、値段が出てから判断なさい。そこはまだ公表されてないの。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "値段が伏せられてるのが、いちばん怖いやつなのだ……。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三機種あって、明るさが4,800、6,000、7,000ルーメンね。上に行くほど、明るい部屋でも見えるってこと。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "るーめん? ラーメンの仲間じゃないよね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "麺じゃないわ。光の量の単位で、数字が大きいほど昼間のリビングでも戦えるの。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "プロジェクターって、部屋を真っ暗にする儀式がいるやつじゃん。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "その儀式を減らしにきたのが、今回ね。売り出しは九月中旬、マクアケでの先行販売から。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "壁いっぱいの画面で映画、ちょっと憧れるのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "テレビを買い替える前に、一度は候補に入れていい時代にはなったわ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあラスト六本目。来週から、ユーチューブの再生回数が一斉に増えるわよ。",
+      "news_index": 6,
+      "reading": "じゃあラストろっぽんめ。らいしゅうから、ユーチューブのサイセイカイスウガイッセイニフエルワヨ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "増える!? みんなが急に、見始めるってこと!?",
+      "news_index": 6
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "見る人は変わらないわ。数え方だけが変わるの。",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "今までは、どう数えてたのだ?",
+      "news_index": 6,
+      "reading": "いままでは、どうカゾエテタノダ?"
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "動画の形ごとにバラバラでね。短い縦の動画と普通の動画で、一回と認める基準が違ったのよ。",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "同じサイトの中に、物差しが二本あったのだ……。",
+      "news_index": 6
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "それを八月二十四日から、一本にそろえるって。再生が始まった時点で一回と数えるやり方ね。",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、最初の一秒で閉じても、一回に入るやつじゃん!",
+      "news_index": 6
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "入るわ。だから数字は跳ね上がるけど、中身が良くなったわけじゃないの。",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "出してる人の儲けも、増えるのだ?",
+      "news_index": 6
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "そこは据え置き。来週から見る「何万回再生」は今までより甘い数字だから、割り引いて見なさい。",
+      "news_index": 6
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで今朝は六本、ざっと流したわ。",
+      "news_index": 0,
+      "reading": "というわけでけさはロッポン、ざっとナガシタワ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ネットフリックスの群衆と、クウェンの改造版と、ロケットの株と……。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "あと、ぐにゃぐにゃのほんだしね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "正直、あれがいちばん記憶に残ってるのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "気になったやつがあったら、降りてから自分で調べてみて。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "旅の道ラジオ朝便、また明日のテックの回で会うのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "kamera",
+      "text": "四国めたんでした。今日も無理せず、いきましょ。",
+      "news_index": 0
+    }
+  ],
+  "program_description": "今朝のテックニュースは六本立て。ネットフリックスが今年およそ300本の作品で生成AIを使っていたと認めた話から、ハギングフェイスの統計に見える中国製AIモデルの猛烈な伸び、エヌビディアがスペースエックスの株を210億ドルぶん持っていたと分かった届け出、味の素が「ほんだし」のラベルをAI加工で崩してしまい謝罪した一件、エクスジミーの新しいよんケープロジェクター、そして八月二十四日から変わるユーチューブの再生回数の数え方まで。専門用語はそのつど噛み砕きつつ、どれもボクたちの財布と画面にどう効いてくるかまで話しています。通勤・通学のおともにサクッと聴ける回。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20260818_051923_chars.webp",
+    "hero_rel": "/images/topics/tech_20260818_051923.webp",
+    "title": "気づかせない朝 〜AIが埋めた群衆と、甘くなる再生数〜",
+    "companies": [
+      "NVIDIA",
+      "Netflix",
+      "Meta",
+      "Intel"
+    ]
+  },
+  "summary_short": "生成AI利用を認めたネットフリックスから中国製AIモデルの急伸、エヌビディアの巨額出資、味の素のAI加工謝罪騒動、変わるユーチューブの再生回数まで。ニュースの奥にあるお金と画面の変化をやさしく解説する一本。"
+}
