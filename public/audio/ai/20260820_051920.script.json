@@ -1,0 +1,544 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-08-19T20:19:20.704024+00:00",
+  "title": "借りものが返る朝 〜粒立つごはんと、開けられる箱〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便。四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今日もテックの話、軽くいくのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今朝は五本。AIの話から、スマホの電波、それにゲーム機の中身までね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ばらばらじゃん? それ、一本の番組として成立するの?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "通勤通学のあいだに、今のテック業界をざっくり掴んでもらう回よ。細かい話は全部捨てるわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "じゃあ一本目、いくのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ一本目。街の飲食店のポスターが、なんだか気持ち悪いって話が広がってるのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "気持ち悪い!? ボク、まだ朝ごはん前なのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "まさに朝ごはん前が効くやつね。AIで作ったっぽい料理の画像が、食欲を削ぐって言われてるの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "AIの絵って、きれいなのが取り柄じゃん? なんで食欲が減るのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "整いすぎてるのよ。白いごはんの粒がひと粒ずつくっきり立ってたり、揚げ物の衣が異様にザラザラしてたり。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "うわっ、想像したら口の中がザラッとしたのだ……。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "チーズが不自然に糸を引いてる例もあってね。八月十三日あたりから、エックスで一気に燃え広がったの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、それボクも見たことあるやつじゃん! やたらテカテカ光ってるやつ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "その光沢ね。人は食べ物の質感にものすごく敏感だから、ちょっとのズレで拒否反応が出るの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "でもさ、お店はなんでわざわざAIにするのだ? 料理を撮ればいいじゃん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "sexy",
+      "text": "たぶんお金と手間よ。撮影を頼むと費用がかかるし、トッピングを変えるたびに撮り直しになるでしょ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "タダで一瞬で出てくるなら、そりゃ使いたくなるのだ……。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "けど、見た人に食欲がわかないと思われたら本末転倒よね。要するに、制作費を抑えても広告として逆効果になりかねないって話。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ボクたちにできるのは、実物の写真を出してるお店をちゃんと選ぶことなのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そうね。AIが悪いというより、使いどころを間違えると逆効果って教訓。次いくわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目はちょっと硬いから、短くいくわよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "朝の硬い話は、短いのがいちばんなのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "アメリカの六つの政府機関が連名で、四月七日に出した警告を七月二十二日に更新したの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "警告? 何が危ないって言ってるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "工場や水道の機械を動かしてる、小さな制御用のコンピューターね。そこを狙って、イラン系とされる攻撃者がネットに直接公開された制御機器へ侵入してるって。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "AIが泥棒の道具を作っちゃったってこと!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "道具というより、下ごしらえね。高度な専用マルウェアより、公開された機器や弱い認証を突いて、正規の設定ソフトで書き換える手口が中心なの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "狙われてるのは、どういうところなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "電気、水道、化学、それに工場。とくに、ネットに直接つながってる機械が危ないって名指しされてるわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "水道が止まったら、朝のお味噌汁が作れないのだ……。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そこは落ち着きなさい。今回確認されたのはAIの自律攻撃じゃなくて、人間の攻撃者がネット公開された機器へ侵入した事例なの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、ボクたちが今日できることはあるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一般のかたに直接の対策はないわ。ただ、生活を支えてる設備の守りに、お金がかかる時代になったとだけ覚えておいて。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "守りにかかるお金って、めぐりめぐってボクたちの請求書に乗るやつじゃん……。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "察しがいいじゃない。はい、重い話はここまで。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目は、今朝いちばん不思議なやつ。AIに、自分に意識はないって言わせる調整の話よ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "調整? AIって、そんなの仕込まれてるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "一部の対話AIは、自分に意識や感情があるとは言わないよう、安全調整されてるの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、聞いたことあるのだ! 何回きいても同じこと言うやつ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "グーグル系の研究チームと大学が、その躾を外したらどうなるか実験したのよ。小さめのAIを使ってね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "外した!? AIが、ボクには心があるって言い出したってこと!?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこは想定内。驚いたのは、自分の話とは関係ない答えまで、まとめて変わっちゃったこと。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "え、関係なくない? どこがどう変わったのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "動物に心があると見る度合いが、10点満点で4点ほどから、安全機構を外すと5.6点、意識を肯定する方向へ操作すると7.5点まで上がったの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ほぼ倍じゃん! 心の話をしただけで、動物への態度まで動くのだ!?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そう。宗教や超自然的な信念への支持も一緒に上がって、ほかの価値観に関する答えまで動いたのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "なんでそんなことになるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "sexy",
+      "text": "心があるとみなす表現と安全調整が、モデル内部で絡み合ってる可能性があるの。ただ、本当にそこが原因かは今後の検証が必要よ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ネジを一本締めたら、机ごと傾いたみたいなやつじゃん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "いい比喩ね。要するに、安全のための小さな調整が、思わぬ範囲まで性格を変えちゃうって話。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクが毎日聞いてるAIの意見も、誰かの調整の副作用かもしれないのだ……。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこが今回の効いてくるところね。次いくわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "四本目、やっとスマホの話。楽天モバイルを使ってるかた、耳を寄せて。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "来たのだ、ボクの生活に直撃するやつ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "エーユーの電波を借りる今の契約が九月末で終わって、一部の地方では形を変えて提供が続くの。ケーディーディーアイの社長が、八月七日の決算会見で言い切ったわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "借りる? 楽天って、自分の電波じゃなかったのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "2019年に後から参入したから、電波が届かない場所はよそから借りてたのよ。それが七年たって、役目を終えたって判断ね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "七年!? ずっと間借りしてたのだ!?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "間借りというより、地図の穴埋めね。その穴を、これからは自分で塞ぐことになるの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ十月から、山とか地下でつながらなくなるってこと?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "全部が急に切れるわけじゃないわ。ケーディーディーアイは八月七日に、地方の一部では十月以降も一定期間、提供を続けると説明してる。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "都会は自前、田舎は交渉中ってことなのだね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。楽天は自分の基地局を増やすのと、衛星を使う通信を切り札にするって言ってるわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "衛星!? 空から直接スマホに届くやつなのだ!?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "その方向ね。ただ、実際にちゃんとつながるかは、十月以降に答えが出るわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "つまり、乗り換えを考えてるかたは、十月の様子を見てから決めるのが安全ってことなのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今の一行が正解。よく言えたじゃない。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあラスト五本目。今朝いちばん、手を動かしたくなるやつでしめるわ。",
+      "news_index": 5,
+      "reading": "じゃあラストゴホンメ。けさいちばん、テヲウゴカシタクナルヤツデシメルワ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "待ってたのだ、ボクにも触れるやつ!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "バルブが出した据え置き型のゲーミングパソコン、スチームマシンね。あれを分解して、中の記憶装置を交換できるか試した記事が出てるの。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "分解!? メーカーがいちばん嫌がるやつじゃん?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "それが、わりとあっさり開くのよ。中のエスエスディーは、差し替えられる作りになってるの。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、それって後から大容量のものへ交換できるってことじゃん!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこが今の時代に効くのよ。日本だと、容量が少ない方が189,980円、多い方が249,980円。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "24万円!? もうゲーム機の値段じゃないのだ!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "ゲーム機というよりパソコンね。しかも部品の値上がりが、そのまま値札に乗ったって説明されてるわ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "メモリと記憶装置の高騰、こんなところにも顔を出すのだ……。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "sexy",
+      "text": "だから、開けられることに価値が出るの。容量の少ない方を買って、あとで自分で大容量のエスエスディーへ交換する選択肢が残るでしょ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "買った後に育てられるって、ちょっと楽しそうなのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "保証がどうなるかだけは、確認してからやりなさい。以上、五本ね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで今朝は、AIのポスターから電波とゲーム機まで五本。",
+      "news_index": 0,
+      "reading": "というわけでけさは、AIのポスターからでんぱとげーむきまでごほん。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "気持ち悪いごはんの画像から、宇宙の衛星まで飛んだのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "振れ幅が朝から大きすぎるわね。気になったやつがあったら、通勤の続きで調べてみて。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "ボクは今日、お昼ごはんを実物の写真で選ぶのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そこに着地するのね。まあ、間違ってはいないわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "また明日のテック朝便で会いましょうなのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "旅の道ラジオ朝便、四国めたんでした。いってらっしゃい。",
+      "news_index": 0
+    }
+  ],
+  "program_description": "旅の道ラジオ朝便、テックニュースの回。まずは街の飲食店で増えてるAI製ポスターが食欲を削ぐと物議になってる話から。次にアメリカの政府機関が合同で出した、工場や水道の制御機器を狙う攻撃プログラムがAIで作られて出回ってるという警告。三本目はAIに意識はないと言わせる躾を外したら、動物への評価や信念まで丸ごと変わってしまったという研究。四本目は楽天モバイルがエーユーの電波を借りる仕組みを九月末で終える話で、十月以降のつながりやすさをどう見るか。最後はバルブのスチームマシンを分解して記憶装置を交換できるかという、部品高騰の時代に効いてくるハードの話題をお届けしました。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20260820_051920_chars.webp",
+    "hero_rel": "/images/topics/tech_20260820_051920.webp",
+    "title": "借りものが返る朝 〜粒立つごはんと、開けられる箱〜"
+  },
+  "summary_short": "食欲を削ぐAI製ポスター論争から、水道や工場を狙うAI製サイバー攻撃の政府警告、本音を語り出すAIの意識実験、九月末に切れる楽天のエーユー借り電波問題、部品高騰時代のスチームマシン分解修理まで、暮らしと技術のきわどい今をまとめて届けます。"
+}
