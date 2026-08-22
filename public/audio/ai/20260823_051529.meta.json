@@ -1,0 +1,946 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-08-23T05:15:29+09:00",
+  "title": "出さないほうが強い 〜非公開の最強AIと、車が自分で作った脳〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 468.86,
+  "script_hash": "sha256:1d63db53d9f45237287ad92ddb180a3f69a8a762402dc8a1b8ca95a792f829d4",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 4.69
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便。テックニュースの回、四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 4.69,
+      "end_sec": 9.9
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今日も朝から、テックの話を軽くいくのだー!",
+      "news_index": 0,
+      "start_sec": 10.05,
+      "end_sec": 14.84
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今朝は四本。どれもひと言でいうと、表に出てないものの話ね。",
+      "news_index": 0,
+      "start_sec": 14.99,
+      "end_sec": 18.91
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "表に出てない? 秘密って意味なのだ?",
+      "news_index": 0,
+      "start_sec": 19.06,
+      "end_sec": 21.84
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "秘密もあれば、隠してないのに誰も見てない、ってのもあるわ。",
+      "news_index": 0,
+      "start_sec": 21.99,
+      "end_sec": 25.77
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "どっちも、朝のうちに知っておくと得なやつ。通勤のお供にどうぞ。",
+      "news_index": 0,
+      "start_sec": 25.85,
+      "end_sec": 30.31
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "一本目から気になるやつじゃん! はやく!",
+      "news_index": 0,
+      "start_sec": 30.46,
+      "end_sec": 33.04
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。アンソロピックが八月十五日に出した報告書に、妙なことが書いてあったの。",
+      "news_index": 1,
+      "start_sec": 33.19,
+      "end_sec": 38.84
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "あんそろぴっく? 朝からいきなり噛みそうな名前なのだ。",
+      "news_index": 1,
+      "start_sec": 38.99,
+      "end_sec": 42.7
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "クロードってAIを作ってる会社ね。いま広く提供されてる一番上等な看板は、フェイブル5。ミュトス5は、同じ基盤を使った制限付きのモデルね。",
+      "news_index": 1,
+      "start_sec": 42.85,
+      "end_sec": 52.74
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "その名前なら、ボクも聞いたことあるのだ。",
+      "news_index": 1,
+      "start_sec": 52.89,
+      "end_sec": 55.56
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "その上に、外へ出してないモデルが社内にいるって、自分から書いたのよ。名前はモデル・ツー。",
+      "news_index": 1,
+      "start_sec": 55.71,
+      "end_sec": 61.31
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "出してない!? 一番強いのを、隠し持ってるってこと!?",
+      "news_index": 1,
+      "start_sec": 61.46,
+      "end_sec": 65.4
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "隠すというか、社内では普通に使ってるわ。ミュトス5と並べてね。",
+      "news_index": 1,
+      "start_sec": 65.55,
+      "end_sec": 69.91
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、それってあれじゃん! お店には出さないで、店員だけで食べてる賄いのやつ!",
+      "news_index": 1,
+      "start_sec": 70.06,
+      "end_sec": 75.34
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "その例え、悪くないわね。しかも味は賄いのほうが上って、会社が自分で言ってるの。",
+      "news_index": 1,
+      "start_sec": 75.49,
+      "end_sec": 80.81
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "どのくらい上なのだ? 桁違いに強いってこと?",
+      "news_index": 1,
+      "start_sec": 80.96,
+      "end_sec": 84.37
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこが渋いところ。飛び抜けてはいなくて、やや上、って書き方なの。",
+      "news_index": 1,
+      "start_sec": 84.52,
+      "end_sec": 88.83
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、なんで出さないのだ? 少しでも強いなら、売ればいいじゃん。",
+      "news_index": 1,
+      "start_sec": 88.98,
+      "end_sec": 93.45
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ただ、アンソロピックは外へ出さない理由を、安全審査で失格したからとは説明してないの。研究用に作る探索的なモデルの一つで、いまは公開予定がないって話ね。",
+      "news_index": 1,
+      "start_sec": 93.6,
+      "end_sec": 104.76
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、じゃあ会社の中では、危ないまま動かしてるってこと!?",
+      "news_index": 1,
+      "start_sec": 104.91,
+      "end_sec": 109.28
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "社内で重く使われてるのは確かよ。ただ、一段上がったのはモデルの運用区分じゃなくて、深刻な場面での不整合リスクについての会社全体の見積もりね。",
+      "news_index": 1,
+      "start_sec": 109.43,
+      "end_sec": 119.03
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "上げましたって正直に書いたの、かえって怖いのだ……。",
+      "news_index": 1,
+      "start_sec": 119.18,
+      "end_sec": 123.52
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに、公開モデルより少し強い社内モデルはあるけど、それを製品として出す予定はいまのところない、って話。",
+      "news_index": 1,
+      "start_sec": 123.67,
+      "end_sec": 130.71
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ボクが毎日さわってるの、二番目だったのだ……。",
+      "news_index": 1,
+      "start_sec": 130.86,
+      "end_sec": 134.31
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "しょげないの。公開されてるモデルにも、それぞれ安全性や使いやすさを考えた調整が入ってるのよ。",
+      "news_index": 1,
+      "start_sec": 134.46,
+      "end_sec": 141.2
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "なるほど。賄いは、お店の人が食べればいいのだ。",
+      "news_index": 1,
+      "start_sec": 141.35,
+      "end_sec": 144.84
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目。オープンエーアイの中で、権力が静かに動いてたって話ね。",
+      "news_index": 2,
+      "start_sec": 144.99,
+      "end_sec": 149.45
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "けんりょく? 会社って、一番偉い人がひとりいるだけじゃん?",
+      "news_index": 2,
+      "start_sec": 149.6,
+      "end_sec": 153.84
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "向こうは違うのよ。看板の顔は、いまもサム・アルトマン。",
+      "news_index": 2,
+      "start_sec": 153.99,
+      "end_sec": 157.51
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "知ってるのだ! いつも黒い服の人じゃん!",
+      "news_index": 2,
+      "start_sec": 157.66,
+      "end_sec": 160.26
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "服は今日の話に関係ないわ。動いたのは、共同創業者で社長のグレッグ・ブロックマンのほう。",
+      "news_index": 2,
+      "start_sec": 160.41,
+      "end_sec": 166.59
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "社長? さっき一番偉いのは別の人だって言ってたじゃん!",
+      "news_index": 2,
+      "start_sec": 166.74,
+      "end_sec": 171.75
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "向こうの会社は、最高経営責任者と社長が別の椅子なの。日本の感覚だと、ややこしいわね。",
+      "news_index": 2,
+      "start_sec": 171.9,
+      "end_sec": 178.58
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "椅子が二つ!? ボク、どっちに話しかければいいのだ!",
+      "news_index": 2,
+      "start_sec": 178.73,
+      "end_sec": 182.36
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そのブロックマンが、チャットジーピーティーの製品側も、売る側の部隊も、まとめて見るようになったのよ。",
+      "news_index": 2,
+      "start_sec": 182.51,
+      "end_sec": 188.71
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "なんで一人に集まっちゃったのだ?",
+      "news_index": 2,
+      "start_sec": 188.86,
+      "end_sec": 191.15
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "フィジー・シモが四月に療養へ入ったとき、ブロックマンがまず製品部門を引き継いだの。その後、シモが七月九日に退任して、担当がさらに集まった形ね。",
+      "news_index": 2,
+      "start_sec": 191.3,
+      "end_sec": 201.4
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "じゃあ、押しつけられたほうじゃん……。",
+      "news_index": 2,
+      "start_sec": 201.55,
+      "end_sec": 204.21
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "押しつけと出世は、だいたい同じ顔してるわ。",
+      "news_index": 2,
+      "start_sec": 204.36,
+      "end_sec": 207.01
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "うわ、朝から刺さること言うじゃん。",
+      "news_index": 2,
+      "start_sec": 207.16,
+      "end_sec": 209.68
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "で、私たちに効くのはここ。製品を決める人が代わると、次に出てくる機能の性格まで変わるの。",
+      "news_index": 2,
+      "start_sec": 209.83,
+      "end_sec": 216.42
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ボクのチャット画面が、勝手に模様替えされちゃうってこと!?",
+      "news_index": 2,
+      "start_sec": 216.57,
+      "end_sec": 220.48
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。秋ごろに何を出してくるかで、この人の人柄が見えるわね。",
+      "news_index": 2,
+      "start_sec": 220.63,
+      "end_sec": 225.13
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "模様替えで、ボクの好きなボタンが消えないことを祈るのだ。",
+      "news_index": 2,
+      "start_sec": 225.28,
+      "end_sec": 229.17
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目はちょっと硬いから、短くいくわよ。",
+      "news_index": 3,
+      "start_sec": 229.32,
+      "end_sec": 232.23
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "朝の硬い話は、短いのがいちばんなのだ。",
+      "news_index": 3,
+      "start_sec": 232.38,
+      "end_sec": 235.57
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "カリフォルニア州に、今年の一月一日から動いてるAIの法律があるの。エスビー・ゴジュウサンってやつ。",
+      "news_index": 3,
+      "start_sec": 235.72,
+      "end_sec": 242.41
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "法律? AIって、もう法律で縛られる側なのだ?",
+      "news_index": 3,
+      "start_sec": 242.56,
+      "end_sec": 246.68
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "大きなAI企業に安全方針を公開させて、危ない出来事は州に報告させる決まりね。",
+      "news_index": 3,
+      "start_sec": 246.83,
+      "end_sec": 252.75
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、社内で異変に気づいた人を守るやつも、たぶん入ってるでしょ?",
+      "news_index": 3,
+      "start_sec": 252.9,
+      "end_sec": 257.58
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "入ってるわ。で、面白いのはここから。オープンエーアイは去年、州独自の規制をそのまま重ねることには慎重で、国やヨーロッパの枠組みとの共通化を求めてたの。",
+      "news_index": 3,
+      "start_sec": 257.73,
+      "end_sec": 267.72
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "反対!? 縛られたくないから、ってこと!?",
+      "news_index": 3,
+      "start_sec": 267.87,
+      "end_sec": 270.97
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう読まれてたわね。ところが今週、その同じ会社が、もっと厳しくしろって言い出したのよ。",
+      "news_index": 3,
+      "start_sec": 271.12,
+      "end_sec": 276.63
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "真逆じゃん! 朝から頭がこんがらがるのだ!",
+      "news_index": 3,
+      "start_sec": 276.78,
+      "end_sec": 280.63
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "訓練中や試験中のモデルも監視の対象にしろ、開発の全工程で守りを固めろ、って中身。",
+      "news_index": 3,
+      "start_sec": 280.78,
+      "end_sec": 287.37
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "なんで急に、優等生になったのだ?",
+      "news_index": 3,
+      "start_sec": 287.52,
+      "end_sec": 290.38
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "方針転換の理由までは明言してないわ。ただ最近の安全問題を受けて、州法の強化にも協力する姿勢を示したのね。",
+      "news_index": 3,
+      "start_sec": 290.53,
+      "end_sec": 298.59
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "どうせ縛られるなら、自分で縄を選ぶってやつじゃん。",
+      "news_index": 3,
+      "start_sec": 298.74,
+      "end_sec": 302.38
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "察しがいいじゃない。要するに、先に決めたもん勝ちの陣取り合戦よ。",
+      "news_index": 3,
+      "start_sec": 302.53,
+      "end_sec": 306.77
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、ボクたちの暮らしはどうなるのだ?",
+      "news_index": 3,
+      "start_sec": 306.92,
+      "end_sec": 309.59
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "すぐには変わらないわ。ただ安全の報告が当たり前になれば、事故の話が表に出やすくなる。",
+      "news_index": 3,
+      "start_sec": 309.74,
+      "end_sec": 315.47
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "黙って隠されるより、ずっとマシなのだ。硬い話、おしまい!",
+      "news_index": 3,
+      "start_sec": 315.62,
+      "end_sec": 319.87
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "じゃあラスト四本目。今朝いちばん未来っぽいやつで、しめるわ。",
+      "news_index": 4,
+      "start_sec": 320.02,
+      "end_sec": 324.0
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "待ってたのだー! 明るいやつ!",
+      "news_index": 4,
+      "start_sec": 324.15,
+      "end_sec": 326.1
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ウェイモって、運転手のいないタクシーを街で走らせてる会社ね。グーグルと親会社が同じところ。",
+      "news_index": 4,
+      "start_sec": 326.25,
+      "end_sec": 332.11
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "運転手なし!? ハンドル、誰が回すのだ!?",
+      "news_index": 4,
+      "start_sec": 332.26,
+      "end_sec": 335.6
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "誰も回さないわよ。そのウェイモが、自分専用のチップを作ってたって公表したの。",
+      "news_index": 4,
+      "start_sec": 335.75,
+      "end_sec": 340.64
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ちっぷ? パソコンの中に入ってる、あの黒い四角い部品だっけ。",
+      "news_index": 4,
+      "start_sec": 340.79,
+      "end_sec": 345.41
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それ。ただ今回のは、車の目と耳のためだけに設計した専用品。製造元までは今回の発表で断定してないけど、ティーエスエムシーを含む複数の企業と組んで作ってるのよ。",
+      "news_index": 4,
+      "start_sec": 345.56,
+      "end_sec": 357.01
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "目と耳って、カメラのことなのだ?",
+      "news_index": 4,
+      "start_sec": 357.16,
+      "end_sec": 359.65
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "カメラと、電波で距離を測るやつと、光で形を測るやつ。それを全部いっぺんに処理するの。",
+      "news_index": 4,
+      "start_sec": 359.8,
+      "end_sec": 365.67
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "いっぺんに!? その車、目が何個ついてるのだ!",
+      "news_index": 4,
+      "start_sec": 365.82,
+      "end_sec": 369.35
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "専用チップ群の性能は、合わせて毎秒千兆回を超える計算。計算システム全体は二つの独立した系統で動いて、片方に異常が出れば、もう片方が引き継ぐ作りね。",
+      "news_index": 4,
+      "start_sec": 369.5,
+      "end_sec": 380.74
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "毎秒千兆回!? ボクが一生かけて数えても、一秒ぶんに届かないやつじゃん!",
+      "news_index": 4,
+      "start_sec": 380.89,
+      "end_sec": 386.54
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "sexy",
+      "text": "そこは正しく怖がっていいわ。人間の反応速度と、真正面で勝負してるんだから。",
+      "news_index": 4,
+      "start_sec": 386.69,
+      "end_sec": 393.38
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも、なんで自分で作ったのだ? 買ってくればいいじゃん。",
+      "news_index": 4,
+      "start_sec": 393.53,
+      "end_sec": 397.29
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "既製品は、届いたデータをまとめて一気にさばくのが得意なの。でも車は、ちょっとずつ来るのを即座に返したい。",
+      "news_index": 4,
+      "start_sec": 397.44,
+      "end_sec": 404.36
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、行列を作らせないで、一人ずつレジに通すやつじゃん!",
+      "news_index": 4,
+      "start_sec": 404.51,
+      "end_sec": 408.65
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "いい例えだわ。その一人ずつが速いほど、ブレーキを踏むのが早くなるの。",
+      "news_index": 4,
+      "start_sec": 408.8,
+      "end_sec": 413.62
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "命がかかってる速さなのだ……。",
+      "news_index": 4,
+      "start_sec": 413.77,
+      "end_sec": 416.01
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、私たちへの意味。AIのチップを自分で作る会社が、ついに車の側にも増えてきた、ってこと。",
+      "news_index": 4,
+      "start_sec": 416.16,
+      "end_sec": 422.88
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "エヌビディアから買うだけの時代じゃなくなるってこと?",
+      "news_index": 4,
+      "start_sec": 423.03,
+      "end_sec": 426.22
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "縁が切れたわけじゃないわよ。ウェイモも、よその部品と組み合わせて使ってるの。",
+      "news_index": 4,
+      "start_sec": 426.37,
+      "end_sec": 430.84
+    },
+    {
+      "index": 84,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "全部ひとりで抱えないで、いいとこ取りなのだ。",
+      "news_index": 4,
+      "start_sec": 430.99,
+      "end_sec": 433.99
+    },
+    {
+      "index": 85,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "はい、今朝は四本。どうだった?",
+      "news_index": 0,
+      "start_sec": 434.14,
+      "end_sec": 436.54
+    },
+    {
+      "index": 86,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ぜんぶ、出さない・言わない・見せないの話だった気がするのだ。",
+      "news_index": 0,
+      "start_sec": 436.69,
+      "end_sec": 441.05
+    },
+    {
+      "index": 87,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "言われてみればそうね。最強は非公開、権力の移動は静かに、法律は先回り。",
+      "news_index": 0,
+      "start_sec": 441.2,
+      "end_sec": 446.4
+    },
+    {
+      "index": 88,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "でも車のチップだけ、堂々と見せてたじゃん!",
+      "news_index": 0,
+      "start_sec": 446.55,
+      "end_sec": 449.49
+    },
+    {
+      "index": 89,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "あれは自慢していい類だからよ。気になったやつがあったら、あとで調べてみて。",
+      "news_index": 0,
+      "start_sec": 449.64,
+      "end_sec": 454.44
+    },
+    {
+      "index": 90,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "旅の道ラジオ朝便、今日もいってらっしゃいなのだー!",
+      "news_index": 0,
+      "start_sec": 454.59,
+      "end_sec": 458.06
+    },
+    {
+      "index": 91,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "行ってらっしゃい。また明日のテック朝便で。四国めたんでした。",
+      "news_index": 0,
+      "start_sec": 458.21,
+      "end_sec": 462.12
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 462.82,
+      "end_sec": 468.86
+    }
+  ],
+  "wall_time_sec": 13.76,
+  "audio_url": "/audio/ai/20260823_051529.mp3?v=1787430432"
+}

@@ -1,0 +1,577 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-08-22T20:15:29.466011+00:00",
+  "title": "出さないほうが強い 〜非公開の最強AIと、車が自分で作った脳〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便。テックニュースの回、四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今日も朝から、テックの話を軽くいくのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今朝は四本。どれもひと言でいうと、表に出てないものの話ね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "表に出てない? 秘密って意味なのだ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "秘密もあれば、隠してないのに誰も見てない、ってのもあるわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "どっちも、朝のうちに知っておくと得なやつ。通勤のお供にどうぞ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "一本目から気になるやつじゃん! はやく!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。アンソロピックが八月十五日に出した報告書に、妙なことが書いてあったの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "あんそろぴっく? 朝からいきなり噛みそうな名前なのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "クロードってAIを作ってる会社ね。いま広く提供されてる一番上等な看板は、フェイブル5。ミュトス5は、同じ基盤を使った制限付きのモデルね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "その名前なら、ボクも聞いたことあるのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "その上に、外へ出してないモデルが社内にいるって、自分から書いたのよ。名前はモデル・ツー。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "出してない!? 一番強いのを、隠し持ってるってこと!?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "隠すというか、社内では普通に使ってるわ。ミュトス5と並べてね。",
+      "news_index": 1,
+      "reading": "かくすというか、シャナイデハフツウニツカッテルワ。ミュトス5とならべてね。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、それってあれじゃん! お店には出さないで、店員だけで食べてる賄いのやつ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "その例え、悪くないわね。しかも味は賄いのほうが上って、会社が自分で言ってるの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "どのくらい上なのだ? 桁違いに強いってこと?",
+      "news_index": 1,
+      "reading": "どのくらいウエナノダ?ケタチガイニツヨイッテコト?"
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこが渋いところ。飛び抜けてはいなくて、やや上、って書き方なの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、なんで出さないのだ? 少しでも強いなら、売ればいいじゃん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ただ、アンソロピックは外へ出さない理由を、安全審査で失格したからとは説明してないの。研究用に作る探索的なモデルの一つで、いまは公開予定がないって話ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、じゃあ会社の中では、危ないまま動かしてるってこと!?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "社内で重く使われてるのは確かよ。ただ、一段上がったのはモデルの運用区分じゃなくて、深刻な場面での不整合リスクについての会社全体の見積もりね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "上げましたって正直に書いたの、かえって怖いのだ……。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに、公開モデルより少し強い社内モデルはあるけど、それを製品として出す予定はいまのところない、って話。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ボクが毎日さわってるの、二番目だったのだ……。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "しょげないの。公開されてるモデルにも、それぞれ安全性や使いやすさを考えた調整が入ってるのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "なるほど。賄いは、お店の人が食べればいいのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目。オープンエーアイの中で、権力が静かに動いてたって話ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "けんりょく? 会社って、一番偉い人がひとりいるだけじゃん?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "向こうは違うのよ。看板の顔は、いまもサム・アルトマン。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "知ってるのだ! いつも黒い服の人じゃん!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "服は今日の話に関係ないわ。動いたのは、共同創業者で社長のグレッグ・ブロックマンのほう。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "社長? さっき一番偉いのは別の人だって言ってたじゃん!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "向こうの会社は、最高経営責任者と社長が別の椅子なの。日本の感覚だと、ややこしいわね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "椅子が二つ!? ボク、どっちに話しかければいいのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そのブロックマンが、チャットジーピーティーの製品側も、売る側の部隊も、まとめて見るようになったのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "なんで一人に集まっちゃったのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "フィジー・シモが四月に療養へ入ったとき、ブロックマンがまず製品部門を引き継いだの。その後、シモが七月九日に退任して、担当がさらに集まった形ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "じゃあ、押しつけられたほうじゃん……。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "押しつけと出世は、だいたい同じ顔してるわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "うわ、朝から刺さること言うじゃん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "で、私たちに効くのはここ。製品を決める人が代わると、次に出てくる機能の性格まで変わるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ボクのチャット画面が、勝手に模様替えされちゃうってこと!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。秋ごろに何を出してくるかで、この人の人柄が見えるわね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "模様替えで、ボクの好きなボタンが消えないことを祈るのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目はちょっと硬いから、短くいくわよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "朝の硬い話は、短いのがいちばんなのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "カリフォルニア州に、今年の一月一日から動いてるAIの法律があるの。エスビー・ゴジュウサンってやつ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "法律? AIって、もう法律で縛られる側なのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "大きなAI企業に安全方針を公開させて、危ない出来事は州に報告させる決まりね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、社内で異変に気づいた人を守るやつも、たぶん入ってるでしょ?",
+      "news_index": 3,
+      "reading": "あ、しゃないでいへんにきづいたひとをまもるやつも、たぶんはいってるでしょ?"
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "入ってるわ。で、面白いのはここから。オープンエーアイは去年、州独自の規制をそのまま重ねることには慎重で、国やヨーロッパの枠組みとの共通化を求めてたの。",
+      "news_index": 3,
+      "reading": "はいってるわ。で、おもしろいのはここから。オープンエーアイはきょねん、シューどくじのきせいをそのままかさねることにはしんちょうで、くにやヨーロッパのわくぐみとのきょうつうかをもとめてたの。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "反対!? 縛られたくないから、ってこと!?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう読まれてたわね。ところが今週、その同じ会社が、もっと厳しくしろって言い出したのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "真逆じゃん! 朝から頭がこんがらがるのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "訓練中や試験中のモデルも監視の対象にしろ、開発の全工程で守りを固めろ、って中身。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "なんで急に、優等生になったのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "方針転換の理由までは明言してないわ。ただ最近の安全問題を受けて、州法の強化にも協力する姿勢を示したのね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "どうせ縛られるなら、自分で縄を選ぶってやつじゃん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "察しがいいじゃない。要するに、先に決めたもん勝ちの陣取り合戦よ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、ボクたちの暮らしはどうなるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "すぐには変わらないわ。ただ安全の報告が当たり前になれば、事故の話が表に出やすくなる。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "黙って隠されるより、ずっとマシなのだ。硬い話、おしまい!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "じゃあラスト四本目。今朝いちばん未来っぽいやつで、しめるわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "待ってたのだー! 明るいやつ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ウェイモって、運転手のいないタクシーを街で走らせてる会社ね。グーグルと親会社が同じところ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "運転手なし!? ハンドル、誰が回すのだ!?",
+      "news_index": 4,
+      "reading": "うんてんしゅなし!?ハンドル、だれがまわすのだ!?"
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "誰も回さないわよ。そのウェイモが、自分専用のチップを作ってたって公表したの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ちっぷ? パソコンの中に入ってる、あの黒い四角い部品だっけ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それ。ただ今回のは、車の目と耳のためだけに設計した専用品。製造元までは今回の発表で断定してないけど、ティーエスエムシーを含む複数の企業と組んで作ってるのよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "目と耳って、カメラのことなのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "カメラと、電波で距離を測るやつと、光で形を測るやつ。それを全部いっぺんに処理するの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "いっぺんに!? その車、目が何個ついてるのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "専用チップ群の性能は、合わせて毎秒千兆回を超える計算。計算システム全体は二つの独立した系統で動いて、片方に異常が出れば、もう片方が引き継ぐ作りね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "毎秒千兆回!? ボクが一生かけて数えても、一秒ぶんに届かないやつじゃん!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "sexy",
+      "text": "そこは正しく怖がっていいわ。人間の反応速度と、真正面で勝負してるんだから。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも、なんで自分で作ったのだ? 買ってくればいいじゃん。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "既製品は、届いたデータをまとめて一気にさばくのが得意なの。でも車は、ちょっとずつ来るのを即座に返したい。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、行列を作らせないで、一人ずつレジに通すやつじゃん!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "いい例えだわ。その一人ずつが速いほど、ブレーキを踏むのが早くなるの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "命がかかってる速さなのだ……。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、私たちへの意味。AIのチップを自分で作る会社が、ついに車の側にも増えてきた、ってこと。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "エヌビディアから買うだけの時代じゃなくなるってこと?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "縁が切れたわけじゃないわよ。ウェイモも、よその部品と組み合わせて使ってるの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "全部ひとりで抱えないで、いいとこ取りなのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "はい、今朝は四本。どうだった?",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ぜんぶ、出さない・言わない・見せないの話だった気がするのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "言われてみればそうね。最強は非公開、権力の移動は静かに、法律は先回り。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "でも車のチップだけ、堂々と見せてたじゃん!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "あれは自慢していい類だからよ。気になったやつがあったら、あとで調べてみて。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "旅の道ラジオ朝便、今日もいってらっしゃいなのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "行ってらっしゃい。また明日のテック朝便で。四国めたんでした。",
+      "news_index": 0
+    }
+  ],
+  "program_description": "旅の道ラジオ朝便、テックニュースの回。今朝は「表に出てこないもの」をめぐる四本。まずアンソロピックが自ら明かした未公開モデル『モデル・ツー』の話。看板のミュトス5より少しだけ強いのに、安全審査を理由に社外へ出さず、社内でだけ使っているという構図を噛み砕きます。二本目はオープンエーアイの内部で静かに進んだ権限の集約。共同創業者で社長のグレッグ・ブロックマンが製品と事業をまとめて見るようになった経緯と、それが私たちの使うチャット画面にどう跳ね返るか。三本目は硬めに短く、カリフォルニア州のAI安全法をめぐってオープンエーアイが反対から一転、強化を求めはじめた話。締めは自動運転のウェイモが公表した自前の専用チップ。毎秒千兆回を超える計算を二基がかりでこなす設計と、なぜ買わずに作ったのかを、行列とレジのたとえで解きほぐします。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20260823_051529_chars.webp",
+    "hero_rel": "/images/topics/tech_20260823_051529.webp",
+    "title": "出さないほうが強い 〜非公開の最強AIと、車が自分で作った脳〜",
+    "companies": [
+      "OpenAI",
+      "Claude",
+      "NVIDIA",
+      "TSMC"
+    ]
+  },
+  "summary_short": "非公開の未発表モデルに、権限を一手に握る幹部人事、賛否割れる州法対応、そして自作にこだわる自動運転チップ。表舞台に出ない判断ほど今を動かしている、そんな四本立て。"
+}
