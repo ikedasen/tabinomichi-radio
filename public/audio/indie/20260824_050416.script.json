@@ -1,0 +1,657 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-08-12T02:59:57.364279+00:00",
+  "title": "鋼鉄の弔い 〜戦車と犬と、荒野のハンター〜",
+  "segments": [
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "旅の道ラジオへようこそなのだ！パーソナリティのずんだもんなのだー！",
+      "reading": "たびのみちラジオへようこそなのだ！パーソナリティのずんだもんなのだー！",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "今回はレトロゲーム回なのだ！",
+      "news_index": 0
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "intro",
+      "text": "またまた、あーしが担当するっすよー！今回のテーマは『メタルマックス2』っす！",
+      "reading": "またまた、あーしがたんとうするっすよー！こんかいのテーマは、メタルマックスツーっす！",
+      "news_index": 0
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "1993年にスーパーファミコンで出た、戦車で戦うロールプレイングっす！",
+      "reading": "せんきゅうひゃくきゅうじゅうさんねんにスーパーファミコンででた、せんしゃでたたかうロールプレイングっす！",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "メタルマックスって、金属のリサイクル工場を経営するゲームなのだ？",
+      "reading": "メタルマックスって、きんぞくのリサイクルこうじょうをけいえいするゲームなのだ？",
+      "news_index": 0
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "先輩それガチ違うっす。世紀末の荒野を戦車で走り回るハンターの話っす。",
+      "reading": "せんぱいそれガチちがうっす。せいきまつのこうやをせんしゃではしりまわるハンターのはなしっす。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "戦車！？ロールプレイングって、剣と魔法じゃないのだ？",
+      "reading": "せんしゃ！？ロールプレイングって、けんとまほうじゃないのだ？",
+      "news_index": 0
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "そこがイカれてて最高なんすよ。要するに剣と魔法の代わりに、大砲ぶっ放すロールプレイングってことっす。",
+      "reading": "そこがイカれててさいこうなんすよ。ようするにけんとまほうのかわりに、たいほうぶっぱなすロールプレイングってことっす。",
+      "news_index": 0
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "発売は1993年3月5日、スーパーファミコン用ソフトっす。",
+      "reading": "はつばいはせんきゅうひゃくきゅうじゅうさんねんさんがついつか、スーパーファミコンようソフトっす。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "1993年って、ボクが生まれる前の前の前くらいなのだ。",
+      "reading": "せんきゅうひゃくきゅうじゅうさんねんって、ボクがうまれるまえのまえのまえくらいなのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "あーしも余裕でリアタイ世代じゃないっす。中古屋で発掘して遊び込んだクチっすね。",
+      "reading": "あーしもよゆうでリアタイせだいじゃないっす。ちゅうこやではっくつしてあそびこんだクチっすね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "発売元はデータイースト、開発はクレアテックってチームが担当してるっす。",
+      "reading": "はつばいもとはデータイースト、かいはつはクレアテックってチームがたんとうしてるっす。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "データイーストって、データを東に運ぶ会社なのだ？",
+      "reading": "データイーストって、データをひがしにはこぶかいしゃなのだ？",
+      "news_index": 1
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "運ばないっす。普通にゲーム会社っすよ先輩。",
+      "reading": "はこばないっす。ふつうにゲームかいしゃっすよせんぱい。",
+      "news_index": 1
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "つまり看板がデータイーストで、中身を作ってたのがクレアテック。この二人三脚っす。",
+      "reading": "つまりかんばんがデータイーストで、なかみをつくってたのがクレアテック。このににんさんきゃくっす。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "当時のお値段はいくらだったのだ？",
+      "reading": "とうじのおねだんはいくらだったのだ？",
+      "news_index": 1
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "kangae",
+      "text": "確認できる範囲だと、9,500円って記録が残ってるっす。",
+      "reading": "かくにんできるはんいだと、きゅうせんごひゃくえんってきろくがのこってるっす。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "9,500円！？ボクのずんだ餅、何百個買えるのだ……",
+      "reading": "きゅうせんごひゃくえん！？ボクのずんだもち、なんびゃっこかえるのだ……",
+      "news_index": 1
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "namidame",
+      "text": "当時のお年玉的にはガチで無理な金額っす。スーファミのソフトはマジで一発勝負っすよ。",
+      "reading": "とうじのおとしだまてきにはガチでむりなきんがくっす。スーファミのソフトはマジでいっぱつしょうぶっすよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ここからガチで語らせてもらうっすけど、この作品は出だしがえげつないっす。",
+      "reading": "ここからガチでかたらせてもらうっすけど、このさくひんはでだしがえげつないっす。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "出だしって、村の外に出るなって言われるやつなのだ？",
+      "reading": "でだしって、むらのそとにでるなっていわれるやつなのだ？",
+      "news_index": 2
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "そんな平和なやつじゃないっす。主人公の育ての親が、開始早々に殺されるっす。",
+      "reading": "そんなへいわなやつじゃないっす。しゅじんこうのそだてのおやが、かいしはやばやにころされるっす。",
+      "news_index": 2
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "舞台はマドっていう町で、育ての親がマリアっていう凄腕の元ソルジャーっす。",
+      "reading": "ぶたいはマドっていうまちで、そだてのおやがマリアっていうすごうでのもとソルジャーっす。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "マリアって、ボクの想像だと優しくてクッキー焼いてる人なのだ。",
+      "reading": "マリアって、ボクのそうぞうだとやさしくてクッキーやいてるひとなのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "クッキーは焼かないっす。不死身の女ソルジャーって呼ばれてた、町の用心棒っす。",
+      "reading": "クッキーはやかないっす。ふじみのおんなソルジャーってよばれてた、まちのようじんぼうっす。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "強い人だったのだ！それなら安心なのだ！",
+      "reading": "つよいひとだったのだ！それならあんしんなのだ！",
+      "news_index": 2
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "shirake",
+      "text": "その最強のマリアが、テッド・ブロイラーって男に殺されるっす。",
+      "reading": "そのさいきょうのマリアが、テッド・ブロイラーっておとこにころされるっす。",
+      "news_index": 2
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "テッド・ブロイラーはバイアス・グラップラーって武装組織の、四天王筆頭っす。",
+      "reading": "テッド・ブロイラーはバイアス・グラップラーってぶそうそしきの、してんのうひっとうっす。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ブロイラーって、鶏肉のブロイラーなのだ？",
+      "reading": "ブロイラーって、とりにくのブロイラーなのだ？",
+      "news_index": 2
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "字面はそれっすね。でも中身はデカい火炎放射器で丸焼きにしてくる男っす。",
+      "reading": "じづらはそれっすね。でもなかみはデカいかえんほうしゃきでまるやきにしてくるおとこっす。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "丸焼きにされるのは鶏の方じゃなくて、こっちなのだ！？",
+      "reading": "まるやきにされるのはとりのほうじゃなくて、こっちなのだ！？",
+      "news_index": 2
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そういうことっす。要するに主人公は、復讐のためにハンターになるって導入っすね。",
+      "reading": "そういうことっす。ようするにしゅじんこうは、ふくしゅうのためにハンターになるってどうにゅうっすね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "で、あーしが一番好きなのが戦車の改造システムっす！",
+      "reading": "で、あーしがいちばんすきなのがせんしゃのかいぞうシステムっす！",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "改造って、色を塗り替えるやつなのだ？",
+      "reading": "かいぞうって、いろをぬりかえるやつなのだ？",
+      "news_index": 3
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "塗装だけじゃ済まないっす。装甲もエンジンも武装も、パーツ単位で全部いじれるっす。",
+      "reading": "とそうだけじゃすまないっす。そうこうもエンジンもぶそうも、パーツたんいでぜんぶいじれるっす。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "エンジンまで！？もう車の整備工場なのだ！",
+      "reading": "エンジンまで！？もうくるまのせいびこうじょうなのだ！",
+      "news_index": 3
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "その例えは案外正解っす。荒野の整備工場で、ひたすら自分の一台を育てるゲームっすから。",
+      "reading": "そのたとえはあんがいせいかいっす。こうやのせいびこうじょうで、ひたすらじぶんのいちだいをそだてるゲームっすから。",
+      "news_index": 3
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "車両は全部で8台あって、そのうち1台は4種類から選んで自分の機体に出来るっす。",
+      "reading": "しゃりょうはぜんぶではちだいあって、そのうちいちだいはよんしゅるいからえらんでじぶんのきたいにできるっす。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "8台！？ボク、駐車場を借りないと置けないのだ。",
+      "reading": "はちだい！？ボク、ちゅうしゃじょうをかりないとおけないのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "残りは探索で見つけて拾ってくる感じっす。廃車を叩き起こすロマンっすよ。",
+      "reading": "のこりはたんさくでみつけてひろってくるかんじっす。はいしゃをたたきおこすロマンっすよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "あともう一つの看板が、賞金首システムっす。",
+      "reading": "あともうひとつのかんばんが、しょうきんくびシステムっす。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "賞金首って、賞金を首から下げてる人のことなのだ？",
+      "reading": "しょうきんくびって、しょうきんをくびからさげてるひとのことなのだ？",
+      "news_index": 3
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "下げてないっす。懸賞金が掛かったモンスターを狩って稼ぐシステムっす。",
+      "reading": "さげてないっす。けんしょうきんがかかったモンスターをかってかせぐシステムっす。",
+      "news_index": 3
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "今週のターゲットって呼ばれてて、狩るも狩らないもプレイヤーの自由っす。",
+      "reading": "こんしゅうのターゲットってよばれてて、かるもからないもプレイヤーのじゆうっす。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "自由って、どのくらい自由なのだ？",
+      "reading": "じゆうって、どのくらいじゆうなのだ？",
+      "news_index": 3
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "必須イベントも、倒さなきゃいけない敵もめちゃ少ないっす。要するに一本道じゃないロールプレイングっすね。",
+      "reading": "ひっすイベントも、たおさなきゃいけないてきもめちゃすくないっす。ようするにいっぽんみちじゃないロールプレイングっすね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "そういえば、仲間は人間だけなのだ？",
+      "reading": "そういえば、なかまはにんげんだけなのだ？",
+      "news_index": 4
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そこっす！この作品、犬が戦闘に参加するっす。",
+      "reading": "そこっす！このさくひん、いぬがせんとうにさんかするっす。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "犬！？戦車と犬と人間が、同じパーティにいるのだ？",
+      "reading": "いぬ！？せんしゃといぬとにんげんが、おなじパーティにいるのだ？",
+      "news_index": 4
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "そう、そこがこのシリーズの謳い文句っす。ポチって名前の犬が、普通に前線で戦うっすよ。",
+      "reading": "そう、そこがこのシリーズのうたいもんくっす。ポチってなまえのいぬが、ふつうにぜんせんでたたかうっすよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ポチ、絶対いい子なのだ。ボク、ポチのために戦車を磨くのだ。",
+      "reading": "ポチ、ぜったいいいこなのだ。ボク、ポチのためにせんしゃをみがくのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "話戻すっすけど、さっきのテッド・ブロイラー、実は超人気キャラっす。",
+      "reading": "はなしもどすっすけど、さっきのテッド・ブロイラー、じつはちょうにんきキャラっす。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "育ての親を殺した男が人気？世の中どうかしてるのだ。",
+      "reading": "そだてのおやをころしたおとこがにんき？よのなかどうかしてるのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "悪役人気ってやつっす。丸焼きにしてくれるわ、って名台詞が実況文化でネタになったっす。",
+      "reading": "あくやくにんきってやつっす。まるやきにしてくれるわ、ってめいぜりふがじっきょうぶんかでネタになったっす。",
+      "news_index": 4
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに、嫌われ役なのに愛されてる。良い悪役の見本っすね。",
+      "reading": "ようするに、きらわれやくなのにあいされてる。いいあくやくのみほんっすね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "作り手の話もするっす。シリーズの生みの親が、宮岡寛ってかたっす。",
+      "reading": "つくりてのはなしもするっす。シリーズのうみのおやが、みやおかひろしってかたっす。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "宮岡さんは、きっと車がめちゃくちゃ好きな人なのだ。",
+      "reading": "みやおかさんは、きっとくるまがめちゃくちゃすきなひとなのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "kangae",
+      "text": "そこは知らんっす。でもドラゴンクエストの1から3に関わってた経歴があるっす。",
+      "reading": "そこはしらんっす。でもドラゴンクエストのいちからさんにかかわってたけいれきがあるっす。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "えっ！ドラクエ作ってた人が、戦車のゲーム作ったのだ！？",
+      "reading": "えっ！ドラクエつくってたひとが、せんしゃのゲームつくったのだ！？",
+      "news_index": 4
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "そこがロマンっす。だから初代のキャッチコピーが、竜退治はもう飽きた、だったっす。",
+      "reading": "そこがロマンっす。だからしょだいのキャッチコピーが、りゅうたいじはもうあきた、だったっす。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "かっこいいのだ！それがメタルマックス2のコピーなのだね！",
+      "reading": "かっこいいのだ！それがメタルマックスツーのコピーなのだね！",
+      "news_index": 4
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "先輩それガチ違うっす。あれは初代のテレビCMのコピーで、2のじゃないっす。",
+      "reading": "せんぱいそれガチちがうっす。あれはしょだいのテレビシーエムのコピーで、ツーのじゃないっす。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "……間違えたのだ。ごめんなさいなのだ……",
+      "reading": "……まちがえたのだ。ごめんなさいなのだ……",
+      "news_index": 4
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "音楽は門倉聡ってかたが担当してて、シリーズのほぼ全部を手掛けてるっす。",
+      "reading": "おんがくはかどくらさとしってかたがたんとうしてて、シリーズのほぼぜんぶをてがけてるっす。",
+      "news_index": 4
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "プロデューサーは桝田省治ってかたっす。名前だけで震えるオタクくん、絶対いるっすよね！？",
+      "reading": "プロデューサーはますだしょうじってかたっす。なまえだけでふるえるオタクくん、ぜったいいるっすよね！？",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "つむぎ、目が完全にオタクなのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "あーし今めっちゃキモいっすね、さーせん。",
+      "reading": "あーしいまめっちゃキモいっすね、さーせん。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "今から遊びたい人は、どうすればいいのだ？",
+      "reading": "いまからあそびたいひとは、どうすればいいのだ？",
+      "news_index": 5
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "kangae",
+      "text": "そこが切ないとこっす。この作品、権利の事情でずっと復刻が難しかったっす。",
+      "reading": "そこがせつないとこっす。このさくひん、けんりのじじょうでずっとふっこくがむずかしかったっす。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "権利って、ゲームを遊ぶ権利のことなのだ？",
+      "reading": "けんりって、ゲームをあそぶけんりのことなのだ？",
+      "news_index": 5
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "会社の権利の話っす。データイーストが2003年に破産しちゃったっす。",
+      "reading": "かいしゃのけんりのはなしっす。データイーストがにせんさんねんにはさんしちゃったっす。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "戦車より、会社の方が先に大破してたのだ……",
+      "reading": "せんしゃより、かいしゃのほうがさきにたいはしてたのだ……",
+      "news_index": 5
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "shirake",
+      "text": "先輩、上手いこと言った顔しないでほしいっす。",
+      "reading": "せんぱい、うまいこといったかおしないでほしいっす。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "……ごめんなのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "でもリメイクはちゃんと出てるっす。ゲームボーイアドバンスの、メタルマックス2改っす。",
+      "reading": "でもリメイクはちゃんとでてるっす。ゲームボーイアドバンスの、メタルマックスツーかいっす。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "改って、改造の改なのだ？戦車のゲームらしくていいのだ。",
+      "reading": "かいって、かいぞうのかいなのだ？せんしゃのゲームらしくていいのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "それなっす！さらにニンテンドーDSで、リローデッドって大幅リメイクも出てるっす。",
+      "reading": "それなっす！さらにニンテンドーディーエスで、リローデッドっておおはばリメイクもでてるっす。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "どっちが本命なのだ？",
+      "reading": "どっちがほんめいなのだ？",
+      "news_index": 5
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "kangae",
+      "text": "シリーズ最高傑作って声が多いのは、リローデッドの方っす。元のスーパーファミコン版とは、別物として語られてるっす。",
+      "reading": "シリーズさいこうけっさくってこえがおおいのは、リローデッドのほうっす。もとのスーパーファミコンばんとは、べつものとしてかたられてるっす。",
+      "news_index": 5
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに原作は隠れた名作、リメイクは化けた傑作。そういう住み分けっすね。",
+      "reading": "ようするにげんさくはかくれためいさく、リメイクはばけたけっさく。そういうすみわけっすね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "剣と魔法が当たり前だった時代に、戦車で殴りに行った作品っす。だからカルト的に愛され続けてるっす。",
+      "reading": "けんとまほうがあたりまえだったじだいに、せんしゃでなぐりにいったさくひんっす。だからカルトてきにあいされつづけてるっす。",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ボク、ポチと一緒に荒野を走りたくなってきたのだ。",
+      "reading": "ボク、ポチといっしょにこうやをはしりたくなってきたのだ。",
+      "news_index": 6
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "先輩、結局ずっと犬の話してるっすね。",
+      "reading": "せんぱい、けっきょくずっといぬのはなししてるっすね。",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "だってリサイクル工場より、夢があるのだ！",
+      "reading": "だってリサイクルこうじょうより、ゆめがあるのだ！",
+      "news_index": 6
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そこ回収するんすか！オタクくんも、機会があったら触ってみてほしいっす。",
+      "reading": "そこかいしゅうするんすか！オタクくんも、きかいがあったらさわってみてほしいっす。",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "というわけで、今回のレトロ回はここまでなのだ！",
+      "reading": "というわけで、こんかいのレトロかいはここまでなのだ！",
+      "news_index": 6
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "また旅の道ラジオで会いましょうっす！",
+      "reading": "またたびのみちラジオであいましょうっす！",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "またなのだー！",
+      "news_index": 6
+    }
+  ],
+  "program_description": "今回のレトロ回は、1993年3月5日にスーパーファミコンで発売された『メタルマックス2』。剣と魔法が当たり前だった時代に、戦車に乗って荒野を走り回るという異色のロールプレイングとして生まれた一本を、つむぎのマニア語りで掘り下げます。発売元はデータイースト、開発はクレアテック。育ての親マリアがテッド・ブロイラーに討たれる冒頭から、装甲もエンジンも武装もいじり倒せる戦車改造、今週のターゲットと呼ばれる賞金首狩り、戦闘に参加する犬のポチまで。シリーズの生みの親である宮岡寛がドラゴンクエストに関わっていた経歴や、竜退治はもう飽きたが初代のキャッチコピーだという話、データイースト破産で復刻が難しくなった経緯、ゲームボーイアドバンス版のメタルマックス2改とニンテンドーDS版リローデッドの立ち位置まで語ります。ずんだもんが犬のポチに完全に心を持っていかれる回。",
+  "featured_game": {
+    "app_id": null,
+    "igdb_id": 37929,
+    "title": "メタルマックス2",
+    "image_rel": "/images/topics/indie_20260824_050416_chars.webp",
+    "hero_rel": "/image/games/igdb_37929.jpg",
+    "screenshot_rels": [
+      "/image/games/igdb_37929_ss1.jpg",
+      "/image/games/igdb_37929_ss2.jpg",
+      "/image/games/igdb_37929_ss3.jpg",
+      "/image/games/igdb_37929_ss4.jpg"
+    ],
+    "developers": [
+      "Data East",
+      "Crea-Tech",
+      "Enterbrain"
+    ],
+    "publishers": [
+      "Data East",
+      "Enterbrain"
+    ],
+    "genres": [
+      "Role-playing (RPG)"
+    ],
+    "release_date": "1993-03-05",
+    "price": "9,500円",
+    "short_description": "Metal Max 2 is the second entry in the Metal Max series. It was a vehicle combat RPG published in Japan by Data East for the Super Famicom in 1993. Ten years later, the game was ported to the Game Boy Advance with a few new bounties by Now Production under the title Metal Max 2 Kai. On December 8, 2011, a full remake with upgraded graphics in the vein of Metal Max 3 and using its game engine was released in Japan for the Nintendo DS and titled Metal Max 2 ReLOADED. Metal Max 2 ReLOADED added a shared inventory, option to play as a female, okama or reijin, new character classes, subclasses and ",
+    "alttitle": "Metal Max 2"
+  },
+  "bank_meta": {
+    "built_at": "2026-08-12T12:01:42.229892",
+    "title": "メタルマックス2",
+    "title_spec": "メタルマックス2|Metal Max 2",
+    "variant": "retro",
+    "built_ts": "20260812_115957",
+    "residual_cleaned": true
+  }
+}

@@ -1,0 +1,600 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-08-23T20:14:57.023284+00:00",
+  "title": "無料で配る理由 〜国産のAIと、一日早い嵐〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便。テックニュースの回、四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝もテックの話題、軽くいくのだー!",
+      "news_index": 0,
+      "reading": "ボク、ずんだもんなのだー!けさもテックのわだい、かるくいくのだー!"
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今日は五本。国産のAIから、声の権利、最後は台風の話まで。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "台風? それ、テックの話なのだ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "がっつりテックよ。そこはいちばん最後の楽しみに取っておきなさい。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "一本目は日本の話。通勤中のかた、耳だけ貸してちょうだい。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "八月十八日に、日本製のAIが無料で公開されたのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "日本製? AIって、アメリカと中国の話ばっかりだった気がするじゃん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこが今朝の一本目の意味ね。作ったのは、大学共同利用機関の国立情報学研究所が主宰する、エルエルエム・ジェイピーの研究開発コミュニティーよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "国が作ったAI!? 役所の窓口が、チャットの相手をしてくれるってこと!?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "窓口業務じゃないわよ。中身そのものを配ってるの、誰でも持って帰っていいって形でね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、自分のパソコンに入れて動かせるやつじゃん!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ご名答。規模はおよそ332億で、これはAIの脳みその大きさを表す数ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "332億の脳みそが、ボクのノートパソコンで昼寝するのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "寝かせる余裕があるかは別としてね。しかも会社が商売に使ってもいい、って条件で配ってるの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "タダで配って、国は何が嬉しいのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "オープンで日本語に強いモデルを、研究や開発の共通基盤として広く使えること。モデル作りの知見や成果も共有できるもの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "あ、選べる相手が増えるってことじゃん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。今すぐ生活は変わらないけど、悪くない話だわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目はお金の話。オープンエーアイが八月二十一日に、看板モデルの値段を下げたわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "値下げ!? AIの値段って、上がる一方だと思ってたじゃん!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこが今回の見どころ。『ジーピーティー 5.6 ソル』の使用料が、期間限定で安くなったの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "使用料? ボクが毎月払ってるやつが安くなるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "残念、そっちじゃないわ。安くなったのは、開発者が使う業務用のほう。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ぎょうむよう? 何が違うのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "アプリやサービスにAIを組み込むときの値段ね。読ませた文章と、返ってきた文章の量で課金されるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、ボクが使ってるアプリの中身が安くなるってことじゃん!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。読ませるほうが2割、AIが返すほうは3割ちょっと安いわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "返すほうが、大きく下がってるのだね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "よく気づいたわね。長く喋らせるほど高くつくから、そこを削ったのが効くのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "でも期間限定? いつ元に戻るのだ?",
+      "news_index": 2,
+      "reading": "でもきかんげんてい?いつモトニモドルノダ?"
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "十一月二十一日までは、この値段を守るって話ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "スーパーの特売と、同じ匂いがするのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "競合にも低価格なモデルが増えているけど、今回の発表だけから値下げの理由までは断定できないわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、ボクたちの財布には、どう効くのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "AIを使ったアプリの月額が、下がる余地が出てくるってこと。すぐじゃないけどね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目。人間が使わないブラウザが、出たのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "使わない!? じゃあ、誰のために作ったのだ!?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "AIのため。クラウドフレアって会社が、『カイトサーフ』ってのを出したの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "くらうどふれあ? 名前だけ聞いたことある気がするのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "世界中のサイトの玄関で、交通整理をしてる裏方の会社ね。そこがブラウザを作ったの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "普通のと、どこが違うのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "タブも、お気に入りも、見た目の飾りも全部無いの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "全部無い!? それ、ただの真っ白い画面じゃん!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "人間が見ないなら、飾りは要らないでしょ。AIには機械で読みやすい中身が大事で、必要なら画面の画像も取れるの。人間向けの滑らかな表示や完璧な見た目は、優先度が低いってことね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、だから軽いのだー!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "会社の測定だと、普通のブラウザよりメモリの使用量が最大で7分の1くらいですって。",
+      "news_index": 3,
+      "reading": "かいしゃのそくていだと、ふつうのブラウザよりメモリのシヨウリョウガサイダイデななぶんのいちくらいですって。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "7分の1! ボクが開きっぱなしのタブ、全部そっちに引っ越したいのだ!",
+      "news_index": 3,
+      "reading": "ななぶんのいち!ボクがヒラキッパナシノタブ、ぜんぶそっちにひっこしたいのだ!"
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "無理よ。表示は遅いし、まともに映らないサイトもあるんだから。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "人間には、向いてない道具なのだ……。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこが本題ね。AIが人の代わりにネットを見る前提の道具が、静かに増えてるの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクの生活には、どう関わってくるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "調べ物をAIに頼んだとき、裏で走ってるのがこの手のブラウザ。軽くなるほど、料金も安くなるわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "四本目は、少しだけ真面目な話。歌ったり喋ったりするかたは、特に耳を寄せて。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "真面目な話、ボクは三分で飽きるのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三分で終わらせるわ。法務省が八月七日に、声の権利についての報告書を出したのよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "声に権利!? ボクの声にも、値札が付いてるってこと!?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "値札じゃなくて、勝手に使われない権利ね。声も、その人を思い浮かべさせる力や使われ方によっては、パブリシティ権などで守られうるって整理されたの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "顔と同じ? 声って、そこまで個人のものなのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "声だけで誰かわかるでしょ。だからその人を指し示す情報だ、って整理されたのよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、電話で母さんの声が、名乗る前に分かるやつじゃん!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "その感覚で合ってるわ。で、名指しされたのが『AIカバー』。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "えーあい・かばー? 布団のカバーじゃないよね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "布団は自分で干しなさい。歌手や声優の声をAIに真似させて、歌わせた音源のことよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "動画サイトで見たことあるのだ。あれ、ダメになったってこと?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "無断で作って、公開して、お金まで受け取ってたら侵害になりうる、って書かれたわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、人間がやるものまねは?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そっちは基本セーフ。真似る芸と、声そのものを機械で持っていく行為は、別ものなのよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ちゃんと線を引いたのだね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ただし新しい法律を作ったわけじゃないの。損害賠償や差し止めなど、今ある法律をどう当てはめるか整理した指針ね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、ボクたちが気を付けることは?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "本人に無断で声を再現したAIカバーは、収益の有無だけで決めつけず、公開する前に許諾や使い方を確かめることね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "じゃあラスト五本目。冒頭で焦らした、台風のやつ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "待ってたのだー! テックと台風が、どう繋がるのだ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "グーグルのディープマインドが、台風の進路を当てるAIを八月六日に無料公開したのよ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "進路って、テレビに出る、丸がずらっと並ぶやつだっけ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "それそれ。進路だけじゃなく、強さや風の広がりまで、平均すると従来より一日先を同じくらいの精度で予測できたの。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "一日!? たった一日で、そんなに変わるのだ!?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "予報官がより早い段階から判断する助けになるのよ。結果として、備えに使える時間が増える可能性があるわ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "あ、それボクの実家がいちばん喜ぶやつじゃん。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三日先の予報が、これまでの二日先と同じ精度になった、って説明されてるわ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "机の上の話じゃなくて? 本番で当たったのだ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "去年のハリケーンの季節に、アメリカの担当機関が実際に使ってるの。『メリッサ』って嵐の急な発達も、そこで捉えてるわ。",
+      "news_index": 5,
+      "reading": "きょねんのハリケーンのきせつに、アメリカのたんとうきかんがじっさいにつかってるの。『メリッサ』ってあらしのきゅうなはったつも、そこでトラエテルワ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "実戦投入されてるのだ! 話の説得力が段違いじゃん!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "しかも中身をまるごと無料で配ってる。日本の研究者も、そのまま使えるのよ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "日本の台風にも、効くってこと?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "同じ仕組みの嵐だもの、期待していいわ。これまでの流れでいうと、十年ぶんの進歩に当たるって説明ね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "今朝の五本で、いちばんボクの生活に効くやつなのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "はい、今朝は五本。国産AI、値下げ、AI専用ブラウザ、声の権利、台風の予報ね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "並べると、ぜんぶ別の話に見えるのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "共通点はあるわよ。AIが実験室を出て、生活の道具になってきてるってこと。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、台風の予報がいちばんそれっぽいのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "気になったやつは、あとで自分で調べてみて。ここでは触りだけだから。",
+      "news_index": 0,
+      "reading": "キニナッタヤツワ、あとでジブンデシラベテミテ。ここではさわりだけだから。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "今日も一日、無理せずいくのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それじゃ、また明日の朝便で。四国めたんでした。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "ずんだもんなのだ。いってらっしゃいなのだー!",
+      "news_index": 0
+    }
+  ],
+  "program_description": "今朝のテック朝便は五本立て。まずは国立情報学研究所が八月十八日に公開した国産の大規模言語モデル、およそ332億の規模を商用利用OKで無料配布した狙いから。次にオープンエーアイが看板モデルの業務用料金を期間限定で値下げした話、続いてクラウドフレアが出した「人間が使わない」AIエージェント専用ブラウザ、カイトサーフ。四本目は法務省が公表した声の権利の指針で、無断のAIカバーがどこから侵害になるのかの線引き。最後はグーグルのディープマインドが無料公開した台風予測AIで、警報が丸一日早くなる話まで。通勤・通学のおともにどうぞ。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20260824_051457_chars.webp",
+    "hero_rel": "/images/topics/tech_20260824_051457.webp",
+    "title": "無料で配る理由 〜国産のAIと、一日早い嵐〜",
+    "companies": [
+      "OpenAI",
+      "Google"
+    ]
+  },
+  "summary_short": "国産332億パラメータAIをまさかの無料商用開放、その裏でOpenAIも値下げ攻勢。人間お断りのAI専用ブラウザに、無断AIカバーの線引き、台風接近を一日早く教えてくれる予測AIまで、五本まとめて駆け足チェック。"
+}

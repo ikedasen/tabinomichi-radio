@@ -1,0 +1,906 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-08-24T05:04:16+09:00",
+  "title": "鋼鉄の弔い 〜戦車と犬と、荒野のハンター〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 400.11,
+  "script_hash": "sha256:a2ac99050358fac321d03af07c495def73f176ff6949084de8c630e06a02181d",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 6.34
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "旅の道ラジオへようこそなのだ！パーソナリティのずんだもんなのだー！",
+      "news_index": 0,
+      "start_sec": 6.34,
+      "end_sec": 10.48
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "今回はレトロゲーム回なのだ！",
+      "news_index": 0,
+      "start_sec": 10.56,
+      "end_sec": 12.69
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "intro",
+      "text": "またまた、あーしが担当するっすよー！今回のテーマは『メタルマックス2』っす！",
+      "news_index": 0,
+      "start_sec": 12.84,
+      "end_sec": 17.77
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "1993年にスーパーファミコンで出た、戦車で戦うロールプレイングっす！",
+      "news_index": 0,
+      "start_sec": 17.85,
+      "end_sec": 22.84
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "メタルマックスって、金属のリサイクル工場を経営するゲームなのだ？",
+      "news_index": 0,
+      "start_sec": 22.99,
+      "end_sec": 27.96
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "先輩それガチ違うっす。世紀末の荒野を戦車で走り回るハンターの話っす。",
+      "news_index": 0,
+      "start_sec": 28.11,
+      "end_sec": 33.29
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "戦車！？ロールプレイングって、剣と魔法じゃないのだ？",
+      "news_index": 0,
+      "start_sec": 33.44,
+      "end_sec": 37.71
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "そこがイカれてて最高なんすよ。要するに剣と魔法の代わりに、大砲ぶっ放すロールプレイングってことっす。",
+      "news_index": 0,
+      "start_sec": 37.86,
+      "end_sec": 44.21
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "発売は1993年3月5日、スーパーファミコン用ソフトっす。",
+      "news_index": 1,
+      "start_sec": 44.29,
+      "end_sec": 49.21
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "1993年って、ボクが生まれる前の前の前くらいなのだ。",
+      "news_index": 1,
+      "start_sec": 49.36,
+      "end_sec": 53.99
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "あーしも余裕でリアタイ世代じゃないっす。中古屋で発掘して遊び込んだクチっすね。",
+      "news_index": 1,
+      "start_sec": 54.14,
+      "end_sec": 59.23
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "発売元はデータイースト、開発はクレアテックってチームが担当してるっす。",
+      "news_index": 1,
+      "start_sec": 59.31,
+      "end_sec": 63.85
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "データイーストって、データを東に運ぶ会社なのだ？",
+      "news_index": 1,
+      "start_sec": 64.0,
+      "end_sec": 67.89
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "運ばないっす。普通にゲーム会社っすよ先輩。",
+      "news_index": 1,
+      "start_sec": 68.04,
+      "end_sec": 71.06
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "つまり看板がデータイーストで、中身を作ってたのがクレアテック。この二人三脚っす。",
+      "news_index": 1,
+      "start_sec": 71.14,
+      "end_sec": 76.37
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "当時のお値段はいくらだったのだ？",
+      "news_index": 1,
+      "start_sec": 76.52,
+      "end_sec": 78.83
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kangae",
+      "text": "確認できる範囲だと、9,500円って記録が残ってるっす。",
+      "news_index": 1,
+      "start_sec": 78.98,
+      "end_sec": 83.16
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "9,500円！？ボクのずんだ餅、何百個買えるのだ……",
+      "news_index": 1,
+      "start_sec": 83.31,
+      "end_sec": 88.62
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "namidame",
+      "text": "当時のお年玉的にはガチで無理な金額っす。スーファミのソフトはマジで一発勝負っすよ。",
+      "news_index": 1,
+      "start_sec": 88.77,
+      "end_sec": 94.56
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ここからガチで語らせてもらうっすけど、この作品は出だしがえげつないっす。",
+      "news_index": 2,
+      "start_sec": 94.64,
+      "end_sec": 98.92
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "出だしって、村の外に出るなって言われるやつなのだ？",
+      "news_index": 2,
+      "start_sec": 99.07,
+      "end_sec": 102.56
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "そんな平和なやつじゃないっす。主人公の育ての親が、開始早々に殺されるっす。",
+      "news_index": 2,
+      "start_sec": 102.71,
+      "end_sec": 108.03
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "舞台はマドっていう町で、育ての親がマリアっていう凄腕の元ソルジャーっす。",
+      "news_index": 2,
+      "start_sec": 108.11,
+      "end_sec": 112.69
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "マリアって、ボクの想像だと優しくてクッキー焼いてる人なのだ。",
+      "news_index": 2,
+      "start_sec": 112.84,
+      "end_sec": 117.41
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "クッキーは焼かないっす。不死身の女ソルジャーって呼ばれてた、町の用心棒っす。",
+      "news_index": 2,
+      "start_sec": 117.56,
+      "end_sec": 122.53
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "強い人だったのだ！それなら安心なのだ！",
+      "news_index": 2,
+      "start_sec": 122.68,
+      "end_sec": 125.44
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "shirake",
+      "text": "その最強のマリアが、テッド・ブロイラーって男に殺されるっす。",
+      "news_index": 2,
+      "start_sec": 125.59,
+      "end_sec": 130.3
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "テッド・ブロイラーはバイアス・グラップラーって武装組織の、四天王筆頭っす。",
+      "news_index": 2,
+      "start_sec": 130.38,
+      "end_sec": 135.55
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ブロイラーって、鶏肉のブロイラーなのだ？",
+      "news_index": 2,
+      "start_sec": 135.7,
+      "end_sec": 138.64
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "字面はそれっすね。でも中身はデカい火炎放射器で丸焼きにしてくる男っす。",
+      "news_index": 2,
+      "start_sec": 138.79,
+      "end_sec": 143.81
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "丸焼きにされるのは鶏の方じゃなくて、こっちなのだ！？",
+      "news_index": 2,
+      "start_sec": 143.96,
+      "end_sec": 147.44
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そういうことっす。要するに主人公は、復讐のためにハンターになるって導入っすね。",
+      "news_index": 2,
+      "start_sec": 147.59,
+      "end_sec": 152.87
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "で、あーしが一番好きなのが戦車の改造システムっす！",
+      "news_index": 3,
+      "start_sec": 152.95,
+      "end_sec": 156.44
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "改造って、色を塗り替えるやつなのだ？",
+      "news_index": 3,
+      "start_sec": 156.59,
+      "end_sec": 159.41
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "塗装だけじゃ済まないっす。装甲もエンジンも武装も、パーツ単位で全部いじれるっす。",
+      "news_index": 3,
+      "start_sec": 159.56,
+      "end_sec": 164.6
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "エンジンまで！？もう車の整備工場なのだ！",
+      "news_index": 3,
+      "start_sec": 164.75,
+      "end_sec": 168.2
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "その例えは案外正解っす。荒野の整備工場で、ひたすら自分の一台を育てるゲームっすから。",
+      "news_index": 3,
+      "start_sec": 168.35,
+      "end_sec": 174.43
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "車両は全部で8台あって、そのうち1台は4種類から選んで自分の機体に出来るっす。",
+      "news_index": 3,
+      "start_sec": 174.51,
+      "end_sec": 179.99
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "8台！？ボク、駐車場を借りないと置けないのだ。",
+      "news_index": 3,
+      "start_sec": 180.14,
+      "end_sec": 184.94
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "残りは探索で見つけて拾ってくる感じっす。廃車を叩き起こすロマンっすよ。",
+      "news_index": 3,
+      "start_sec": 185.09,
+      "end_sec": 190.05
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "あともう一つの看板が、賞金首システムっす。",
+      "news_index": 3,
+      "start_sec": 190.13,
+      "end_sec": 193.17
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "賞金首って、賞金を首から下げてる人のことなのだ？",
+      "news_index": 3,
+      "start_sec": 193.32,
+      "end_sec": 197.47
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "下げてないっす。懸賞金が掛かったモンスターを狩って稼ぐシステムっす。",
+      "news_index": 3,
+      "start_sec": 197.62,
+      "end_sec": 201.83
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "今週のターゲットって呼ばれてて、狩るも狩らないもプレイヤーの自由っす。",
+      "news_index": 3,
+      "start_sec": 201.91,
+      "end_sec": 206.01
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "自由って、どのくらい自由なのだ？",
+      "news_index": 3,
+      "start_sec": 206.16,
+      "end_sec": 208.61
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "必須イベントも、倒さなきゃいけない敵もめちゃ少ないっす。要するに一本道じゃないロールプレイングっすね。",
+      "news_index": 3,
+      "start_sec": 208.76,
+      "end_sec": 214.91
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "そういえば、仲間は人間だけなのだ？",
+      "news_index": 4,
+      "start_sec": 215.06,
+      "end_sec": 217.81
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そこっす！この作品、犬が戦闘に参加するっす。",
+      "news_index": 4,
+      "start_sec": 217.96,
+      "end_sec": 221.51
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "犬！？戦車と犬と人間が、同じパーティにいるのだ？",
+      "news_index": 4,
+      "start_sec": 221.66,
+      "end_sec": 226.76
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "そう、そこがこのシリーズの謳い文句っす。ポチって名前の犬が、普通に前線で戦うっすよ。",
+      "news_index": 4,
+      "start_sec": 226.91,
+      "end_sec": 232.96
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ポチ、絶対いい子なのだ。ボク、ポチのために戦車を磨くのだ。",
+      "news_index": 4,
+      "start_sec": 233.11,
+      "end_sec": 238.28
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "話戻すっすけど、さっきのテッド・ブロイラー、実は超人気キャラっす。",
+      "news_index": 4,
+      "start_sec": 238.43,
+      "end_sec": 243.32
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "育ての親を殺した男が人気？世の中どうかしてるのだ。",
+      "news_index": 4,
+      "start_sec": 243.47,
+      "end_sec": 247.31
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "悪役人気ってやつっす。丸焼きにしてくれるわ、って名台詞が実況文化でネタになったっす。",
+      "news_index": 4,
+      "start_sec": 247.46,
+      "end_sec": 253.08
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに、嫌われ役なのに愛されてる。良い悪役の見本っすね。",
+      "news_index": 4,
+      "start_sec": 253.16,
+      "end_sec": 257.35
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "作り手の話もするっす。シリーズの生みの親が、宮岡寛ってかたっす。",
+      "news_index": 4,
+      "start_sec": 257.43,
+      "end_sec": 262.23
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "宮岡さんは、きっと車がめちゃくちゃ好きな人なのだ。",
+      "news_index": 4,
+      "start_sec": 262.38,
+      "end_sec": 265.88
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kangae",
+      "text": "そこは知らんっす。でもドラゴンクエストの1から3に関わってた経歴があるっす。",
+      "news_index": 4,
+      "start_sec": 266.03,
+      "end_sec": 270.92
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "えっ！ドラクエ作ってた人が、戦車のゲーム作ったのだ！？",
+      "news_index": 4,
+      "start_sec": 271.07,
+      "end_sec": 275.52
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "そこがロマンっす。だから初代のキャッチコピーが、竜退治はもう飽きた、だったっす。",
+      "news_index": 4,
+      "start_sec": 275.67,
+      "end_sec": 280.89
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "かっこいいのだ！それがメタルマックス2のコピーなのだね！",
+      "news_index": 4,
+      "start_sec": 281.04,
+      "end_sec": 284.63
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "先輩それガチ違うっす。あれは初代のテレビCMのコピーで、2のじゃないっす。",
+      "news_index": 4,
+      "start_sec": 284.78,
+      "end_sec": 289.83
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "……間違えたのだ。ごめんなさいなのだ……",
+      "news_index": 4,
+      "start_sec": 289.98,
+      "end_sec": 293.09
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "音楽は門倉聡ってかたが担当してて、シリーズのほぼ全部を手掛けてるっす。",
+      "news_index": 4,
+      "start_sec": 293.24,
+      "end_sec": 298.09
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "プロデューサーは桝田省治ってかたっす。名前だけで震えるオタクくん、絶対いるっすよね！？",
+      "news_index": 4,
+      "start_sec": 298.17,
+      "end_sec": 303.68
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "つむぎ、目が完全にオタクなのだ。",
+      "news_index": 4,
+      "start_sec": 303.83,
+      "end_sec": 306.28
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "あーし今めっちゃキモいっすね、さーせん。",
+      "news_index": 4,
+      "start_sec": 306.43,
+      "end_sec": 309.05
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "今から遊びたい人は、どうすればいいのだ？",
+      "news_index": 5,
+      "start_sec": 309.2,
+      "end_sec": 312.13
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kangae",
+      "text": "そこが切ないとこっす。この作品、権利の事情でずっと復刻が難しかったっす。",
+      "news_index": 5,
+      "start_sec": 312.28,
+      "end_sec": 317.72
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "権利って、ゲームを遊ぶ権利のことなのだ？",
+      "news_index": 5,
+      "start_sec": 317.87,
+      "end_sec": 321.25
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "会社の権利の話っす。データイーストが2003年に破産しちゃったっす。",
+      "news_index": 5,
+      "start_sec": 321.4,
+      "end_sec": 325.91
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "戦車より、会社の方が先に大破してたのだ……",
+      "news_index": 5,
+      "start_sec": 326.06,
+      "end_sec": 329.34
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "shirake",
+      "text": "先輩、上手いこと言った顔しないでほしいっす。",
+      "news_index": 5,
+      "start_sec": 329.49,
+      "end_sec": 332.78
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "……ごめんなのだ。",
+      "news_index": 5,
+      "start_sec": 332.93,
+      "end_sec": 333.84
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "でもリメイクはちゃんと出てるっす。ゲームボーイアドバンスの、メタルマックス2改っす。",
+      "news_index": 5,
+      "start_sec": 333.99,
+      "end_sec": 338.95
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "改って、改造の改なのだ？戦車のゲームらしくていいのだ。",
+      "news_index": 5,
+      "start_sec": 339.1,
+      "end_sec": 343.66
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "それなっす！さらにニンテンドーDSで、リローデッドって大幅リメイクも出てるっす。",
+      "news_index": 5,
+      "start_sec": 343.81,
+      "end_sec": 348.82
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "どっちが本命なのだ？",
+      "news_index": 5,
+      "start_sec": 348.97,
+      "end_sec": 350.62
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kangae",
+      "text": "シリーズ最高傑作って声が多いのは、リローデッドの方っす。元のスーパーファミコン版とは、別物として語られてるっす。",
+      "news_index": 5,
+      "start_sec": 350.77,
+      "end_sec": 358.52
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに原作は隠れた名作、リメイクは化けた傑作。そういう住み分けっすね。",
+      "news_index": 5,
+      "start_sec": 358.6,
+      "end_sec": 363.71
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "剣と魔法が当たり前だった時代に、戦車で殴りに行った作品っす。だからカルト的に愛され続けてるっす。",
+      "news_index": 6,
+      "start_sec": 363.79,
+      "end_sec": 370.29
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ボク、ポチと一緒に荒野を走りたくなってきたのだ。",
+      "news_index": 6,
+      "start_sec": 370.44,
+      "end_sec": 374.22
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "先輩、結局ずっと犬の話してるっすね。",
+      "news_index": 6,
+      "start_sec": 374.37,
+      "end_sec": 377.54
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "だってリサイクル工場より、夢があるのだ！",
+      "news_index": 6,
+      "start_sec": 377.69,
+      "end_sec": 380.99
+    },
+    {
+      "index": 84,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そこ回収するんすか！オタクくんも、機会があったら触ってみてほしいっす。",
+      "news_index": 6,
+      "start_sec": 381.14,
+      "end_sec": 385.66
+    },
+    {
+      "index": 85,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "というわけで、今回のレトロ回はここまでなのだ！",
+      "news_index": 6,
+      "start_sec": 385.81,
+      "end_sec": 389.06
+    },
+    {
+      "index": 86,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "また旅の道ラジオで会いましょうっす！",
+      "news_index": 6,
+      "start_sec": 389.21,
+      "end_sec": 391.42
+    },
+    {
+      "index": 87,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "またなのだー！",
+      "news_index": 6,
+      "start_sec": 391.57,
+      "end_sec": 392.58
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 393.28,
+      "end_sec": 400.11
+    }
+  ],
+  "wall_time_sec": 16.04,
+  "audio_url": "/audio/indie/20260824_050416.mp3?v=1787516828"
+}
