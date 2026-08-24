@@ -1,0 +1,826 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-08-25T05:15:03+09:00",
+  "title": "密輸されたAI 〜家で動く頭脳と、消える本棚〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 414.43,
+  "script_hash": "sha256:164465a36fcb713c5e842330ba473673fcd299aed83724afe485f73c14517cb2",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 6.34
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便。四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 6.34,
+      "end_sec": 10.41
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝もテックの話、軽くいくのだー!",
+      "news_index": 0,
+      "start_sec": 10.56,
+      "end_sec": 14.93
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今日は四本ね。一本目からいきなり、事件よ。",
+      "news_index": 0,
+      "start_sec": 15.08,
+      "end_sec": 18.24
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "事件!? 朝ごはん前に物騒じゃん!",
+      "news_index": 0,
+      "start_sec": 18.39,
+      "end_sec": 21.07
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "AIのチップが、こっそり国境を越えてた話。",
+      "news_index": 0,
+      "start_sec": 21.22,
+      "end_sec": 24.34
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "密輸ってことなのだ? 急に映画みたいになってきたのだ!",
+      "news_index": 0,
+      "start_sec": 24.49,
+      "end_sec": 28.14
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そのあとは、自宅のパソコンで動く賢いAI、三十秒の動画、最後は十三年続いたマンガアプリのお別れ。",
+      "news_index": 0,
+      "start_sec": 28.29,
+      "end_sec": 35.86
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "最後だけ毛色がちがうのだ。まあ、聴くのだ。",
+      "news_index": 0,
+      "start_sec": 36.01,
+      "end_sec": 39.25
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ一本目。台湾の検察が八月二十四日に、九人をまとめて起訴したのよ。",
+      "news_index": 1,
+      "start_sec": 39.4,
+      "end_sec": 44.86
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "九人!? どういう集まりなのだ!?",
+      "news_index": 1,
+      "start_sec": 45.01,
+      "end_sec": 47.63
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "エヌビディアの台湾法人の幹部と、スーパーマイクロの拠点の社員たち。AI用のチップを積んだサーバーを、中国に流してた疑いね。",
+      "news_index": 1,
+      "start_sec": 47.78,
+      "end_sec": 56.4
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "すーぱーまいくろ? スーパーの、新しい業態だっけ?",
+      "news_index": 1,
+      "start_sec": 56.55,
+      "end_sec": 60.5
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "八百屋じゃないわよ。AIサーバーを組み立てて売ってる、アメリカの会社。",
+      "news_index": 1,
+      "start_sec": 60.65,
+      "end_sec": 65.03
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、AIの箱を作る会社じゃん! それがなんで、密輸に絡むのだ?",
+      "news_index": 1,
+      "start_sec": 65.18,
+      "end_sec": 70.34
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "アメリカが、Ｂ３００みたいな一部の先端ＡＩチップを、中国向けの輸出規制の対象にしてるの。ダメって言われるほど、値段は跳ね上がるのよ。",
+      "news_index": 1,
+      "start_sec": 70.49,
+      "end_sec": 79.31
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "えっ、禁止されたから、逆に儲かるってこと?",
+      "news_index": 1,
+      "start_sec": 79.46,
+      "end_sec": 82.82
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "その構図ね。狙われたのはサーバー百三十台で、そのうち七十四台が中国に渡り、残る五十六台は台湾にとどまったとされてるわ。",
+      "news_index": 1,
+      "start_sec": 82.97,
+      "end_sec": 91.89
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "二十五億ドル!? ボクのお小遣いを、何万年ぶん積み上げたら届くのだ!?",
+      "news_index": 1,
+      "start_sec": 92.04,
+      "end_sec": 97.28
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "一生ぶん積んでも桁が足りないわね。求刑は、最長で六年って話。",
+      "news_index": 1,
+      "start_sec": 97.43,
+      "end_sec": 101.91
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "そこだけ急に、現実的な数字なのだ……。",
+      "news_index": 1,
+      "start_sec": 102.06,
+      "end_sec": 106.15
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "で、私たちにどう効くか。今回の事件では、八台を超える高性能ＡＩサーバーの取引なら、販売側が顧客を現地確認する決まりもあったのよ。",
+      "news_index": 1,
+      "start_sec": 106.3,
+      "end_sec": 116.31
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、それってボクらが買うパソコンの部品にも、じわっと効いてくるやつじゃん?",
+      "news_index": 1,
+      "start_sec": 116.46,
+      "end_sec": 121.28
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "回り回ってね。今朝は「規制をかいくぐる手口も巧妙になってる」って一行で置いとくわ。",
+      "news_index": 1,
+      "start_sec": 121.43,
+      "end_sec": 127.19
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "こわい一行なのだ。次いくのだー!",
+      "news_index": 1,
+      "start_sec": 127.34,
+      "end_sec": 129.81
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目は、ぐっと手元の話。八月十五日に、二百七十億パラメーターのAIが無料で公開されたの。",
+      "news_index": 2,
+      "start_sec": 129.96,
+      "end_sec": 137.17
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ぱらめーたー? 部品の数、みたいなやつだっけ?",
+      "news_index": 2,
+      "start_sec": 137.32,
+      "end_sec": 140.89
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "ＡＩが学習で調整した、判断のつまみの数だと思って。多いほど保存や計算に必要な容量は増えるけど、賢さは数だけでは決まらないのよ。",
+      "news_index": 2,
+      "start_sec": 141.04,
+      "end_sec": 150.83
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "二百七十億って、めちゃくちゃ多いじゃん!",
+      "news_index": 2,
+      "start_sec": 150.98,
+      "end_sec": 153.9
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "それが今の基準だと「小型」なの。上のモデルは、その何十倍もあるから。",
+      "news_index": 2,
+      "start_sec": 154.05,
+      "end_sec": 158.83
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "小型で二百七十億……感覚が壊れるのだ。",
+      "news_index": 2,
+      "start_sec": 158.98,
+      "end_sec": 162.4
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "面白いのはここから。作った側の測定だと、プログラムを直す試験で、大手の最上位モデルを上回ったんですって。",
+      "news_index": 2,
+      "start_sec": 162.55,
+      "end_sec": 169.88
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "上回った!? タダのやつが、月額払ってるやつに勝つってこと!?",
+      "news_index": 2,
+      "start_sec": 170.03,
+      "end_sec": 174.63
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "自社測定だから、そこは割り引いて聴きなさい。ただ、四ビットに軽量化した版なら、二十四ギガのメモリを積んだグラボ一枚でも自宅で動かせるのは本当よ。",
+      "news_index": 2,
+      "start_sec": 174.78,
+      "end_sec": 184.45
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "じゃあボクの部屋のパソコンが、いきなり賢くなるのだ!?",
+      "news_index": 2,
+      "start_sec": 184.6,
+      "end_sec": 188.12
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "喜ぶ前に、そのグラボの値段を見てきなさい。いま一番高い部品なんだから。",
+      "news_index": 2,
+      "start_sec": 188.27,
+      "end_sec": 192.92
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "……急に嬉しくなくなったのだ。",
+      "news_index": 2,
+      "start_sec": 193.07,
+      "end_sec": 195.84
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "しかも今月は、ほかの大手からも似た規模のモデルが立て続けに出てるの。この十日ほどでね。",
+      "news_index": 2,
+      "start_sec": 195.99,
+      "end_sec": 201.37
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "みんなそろって、「小さくて速い」方向に舵を切ってるってこと?",
+      "news_index": 2,
+      "start_sec": 201.52,
+      "end_sec": 205.95
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そういうこと。無料勢が有料勢に追いつく時間も、昔は一年半以上かかってたのが、いまは半年を切るって指摘まで出てるわ。",
+      "news_index": 2,
+      "start_sec": 206.1,
+      "end_sec": 214.51
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "追いかけっこが、早送りになってるのだ!",
+      "news_index": 2,
+      "start_sec": 214.66,
+      "end_sec": 217.28
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに、月額サービス以外に、自分のパソコンで動かす選択肢も強くなってる、って話ね。",
+      "news_index": 2,
+      "start_sec": 217.43,
+      "end_sec": 223.45
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目は、絵や動画をやってるかた向け。アリババが八月二十四日に、動画を作るAIの新型を出したわ。",
+      "news_index": 3,
+      "start_sec": 223.53,
+      "end_sec": 230.48
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "動画を作るAIって、もうたくさんあるじゃん? なにが新しいのだ?",
+      "news_index": 3,
+      "start_sec": 230.63,
+      "end_sec": 235.4
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "長さね。ひと息で三十秒作れるようになったの。",
+      "news_index": 3,
+      "start_sec": 235.55,
+      "end_sec": 238.73
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "三十秒!? テレビのコマーシャルが、まるまる一本できるじゃん!",
+      "news_index": 3,
+      "start_sec": 238.88,
+      "end_sec": 243.22
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "前の世代は十五秒が上限だったから、ちょうど倍。そこが狙いでしょうね。",
+      "news_index": 3,
+      "start_sec": 243.37,
+      "end_sec": 247.68
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも、注文の仕方は今までと同じなのだ?",
+      "news_index": 3,
+      "start_sec": 247.83,
+      "end_sec": 251.07
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこも変わったのよ。文章だけじゃなく、写真も、音も、ピーディーエフやプレゼン資料まで、まるごと放り込めるの。",
+      "news_index": 3,
+      "start_sec": 251.22,
+      "end_sec": 258.2
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "資料を放り込む!? 会議の資料が、勝手に動画になるってこと!?",
+      "news_index": 3,
+      "start_sec": 258.35,
+      "end_sec": 263.0
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "ざっくり言えばそう。企画書を渡したら、紹介映像がそのまま出てくる世界。",
+      "news_index": 3,
+      "start_sec": 263.15,
+      "end_sec": 268.26
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "宿題のプリントを入れたら、アニメになったりしないのだ?",
+      "news_index": 3,
+      "start_sec": 268.41,
+      "end_sec": 272.18
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "なるかもね。ただ、それを提出したら怒られるやつよ。",
+      "news_index": 3,
+      "start_sec": 272.33,
+      "end_sec": 275.86
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "バレるのだ……。",
+      "news_index": 3,
+      "start_sec": 276.01,
+      "end_sec": 277.12
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "で、今回ちょっと引っかかるのが、中身を公開しない方針にしたこと。この会社、前は気前よく配ってた側なの。",
+      "news_index": 3,
+      "start_sec": 277.27,
+      "end_sec": 284.75
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "さっきの話と真逆じゃん! 無料で配る流れじゃなかったのだ?",
+      "news_index": 3,
+      "start_sec": 284.9,
+      "end_sec": 289.01
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今回はクラウドで提供されていて、モデル本体は公開されてないのよ。だから今のところ、利用条件は提供サービス側しだいね。",
+      "news_index": 3,
+      "start_sec": 289.16,
+      "end_sec": 297.35
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "文章はタダ寄り、動画は有料寄り。覚えたのだ。",
+      "news_index": 3,
+      "start_sec": 297.5,
+      "end_sec": 301.24
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあラスト四本目。マンガアプリのコミコが、来年の一月六日で終わるわ。",
+      "news_index": 4,
+      "start_sec": 301.39,
+      "end_sec": 306.09
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "終わる!? ボクが積んでる作品、どうなっちゃうのだ!?",
+      "news_index": 4,
+      "start_sec": 306.24,
+      "end_sec": 309.77
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "発表は八月十七日。二〇一三年からだから、だいたい十三年続いたサービスね。",
+      "news_index": 4,
+      "start_sec": 309.92,
+      "end_sec": 315.77
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "十三年! スマホでマンガを読むのが普通になる前からあったやつじゃん!",
+      "news_index": 4,
+      "start_sec": 315.92,
+      "end_sec": 320.32
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "縦にスクロールして読む、あの形を日本に広めた立役者の一つよ。",
+      "news_index": 4,
+      "start_sec": 320.47,
+      "end_sec": 325.02
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、いちばん大事なとこなのだ。買ったマンガは、消えちゃうのだ?",
+      "news_index": 4,
+      "start_sec": 325.17,
+      "end_sec": 329.57
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこは救いがあるわ。買った作品は、権利元の許可が取れたものに限って、めちゃコミックへ引き継げるよう準備が進んでるの。",
+      "news_index": 4,
+      "start_sec": 329.72,
+      "end_sec": 337.29
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "全部じゃないけど、引き継げる作品があるのは助かるのだー!",
+      "news_index": 4,
+      "start_sec": 337.44,
+      "end_sec": 341.25
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ただし期限つき。引き継ぎと、使ってない有料コインの返金申請は、来年の一月七日から四月三十日までよ。",
+      "news_index": 4,
+      "start_sec": 341.4,
+      "end_sec": 349.15
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "期限があるやつ、ボクぜったい忘れるじゃん……。",
+      "news_index": 4,
+      "start_sec": 349.3,
+      "end_sec": 353.27
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "しかも手前の締め切りは、もっと早いの。今月三十一日でコインの販売と新規登録が止まって、九月二十八日には購入もレンタルもできなくなるわ。",
+      "news_index": 4,
+      "start_sec": 353.42,
+      "end_sec": 363.13
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "今月三十一日!? もう来週じゃん!",
+      "news_index": 4,
+      "start_sec": 363.28,
+      "end_sec": 366.26
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kamera",
+      "text": "読み残しがあるかたは、今週のうちに自分の棚を確認なさい。",
+      "news_index": 4,
+      "start_sec": 366.41,
+      "end_sec": 370.32
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "これは他人事じゃないのだ。買ったものは、早めに読むしかないのだね。",
+      "news_index": 4,
+      "start_sec": 370.47,
+      "end_sec": 374.76
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "デジタルの棚は、お店ごと消えることがあるって話ね。",
+      "news_index": 4,
+      "start_sec": 374.91,
+      "end_sec": 378.93
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "というわけで今朝は四本。密輸事件、自宅で動くAI、三十秒の動画、コミコのお別れ。",
+      "news_index": 0,
+      "start_sec": 379.01,
+      "end_sec": 384.99
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "朝から情報の密度が高いのだー!",
+      "news_index": 0,
+      "start_sec": 385.14,
+      "end_sec": 387.52
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "気になったのがあったら、通勤のあいだに調べてみて。",
+      "news_index": 0,
+      "start_sec": 387.67,
+      "end_sec": 390.86
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "ボクは帰ったら、グラボの値段を見て泣くのだ。",
+      "news_index": 0,
+      "start_sec": 391.01,
+      "end_sec": 395.02
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "泣く前に、まず電気代の心配をなさい。",
+      "news_index": 0,
+      "start_sec": 395.17,
+      "end_sec": 397.92
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "うっ、そっちも高いのだー!",
+      "news_index": 0,
+      "start_sec": 398.07,
+      "end_sec": 400.15
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ今朝はこのへんで。旅の道ラジオ朝便、四国めたんでした。",
+      "news_index": 0,
+      "start_sec": 400.3,
+      "end_sec": 404.76
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ずんだもんなのだー! いってらっしゃいなのだー!",
+      "news_index": 0,
+      "start_sec": 404.91,
+      "end_sec": 407.69
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 408.39,
+      "end_sec": 414.43
+    }
+  ],
+  "wall_time_sec": 13.99,
+  "audio_url": "/audio/ai/20260825_051503.mp3?v=1787603184"
+}
