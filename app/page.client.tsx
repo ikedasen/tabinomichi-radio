@@ -434,14 +434,18 @@ export default function PageClient() {
                               <HomeViewCount count={viewCounts[ep.episode_id]} />
                             </div>
 
-                            <div className="px-6 py-4 flex flex-col min-w-0">
-                              <div className="mb-1.5">
+                            {/* 余白の合計が画像 (320x180) の高さを超えると、その差がそのまま
+                                画像の下の隙間になる。実測 (2026-08-26):
+                                  py-4 32 + タグ 30 + タイトル 35.5 + 作品名行 28 + 説明 68.3 = 193.8
+                                → 13.8px の隙間。py-3 と各 mb を 1 段詰めて 180px 以内に収める。 */}
+                            <div className="px-6 py-3 flex flex-col min-w-0">
+                              <div className="mb-1">
                                 <ProfileBadge profile={ep.profile} className="text-xs" />
                               </div>
-                              <h3 className="text-xl font-bold text-white leading-snug mb-2 line-clamp-2">
+                              <h3 className="text-xl font-bold text-white leading-snug mb-1.5 line-clamp-2">
                                 {ep.title}
                               </h3>
-                              <div className="flex items-center justify-between gap-3 mb-2">
+                              <div className="flex items-center justify-between gap-3 mb-1.5">
                                 <div className="text-sm text-[#66c0f4] font-medium truncate">
                                   {game?.title || ''}
                                 </div>
