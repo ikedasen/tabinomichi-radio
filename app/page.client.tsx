@@ -411,8 +411,13 @@ export default function PageClient() {
                               zatsugaku_thumbnail が作る 1920x1080) と同じ比率なので、
                               object-cover でも左右が切れない。240px (=4:3) だと左右 12.5% ずつ
                               削られて、両端に立つずんだ/めたん/あんこもんが見切れていた。 */}
-                          <div className="hidden md:grid md:grid-cols-[320px_1fr] md:h-[180px]">
-                            <div className="relative w-full bg-zinc-900 overflow-hidden md:h-full">
+                          <div className="hidden md:grid md:grid-cols-[320px_1fr] md:min-h-[180px]">
+                            {/* 画像枠は aspect で 16:9 に固定する。
+                                grid のコンテナに height を付けても行の高さは中身 (右の本文) で
+                                決まるため、h-full だと本文の行数によって画像の高さが変わり、
+                                16:9 からずれて object-cover が左右を削っていた (実測 320x193.8)。
+                                self-start で stretch を無効にしないと aspect が上書きされる。 */}
+                            <div className="relative w-full bg-zinc-900 overflow-hidden md:aspect-[16/9] md:self-start">
                               {bg ? (
                                 // eslint-disable-next-line @next/next/no-img-element
                                 <img
