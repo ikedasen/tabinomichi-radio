@@ -1404,23 +1404,34 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
               <aside className="hidden md:block sticky top-6 self-start space-y-3">
                 {/* 右カラム header は固定 (rotation せず)、cover 画像 1 枚を表示。
                     左メイン jacket の方が 30 秒周期で cover+screenshots を rotate */}
-                <div className="relative w-full rounded-2xl overflow-hidden ring-1 ring-white/10 shadow-2xl" style={{ aspectRatio: '460 / 215' }}>
-                  {/* eslint-disable-next-line @next/next/no-img-element */}
-                  <img
-                    src={
-                      // header_url は radio_export.py が mtime ?v= 付きで焼く
-                      // (SW が /images/ を cache-first 永続化するため、無いと
-                      // Steam jacket 差し替えても古い画像が出続ける)。
-                      // 旧 ep (header_url 無) は app_id fallback、それも無ければ image_rel。
-                      program.featured_game.header_url
-                        || (program.featured_game.app_id
-                              ? `/images/games/${program.featured_game.app_id}_header.jpg`
-                              : program.featured_game.image_rel || '')
-                    }
-                    alt={program.featured_game.title}
-                    className="absolute inset-0 w-full h-full object-cover"
-                  />
-                </div>
+                {(() => {
+                  // header_url は radio_export.py が mtime ?v= 付きで焼く
+                  // (SW が /images/ を cache-first 永続化するため、無いと
+                  // Steam jacket 差し替えても古い画像が出続ける)。
+                  // 旧 ep (header_url 無) は app_id fallback、それも無ければ image_rel。
+                  const src =
+                    program.featured_game.header_url
+                      || (program.featured_game.app_id
+                            ? `/images/games/${program.featured_game.app_id}_header.jpg`
+                            : program.featured_game.image_rel || '')
+                  // 枠の比率は中身に合わせる。Steam の header は 460x215 (約 2.14:1)、
+                  // 自前で合成したカード (/images/topics/*_chars.webp) は 16:9。
+                  // 一律 460/215 にしていたため、合成カードは上下が 8.5% ずつ切れていた。
+                  const isSteamHeader = /_header\.(jpe?g|png)/i.test(src)
+                  return (
+                    <div
+                      className="relative w-full rounded-2xl overflow-hidden ring-1 ring-white/10 shadow-2xl"
+                      style={{ aspectRatio: isSteamHeader ? '460 / 215' : '16 / 9' }}
+                    >
+                      {/* eslint-disable-next-line @next/next/no-img-element */}
+                      <img
+                        src={src}
+                        alt={program.featured_game.title}
+                        className="absolute inset-0 w-full h-full object-cover"
+                      />
+                    </div>
+                  )
+                })()}
                 <div className="bg-black/30 backdrop-blur-sm rounded-2xl p-5">
                   <div className="flex items-baseline justify-between gap-3 mb-2">
                     <h2 className="text-lg font-bold text-zinc-50 leading-tight">
