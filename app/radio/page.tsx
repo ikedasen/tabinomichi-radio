@@ -1099,14 +1099,21 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
                   : `/characters/ankomon/${ankomonTone}.png`
 
                 // 右側に立つ相方を 1 つに決める (立ち絵・active 判定・配置オフセット)。
-                // あんこもんの PSD は 1500x3300 と縦長で、素体の右マージンが
-                // めたん/つむぎ (約 10%) より狭い (約 6.5%)。同じ right:-22% だと
-                // 画面外へ出過ぎるので、あんこもんだけ内側に寄せる。
+                //
+                // オフセットは「体が枠外にどれだけ切れるか」で揃えている。left/right の %
+                // は枠に対する値だが、PSD ごとに画像の縦横比も素体の余白も違うので、
+                // 同じ % でも切れ方は揃わない。実測 (alpha bbox ベース):
+                //   ankomon right:-5%   -> はみ出し  2%   (PSD 1500x3300、右余白 6.5%)
+                //   metan   right:-14%  -> はみ出し  8%   (PSD 1082x1820、右余白 10.4%)
+                //   tsumugi right:-14%  -> はみ出し  8%
+                //   zunda   left:-16%   -> はみ出し  8%   (scaleX(-1) 済みなので元の右余白が効く)
+                // 2026-08-25: 中央寄せの要望で 24/22% (はみ出し 17%) から半減させた。
+                // さらに寄せてあんこもんと完全に揃えるなら zunda -9% / 他 -8%。
                 const partner = hasAnkomon
                   ? { src: ankomonSrc, active: ankomonActive, right: '-5%' }
                   : hasTsumugi
-                  ? { src: tsumugiSrc, active: tsumugiActive, right: '-22%' }
-                  : { src: metanSrc,   active: metanActive,   right: '-22%' }
+                  ? { src: tsumugiSrc, active: tsumugiActive, right: '-14%' }
+                  : { src: metanSrc,   active: metanActive,   right: '-14%' }
 
                 return (
                   <>
@@ -1116,7 +1123,7 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
                       alt=""
                       className="absolute pointer-events-none drop-shadow-2xl"
                       style={{
-                        left: '-24%',
+                        left: '-16%',
                         bottom: '-32%',
                         height: '100%',
                         zIndex: zundaActive ? 5 : 4,
