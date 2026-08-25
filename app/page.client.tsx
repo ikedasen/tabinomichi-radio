@@ -406,8 +406,12 @@ export default function PageClient() {
                             </div>
                           </div>
 
-                          {/* Desktop (md+): 既存の横並びレイアウト据え置き */}
-                          <div className="hidden md:grid md:grid-cols-[240px_1fr] md:h-[180px]">
+                          {/* Desktop (md+): 横並び。
+                              画像枠は 320x180 = 16:9 にする。カード画像 (tech_compose_hero /
+                              zatsugaku_thumbnail が作る 1920x1080) と同じ比率なので、
+                              object-cover でも左右が切れない。240px (=4:3) だと左右 12.5% ずつ
+                              削られて、両端に立つずんだ/めたん/あんこもんが見切れていた。 */}
+                          <div className="hidden md:grid md:grid-cols-[320px_1fr] md:h-[180px]">
                             <div className="relative w-full bg-zinc-900 overflow-hidden md:h-full">
                               {bg ? (
                                 // eslint-disable-next-line @next/next/no-img-element
