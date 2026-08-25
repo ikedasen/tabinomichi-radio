@@ -1103,7 +1103,7 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
                 // めたん/つむぎ (約 10%) より狭い (約 6.5%)。同じ right:-22% だと
                 // 画面外へ出過ぎるので、あんこもんだけ内側に寄せる。
                 const partner = hasAnkomon
-                  ? { src: ankomonSrc, active: ankomonActive, right: '-14%' }
+                  ? { src: ankomonSrc, active: ankomonActive, right: '-5%' }
                   : hasTsumugi
                   ? { src: tsumugiSrc, active: tsumugiActive, right: '-22%' }
                   : { src: metanSrc,   active: metanActive,   right: '-22%' }
