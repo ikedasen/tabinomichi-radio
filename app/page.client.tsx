@@ -95,17 +95,44 @@ const MaskIcon = ({ src, className = '', style = {} }: { src: string; className?
   }} />
 )
 
-type Profile = 'indie' | 'ai'
+// 'all' は「まとめ」タブ = プロフィール横断で全エピソードを日付順に並べる仮想タブ。
+// episodes.json 側に profile:'all' のレコードがあるわけではない (フィルタしないだけ)。
+type Profile = 'all' | 'indie' | 'ai' | 'zatsugaku'
+
+const PROFILE_KEYS = ['all', 'indie', 'ai', 'zatsugaku'] as const
+
+// URL の ?profile= を Profile に正規化する。未知の値・未指定は 'all' (既定 = まとめ)。
+const parseProfile = (raw: string | null | undefined): Profile =>
+  (PROFILE_KEYS as readonly string[]).includes(raw ?? '') ? (raw as Profile) : 'all'
+
+// タブごとのホーム URL。既定タブ (all) だけクエリなし。
+const profileHref = (p: Profile): string => (p === 'all' ? '/' : `/?profile=${p}`)
+
+// カード上のジャンルラベル。まとめタブでは全プロフィールが日付順に混ざるので、
+// タイトルだけだと何の回か分からない。タイトルの上に必ず出す。
+const PROFILE_BADGES: Record<string, { label: string; className: string }> = {
+  indie:     { label: 'ゲーム',         className: 'bg-[#66c0f4]/20 text-[#9fd4f7] ring-[#66c0f4]/40' },
+  ai:        { label: 'テックニュース', className: 'bg-amber-400/20 text-amber-200 ring-amber-400/40' },
+  zatsugaku: { label: '雑学',           className: 'bg-rose-400/20 text-rose-200 ring-rose-400/40' },
+}
+
+function ProfileBadge({ profile, className = '' }: { profile: string; className?: string }) {
+  const b = PROFILE_BADGES[profile]
+  if (!b) return null
+  return (
+    <span className={`inline-flex items-center rounded-full px-2 py-0.5 font-medium ring-1 ${b.className} ${className}`}>
+      {b.label}
+    </span>
+  )
+}
 
 export default function PageClient() {
   const searchParamsForProfile = useSearchParams()
-  const initialProfile: Profile =
-    searchParamsForProfile?.get('profile') === 'ai' ? 'ai' : 'indie'
+  const initialProfile: Profile = parseProfile(searchParamsForProfile?.get('profile'))
   const [profile, setProfile] = useState<Profile>(initialProfile)
   // 戻る/進むで URL が変わった時、profile state を URL と同期させる
   useEffect(() => {
-    const fromUrl: Profile =
-      searchParamsForProfile?.get('profile') === 'ai' ? 'ai' : 'indie'
+    const fromUrl: Profile = parseProfile(searchParamsForProfile?.get('profile'))
     setProfile((prev) => (prev === fromUrl ? prev : fromUrl))
   }, [searchParamsForProfile])
   const [allEpisodes, setAllEpisodes] = useState<Episode[]>([])
@@ -125,7 +152,11 @@ export default function PageClient() {
     return () => { cancelled = true }
   }, [])
 
-  const episodes = allEpisodes.filter((e) => e.profile === profile)
+  // まとめタブは絞り込まない。episodes.json は全プロフィール混在で、
+  // 表示側が日付グループ化するので、そのまま渡せば新しい順に並ぶ。
+  const episodes = profile === 'all'
+    ? allEpisodes
+    : allEpisodes.filter((e) => e.profile === profile)
 
   // 再生数は静的スナップショット /data/views.json から読む (デプロイ時に生成)。
   // トップページは実行時に /api/views を一切叩かない -> KV read 課金事故を
@@ -155,7 +186,7 @@ export default function PageClient() {
   const handleProfileChange = (next: Profile) => {
     setProfile(next)
     const params = new URLSearchParams()
-    if (next !== 'indie') params.set('profile', next)
+    if (next !== 'all') params.set('profile', next)
     // ジャンルフィルタは解除 (タブ切替時は別カテゴリへ移るため)
     const qs = params.toString()
     router.replace(qs ? `${pathname}?${qs}` : pathname, { scroll: false })
@@ -210,8 +241,10 @@ export default function PageClient() {
         {/* プロファイル切替タブ */}
         <div className="mb-6 flex items-center gap-2 border-b border-[#c7d5e0]/15">
           {([
-            { key: 'indie', label: 'ゲーム' },
-            { key: 'ai',    label: 'テックニュース' },
+            { key: 'all',       label: 'まとめ' },
+            { key: 'indie',     label: 'ゲーム' },
+            { key: 'ai',        label: 'テックニュース' },
+            { key: 'zatsugaku', label: '雑学' },
           ] as { key: Profile; label: string }[]).map((tab) => {
             const active = profile === tab.key
             return (
@@ -240,7 +273,7 @@ export default function PageClient() {
             <span className="text-[#c7d5e0]/80">ジャンルで絞り込み中:</span>
             <span className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-[#66c0f4]/20 ring-1 ring-[#66c0f4]/40 text-[#c7d5e0]">
               {filterGenre}
-              <Link href={profile === 'ai' ? '/?profile=ai' : '/'} className="text-[#c7d5e0]/70 hover:text-white" aria-label="フィルタ解除">×</Link>
+              <Link href={profileHref(profile)} className="text-[#c7d5e0]/70 hover:text-white" aria-label="フィルタ解除">×</Link>
             </span>
           </div>
         )}
@@ -326,7 +359,7 @@ export default function PageClient() {
                               <HomeViewCount count={viewCounts[ep.episode_id]} />
                             </div>
 
-                            <div className="relative h-[140px] overflow-hidden border-t border-white/15">
+                            <div className="relative h-[164px] overflow-hidden border-t border-white/15">
                               {bg ? (
                                 // eslint-disable-next-line @next/next/no-img-element
                                 <img
@@ -340,6 +373,9 @@ export default function PageClient() {
                               )}
                               <div className="absolute inset-0 bg-zinc-900/45" />
                               <div className="relative z-10 h-full px-4 py-3 flex flex-col">
+                                <div className="mb-1.5">
+                                  <ProfileBadge profile={ep.profile} className="text-[10px]" />
+                                </div>
                                 <h3 className="font-bold text-base text-white leading-snug line-clamp-2 mb-1.5">
                                   {ep.title}
                                 </h3>
@@ -378,6 +414,9 @@ export default function PageClient() {
                             </div>
 
                             <div className="px-6 py-4 flex flex-col min-w-0">
+                              <div className="mb-1.5">
+                                <ProfileBadge profile={ep.profile} className="text-xs" />
+                              </div>
                               <h3 className="text-xl font-bold text-white leading-snug mb-2 line-clamp-2">
                                 {ep.title}
                               </h3>

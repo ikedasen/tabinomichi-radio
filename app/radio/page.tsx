@@ -9,7 +9,7 @@ import { VALID_TONES, type Tone } from './generated/valid-tones'
 type SpeechSegment = {
   index: number
   type: 'speech'
-  speaker: 'zunda' | 'metan' | 'tsumugi'
+  speaker: 'zunda' | 'metan' | 'tsumugi' | 'ankomon'
   text: string
   tone?: string
   news_index?: number | null
@@ -20,7 +20,7 @@ type SpeechSegment = {
 type MusicSegment = {
   index: number
   type: 'music'
-  intro_speaker: 'zunda' | 'metan' | 'tsumugi'
+  intro_speaker: 'zunda' | 'metan' | 'tsumugi' | 'ankomon'
   intro_text: string
   tone?: string
   news_index?: number | null
@@ -280,10 +280,12 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
   const [zundaBlink, setZundaBlink] = useState(false)
   const [metanBlink, setMetanBlink] = useState(false)
   const [tsumugiBlink, setTsumugiBlink] = useState(false)
+  const [ankomonBlink, setAnkomonBlink] = useState(false)
   // 口パク phase: 0=closed, 1=mid, 2=open (3-state cycle 0→1→2→1→0→1→...)
   const [zundaMouth, setZundaMouth] = useState(0)
   const [metanMouth, setMetanMouth] = useState(0)
   const [tsumugiMouth, setTsumugiMouth] = useState(0)
+  const [ankomonMouth, setAnkomonMouth] = useState(0)
 
   // 各キャラの最後に active だった時の tone を覚えておくための ref。
   // 自分の次の発話まで前回の表情を保持するため (例: つむぎが kanashimi で
@@ -293,6 +295,7 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
   const lastZundaTone = useRef<Tone>('normal')
   const lastMetanTone = useRef<Tone>('normal')
   const lastTsumugiTone = useRef<Tone>('normal')
+  const lastAnkomonTone = useRef<Tone>('normal')
 
   // 2026-05-19: Wake Lock API でスリープ抑制。
   // YouTube/Spotify Web Player と同様、再生中は画面/CPU sleep を防ぐ。
@@ -382,9 +385,19 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
       }, delay)
       return id
     }
+    const scheduleAnkomon = () => {
+      const delay = 2600 + Math.random() * 4100
+      const id = setTimeout(() => {
+        if (cancelled) return
+        setAnkomonBlink(true)
+        setTimeout(() => { if (!cancelled) setAnkomonBlink(false); scheduleAnkomon() }, 160)
+      }, delay)
+      return id
+    }
     scheduleZunda()
     scheduleMetan()
     scheduleTsumugi()
+    scheduleAnkomon()
     return () => { cancelled = true }
   }, [])
 
@@ -743,6 +756,7 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
       if (currentSegment.speaker === 'zunda') lastZundaTone.current = t
       else if (currentSegment.speaker === 'metan') lastMetanTone.current = t
       else if (currentSegment.speaker === 'tsumugi') lastTsumugiTone.current = t
+      else if (currentSegment.speaker === 'ankomon') lastAnkomonTone.current = t
     }
   }, [currentSegment])
 
@@ -753,17 +767,21 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
   useEffect(() => {
     const isSpeech = currentSegment?.type === 'speech'
     const isIntroSeg = currentSegment?.type === 'intro'
-    // tsumugi がいる episode の intro は title call もつむぎが担当
+    // tsumugi がいる episode の intro は title call もつむぎが担当。
+    // 雑学回 (ankomon 出演) はあんこもんが担当 — backend/tools/radio_intro.py の
+    // cast 判定 (zatsugaku > retro > default) と同じ優先順にする。
     const introHasTsumugi = isIntroSeg && segments.some(s => s.type === 'speech' && s.speaker === 'tsumugi')
+    const introHasAnkomon = isIntroSeg && segments.some(s => s.type === 'speech' && s.speaker === 'ankomon')
     const speaker = isSpeech
       ? currentSegment.speaker
       : isIntroSeg
-      ? (introHasTsumugi ? 'tsumugi' : 'metan')
+      ? (introHasAnkomon ? 'ankomon' : introHasTsumugi ? 'tsumugi' : 'metan')
       : null
     if (!isPlaying || !speaker) {
       setZundaMouth(0)
       setMetanMouth(0)
       setTsumugiMouth(0)
+      setAnkomonMouth(0)
       return
     }
     const PATTERNS: number[][] = [
@@ -785,24 +803,17 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
           setMetanMouth(0)
           setZundaMouth(0)
           setTsumugiMouth(0)
+          setAnkomonMouth(0)
           return
         }
       }
       const frame = pattern[step % pattern.length]
       step++
-      if (speaker === 'zunda') {
-        setZundaMouth(frame)
-        setMetanMouth(0)
-        setTsumugiMouth(0)
-      } else if (speaker === 'metan') {
-        setMetanMouth(frame)
-        setZundaMouth(0)
-        setTsumugiMouth(0)
-      } else if (speaker === 'tsumugi') {
-        setTsumugiMouth(frame)
-        setZundaMouth(0)
-        setMetanMouth(0)
-      }
+      // 発話者だけ frame を進め、他は 0 (閉じ) に落とす。
+      setZundaMouth(speaker === 'zunda' ? frame : 0)
+      setMetanMouth(speaker === 'metan' ? frame : 0)
+      setTsumugiMouth(speaker === 'tsumugi' ? frame : 0)
+      setAnkomonMouth(speaker === 'ankomon' ? frame : 0)
     }, 100)
     return () => clearInterval(id)
   }, [isPlaying, currentSegment])
@@ -994,8 +1005,10 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
                   </>
                 )
               })()}
-              {/* ずんだ (左) + めたん or つむぎ (右) の立ち絵: tone 切替 + 目パチ + 口パク + intro マイク持ち
-                  retro 回はめたんの代わりにつむぎが出る (segments を見て自動判定) */}
+              {/* ずんだ (左) + めたん / つむぎ / あんこもん (右) の立ち絵:
+                  tone 切替 + 目パチ + 口パク + intro マイク持ち。
+                  右側の相方は segments を見て自動判定する:
+                    ankomon 出演 → 雑学回、tsumugi 出演 → レトロ回、それ以外 → めたん */}
               {(() => {
                 // VALID_TONES は backend/data/speakers/*.json から自動生成 (npm run gen:tones)。
                 // 新 tone 追加時は speaker JSON 編集 → gen:tones → 自動反映。
@@ -1007,10 +1020,12 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
                 const zundaActive   = activeSpeaker === 'zunda'
                 const metanActive   = activeSpeaker === 'metan'
                 const tsumugiActive = activeSpeaker === 'tsumugi'
+                const ankomonActive = activeSpeaker === 'ankomon'
 
-                // Determine cast: if any segment uses tsumugi, this is a retro episode
-                // where tsumugi replaces metan on the right side.
+                // Determine cast: tsumugi (retro) / ankomon (雑学) がいれば
+                // その回はめたんの代わりに右側に立つ。
                 const hasTsumugi = segments.some(s => s.type === 'speech' && s.speaker === 'tsumugi')
+                const hasAnkomon = segments.some(s => s.type === 'speech' && s.speaker === 'ankomon')
 
                 // partner_tone: speech segment に付けると「発話してない側」の立ち絵 tone を override
                 const partnerToneRaw = (currentSegment && 'partner_tone' in currentSegment ? (currentSegment as any).partner_tone : undefined) as Tone | undefined
@@ -1028,6 +1043,9 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
                 const tsumugiTone: Tone = tsumugiActive
                   ? tone
                   : (partnerTone ?? lastTsumugiTone.current)
+                const ankomonTone: Tone = ankomonActive
+                  ? tone
+                  : (partnerTone ?? lastAnkomonTone.current)
 
                 // mouth phase -> suffix: 0=base, 1=_talk (mid), 2=_talk2 (open)
                 const mouthSuffix = (m: number) => m === 2 ? '_talk2' : m === 1 ? '_talk' : ''
@@ -1061,6 +1079,27 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
                   ? `/characters/tsumugi/${tsumugiTone}${mouthSuffix(tsumugiMouth)}.png`
                   : `/characters/tsumugi/${tsumugiTone}.png`
 
+                // あんこもん image state (intro 時はマイク持ち+カメラ目線ポーズ + 口パク)
+                const ankomonSrc = (isIntro && hasAnkomon)
+                  ? (ankomonBlink
+                      ? `/characters/ankomon/intro_blink.png`
+                      : `/characters/ankomon/intro${mouthSuffix(ankomonMouth)}.png`)
+                  : ankomonBlink
+                  ? `/characters/ankomon/${ankomonTone}_blink.png`
+                  : ankomonActive
+                  ? `/characters/ankomon/${ankomonTone}${mouthSuffix(ankomonMouth)}.png`
+                  : `/characters/ankomon/${ankomonTone}.png`
+
+                // 右側に立つ相方を 1 つに決める (立ち絵・active 判定・配置オフセット)。
+                // あんこもんの PSD は 1500x3300 と縦長で、素体の右マージンが
+                // めたん/つむぎ (約 10%) より狭い (約 6.5%)。同じ right:-22% だと
+                // 画面外へ出過ぎるので、あんこもんだけ内側に寄せる。
+                const partner = hasAnkomon
+                  ? { src: ankomonSrc, active: ankomonActive, right: '-14%' }
+                  : hasTsumugi
+                  ? { src: tsumugiSrc, active: tsumugiActive, right: '-22%' }
+                  : { src: metanSrc,   active: metanActive,   right: '-22%' }
+
                 return (
                   <>
                     {/* eslint-disable-next-line @next/next/no-img-element */}
@@ -1083,14 +1122,14 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
                     />
                     {/* eslint-disable-next-line @next/next/no-img-element */}
                     <img
-                      src={hasTsumugi ? tsumugiSrc : metanSrc}
+                      src={partner.src}
                       alt=""
                       className="absolute pointer-events-none drop-shadow-2xl"
                       style={{
-                        right: '-22%',
+                        right: partner.right,
                         bottom: '-32%',
                         height: '100%',
-                        zIndex: (hasTsumugi ? tsumugiActive : metanActive) ? 5 : 4,
+                        zIndex: partner.active ? 5 : 4,
                       }}
                       onError={(e) => { (e.currentTarget as HTMLImageElement).style.display = 'none' }}
                       onLoad={(e) => { (e.currentTarget as HTMLImageElement).style.display = '' }}
@@ -1126,6 +1165,8 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
                     '[text-shadow:_0_0_6px_rgb(0_0_0_/_0.95),_0_2px_4px_rgb(0_0_0_/_0.9),_0_0_2px_rgb(0_0_0_/_1)]',
                     currentSegment.speaker === 'zunda'
                       ? 'text-emerald-200'
+                      : currentSegment.speaker === 'ankomon'
+                      ? 'text-rose-200'
                       : 'text-zinc-50',
                   ].join(' ')}>
                     {currentSegment.text}
@@ -1277,7 +1318,10 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
                       speakerLabel = '🎵'
                       text = seg.text
                     } else if (seg.type === 'speech') {
-                      speakerLabel = seg.speaker === 'zunda' ? '🟢' : seg.speaker === 'tsumugi' ? '🌸' : '🔴'
+                      speakerLabel = seg.speaker === 'zunda' ? '🟢'
+                        : seg.speaker === 'tsumugi' ? '🌸'
+                        : seg.speaker === 'ankomon' ? '🟣'
+                        : '🔴'
                       text = seg.text
                     }
                     return (
