@@ -1,17 +1,17 @@
 {
   "profile": "zatsugaku",
   "generated_at": "2026-08-25T21:36:59+09:00",
-  "title": "宇宙服の一番の敵は寒さではない 〜真空では、熱が捨てられない〜",
+  "title": "宇宙服が戦う相手は寒さではない 〜真空では、熱が逃げにくい〜",
   "audio_path": "zatsugaku_latest.wav",
-  "duration_sec": 395.5,
-  "script_hash": "sha256:9d29aa2284c2b51a749608b6156287dc91e0867faa066c7c35ad8e14937e2edd",
+  "duration_sec": 396.67,
+  "script_hash": "sha256:5c33c84da425ac6629f913b30ba6a4ecff1a0241e88fe02df276fd15a2de2720",
   "segments": [
     {
       "index": -1,
       "type": "intro",
       "text": "🎵 ジングル + 旅の道ラジオ！",
       "start_sec": 0.0,
-      "end_sec": 6.47
+      "end_sec": 4.64
     },
     {
       "index": 0,
@@ -20,8 +20,8 @@
       "tone": "mic",
       "text": "旅の道ラジオ、雑学チャンネル。解説担当の、あんこもんだもん。",
       "news_index": 0,
-      "start_sec": 6.47,
-      "end_sec": 11.15
+      "start_sec": 4.64,
+      "end_sec": 9.32
     },
     {
       "index": 1,
@@ -30,8 +30,8 @@
       "tone": "mic",
       "text": "聞き役のずんだもんなのだ！今日はどんなネタを持ってきたのだ？",
       "news_index": 0,
-      "start_sec": 11.3,
-      "end_sec": 15.12
+      "start_sec": 9.47,
+      "end_sec": 13.29
     },
     {
       "index": 2,
@@ -40,8 +40,8 @@
       "tone": "niyari",
       "text": "今日は宇宙服の話だもん。宇宙服を作るとき、一番苦労するのはどこだと思う？",
       "news_index": 0,
-      "start_sec": 15.27,
-      "end_sec": 21.02
+      "start_sec": 13.44,
+      "end_sec": 19.19
     },
     {
       "index": 3,
@@ -50,8 +50,8 @@
       "tone": "kangae",
       "text": "宇宙服……。宇宙って、とにかく寒いイメージなのだ。",
       "news_index": 0,
-      "start_sec": 21.17,
-      "end_sec": 24.88
+      "start_sec": 19.34,
+      "end_sec": 23.05
     },
     {
       "index": 4,
@@ -60,8 +60,8 @@
       "tone": "normal",
       "text": "だから、めちゃくちゃ分厚くして暖かくするのが大変なんじゃないのだ？",
       "news_index": 0,
-      "start_sec": 24.96,
-      "end_sec": 29.3
+      "start_sec": 23.13,
+      "end_sec": 27.47
     },
     {
       "index": 5,
@@ -70,8 +70,8 @@
       "tone": "shirake",
       "text": "……出たもん。みんな最初にそう言うんだもん。",
       "news_index": 0,
-      "start_sec": 29.45,
-      "end_sec": 32.78
+      "start_sec": 27.62,
+      "end_sec": 30.95
     },
     {
       "index": 6,
@@ -80,8 +80,8 @@
       "tone": "shock",
       "text": "えっ、違うのだ！？",
       "news_index": 1,
-      "start_sec": 32.93,
-      "end_sec": 34.51
+      "start_sec": 31.1,
+      "end_sec": 32.68
     },
     {
       "index": 7,
@@ -90,8 +90,8 @@
       "tone": "normal",
       "text": "半分は合ってるもん。でも一番苦労してるのは、その真逆だもん。",
       "news_index": 1,
-      "start_sec": 34.66,
-      "end_sec": 39.01
+      "start_sec": 32.83,
+      "end_sec": 37.18
     },
     {
       "index": 8,
@@ -100,18 +100,18 @@
       "tone": "kangae",
       "text": "寒いの逆……。ってことは、暑いってことなのだ？",
       "news_index": 1,
-      "start_sec": 39.16,
-      "end_sec": 42.67
+      "start_sec": 37.33,
+      "end_sec": 40.84
     },
     {
       "index": 9,
       "type": "speech",
       "speaker": "ankomon",
       "tone": "yubisashi",
-      "text": "そう。宇宙服の最大の課題は、保温じゃなくて熱を捨てることだもん。",
+      "text": "そう。宇宙服の熱まわりで一番てこずるのは、保温じゃなくて熱を捨てる方だもん。",
       "news_index": 1,
-      "start_sec": 42.82,
-      "end_sec": 47.42
+      "start_sec": 40.99,
+      "end_sec": 46.32
     },
     {
       "index": 10,
@@ -120,28 +120,28 @@
       "tone": "normal",
       "text": "じゃあ聞くけど、ずんだもんの言う宇宙が寒いって、何度くらいのつもりだもん？",
       "news_index": 1,
-      "start_sec": 47.5,
-      "end_sec": 52.22
+      "start_sec": 46.4,
+      "end_sec": 51.13
     },
     {
       "index": 11,
       "type": "speech",
       "speaker": "zunda",
       "tone": "normal",
-      "text": "そりゃもう、マイナス二百度とか、そういうレベルなのだ。",
+      "text": "そりゃもう、マイナス200度とか、そういうレベルなのだ。",
       "news_index": 1,
-      "start_sec": 52.37,
-      "end_sec": 55.83
+      "start_sec": 51.28,
+      "end_sec": 54.73
     },
     {
       "index": 12,
       "type": "speech",
       "speaker": "ankomon",
       "tone": "niyari",
-      "text": "その数字は別に間違ってないもん。でもね、温度が低いのと、冷やされるのは別の話だもん。",
+      "text": "そういう場所もあるもん。でもね、温度が低いことと、冷やされることは別の話だもん。",
       "news_index": 1,
-      "start_sec": 55.98,
-      "end_sec": 62.2
+      "start_sec": 54.88,
+      "end_sec": 60.55
     },
     {
       "index": 13,
@@ -150,8 +150,8 @@
       "tone": "normal",
       "text": "たとえば真冬の外に出たら寒いでしょ。あれ、なんで寒いんだと思う？",
       "news_index": 1,
-      "start_sec": 62.28,
-      "end_sec": 66.97
+      "start_sec": 60.63,
+      "end_sec": 65.32
     },
     {
       "index": 14,
@@ -160,8 +160,8 @@
       "tone": "normal",
       "text": "空気が冷たいからなのだ。",
       "news_index": 1,
-      "start_sec": 67.12,
-      "end_sec": 68.93
+      "start_sec": 65.47,
+      "end_sec": 67.28
     },
     {
       "index": 15,
@@ -170,8 +170,8 @@
       "tone": "yubisashi",
       "text": "そう、冷たい空気が体の熱を持って行ってるんだもん。主役は空気の方だもん。",
       "news_index": 1,
-      "start_sec": 69.08,
-      "end_sec": 74.35
+      "start_sec": 67.43,
+      "end_sec": 72.7
     },
     {
       "index": 16,
@@ -180,8 +180,8 @@
       "tone": "shock",
       "text": "……宇宙、空気ないのだ。",
       "news_index": 1,
-      "start_sec": 74.5,
-      "end_sec": 76.27
+      "start_sec": 72.85,
+      "end_sec": 74.62
     },
     {
       "index": 17,
@@ -190,8 +190,8 @@
       "tone": "amaama",
       "text": "気づいたもんね。宇宙には、熱を運んでいってくれる相手がいないんだもん。",
       "news_index": 1,
-      "start_sec": 76.42,
-      "end_sec": 81.09
+      "start_sec": 74.77,
+      "end_sec": 79.45
     },
     {
       "index": 18,
@@ -200,18 +200,18 @@
       "tone": "kangae",
       "text": "じゃあ熱は……どこにも行かないってことなのだ？",
       "news_index": 1,
-      "start_sec": 81.24,
-      "end_sec": 84.27
+      "start_sec": 79.6,
+      "end_sec": 82.63
     },
     {
       "index": 19,
       "type": "speech",
       "speaker": "ankomon",
       "tone": "normal",
-      "text": "ほとんど行かないもん。宇宙服の中って、人が入った魔法瓶みたいなものだもん。",
+      "text": "逃げ道がほとんど赤外線だけになるんだもん。",
       "news_index": 1,
-      "start_sec": 84.42,
-      "end_sec": 89.73
+      "start_sec": 82.78,
+      "end_sec": 85.45
     },
     {
       "index": 20,
@@ -220,8 +220,8 @@
       "tone": "gurugru",
       "text": "魔法瓶！？飲み物が冷めないやつなのだ！",
       "news_index": 1,
-      "start_sec": 89.88,
-      "end_sec": 93.4
+      "start_sec": 85.6,
+      "end_sec": 89.12
     },
     {
       "index": 21,
@@ -230,8 +230,8 @@
       "tone": "normal",
       "text": "あれも内側と外側のあいだを真空にして、熱の通り道をふさいでるんだもん。原理は同じだもん。",
       "news_index": 1,
-      "start_sec": 93.55,
-      "end_sec": 99.95
+      "start_sec": 89.27,
+      "end_sec": 95.67
     },
     {
       "index": 22,
@@ -240,8 +240,8 @@
       "tone": "namidame",
       "text": "じゃあ中の人は……ずっと自分の熱で蒸されてるってことなのだ？",
       "news_index": 1,
-      "start_sec": 100.1,
-      "end_sec": 105.33
+      "start_sec": 95.82,
+      "end_sec": 101.06
     },
     {
       "index": 23,
@@ -250,8 +250,8 @@
       "tone": "sasayaki",
       "text": "そういうことだもん。だから宇宙服の背中に背負われてるのは、暖房じゃなくて冷房だもん。",
       "news_index": 1,
-      "start_sec": 105.48,
-      "end_sec": 113.37
+      "start_sec": 101.21,
+      "end_sec": 109.09
     },
     {
       "index": 24,
@@ -260,18 +260,18 @@
       "tone": "kamera",
       "text": "待つのだ。ボク、今日いきなり世界がひっくり返ったのだ。",
       "news_index": 2,
-      "start_sec": 113.52,
-      "end_sec": 117.22
+      "start_sec": 109.24,
+      "end_sec": 112.94
     },
     {
       "index": 25,
       "type": "speech",
       "speaker": "ankomon",
       "tone": "yubisashi",
-      "text": "まず、熱の逃げ方は大きく三つあるもん。伝わる、運ばれる、光る。",
+      "text": "まず、熱の逃げ方は大きく3つあるもん。伝わる、運ばれる、光る。",
       "news_index": 2,
-      "start_sec": 117.37,
-      "end_sec": 122.65
+      "start_sec": 113.09,
+      "end_sec": 118.37
     },
     {
       "index": 26,
@@ -280,8 +280,8 @@
       "tone": "kangae",
       "text": "光る……？熱が光るのだ？",
       "news_index": 2,
-      "start_sec": 122.8,
-      "end_sec": 124.97
+      "start_sec": 118.52,
+      "end_sec": 120.7
     },
     {
       "index": 27,
@@ -290,18 +290,18 @@
       "tone": "normal",
       "text": "赤外線として出ていくことだもん。ストーブの前に立つと、触ってないのにじんわり暖かいでしょ。",
       "news_index": 2,
-      "start_sec": 125.12,
-      "end_sec": 131.26
+      "start_sec": 120.85,
+      "end_sec": 126.98
     },
     {
       "index": 28,
       "type": "speech",
       "speaker": "ankomon",
       "tone": "normal",
-      "text": "で、真空だと最初の二つが使えないもん。触れる相手も、運んでくれる空気も無いから。",
+      "text": "で、真空だとこの2つがほとんど使えないもん。熱を運んでくれる空気が無いんだもん。",
       "news_index": 2,
-      "start_sec": 131.34,
-      "end_sec": 137.4
+      "start_sec": 127.06,
+      "end_sec": 132.57
     },
     {
       "index": 29,
@@ -310,18 +310,18 @@
       "tone": "normal",
       "text": "でも光るのは残ってるのだ。それでちょっとずつ逃げていくんじゃないのだ？",
       "news_index": 2,
-      "start_sec": 137.55,
-      "end_sec": 141.89
+      "start_sec": 132.72,
+      "end_sec": 137.06
     },
     {
       "index": 30,
       "type": "speech",
       "speaker": "ankomon",
       "tone": "shirake",
-      "text": "たかが知れてるもん。赤外線で捨てられる量なんて、ほんのちょっとだもん。",
+      "text": "それが当てにできないもん。宇宙服は外の暑さ寒さから身を守るために断熱してるから、中の熱も一緒に閉じ込めちゃうんだもん。",
       "news_index": 2,
-      "start_sec": 142.04,
-      "end_sec": 148.1
+      "start_sec": 137.21,
+      "end_sec": 147.75
     },
     {
       "index": 31,
@@ -330,8 +330,8 @@
       "tone": "miage",
       "text": "でも風が無いなら、涼しくないだけで、暑くはならない気もするのだ。",
       "news_index": 2,
-      "start_sec": 148.25,
-      "end_sec": 152.94
+      "start_sec": 147.9,
+      "end_sec": 152.59
     },
     {
       "index": 32,
@@ -340,58 +340,58 @@
       "tone": "tsuntsun",
       "text": "そこが浅いんだもん。人間は、黙ってても熱を出し続けてるんだもん。",
       "news_index": 2,
-      "start_sec": 153.09,
-      "end_sec": 157.54
+      "start_sec": 152.74,
+      "end_sec": 157.19
     },
     {
       "index": 33,
       "type": "speech",
       "speaker": "ankomon",
       "tone": "normal",
-      "text": "体が使うエネルギーのうち、およそ九割は熱になって出ていくんだもん。",
+      "text": "体が使うエネルギーは、最後はほとんど熱になって出ていくもん。じっとしてる時ならなおさらだもん。",
       "news_index": 2,
-      "start_sec": 157.62,
-      "end_sec": 162.08
+      "start_sec": 157.27,
+      "end_sec": 163.32
     },
     {
       "index": 34,
       "type": "speech",
       "speaker": "zunda",
       "tone": "gurugru",
-      "text": "九割！？ボクたち、ほとんど暖房器具なのだ！",
+      "text": "9割！？ボクたち、ほとんど暖房器具なのだ！",
       "news_index": 2,
-      "start_sec": 162.23,
-      "end_sec": 166.62
+      "start_sec": 163.47,
+      "end_sec": 167.86
     },
     {
       "index": 35,
       "type": "speech",
       "speaker": "ankomon",
       "tone": "normal",
-      "text": "船の外で作業してる時だと、アポロの記録で、およそ二百三十から三百五十ワット出してたもん。",
+      "text": "船の外で作業してる時だと、アポロの記録で、およそ230から350ワット出してたもん。",
       "news_index": 2,
-      "start_sec": 166.77,
-      "end_sec": 173.22
+      "start_sec": 168.01,
+      "end_sec": 174.47
     },
     {
       "index": 36,
       "type": "speech",
       "speaker": "zunda",
       "tone": "kangae",
-      "text": "二百三十ワット……。それって、どのくらいなのだ？",
+      "text": "230ワット……。それって、どのくらいなのだ？",
       "news_index": 2,
-      "start_sec": 173.37,
-      "end_sec": 176.94
+      "start_sec": 174.62,
+      "end_sec": 178.18
     },
     {
       "index": 37,
       "type": "speech",
       "speaker": "ankomon",
       "tone": "yubisashi",
-      "text": "昔ながらの白熱電球を、三つか四つ抱えてると思えばいいもん。",
+      "text": "昔ながらの白熱電球を、3つか4つ抱えてると思えばいいもん。",
       "news_index": 2,
-      "start_sec": 177.09,
-      "end_sec": 181.19
+      "start_sec": 178.33,
+      "end_sec": 182.43
     },
     {
       "index": 38,
@@ -400,8 +400,8 @@
       "tone": "normal",
       "text": "だから宇宙服は、まず体から熱を集めるところから始まるもん。",
       "news_index": 2,
-      "start_sec": 181.27,
-      "end_sec": 185.35
+      "start_sec": 182.51,
+      "end_sec": 186.59
     },
     {
       "index": 39,
@@ -410,8 +410,8 @@
       "tone": "normal",
       "text": "集める？逃がすんじゃないのだ？",
       "news_index": 2,
-      "start_sec": 185.5,
-      "end_sec": 187.8
+      "start_sec": 186.74,
+      "end_sec": 189.04
     },
     {
       "index": 40,
@@ -420,8 +420,8 @@
       "tone": "normal",
       "text": "いきなり外には捨てられないもん。まず肌のそばに細い管を編み込んだ下着を着て、その中を流れる水が熱を背中まで運ぶんだもん。",
       "news_index": 2,
-      "start_sec": 187.95,
-      "end_sec": 196.02
+      "start_sec": 189.19,
+      "end_sec": 197.26
     },
     {
       "index": 41,
@@ -430,8 +430,8 @@
       "tone": "shock",
       "text": "下着に管が入ってるのだ！？",
       "news_index": 2,
-      "start_sec": 196.17,
-      "end_sec": 198.15
+      "start_sec": 197.41,
+      "end_sec": 199.39
     },
     {
       "index": 42,
@@ -440,8 +440,8 @@
       "tone": "kangae",
       "text": "なるほどなのだ。……で、その水は最後どうなるのだ？",
       "news_index": 2,
-      "start_sec": 198.23,
-      "end_sec": 201.9
+      "start_sec": 199.47,
+      "end_sec": 203.14
     },
     {
       "index": 43,
@@ -450,8 +450,8 @@
       "tone": "hisohiso",
       "text": "いい質問だもん。そこが、今日の山場だもん。",
       "news_index": 2,
-      "start_sec": 202.05,
-      "end_sec": 206.5
+      "start_sec": 203.29,
+      "end_sec": 207.74
     },
     {
       "index": 44,
@@ -460,8 +460,8 @@
       "tone": "normal",
       "text": "背中の装置にはね、小さな穴がびっしり空いた板が入ってるもん。片面は、真空にむき出しだもん。",
       "news_index": 2,
-      "start_sec": 206.58,
-      "end_sec": 213.3
+      "start_sec": 207.82,
+      "end_sec": 214.54
     },
     {
       "index": 45,
@@ -470,8 +470,8 @@
       "tone": "normal",
       "text": "そこに水を流したら、宇宙に吸い出されて終わりなのだ。",
       "news_index": 2,
-      "start_sec": 213.45,
-      "end_sec": 217.04
+      "start_sec": 214.69,
+      "end_sec": 218.28
     },
     {
       "index": 46,
@@ -480,8 +480,8 @@
       "tone": "yubisashi",
       "text": "ところが違うんだもん。穴の中で、水は凍るんだもん。",
       "news_index": 2,
-      "start_sec": 217.19,
-      "end_sec": 220.85
+      "start_sec": 218.43,
+      "end_sec": 222.09
     },
     {
       "index": 47,
@@ -490,8 +490,8 @@
       "tone": "gurugru",
       "text": "凍る！？真空に出したのに凍るのだ！？",
       "news_index": 2,
-      "start_sec": 221.0,
-      "end_sec": 224.55
+      "start_sec": 222.24,
+      "end_sec": 225.79
     },
     {
       "index": 48,
@@ -500,8 +500,8 @@
       "tone": "normal",
       "text": "圧力が無いと、水はすごい勢いで蒸発するもん。蒸発するときに熱を奪うから、残りが凍るんだもん。",
       "news_index": 2,
-      "start_sec": 224.7,
-      "end_sec": 231.62
+      "start_sec": 225.94,
+      "end_sec": 232.87
     },
     {
       "index": 49,
@@ -510,8 +510,8 @@
       "tone": "kangae",
       "text": "あっ、汗をかくと涼しくなるのと同じなのだ？",
       "news_index": 2,
-      "start_sec": 231.77,
-      "end_sec": 235.29
+      "start_sec": 233.02,
+      "end_sec": 236.54
     },
     {
       "index": 50,
@@ -520,18 +520,18 @@
       "tone": "hazukashi",
       "text": "……そう。それ、あんこもんが言おうと思ってたやつだもん。",
       "news_index": 2,
-      "start_sec": 235.44,
-      "end_sec": 239.46
+      "start_sec": 236.69,
+      "end_sec": 240.7
     },
     {
       "index": 51,
       "type": "speech",
       "speaker": "ankomon",
       "tone": "normal",
-      "text": "とにかく穴が氷でふさがるもん。そこに、体から集めてきた温かい水を当てるんだもん。",
+      "text": "とにかく穴が氷でふさがるもん。そこへ、体から集めてきた熱を運んで当てるんだもん。",
       "news_index": 2,
-      "start_sec": 239.54,
-      "end_sec": 245.23
+      "start_sec": 240.78,
+      "end_sec": 246.48
     },
     {
       "index": 52,
@@ -540,8 +540,8 @@
       "tone": "normal",
       "text": "氷が溶けて、水に戻るのだ？",
       "news_index": 2,
-      "start_sec": 245.38,
-      "end_sec": 247.78
+      "start_sec": 246.63,
+      "end_sec": 249.03
     },
     {
       "index": 53,
@@ -550,8 +550,8 @@
       "tone": "yubisashi",
       "text": "溶けないもん。液体をすっ飛ばして、いきなり水蒸気になって宇宙へ出ていくんだもん。",
       "news_index": 2,
-      "start_sec": 247.93,
-      "end_sec": 253.03
+      "start_sec": 249.18,
+      "end_sec": 254.28
     },
     {
       "index": 54,
@@ -560,8 +560,8 @@
       "tone": "shock",
       "text": "氷から、直接気体なのだ！",
       "news_index": 2,
-      "start_sec": 253.18,
-      "end_sec": 255.37
+      "start_sec": 254.43,
+      "end_sec": 256.62
     },
     {
       "index": 55,
@@ -570,8 +570,8 @@
       "tone": "normal",
       "text": "昇華って呼ばれる現象だもん。そのときに、熱をごっそり持っていってくれるんだもん。",
       "news_index": 2,
-      "start_sec": 255.52,
-      "end_sec": 260.67
+      "start_sec": 256.77,
+      "end_sec": 261.92
     },
     {
       "index": 56,
@@ -580,8 +580,8 @@
       "tone": "kamera",
       "text": "つまり宇宙服は、氷を作っては宇宙に捨てて、その分だけ涼しくなってるのだ。",
       "news_index": 2,
-      "start_sec": 260.82,
-      "end_sec": 266.07
+      "start_sec": 262.07,
+      "end_sec": 267.32
     },
     {
       "index": 57,
@@ -590,8 +590,8 @@
       "tone": "nagomi",
       "text": "要するにそういうことだもん。ずんだもんにしては、よくまとまってるもん。",
       "news_index": 2,
-      "start_sec": 266.22,
-      "end_sec": 270.7
+      "start_sec": 267.47,
+      "end_sec": 271.95
     },
     {
       "index": 58,
@@ -600,8 +600,8 @@
       "tone": "normal",
       "text": "ただ、この方式には代償があるもん。捨てた水は、戻ってこないんだもん。",
       "news_index": 2,
-      "start_sec": 270.78,
-      "end_sec": 275.83
+      "start_sec": 272.03,
+      "end_sec": 277.09
     },
     {
       "index": 59,
@@ -610,38 +610,38 @@
       "tone": "kangae",
       "text": "冷やすたびに、水が減っていくってことなのだ？",
       "news_index": 2,
-      "start_sec": 275.98,
-      "end_sec": 279.16
+      "start_sec": 277.24,
+      "end_sec": 280.41
     },
     {
       "index": 60,
       "type": "speech",
       "speaker": "ankomon",
       "tone": "normal",
-      "text": "そういうことだもん。宇宙服が積んでる冷却用の水は、およそ3.8キロだもん。",
+      "text": "そういうことだもん。捨てる用の水を、宇宙服はおよそ3.8キロ積んでるもん。",
       "news_index": 2,
-      "start_sec": 279.31,
-      "end_sec": 284.85
+      "start_sec": 280.56,
+      "end_sec": 285.87
     },
     {
       "index": 61,
       "type": "speech",
       "speaker": "zunda",
       "tone": "normal",
-      "text": "ペットボトル二本ちょっとなのだ。それで何時間もつのだ？",
+      "text": "ペットボトル2本ちょっとなのだ。それで何時間もつのだ？",
       "news_index": 2,
-      "start_sec": 285.0,
-      "end_sec": 288.68
+      "start_sec": 286.02,
+      "end_sec": 289.7
     },
     {
       "index": 62,
       "type": "speech",
       "speaker": "ankomon",
       "tone": "yubisashi",
-      "text": "八時間の作業で、ほとんど使い切るもん。量でいえば、一番大きな消耗品がこの水だもん。",
+      "text": "8時間の作業を見込んだ量だもん。減っていく消耗品としては、これが一番大きいもん。",
       "news_index": 2,
-      "start_sec": 288.83,
-      "end_sec": 295.0
+      "start_sec": 289.85,
+      "end_sec": 295.38
     },
     {
       "index": 63,
@@ -650,8 +650,8 @@
       "tone": "shock",
       "text": "涼むために、水をまるごと宇宙に放り出してるのだ……。",
       "news_index": 2,
-      "start_sec": 295.15,
-      "end_sec": 298.64
+      "start_sec": 295.53,
+      "end_sec": 299.02
     },
     {
       "index": 64,
@@ -660,8 +660,8 @@
       "tone": "normal",
       "text": "ここからが面白いところだもん。全身は冷やしてるのに、一か所だけ逆に温めてるんだもん。",
       "news_index": 3,
-      "start_sec": 298.79,
-      "end_sec": 304.63
+      "start_sec": 299.17,
+      "end_sec": 305.0
     },
     {
       "index": 65,
@@ -670,8 +670,8 @@
       "tone": "kangae",
       "text": "逆に温める？どこなのだ？",
       "news_index": 3,
-      "start_sec": 304.78,
-      "end_sec": 307.15
+      "start_sec": 305.15,
+      "end_sec": 307.53
     },
     {
       "index": 66,
@@ -680,8 +680,8 @@
       "tone": "yubisashi",
       "text": "指先だもん。宇宙服の手袋には、ヒーターが入ってるんだもん。",
       "news_index": 3,
-      "start_sec": 307.3,
-      "end_sec": 311.57
+      "start_sec": 307.68,
+      "end_sec": 311.95
     },
     {
       "index": 67,
@@ -690,8 +690,8 @@
       "tone": "gurugru",
       "text": "さっきと言ってることが逆なのだ！",
       "news_index": 3,
-      "start_sec": 311.72,
-      "end_sec": 314.38
+      "start_sec": 312.1,
+      "end_sec": 314.76
     },
     {
       "index": 68,
@@ -700,8 +700,8 @@
       "tone": "normal",
       "text": "指先は細くて、外に接する面積が広いもん。おまけに日かげに入ると、どんどん熱が逃げるんだもん。",
       "news_index": 3,
-      "start_sec": 314.53,
-      "end_sec": 321.32
+      "start_sec": 314.91,
+      "end_sec": 321.7
     },
     {
       "index": 69,
@@ -710,8 +710,8 @@
       "tone": "miage",
       "text": "胴体には熱がこもるのに、指だけ冷えるのだ……。ちぐはぐなのだ。",
       "news_index": 3,
-      "start_sec": 321.47,
-      "end_sec": 326.04
+      "start_sec": 321.85,
+      "end_sec": 326.42
     },
     {
       "index": 70,
@@ -720,8 +720,8 @@
       "tone": "normal",
       "text": "手袋を厚くすれば、それで済む話じゃないのだ？",
       "news_index": 3,
-      "start_sec": 326.12,
-      "end_sec": 329.52
+      "start_sec": 326.5,
+      "end_sec": 329.9
     },
     {
       "index": 71,
@@ -730,8 +730,8 @@
       "tone": "shirake",
       "text": "厚くすると、道具がつかめなくなるもん。それじゃ作業ができないもん。",
       "news_index": 3,
-      "start_sec": 329.67,
-      "end_sec": 335.34
+      "start_sec": 330.05,
+      "end_sec": 335.72
     },
     {
       "index": 72,
@@ -740,8 +740,8 @@
       "tone": "normal",
       "text": "上からかぶせる断熱のミトンもあるけど、細かい作業のときは外すんだもん。",
       "news_index": 3,
-      "start_sec": 335.42,
-      "end_sec": 340.14
+      "start_sec": 335.8,
+      "end_sec": 340.52
     },
     {
       "index": 73,
@@ -750,8 +750,8 @@
       "tone": "miage",
       "text": "指先だけ、いまだに力技なのだ……。",
       "news_index": 3,
-      "start_sec": 340.29,
-      "end_sec": 343.14
+      "start_sec": 340.67,
+      "end_sec": 343.52
     },
     {
       "index": 74,
@@ -760,8 +760,8 @@
       "tone": "normal",
       "text": "それとね、熱が捨てられない問題は、宇宙服だけの話じゃないもん。",
       "news_index": 3,
-      "start_sec": 343.29,
-      "end_sec": 347.78
+      "start_sec": 343.67,
+      "end_sec": 348.16
     },
     {
       "index": 75,
@@ -770,18 +770,18 @@
       "tone": "kangae",
       "text": "宇宙ステーションもなのだ？",
       "news_index": 3,
-      "start_sec": 347.93,
-      "end_sec": 349.84
+      "start_sec": 348.31,
+      "end_sec": 350.22
     },
     {
       "index": 76,
       "type": "speech",
       "speaker": "ankomon",
       "tone": "yubisashi",
-      "text": "そうだもん。大きな放熱板を広げて、赤外線でせっせと熱を逃がしてるもん。",
+      "text": "そうだもん。あっちは熱を逃がすためだけの板を大きく広げてるもん。断熱してる宇宙服とは逆の作りだもん。",
       "news_index": 3,
-      "start_sec": 349.99,
-      "end_sec": 355.09
+      "start_sec": 350.37,
+      "end_sec": 357.04
     },
     {
       "index": 77,
@@ -790,8 +790,8 @@
       "tone": "normal",
       "text": "そこも、水を流してるのだ？",
       "news_index": 3,
-      "start_sec": 355.24,
-      "end_sec": 357.39
+      "start_sec": 357.19,
+      "end_sec": 359.35
     },
     {
       "index": 78,
@@ -800,8 +800,8 @@
       "tone": "normal",
       "text": "外側はアンモニアだもん。水だと凍って詰まるから、凍りにくいものを選んでるんだもん。",
       "news_index": 3,
-      "start_sec": 357.54,
-      "end_sec": 362.98
+      "start_sec": 359.5,
+      "end_sec": 364.94
     },
     {
       "index": 79,
@@ -810,18 +810,18 @@
       "tone": "shock",
       "text": "宇宙って、どこもかしこも熱の始末で困ってるのだ！",
       "news_index": 3,
-      "start_sec": 363.13,
-      "end_sec": 366.67
+      "start_sec": 365.09,
+      "end_sec": 368.63
     },
     {
       "index": 80,
       "type": "speech",
       "speaker": "ankomon",
       "tone": "kamera",
-      "text": "そうだもん。宇宙で一番むずかしいのは、暖まることじゃなくて、冷めることだもん。",
+      "text": "そうだもん。宇宙で手こずるのは、暖まることより冷めることの方だもん。",
       "news_index": 3,
-      "start_sec": 366.82,
-      "end_sec": 372.38
+      "start_sec": 368.78,
+      "end_sec": 373.55
     },
     {
       "index": 81,
@@ -830,8 +830,8 @@
       "tone": "kamera",
       "text": "今日は素直に負けを認めるのだ。宇宙は寒いから寒さ対策、だと思い込んでたのだ。",
       "news_index": 0,
-      "start_sec": 372.53,
-      "end_sec": 378.14
+      "start_sec": 373.7,
+      "end_sec": 379.31
     },
     {
       "index": 82,
@@ -840,8 +840,8 @@
       "tone": "amaama",
       "text": "やっと認めたもん。今日はあんこもんの勝ちだもん。",
       "news_index": 0,
-      "start_sec": 378.29,
-      "end_sec": 381.22
+      "start_sec": 379.46,
+      "end_sec": 382.39
     },
     {
       "index": 83,
@@ -850,8 +850,8 @@
       "tone": "niyari",
       "text": "でも、汗の話はボクが先に言ったのだ。",
       "news_index": 0,
-      "start_sec": 381.37,
-      "end_sec": 384.68
+      "start_sec": 382.54,
+      "end_sec": 385.85
     },
     {
       "index": 84,
@@ -860,17 +860,17 @@
       "tone": "tsuntsun",
       "text": "……それは、聞かなかったことにするもん。",
       "news_index": 0,
-      "start_sec": 384.83,
-      "end_sec": 387.1
+      "start_sec": 386.0,
+      "end_sec": 388.27
     },
     {
       "index": 9999,
       "type": "outro",
       "text": "🎵 ジングル + またね！",
-      "start_sec": 387.8,
-      "end_sec": 395.5
+      "start_sec": 388.97,
+      "end_sec": 396.67
     }
   ],
-  "wall_time_sec": 11.95,
-  "audio_url": "/audio/zatsugaku/20260825_213659.mp3?v=1787672578"
+  "wall_time_sec": 11.01,
+  "audio_url": "/audio/zatsugaku/20260825_213659.mp3?v=1787676369"
 }
