@@ -65,8 +65,16 @@ type FeaturedGame = {
   companies?: string[]
 }
 
+// ホームのタブと同じ 3 プロフィール。zatsugaku を落とすと、雑学回を開いたときに
+// indie にフォールバックして一覧から外れ「エピソードが見つかりません」になる。
+type Profile = 'indie' | 'ai' | 'zatsugaku'
+const VALID_PROFILES: readonly string[] = ['indie', 'ai', 'zatsugaku']
+
+// タブ付きホームへの戻り先 (既定タブ = まとめ はクエリなし)
+const homeHref = (p: Profile): string => `/?profile=${p}`
+
 type ProgramMeta = {
-  profile: 'ai' | 'indie'
+  profile: Profile
   episode_id: string
   title: string
   generated_at: string | null
@@ -207,7 +215,7 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
   const urlQueue = searchParams?.get('queue') === '1'
   // 個別 episode URL (?episode=YYYYMMDD_HHMMSS or /radio/<id>) の profile を
   // 動的解決する。初期 fetch で all episodes を読んでから決定する。
-  const [profile, setProfile] = useState<'indie' | 'ai'>('indie')
+  const [profile, setProfile] = useState<Profile>('indie')
   const [episodes, setEpisodes] = useState<Array<{ episode_id: string; title: string; generated_at: string | null }>>([])
   const [currentEpisode, setCurrentEpisode] = useState<string | null>(urlEpisode)
   const [queueIds, setQueueIds] = useState<string[]>([])  // 連続再生キュー (新しい順)
@@ -225,11 +233,11 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
       .then((d) => {
         const raw: any[] = d.episodes || []
         // initialEpisode or URL ?episode= の profile を見て決定 (なければ indie)
-        let resolvedProfile: 'indie' | 'ai' = profile
+        let resolvedProfile: Profile = profile
         if (urlEpisode) {
           const target = raw.find((e: any) => e.episode_id === urlEpisode)
-          if (target && (target.profile === 'indie' || target.profile === 'ai')) {
-            resolvedProfile = target.profile
+          if (target && VALID_PROFILES.includes(target.profile)) {
+            resolvedProfile = target.profile as Profile
           }
         }
         if (resolvedProfile !== profile) setProfile(resolvedProfile)
@@ -423,7 +431,7 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
       .then((meta: any) => {
         if (cancelled) return
         const program: ProgramMeta = {
-          profile: 'indie',
+          profile: (VALID_PROFILES.includes(target.profile) ? target.profile : 'indie') as Profile,
           episode_id: target.episode_id,
           title: target.title,
           generated_at: target.generated_at,
@@ -924,7 +932,7 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
       <div className="max-w-md md:max-w-5xl mx-auto px-4 pt-6 pb-10">
         {/* 上部バー */}
         <div className="flex items-center justify-between mb-5">
-          <Link href={profile === 'ai' ? '/?profile=ai' : '/'} className="text-zinc-300 hover:text-white text-sm">← 戻る</Link>
+          <Link href={homeHref(profile)} className="text-zinc-300 hover:text-white text-sm">← 戻る</Link>
           <div className="text-xs text-zinc-300 tracking-widest inline-flex items-baseline gap-1.5">
             <span
               aria-hidden
@@ -1368,7 +1376,7 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
                     {program.featured_game.genres.map((g) => (
                       <Link
                         key={g}
-                        href={`/?genre=${encodeURIComponent(g)}${profile === 'ai' ? '&profile=ai' : ''}`}
+                        href={`/?genre=${encodeURIComponent(g)}&profile=${profile}`}
                         className="px-2 py-0.5 text-[10px] bg-white/10 hover:bg-white/20 rounded-full text-zinc-300 hover:text-white transition-colors"
                       >{g}</Link>
                     ))}
@@ -1461,7 +1469,7 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
                       {program.featured_game.genres.map((g) => (
                         <Link
                           key={g}
-                          href={`/?genre=${encodeURIComponent(g)}${profile === 'ai' ? '&profile=ai' : ''}`}
+                          href={`/?genre=${encodeURIComponent(g)}&profile=${profile}`}
                           className="text-[10px] px-2 py-0.5 rounded-full bg-white/10 hover:bg-white/20 text-zinc-200 hover:text-white transition-colors"
                         >
                           {g}

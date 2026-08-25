@@ -220,17 +220,27 @@ export default function PageClient() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-[#1b2838] via-[#1b2838] to-[#171a21] text-zinc-100">
       <header className="sticky top-0 z-40 bg-gradient-to-b from-[#171a21] to-[#171a21]/0 backdrop-blur-sm">
-        <div className="max-w-5xl mx-auto px-3 md:px-4 py-2 md:py-5 flex items-center justify-between gap-3">
-          <h1 className="text-lg md:text-3xl font-bold text-white inline-flex items-center gap-2 md:gap-2.5 tracking-tight whitespace-nowrap">
-            <MaskIcon src="/icons/radio.svg" className="w-4 h-4 md:w-6 md:h-6 text-[#66c0f4]" />
-            Tabinomichi Radio
+        <div className="max-w-5xl mx-auto px-3 md:px-4 py-2 md:py-5 flex items-center justify-between gap-2 md:gap-3">
+          {/* min-w-0 + truncate: 端末のフォント設定が大きくてもタイトル側が縮み、
+              右のシェアボタンが画面外に押し出されないようにする */}
+          <h1 className="min-w-0 text-base md:text-3xl font-bold text-white inline-flex items-center gap-1.5 md:gap-2.5 tracking-tight">
+            <MaskIcon src="/icons/radio.svg" className="shrink-0 w-4 h-4 md:w-6 md:h-6 text-[#66c0f4]" />
+            <span className="truncate">Tabinomichi Radio</span>
           </h1>
-          <div className="flex items-center gap-2">
+          <div className="shrink-0 flex items-center gap-2">
             <a
               href="https://tabinomichi.jp/"
-              className="text-xs md:text-sm text-[#c7d5e0]/80 hover:text-[#c7d5e0] tracking-widest border-b border-[#c7d5e0]/30 hover:border-[#c7d5e0] transition-colors pb-px"
+              className="hidden sm:inline-block text-xs md:text-sm text-[#c7d5e0]/80 hover:text-[#c7d5e0] tracking-widest border-b border-[#c7d5e0]/30 hover:border-[#c7d5e0] transition-colors pb-px whitespace-nowrap"
             >
               ← TABINOMICHI
+            </a>
+            {/* 狭い画面では文字を落として矢印だけ残す (タップ先は同じ) */}
+            <a
+              href="https://tabinomichi.jp/"
+              aria-label="TABINOMICHI へ戻る"
+              className="sm:hidden text-base text-[#c7d5e0]/80 hover:text-[#c7d5e0] px-1"
+            >
+              ←
             </a>
             <SharePopover variant="amber" />
           </div>
@@ -239,7 +249,9 @@ export default function PageClient() {
 
       <div className="max-w-5xl mx-auto px-4 py-8">
         {/* プロファイル切替タブ */}
-        <div className="mb-6 flex items-center gap-2 border-b border-[#c7d5e0]/15">
+        {/* タブは 4 つ。狭い画面やフォント拡大時に折り返さないよう、
+            whitespace-nowrap + 横スクロール (はみ出したらスワイプ) にする */}
+        <div className="mb-6 flex items-center gap-1 md:gap-2 border-b border-[#c7d5e0]/15 overflow-x-auto no-scrollbar -mx-4 px-4">
           {([
             { key: 'all',       label: 'まとめ' },
             { key: 'indie',     label: 'ゲーム' },
@@ -253,7 +265,7 @@ export default function PageClient() {
                 type="button"
                 onClick={() => handleProfileChange(tab.key)}
                 className={
-                  'relative px-4 py-2.5 text-sm md:text-base font-medium transition-colors ' +
+                  'relative shrink-0 whitespace-nowrap px-2.5 md:px-4 py-2.5 text-[13px] md:text-base font-medium transition-colors ' +
                   (active
                     ? 'text-[#c7d5e0]'
                     : 'text-[#c7d5e0]/50 hover:text-[#c7d5e0]/80')
