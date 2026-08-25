@@ -1,0 +1,976 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-08-26T05:18:28+09:00",
+  "title": "みんな自前で作り始めた 〜94万円のマックと、熊本に建つ目玉〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 514.11,
+  "script_hash": "sha256:12432620a49130831dd7351105e8b7338394c46469a57fe47d03c4c006cdee48",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 4.69
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便。四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 4.69,
+      "end_sec": 8.75
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今日もテックの話題、軽くいくのだー!",
+      "news_index": 0,
+      "start_sec": 8.9,
+      "end_sec": 13.19
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今朝は五本立て。通勤の間にサクッと流していくわ。",
+      "news_index": 0,
+      "start_sec": 13.34,
+      "end_sec": 16.95
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "五本! むずかしい言葉は、ちゃんと噛み砕いてほしいのだ。",
+      "news_index": 0,
+      "start_sec": 17.1,
+      "end_sec": 21.11
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "任せなさい。全部その場で、ふつうの日本語に直すから。",
+      "news_index": 0,
+      "start_sec": 21.26,
+      "end_sec": 25.19
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、今日ひとつ気になるワードがあるのだ。ハラペーニョ。",
+      "news_index": 0,
+      "start_sec": 25.34,
+      "end_sec": 28.9
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "それは二本目まで我慢。まずは、94万円のパソコンの話から行くわよ。",
+      "news_index": 0,
+      "start_sec": 29.05,
+      "end_sec": 34.15
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "94万!? 朝からいきなり桁がおかしいじゃん!",
+      "news_index": 0,
+      "start_sec": 34.3,
+      "end_sec": 37.75
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。アップルが八月二十五日に、マックスタジオの新型を発表したの。",
+      "news_index": 1,
+      "start_sec": 37.9,
+      "end_sec": 43.14
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "まっくすたじお? パソコンの名前だっけ?",
+      "news_index": 1,
+      "start_sec": 43.29,
+      "end_sec": 46.35
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "机に置く四角い箱ね。画面もキーボードも付いてない、本体だけのやつ。",
+      "news_index": 1,
+      "start_sec": 46.5,
+      "end_sec": 51.17
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、見たことあるのだ! 弁当箱みたいなやつじゃん!",
+      "news_index": 1,
+      "start_sec": 51.32,
+      "end_sec": 54.85
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "その弁当箱の中身が、エムファイブ・ウルトラって頭脳に変わったのよ。AIの計算が、前の世代のいちばん上と比べて最大4.3倍。",
+      "news_index": 1,
+      "start_sec": 55.0,
+      "end_sec": 63.92
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "4.3倍! ボクの宿題も4.3倍で終わるってこと!?",
+      "news_index": 1,
+      "start_sec": 64.07,
+      "end_sec": 68.21
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "宿題は手を動かさないと終わらないわ。速くなるのは、手元でAIを走らせる時。",
+      "news_index": 1,
+      "start_sec": 68.36,
+      "end_sec": 73.54
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "手元で? AIって、遠くの誰かのサーバーで動くやつじゃん?",
+      "news_index": 1,
+      "start_sec": 73.69,
+      "end_sec": 78.34
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこが今回の狙い。メモリは作業机の広さね、それを最大512ギガまで積めるから、大きいAIを丸ごと机に広げられるの。",
+      "news_index": 1,
+      "start_sec": 78.49,
+      "end_sec": 87.57
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "資料を広げっぱなしにできる、うらやましいやつなのだ。",
+      "news_index": 1,
+      "start_sec": 87.72,
+      "end_sec": 91.74
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ただしお値段は、エムファイブ・ウルトラのモデルで949,800円から。",
+      "news_index": 1,
+      "start_sec": 91.89,
+      "end_sec": 97.02
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "94万!? ボクのお小遣い、何年ぶん積み上げたら届くのだ!",
+      "news_index": 1,
+      "start_sec": 97.17,
+      "end_sec": 101.79
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "積んでる途中で、人生のほうが先に終わるわね。安いほうのモデルでも419,800円から。",
+      "news_index": 1,
+      "start_sec": 101.94,
+      "end_sec": 108.78
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "安いほうが41万……安いの定義が壊れてるのだ……。",
+      "news_index": 1,
+      "start_sec": 108.93,
+      "end_sec": 114.17
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "発売は九月二十二日。ただし、最大512ギガの構成は十月後半から。AIをクラウドだけに頼らず、手元でも回したい人向けの道具ね。",
+      "news_index": 1,
+      "start_sec": 114.32,
+      "end_sec": 124.05
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "ボクは当面、写真で眺めるだけにしておくのだ……。",
+      "news_index": 1,
+      "start_sec": 124.2,
+      "end_sec": 128.39
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "じゃあ二本目。さっき焦らした、ハラペーニョ。",
+      "news_index": 2,
+      "start_sec": 128.54,
+      "end_sec": 131.35
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "待ってたのだー! 辛いやつじゃん!",
+      "news_index": 2,
+      "start_sec": 131.5,
+      "end_sec": 133.85
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "食べ物じゃないわよ。オープンエーアイが自前で設計した、AI専用チップの名前ね。",
+      "news_index": 2,
+      "start_sec": 134.0,
+      "end_sec": 139.38
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "チップ!? あそこ、AIを作る会社だったじゃん!",
+      "news_index": 2,
+      "start_sec": 139.53,
+      "end_sec": 143.0
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこが面白いところ。自分のAIを動かす部品まで、自前で作りはじめたのよ。",
+      "news_index": 2,
+      "start_sec": 143.15,
+      "end_sec": 148.43
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "今までは、誰の部品を使ってたのだ?",
+      "news_index": 2,
+      "start_sec": 148.58,
+      "end_sec": 151.47
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ほとんどエヌビディア。AIの計算を爆速でやる専用チップを、世界中が取り合ってる状態ね。",
+      "news_index": 2,
+      "start_sec": 151.62,
+      "end_sec": 157.9
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、グラボが高い話と、根っこが同じやつじゃん!",
+      "news_index": 2,
+      "start_sec": 158.05,
+      "end_sec": 161.7
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "地続きよ。その一強から抜けたくて、ブロードコムって半導体屋と組んだわけ。",
+      "news_index": 2,
+      "start_sec": 161.85,
+      "end_sec": 166.76
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、性能は勝てたのだ?",
+      "news_index": 2,
+      "start_sec": 166.91,
+      "end_sec": 169.06
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "八月二十五日の技術発表会で、初めて数字が出たの。電気1ワットあたりの仕事量が、比べた相手の1.5倍から1.9倍。",
+      "news_index": 2,
+      "start_sec": 169.21,
+      "end_sec": 178.47
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "わっと? 電球に書いてあるやつだっけ?",
+      "news_index": 2,
+      "start_sec": 178.62,
+      "end_sec": 182.17
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それ。同じ電気で1.5倍から1.9倍働けて、答えが返るまでの待ち時間も短いってこと。",
+      "news_index": 2,
+      "start_sec": 182.32,
+      "end_sec": 188.67
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "電気代が安くて、仕事が速い。それ、ボクの理想の後輩なのだ。",
+      "news_index": 2,
+      "start_sec": 188.82,
+      "end_sec": 194.27
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "後輩をワットで計るんじゃないわよ。",
+      "news_index": 2,
+      "start_sec": 194.42,
+      "end_sec": 196.68
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、ボクたちのお財布には効くのだ?",
+      "news_index": 2,
+      "start_sec": 196.83,
+      "end_sec": 199.53
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "覚えるのは一行、AIを少ない電力で速く動かせる可能性を、実機の測定で示したってこと。これから量産を広げる段階で、利用料金がいつ下がるかはまだ分からないわ。",
+      "news_index": 2,
+      "start_sec": 199.68,
+      "end_sec": 211.51
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目は、日本の話。ソニーとティーエスエムシーが、熊本に合弁会社を作るわ。",
+      "news_index": 3,
+      "start_sec": 211.59,
+      "end_sec": 217.17
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ごうべん? 合体して弁当を作るのだ?",
+      "news_index": 3,
+      "start_sec": 217.32,
+      "end_sec": 220.54
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "弁当から離れなさい。二社でお金を出し合って、新しい会社を一つ建てるってこと。",
+      "news_index": 3,
+      "start_sec": 220.69,
+      "end_sec": 225.92
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ていーえすえむしーって、どこの会社だっけ?",
+      "news_index": 3,
+      "start_sec": 226.07,
+      "end_sec": 229.12
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "台湾の会社で、ほかの会社から設計を預かって半導体を製造する、世界最大手の専業メーカーね。",
+      "news_index": 3,
+      "start_sec": 229.27,
+      "end_sec": 236.23
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、作るのが専門の会社ってことじゃん!",
+      "news_index": 3,
+      "start_sec": 236.38,
+      "end_sec": 239.29
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そういうこと。ソニーは現金と工場資産を合わせて約4,650億円、ティーエスエムシーは現金で約2,820億円を、需要などを見ながら段階的に拠出する計画よ。",
+      "news_index": 3,
+      "start_sec": 239.44,
+      "end_sec": 252.03
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "7,470億!? 熊本に金の城でも建てるのだ!?",
+      "news_index": 3,
+      "start_sec": 252.18,
+      "end_sec": 256.52
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "中心になるのは、ソニーが熊本に新設した工場を使う合弁会社よ。そこでスマホ向けイメージセンサーの開発と製造を担うの。",
+      "news_index": 3,
+      "start_sec": 256.67,
+      "end_sec": 265.42
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "いめーじせんさー? レンズのことだっけ?",
+      "news_index": 3,
+      "start_sec": 265.57,
+      "end_sec": 268.44
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "レンズの奥にあって、光を電気信号に変える板よ。カメラの目玉、って言ったほうが早いかしら。",
+      "news_index": 3,
+      "start_sec": 268.59,
+      "end_sec": 274.55
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "目玉! 熊本に、スマホの目玉工場ができるってことじゃん!",
+      "news_index": 3,
+      "start_sec": 274.7,
+      "end_sec": 279.21
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そう。ただし量産の開始は2029年、まだ三年も先よ。",
+      "news_index": 3,
+      "start_sec": 279.36,
+      "end_sec": 284.13
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "三年……ボクのスマホ、それまで生きてないのだ。",
+      "news_index": 3,
+      "start_sec": 284.28,
+      "end_sec": 288.98
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "効いてくるのは買い替え二回先ね。でも、スマホの写真がきれいになる根っこが日本で作られる、って話。",
+      "news_index": 3,
+      "start_sec": 289.13,
+      "end_sec": 295.65
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "地味だけど、ちょっと誇らしいやつなのだ。",
+      "news_index": 3,
+      "start_sec": 295.8,
+      "end_sec": 298.45
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四本目はちょっと硬いから、短くいくわ。",
+      "news_index": 4,
+      "start_sec": 298.6,
+      "end_sec": 301.31
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "朝の硬い話は、短いのがいちばんなのだ。",
+      "news_index": 4,
+      "start_sec": 301.46,
+      "end_sec": 304.76
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "政府が八月二十五日に、AIを作る会社向けの原則を決めたの。名前はプリンシプル・コード。",
+      "news_index": 4,
+      "start_sec": 304.91,
+      "end_sec": 311.56
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "げんそく? 破ったら捕まるやつ?",
+      "news_index": 4,
+      "start_sec": 311.71,
+      "end_sec": 314.43
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこが妙なところ。法的な拘束力は、ゼロなのよ。",
+      "news_index": 4,
+      "start_sec": 314.58,
+      "end_sec": 318.23
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ゼロ!? それ、あってもなくても同じじゃん!",
+      "news_index": 4,
+      "start_sec": 318.38,
+      "end_sec": 321.26
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "柱は三つ。学習データの種類や集め方などを公表する、一定の条件を満たす権利者からの照会に対応する、利用者からの照会にも条件付きで対応する、よ。",
+      "news_index": 4,
+      "start_sec": 321.41,
+      "end_sec": 332.55
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "権利者って、絵とか文章を作った人のことなのだ?",
+      "news_index": 4,
+      "start_sec": 332.7,
+      "end_sec": 336.46
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そう。自分の作品に似たものが出力され、権利侵害を疑う場合などに、一定の条件で学習データへの収録を照会できるようにしなさいって話ね。",
+      "news_index": 4,
+      "start_sec": 336.61,
+      "end_sec": 346.97
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "拘束力ゼロなのに、みんな素直に守るのだ?",
+      "news_index": 4,
+      "start_sec": 347.12,
+      "end_sec": 350.26
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "sexy",
+      "text": "やるか、やらないなら理由を説明するか。どっちかを選ばせる方式なの。",
+      "news_index": 4,
+      "start_sec": 350.41,
+      "end_sec": 356.2
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "説明を求められるの、めちゃくちゃ気まずいやつじゃん。",
+      "news_index": 4,
+      "start_sec": 356.35,
+      "end_sec": 360.15
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "受け入れ状況を届け出た会社は、対応状況が一覧で公表されるの。従わない場合は、その理由を説明する仕組みよ。",
+      "news_index": 4,
+      "start_sec": 360.3,
+      "end_sec": 368.25
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "法律じゃなくて、世間の目で縛るってことじゃん!",
+      "news_index": 4,
+      "start_sec": 368.4,
+      "end_sec": 371.43
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "今の一行が正解ね。日本でサービスを提供する海外の会社も対象で、権利侵害を疑う人が一定の条件で照会できるよう、事業者に対応を求めるって話。",
+      "news_index": 4,
+      "start_sec": 371.58,
+      "end_sec": 383.16
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "じゃあラスト五本目。今の透明性の話と、地続きのやつでしめるわ。",
+      "news_index": 5,
+      "start_sec": 383.24,
+      "end_sec": 387.82
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "まだ硬いのだ?",
+      "news_index": 5,
+      "start_sec": 387.97,
+      "end_sec": 389.75
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "今度は技術の話だから面白いわよ。アンソロピックが、今後登場するクロードの文章に見えない透かしを入れる仕組みを公開したの。",
+      "news_index": 5,
+      "start_sec": 389.9,
+      "end_sec": 398.24
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "透かし!? お札を光にかざすと浮かぶ、あれ!?",
+      "news_index": 5,
+      "start_sec": 398.39,
+      "end_sec": 401.8
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "発想は近いわね。でも見た目は一切変わらない、文字も記号も足されないの。",
+      "news_index": 5,
+      "start_sec": 401.95,
+      "end_sec": 406.72
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "足さないのに、どうやって印を付けるのだ?",
+      "news_index": 5,
+      "start_sec": 406.87,
+      "end_sec": 410.4
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "AIは次の一語を選ぶとき、サイコロを振ってるようなものなの。そのサイコロの目に、決まった癖を仕込むのよ。",
+      "news_index": 5,
+      "start_sec": 410.55,
+      "end_sec": 417.7
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "くせ?",
+      "news_index": 5,
+      "start_sec": 417.85,
+      "end_sec": 418.61
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "長い文章で統計を取ると、単語の選び方に偏りが出る。鍵を持ってる側だけ、それを見つけられるわけ。",
+      "news_index": 5,
+      "start_sec": 418.76,
+      "end_sec": 425.58
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、文章は普通なのに、選び方のほうに指紋が残ってるってことじゃん!",
+      "news_index": 5,
+      "start_sec": 425.73,
+      "end_sec": 430.75
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "今朝いちばんいい要約ね。社内試験では、文章の内容や創造性、読みやすさ、品質に目立った影響は出なかったそうよ。",
+      "news_index": 5,
+      "start_sec": 430.9,
+      "end_sec": 439.28
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあもう、AIが書いた文章は全部バレるのだ?",
+      "news_index": 5,
+      "start_sec": 439.43,
+      "end_sec": 443.09
+    },
+    {
+      "index": 84,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "そこは万能じゃないわ。全部自分の言葉で書き直すと消えるし、プログラムのコードには効きにくいの。",
+      "news_index": 5,
+      "start_sec": 443.24,
+      "end_sec": 449.95
+    },
+    {
+      "index": 85,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ちゃんと抜け道もあるやつなのだ。",
+      "news_index": 5,
+      "start_sec": 450.1,
+      "end_sec": 452.41
+    },
+    {
+      "index": 86,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "sexy",
+      "text": "今後の対応モデルでは、日本を含む世界全体に適用される予定よ。ただ、判定できるのはクロードが関わった可能性であって、短い文章では検出しにくいし、作者を断定する証拠にはならないわ。",
+      "news_index": 5,
+      "start_sec": 452.56,
+      "end_sec": 468.53
+    },
+    {
+      "index": 87,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "朝からいちばん怖い話を、ぶっこまないでほしいのだ……。",
+      "news_index": 5,
+      "start_sec": 468.68,
+      "end_sec": 473.31
+    },
+    {
+      "index": 88,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで今朝は五本。94万円のマック、ハラペーニョ、熊本の目玉工場、政府の原則、見えない透かしね。",
+      "news_index": 0,
+      "start_sec": 473.46,
+      "end_sec": 481.36
+    },
+    {
+      "index": 89,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "並べてみると、みんな自前で作りはじめてる話に見えるのだ。",
+      "news_index": 0,
+      "start_sec": 481.51,
+      "end_sec": 485.79
+    },
+    {
+      "index": 90,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "いい着眼点。チップも工場もルールも、他人任せをやめる季節ってことかしらね。",
+      "news_index": 0,
+      "start_sec": 485.94,
+      "end_sec": 491.33
+    },
+    {
+      "index": 91,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ボクも自前でなにか作るのだ! まずは朝ごはんから!",
+      "news_index": 0,
+      "start_sec": 491.48,
+      "end_sec": 494.94
+    },
+    {
+      "index": 92,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこは頑張りなさい。気になったやつがあったら、あとで調べてみてね。",
+      "news_index": 0,
+      "start_sec": 495.09,
+      "end_sec": 499.22
+    },
+    {
+      "index": 93,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "旅の道ラジオ朝便、また明日のテックの回で会うのだー!",
+      "news_index": 0,
+      "start_sec": 499.37,
+      "end_sec": 503.39
+    },
+    {
+      "index": 94,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "いってらっしゃい。今日もほどほどにね。",
+      "news_index": 0,
+      "start_sec": 503.54,
+      "end_sec": 505.71
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 506.41,
+      "end_sec": 514.11
+    }
+  ],
+  "wall_time_sec": 14.99,
+  "audio_url": "/audio/ai/20260826_051828.mp3?v=1787689911"
+}
