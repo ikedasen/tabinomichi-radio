@@ -1,0 +1,614 @@
+{
+  "profile": "zatsugaku",
+  "generated_at": "2026-08-26T01:01:16.185186+00:00",
+  "title": "電車を曲げているのは車輪のツバではない 〜円錐が勝手に舵を切る〜",
+  "segments": [
+    {
+      "speaker": "ankomon",
+      "tone": "mic",
+      "text": "旅の道ラジオ、雑学チャンネル。解説担当の、あんこもんだもん。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "聞き役のずんだもんなのだ！今日は何の話なのだ？",
+      "news_index": 0
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "今日は電車の車輪の話だもん。電車って、どうやってカーブを曲がってると思う？",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "え、そんなの簡単なのだ。レールが曲がってるから、それに沿って曲がるのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "じゃあ、なんでレールから落ちないんだもん？",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "それも知ってるのだ！車輪の内側にツバがついてるのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "あれがレールに引っかかって、外に飛び出さないようになってるのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "shirake",
+      "text": "……出たもん。みんなそう答えるんだもん。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、違うのだ！？",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "ツバがあるのは本当だもん。フランジっていって、脱線を防ぐ大事な部品だもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあ合ってるじゃないのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "でも、普通に走ってるときカーブを曲がらせてるのは、フランジじゃないんだもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "は！？じゃあ何が曲げてるのだ！？",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "車輪の形だもん。電車の車輪って、実はまっすぐな円筒じゃないんだもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "まっすぐじゃない……？どういうことなのだ？",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "レールに乗ってる面が、ほんの少し斜めに削ってあるんだもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "外側にいくほど細くなってる。円錐を薄く切ったような形だもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "うーん、ボクの中の車輪はドーナツみたいな形なのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "kamera",
+      "text": "近くで見ると違うんだもん。日本の在来線だと、10分の1から20分の1くらいの傾きだもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ほとんど平らじゃないのだ。そんなちょっとの傾きで何が変わるのだ？",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "それが、カーブを曲がるかどうかを決めてるんだもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "そんなに効くのだ！？",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "kamera",
+      "text": "順番に見ていくもん。まず、電車の車輪には決定的な弱点があるんだもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "弱点……？",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "左右の車輪が、1本の車軸にがっちり固定されてるんだもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "うん。だから一緒に回るのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "そう。左だけ速く回す、みたいなことができないんだもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "別にいいんじゃないのだ？一緒に回れば進むのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "よくないもん。カーブだと、外側と内側で進む距離が違うんだもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "あっ……。運動会のトラックみたいなことなのだ？",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "nagomi",
+      "text": "そうだもん。外側のレーンの方が長いから、同じだけ走ったら曲がりきれないもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "同じ回転数しか出せないのに、距離が違うのだ！？矛盾してるのだ！",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "sasayaki",
+      "text": "そこを、あの少しの傾きが解決してるんだもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "え、あの斜めがそんな仕事をしてるのだ？",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "電車がカーブに入ると、車輪はレールの外側寄りを走ることになるもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "外側に寄るってことなのだ？",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "車輪と車軸がまとめて、ほんの少し外側にずれるんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ずれる……。それで何が起きるのだ？",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "外側の車輪は、太いところでレールに乗るんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "内側の車輪は、逆に細いところで乗るもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "あっ！同じ回転でも、進む距離が変わるのだ！",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "amaama",
+      "text": "気づいたもんね。太い方がたくさん進んで、細い方はあまり進まないもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "それって、外側が長い距離を走るってことなのだ！まさにカーブなのだ！",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "nagomi",
+      "text": "そういうことだもん。誰も操作してないのに、勝手に曲がるんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "車輪が自分で舵を切ってるのだ……。かっこいいのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "自己操舵って呼ばれてるもん。ハンドルもモーターも要らないんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "待つのだ。じゃあ直線ではどうなってるのだ？",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "いい質問だもん。直線でも同じ仕組みが働いてるんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "直線は曲がらなくていいのだ。仕事がないのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "shirake",
+      "text": "あるもん。線路のど真ん中を走り続けるのって、実はすごく難しいんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "……言われてみれば、少しくらいズレそうなのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "ズレるもん。でも右にズレると、右の車輪が太いところで乗るもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "右がたくさん進む……。ってことは、左に戻るのだ？",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "戻るんだもん。放っておいても真ん中に帰ってくるんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "勝手に直るのだ！？車輪、有能すぎるのだ！",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "ただ、これには困った副作用があるもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "急に不安になってきたのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "戻りすぎるんだもん。真ん中を通り越して、今度は反対にズレるもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、また戻る……。行ったり来たりなのだ？",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "gurugru",
+      "text": "そうだもん。ダコウドウっていって、左右にゆらゆら揺れ続けるんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "せっかくの自動操縦が、酔いそうな乗り物になったのだ！",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "sasayaki",
+      "text": "速度が上がるほどひどくなるもん。乗り心地が悪くなるだけじゃないもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "まさか……。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "揺れが大きくなると、フランジがレールを叩くもん。ひどいと脱線するんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "さっきの有能な車輪はどこに行ったのだ……。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "だから鉄道の技術って、この揺れをどう抑えるかとずっと戦ってるんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "傾きを無くせばいいんじゃないのだ？揺れないのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "shirake",
+      "text": "そうしたら自分で曲がる力が無くなるもん。フランジ頼みで、きしみながら通ることになるんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "あっちを立てればこっちが立たずなのだ……。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "台車のバネやダンパーで、揺れだけを食い止める方向に進んだんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ新幹線があんなに速く走れるのも……。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "nagomi",
+      "text": "その積み重ねだもん。速度と揺れの綱引きに勝ってきた結果だもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "ところでボク、ずっと気になってることがあるのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "フランジのことだもん？",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "そうなのだ！結局あのツバは何をしてるのだ？",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "最後の保険だもん。普段は仕事してないんだもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "働いてないのだ！？",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "普通に走ってるとき、フランジはレールに触ってすらいないもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "ずっと浮いてたのだ！？",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "レールに乗る面の傾きが真ん中に戻してくれるから、出番が無いんだもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、いつ働くのだ？",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "急なカーブとか、揺れが大きくなった時だもん。触れて、それ以上外へ行かせないんだもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "普段は黙ってて、いざという時だけ出てくるのだ。かっこいいのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "hazukashi",
+      "text": "……そういう言い方をされると、なんか照れるもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "あんこもんが照れてるのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "照れてないもん。次の話に行くもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "この仕組み、車ではやってないんだもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "なんでなのだ？車もカーブを曲がるのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "車のタイヤは左右が別々に回れるもん。差動装置ってのが入ってるんだもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "それの方が便利そうなのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "shirake",
+      "text": "便利だもん。でもハンドルが要るもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "あっ、電車にはハンドルが無いのだ！",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "そう。運転士が触ってるのは、速度を上げる操作と止める操作だけだもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "曲がる操作を誰もしてないのに曲がってたのだ……。",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "nagomi",
+      "text": "レールと車輪の形だけで成立してるんだもん。150年以上そうやってきたもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "今日は完全に負けを認めるのだ。ツバが曲げてると思ってたのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "amaama",
+      "text": "やっと認めたもん。今日もあんこもんの勝ちだもん。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "でも、運動会のトラックの例えはボクが出したのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "……それは、聞かなかったことにするもん。",
+      "news_index": 0
+    }
+  ],
+  "program_description": "電車はどうやってカーブを曲がっているのか、という問いから始めました。車輪の内側のツバが引っかかっているから、という予想を裏返し、曲げているのは車輪の形の方だと明かします。前半は、左右の車輪が1本の車軸に固定されていて同じ回転数しか出せないのに、カーブでは外側と内側で進む距離が違う、という矛盾の話。中盤は仕組みの解説です。踏面にわずかな傾きがあるため、外へずれると外側は太いところ、内側は細いところでレールに乗り、同じ回転のまま距離差が生まれて勝手に曲がること。直線でも同じ力が働いて中央へ戻ること、その副作用として蛇行動という左右の揺れが起きることにも触れました。後半は、普段レールに触れてすらいないフランジの本当の役割と、ハンドルを持たない乗り物である理由を扱っています。",
+  "featured_game": {
+    "title": "電車がカーブを曲がれる理由",
+    "topic": "電車がカーブを曲がれる理由",
+    "category": "seikatsu",
+    "dedup_verified": true,
+    "image_rel": "/images/topics/zatsugaku_20260826_100116_chars.webp",
+    "hero_rel": "/images/topics/zatsugaku_20260826_100116.webp",
+    "genres": [
+      "雑学",
+      "暮らし"
+    ]
+  }
+}
