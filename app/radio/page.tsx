@@ -4,7 +4,7 @@ import Link from 'next/link'
 import { useRouter, useSearchParams } from 'next/navigation'
 import { Suspense, useEffect, useMemo, useRef, useState } from 'react'
 import SharePopover from '../components/SharePopover'
-import { VALID_TONES, type Tone } from './generated/valid-tones'
+import { VALID_TONES, NO_BLINK, type Tone } from './generated/valid-tones'
 
 type SpeechSegment = {
   index: number
@@ -1058,8 +1058,14 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
                 // mouth phase -> suffix: 0=base, 1=_talk (mid), 2=_talk2 (open)
                 const mouthSuffix = (m: number) => m === 2 ? '_talk2' : m === 1 ? '_talk' : ''
 
+                // 元から目を閉じている表情ではまばたきさせない。_blink は 目 を無条件に
+                // 閉じ目へ差し替えるので、閉じ目の tone に当てると「閉じ目 -> 別の閉じ目」に
+                // なり、まばたきではなく表情が 150ms だけ変わってしまう。ずんだもんの
+                // namidame では泣き目 >< が笑顔の目に化けていた (2026-08-26 user 指摘)。
+                const canBlink = (speaker: string, t: string) => !NO_BLINK[speaker]?.includes(t)
+
                 // ずんだ image state: 優先順 blink > mouth-phase > base
-                const zundaSrc = zundaBlink
+                const zundaSrc = zundaBlink && canBlink('zunda', zundaTone)
                   ? `/characters/zunda/${zundaTone}_blink.png`
                   : zundaActive
                   ? `/characters/zunda/${zundaTone}${mouthSuffix(zundaMouth)}.png`
@@ -1070,7 +1076,7 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
                   ? (metanBlink
                       ? `/characters/metan/intro_blink.png`
                       : `/characters/metan/intro${mouthSuffix(metanMouth)}.png`)
-                  : metanBlink
+                  : metanBlink && canBlink('metan', metanTone)
                   ? `/characters/metan/${metanTone}_blink.png`
                   : metanActive
                   ? `/characters/metan/${metanTone}${mouthSuffix(metanMouth)}.png`
@@ -1081,7 +1087,7 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
                   ? (tsumugiBlink
                       ? `/characters/tsumugi/intro_blink.png`
                       : `/characters/tsumugi/intro${mouthSuffix(tsumugiMouth)}.png`)
-                  : tsumugiBlink
+                  : tsumugiBlink && canBlink('tsumugi', tsumugiTone)
                   ? `/characters/tsumugi/${tsumugiTone}_blink.png`
                   : tsumugiActive
                   ? `/characters/tsumugi/${tsumugiTone}${mouthSuffix(tsumugiMouth)}.png`
@@ -1092,7 +1098,7 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
                   ? (ankomonBlink
                       ? `/characters/ankomon/intro_blink.png`
                       : `/characters/ankomon/intro${mouthSuffix(ankomonMouth)}.png`)
-                  : ankomonBlink
+                  : ankomonBlink && canBlink('ankomon', ankomonTone)
                   ? `/characters/ankomon/${ankomonTone}_blink.png`
                   : ankomonActive
                   ? `/characters/ankomon/${ankomonTone}${mouthSuffix(ankomonMouth)}.png`

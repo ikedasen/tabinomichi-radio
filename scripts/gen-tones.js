@@ -13,6 +13,9 @@ const fs = require('fs')
 const path = require('path')
 
 const SPEAKERS_DIR = 'D:/NEWStool/indienews/backend/data/speakers'
+// まばたきさせない tone 表。psd_export_characters.py --dump-no-blink が書き出す。
+// 元から目を閉じている表情は _blink に差し替えると別の閉じ目になってしまうため。
+const NO_BLINK_FILE = path.join(SPEAKERS_DIR, 'no_blink.json')
 const OUT_FILE = path.join(__dirname, '..', 'app', 'radio', 'generated', 'valid-tones.ts')
 
 function collectTones() {
@@ -42,8 +45,19 @@ function collectTones() {
   return Array.from(union).sort()
 }
 
+function collectNoBlink() {
+  if (!fs.existsSync(NO_BLINK_FILE)) {
+    throw new Error(
+      `${NO_BLINK_FILE} not found. Run:\n` +
+        `  python backend/tools/psd_export_characters.py --dump-no-blink`
+    )
+  }
+  return JSON.parse(fs.readFileSync(NO_BLINK_FILE, 'utf-8'))
+}
+
 function main() {
   const tones = collectTones()
+  const noBlink = collectNoBlink()
   fs.mkdirSync(path.dirname(OUT_FILE), { recursive: true })
 
   const header =
@@ -55,10 +69,21 @@ function main() {
     `export const VALID_TONES = [\n` +
     tones.map((t) => `  '${t}',`).join('\n') +
     `\n] as const\n\n` +
-    `export type Tone = typeof VALID_TONES[number]\n`
+    `export type Tone = typeof VALID_TONES[number]\n\n` +
+    `// 元から目を閉じている表情。まばたきさせると「閉じ目 -> 別の閉じ目」の\n` +
+    `// 切り替えになり、まばたきではなく表情が一瞬変わってしまうので目パチを止める。\n` +
+    `// Source: backend/data/speakers/no_blink.json\n` +
+    `//   (python backend/tools/psd_export_characters.py --dump-no-blink)\n` +
+    `export const NO_BLINK: Record<string, readonly string[]> = {\n` +
+    Object.keys(noBlink)
+      .sort()
+      .map((k) => `  ${k}: [${noBlink[k].map((t) => `'${t}'`).join(', ')}],`)
+      .join('\n') +
+    `\n}\n`
 
   fs.writeFileSync(OUT_FILE, header + body, 'utf-8')
-  console.log(`Wrote ${OUT_FILE} (${tones.length} tones)`)
+  const nb = Object.values(noBlink).reduce((n, v) => n + v.length, 0)
+  console.log(`Wrote ${OUT_FILE} (${tones.length} tones, ${nb} no-blink entries)`)
 }
 
 main()

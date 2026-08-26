@@ -33,3 +33,14 @@ export const VALID_TONES = [
 ] as const
 
 export type Tone = typeof VALID_TONES[number]
+
+// 元から目を閉じている表情。まばたきさせると「閉じ目 -> 別の閉じ目」の
+// 切り替えになり、まばたきではなく表情が一瞬変わってしまうので目パチを止める。
+// Source: backend/data/speakers/no_blink.json
+//   (python backend/tools/psd_export_characters.py --dump-no-blink)
+export const NO_BLINK: Record<string, readonly string[]> = {
+  ankomon: ['amaama', 'hazukashi', 'heart', 'herohero', 'nagomi', 'namidame', 'welcome'],
+  metan: ['hazukashi', 'namidame', 'niyari', 'sexy', 'shirake', 'shitazuke', 'tsuntsun'],
+  tsumugi: ['gurugru', 'namidame', 'shitazuke'],
+  zunda: ['amaama', 'kanashimi', 'nagomi', 'namidame'],
+}
