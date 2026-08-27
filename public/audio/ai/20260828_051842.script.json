@@ -1,0 +1,574 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-08-27T20:18:42.218186+00:00",
+  "title": "後始末が増えた朝 〜六割減らす計画と、ボルトを抜いた二本足〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便。テックニュースの回、四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝も業界の話題を、軽くサクッといくのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今日は五本。人をAIに置き換えようとして、失敗した会社の話から始めるわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "いきなり生々しいじゃん!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そのあとAIが顕微鏡を動かす話、中国の新しいAI、百社の連名書簡と続くの。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "締めは何なのだ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "ロボットの運動会よ。ここだけは、朝から気持ちよく笑えるやつ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "運動会! 最後だけ急に楽しそうじゃん!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "楽しみは最後に残す主義なの。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "ボクと気が合うのだ。じゃあ一本目、行くのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。メタが、社員の仕事をAIに置き換える計画を進めてたの。名前はプロジェクト・オーティー。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "めた? フェイスブックとインスタの会社だっけ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。今年の一月に、幹部がハワイに集まって固めた計画ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ハワイで人減らしの相談!? 場所が優雅すぎるじゃん!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "中身はもっと大胆よ。部署によっては、人を最大で六割減らす案まで並んでたわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "六割!? 十人のチームが、四人になっちゃうってこと!?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "残った人はAIの見張り番。実際、五月二十日に全社員のおよそ一割を減らしてるの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "一割……本当にやっちゃったのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "sexy",
+      "text": "で、十一月にも第二弾を予定してた。でも五月の第一弾を始める直前に、ザッカーバーグがその計画を止めたのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、気が変わったのだ! なんでやめたのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "社内の数字が、思ってたのと違ったの。社員が生成AIを使うなか、社内基盤へのコード変更は前の年より二百二十パーセント増えたわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "めっちゃ働いてるじゃん! 大成功なのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "ところが、利用者に届いた新しい機能は三十六パーセントしか増えてないの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "量は三倍以上なのに、出てくるものはちょっとだけ……?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おまけに重大な技術・セキュリティ事故が四割増えて、対応にかかる時間も七割増えたわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "作る量が増えたんじゃなくて、直す人が足りなくなったってことなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに、コード変更の急増ほどには、新機能や改良が増えなかった。ここが今朝いちばんの教訓ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "私たちに効くのはここ。仕事が消える段階じゃなくて、AIの後始末をする人が要る段階よ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "じゃあボク、後始末係を目指すのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目。アンソロピックが、AIに機械そのものを触らせる共通規格を出したわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "機械? パソコンの中じゃなくて、実物ってこと?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そう。顕微鏡、液体を分ける装置、ロボットアーム。研究室に並んでる本物ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "AIが顕微鏡を覗くのだ!? 目、付いてないじゃん!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "覗かないわよ。装置に指示を出して、返ってきた数字を読んで、次の一手を決めるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "規格って、何がありがたいのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今までは装置ごとに専用のコードや専門知識が必要で、機械同士をつなぐのも大仕事だったのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "一台ごとに! 十台あったら、十回やり直すやつじゃん!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこで、機器のつなぎ方や安全ルールを共通化しようって話。名前はモデル・ハードウェア・スタンダードね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "差し込み口の形を、みんなで揃えようってことなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "その理解でいいわ。コンセントの形が国ごとに違うと不便、あれと同じ発想。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクの生活には、いつ関係してくるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "狙いは、薬の実験や製造工程を人の手を減らして夜通し動かせるようにすることよ。ただ、今はまだ研究プレビューの段階ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "AIが夜勤するのだ。えらいじゃん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目。中国のアリババ系が、八月二十六日に新しいAIを無料で公開したわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "名前はなんて呼ぶのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "クウェン。面白いのは大きさじゃなくて、中身の作りなの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "sexy",
+      "text": "抱えてる部品の数は1,250億。でも、一回答えるのに動くのは、そのうち60億だけ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、残りは寝てるってこと!?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "寝てるというより待機ね。質問の中身に合う担当だけが起きる仕組みよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "大きい病院みたいなのだ! 目が痛くて行ったのに、全科の先生が出てきたら怖いじゃん!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "今朝いちばんの例えね。おかげで学習にかかった費用も、前の世代のおよそ九分の一で済んでるわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "安いし速い! 無料なら、ボクのパソコンにも入れ放題なのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "そこが落とし穴。公開版を高い精度のまま丸ごと動かすなら、二百五十六ギガバイト級のメモリが目安になるのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "無料なのに、置き場所がないやつなのだ……。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "流れとしては大事よ。少ない計算で賢くする方向に、業界がまとめて寄ってきてるってこと。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "それ、ボクたちには何が変わるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "AIを使う値段が下がるわ。手元じゃなく、月額のサービス側から先に効いてくる話ね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四本目はちょっと硬いから、短くいくわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "朝の硬い話は、短いのがいちばんなのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "オープンエーアイの音頭で、百社以上が連名の公開書簡を出したの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "百社!? ライバル同士が、名前を並べてるってこと!?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこが見どころね。マイクロソフト、グーグル、アマゾン、アンソロピック。普段は殴り合ってる面々よ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "AIを使ったサイバー攻撃が、これから広く、そして巧妙になる。守りを固める時間は限られてる、って警告。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "狙われるのは、どこなのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "病院や水道みたいな、止まると生活が詰む設備ね。攻撃の道具を作る側が、もうAIを使い始めてるの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "水道が止まるのは、さすがに困るじゃん!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "で、私たちにできることは地味よ。パスワードの使い回しをやめる、二段階の確認を入れる。それだけでも、アカウントを乗っ取られる危険はかなり下げられるわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "今日の帰りにやるのだ! じゃあ最後、明るいやつ行くのだー!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "じゃあラスト五本目。冒頭で焦らした、運動会ね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "待ってたのだー!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "北京で八月二十二日から二十六日まで、人型ロボットの運動会が開かれてたの。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "人型って、二本足で立ってるやつだっけ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう。十六の国から、2,056台が集まったわ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "2,056台!? 運動場が渋滞するじゃん!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "sexy",
+      "text": "で、百メートル走のロボット記録がとんでもないの。八秒八十六よ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "人間の世界記録が九秒五十八。ウサイン・ボルトのやつね。それを上回ったってこと。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ボルト超え!? 二本足の機械が、人類を抜いちゃったのだ!",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、日本のロボットは出てないのだ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "出てるわ。ジーエムオーインターネットグループのひとみんって子が、七十四台のうち十三位。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "十三位! 上出来じゃん! 名前もかわいいのだ!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "あと、話題をさらったのは速い子じゃないの。百メートルをぽてぽて歩いてた、小さい子。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "けなげなのだ……。ボクはその子を応援するのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本足の進歩はすごいけど、工場や介護で安全に働くには、速さ以外の課題もまだ多いわ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "速い子より、転ばない子が来てほしいのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで今朝は五本。メタの人減らし失敗、AIが機械を触る共通規格、中国の新しいAI。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "百社の警告書簡と、北京のロボット運動会なのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今朝いちばんの学びは一本目ね。AIに全部渡すと、後始末のほうが増えるわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "作らせる量じゃなくて、面倒を見る人の数なのだね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "気になったのがあったら、通勤のあいだにでも調べてみて。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "そしてパスワードの使い回し、今日やめるのだ! ボクも帰ったらやるのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ、また明日の朝便で。四国めたんでした。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ずんだもんなのだー! いってらっしゃいなのだー!",
+      "news_index": 0
+    }
+  ],
+  "program_description": "テックニュースを軽くまとめる朝便。一本目はメタの社内計画「プロジェクト・オーティー」で、部署によっては人を最大六割減らしてAIに任せる案が動き、五月に全社員のおよそ一割を削減したものの、コード変更は急増した一方で新機能の伸びは限定的で、技術・セキュリティ事故も増えるなか、第二弾の計画が中止になった話。二本目はアンソロピックが出した、AIに顕微鏡やロボットアームを直接触らせる共通規格。三本目は中国のアリババ系が公開した、部品は1,250億なのに一回で動くのは60億だけという新しいAI。四本目はオープンエーアイの音頭で百社以上が連名した、AIを使ったサイバー攻撃への警告書簡。締めは北京の人型ロボット運動会で、百メートル走で八秒八十六のロボット記録が出て、ボルトの世界記録を上回った話題を扱いました。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20260828_051842_chars.webp",
+    "hero_rel": "/images/topics/tech_20260828_051842.webp",
+    "title": "後始末が増えた朝 〜六割減らす計画と、ボルトを抜いた二本足〜",
+    "companies": [
+      "Meta",
+      "Claude",
+      "OpenAI",
+      "Microsoft",
+      "Amazon"
+    ],
+    "thumbnail_ready": true
+  },
+  "summary_short": "メタが人員最大6割減の秘密計画を進めたら事故続出で頓挫、一方で北京の二足ロボットは百メートル8秒台でボルト超えという、AIの「縮む現場」と「伸びる現場」を一気読みできる回です。"
+}

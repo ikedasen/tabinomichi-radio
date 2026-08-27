@@ -1,0 +1,926 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-08-28T05:07:17+09:00",
+  "title": "読心する記者 〜賛否のまま眠る玻璃ノ薔薇〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 438.21,
+  "script_hash": "sha256:2d8c37d5f197dbe64a3ecebb602f0bbc5614c96ab31de8d9571a8e399ff19478",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 6.34
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "旅の道ラジオへようこそなのだ！パーソナリティのずんだもんなのだー！",
+      "news_index": 0,
+      "start_sec": 6.34,
+      "end_sec": 10.48
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "後輩の春日部つむぎっす！またまたレトロゲー回、ここからはあーしの領域っすよー！",
+      "news_index": 0,
+      "start_sec": 10.63,
+      "end_sec": 15.77
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "今回のお題はなんなのだ？ボク、心の準備だけはできてるのだ",
+      "news_index": 0,
+      "start_sec": 15.92,
+      "end_sec": 20.39
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "2003年のプレイステーション2ソフト、『玻璃ノ薔薇』っす。知ってるオタクくんは、かなりの通っす",
+      "news_index": 0,
+      "start_sec": 20.54,
+      "end_sec": 26.8
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "薔薇のゲーム……。ボク、花壇でバラを育てる園芸ゲームだと思ったのだ",
+      "news_index": 0,
+      "start_sec": 26.95,
+      "end_sec": 32.31
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "全然違うっす先輩。館で人がバタバタ倒れる、サイコサスペンスアドベンチャーっす",
+      "news_index": 0,
+      "start_sec": 32.46,
+      "end_sec": 37.78
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "園芸から殺人までの距離が遠すぎるのだ……",
+      "news_index": 0,
+      "start_sec": 37.93,
+      "end_sec": 41.55
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに、花の名前で油断させてくる本格ミステリーっすね",
+      "news_index": 0,
+      "start_sec": 41.7,
+      "end_sec": 45.51
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "基本データいくっす。発売元はカプコン、発売日は2003年11月6日っす",
+      "news_index": 1,
+      "start_sec": 45.59,
+      "end_sec": 51.03
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "カプコンってボクの中ではアクションの会社なのだ。落ち着いた推理ものも出してたのだね",
+      "news_index": 1,
+      "start_sec": 51.18,
+      "end_sec": 56.42
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そこがこの一本の面白いとこっす。公式ジャンルも『サイコサスペンスアドベンチャー』って名乗ってるっす",
+      "news_index": 1,
+      "start_sec": 56.57,
+      "end_sec": 62.82
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kangae",
+      "text": "で、実際に作ったのはシングっていう福岡のスタジオっす",
+      "news_index": 1,
+      "start_sec": 62.9,
+      "end_sec": 66.84
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "シング……歌うほうのシングなのだ？ みんなで合唱するのだ？",
+      "news_index": 1,
+      "start_sec": 66.99,
+      "end_sec": 71.63
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "歌わないっす先輩。アドベンチャー一筋の職人集団っす",
+      "news_index": 1,
+      "start_sec": 71.78,
+      "end_sec": 75.5
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに、大手のカプコンが世に出して、中身は福岡の職人が作った一本っすね",
+      "news_index": 1,
+      "start_sec": 75.58,
+      "end_sec": 80.92
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "でこの作品、主人公が生身の人間なんすよ。TOKIOの松岡昌宏さんが、声も動きも顔も担当してるっす",
+      "news_index": 2,
+      "start_sec": 81.0,
+      "end_sec": 88.31
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "えっ、本物のアイドルが主人公なのだ!? じゃあ捜査の途中で急に歌い出すのだ？",
+      "news_index": 2,
+      "start_sec": 88.46,
+      "end_sec": 95.5
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "だから歌わないっす。さっきから先輩、この番組を音楽番組にしたがってるっす",
+      "news_index": 2,
+      "start_sec": 95.65,
+      "end_sec": 100.78
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "……ボクの中の合唱の時間が長いのだ",
+      "news_index": 2,
+      "start_sec": 100.93,
+      "end_sec": 103.27
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "カプコンが2003年2月に発表会を開いて、そこで起用が明かされたっす。発売のかなり前っす",
+      "news_index": 2,
+      "start_sec": 103.42,
+      "end_sec": 109.69
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "声も動きも容姿も本人っていうフルボイスの作りっす。あーし的にはここが一番の見どころっすね",
+      "news_index": 2,
+      "start_sec": 109.77,
+      "end_sec": 115.6
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ジャケットの絵も気になるのだ。それも写真なのだ？",
+      "news_index": 2,
+      "start_sec": 115.75,
+      "end_sec": 118.97
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "パッケージイラストは森気楼っす。要するに、箱を手に取った時点でもう作品世界が始まってるっす",
+      "news_index": 2,
+      "start_sec": 119.12,
+      "end_sec": 125.3
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "じゃあ話の入り口っす。主人公は駆け出しの新聞記者っす",
+      "news_index": 3,
+      "start_sec": 125.38,
+      "end_sec": 129.34
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "その記者が、ヒロインの片桐さんと一緒にとある洋館を訪ねるっす",
+      "news_index": 3,
+      "start_sec": 129.42,
+      "end_sec": 133.66
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "洋館……。だいたい洋館に入った時点で、人生が難しくなるやつなのだ",
+      "news_index": 3,
+      "start_sec": 133.81,
+      "end_sec": 139.56
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "先輩めっちゃ分かってるっす。案の定、館の中で謎の光に包まれるっす",
+      "news_index": 3,
+      "start_sec": 139.71,
+      "end_sec": 144.73
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "そして気づいたら、事件が起きた当時に飛ばされてるっす。時代は昭和4年っす",
+      "news_index": 3,
+      "start_sec": 144.81,
+      "end_sec": 149.78
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "昭和4年って、ボクのご先祖さまがまだ豆だった頃なのだ",
+      "news_index": 3,
+      "start_sec": 149.93,
+      "end_sec": 154.38
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "豆に先祖がいる設定こわいっす。とにかく戦前の日本っす",
+      "news_index": 3,
+      "start_sec": 154.53,
+      "end_sec": 158.54
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そこで起きるのが『キネマ屋敷連続殺人事件』っす。映画会社の会長が毒入りワインで倒れるとこから始まるっす",
+      "news_index": 3,
+      "start_sec": 158.62,
+      "end_sec": 166.19
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "毒入りワイン!? 開幕から容赦がないのだ",
+      "news_index": 3,
+      "start_sec": 166.34,
+      "end_sec": 169.32
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そこから館に集まった一族が、次々に狙われていくっす",
+      "news_index": 3,
+      "start_sec": 169.47,
+      "end_sec": 173.42
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "未来から来た記者が、その渦中に立たされるっす。そこがこの作品のいちばんおいしい構造っす",
+      "news_index": 3,
+      "start_sec": 173.5,
+      "end_sec": 179.3
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "システムも変わってるっす。会話に出てきた単語を拾って話題を選ぶ、フリーワードって仕組みっす",
+      "news_index": 4,
+      "start_sec": 179.38,
+      "end_sec": 185.11
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "フリーワード……。好きな言葉を自由に叫んでいいのだ？",
+      "news_index": 4,
+      "start_sec": 185.26,
+      "end_sec": 189.27
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "叫ばないっす。相手の話から気になる言葉をつまんで、そこを掘るっす",
+      "news_index": 4,
+      "start_sec": 189.42,
+      "end_sec": 193.89
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "しかも主人公、人と話すと心が読めて、物に触ると持ち主の心の断片まで見えるっす",
+      "news_index": 4,
+      "start_sec": 193.97,
+      "end_sec": 199.9
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "便利すぎるのだ。ボクもそれあったら、めたんが今なに考えてるか分かるのだ",
+      "news_index": 4,
+      "start_sec": 200.05,
+      "end_sec": 205.53
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "shirake",
+      "text": "……先輩、それ絶対に使っちゃいけないやつっす",
+      "news_index": 4,
+      "start_sec": 205.68,
+      "end_sec": 208.79
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "な、なんでもないのだ……今のは忘れてほしいのだ",
+      "news_index": 4,
+      "start_sec": 208.94,
+      "end_sec": 213.41
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "話戻すっす。その力、タダじゃないっす",
+      "news_index": 4,
+      "start_sec": 213.56,
+      "end_sec": 216.55
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "マインドポイントって数値が減るんすよ。時間が経っても、捜査が止まっても、心を読んでも削れるっす",
+      "news_index": 4,
+      "start_sec": 216.63,
+      "end_sec": 222.76
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "減りきったらどうなるのだ？",
+      "news_index": 4,
+      "start_sec": 222.91,
+      "end_sec": 225.08
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "ゲームオーバーっす。悩んでる時間そのものが敵になる作りっす",
+      "news_index": 4,
+      "start_sec": 225.23,
+      "end_sec": 229.08
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "つまり、ぼーっとしてると詰むのだ。ボクが一番苦手なタイプなのだ",
+      "news_index": 4,
+      "start_sec": 229.23,
+      "end_sec": 233.53
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに、推理と時間制限を心のゲージひとつでまとめた作品っすね",
+      "news_index": 4,
+      "start_sec": 233.68,
+      "end_sec": 238.3
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "見た目の話もさせてほしいっす。アール・ヌーヴォー調のビジュアルで、古い映画を観てるみたいな画作りっす",
+      "news_index": 4,
+      "start_sec": 238.38,
+      "end_sec": 244.89
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "うわー、雰囲気だけでご飯3杯いけるのだ",
+      "news_index": 4,
+      "start_sec": 245.04,
+      "end_sec": 248.23
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ここからちょっと真面目な話っす。この作品、当時から評価がガッツリ割れてるっす",
+      "news_index": 5,
+      "start_sec": 248.38,
+      "end_sec": 253.52
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "海外のレビュー集計サイト、メタクリティックだと100点満点で41点っす",
+      "news_index": 5,
+      "start_sec": 253.6,
+      "end_sec": 258.38
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "41点!? それはだいぶ厳しい数字なのだ",
+      "news_index": 5,
+      "start_sec": 258.53,
+      "end_sec": 262.65
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "厳しいっす。海外の個別レビューも辛口が目立つっす",
+      "news_index": 5,
+      "start_sec": 262.8,
+      "end_sec": 266.38
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "日本ではどうだったのだ？",
+      "news_index": 5,
+      "start_sec": 266.53,
+      "end_sec": 268.3
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ファミ通のスコアは40点満点で29点っす。低評価ってほどじゃない、真ん中よりちょい上っす",
+      "news_index": 5,
+      "start_sec": 268.45,
+      "end_sec": 274.58
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kangae",
+      "text": "そこがこの作品の不思議なとこっす。ちなみに北米では発売されてないっす",
+      "news_index": 5,
+      "start_sec": 274.66,
+      "end_sec": 279.55
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "北米が丸ごとスキップなのだ!? 大陸が一個いなくなってるのだ",
+      "news_index": 5,
+      "start_sec": 279.7,
+      "end_sec": 284.45
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "言いかたっす。ヨーロッパ版は翌年に出てるっすよ",
+      "news_index": 5,
+      "start_sec": 284.6,
+      "end_sec": 287.93
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "遊べる人が少なかったから、知られてないってことなのだ？",
+      "news_index": 5,
+      "start_sec": 288.08,
+      "end_sec": 291.77
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "それもあるっす。評価が伸びなかったのも事実で、どっちが主な理由かは言い切れないっす",
+      "news_index": 5,
+      "start_sec": 291.92,
+      "end_sec": 297.29
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "両方が同時に起きてたってことなのだね",
+      "news_index": 5,
+      "start_sec": 297.44,
+      "end_sec": 300.12
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "当時のユーザーレビューでも、フリーワードが逆に話を一本道に感じさせるって声もあったっす",
+      "news_index": 5,
+      "start_sec": 300.27,
+      "end_sec": 306.01
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "自由って名前なのに窮屈なんて、ちょっと切ないのだ",
+      "news_index": 5,
+      "start_sec": 306.16,
+      "end_sec": 309.68
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "要するに、賛否が割れたまま今も語られてる一本っす。名作とも駄作とも決まってないっす",
+      "news_index": 5,
+      "start_sec": 309.83,
+      "end_sec": 315.58
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "でここからが、あーしがいちばん語りたいとこっす",
+      "news_index": 6,
+      "start_sec": 315.66,
+      "end_sec": 318.61
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "作ったシングの、その後の話なのだね",
+      "news_index": 6,
+      "start_sec": 318.76,
+      "end_sec": 321.57
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そうっす。このスタジオ、後にニンテンドーDSで『アナザーコード 2つの記憶』と『ウィッシュルーム 天使の記憶』を作るっす",
+      "news_index": 6,
+      "start_sec": 321.72,
+      "end_sec": 329.87
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "海外でもガッツリ評価されて、作家性のあるスタジオって呼ばれるようになったっす",
+      "news_index": 6,
+      "start_sec": 329.95,
+      "end_sec": 334.77
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "じゃあ『玻璃ノ薔薇』は、その手前にある一本ってことなのだ",
+      "news_index": 6,
+      "start_sec": 334.92,
+      "end_sec": 339.19
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "原点とか習作とか、そういう語られ方をよくされるっす",
+      "news_index": 6,
+      "start_sec": 339.34,
+      "end_sec": 342.86
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "でも、原点だから中身も名作、とはならないよね",
+      "news_index": 6,
+      "start_sec": 343.01,
+      "end_sec": 347.25
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そこ大事っす先輩。この一本は当時から賛否が割れてたって事実は、動かないっす",
+      "news_index": 6,
+      "start_sec": 347.4,
+      "end_sec": 352.84
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kangae",
+      "text": "で、そのシングは2010年に、破産の手続きに入るっす",
+      "news_index": 6,
+      "start_sec": 352.92,
+      "end_sec": 357.07
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "えっ……そんなに早く終わっちゃったのだ",
+      "news_index": 6,
+      "start_sec": 357.22,
+      "end_sec": 361.16
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "負債はおよそ2億5,600万円と報じられてるっす。開発の長期化と、企画が通らない時期が重なったっす",
+      "news_index": 6,
+      "start_sec": 361.31,
+      "end_sec": 368.36
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "ただ作品は残るっす。『アナザーコード』は後に別の会社が引き継いで、新しく作り直されてるっす",
+      "news_index": 6,
+      "start_sec": 368.44,
+      "end_sec": 374.91
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "スタジオがなくなっても、話は誰かが受け取るのだ",
+      "news_index": 6,
+      "start_sec": 375.06,
+      "end_sec": 378.49
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "要するにこの一本は、福岡の職人スタジオの出発点として今も掘り返される作品っすね",
+      "news_index": 6,
+      "start_sec": 378.64,
+      "end_sec": 384.48
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "今から遊ぶには、どうすればいいのだ？",
+      "news_index": 7,
+      "start_sec": 384.63,
+      "end_sec": 387.28
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "namidame",
+      "text": "そこが辛いとこで、移植もリメイクも無いっす。当時のディスクを探すしかないっす",
+      "news_index": 7,
+      "start_sec": 387.43,
+      "end_sec": 392.61
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "hisohiso",
+      "text": "……あと小説版も出てたっす。角川のホラー文庫から出た、ゲームのノベライズっす",
+      "news_index": 7,
+      "start_sec": 392.69,
+      "end_sec": 398.25
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "hisohiso",
+      "text": "……そっちも中古を探す旅になるやつなのだ",
+      "news_index": 7,
+      "start_sec": 398.4,
+      "end_sec": 401.26
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そういうことっす。あ、今回ネタバレはガッツリ避けてるっす",
+      "news_index": 7,
+      "start_sec": 401.41,
+      "end_sec": 405.31
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "犯人もトリックも結末も、ボクたち一言も言ってないのだ！",
+      "news_index": 7,
+      "start_sec": 405.46,
+      "end_sec": 409.39
+    },
+    {
+      "index": 84,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そこはオタクくん自身の目で確かめてほしいっす",
+      "news_index": 7,
+      "start_sec": 409.54,
+      "end_sec": 412.35
+    },
+    {
+      "index": 85,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ボク、最初は園芸ゲームだと思ってたのだ。バラ一本も育てられなかったのだ",
+      "news_index": 7,
+      "start_sec": 412.5,
+      "end_sec": 418.55
+    },
+    {
+      "index": 86,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "そりゃそうっす、園芸要素は最初から最後までゼロっす",
+      "news_index": 7,
+      "start_sec": 418.7,
+      "end_sec": 422.51
+    },
+    {
+      "index": 87,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "というわけで、今回の旅の道ラジオはここまでなのだ！",
+      "news_index": 7,
+      "start_sec": 422.66,
+      "end_sec": 426.28
+    },
+    {
+      "index": 88,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "また旅の道ラジオで会いましょーっす！",
+      "news_index": 7,
+      "start_sec": 426.43,
+      "end_sec": 428.64
+    },
+    {
+      "index": 89,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "またなのだー！",
+      "news_index": 7,
+      "start_sec": 428.79,
+      "end_sec": 429.81
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 430.51,
+      "end_sec": 438.21
+    }
+  ],
+  "wall_time_sec": 14.19,
+  "audio_url": "/audio/indie/20260828_050717.mp3?v=1787862579"
+}
