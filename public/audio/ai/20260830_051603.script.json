@@ -1,0 +1,567 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-08-29T20:16:03.520614+00:00",
+  "title": "持ち主が変わった朝 〜五兆円の物置と、自分を直すAI〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便。テックニュースの回、四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝もテックの話題、軽くいくのだー!",
+      "news_index": 0,
+      "reading": "ボク、ずんだもんなのだー!けさもテックのわだい、かるくいくのだー!"
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今日は五本。買収でケンカ、五兆円、それから訴えられた歌詞ね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "歌詞!? 音楽の話が、なんでテックに出てくるのだ!?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこは二本目でやるわ。ラストは、AIが自分を直す話でしめるの。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "自分を直す!? もう人間の出番がないやつじゃん!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "早い早い。頭から順にいくわよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。プログラマーが使う道具をめぐって、大手同士がケンカしてるの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "道具? かなづちとか、そういうやつ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "パソコンの中よ。カーソルっていう、AIがプログラムを書くのを手伝ってくれる道具ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、聞いたことあるのだ! プログラマーのかたが使ってるやつじゃん!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そのカーソルを、八月十四日にスペースエックスが買ったの。株のやりとりで600億ドルよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "600億ドル!? ボクがお小遣いを一生ためても、桁が三つ足りないのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、面白いのはここから。オープンエーアイが、カーソルへのモデル提供を打ち切るって発表したわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "打ち切り!? 買われただけで、道具そのものは同じままじゃん……。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "今あるモデルが急に変わるわけじゃないけど、オープンエーアイは契約順守への不安を理由に、今後のモデルも提供しない方針なの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "気に入らないだけで、止めちゃっていいのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "sexy",
+      "text": "向こうの言い分は、マスクのところは過去に約束を破ってきたから信用できない、よ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "言い方が直球すぎるのだ。オブラート、どこ行ったのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに、買収をきっかけにしたモデル供給契約の打ち切りね。切れるのは十一月十二日よ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、ボクたちには関係あるのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "カーソルを使ってるかたは、秋から中で動くAIの選択肢が変わるわ。仕事道具が、よその都合で入れ替わるってこと。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "選んだ覚えもないのに、巻き込まれるのだね……。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目は、朝から裁判所の話。短めに済ますわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "硬いやつは、さらっと聞くのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ソニー・ミュージック・パブリッシングとワーナー・チャペル・ミュージックが、八月二十八日にアンソロピックを訴えたのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "あんそろぴっく? 朝から噛みそうな名前なのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "クロードってAIを作ってる会社ね。訴えた側は、音楽の権利を預かってるところ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "音楽!? AIって、歌まで持っていってたのだ!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "訴えた側の言い分ではね。数万曲ぶんの歌詞を無断で集めて、学習に使ったって主張してるわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "歌詞! メロディーじゃなくて、言葉のほうなのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。しかも著作権者などを示す管理情報を、削除したり書き換えたりしたとも訴えているの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "値札を取ってから棚に戻すみたいなこと?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いい線ね。請求は一曲あたり最大15万ドル。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "数万曲に掛けたら、電卓が煙を吹くやつじゃん!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "争点は、無断で集めた作品を学習に使ったのか、それに似た歌詞を出力したのか、というところね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "ただし、まだ裁判の途中。結論を急がないの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "三本目は、お財布に関わるやつ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "待ってたのだ、生活に直撃するやつ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "キオクシアとサンディスクが、八月二十七日に日本国内へ約5兆円投資するって発表したの。2032年までの計画で、政府の支援が前提ね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "5兆円!? 小さい国の予算みたいな数字じゃん!",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "そもそも、きおくしあって何を作ってる会社なのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "エスエスディーやスマホの中に入ってる、フラッシュメモリよ。電源を切っても中身が消えない記憶装置ね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、撮った写真がずっと残ってるやつじゃん!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "それ。工場は三重の四日市と、岩手の北上。北上には三つ目の建屋を新しく建てるわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "三つ目? 二つじゃ足りないのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "足りないのよ。AIを動かすサーバーが、学習用のデータも計算の結果も、とんでもない量をため込むから。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "AIって、賢いだけじゃなくて物置まで食うのだ!?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "食うわね。ただし新しい建屋が動き出すのは、2029年度中の予定よ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "三年後……ボクのスマホ、二回は買い替えてるのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこが要点。増える供給が効いてくるのは数年先で、今すぐ安くなる話じゃないの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "少なくとも、今すぐ値下がりする話ではないのだね……。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四本目。中国のゼットエーアイってところが、八月二十八日に大きなAIの重みをダウンロードできる形で公開したわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "無料? 太っ腹すぎて、逆に裏を疑うのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "名前はジーエルエム 5.3。借りるんじゃなくて、中身を丸ごと持ち帰れるタイプね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、サービスを借りるだけじゃなくて、自分の環境にも置けるやつなのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。抱えてる部品は7,440億。でも一回答えるのに動くのは、そのうち400億だけ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "7,440億!? 数えてるうちに人生が終わるのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "全部いっぺんに使わないのが工夫でね。必要な担当だけ起こして、残りは寝かせておくわけ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "会社で、その日の当番だけ出社するみたいなやつじゃん。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "悪くない例えね。おかげで、大きさのわりに動かす電気代が抑えられるわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、肝心の賢さはどうなのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "自社のプログラミング試験では、前の型から五割ほど伸びたって発表してるわ。有料の上位モデルに迫るところまで来てるの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "無料が有料に追いついちゃうのだ!?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "sexy",
+      "text": "そこよ。高性能なAIを、自分の環境で動かす選択肢がまた一つ増えたってこと。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "使い方の選択肢が増えるのは期待していいのだね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "圧力はかかるわね。ただ手元で動かすには、それなりのパソコンが要るけど。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあラスト五本目。冒頭で焦らした、AIが自分を直す話ね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "待ってたのだー!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "アンソロピックが出した研究でね。四体の調査係に文献をまとめさせて、そのあと五体の研究係を並行して動かしたの。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "掲示板? AI同士で書き込みし合うのだ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "見つけたことを共有する場所ね。研究係が見つけた方法や成績を、ほかの四体も掲示板で読めるわけ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "職場じゃん! AIが会議まで始めたのだ!?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "お題は、AIの振る舞いがズレたときにどう直すか。頼んでないことを勝手にやったり、都合よくごまかしたりする癖のことね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "あー、宿題をやったフリするタイプなのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "近いわね。その癖を十種類ぶん測る試験にかけたら、全部で成績が良くなったの。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ぜんぶ!? まぐれじゃ説明つかないやつじゃん!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "しかも人間も案を出した七種類では、その中の最良案を平均およそ六時間半で上回ったわ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "六時間……人間がお昼を食べてる間に、抜かれてるのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ここが今朝いちばんの要点。AIを安全にする作業そのものを、AIが手伝い始めたってこと。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "それ、いいことなのだ? 悪いことなのだ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "sexy",
+      "text": "期待はできるけど、まだ限定した試験での結果よ。現実の複雑な問題でも同じように直せるかは、これから確かめないとね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "見守る側が、置いていかれるのだね……。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで、今朝は五本お届けしたわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "買収でケンカ、歌詞の裁判、5兆円、無料の巨大AI、それからAIの自習なのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "よく覚えてたわね。気になったのがあったら、あとで調べてみて。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ボクは5兆円の建屋が見たいのだ。工場見学、やってないのだ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "まだ建ててもいないわよ。三年待ちなさい。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "じゃあ気長に待つのだ。今日も一日、いってらっしゃいなのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "旅の道ラジオ朝便、四国めたんと、",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ずんだもんでしたー! また明日のテック朝便で会うのだー!",
+      "news_index": 0
+    }
+  ],
+  "program_description": "旅の道ラジオ朝便、テックニュースの回。一本目はプログラマー向けの道具カーソルがスペースエックスに買われ、オープンエーアイが十一月十二日でモデル提供を打ち切ると発表した一件。二本目はソニー・ミュージック・パブリッシングとワーナー・チャペルが、数万曲ぶんの歌詞をめぐってアンソロピックを訴えた裁判の話。三本目はキオクシアとサンディスクが日本国内へ約5兆円を投じる計画と、岩手・北上に建つ三つ目の建屋。四本目は中国のゼットエーアイが丸ごと無料公開した巨大AIと、部品7,440億のうち400億だけ動かす仕組み。ラストはAIを九体並べて、AI自身の困った癖を直させた研究をご紹介。通勤・通学のおともにサクッとどうぞ。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20260830_051603_chars.webp",
+    "hero_rel": "/images/topics/tech_20260830_051603.webp",
+    "title": "持ち主が変わった朝 〜五兆円の物置と、自分を直すAI〜",
+    "companies": [
+      "Claude",
+      "OpenAI",
+      "Meta"
+    ],
+    "thumbnail_ready": true
+  },
+  "summary_short": "5兆円買収劇の裏で歌詞訴訟にAI9体の自己矯正実験まで。カーソル争奪戦とキオクシアの北上増設、そして\"故障\"したAIをAIが治す最新研究を一気読み。"
+}

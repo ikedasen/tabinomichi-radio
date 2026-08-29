@@ -1,0 +1,926 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-08-30T05:06:37+09:00",
+  "title": "バントは場外へ飛ぶ 〜燃えろ!!プロ野球、158万本のバカゲー伝説〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 387.53,
+  "script_hash": "sha256:9efebf75e43ba9055912a34552d60be6ab5ef504f01be14060d9a716377b91b1",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 9.59
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "旅の道ラジオへようこそなのだ！ パーソナリティのずんだもんなのだ！",
+      "news_index": 0,
+      "start_sec": 9.59,
+      "end_sec": 13.64
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "またまた、あーしが担当するっすよー！ 今回のテーマは『燃えろ!!プロ野球』っす！",
+      "news_index": 0,
+      "start_sec": 13.79,
+      "end_sec": 19.4
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "燃えろプロ野球? 野球しながら脂肪を燃やすゲームなのだ?",
+      "news_index": 0,
+      "start_sec": 19.55,
+      "end_sec": 24.06
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "先輩それガチ違うっす。1987年にファミコンで出た、ど真ん中の野球ゲームっす。",
+      "news_index": 0,
+      "start_sec": 24.21,
+      "end_sec": 30.2
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "野球ゲームなのに、なんでそんなに燃えてるのだ?",
+      "news_index": 0,
+      "start_sec": 30.35,
+      "end_sec": 33.57
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "そこっす。この作品、バカゲー伝説としてガチで有名っすよ。",
+      "news_index": 0,
+      "start_sec": 33.72,
+      "end_sec": 37.77
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "バグが多すぎて語り草っす。でも同時に、めちゃくちゃ売れた作品でもあるっす。",
+      "news_index": 0,
+      "start_sec": 37.85,
+      "end_sec": 42.66
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "ひどいのに売れた? 情報がぶつかってるのだ……ぐるぐるなのだ。",
+      "news_index": 0,
+      "start_sec": 42.81,
+      "end_sec": 47.81
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに、笑えるバグ込みで愛されてる怪作っす。",
+      "news_index": 0,
+      "start_sec": 47.96,
+      "end_sec": 51.21
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "まず基本からいくっす。発売は1987年6月26日、ファミコンのカセットっす。",
+      "news_index": 1,
+      "start_sec": 51.29,
+      "end_sec": 57.7
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "1987年って、ボクが生まれる前の前の前くらいなのだ。",
+      "news_index": 1,
+      "start_sec": 57.85,
+      "end_sec": 63.1
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "先輩の年齢設定が渋滞してるっす。とにかく昭和のど真ん中っすよ。",
+      "news_index": 1,
+      "start_sec": 63.25,
+      "end_sec": 67.84
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "出したのはジャレコっす。今のシティコネクションっすね。",
+      "news_index": 1,
+      "start_sec": 67.92,
+      "end_sec": 70.98
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "ジャレコ! 名前だけでレトロの匂いがするのだ。",
+      "news_index": 1,
+      "start_sec": 71.13,
+      "end_sec": 74.14
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "その感覚分かるオタクくんは同志っす。あーし、このカセット中古屋のワゴンで数百円で発掘したっすよ。",
+      "news_index": 1,
+      "start_sec": 74.29,
+      "end_sec": 80.85
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "元の値段はいくらだったのだ?",
+      "news_index": 1,
+      "start_sec": 81.0,
+      "end_sec": 83.1
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "当時の定価は5,500円とされてるっす。子供にはガチで大金っすね。",
+      "news_index": 1,
+      "start_sec": 83.25,
+      "end_sec": 87.76
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "5,500円! それ、ボクのずんだ餅が何個買えるのだ……",
+      "news_index": 1,
+      "start_sec": 87.91,
+      "end_sec": 92.39
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "で、ここからがヤバいっす。この燃えプロ、158万本出荷っすよ。",
+      "news_index": 2,
+      "start_sec": 92.54,
+      "end_sec": 97.33
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "158万本!? 日本中の子供が全員持ってた計算なのだ!",
+      "news_index": 2,
+      "start_sec": 97.48,
+      "end_sec": 102.64
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "盛りすぎっす。でもジャレコの家庭用で最大のヒットなのはガチっす。",
+      "news_index": 2,
+      "start_sec": 102.79,
+      "end_sec": 106.9
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "バカゲー扱いされてるのに、一番売れたのだ?",
+      "news_index": 2,
+      "start_sec": 107.05,
+      "end_sec": 110.38
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "それどころか、ファミ通のクロスレビューで殿堂入りの金を獲ってるっす。",
+      "news_index": 2,
+      "start_sec": 110.53,
+      "end_sec": 114.59
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "金メダルなのだ! バグだらけで金メダルは前代未聞なのだ!",
+      "news_index": 2,
+      "start_sec": 114.74,
+      "end_sec": 118.62
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "当時のレビュー評価はガチで高かったっす。バグ伝説は後から育った感じっすね。",
+      "news_index": 2,
+      "start_sec": 118.77,
+      "end_sec": 123.73
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "つまり、みんな買ってから気づいたのだ。",
+      "news_index": 2,
+      "start_sec": 123.88,
+      "end_sec": 126.76
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "身も蓋もない要約、さすがっす先輩。",
+      "news_index": 2,
+      "start_sec": 126.91,
+      "end_sec": 129.72
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "じゃあ本丸いくっす。伝説のバグ、バントホームランっす。",
+      "news_index": 3,
+      "start_sec": 129.8,
+      "end_sec": 133.43
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "バントって、走者を進めるための小さい打撃なのだ?",
+      "news_index": 3,
+      "start_sec": 133.58,
+      "end_sec": 137.19
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そこは合ってるっす。でもこのゲームだと、バントの構えで場外まで飛ぶっす。",
+      "news_index": 3,
+      "start_sec": 137.34,
+      "end_sec": 141.96
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "物理法則が土下座してるのだ……",
+      "news_index": 3,
+      "start_sec": 142.11,
+      "end_sec": 144.65
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "条件があるっす。各チームに1人だけ設定された強打者が、バントの構えのままボールに当たると起きるっす。",
+      "news_index": 3,
+      "start_sec": 144.8,
+      "end_sec": 151.24
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "対象は全部で13人っす。クロマティ、秋山、バースあたりが有名っすね。",
+      "news_index": 3,
+      "start_sec": 151.32,
+      "end_sec": 156.49
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "13人の強打者……なんかヒーロー戦隊みたいなのだ!",
+      "news_index": 3,
+      "start_sec": 156.64,
+      "end_sec": 160.72
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriama",
+      "text": "そうっすね、13人の選ばれし戦士っす。あーしはいつも通りっすよー、ぴーすぴーす。",
+      "news_index": 3,
+      "start_sec": 160.87,
+      "end_sec": 166.49
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "つむぎ、今日はちょっと目が笑ってないのだ……",
+      "news_index": 3,
+      "start_sec": 166.64,
+      "end_sec": 169.37
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "気のせいっす。実はこのバグの原因、プロデューサーの関雅行さんがテレビ朝日の激レアさんを連れてきた。で明かしてるっす。",
+      "news_index": 3,
+      "start_sec": 169.52,
+      "end_sec": 177.02
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "犯人が自首したのだ!?",
+      "news_index": 3,
+      "start_sec": 177.17,
+      "end_sec": 178.87
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ホーナーをモチーフにした選手のミートとパワーの数値を上げる指示を出したっす。それがバグにつながったって説明っすね。",
+      "news_index": 3,
+      "start_sec": 179.02,
+      "end_sec": 185.68
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "強くしろって言ったら、強くなりすぎたのだ!",
+      "news_index": 3,
+      "start_sec": 185.83,
+      "end_sec": 188.69
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに、愛情のこもった上方修正が場外まで飛んだって話っす。",
+      "news_index": 3,
+      "start_sec": 188.84,
+      "end_sec": 193.33
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "バグはこれだけじゃないっす。ファウルの後は必ずストライク判定になるっす。",
+      "news_index": 4,
+      "start_sec": 193.41,
+      "end_sec": 197.7
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "えっ、じゃあファウルで粘る作戦は……",
+      "news_index": 4,
+      "start_sec": 197.85,
+      "end_sec": 200.35
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "自殺行為っす。粘れば粘るほど自分の首が絞まるっす。",
+      "news_index": 4,
+      "start_sec": 200.5,
+      "end_sec": 204.15
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "野球のセオリーが全部逆なのだ……",
+      "news_index": 4,
+      "start_sec": 204.3,
+      "end_sec": 207.56
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "あと、無死満塁で三振を取るとアホって効果音が鳴る、って説もあるっす。",
+      "news_index": 4,
+      "start_sec": 207.71,
+      "end_sec": 212.38
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "ゲームに煽られるのだ!? 令和なら炎上なのだ!",
+      "news_index": 4,
+      "start_sec": 212.53,
+      "end_sec": 216.08
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriama",
+      "text": "楽しい仕様っすよね。あーし、煽られながら遊び込んだっす、ぴーすぴーす。",
+      "news_index": 4,
+      "start_sec": 216.23,
+      "end_sec": 221.19
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "つむぎ、そんなに遊んで友達とは遊ばなかったのだ?",
+      "news_index": 4,
+      "start_sec": 221.34,
+      "end_sec": 225.52
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "shirake",
+      "text": "……先輩。",
+      "news_index": 4,
+      "start_sec": 225.67,
+      "end_sec": 226.5
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "な、なんでもないのだ……ごめんなさいなのだ……",
+      "news_index": 4,
+      "start_sec": 226.65,
+      "end_sec": 230.58
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "コホン。ちなみにこの効果音の話は、はっきりした裏付けが取れてないんで、うわさ枠っす。",
+      "news_index": 4,
+      "start_sec": 230.73,
+      "end_sec": 236.49
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "つまり、理不尽が仕様として住み着いてるゲームなのだ。",
+      "news_index": 4,
+      "start_sec": 236.64,
+      "end_sec": 240.24
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "でもこのゲーム、バグ以外の部分はガチで先を行ってたっす。",
+      "news_index": 5,
+      "start_sec": 240.39,
+      "end_sec": 243.96
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "音声っす! 審判のストライク、アウトのコールが人の声で鳴るっす。",
+      "news_index": 5,
+      "start_sec": 244.04,
+      "end_sec": 248.26
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "ファミコンが喋るのだ!?",
+      "news_index": 5,
+      "start_sec": 248.41,
+      "end_sec": 250.08
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "しかも当時標準だったDPCMじゃなくて、外部の音声合成チップを積んでるっす。",
+      "news_index": 5,
+      "start_sec": 250.23,
+      "end_sec": 255.59
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "カセットの中に喉が入ってるのだ……",
+      "news_index": 5,
+      "start_sec": 255.74,
+      "end_sec": 258.7
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "喉じゃなくてチップっす。打撃音とか観客の歓声まで鳴るっすよ。",
+      "news_index": 5,
+      "start_sec": 258.85,
+      "end_sec": 262.99
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "じゃあさっきのアホも、その声で言われるのだ!?",
+      "news_index": 5,
+      "start_sec": 263.14,
+      "end_sec": 266.35
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriama",
+      "text": "そこに戻るんすね先輩。ほんと楽しいゲームっすよー、ぴーすぴーす。",
+      "news_index": 5,
+      "start_sec": 266.5,
+      "end_sec": 270.77
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "画面もピッチャー視点の中継風で、テレビの野球中継っぽさを狙ってたっす。",
+      "news_index": 5,
+      "start_sec": 270.85,
+      "end_sec": 275.56
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "当時としてはリアル志向だったのだ。",
+      "news_index": 5,
+      "start_sec": 275.71,
+      "end_sec": 277.99
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そうっす! 投球の多彩さも当時のファミコン野球では特徴で、あーしここのテンポがガチで好きで……",
+      "news_index": 5,
+      "start_sec": 278.14,
+      "end_sec": 284.06
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "つむぎ早口すぎなのだ。目が完全にオタクなのだ。",
+      "news_index": 5,
+      "start_sec": 284.21,
+      "end_sec": 287.64
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "あーし今めっちゃキモいっすね、すんません。",
+      "news_index": 5,
+      "start_sec": 287.79,
+      "end_sec": 290.51
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "もう一個、当時ならではの騒動があるっす。",
+      "news_index": 6,
+      "start_sec": 290.59,
+      "end_sec": 293.48
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "なにがあったのだ?",
+      "news_index": 6,
+      "start_sec": 293.63,
+      "end_sec": 294.98
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "初代は選手名がほぼ実名だったっす。",
+      "news_index": 6,
+      "start_sec": 295.13,
+      "end_sec": 297.63
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "そんなの許されるのだ?",
+      "news_index": 6,
+      "start_sec": 297.78,
+      "end_sec": 299.66
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "案の定っす。発売後に3球団からクレームが来たっす。",
+      "news_index": 6,
+      "start_sec": 299.81,
+      "end_sec": 303.4
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "それで以降のシリーズは偽名に切り替わったっす。で、1991年の最強編でまた実名が復活するっす。",
+      "news_index": 6,
+      "start_sec": 303.48,
+      "end_sec": 310.98
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "行ったり来たりなのだ!",
+      "news_index": 6,
+      "start_sec": 311.13,
+      "end_sec": 312.56
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに、権利まわりが手探りだった時代の記録っすね。",
+      "news_index": 6,
+      "start_sec": 312.71,
+      "end_sec": 316.28
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "シリーズはめちゃくちゃ続いてるっす。88の決定版、新・燃えろ、感動編、最強編とか。",
+      "news_index": 7,
+      "start_sec": 316.36,
+      "end_sec": 323.33
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "バカゲーの分際で大出世なのだ!",
+      "news_index": 7,
+      "start_sec": 323.48,
+      "end_sec": 326.1
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "分際って言い方やめるっす。愛されてるって言うっすよ。",
+      "news_index": 7,
+      "start_sec": 326.25,
+      "end_sec": 329.58
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "しかも2016年にはPS4で燃えろ!!プロ野球2016が配信されたっす。4月8日っすね。",
+      "news_index": 7,
+      "start_sec": 329.66,
+      "end_sec": 336.35
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "リメイクでバグは直したのだ?",
+      "news_index": 7,
+      "start_sec": 336.5,
+      "end_sec": 338.48
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriama",
+      "text": "逆っす。バグ技をオプションでオンオフできる形で再現したっす、ぴーすぴーす。",
+      "news_index": 7,
+      "start_sec": 338.63,
+      "end_sec": 343.7
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "バグが公式機能に昇格したのだ!",
+      "news_index": 7,
+      "start_sec": 343.85,
+      "end_sec": 346.27
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "3DS版も2016年11月22日に出てるっす。もうバグが看板っすね。",
+      "news_index": 7,
+      "start_sec": 346.42,
+      "end_sec": 352.03
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "みんなあのバグが好きなのだ……いい話なのだ。",
+      "news_index": 7,
+      "start_sec": 352.18,
+      "end_sec": 355.13
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "バカゲー扱いされながら158万本売れて、バグごと復刻される作品っす。",
+      "news_index": 7,
+      "start_sec": 355.28,
+      "end_sec": 360.24
+    },
+    {
+      "index": 84,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ボク、このゲームのこと好きになってきたのだ。",
+      "news_index": 7,
+      "start_sec": 360.39,
+      "end_sec": 363.56
+    },
+    {
+      "index": 85,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "オタクくんも見かけたら触ってほしいっす！ 語れる同志、まだいっぱいいるはずっす。",
+      "news_index": 7,
+      "start_sec": 363.71,
+      "end_sec": 368.6
+    },
+    {
+      "index": 86,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "そして脂肪も燃やすのだ。",
+      "news_index": 7,
+      "start_sec": 368.75,
+      "end_sec": 370.67
+    },
+    {
+      "index": 87,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "shirake",
+      "text": "それ、冒頭で終わったボケっすよ先輩。",
+      "news_index": 7,
+      "start_sec": 370.82,
+      "end_sec": 373.65
+    },
+    {
+      "index": 88,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "また旅の道ラジオで会いましょうなのだー！",
+      "news_index": 7,
+      "start_sec": 373.8,
+      "end_sec": 376.37
+    },
+    {
+      "index": 89,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "またっすよー、オタクくん！ ばいばいっす！",
+      "news_index": 7,
+      "start_sec": 376.52,
+      "end_sec": 379.13
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 379.83,
+      "end_sec": 387.53
+    }
+  ],
+  "wall_time_sec": 14.55,
+  "audio_url": "/audio/indie/20260830_050637.mp3?v=1788035137"
+}
