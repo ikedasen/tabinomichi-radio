@@ -1,0 +1,926 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-08-31T05:06:06+09:00",
+  "title": "ロムロムが鳴った日 〜イースI・II、CDに宿った赤い髪〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 417.73,
+  "script_hash": "sha256:f612b81a0ec60ceac665ddda26f63825249eb741e80c0c3b859945c9bb8b3b42",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 6.47
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "旅の道ラジオへようこそなのだ！パーソナリティのずんだもんなのだー！",
+      "news_index": 0,
+      "start_sec": 6.47,
+      "end_sec": 10.61
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "またまた、あーしが担当するっすよー！今回のテーマは『イースI・II』のPCエンジン版っす！",
+      "news_index": 0,
+      "start_sec": 10.76,
+      "end_sec": 16.53
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "イース? それってボクが座る椅子の話なのだ?",
+      "news_index": 0,
+      "start_sec": 16.68,
+      "end_sec": 20.47
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "先輩それガチ違うっす。日本ファルコムが生んだアクションRPGの金字塔っす。",
+      "news_index": 0,
+      "start_sec": 20.62,
+      "end_sec": 25.75
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "座り心地の話じゃないのだね。ちょっと残念なのだ。",
+      "news_index": 0,
+      "start_sec": 25.9,
+      "end_sec": 29.43
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに、赤い髪の剣士が冒険するゲームっす。その伝説の移植版が今回の主役っす。",
+      "news_index": 0,
+      "start_sec": 29.58,
+      "end_sec": 35.43
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "発売は1989年12月21日、出したのはハドソンっす。",
+      "news_index": 1,
+      "start_sec": 35.51,
+      "end_sec": 40.62
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "1989年って、ボクが生まれる前の前の前くらいなのだ。",
+      "news_index": 1,
+      "start_sec": 40.77,
+      "end_sec": 46.06
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "先輩に前世の設定は無いっす w 開発はアルファ・システムとハドソンっす。",
+      "news_index": 1,
+      "start_sec": 46.21,
+      "end_sec": 50.81
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "作った人と売った人が、微妙に違うのだ?",
+      "news_index": 1,
+      "start_sec": 50.96,
+      "end_sec": 54.02
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そこ大事っす。原作は日本ファルコムのPC-8801用ソフトで、それをハドソンが移植して出した形っす。",
+      "news_index": 1,
+      "start_sec": 54.17,
+      "end_sec": 61.44
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "要するに、パソコンの名作が家庭用に引っ越してきたのだね。",
+      "news_index": 1,
+      "start_sec": 61.59,
+      "end_sec": 65.65
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そういうことっす。で、当時の定価が7,800円っす。",
+      "news_index": 1,
+      "start_sec": 65.8,
+      "end_sec": 69.88
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "7,800円!? ボクのずんだ餅が何個買えるのか、もう計算できないのだ……。",
+      "news_index": 1,
+      "start_sec": 70.03,
+      "end_sec": 76.67
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "先輩の通貨単位が餅っすね w あーしの当時のお年玉的にはガチで無理な額っす。",
+      "news_index": 1,
+      "start_sec": 76.82,
+      "end_sec": 82.14
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "つむぎ、当時いたのだ?",
+      "news_index": 1,
+      "start_sec": 82.29,
+      "end_sec": 84.41
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "……あーしは中古屋で発掘した側っす。そこ掘らないでほしいっす。",
+      "news_index": 1,
+      "start_sec": 84.56,
+      "end_sec": 88.58
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ここから本題っす。これCD-ROM²専用ソフトなんすよ。",
+      "news_index": 2,
+      "start_sec": 88.66,
+      "end_sec": 92.46
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "シーディーってことは、遊ぶより聴くゲームなのだ?",
+      "news_index": 2,
+      "start_sec": 92.61,
+      "end_sec": 95.77
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "惜しいっす、聴くだけじゃないっす。ゲームのデータをまるごとCDに詰め込む、当時の最先端メディアっす。",
+      "news_index": 2,
+      "start_sec": 95.92,
+      "end_sec": 102.3
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "でCD-ROM²の本体が出たのが1988年12月4日で、この作品はその約1年後っす。",
+      "news_index": 2,
+      "start_sec": 102.38,
+      "end_sec": 109.34
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "じゃあ一番乗りのロンチタイトルなのだ！",
+      "news_index": 2,
+      "start_sec": 109.49,
+      "end_sec": 111.92
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "先輩そこガチ違うっす。1年遅れっすから、ロンチじゃなくて初期を代表する看板タイトルっす。",
+      "news_index": 2,
+      "start_sec": 112.07,
+      "end_sec": 118.1
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "遅れて出てきて、ハードの顔になったのだね。",
+      "news_index": 2,
+      "start_sec": 118.25,
+      "end_sec": 121.11
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "今の一行が正解っす！ハードの普及にめちゃくちゃ貢献した、って言われてるっす。",
+      "news_index": 2,
+      "start_sec": 121.26,
+      "end_sec": 126.27
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "あーし的にガチで震えるのがここっす。グラフィックが512色発色でブラッシュアップされてるっす。",
+      "news_index": 3,
+      "start_sec": 126.35,
+      "end_sec": 132.2
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "512色!? ボクが名前を言える色は10色くらいなのだ。",
+      "news_index": 3,
+      "start_sec": 132.35,
+      "end_sec": 137.0
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "先輩の色彩感覚が信号機っすね w 当時としては別世界の鮮やかさだったっす。",
+      "news_index": 3,
+      "start_sec": 137.15,
+      "end_sec": 142.52
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そこにイベントシーンとCD音源のBGM、部分的なボイスまで乗ってるっす。",
+      "news_index": 3,
+      "start_sec": 142.6,
+      "end_sec": 147.55
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "ゲームがしゃべるのだ!? 画面から声が出るのだ!?",
+      "news_index": 3,
+      "start_sec": 147.7,
+      "end_sec": 151.3
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "次世代を予感させる衝撃、って評された作品っす。",
+      "news_index": 3,
+      "start_sec": 151.45,
+      "end_sec": 155.01
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "当時のプレイヤーは腰を抜かしたのだ。要するに、CDだからできた贅沢の全部乗せなのだ。",
+      "news_index": 3,
+      "start_sec": 155.16,
+      "end_sec": 161.29
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "で、さっきの2本の話に戻るっす。1枚のディスクにイースとイースIIが入ってるっす。",
+      "news_index": 4,
+      "start_sec": 161.44,
+      "end_sec": 166.9
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "お得なセット売りなのだ? 2枚組の方がえらそうなのだ。",
+      "news_index": 4,
+      "start_sec": 167.05,
+      "end_sec": 170.78
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "ただの詰め合わせじゃないっす。レベルも経験値もそのまま引き継いで、1本のゲームとして繋がってるっす。",
+      "news_index": 4,
+      "start_sec": 170.93,
+      "end_sec": 177.14
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そのためにボスの難易度まで全部組み直してるっす。そこがPCエンジン版の一番の大仕事っす。",
+      "news_index": 4,
+      "start_sec": 177.22,
+      "end_sec": 183.09
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "要するに、2本を1本の物語に作り直したのだ。",
+      "news_index": 4,
+      "start_sec": 183.24,
+      "end_sec": 186.96
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "戦闘も語らせてほしいっす。このゲーム、攻撃ボタンが無いっす。",
+      "news_index": 4,
+      "start_sec": 187.11,
+      "end_sec": 191.43
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "えっ、じゃあどうやって戦うのだ? にらむのだ?",
+      "news_index": 4,
+      "start_sec": 191.58,
+      "end_sec": 195.86
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "体当たりっす。敵にぶつかって削るっす。",
+      "news_index": 4,
+      "start_sec": 196.01,
+      "end_sec": 198.72
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "それ、ボクの必殺技と同じなのだ！",
+      "news_index": 4,
+      "start_sec": 198.87,
+      "end_sec": 201.86
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "先輩の必殺技が原始的すぎるっす w 半キャラずらしって呼ばれてるテクがあるっす。",
+      "news_index": 4,
+      "start_sec": 202.01,
+      "end_sec": 207.12
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "敵と半キャラ分ずらして当たると、こっちはダメージを受けないっす。シリーズ初代からの伝統っす。",
+      "news_index": 4,
+      "start_sec": 207.2,
+      "end_sec": 212.94
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "ズルなのだ！ 敵がかわいそうなのだ！",
+      "news_index": 4,
+      "start_sec": 213.09,
+      "end_sec": 215.33
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kangae",
+      "text": "慣れると気持ちよすぎて止まらないっす。一部では、攻撃した後の敵に無敵時間がほとんど無いって指摘もあるっす。",
+      "news_index": 4,
+      "start_sec": 215.48,
+      "end_sec": 222.6
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "要するに、連打すると敵が溶けていくのだ。",
+      "news_index": 4,
+      "start_sec": 222.75,
+      "end_sec": 226.13
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "音楽の話もするっす。原作のパソコン版の曲を書いたのが古代祐三っす。",
+      "news_index": 5,
+      "start_sec": 226.28,
+      "end_sec": 231.22
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "古代って、めちゃくちゃ昔のかたなのだ?",
+      "news_index": 5,
+      "start_sec": 231.37,
+      "end_sec": 234.55
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "お名前っす先輩 w 縄文時代のかたじゃないっす。",
+      "news_index": 5,
+      "start_sec": 234.7,
+      "end_sec": 237.93
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "でPCエンジン版のCD音源アレンジを担当したのが米光亮っす。",
+      "news_index": 5,
+      "start_sec": 238.01,
+      "end_sec": 242.38
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "アレンジって、原曲をちょっといじるだけなのだ?",
+      "news_index": 5,
+      "start_sec": 242.53,
+      "end_sec": 245.72
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "そこ軽く言わないでほしいっす。イースのアレンジ盤での仕事が評価されて抜擢されたかたっす。",
+      "news_index": 5,
+      "start_sec": 245.87,
+      "end_sec": 251.49
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ボク、その音を聴いてみたいのだー。",
+      "news_index": 5,
+      "start_sec": 251.64,
+      "end_sec": 254.23
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "オタクくん、これはガチで探して聴いてほしいっす。要するに、CDになって曲が本気を出した作品っす。",
+      "news_index": 5,
+      "start_sec": 254.38,
+      "end_sec": 260.81
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ボイスは青二プロダクション協力で、当時としては豪華な顔ぶれっす。",
+      "news_index": 6,
+      "start_sec": 260.89,
+      "end_sec": 265.07
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "じゃあ主人公がベラベラしゃべるのだ?",
+      "news_index": 6,
+      "start_sec": 265.22,
+      "end_sec": 267.89
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "そこ逆っす。主人公のアドル＝クリスティンは基本しゃべらないっす。",
+      "news_index": 6,
+      "start_sec": 268.04,
+      "end_sec": 271.98
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "無口な赤髪なのだ。渋いのだ。",
+      "news_index": 6,
+      "start_sec": 272.13,
+      "end_sec": 274.46
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "周りのキャラだけにボイスが付く演出っす。ヒロインのフィーナ役は渡辺菜生子っす。",
+      "news_index": 6,
+      "start_sec": 274.61,
+      "end_sec": 279.44
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "あーし、この会話シーンだけで何周もしてるっす!!",
+      "news_index": 6,
+      "start_sec": 279.52,
+      "end_sec": 282.66
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "つむぎ、そんなに周回して、ほかに予定は無かったのだ?",
+      "news_index": 6,
+      "start_sec": 282.81,
+      "end_sec": 287.26
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "shirake",
+      "text": "……先輩。",
+      "news_index": 6,
+      "start_sec": 287.41,
+      "end_sec": 288.23
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "な、なんでもないのだ……ごめんなさいなのだ……",
+      "news_index": 6,
+      "start_sec": 288.38,
+      "end_sec": 292.31
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "コホン。話戻すっすよ。",
+      "news_index": 6,
+      "start_sec": 292.46,
+      "end_sec": 294.34
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "会話シーンで女性キャラの顔が大きく映る演出、あれPCエンジン版オリジナルっす。",
+      "news_index": 7,
+      "start_sec": 294.42,
+      "end_sec": 299.58
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "原作には無かったのだ?",
+      "news_index": 7,
+      "start_sec": 299.73,
+      "end_sec": 301.59
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "開発スタッフが考えた見せ方っす。今どきの立ち絵演出のご先祖みたいなノリっすね。",
+      "news_index": 7,
+      "start_sec": 301.74,
+      "end_sec": 307.03
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そしてイースIの終盤の舞台が、全25階のダームの塔っす。",
+      "news_index": 7,
+      "start_sec": 307.11,
+      "end_sec": 311.28
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "25階って、ボクの家よりずっと高いのだ！",
+      "news_index": 7,
+      "start_sec": 311.43,
+      "end_sec": 314.94
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "先輩の家が基準っすね w シリーズ屈指の名ダンジョンって言われてるやつっす。",
+      "news_index": 7,
+      "start_sec": 315.09,
+      "end_sec": 319.76
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "hisohiso",
+      "text": "オタクくんにだけ言うっすけど、あーしここの音楽で泣いたことあるっす。",
+      "news_index": 7,
+      "start_sec": 319.84,
+      "end_sec": 324.09
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "ダンジョンで泣ける人、初めて見たのだ。",
+      "news_index": 7,
+      "start_sec": 324.24,
+      "end_sec": 326.88
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そしてイースIIの冒頭で、アドルは光に包まれて上空のイースの国に飛ばされるっす。",
+      "news_index": 7,
+      "start_sec": 327.03,
+      "end_sec": 332.23
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "イースって国の名前だったのだ? タイトルじゃないのだ?",
+      "news_index": 7,
+      "start_sec": 332.38,
+      "end_sec": 336.84
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "両方っす。そこで倒れたアドルを介抱するのが、ランスの村の少女リリアっす。",
+      "news_index": 7,
+      "start_sec": 336.99,
+      "end_sec": 341.86
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kangae",
+      "text": "終盤では女神の指輪を届けるために単身で乗り込むっす。芯がガチで強いキャラっす。",
+      "news_index": 7,
+      "start_sec": 341.94,
+      "end_sec": 347.53
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "その先はどうなるのだ?",
+      "news_index": 7,
+      "start_sec": 347.68,
+      "end_sec": 349.45
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "そこは言わないっす。ダームの塔を越えた先に、でっかい謎が待ってるっす。",
+      "news_index": 7,
+      "start_sec": 349.6,
+      "end_sec": 354.23
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "一番いいところで一時停止されたのだ……。",
+      "news_index": 7,
+      "start_sec": 354.38,
+      "end_sec": 358.08
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "この作品、その後もずっと移植とリメイクが続いてるっす。プレイステーション2版の『イースI・II エターナルストーリー』とかっす。",
+      "news_index": 8,
+      "start_sec": 358.23,
+      "end_sec": 365.55
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "何回引っ越すのだ。旅慣れすぎなのだ。",
+      "news_index": 8,
+      "start_sec": 365.7,
+      "end_sec": 368.4
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "PSP版の『イースI＆IIクロニクルズ』もあるっす。2009年7月16日発売、ファルコムの自社開発で2,940円っす。",
+      "news_index": 8,
+      "start_sec": 368.55,
+      "end_sec": 377.37
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "7,800円が2,940円なのだ！ 半額以下なのだ！",
+      "news_index": 8,
+      "start_sec": 377.52,
+      "end_sec": 382.06
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "時代も媒体も違うっすからね w 要するに、それだけ何度も作り直されてる作品ってことっす。",
+      "news_index": 8,
+      "start_sec": 382.21,
+      "end_sec": 388.13
+    },
+    {
+      "index": 84,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ってことで今回は、イースI・IIのPCエンジン版を掘ったっす。",
+      "news_index": 9,
+      "start_sec": 388.21,
+      "end_sec": 392.18
+    },
+    {
+      "index": 85,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ボク、最初は座る椅子の話だと思ってたのだ。",
+      "news_index": 9,
+      "start_sec": 392.33,
+      "end_sec": 396.15
+    },
+    {
+      "index": 86,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "そこ回収するんすね w もう間違えないでほしいっす。",
+      "news_index": 9,
+      "start_sec": 396.3,
+      "end_sec": 399.75
+    },
+    {
+      "index": 87,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "オタクくん、赤い髪の剣士が体当たりで塔を登る話っす。遊べる環境があったらぜひ触ってほしいっす。",
+      "news_index": 9,
+      "start_sec": 399.83,
+      "end_sec": 406.27
+    },
+    {
+      "index": 88,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "また旅の道ラジオで会いましょうなのだー！",
+      "news_index": 9,
+      "start_sec": 406.42,
+      "end_sec": 408.99
+    },
+    {
+      "index": 89,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "会いましょうっす！",
+      "news_index": 9,
+      "start_sec": 409.14,
+      "end_sec": 410.17
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 410.87,
+      "end_sec": 417.73
+    }
+  ],
+  "wall_time_sec": 19.12,
+  "audio_url": "/audio/indie/20260831_050606.mp3?v=1788121467"
+}
