@@ -1,0 +1,926 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-09-01T05:05:33+09:00",
+  "title": "白い狼と一本の筆 〜絶賛と数字がすれ違った2006年〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 399.71,
+  "script_hash": "sha256:f2fc2329728189eae9807241b9c65f0a58a0c6c5d851774c03c2adee81a88d88",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 8.19
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "旅の道ラジオへようこそなのだ！パーソナリティのずんだもんなのだ。",
+      "news_index": 0,
+      "start_sec": 8.19,
+      "end_sec": 12.24
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "今回はレトロゲーム回なのだー！",
+      "news_index": 0,
+      "start_sec": 12.32,
+      "end_sec": 14.77
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "intro",
+      "text": "またまた、あーしが担当するっすよー！今回のテーマは『大神』っす！",
+      "news_index": 0,
+      "start_sec": 14.92,
+      "end_sec": 19.74
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "知ってるのだ。狼の生態をじっくり観察するゲームなのだ？",
+      "news_index": 0,
+      "start_sec": 19.89,
+      "end_sec": 24.68
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "先輩それガチ違うっす。動物ドキュメンタリーじゃなくて、和風のアクションアドベンチャーっす。",
+      "news_index": 0,
+      "start_sec": 24.83,
+      "end_sec": 30.26
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに、日本神話の世界を白い狼が駆け回る話っすね。",
+      "news_index": 0,
+      "start_sec": 30.34,
+      "end_sec": 34.61
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "それは観察どころじゃないのだ。いきなり主役でしょ。",
+      "news_index": 0,
+      "start_sec": 34.76,
+      "end_sec": 38.11
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "まず基本からいくっす。2006年4月20日、プレイステーション2で出たソフトっす。",
+      "news_index": 1,
+      "start_sec": 38.26,
+      "end_sec": 43.46
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "2006年って、ボクが生まれる前の前の前くらいなのだ。",
+      "news_index": 1,
+      "start_sec": 43.61,
+      "end_sec": 48.35
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "先輩の年表、ざっくりしすぎっす w",
+      "news_index": 1,
+      "start_sec": 48.5,
+      "end_sec": 51.37
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "発売はカプコン、開発はクローバースタジオっす。ここ、混ぜたら駄目なとこっす。",
+      "news_index": 1,
+      "start_sec": 51.45,
+      "end_sec": 56.75
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "パブリッシャーと開発元が別ってやつなのだね。",
+      "news_index": 1,
+      "start_sec": 56.9,
+      "end_sec": 60.0
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、どんな見た目のゲームなのだ？",
+      "news_index": 1,
+      "start_sec": 60.08,
+      "end_sec": 62.35
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "画面がまるっと墨絵っす！水墨画みたいなタッチで世界が動くっす。",
+      "news_index": 1,
+      "start_sec": 62.5,
+      "end_sec": 66.69
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "うわー、それだけで額縁に入れたくなるのだ。",
+      "news_index": 1,
+      "start_sec": 66.84,
+      "end_sec": 70.25
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "つまり、絵巻物がそのまま遊べるって話っすね。",
+      "news_index": 1,
+      "start_sec": 70.4,
+      "end_sec": 73.56
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "主人公はアマテラスっす。白い狼の姿をした太陽の神様っす。",
+      "news_index": 2,
+      "start_sec": 73.64,
+      "end_sec": 78.21
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "神様が四つ足で走り回るのだ？ご利益がありすぎでしょ。",
+      "news_index": 2,
+      "start_sec": 78.36,
+      "end_sec": 82.89
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "相棒もいるっす。イッスンっていう小さいコロポックルが、道中ずっと付いてくるっす。",
+      "news_index": 2,
+      "start_sec": 83.04,
+      "end_sec": 88.19
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "一寸法師みたいな名前なのだ。もう仲良しなのだ？",
+      "news_index": 2,
+      "start_sec": 88.34,
+      "end_sec": 91.81
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "というか、アマテラスの技を盗みたくて付いてきた押しかけ弟子っす。",
+      "news_index": 2,
+      "start_sec": 91.96,
+      "end_sec": 96.1
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "で、ここからが心臓部っす。このゲームの筆しらべっす！",
+      "news_index": 2,
+      "start_sec": 96.18,
+      "end_sec": 99.86
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "筆でなにをするのだ？お習字の時間なのだ？",
+      "news_index": 2,
+      "start_sec": 100.01,
+      "end_sec": 103.25
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "お習字じゃないっす。画面を止めて、そこに模様を描くと神通力が出るっす。",
+      "news_index": 2,
+      "start_sec": 103.4,
+      "end_sec": 108.18
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "天候を変えたり、斬撃を飛ばしたり、火を起こしたりできるっす。",
+      "news_index": 2,
+      "start_sec": 108.26,
+      "end_sec": 112.33
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "画面に落書きしたら世界が変わるのだ。最高でしょ。",
+      "news_index": 2,
+      "start_sec": 112.48,
+      "end_sec": 116.03
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "この筆しらべ、日本語版だと13種類あるっす。干支の動物と猫が、それぞれ司ってるっす。",
+      "news_index": 2,
+      "start_sec": 116.18,
+      "end_sec": 122.41
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "猫は干支に入れなかった側なのだ。ここで救済されてるでしょ。",
+      "news_index": 2,
+      "start_sec": 122.56,
+      "end_sec": 127.17
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そこ、あーしも毎回にやっとするっす。で、敵の話いくっすよ。",
+      "news_index": 2,
+      "start_sec": 127.32,
+      "end_sec": 131.9
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "物語の大きな山場が、ヤマタノオロチ戦っす。首がたくさんあるあれっす。",
+      "news_index": 2,
+      "start_sec": 131.98,
+      "end_sec": 136.81
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "八つの首なのだ！ボクなら枝豆を八皿同時に食べるのだ。",
+      "news_index": 2,
+      "start_sec": 136.96,
+      "end_sec": 141.44
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "この先の展開はネタバレになるんで伏せるっす。そこはオタクくんが自分で確かめてほしいっす。",
+      "news_index": 2,
+      "start_sec": 141.59,
+      "end_sec": 146.95
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "ここからガチで語らせてもらうっすけど、この作品、評価はとんでもなく高いっす。",
+      "news_index": 3,
+      "start_sec": 147.03,
+      "end_sec": 151.93
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "どのくらい高いのだ？",
+      "news_index": 3,
+      "start_sec": 152.08,
+      "end_sec": 153.66
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "メタクリティックのプレイステーション2版で93点っす。総絶賛の枠っす。",
+      "news_index": 3,
+      "start_sec": 153.81,
+      "end_sec": 158.55
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "93点って、ボクの通知表なら全部の教科が金色に光るのだ。",
+      "news_index": 3,
+      "start_sec": 158.7,
+      "end_sec": 164.16
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "先輩の通知表は今いらないっす w",
+      "news_index": 3,
+      "start_sec": 164.31,
+      "end_sec": 166.83
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "海外のメディアもいくつか、2006年のベストゲームに選んでるっす。",
+      "news_index": 3,
+      "start_sec": 166.91,
+      "end_sec": 171.03
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "国内の評価はどうなのだ？",
+      "news_index": 3,
+      "start_sec": 171.18,
+      "end_sec": 173.23
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "2006年度の文化庁メディア芸術祭で、エンターテインメント部門の大賞っす！",
+      "news_index": 3,
+      "start_sec": 173.38,
+      "end_sec": 178.32
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "国のお墨付きなのだ。これはもう堂々と自慢していいでしょ。",
+      "news_index": 3,
+      "start_sec": 178.47,
+      "end_sec": 182.28
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kangae",
+      "text": "……で、ここからがこの回のいちばんの話っす。",
+      "news_index": 4,
+      "start_sec": 182.43,
+      "end_sec": 185.42
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "これだけ絶賛されたのに、数字のほうは静かだったっす。",
+      "news_index": 4,
+      "start_sec": 185.5,
+      "end_sec": 188.97
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "えっ、みんな買ってないのだ？",
+      "news_index": 4,
+      "start_sec": 189.12,
+      "end_sec": 191.81
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "北米だと2006年のうちに20万本超え、売上高でおよそ800万ドルっす。",
+      "news_index": 4,
+      "start_sec": 191.96,
+      "end_sec": 197.25
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "話題の大きさに比べると、かなり控えめっす。国内は2006年でおよそ6万6千本っす。",
+      "news_index": 4,
+      "start_sec": 197.33,
+      "end_sec": 203.43
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "絶賛の声はどこに行ったのだ……。",
+      "news_index": 4,
+      "start_sec": 203.58,
+      "end_sec": 206.63
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "残りの人たちは、感想だけ言って帰ったのだ？",
+      "news_index": 4,
+      "start_sec": 206.71,
+      "end_sec": 209.97
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "それ、盛り上がってる映像だけが出回って、チケットは余ってるライブみたいなノリっすね。",
+      "news_index": 4,
+      "start_sec": 210.12,
+      "end_sec": 215.28
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "hisohiso",
+      "text": "しかもこれ、記録として残っちゃってるっす。",
+      "news_index": 4,
+      "start_sec": 215.36,
+      "end_sec": 218.26
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "記録？なんの記録なのだ？",
+      "news_index": 4,
+      "start_sec": 218.41,
+      "end_sec": 220.6
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "2010年版のギネス世界記録ゲーマーズエディションっす。ゲームオブザイヤー受賞作の中で、最も商業的に成功しなかった作品として載ってるっす。",
+      "news_index": 4,
+      "start_sec": 220.75,
+      "end_sec": 229.86
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "それ、褒められてるのか泣かされてるのか分からないのだ！",
+      "news_index": 4,
+      "start_sec": 230.01,
+      "end_sec": 234.35
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "両方っす。栄誉と痛みが一行に同居してるっす。",
+      "news_index": 4,
+      "start_sec": 234.5,
+      "end_sec": 238.06
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "数字の続きもあるっす。シリーズ累計は2023年6月の時点で400万本っす。",
+      "news_index": 4,
+      "start_sec": 238.14,
+      "end_sec": 243.82
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "あっ、あとからちゃんと追いついてるのだ！",
+      "news_index": 4,
+      "start_sec": 243.97,
+      "end_sec": 246.79
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "作ったスタジオは、今も元気なのだ？",
+      "news_index": 5,
+      "start_sec": 246.87,
+      "end_sec": 249.55
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "namidame",
+      "text": "……クローバースタジオは、このあとに解散してるっす。",
+      "news_index": 5,
+      "start_sec": 249.7,
+      "end_sec": 252.82
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "カプコン側の説明としては、リソースをもっと効率よく使うために集約する、という趣旨だったっす。",
+      "news_index": 5,
+      "start_sec": 252.9,
+      "end_sec": 258.94
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "つまり大神が売れなかったからなのだ？",
+      "news_index": 5,
+      "start_sec": 259.09,
+      "end_sec": 262.8
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "先輩、そこは断定しちゃ駄目っす。理由を一本に決めた一次資料は出てきてないっす。",
+      "news_index": 5,
+      "start_sec": 262.95,
+      "end_sec": 268.42
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあ、なにが分かってるのだ？",
+      "news_index": 5,
+      "start_sec": 268.57,
+      "end_sec": 270.78
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "高い評価、控えめな初動、スタジオの解散、そして主要スタッフの独立。並んでるのは、この順番だけっす。",
+      "news_index": 5,
+      "start_sec": 270.93,
+      "end_sec": 278.35
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "その人たちはどこへ行ったのだ？",
+      "news_index": 5,
+      "start_sec": 278.5,
+      "end_sec": 280.67
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "プラチナゲームズを立ち上げたっす。ディレクターだった神谷英樹も、そのひとりっす。",
+      "news_index": 5,
+      "start_sec": 280.82,
+      "end_sec": 285.63
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kangae",
+      "text": "本人は後年、売上を失敗だったと表現してるっす。解散にも影響したと語ってるっす。",
+      "news_index": 5,
+      "start_sec": 285.71,
+      "end_sec": 292.0
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "作った本人が、いちばんしんどい言い方をしてるのだ……。",
+      "news_index": 5,
+      "start_sec": 292.15,
+      "end_sec": 295.7
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに、名作と数字はいつも同じ方角を向くわけじゃないって話っすね。",
+      "news_index": 5,
+      "start_sec": 295.85,
+      "end_sec": 300.57
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "でもさっき、400万本って言ってたのだ。どこで増えたのだ？",
+      "news_index": 6,
+      "start_sec": 300.72,
+      "end_sec": 304.84
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "移植っす！このゲーム、めちゃくちゃ長生きしてるっす。",
+      "news_index": 6,
+      "start_sec": 304.99,
+      "end_sec": 308.26
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "まずウィー版が2008年、日本だと2009年10月っす。",
+      "news_index": 6,
+      "start_sec": 308.34,
+      "end_sec": 312.22
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "筆しらべとリモコンは、相性が良さそうなのだ。",
+      "news_index": 6,
+      "start_sec": 312.37,
+      "end_sec": 315.57
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "それなっす！あーしはそこで完全に沼ったっすね。",
+      "news_index": 6,
+      "start_sec": 315.72,
+      "end_sec": 318.83
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そのあと絶景版が2012年、パソコン版が2017年12月、スイッチ版が2018年8月っす。",
+      "news_index": 6,
+      "start_sec": 318.91,
+      "end_sec": 326.28
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "つまり今からでも遊べるのだ。リスナーの皆、まだ間に合うのだ！",
+      "news_index": 6,
+      "start_sec": 326.43,
+      "end_sec": 330.59
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "続きの話はあるのだ？",
+      "news_index": 7,
+      "start_sec": 330.67,
+      "end_sec": 332.52
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "続編もあるっす。ニンテンドーディーエスで大神伝が、2010年9月に出てるっす。",
+      "news_index": 7,
+      "start_sec": 332.67,
+      "end_sec": 337.88
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "タッチペンで筆しらべ、めちゃくちゃ噛み合ってるでしょ。",
+      "news_index": 7,
+      "start_sec": 338.03,
+      "end_sec": 341.74
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "そして最新の話っす。2024年のゲームアワードで、続編の制作が正式に発表されたっす。",
+      "news_index": 7,
+      "start_sec": 341.89,
+      "end_sec": 348.54
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "えっ、今なのだ!? 18年待ったのだ！",
+      "news_index": 7,
+      "start_sec": 348.69,
+      "end_sec": 352.26
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "神谷英樹が新しいスタジオ、クローバーズを立ち上げて、カプコンと組む形っす。中身はまだほとんど出てないっす。",
+      "news_index": 7,
+      "start_sec": 352.41,
+      "end_sec": 359.42
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "クローバースタジオとクローバーズなのだ。ボクの頭が回り出したのだ。",
+      "news_index": 7,
+      "start_sec": 359.57,
+      "end_sec": 364.98
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ところでつむぎ、狼の生態の話はいつ始まるのだ？",
+      "news_index": 8,
+      "start_sec": 365.06,
+      "end_sec": 369.5
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "shirake",
+      "text": "……先輩。",
+      "news_index": 8,
+      "start_sec": 369.65,
+      "end_sec": 370.48
+    },
+    {
+      "index": 84,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "な、なんでもないのだ……ごめんなさいなのだ……",
+      "news_index": 8,
+      "start_sec": 370.63,
+      "end_sec": 373.41
+    },
+    {
+      "index": 85,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "コホン。まとめるっすよ。",
+      "news_index": 8,
+      "start_sec": 373.56,
+      "end_sec": 375.21
+    },
+    {
+      "index": 86,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "絶賛されて、賞も獲って、数字だけがついてこなかったっす。それでも今も遊べるっす。",
+      "news_index": 8,
+      "start_sec": 375.29,
+      "end_sec": 380.87
+    },
+    {
+      "index": 87,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "というわけで、今回はここまでなのだ！",
+      "news_index": 8,
+      "start_sec": 381.02,
+      "end_sec": 383.63
+    },
+    {
+      "index": 88,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "オタクくんも、筆を一本持つ気持ちで触ってみてほしいっす。また旅の道ラジオで会いましょう！",
+      "news_index": 8,
+      "start_sec": 383.78,
+      "end_sec": 389.44
+    },
+    {
+      "index": 89,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "またなのだー！",
+      "news_index": 8,
+      "start_sec": 389.59,
+      "end_sec": 390.71
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 391.41,
+      "end_sec": 399.71
+    }
+  ],
+  "wall_time_sec": 12.35,
+  "audio_url": "/audio/indie/20260901_050533.mp3?v=1788208040"
+}

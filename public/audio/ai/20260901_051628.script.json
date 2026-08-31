@@ -1,0 +1,561 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-08-31T20:16:28.113171+00:00",
+  "title": "同じ頭脳が満点を取った朝 〜段取りの勝利と、貸し合う巨人たち〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便。四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今日もテックの話題、軽くいくのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今朝は四本ね。一本目は、AIの中身より外側が効いたって話。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "外側? AIって、中身が全部じゃん?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこがひっくり返ったのよ。あとは規制と、お金と、カメラ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "カメラ! 最後だけ急に手触りがあるやつじゃん!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "朝の締めは軽いのがいいでしょ。じゃ、一本目いくわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "エヌビディアが、AIに長丁場の課題を解かせる試験で満点を出したの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "満点!? AIがテストで百点取る時代になったのだ!?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "驚くのはそこじゃないわ。使った頭脳、自社製じゃないのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "え、どこから借りてきたのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "頭脳には、アンソロピックのクロード・オーパス5を採用して、周りに専用のエージェント基盤を組んだの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "周りを固める? カメラにフィルターを付けるみたいなやつ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "近いけど道具が違うわ。AIに作業の段取りを、外から付けたって意味ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "見て、仮説を立てて、直して、試して、また直す。これを何周も回して、途中を覚えさせるの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、それボクが宿題を丸つけしてやり直すのと同じ流れじゃん!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "ご名答。その反復に、記憶や監督役、失敗から立て直す仕組みまで組み合わせたのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、点はどれくらい伸びたのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "sexy",
+      "text": "別に報告されたオーパス5の基準値は約30%。一方、AVOを組み合わせた公開セットでの成績は100%だったの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "30が100!? 中身は同じAIなのに、三倍以上じゃん!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "別システムのビスタとの参考比較では、7,542手に対してAVOは6,624手。ただし、観察方法や記憶の仕組みも違うから、単純な性能比較ではないわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "点は上がって手間は減る。ずるいやつなのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ただし解いたのは、公開されてる問題だけ。伏せてある問題は、まだ手つかずよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "あー、公開セットでは満点だけど、非公開セットはまだ分からないのだ……。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこは割り引くべきね。要するに、モデルだけじゃなく、周りの仕組みまで含めて見るべきって話。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクたちの生活には、どう効くの?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "同じAIを積んでても、道具の作りが良い方が賢く見えるってこと。名前じゃなくて仕組みで選びなさい。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "名前より段取り。メモしたのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "二本目はヨーロッパのルール。硬いから短くまとめるわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ルール? ボクが破ると怒られるやつだっけ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "欧州委員会が、チャットジーピーティーとレディットとロブロックスを、いちばん厳しい区分に指定したの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ロブロックス! ゲームじゃん! なんでその二つと並んでるのだ!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "指定の基準になったのは利用者数ね。EUで月平均4,500万人以上に届くと、欧州委員会による指定の対象になるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "4,500万!? 日本の人口の三分の一が、毎月来てる計算じゃん!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "面白いのはチャットジーピーティーの扱いね。検索エンジンの側に分類されたのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "検索? 質問したら答えが返るやつも、検索の仲間なの?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今回、欧州委員会はチャットジーピーティーを、巨大オンライン検索エンジンに分類したってこと。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "じゃあ、隣の席の物知りに聞くのも検索エンジンじゃん?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "その子は規制対象外よ。話を戻すわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "指定されると、何をやらされるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "猶予は四か月。違法な投稿の対策と、未成年への影響と、選挙への影響を毎年点検して、外部の監査も受けるのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "破ったら、どうなるの?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "sexy",
+      "text": "世界の売上の最大6%が制裁金。利益じゃなくて、売上ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "売上!? 赤字でも取られるやつじゃん!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "だから、どこも無視できないの。ここが効くところ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "ボクの画面、なにか変わるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "未成年の保護や透明性の対応が強まることになるわ。追加義務への対応期限は、二〇二六年十一月末よ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目はお金の話。中央銀行が、AI投資に釘を刺したわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ちゅうおうぎんこう? 日本銀行みたいなやつだっけ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "イギリスのイングランド銀行ね。総裁のアンドリュー・ベイリーは、国際的な金融の見張り役も兼ねてるの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "見張り役の人が言うと、重みが違うのだ……。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "言い分は三つ。評価が高すぎる、買い手が一部に集中してる、借金してまで突っ込む動きが膨らんでる。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "借金して株を買うってこと?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "投資家の借り入れが、高い評価額や市場の集中と重なると、相場の調整を大きくしかねないって警告ね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ボクがお小遣いを前借りしてガチャを回すのと、同じ形なのだ!?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "桁を十兆倍にしたら同じよ。しかも今回は、AI企業と巨大クラウド会社が、お互いに出資し合ってるの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "お互いに? それ、友達同士でお金を貸し合って、うちは金持ちだって言い張ってる状態じゃん!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "shock",
+      "text": "今朝いちばん的確な要約が、あなたから出たわね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "高い評価額や借り入れ、市場の集中に相互投資まで重なると、相場の調整が世界に広がりやすくなる。総裁の警告はそこね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボク、株なんて持ってないのだ。関係あるの?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "あるわ。熱が冷めれば、株を持っていなくても、景気や雇用を通じて影響が広がるおそれはあるわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "今こんなに無料で使えてるの、異常だったのだ……。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "覚えておいて損はないわね。はい、最後は軽いやつ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四本目。カメラ業界が、ちょっと混沌としてきてるの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "待ってたのだ、手で触れるやつ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "今年前半の流れがね、各社そろって動画に本気。写真機だったカメラが、動画機として売られてるわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "みんなスマホで撮るのに、まだカメラを買う人いるの?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "逆よ。動画を仕事にする人が増えたから、専用機の出番が戻ってきたの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "混沌なのは、入ってきた側ね。アクションカメラの会社が、レンズを交換するカメラを作り始めたの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "アクションカメラって、ヘルメットに付けて滝に飛び込むやつだっけ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "その用途ね。インスタサンロクマル、360度カメラで伸びたところよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "そこが一眼を作るのだ? 畑が違いすぎじゃん?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "創業者が、八月十日に公開されたインタビューで、二機種の開発を認めたのよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "二機種も!? お試しじゃなくて、本気じゃん!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "片方は、これまで考えたこともない形だって。見た目も中身も伏せたままよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "考えたこともない形! 球体とか? ボク、転がるカメラは嫌なのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "転がるかは知らないけど、狙いは公開されてるわ。AIを積んで、カメラに詳しくない人でも撮れるようにするんですって。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、それボクのことじゃん! 設定の画面で、いつも迷子なのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "レンズ交換式カメラの使い方が分からない人でも、気軽に撮れるようにする。そこが狙いね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "いつ買えるのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "試作が出るとしても、来年のカメラ見本市。今すぐ財布を開く話じゃないわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "じゃあ今年は貯金なのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "賢い判断ね。カメラ選びの基準が、きれいに撮れるから迷わず撮れるに動くなら、朗報じゃない?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで今朝は四本。段取りの勝利、ヨーロッパの規制、バブルの警告、カメラの新入り。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクは、お互いに出資し合ってるやつが一番びっくりだったのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "私は、満点が公開セットでの結果だった話ね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "そこ蒸し返すのだ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "刺さったものだけ、覚えて帰りなさい。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "気になったやつは通勤中に調べるのだー! また明日のテック朝便で会うのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四国めたんでした。いってらっしゃい。",
+      "news_index": 0
+    }
+  ],
+  "program_description": "テック朝便、今朝は四本。一本目はエヌビディアの新しいエージェント基盤が、長丁場の課題を解く試験で満点を出した話。頭脳はアンソロピックのクロード・オーパス5をそのまま使っていて、単体だと30%だったスコアが、外側の段取りを付けただけで100%になったという、モデルより使い方な一件。二本目は欧州委員会がチャットジーピーティー、レディット、ロブロックスをデジタルサービス法のいちばん厳しい区分に指定した話。三本目はイングランド銀行のベイリー総裁が、AI投資の評価額と借入、企業同士の相互出資に釘を刺した警告。締めはカメラ業界の混沌で、アクションカメラのインスタサンロクマルがレンズ交換式を二機種開発中という話まで。通勤・通学のおともにどうぞ。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20260901_051628_chars.webp",
+    "hero_rel": "/images/topics/tech_20260901_051628.webp",
+    "title": "同じ頭脳が満点を取った朝 〜段取りの勝利と、貸し合う巨人たち〜",
+    "companies": [
+      "Claude",
+      "OpenAI",
+      "NVIDIA",
+      "Meta"
+    ],
+    "thumbnail_ready": true
+  },
+  "summary_short": "クロード・オーパス5そのままなら30点、外側の段取り一つ足しただけで満点。同じ頭脳が化けた朝、EU規制の本気度、中銀総裁の警告、レンズ交換式アクションカムまで、四本立てで駆け抜けます。"
+}
