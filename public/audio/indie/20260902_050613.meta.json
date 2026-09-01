@@ -1,0 +1,926 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-09-02T05:06:13+09:00",
+  "title": "七年の荘園 〜たったひとりが積み上げた中世〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 441.37,
+  "script_hash": "sha256:dea18c01f678cbf9ee009cf32c5684f057cd452774bcab88aa60ac3941ec30c5",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 6.34
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "旅の道ラジオへようこそ。パーソナリティの四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 6.34,
+      "end_sec": 9.89
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ずんだもん登場なのだー！リスナーのみなさん、ボクの声、届いてるのだ？",
+      "news_index": 0,
+      "start_sec": 10.04,
+      "end_sec": 14.91
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "届いてるから落ち着きなさい。今回は評判が固まった名作を一本、まるごと掘る回よ。",
+      "news_index": 0,
+      "start_sec": 15.06,
+      "end_sec": 20.71
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "おっ、名作回なのだ。なにを掘るのだ？",
+      "news_index": 0,
+      "start_sec": 20.86,
+      "end_sec": 23.91
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "マナー・ロード。中世の領主になって、村を街に育てていく作品ね。",
+      "news_index": 0,
+      "start_sec": 24.06,
+      "end_sec": 28.54
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "マナー……ロード？ 道路でマナーを守るゲームなのだ？",
+      "news_index": 0,
+      "start_sec": 28.69,
+      "end_sec": 32.65
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "違う違う、マナーは荘園、ロードは領主。歩行者マナーは一ミリも出てこないわ。",
+      "news_index": 0,
+      "start_sec": 32.8,
+      "end_sec": 38.11
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "なるほどなのだ。つまり荘園の大家さんになるゲームなのだ？",
+      "news_index": 0,
+      "start_sec": 38.26,
+      "end_sec": 42.57
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "税を取る側って意味では近いわ。要するに中世の大家さん経営シム、いったんそれで正解ね。",
+      "news_index": 0,
+      "start_sec": 42.72,
+      "end_sec": 48.79
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "中身は、畑を耕して家を建てて、村を街に育てるやつ。ただ普通の街づくりと決定的に違うところがあるの。",
+      "news_index": 1,
+      "start_sec": 48.87,
+      "end_sec": 56.09
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "四角いマス目にぺたぺた置くやつじゃないのだ？",
+      "news_index": 1,
+      "start_sec": 56.24,
+      "end_sec": 59.11
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そのマス目が、そもそも無いのよ。",
+      "news_index": 1,
+      "start_sec": 59.26,
+      "end_sec": 61.36
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "マス目が無い？ じゃあ建物はどこに置けばいいのだー？",
+      "news_index": 1,
+      "start_sec": 61.51,
+      "end_sec": 66.02
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "地形と街道に沿って、好きな向きで自由に置けるわ。丘の形に合わせて村がぐにゃっと曲がるのよ。",
+      "news_index": 1,
+      "start_sec": 66.17,
+      "end_sec": 72.21
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "道が斜めでも許されるのだ。ボクの部屋と同じ思想なのだ。",
+      "news_index": 1,
+      "start_sec": 72.36,
+      "end_sec": 76.34
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "あなたの部屋はただ散らかってるだけでしょ。要するに、マス目の支配から降りた街づくりね。",
+      "news_index": 1,
+      "start_sec": 76.49,
+      "end_sec": 81.75
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、面白いのが街道沿いに引く住宅区画。バーゲージ・プロットっていうのよ。",
+      "news_index": 1,
+      "start_sec": 81.83,
+      "end_sec": 87.0
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "バーゲージ……ボクの語彙に無いのだ。そこでなにが起きるのだ？",
+      "news_index": 1,
+      "start_sec": 87.15,
+      "end_sec": 91.09
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "家族が入居して、税金と労働力をくれるの。しかも裏庭に一つだけ拡張を足せるわ。",
+      "news_index": 1,
+      "start_sec": 91.24,
+      "end_sec": 97.03
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "裏庭！ 温泉を掘るのだ！",
+      "news_index": 1,
+      "start_sec": 97.18,
+      "end_sec": 99.49
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "掘れないわよ。家庭菜園、リンゴの果樹園、鶏小屋、ヤギ小屋、工房から一つ選ぶの。",
+      "news_index": 1,
+      "start_sec": 99.64,
+      "end_sec": 106.07
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "リンゴなら食料にもリンゴ酒にもなるし、鶏なら卵、ヤギなら皮革ね。",
+      "news_index": 1,
+      "start_sec": 106.15,
+      "end_sec": 110.86
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "つまり家の裏に一個ずつ副業を持たせるゲームなのだ。中世の副業解禁なのだ。",
+      "news_index": 1,
+      "start_sec": 111.01,
+      "end_sec": 117.42
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "あと季節ね。春に耕して種を蒔いて、晩夏から秋に刈り取るのよ。",
+      "news_index": 1,
+      "start_sec": 117.57,
+      "end_sec": 121.91
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "しかも同じ作物を続けると土が痩せるから、三種で回すか休ませるかを選ぶのよ。",
+      "news_index": 1,
+      "start_sec": 121.99,
+      "end_sec": 127.29
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "休ませる……畑が有給を取るのだ？",
+      "news_index": 1,
+      "start_sec": 127.44,
+      "end_sec": 130.88
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "輪作と休耕っていうのよ。要するに、土にも休みが要るって話ね。",
+      "news_index": 1,
+      "start_sec": 131.03,
+      "end_sec": 135.56
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そしてここからが本題。これね、作ってるのがほぼ一人なの。",
+      "news_index": 2,
+      "start_sec": 135.64,
+      "end_sec": 139.31
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "一人！？ 村を作るゲームを、一人で作ったのだ！？",
+      "news_index": 2,
+      "start_sec": 139.46,
+      "end_sec": 143.48
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。スラヴィック・マジックっていう、実質ひとりのスタジオよ。",
+      "news_index": 2,
+      "start_sec": 143.63,
+      "end_sec": 147.38
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "スラヴィック・マジック……魔法使いの名前なのだ？",
+      "news_index": 2,
+      "start_sec": 147.53,
+      "end_sec": 150.75
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "由来がまた最高でね。ウィッチャー3のミームから取ってるのよ。",
+      "news_index": 2,
+      "start_sec": 150.9,
+      "end_sec": 154.79
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "hisohiso",
+      "text": "ここだけの話、そのミーム由来の名前で世界に何百万本も売っちゃうんだから、説得力が最強よ。",
+      "news_index": 2,
+      "start_sec": 154.87,
+      "end_sec": 162.32
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "勝てば官軍なのだ。で、完成まで何年かかったのだ？",
+      "news_index": 2,
+      "start_sec": 162.47,
+      "end_sec": 166.52
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "およそ7年、ほぼ単独でね。",
+      "news_index": 2,
+      "start_sec": 166.67,
+      "end_sec": 168.76
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "7年……ボクなら三日目でずんだ餅食べて寝るのだ。",
+      "news_index": 2,
+      "start_sec": 168.91,
+      "end_sec": 173.94
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "三日目どころか初日で寝るでしょ、あなたは。",
+      "news_index": 2,
+      "start_sec": 174.09,
+      "end_sec": 176.79
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "……否定できないのだ。",
+      "news_index": 2,
+      "start_sec": 176.94,
+      "end_sec": 178.53
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ただ、完全に百パーセント一人ってわけじゃないの。作曲みたいな一部は外に頼んでるわ。",
+      "news_index": 2,
+      "start_sec": 178.68,
+      "end_sec": 184.34
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "本人も完全なソロじゃないって認めてる。ただ自分が抜けたら終わりって意味でソロを名乗ってるのよ。",
+      "news_index": 2,
+      "start_sec": 184.42,
+      "end_sec": 189.98
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "かっこいいのだ！ 要するに、抜けられない一人なのだ！",
+      "news_index": 2,
+      "start_sec": 190.13,
+      "end_sec": 193.59
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "販売はフーデッド・ホースっていうパブリッシャーが担当。作る人と売る人は別、ここ大事ね。",
+      "news_index": 2,
+      "start_sec": 193.74,
+      "end_sec": 199.54
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "技術面もなかなかよ。最初はアンリアルエンジン4で作って、途中で5に載せ替えたの。",
+      "news_index": 2,
+      "start_sec": 199.62,
+      "end_sec": 205.18
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "走りながらエンジン載せ替えたのだ！？ 車なら爆発してるのだ。",
+      "news_index": 2,
+      "start_sec": 205.33,
+      "end_sec": 210.42
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "その比喩、今回は珍しく的確だわ。要するに、一人で7年、しかも土台ごと組み替えたってこと。",
+      "news_index": 2,
+      "start_sec": 210.57,
+      "end_sec": 217.46
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ数字いこうか。この作品、ウィッシュリストで伝説を作ってるのよ。",
+      "news_index": 3,
+      "start_sec": 217.54,
+      "end_sec": 221.85
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ウィッシュリスト、欲しいものリストなのだ。何件なのだ？",
+      "news_index": 3,
+      "start_sec": 222.0,
+      "end_sec": 225.53
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "開発者がもともと目標にしてたのが、たった1万4千件。",
+      "news_index": 3,
+      "start_sec": 225.68,
+      "end_sec": 229.61
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それが早期アクセス直前には300万件を超えて、最終的には400万件規模とも報じられたわ。",
+      "news_index": 3,
+      "start_sec": 229.69,
+      "end_sec": 236.2
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "400万！？ 日本人の30人に1人が畑を待ってた計算なのだ！",
+      "news_index": 3,
+      "start_sec": 236.35,
+      "end_sec": 241.7
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "世界中の登録者よ。日本人の30人に1人が中世の畑を耕したがってたら、それはそれで怖いわ。",
+      "news_index": 3,
+      "start_sec": 241.85,
+      "end_sec": 248.73
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "売り上げもね。早期アクセスが始まった2024年4月26日から、およそ30時間で100万本よ。",
+      "news_index": 3,
+      "start_sec": 248.81,
+      "end_sec": 255.74
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "30時間で100万本！ ボクの人生より速いのだ！",
+      "news_index": 3,
+      "start_sec": 255.89,
+      "end_sec": 260.04
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "あなたの人生の速度は今どうでもいいでしょ。",
+      "news_index": 3,
+      "start_sec": 260.19,
+      "end_sec": 262.94
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "……ごめんなさいなのだ。",
+      "news_index": 3,
+      "start_sec": 263.09,
+      "end_sec": 264.33
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "その後も伸びて、2025年の2月までに300万本を超えてるわ。",
+      "news_index": 3,
+      "start_sec": 264.48,
+      "end_sec": 269.09
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "完成前なのに300万本なのだ。数字が全部おかしいのだ。",
+      "news_index": 3,
+      "start_sec": 269.24,
+      "end_sec": 273.52
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "同時接続も17万人を超えて、街づくり系では歴代最高の山を作ったの。",
+      "news_index": 3,
+      "start_sec": 273.67,
+      "end_sec": 279.04
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "評価もSteamで非常に好評。全体で9万件を超えるレビューが積み上がってるわ。",
+      "news_index": 3,
+      "start_sec": 279.12,
+      "end_sec": 284.46
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "9万人が語りたくなるゲームなのだ。要するに、名作認定なのだ。",
+      "news_index": 3,
+      "start_sec": 284.61,
+      "end_sec": 289.39
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "街づくりだけじゃないのがまた面白くて。部隊を率いて、リアルタイムで戦もするのよ。",
+      "news_index": 4,
+      "start_sec": 289.54,
+      "end_sec": 294.86
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "隊列を組んで戦うタイプでね。側面を突かれたり指揮官を失うと、士気が崩れるの。",
+      "news_index": 4,
+      "start_sec": 294.94,
+      "end_sec": 300.35
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "士気！ ボク、士気が低い日は布団から出られないのだ。",
+      "news_index": 4,
+      "start_sec": 300.5,
+      "end_sec": 304.46
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "あなたの士気は毎日崩壊してるでしょ。疲労も天候も装備も、ちゃんと戦闘に効くのよ。",
+      "news_index": 4,
+      "start_sec": 304.61,
+      "end_sec": 310.13
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "領主としては、6種類ある税をどう取るかも決めるわ。",
+      "news_index": 4,
+      "start_sec": 310.21,
+      "end_sec": 313.45
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "6種類も取るのだ！？ 領主は完全に敵なのだ！",
+      "news_index": 4,
+      "start_sec": 313.6,
+      "end_sec": 316.76
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "取りすぎたら人が逃げていくから、ちゃんと自分に返ってくるのよ。",
+      "news_index": 4,
+      "start_sec": 316.91,
+      "end_sec": 320.64
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "因果応報なのだ。森を切りすぎるのもダメなのだ？",
+      "news_index": 4,
+      "start_sec": 320.79,
+      "end_sec": 324.21
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、伐りすぎた土地はちゃんと痩せる。要するに、やりすぎが全部返ってくる設計ね。",
+      "news_index": 4,
+      "start_sec": 324.36,
+      "end_sec": 329.8
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ただ批判もちゃんとあるのよ。終盤にやることが薄いとか、物語の要素が無いとか。",
+      "news_index": 4,
+      "start_sec": 329.88,
+      "end_sec": 335.16
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "戦闘まわりも、まだ物足りないって声があるのだ？",
+      "news_index": 4,
+      "start_sec": 335.31,
+      "end_sec": 338.8
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこも言われてるわ。褒めどころと物足りなさ、両方セットで見るのが正しい作品ね。",
+      "news_index": 4,
+      "start_sec": 338.95,
+      "end_sec": 344.14
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "chuuni",
+      "text": "……夜の荘園に灯る篝火、その一つ一つが誰かの労働の証。人は土を耕し、そして奪い合う……",
+      "news_index": 4,
+      "start_sec": 344.22,
+      "end_sec": 351.31
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "出たのだー！ めたんの中二モードが発病したのだ！",
+      "news_index": 4,
+      "start_sec": 351.46,
+      "end_sec": 355.6
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ふふ、中世ものを触ってるとつい出ちゃうのよ。コホン、話を戻すわ。",
+      "news_index": 4,
+      "start_sec": 355.75,
+      "end_sec": 360.28
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ところでこれ、今すぐ遊べるのだ？",
+      "news_index": 5,
+      "start_sec": 360.43,
+      "end_sec": 362.94
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "遊べるわ。ただ大事な話があって、これ、まだ早期アクセス中なの。",
+      "news_index": 5,
+      "start_sec": 363.09,
+      "end_sec": 367.49
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "えっ、まだ完成してないのだ！？ 300万本売れてるのにー！",
+      "news_index": 5,
+      "start_sec": 367.64,
+      "end_sec": 372.43
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "正式版の発売日もまだ発表されてないの。でも放置じゃなくて、2025年の10月に大型更新で新しいモードとマップが増えたわ。",
+      "news_index": 5,
+      "start_sec": 372.58,
+      "end_sec": 381.32
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "12月には食料と経済のしくみも作り直されたわ。この先は採石場や鉱山、水辺のマップ、攻城兵器なんかが構想に載ってるの。",
+      "news_index": 5,
+      "start_sec": 381.4,
+      "end_sec": 390.09
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "攻城兵器！ 投石機で村を吹き飛ばすのだー！",
+      "news_index": 5,
+      "start_sec": 390.24,
+      "end_sec": 393.8
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "sexy",
+      "text": "まだ入ってないわよ。予定は予定、今は無いって覚えて帰りなさい。",
+      "news_index": 5,
+      "start_sec": 393.95,
+      "end_sec": 399.27
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "値段は日本のSteamで3,980円。早期アクセスでこの内容なら、悪くない買い物だと思うわ。",
+      "news_index": 5,
+      "start_sec": 399.35,
+      "end_sec": 406.3
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ところでめたん。結局、道路のマナーは最後まで出てこなかったのだ？",
+      "news_index": 5,
+      "start_sec": 406.45,
+      "end_sec": 411.76
+    },
+    {
+      "index": 84,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一ミリも出てこなかったわ。ただ街道沿いに家を並べる作品だから、道への愛だけは異常にあるわよ。",
+      "news_index": 5,
+      "start_sec": 411.91,
+      "end_sec": 418.21
+    },
+    {
+      "index": 85,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "じゃあ広い意味でマナー・ロードなのだ！",
+      "news_index": 5,
+      "start_sec": 418.36,
+      "end_sec": 420.74
+    },
+    {
+      "index": 86,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "うまくない。……いや、ちょっとうまいわね。",
+      "news_index": 5,
+      "start_sec": 420.89,
+      "end_sec": 423.41
+    },
+    {
+      "index": 87,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "気になったリスナーのみなさん、まずは村を一つ建ててみてほしいのだ。",
+      "news_index": 5,
+      "start_sec": 423.56,
+      "end_sec": 427.8
+    },
+    {
+      "index": 88,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "また旅の道ラジオで会いましょうなのだー！",
+      "news_index": 5,
+      "start_sec": 427.88,
+      "end_sec": 430.45
+    },
+    {
+      "index": 89,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四国めたんでした。またね。",
+      "news_index": 5,
+      "start_sec": 430.6,
+      "end_sec": 432.37
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 433.07,
+      "end_sec": 441.37
+    }
+  ],
+  "wall_time_sec": 20.35,
+  "audio_url": "/audio/indie/20260902_050613.mp3?v=1788294517"
+}
