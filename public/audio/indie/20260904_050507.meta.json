@@ -1,0 +1,926 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-09-04T05:05:07+09:00",
+  "title": "白い部屋と手描きの夢 〜オモリという六年半〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 501.58,
+  "script_hash": "sha256:692745ee9edbd2296f2a29964c0bf27e17d20728769c386e1aea2945501a5208",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 4.69
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "旅の道ラジオ、パーソナリティの四国めたんよ。今回も名作インディーを一本、まるごと掘るわ。",
+      "news_index": 0,
+      "start_sec": 4.69,
+      "end_sec": 10.84
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ずんだもん登場なのだー！ 今回はなにを掘るのだ？",
+      "news_index": 0,
+      "start_sec": 10.99,
+      "end_sec": 14.45
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "『オモリ』ね。発売から時間が経っても、評価がずっと高いままの作品よ。",
+      "news_index": 0,
+      "start_sec": 14.6,
+      "end_sec": 19.54
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "オモリ？ 釣り糸の先につける、あのオモリなのだ？",
+      "news_index": 0,
+      "start_sec": 19.69,
+      "end_sec": 23.63
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "沈んでるのはあなたの理解力だけね。要するに、主人公の分身の名前なの。",
+      "news_index": 0,
+      "start_sec": 23.78,
+      "end_sec": 28.8
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "まず基本から押さえるわ。パソコン版が出たのが2020年12月25日、心理ホラー要素のあるRPGよ。",
+      "news_index": 1,
+      "start_sec": 28.88,
+      "end_sec": 36.28
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "クリスマスに心理ホラー!? プレゼントの中身が重すぎるのだ。",
+      "news_index": 1,
+      "start_sec": 36.43,
+      "end_sec": 40.95
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこは私も思ったわ。でも中身はびっくり箱じゃなくて、ちゃんと作り込まれた物語なの。",
+      "news_index": 1,
+      "start_sec": 41.1,
+      "end_sec": 46.59
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "主人公が二人いる構成なのよ。現実世界で引きこもりがちな少年サニーと、夢の世界での分身オモリ。",
+      "news_index": 1,
+      "start_sec": 46.67,
+      "end_sec": 53.65
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "二人!? どっちを動かすのだ? 頭がぐるぐるしてきたのだ……",
+      "news_index": 1,
+      "start_sec": 53.8,
+      "end_sec": 58.79
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "行き来するのよ。夢の世界の冒険パートと、現実の日常パートを交互に進む二重構造ね。",
+      "news_index": 1,
+      "start_sec": 58.94,
+      "end_sec": 65.17
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "つまり、寝たら冒険、起きたら日常ってことなのだ。ボクの生活と真逆なのだ。",
+      "news_index": 1,
+      "start_sec": 65.32,
+      "end_sec": 70.71
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "あなたは起きてても寝てるでしょ。夢の側がヘッドスペース、オモリが一人きりでいる真っ白な場所がホワイトスペースよ。",
+      "news_index": 1,
+      "start_sec": 70.86,
+      "end_sec": 77.61
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "真っ白でなにも無い部屋……ボクの財布の中と同じ世界観なのだ。",
+      "news_index": 1,
+      "start_sec": 77.76,
+      "end_sec": 82.63
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "chuuni",
+      "text": "白の世界に立つ者は、失くしたものの形だけを覚えている……",
+      "news_index": 1,
+      "start_sec": 82.78,
+      "end_sec": 86.62
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "うわっ、急に発病したのだ!? ボクの財布の話はどこいったのだ!?",
+      "news_index": 1,
+      "start_sec": 86.77,
+      "end_sec": 92.5
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ふふ、夢の世界の話をしてると出ちゃうのよ。要するに、賑やかな夢と空っぽの部屋が同居してる作品ってこと。",
+      "news_index": 1,
+      "start_sec": 92.65,
+      "end_sec": 99.8
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "システムの話もするわね。バトルはターン制のRPGで、そこに感情システムっていうのが乗ってるの。",
+      "news_index": 2,
+      "start_sec": 99.88,
+      "end_sec": 106.24
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "感情システム……怒ったら体力が増えるとかなのだ?",
+      "news_index": 2,
+      "start_sec": 106.39,
+      "end_sec": 110.03
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "近いけど違うわ。ハッピー、アングリー、サッドの三つが三すくみになってるの。",
+      "news_index": 2,
+      "start_sec": 110.18,
+      "end_sec": 115.0
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "三すくみ! じゃんけんなのだ! グーが泣いてチョキが怒るやつなのだ!",
+      "news_index": 2,
+      "start_sec": 115.15,
+      "end_sec": 119.79
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "誰も泣いてないし怒ってないわ。ハッピーはアングリーに強くて、アングリーはサッドに強くて、サッドはハッピーに強いの。",
+      "news_index": 2,
+      "start_sec": 119.94,
+      "end_sec": 126.95
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "……それ、まわりまわってじゃんけんなのだ。",
+      "news_index": 2,
+      "start_sec": 127.1,
+      "end_sec": 129.5
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "感情がそのままタイプ相性になってる、が正解ね。気分次第で有利不利がひっくり返るのが面白いところ。",
+      "news_index": 2,
+      "start_sec": 129.65,
+      "end_sec": 136.29
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "つまり、悲しんでる敵にはご機嫌でぶつかれば勝てるのだ！",
+      "news_index": 2,
+      "start_sec": 136.44,
+      "end_sec": 140.27
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そう、その理解でいいわ。戦いが心の状態と直結してるのが、この作品らしさなの。",
+      "news_index": 2,
+      "start_sec": 140.42,
+      "end_sec": 146.4
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ作ってる人の話ね。OMOCAT っていう小さなスタジオで、開発も販売も自分たちでやってるの。",
+      "news_index": 3,
+      "start_sec": 146.48,
+      "end_sec": 152.76
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "中心にいるのは覆面のアーティストで、この作品のディレクターね。顔も本名も出してないの。",
+      "news_index": 3,
+      "start_sec": 152.84,
+      "end_sec": 158.41
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "覆面! プロレスなのだ!",
+      "news_index": 3,
+      "start_sec": 158.56,
+      "end_sec": 160.66
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "リングには上がってないわ。もともとは自分の体験をもとにしたウェブコミックを描いてたかたなの。",
+      "news_index": 3,
+      "start_sec": 160.81,
+      "end_sec": 166.05
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "漫画が先だったのだ。それをゲームにしたってことなのだ?",
+      "news_index": 3,
+      "start_sec": 166.2,
+      "end_sec": 169.86
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。2011年から描いてた「Omoriboy」っていう作品が原作になってるの。",
+      "news_index": 3,
+      "start_sec": 170.01,
+      "end_sec": 175.35
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "資金集めはクラウドファンディングよ。2014年にキックスターターで、目標額の十倍を集めたの。",
+      "news_index": 3,
+      "start_sec": 175.43,
+      "end_sec": 181.65
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "十倍!? ボクがずんだ餅を十個頼んだら百個来る計算なのだ!",
+      "news_index": 3,
+      "start_sec": 181.8,
+      "end_sec": 186.76
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "あなたの発注ミスとは別の話ね。要するに、出る前から待ってる人が大量にいたってこと。",
+      "news_index": 3,
+      "start_sec": 186.91,
+      "end_sec": 192.71
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ただ、そこからパソコン版が出るまで約六年半かかってるのよ。技術的な問題や開発環境の変更で、延期が続いたの。",
+      "news_index": 3,
+      "start_sec": 192.79,
+      "end_sec": 200.84
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "六年半!? ボクの夏休みの宿題より長いのだ……",
+      "news_index": 3,
+      "start_sec": 200.99,
+      "end_sec": 205.37
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "比べる対象がいつも小さいのよ。作者は途中からプログラムも自分でやって、一日二十時間作業したこともあるって伝えられてるわ。",
+      "news_index": 3,
+      "start_sec": 205.52,
+      "end_sec": 213.78
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "二十時間……それ、ほとんど寝てないのだ……",
+      "news_index": 3,
+      "start_sec": 213.93,
+      "end_sec": 218.23
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "最終的なコアチームも八人くらいの規模ね。少人数で六年半、っていうのがこの作品の背骨だと思うわ。",
+      "news_index": 3,
+      "start_sec": 218.38,
+      "end_sec": 225.39
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "使ってる道具も面白いのよ。RPG Maker で作られてて、誰でも入りやすい場所を応援したいっていう理由なんですって。",
+      "news_index": 3,
+      "start_sec": 225.47,
+      "end_sec": 233.04
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "つまり、聴いてる皆も同じ道具で作れるってことなのだ。",
+      "news_index": 3,
+      "start_sec": 233.19,
+      "end_sec": 236.82
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこが大事なところね。手描き風のアートも含めて、人の手の温度が残ってる作品なの。",
+      "news_index": 3,
+      "start_sec": 236.97,
+      "end_sec": 242.48
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "音楽の話もしておきたいわ。作曲は一人じゃなくて、複数のアーティストが参加してるの。",
+      "news_index": 4,
+      "start_sec": 242.56,
+      "end_sec": 248.12
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "何人くらいなのだ? 大所帯なのだ?",
+      "news_index": 4,
+      "start_sec": 248.27,
+      "end_sec": 250.99
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "中心にいるのが bo en っていうイギリス生まれのミュージシャンね。インディーゲーム音楽の常連よ。",
+      "news_index": 4,
+      "start_sec": 251.14,
+      "end_sec": 256.87
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "代表曲の「My Time」を、少し速くして短くしたものが劇中で使われてるの。",
+      "news_index": 4,
+      "start_sec": 256.95,
+      "end_sec": 261.95
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "その曲、ボク聴いてみたいのだ。あとで探すのだー。",
+      "news_index": 4,
+      "start_sec": 262.1,
+      "end_sec": 265.88
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "2013年のアルバムに入ってる曲よ。知らないかたは、曲名で検索して聴いてみてほしいわ。",
+      "news_index": 4,
+      "start_sec": 266.03,
+      "end_sec": 271.97
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ほかにも、スライムガールズっていう二人組のユニットなんかも参加してるの。音の作りが一枚岩じゃないのよ。",
+      "news_index": 4,
+      "start_sec": 272.05,
+      "end_sec": 278.54
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "夢と現実で音の色が変わるってことなのだ。要するに、耳のほうも二重構造なのだ。",
+      "news_index": 4,
+      "start_sec": 278.69,
+      "end_sec": 284.47
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "今の一行、正解。あなたたまにいいこと言うわね。",
+      "news_index": 4,
+      "start_sec": 284.62,
+      "end_sec": 288.28
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ評価の話にいくわ。Steamのレビューは圧倒的に好評、好評率が97%よ。",
+      "news_index": 5,
+      "start_sec": 288.36,
+      "end_sec": 294.76
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "97%!? ボクのテストは反対に、97%が空欄なのだ!",
+      "news_index": 5,
+      "start_sec": 294.91,
+      "end_sec": 301.29
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "ずんだもん。",
+      "news_index": 5,
+      "start_sec": 301.44,
+      "end_sec": 302.25
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "……はい、なのだ?",
+      "news_index": 5,
+      "start_sec": 302.4,
+      "end_sec": 303.82
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "sexy",
+      "text": "自分の成績の話で名作の尺を使うなら、あとでずんだ餅にしてあげるわ。",
+      "news_index": 5,
+      "start_sec": 303.97,
+      "end_sec": 309.91
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "ごめんなさいなのだ……ボク、成績の話はもうしませんのだ……",
+      "news_index": 5,
+      "start_sec": 310.06,
+      "end_sec": 315.36
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "コホン、話を戻すわ。批評家の評価も高くて、メタクリティックのスコアが88、ユーザースコアが9.0よ。",
+      "news_index": 5,
+      "start_sec": 315.51,
+      "end_sec": 322.97
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "点が二種類あると、どっちを信じればいいのだ?",
+      "news_index": 5,
+      "start_sec": 323.12,
+      "end_sec": 326.38
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "両方高いから悩まなくていいの。批評家の総評が「終わった後も何週間も心に残る」よ。",
+      "news_index": 5,
+      "start_sec": 326.53,
+      "end_sec": 332.89
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "何週間も残る……余韻がとんでもなく長い作品ってことなのだ。",
+      "news_index": 5,
+      "start_sec": 333.04,
+      "end_sec": 337.44
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "hisohiso",
+      "text": "ここだけの話、重いテーマの作品って評価が真っ二つに割れがちなの。ここまで綺麗に高評価が揃うのは珍しいわ。",
+      "news_index": 5,
+      "start_sec": 337.59,
+      "end_sec": 346.0
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "比較対象に出てくるのが「MOTHER2」とか「ゆめにっき」ね。この二つの名前が並ぶ時点で、方向性はだいたい伝わるでしょ。",
+      "news_index": 5,
+      "start_sec": 346.08,
+      "end_sec": 353.26
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "分かる人には一発で伝わるやつなのだ。",
+      "news_index": 5,
+      "start_sec": 353.41,
+      "end_sec": 356.1
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "2021年には海外のアワードで部門賞も取ってるわ。売り上げも2022年12月の時点で、世界累計百万本を超えてるの。",
+      "news_index": 5,
+      "start_sec": 356.25,
+      "end_sec": 365.06
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "百万本! 一人一本なら、百万人が白い部屋に行ったのだ!",
+      "news_index": 5,
+      "start_sec": 365.21,
+      "end_sec": 369.58
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "その計算はそのまますぎるわ。要するに、評価も数字も両方ついてきた作品ってこと。",
+      "news_index": 5,
+      "start_sec": 369.73,
+      "end_sec": 375.37
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "日本語で遊べるようになったのは2021年12月16日ね。Steamで日本語版の配信が始まったの。",
+      "news_index": 6,
+      "start_sec": 375.45,
+      "end_sec": 382.65
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "発売から一年後なのだ。待ってた人は長かったのだ。",
+      "news_index": 6,
+      "start_sec": 382.8,
+      "end_sec": 386.44
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "家庭用も出てるわよ。Switchと Xbox が2022年6月17日、PS4が6月24日ね。",
+      "news_index": 6,
+      "start_sec": 386.59,
+      "end_sec": 394.01
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "携帯できる機械で遊べるのは強いのだ。布団の中から夢の世界に行けるのだ。",
+      "news_index": 6,
+      "start_sec": 394.16,
+      "end_sec": 400.0
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "題材との相性は抜群ね。あと2024年からは漫画の連載も始まってるわ。",
+      "news_index": 6,
+      "start_sec": 400.15,
+      "end_sec": 405.56
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "漫画!? 漫画が原作でゲームになって、また漫画に戻ってきたのだ!?",
+      "news_index": 6,
+      "start_sec": 405.71,
+      "end_sec": 411.07
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一周回って帰ってきたわね。月刊アフタヌーンで、2024年6月25日から連載よ。",
+      "news_index": 6,
+      "start_sec": 411.22,
+      "end_sec": 417.56
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それでね、ここは大事だから先に言っておくわ。この作品、公式に内容の注意書きが出てるの。",
+      "news_index": 6,
+      "start_sec": 417.64,
+      "end_sec": 423.57
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "注意書き? どういうことなのだ?",
+      "news_index": 6,
+      "start_sec": 423.72,
+      "end_sec": 426.17
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "「死」や「うつ病」といったテーマを扱ってます、っていう案内ね。心理ホラーの表現もあるし、光の点滅が苦手なかたへの注意も書かれてるわ。",
+      "news_index": 6,
+      "start_sec": 426.32,
+      "end_sec": 436.0
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ゲームを始めた直後にも警告画面が出るのよ。隠さずに先に伝える姿勢は、私は誠実だと思うわ。",
+      "news_index": 6,
+      "start_sec": 436.08,
+      "end_sec": 442.92
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "心の準備をしてから入れるのだ。それ、けっこう大事なのだ。",
+      "news_index": 6,
+      "start_sec": 443.07,
+      "end_sec": 447.12
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "物語自体は、大切なものと向き合っていく話なの。夢の冒険と現実の日常を行ったり来たりしながら、少しずつ近づいていくのよ。",
+      "news_index": 6,
+      "start_sec": 447.27,
+      "end_sec": 455.91
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "その先はネタバレになるから言わないやつなのだね。",
+      "news_index": 6,
+      "start_sec": 456.06,
+      "end_sec": 459.16
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "言わないわ。値段だけ言っておくと、Steamで1,980円よ。",
+      "news_index": 7,
+      "start_sec": 459.31,
+      "end_sec": 463.74
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "その値段に六年半が詰まってるのだ。お得すぎるのだ。",
+      "news_index": 7,
+      "start_sec": 463.89,
+      "end_sec": 468.01
+    },
+    {
+      "index": 84,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "開発期間で割るのはやめなさい。でも遊ぶ価値は充分あると思うわ。",
+      "news_index": 7,
+      "start_sec": 468.16,
+      "end_sec": 472.59
+    },
+    {
+      "index": 85,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "最後にひとつだけ確認なのだ。やっぱり釣りのオモリとは無関係なのだ?",
+      "news_index": 7,
+      "start_sec": 472.74,
+      "end_sec": 478.16
+    },
+    {
+      "index": 86,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "一ミリも関係ないわ。最初と最後で同じボケをするんじゃないの。",
+      "news_index": 7,
+      "start_sec": 478.31,
+      "end_sec": 482.33
+    },
+    {
+      "index": 87,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "気になったかたは、心の準備をしてから触ってみて。合う人には一生ものになる作品よ。",
+      "news_index": 7,
+      "start_sec": 482.41,
+      "end_sec": 487.87
+    },
+    {
+      "index": 88,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "旅の道ラジオ、今回はここまでなのだ。また旅の道ラジオで会いましょうなのだー！",
+      "news_index": 7,
+      "start_sec": 488.02,
+      "end_sec": 493.49
+    },
+    {
+      "index": 89,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "またね。",
+      "news_index": 7,
+      "start_sec": 493.64,
+      "end_sec": 494.25
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 494.95,
+      "end_sec": 501.58
+    }
+  ],
+  "wall_time_sec": 16.9,
+  "audio_url": "/audio/indie/20260904_050507.mp3?v=1788467204"
+}

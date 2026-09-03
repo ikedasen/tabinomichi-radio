@@ -6,6 +6,105 @@ import { Suspense, useEffect, useMemo, useRef, useState } from 'react'
 import SharePopover from '../components/SharePopover'
 import { VALID_TONES, NO_BLINK, type Tone } from './generated/valid-tones'
 
+// ---------------------------------------------------------------------------
+// 立ち絵 sprite の先読みと「decode 済みの src にしか差し替えない」ゲート。
+//
+// 口パクは 100ms ごとに <img src> を差し替えるが、差し替え先が renderer の
+// memory cache に無いと Service Worker 経由で取り直しになり (実測 ~60ms/枚、
+// Cache Storage ヒットでも)、その間 Chrome は前のコマを表示し続け、Safari は
+// 空白になる → 立ち絵がチカチカする (2026-09-03 user 指摘、雑学回の shirake)。
+//
+// 対策は 2 段:
+//   1. preloadSprite(): Image オブジェクトを Map に保持して decode まで済ませる。
+//      参照を持ち続けるので memory cache から落ちず、以後の src 差し替えは SW を通らない。
+//   2. useReadySrc(): 目的の src が decode 済みになるまで、直前に表示できていた src を
+//      返し続ける。読み込み中に空白/別ポーズが挟まらない。
+// ---------------------------------------------------------------------------
+type SpriteEntry = { img: HTMLImageElement; ready: boolean; waiters: Array<() => void> }
+const spriteCache = new Map<string, SpriteEntry>()
+
+function preloadSprite(src: string): void {
+  if (typeof window === 'undefined' || spriteCache.has(src)) return
+  const img = new Image()
+  const entry: SpriteEntry = { img, ready: false, waiters: [] }
+  spriteCache.set(src, entry)
+  const settle = () => {
+    entry.ready = true
+    const ws = entry.waiters.splice(0)
+    ws.forEach((w) => w())
+  }
+  img.onload = () => {
+    // decode() まで待つと、src 差し替え直後の描画で decode 待ちのコマ落ちも消える。
+    const d = typeof img.decode === 'function' ? img.decode().catch(() => {}) : Promise.resolve()
+    d.then(settle)
+  }
+  // 404 等でも settle する。止め置くと表示が永久に前のコマで固まるので、
+  // <img> 側の onError (display:none) に任せる。
+  img.onerror = settle
+  img.src = src
+}
+
+function isSpriteReady(src: string): boolean {
+  return spriteCache.get(src)?.ready ?? false
+}
+
+function onSpriteReady(src: string, cb: () => void): () => void {
+  preloadSprite(src)
+  const entry = spriteCache.get(src)
+  if (!entry) return () => {}
+  if (entry.ready) { cb(); return () => {} }
+  entry.waiters.push(cb)
+  return () => {
+    const i = entry.waiters.indexOf(cb)
+    if (i >= 0) entry.waiters.splice(i, 1)
+  }
+}
+
+// 目的の src が decode 済みになるまで、直前に表示できていた src を返す。
+function useReadySrc(desired: string): string {
+  const [shown, setShown] = useState(desired)
+  useEffect(() => {
+    if (isSpriteReady(desired)) { setShown(desired); return }
+    let alive = true
+    const off = onSpriteReady(desired, () => { if (alive) setShown(desired) })
+    return () => { alive = false; off() }
+  }, [desired])
+  return shown
+}
+
+// 元から目を閉じている表情ではまばたきさせない (詳細は描画側のコメント)。
+const canBlinkTone = (speaker: string, t: string) => !NO_BLINK[speaker]?.includes(t)
+
+// 1 tone ぶんのコマ (base / _talk / _talk2 / _blink) をまとめて先読み。
+function preloadToneFrames(speaker: string, tone: string): void {
+  const base = `/characters/${speaker}/${tone}`
+  preloadSprite(`${base}.png`)
+  preloadSprite(`${base}_talk.png`)
+  preloadSprite(`${base}_talk2.png`)
+  if (canBlinkTone(speaker, tone)) preloadSprite(`${base}_blink.png`)
+}
+
+// 現在位置から先読みするセグメント数 (≒ 30-40 秒ぶん)。
+const SPRITE_LOOKAHEAD = 8
+
+function SpriteImg({ src, style }: { src: string; style: React.CSSProperties }) {
+  const shown = useReadySrc(src)
+  return (
+    // eslint-disable-next-line @next/next/no-img-element
+    <img
+      src={shown}
+      alt=""
+      className="absolute pointer-events-none drop-shadow-2xl"
+      style={style}
+      // 404 で hidden にした後、次に src が変わって load 成功した時に
+      // 立ち絵が二度と戻らない事故 (1 枚読み込み失敗で以降全消失)
+      // を防ぐため、onError で display:none、onLoad で復帰させる。
+      onError={(e) => { (e.currentTarget as HTMLImageElement).style.display = 'none' }}
+      onLoad={(e) => { (e.currentTarget as HTMLImageElement).style.display = '' }}
+    />
+  )
+}
+
 type SpeechSegment = {
   index: number
   type: 'speech'
@@ -768,6 +867,29 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
     }
   }, [currentSegment])
 
+  // 立ち絵の先読み: 現在のセグメントから SPRITE_LOOKAHEAD 個先までに出る
+  // (speaker, tone) のコマを decode まで済ませておく。seek で飛んでも
+  // 飛び先のセグメントから即先読みが走る。
+  useEffect(() => {
+    if (segments.length === 0) return
+    const hasTsumugi = segments.some(s => s.type === 'speech' && s.speaker === 'tsumugi')
+    const hasAnkomon = segments.some(s => s.type === 'speech' && s.speaker === 'ankomon')
+    const introPartner = hasAnkomon ? 'ankomon' : hasTsumugi ? 'tsumugi' : 'metan'
+    const start = currentSegment ? Math.max(0, segments.indexOf(currentSegment)) : 0
+    const end = Math.min(segments.length, start + SPRITE_LOOKAHEAD)
+    for (let i = start; i < end; i++) {
+      const s = segments[i]
+      if (s.type === 'speech') {
+        const raw = (s as any).tone || 'normal'
+        const t = (VALID_TONES as readonly string[]).includes(raw) ? raw : 'normal'
+        preloadToneFrames(s.speaker, t)
+      } else if (s.type === 'intro') {
+        preloadToneFrames('zunda', 'normal')
+        preloadToneFrames(introPartner, 'intro')
+      }
+    }
+  }, [currentSegment, segments])
+
   // 口パク: 4 種のランダムパターンをセグメントごとに選び、100ms フレームで cycle 回す
   // (他ゲームの kuti1-4 アルゴリズムを参考に、機械的な開閉でなく自然なリズム差を作る)
   // 0=closed, 1=mid, 2=open
@@ -1121,13 +1243,12 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
                   ? { src: tsumugiSrc, active: tsumugiActive, right: '-14%' }
                   : { src: metanSrc,   active: metanActive,   right: '-14%' }
 
+                // <img> 直書きではなく SpriteImg: decode 済みのコマにしか src を
+                // 差し替えない (読み込み中の空白/前ポーズ残りを防ぐ)。
                 return (
                   <>
-                    {/* eslint-disable-next-line @next/next/no-img-element */}
-                    <img
+                    <SpriteImg
                       src={zundaSrc}
-                      alt=""
-                      className="absolute pointer-events-none drop-shadow-2xl"
                       style={{
                         left: '-16%',
                         bottom: '-32%',
@@ -1135,25 +1256,15 @@ export function RadioPageInner({ initialEpisode }: { initialEpisode?: string } =
                         zIndex: zundaActive ? 5 : 4,
                         transform: 'scaleX(-1)',
                       }}
-                      // 404 で hidden にした後、次に src が変わって load 成功した時に
-                      // 立ち絵が二度と戻らない事故 (1 枚読み込み失敗で以降全消失)
-                      // を防ぐため、onError で display:none、onLoad で復帰させる。
-                      onError={(e) => { (e.currentTarget as HTMLImageElement).style.display = 'none' }}
-                      onLoad={(e) => { (e.currentTarget as HTMLImageElement).style.display = '' }}
                     />
-                    {/* eslint-disable-next-line @next/next/no-img-element */}
-                    <img
+                    <SpriteImg
                       src={partner.src}
-                      alt=""
-                      className="absolute pointer-events-none drop-shadow-2xl"
                       style={{
                         right: partner.right,
                         bottom: '-32%',
                         height: '100%',
                         zIndex: partner.active ? 5 : 4,
                       }}
-                      onError={(e) => { (e.currentTarget as HTMLImageElement).style.display = 'none' }}
-                      onLoad={(e) => { (e.currentTarget as HTMLImageElement).style.display = '' }}
                     />
                   </>
                 )
