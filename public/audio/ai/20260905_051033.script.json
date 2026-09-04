@@ -1,0 +1,532 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-09-04T20:10:33.817350+00:00",
+  "title": "机の上に降りてきたAI 〜2ナノの箱と、16万個の倉庫〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便、テックニュースの回。四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝もテックの話、軽くいくのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今日は四本立て。手元のパソコンから、内モンゴルの巨大な倉庫まで飛ぶわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "倉庫? テックの話じゃなかったっけ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "中身がぎっしりAIの部品なのよ。あとは裁判と、守る側にお金が動いた話ね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "通勤の途中でちょうど聴き終わるやつじゃん! 一本目いくのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "じゃあ、お財布にいちばん近いやつから。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "アップルがマックミニの新型を発表したのよ。八月二十五日ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "まっくみに? お弁当箱みたいな、小さい箱だっけ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう、画面もキーボードも付いてない本体だけの箱。今回は中身が新しいの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "中身!? お弁当のおかずが入れ替わったってこと!?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "弁当箱から離れなさい。エム6っていう、アップルが自分で設計した頭脳の話。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "頭脳が新しくなると、なにがうれしいのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "作り方が変わったのよ。2ナノメートルっていう、回路をものすごく細かく刻む世代ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "2ナノ!? どのくらい細かいのか、想像もつかないのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "髪の毛の太さの、何万分の一の世界。細かく刻めるほど、同じ面積にたくさん詰められるの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、詰め込めるから速くなるってことじゃん!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "しかも、電力あたりの性能も高められてるわ。会社の説明だと、AIの処理は前の型の最大4倍ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "4倍。ボクの朝の支度も、そこに乗せてほしいのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "無理ね。値段は149,800円から、発売は九月二十二日よ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "約15万!? ボクのお小遣いだと、何年ためてやっと届く額なのだ……。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに、机の上でAIを動かせる新型Macが、約15万円から出るって話。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "毎月の使用料を払わなくて済む未来、ってことでいいのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ローカルで動かせるAIなら、サービスによっては毎月の利用料を抑えられるかもしれないわね。じゃ、次いくわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目は、数がとんでもないやつ。ディープシークって名前、聞いたことある?",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "あるのだ。中国のAIの会社だっけ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。その会社が内モンゴルに作る、新しいデータセンターの計画が報じられてるのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でーたせんたー。前も出てきたけど、あれ結局なんなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "AIやネットのサービスを動かしてる、機械がぎっしり並んだ巨大な倉庫ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "冒頭で言ってた倉庫、これのことだったのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこへ、ファーウェイが作るAI用のチップを、少なくとも160,000個入れる計画。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "16万個!? 学校のクラスで言うと、何クラス分なのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "例えが行方不明よ。建物ひとつで、電気の使用量が75万世帯ぶんの規模ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "75万世帯!? 街がまるごと、箱に吸い込まれてるじゃん!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "だから風と太陽の電気が安い内モンゴルなの。平均気温が4.3度で、外の空気で冷やせるわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "冷蔵庫の中に工場を建てる作戦じゃん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "その理解でいいわ。面白いのは、使いみちを分けてるところ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "分ける? AIはAIで、ひとまとめじゃないってこと?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二種類あるのよ。賢く育てる学習と、質問に答える推論ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、今回のチップは、どっちの係なのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "答える方だけ。育てる方は、手に入るかぎりのエヌビディア製で続けるみたい。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "育てるのは輸入品、働かせるのは国産。使い分けが露骨じゃん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いい要約ね。アメリカの規制で上等な輸入チップが入らないから、答える側から自国製に置き換えてるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、もう積み終わってるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこが弱点。チップに付ける高速なメモリが足りなくて、揃うのは一年以上先って見方ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "頼んだのに、まだ届かないやつなのだ……。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに、AIの世界が国ごとに別々の部品で回り始めた、って話よ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "それ、ボクたちの生活にも届くやつ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "届くわ。使えるAIサービスが国境で変わっていくの、旅先で急に別のAIになる日が来るわよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目は硬いから、短くいくわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "朝の硬い話は、短いのがいちばんなのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "マイクロソフトが九月四日に、著作権の裁判で新しい主張を出したのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "なにを言ったのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "自社のコパイロットっていうAIは、記事や本の文章をそのまま写すことはほとんどない、って。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "そのまま写すと、まずいのだね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "元の文章と実質的に同じ部分が出てきたら、著作権侵害に当たるかが問題になるのよ。訴えてるのは新聞社と作家たちね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "で、ほとんどないって、具体的にはどのくらいなのだ!?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "会社側の専門家の分析だと、820万件のやり取りのうち、対象作品と30語以上一致した回答は24件。対象の212冊のうち202冊は一度も出なかったって。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "数字だけ見ると、たしかに少ないのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "ただし、訴えられてる側が自分で数えた数字。裁判所が同じ物差しを使うとは限らないわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクたちには、どう関係してくるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "この裁判の判断は、AIの学習に著作物をどう使えるかや、出力の扱いを考えるうえで、大事な前例のひとつになる可能性があるの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "静かに、じわっと効いてくるやつじゃん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "じゃあラスト四本目。守る側にお金が動いた話で、しめるわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "待ってたのだー! 明るいやつ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "オープンエーアイが九月三日に、10億ドル規模の支援を発表したの。日本円で約1,500億円ね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "1,500億!? そんな額、誰に配るのだ!?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "水道の事業者、地域の銀行、病院、それに市役所みたいなところ。止まると困るサービスを支えてる現場ね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "なんで、その人たち向けなのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "AIを使った攻撃がもっと巧妙になると警戒される一方で、守る側はお金や人手が足りないのよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "AIが守るって、具体的に何をするのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "弱いところを勝手に探して、直し方まで作って報告する係。しかも止まらず動き続けるタイプよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "見回りの警備員が、ついでに修理までやってくれる感じじゃん。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "いい比喩ね。ただし1,500億円は現金の助成金じゃなくて、自社AIへの割引アクセスや研修、技術支援の総額。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、商品券で配ってるってこと!?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "平たく言えばそう。まずは今後半年ほどで、この支援を現場に届ける目標なの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "それでも、病院や水道が止まらなくなるなら、ボクは助かるのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこが今朝の正解ね。要するに、生活の土台を守ってる現場に、いい道具が回るかどうかって話。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "四本で、けっこうお腹いっぱいなのだ……。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "おさらいよ。マックミニの新型が149,800円から、内モンゴルにはチップ160,000個。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あとは、マイクロソフトの裁判と、守る側への1,500億円なのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "気になったのがあったら、名前で調べてみて。今朝のはどれも追いかけやすいわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "聴いてくれてるかた、今日も一日いってらっしゃいなのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "旅の道ラジオ朝便、四国めたんでした。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ずんだもんなのだー! また明日のテック朝便で、なのだー!",
+      "news_index": 0
+    }
+  ],
+  "program_description": "朝のテックニュース雑談回。一本目はアップルの新しいマックミニで、同社初の2ナノメートル世代の頭脳を積んでAI処理が前の型の最大4倍、149,800円からという話。二本目は中国のディープシークが内モンゴルの巨大データセンターにファーウェイ製のAIチップを160,000個入れる計画で、育てる処理は輸入品・答える処理は国産に分けている構図を噛み砕きます。三本目はマイクロソフトが著作権裁判で「コパイロットは記事や本をそのまま写していない」と主張した件、四本目はオープンエーアイが水道や病院、地域の銀行みたいな現場向けに10億ドル規模の支援を出した話。専門用語はその場で噛み砕いて、最後に「で、ボクたちの生活はどうなるの」を一行ずつ添えていく、通勤・通学のおともになる回です。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20260905_051033_chars.webp",
+    "hero_rel": "/images/topics/tech_20260905_051033.webp",
+    "title": "机の上に降りてきたAI 〜2ナノの箱と、16万個の倉庫〜",
+    "companies": [
+      "Microsoft",
+      "Apple",
+      "OpenAI",
+      "DeepSeek",
+      "NVIDIA"
+    ],
+    "thumbnail_ready": true
+  },
+  "summary_short": "2ナノ搭載マックミニに中国AIチップ大量配備、著作権論争に社会インフラ支援――四本の話題を朝一で軽やかに解説。専門用語を噛み砕きながら、テクノロジーが暮らしにどう効いてくるかを最後にまとめて教えてくれる回。"
+}
