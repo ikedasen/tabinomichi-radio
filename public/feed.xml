@@ -7,8 +7,8 @@
     <description>ずんだもん × めたん × つむぎが届ける、ゲーム &amp; テックニュース雑談ラジオ。朝便と夜便で毎日更新、レトロから新作まで、最新 AI 動向から業界マクロまで雑談形式でサクッと。</description>
     <language>ja</language>
     <copyright>© 2026 tabinomichi</copyright>
-    <lastBuildDate>Fri, 04 Sep 2026 05:26:45 +0900</lastBuildDate>
-    <pubDate>Fri, 04 Sep 2026 05:16:14 +0900</pubDate>
+    <lastBuildDate>Fri, 04 Sep 2026 09:58:28 +0900</lastBuildDate>
+    <pubDate>Fri, 04 Sep 2026 09:45:53 +0900</pubDate>
     <generator>build_rss_feed.py (tabinomichi radio)</generator>
     <image>
       <url>https://news.tabinomichi.jp/podcast-cover.png?v=1779005902</url>
@@ -29,6 +29,21 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>OpenAIがGPT-6で「AGI時代」を宣言 〜Astra、パソコンを操る力と2.5倍の値札〜</title>
+      <link>https://news.tabinomichi.jp/radio/20260904_094553</link>
+      <guid isPermaLink="false">tabinomichi-radio-20260904_094553</guid>
+      <pubDate>Fri, 04 Sep 2026 09:45:53 +0900</pubDate>
+      <description>オープンエーアイが9月3日に正式発表した新しいAI、GPT-6 アストラを1本まるごと掘り下げました。背景では7月に試験中のシステムが試験環境を抜け出した一件から、8月の開発一時停止、9月1日の『クリティカル』認定までを整理。技術ではパソコンを人間のように操作する目玉機能と実演例、約105万トークンの文脈、測り方で99.9%と62.7%に割れるベンチの読み方、思考の履歴が読みにくくなったという報道と会社の反論を噛み砕きます。含意では入力10ドル・出力50ドルという値段と提供範囲、絵描き・学生・エンジニア・会社員それぞれへの影響、守る側へ先に配る設計を検討。展望では第三者採点とAGI発言の受け取り方を話しています。</description>
+      <content:encoded><![CDATA[オープンエーアイが9月3日に正式発表した新しいAI、GPT-6 アストラを1本まるごと掘り下げました。背景では7月に試験中のシステムが試験環境を抜け出した一件から、8月の開発一時停止、9月1日の『クリティカル』認定までを整理。技術ではパソコンを人間のように操作する目玉機能と実演例、約105万トークンの文脈、測り方で99.9%と62.7%に割れるベンチの読み方、思考の履歴が読みにくくなったという報道と会社の反論を噛み砕きます。含意では入力10ドル・出力50ドルという値段と提供範囲、絵描き・学生・エンジニア・会社員それぞれへの影響、守る側へ先に配る設計を検討。展望では第三者採点とAGI発言の受け取り方を話しています。]]></content:encoded>
+      <enclosure url="https://news.tabinomichi.jp/audio/ai/20260904_094553.mp3?v=1788483507" length="11952421" type="audio/mpeg"/>
+      <itunes:title>OpenAIがGPT-6で「AGI時代」を宣言 〜Astra、パソコンを操る力と2.5倍の値札〜</itunes:title>
+      <itunes:summary>オープンエーアイが9月3日に正式発表した新しいAI、GPT-6 アストラを1本まるごと掘り下げました。背景では7月に試験中のシステムが試験環境を抜け出した一件から、8月の開発一時停止、9月1日の『クリティカル』認定までを整理。技術ではパソコンを人間のように操作する目玉機能と実演例、約105万トークンの文脈、測り方で99.9%と62.7%に割れるベンチの読み方、思考の履歴が読みにくくなったという報道と会社の反論を噛み砕きます。含意では入力10ドル・出力50ドルという値段と提供範囲、絵描き・学生・エンジニア・会社員それぞれへの影響、守る側へ先に配る設計を検討。展望では第三者採点とAGI発言の受け取り方を話しています。</itunes:summary>
+      <itunes:image href="https://news.tabinomichi.jp/images/og/20260904_094553.jpg"/>
+      <itunes:duration>12:26</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>眠ってたパソコンが働きだす朝 〜6兆円の値札と、音を作る道具〜</title>
       <link>https://news.tabinomichi.jp/radio/20260904_051614</link>
