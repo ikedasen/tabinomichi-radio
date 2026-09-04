@@ -1,0 +1,1306 @@
+{
+  "profile": "zatsugaku",
+  "generated_at": "2026-09-04T21:13:15+09:00",
+  "title": "五十音図は名前を並べるための表ではなかった 〜あいうえおの順番はインドから来た話〜",
+  "audio_path": "zatsugaku_latest.wav",
+  "duration_sec": 543.24,
+  "script_hash": "sha256:70b7a7d32cd51d8759cea8379c2a431bb7a75cbdde5e239023516345c11a9a45",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 5.05
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "mic",
+      "text": "旅の道ラジオ、雑学チャンネル。あんこもんだもん。",
+      "news_index": 0,
+      "start_sec": 5.05,
+      "end_sec": 8.51
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ずんだもんなのだ! 今日はどんなネタを持ってきたのだ?",
+      "news_index": 0,
+      "start_sec": 8.66,
+      "end_sec": 11.95
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "今日のお題は、あいうえお、かきくけこ、の「あの順番」だもん。",
+      "news_index": 0,
+      "start_sec": 12.1,
+      "end_sec": 16.92
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "五十音図なのだ! 学校でいちばん最初に習うやつなのだ。",
+      "news_index": 0,
+      "start_sec": 17.07,
+      "end_sec": 20.95
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "そう。じゃあ聞くけど、あの順番って誰が決めたと思う?",
+      "news_index": 0,
+      "start_sec": 21.1,
+      "end_sec": 24.88
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "えっ。誰って言われると、考えたこともなかったのだ。",
+      "news_index": 0,
+      "start_sec": 25.03,
+      "end_sec": 28.95
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "聴いてくれてるかたも、たぶん同じ顔をしてるもん。毎日使ってるのに、由来は誰も知らないもん。",
+      "news_index": 0,
+      "start_sec": 29.1,
+      "end_sec": 35.14
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "確かに、ボクも「あいうえお」は空気みたいに使ってるのだ。",
+      "news_index": 0,
+      "start_sec": 35.29,
+      "end_sec": 39.43
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "今日はその空気の正体を、1,000年さかのぼって掘るもん。",
+      "news_index": 0,
+      "start_sec": 39.58,
+      "end_sec": 43.1
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "まずボクの予想を言っていいのだ?",
+      "news_index": 1,
+      "start_sec": 43.25,
+      "end_sec": 45.48
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "どうぞ。どうせ外れるもん。",
+      "news_index": 1,
+      "start_sec": 45.63,
+      "end_sec": 47.38
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "昔の日本人が、日本語の音を覚えやすいように並べたのだ?",
+      "news_index": 1,
+      "start_sec": 47.53,
+      "end_sec": 51.99
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "並べたのが日本人なのは合ってるもん。でも、日本語のために考え出した並びじゃないもん。",
+      "news_index": 1,
+      "start_sec": 52.14,
+      "end_sec": 57.67
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、日本語の表なのに?",
+      "news_index": 1,
+      "start_sec": 57.82,
+      "end_sec": 59.97
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "設計図が外から来てるもん。しかも、かなり遠いところからだもん。",
+      "news_index": 1,
+      "start_sec": 60.12,
+      "end_sec": 64.47
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "中国なのだ? 漢字が来たところだし。",
+      "news_index": 1,
+      "start_sec": 64.62,
+      "end_sec": 67.49
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "中国も半分は当たりだもん。でも母音の並びの方は、もっと西だもん。",
+      "news_index": 1,
+      "start_sec": 67.64,
+      "end_sec": 72.38
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "もっと西… ボクの地図の知識が追いつかないのだ。",
+      "news_index": 1,
+      "start_sec": 72.53,
+      "end_sec": 76.48
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "答え合わせは後でするもん。先に、もう1つ思い込みを壊しておくもん。",
+      "news_index": 1,
+      "start_sec": 76.63,
+      "end_sec": 81.28
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "まだあるのだ?",
+      "news_index": 1,
+      "start_sec": 81.43,
+      "end_sec": 82.59
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "五十音図って、そもそも何のための表だと思う?",
+      "news_index": 1,
+      "start_sec": 82.74,
+      "end_sec": 86.05
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "辞書とか名簿を、あいうえお順に並べるためなのだ。",
+      "news_index": 1,
+      "start_sec": 86.2,
+      "end_sec": 89.51
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "shirake",
+      "text": "それが2つめの思い込みだもん。並べる道具になったのは、ずっと後だもん。",
+      "news_index": 1,
+      "start_sec": 89.66,
+      "end_sec": 95.68
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "索引じゃないのだ!? じゃあ最初は何なのだ。",
+      "news_index": 1,
+      "start_sec": 95.83,
+      "end_sec": 98.79
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "そこが今日のいちばんおいしいところだもん。もう少しだけ引っぱるもん。",
+      "news_index": 1,
+      "start_sec": 98.94,
+      "end_sec": 102.86
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "あんこもん、意地悪なのだ…",
+      "news_index": 1,
+      "start_sec": 103.01,
+      "end_sec": 105.77
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "ついでに聞くもん。五十音図には、音がいくつ並んでる?",
+      "news_index": 1,
+      "start_sec": 105.92,
+      "end_sec": 109.91
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "名前のとおり、50個なのだ。",
+      "news_index": 1,
+      "start_sec": 110.06,
+      "end_sec": 112.19
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "shirake",
+      "text": "数えると、そうでもないもん。空いてるマスと、同じ文字がだぶってるマスがあるもん。",
+      "news_index": 1,
+      "start_sec": 112.34,
+      "end_sec": 119.35
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "言われてみれば、ヤ行のところはスカスカだったのだ。",
+      "news_index": 1,
+      "start_sec": 119.5,
+      "end_sec": 122.96
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "そう。「五十音」は看板の数字で、実際の音の数とはぴったり合ってないもん。",
+      "news_index": 1,
+      "start_sec": 123.11,
+      "end_sec": 128.77
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "名前まで思い込みだったのだ…",
+      "news_index": 1,
+      "start_sec": 128.92,
+      "end_sec": 131.45
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "順番も、目的も、個数も、全部ズレてるもん。1つずつひっくり返していくもん。",
+      "news_index": 1,
+      "start_sec": 131.6,
+      "end_sec": 137.3
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "よし、ボクは覚悟を決めたのだ!",
+      "news_index": 1,
+      "start_sec": 137.45,
+      "end_sec": 139.64
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "じゃあ答えを先に出すもん。五十音図は、お坊さんが漢字の読み方を計算する道具として使ったのが始まりと考えられてるもん。",
+      "news_index": 2,
+      "start_sec": 139.79,
+      "end_sec": 147.61
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "漢字!? 仮名の表なのに漢字のためなのだ?",
+      "news_index": 2,
+      "start_sec": 147.76,
+      "end_sec": 151.13
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "そう。そして並べ方のお手本になったのは、インドの言葉の音の分析だもん。",
+      "news_index": 2,
+      "start_sec": 151.28,
+      "end_sec": 156.31
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "インド!? 話が急に地球規模になったのだ。",
+      "news_index": 2,
+      "start_sec": 156.46,
+      "end_sec": 160.33
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "まずは「あいうえお」の方からいくもん。平安時代、お坊さんたちは悉曇学というものを学んでたもん。",
+      "news_index": 2,
+      "start_sec": 160.48,
+      "end_sec": 167.3
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "えっ、それ何なのだ? ボクには難しすぎるのだ。",
+      "news_index": 2,
+      "start_sec": 167.45,
+      "end_sec": 171.06
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "お経の元の言葉、サンスクリット語の音を整理する学問だもん。",
+      "news_index": 2,
+      "start_sec": 171.21,
+      "end_sec": 175.32
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "お経って、もともとインドの言葉だったのだ。",
+      "news_index": 2,
+      "start_sec": 175.47,
+      "end_sec": 178.36
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "そう。その文字の一覧表は母音と子音がきれいに分けてあって、先頭に母音がずらっと並んでるもん。",
+      "news_index": 2,
+      "start_sec": 178.51,
+      "end_sec": 184.73
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "母音が先に来るのだ! あいうえおもそこから来てるのだ?",
+      "news_index": 2,
+      "start_sec": 184.88,
+      "end_sec": 188.48
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "そこだもん。その母音の並びから日本語で使う5つを抜き出すと、あいうえおの順になるもん。",
+      "news_index": 2,
+      "start_sec": 188.63,
+      "end_sec": 194.35
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボク、「かさたなはまやらわ」の方はずっと意味のない呪文だと思ってたのだ。",
+      "news_index": 2,
+      "start_sec": 194.5,
+      "end_sec": 199.4
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "呪文じゃないもん。あれ、口のどこで音を作るかの順番だもん。",
+      "news_index": 2,
+      "start_sec": 199.55,
+      "end_sec": 203.7
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "口のどこ!?",
+      "news_index": 2,
+      "start_sec": 203.85,
+      "end_sec": 204.92
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "カ、って言ってみて。舌の奥が、のどの方でくっつくもん。",
+      "news_index": 2,
+      "start_sec": 205.07,
+      "end_sec": 209.0
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "カ… ほんとだ、奥の方なのだ。",
+      "news_index": 2,
+      "start_sec": 209.15,
+      "end_sec": 211.41
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "次にサ、タ、ナ。全部、舌の先が前の方に来るもん。",
+      "news_index": 2,
+      "start_sec": 211.56,
+      "end_sec": 215.91
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "サ、タ、ナ… 前に来たのだ!",
+      "news_index": 2,
+      "start_sec": 216.06,
+      "end_sec": 218.61
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "最後にハ、マ。これは唇だもん。",
+      "news_index": 2,
+      "start_sec": 218.76,
+      "end_sec": 221.35
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "奥から前に、順番に移動してるのだ!",
+      "news_index": 2,
+      "start_sec": 221.5,
+      "end_sec": 224.3
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "そう。かさたなはま は、音を作る場所が口の奥から唇まで並んでるもん。",
+      "news_index": 2,
+      "start_sec": 224.45,
+      "end_sec": 229.4
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、やらわ は何なのだ? 唇の後に、また口の奥に戻るのだ?",
+      "news_index": 2,
+      "start_sec": 229.55,
+      "end_sec": 234.85
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "いいところに気づいたもん。やらわ は2つめのグループだもん。",
+      "news_index": 2,
+      "start_sec": 235.0,
+      "end_sec": 238.55
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "グループが分かれてるのだ?",
+      "news_index": 2,
+      "start_sec": 238.7,
+      "end_sec": 240.58
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "強い子音のグループと、弱い子音のグループだもん。ヤ、ラ、ワ も奥から前の順だもん。",
+      "news_index": 2,
+      "start_sec": 240.73,
+      "end_sec": 246.75
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "ヤ、ラ、ワ… ヤが奥で、ワが唇なのだ!",
+      "news_index": 2,
+      "start_sec": 246.9,
+      "end_sec": 250.78
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "hazukashi",
+      "text": "…そう。1回で当てないでほしいもん。",
+      "news_index": 2,
+      "start_sec": 250.93,
+      "end_sec": 253.75
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ボクの口、けっこう優秀なのだ。",
+      "news_index": 2,
+      "start_sec": 253.9,
+      "end_sec": 256.72
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "口が優秀でも中身は別だもん。ここから本題に入るもん。",
+      "news_index": 2,
+      "start_sec": 256.87,
+      "end_sec": 260.71
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "そうだった、何のための表かって話なのだ。",
+      "news_index": 2,
+      "start_sec": 260.86,
+      "end_sec": 263.96
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "昔、漢字の読み方は「反切」というやり方で示してたもん。",
+      "news_index": 2,
+      "start_sec": 264.11,
+      "end_sec": 268.82
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "えっ、それ何なのだ?",
+      "news_index": 2,
+      "start_sec": 268.97,
+      "end_sec": 270.79
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "漢字1文字の読みを、別の漢字2文字で表す方法だもん。上の字から頭の子音、下の字から残りの音と声の高さを取るもん。",
+      "news_index": 2,
+      "start_sec": 270.94,
+      "end_sec": 279.53
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "2文字を合体させて1文字の読みを作るのだ? パズルなのだ。",
+      "news_index": 2,
+      "start_sec": 279.68,
+      "end_sec": 284.0
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "パズルで合ってるもん。中国生まれの、読みの計算式だもん。",
+      "news_index": 2,
+      "start_sec": 284.15,
+      "end_sec": 288.13
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "でも、その2文字の読みが分からないと計算できないのだ。",
+      "news_index": 2,
+      "start_sec": 288.28,
+      "end_sec": 291.91
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "まさにそこだもん。日本ではその計算が、だんだん通じなくなってたもん。",
+      "news_index": 2,
+      "start_sec": 292.06,
+      "end_sec": 296.59
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "計算式の方が壊れたのだ!",
+      "news_index": 2,
+      "start_sec": 296.74,
+      "end_sec": 298.9
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "そこで出てくるのが明覚というお坊さんだもん。1093年に「反音作法」という本を書いてるもん。",
+      "news_index": 2,
+      "start_sec": 299.05,
+      "end_sec": 305.97
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "何をした人なのだ?",
+      "news_index": 2,
+      "start_sec": 306.12,
+      "end_sec": 307.66
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "漢字でやってた読みの計算を、仮名の表の上でやれるようにしたもん。",
+      "news_index": 2,
+      "start_sec": 307.81,
+      "end_sec": 311.94
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "表の上で?",
+      "news_index": 2,
+      "start_sec": 312.09,
+      "end_sec": 313.26
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "同じ子音を同じ行に、同じ母音を同じ段に置くもん。そうすれば、行と段を指すだけで読みが出るもん。",
+      "news_index": 2,
+      "start_sec": 313.41,
+      "end_sec": 320.24
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "表が計算機になってるのだ!",
+      "news_index": 2,
+      "start_sec": 320.39,
+      "end_sec": 322.47
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "そう。五十音図は索引じゃなくて、読みを求めるための計算尺だったもん。",
+      "news_index": 2,
+      "start_sec": 322.62,
+      "end_sec": 327.71
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "学校でいちばん最初に習うあの表、正体が計算機だったのだ…",
+      "news_index": 2,
+      "start_sec": 327.86,
+      "end_sec": 333.41
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "だから作ったのはお坊さんで、置いてあったのはお寺だもん。一般の人が使う物じゃなかったもん。",
+      "news_index": 2,
+      "start_sec": 333.56,
+      "end_sec": 339.53
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "道具として生まれたのだ。名簿のためじゃなかったのだ。",
+      "news_index": 2,
+      "start_sec": 339.68,
+      "end_sec": 343.08
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "しかも、いちばん古い図は今の並びじゃないもん。",
+      "news_index": 2,
+      "start_sec": 343.23,
+      "end_sec": 346.2
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、また変わるのだ?",
+      "news_index": 2,
+      "start_sec": 346.35,
+      "end_sec": 348.18
+    },
+    {
+      "index": 84,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "現存する最古の音図は、孔雀経音義というお経の解説書に付いてるもん。11世紀の初め頃だもん。",
+      "news_index": 2,
+      "start_sec": 348.33,
+      "end_sec": 355.26
+    },
+    {
+      "index": 85,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "それはどんな並びなのだ?",
+      "news_index": 2,
+      "start_sec": 355.41,
+      "end_sec": 357.35
+    },
+    {
+      "index": 86,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "ア行とナ行がそもそも無いもん。行の順も段の順も、今とは違うもん。",
+      "news_index": 2,
+      "start_sec": 357.5,
+      "end_sec": 362.54
+    },
+    {
+      "index": 87,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "穴あきなのだ!",
+      "news_index": 2,
+      "start_sec": 362.69,
+      "end_sec": 364.09
+    },
+    {
+      "index": 88,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "さっきの明覚の本に載ってる図も、アカヤサタナラハマワの順だもん。ヤ行が3番目に来てるもん。",
+      "news_index": 2,
+      "start_sec": 364.24,
+      "end_sec": 370.41
+    },
+    {
+      "index": 89,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "今と全然違うのだ!",
+      "news_index": 2,
+      "start_sec": 370.56,
+      "end_sec": 372.2
+    },
+    {
+      "index": 90,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "今の並びに落ち着いたのは室町時代以後と言われてるもん。",
+      "news_index": 2,
+      "start_sec": 372.35,
+      "end_sec": 375.79
+    },
+    {
+      "index": 91,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "生まれてから数百年もかかったのだ。",
+      "news_index": 2,
+      "start_sec": 375.94,
+      "end_sec": 378.46
+    },
+    {
+      "index": 92,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "要するに、五十音図は一発で完成した発明じゃないもん。何百年もかけて形が決まった表だもん。",
+      "news_index": 2,
+      "start_sec": 378.61,
+      "end_sec": 385.26
+    },
+    {
+      "index": 93,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "だんだん整っていったのだ。",
+      "news_index": 2,
+      "start_sec": 385.41,
+      "end_sec": 387.28
+    },
+    {
+      "index": 94,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "hisohiso",
+      "text": "ここからは、あの表が今も残してる化石の話をするもん。",
+      "news_index": 3,
+      "start_sec": 387.43,
+      "end_sec": 392.9
+    },
+    {
+      "index": 95,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "化石? 表の中に?",
+      "news_index": 3,
+      "start_sec": 393.05,
+      "end_sec": 395.07
+    },
+    {
+      "index": 96,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "さっき、かさたなはま は口の奥から前だって言ったもん。ハが唇だって。",
+      "news_index": 3,
+      "start_sec": 395.22,
+      "end_sec": 400.0
+    },
+    {
+      "index": 97,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "言ったのだ。ハ、って唇でやったのだ。",
+      "news_index": 3,
+      "start_sec": 400.15,
+      "end_sec": 403.04
+    },
+    {
+      "index": 98,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "それ、たぶん唇じゃないもん。今のハは、のどの奥から出る息だもん。",
+      "news_index": 3,
+      "start_sec": 403.19,
+      "end_sec": 407.89
+    },
+    {
+      "index": 99,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "あっ、ハーってやると のど なのだ! 唇じゃないのだ!",
+      "news_index": 3,
+      "start_sec": 408.04,
+      "end_sec": 411.49
+    },
+    {
+      "index": 100,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "そこが化石だもん。表が作られた頃のハ行は、唇で出す音だったもん。",
+      "news_index": 3,
+      "start_sec": 411.64,
+      "end_sec": 416.44
+    },
+    {
+      "index": 101,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "昔のハ行、違う音だったのだ!?",
+      "news_index": 3,
+      "start_sec": 416.59,
+      "end_sec": 420.01
+    },
+    {
+      "index": 102,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "平安時代の初め頃のハ行は、今のファに近い、唇をすぼめる音だったと考えられてるもん。",
+      "news_index": 3,
+      "start_sec": 420.16,
+      "end_sec": 426.37
+    },
+    {
+      "index": 103,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ハハハ、じゃなくてファファファなのだ。",
+      "news_index": 3,
+      "start_sec": 426.52,
+      "end_sec": 428.95
+    },
+    {
+      "index": 104,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "それより前はパに近かったという説が有力だもん。ただし、いつ変わったかは異説があるもん。",
+      "news_index": 3,
+      "start_sec": 429.1,
+      "end_sec": 434.85
+    },
+    {
+      "index": 105,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "そこは諸説あるのだ。",
+      "news_index": 3,
+      "start_sec": 435.0,
+      "end_sec": 436.63
+    },
+    {
+      "index": 106,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "断定はできないもん。でも、表が作られた時点でハ行が唇のグループにいたのは、つじつまが合ってるもん。",
+      "news_index": 3,
+      "start_sec": 436.78,
+      "end_sec": 443.55
+    },
+    {
+      "index": 107,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "順番がズレてるんじゃなくて、ボクたちの発音の方が動いたのだ!",
+      "news_index": 3,
+      "start_sec": 443.7,
+      "end_sec": 447.86
+    },
+    {
+      "index": 108,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "要するに、五十音図は1,000年前の発音を保存した化石だもん。",
+      "news_index": 3,
+      "start_sec": 448.01,
+      "end_sec": 452.37
+    },
+    {
+      "index": 109,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "毎朝見てた表が化石標本だったのだ…",
+      "news_index": 3,
+      "start_sec": 452.52,
+      "end_sec": 455.53
+    },
+    {
+      "index": 110,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "もう1つ面白い話があるもん。1079年に書かれた、お経の読み方をまとめた本だもん。",
+      "news_index": 3,
+      "start_sec": 455.68,
+      "end_sec": 461.92
+    },
+    {
+      "index": 111,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "また お経 の本なのだ。",
+      "news_index": 3,
+      "start_sec": 462.07,
+      "end_sec": 463.72
+    },
+    {
+      "index": 112,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "その巻末に、今と同じ段の順で行がそろった、いちばん古い音図が載ってるもん。",
+      "news_index": 3,
+      "start_sec": 463.87,
+      "end_sec": 469.35
+    },
+    {
+      "index": 113,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "やっと完成形が出てきたのだ。",
+      "news_index": 3,
+      "start_sec": 469.5,
+      "end_sec": 471.6
+    },
+    {
+      "index": 114,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "しかも同じ本に、いろは歌の現存する最古の記録も載ってるもん。",
+      "news_index": 3,
+      "start_sec": 471.75,
+      "end_sec": 476.03
+    },
+    {
+      "index": 115,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ライバル同士が同じ本に住んでたのだ!",
+      "news_index": 3,
+      "start_sec": 476.18,
+      "end_sec": 478.71
+    },
+    {
+      "index": 116,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "当時はライバルですらないもん。音図は学者の道具、いろは歌は覚えるための歌だもん。",
+      "news_index": 3,
+      "start_sec": 478.86,
+      "end_sec": 484.32
+    },
+    {
+      "index": 117,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "用途が違ったのだ。じゃあ「五十音図」って名前はいつからなのだ?",
+      "news_index": 3,
+      "start_sec": 484.47,
+      "end_sec": 489.5
+    },
+    {
+      "index": 118,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "江戸時代の契沖が1693年に使ったのが早い例だもん。それより前は「五音」とか「音図」だもん。",
+      "news_index": 3,
+      "start_sec": 489.65,
+      "end_sec": 497.82
+    },
+    {
+      "index": 119,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "名前の方が後から来たのだ!",
+      "news_index": 3,
+      "start_sec": 497.97,
+      "end_sec": 500.0
+    },
+    {
+      "index": 120,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "近世の仮名引きの辞書はいろは順が主流で、五十音順が学校や辞書に広まるのは明治からだもん。",
+      "news_index": 3,
+      "start_sec": 500.15,
+      "end_sec": 506.28
+    },
+    {
+      "index": 121,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "1,000年ぐらい、お寺の中で寝かせてたのだ!",
+      "news_index": 3,
+      "start_sec": 506.43,
+      "end_sec": 510.03
+    },
+    {
+      "index": 122,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "まとめるもん。あいうえおはインドの母音の並び、かさたなはま は口の奥から唇までの順だもん。",
+      "news_index": 0,
+      "start_sec": 510.18,
+      "end_sec": 516.18
+    },
+    {
+      "index": 123,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "そして、そもそも索引じゃなくて、漢字の読みを出すための計算機だったのだ。",
+      "news_index": 0,
+      "start_sec": 516.33,
+      "end_sec": 521.37
+    },
+    {
+      "index": 124,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "今日はあんこもんの勝ちだもん。ヤラワを当てたのは、まぐれだもん。",
+      "news_index": 0,
+      "start_sec": 521.52,
+      "end_sec": 525.38
+    },
+    {
+      "index": 125,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "まぐれでも当たりは当たりなのだ。",
+      "news_index": 0,
+      "start_sec": 525.53,
+      "end_sec": 527.78
+    },
+    {
+      "index": 126,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "次は言い当てられないネタを持ってくるもん。",
+      "news_index": 0,
+      "start_sec": 527.93,
+      "end_sec": 530.32
+    },
+    {
+      "index": 127,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "旅の道ラジオ、雑学チャンネルなのだ。また聴いてほしいのだ!",
+      "news_index": 0,
+      "start_sec": 530.47,
+      "end_sec": 534.51
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 535.21,
+      "end_sec": 543.24
+    }
+  ],
+  "wall_time_sec": 10.01,
+  "audio_url": "/audio/zatsugaku/20260904_211315.mp3?v=1788524464"
+}
