@@ -1,0 +1,1016 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-09-06T05:19:11+09:00",
+  "title": "同じ時間に沈んだ三つ 〜落ちるAIと、切り替わる回線〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 509.82,
+  "script_hash": "sha256:b0279c183d88ad85b8cd8a71d896cf29045aa094ede0f4ed4fbb24ca8c249ff7",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 4.64
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便。今朝はテックニュースの回、四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 4.64,
+      "end_sec": 10.16
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝も業界の話題、軽くつまんでいくのだ!",
+      "news_index": 0,
+      "start_sec": 10.31,
+      "end_sec": 15.17
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今朝は六本。落ちたAI、漏れた個人情報、切り替わる回線、あと気持ち悪い食べ物の話ね。",
+      "news_index": 0,
+      "start_sec": 15.32,
+      "end_sec": 21.83
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "最後、急に朝ごはんが不安になるやつじゃん!",
+      "news_index": 0,
+      "start_sec": 21.98,
+      "end_sec": 25.01
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "ちゃんと理由がある話だから、安心なさい。",
+      "news_index": 0,
+      "start_sec": 25.16,
+      "end_sec": 28.02
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "じゃあ一本目、いくのだー!",
+      "news_index": 0,
+      "start_sec": 28.17,
+      "end_sec": 30.07
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "九月三日ね。チャットジーピーティーとクロードとグロックが、ほぼ同じ時間にまとめて止まったの。",
+      "news_index": 1,
+      "start_sec": 30.22,
+      "end_sec": 35.6
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、三つとも!? 全部ライバル同士じゃん!",
+      "news_index": 1,
+      "start_sec": 35.75,
+      "end_sec": 38.86
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこが今朝の妙味。仲がいいはずのない三社が、そろって同じ時間に沈んだのよ。",
+      "news_index": 1,
+      "start_sec": 39.01,
+      "end_sec": 44.18
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "示し合わせて休んだのだ? 業界いっせいの休憩時間?",
+      "news_index": 1,
+      "start_sec": 44.33,
+      "end_sec": 48.64
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "休憩じゃないわ、事故。しかも説明が、きれいに食い違ってるの。",
+      "news_index": 1,
+      "start_sec": 48.79,
+      "end_sec": 53.05
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、そこ気になるやつなのだ。なんて言ってるのだ?",
+      "news_index": 1,
+      "start_sec": 53.2,
+      "end_sec": 56.62
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "オープンエーアイは通信経路のエラー、グロック側はメンフィスの計算施設の障害と説明したけど、アンソロピックは原因を明らかにしてないの。",
+      "news_index": 1,
+      "start_sec": 56.77,
+      "end_sec": 65.51
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "二社は別々の原因を挙げて、アンソロピックは原因を明かしてないのだ。遅刻の理由がそろってないやつじゃん。",
+      "news_index": 1,
+      "start_sec": 65.66,
+      "end_sec": 73.47
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "だから裏で同じ土台を借りてるんじゃないかって話が出てるの。ただ、どこも詳しくは語ってないわ。",
+      "news_index": 1,
+      "start_sec": 73.62,
+      "end_sec": 79.71
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "土台って、なんの話なのだ?",
+      "news_index": 1,
+      "start_sec": 79.86,
+      "end_sec": 82.19
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "クラウド。よそが持ってる大きなサーバー置き場を、みんなで間借りしてるって意味ね。",
+      "news_index": 1,
+      "start_sec": 82.34,
+      "end_sec": 87.06
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "じゃあ大家さんがブレーカー落としたら、テナント全滅なのだ!?",
+      "news_index": 1,
+      "start_sec": 87.21,
+      "end_sec": 91.08
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "乱暴だけど、構造としては近いわね。要するに、AIを三つ使い分けても、今回みたいに障害が重なることはあるって話。",
+      "news_index": 1,
+      "start_sec": 91.23,
+      "end_sec": 99.59
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "仕事の途中で全部止まったら、ボクただの人になっちゃうのだ……。",
+      "news_index": 1,
+      "start_sec": 99.74,
+      "end_sec": 104.88
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "その日は諦めて手を動かしなさい。今回は現地の昼過ぎには、三つとも戻ってるわ。",
+      "news_index": 1,
+      "start_sec": 105.03,
+      "end_sec": 110.82
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目は国内の話。ライザップが九月三日に、お客さんの個人情報の扱いで謝罪したのよ。",
+      "news_index": 2,
+      "start_sec": 110.9,
+      "end_sec": 117.2
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ジムのところじゃん。なにがあったのだ?",
+      "news_index": 2,
+      "start_sec": 117.35,
+      "end_sec": 119.97
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "社員が、会社が業務で認めてないAIサービスに、仕事のデータを入れちゃったの。",
+      "news_index": 2,
+      "start_sec": 120.12,
+      "end_sec": 125.27
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、自分のアカウントで勝手にってこと!?",
+      "news_index": 2,
+      "start_sec": 125.42,
+      "end_sec": 128.38
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。中身が重いのよ。氏名、生年月日、保険証の記号番号、それに高血圧症や糖尿病みたいな病気の情報まで。",
+      "news_index": 2,
+      "start_sec": 128.53,
+      "end_sec": 137.21
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "病名まで入ってたのだ!? それ、いちばん外に出したくないやつじゃん!",
+      "news_index": 2,
+      "start_sec": 137.36,
+      "end_sec": 141.67
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "一月一日から八月十九日までに登録された、特定保健指導の対象者データの一部ね。件数は公表されてないわ。",
+      "news_index": 2,
+      "start_sec": 141.82,
+      "end_sec": 149.6
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "悪気があってやった感じなのだ?",
+      "news_index": 2,
+      "start_sec": 149.75,
+      "end_sec": 152.05
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "集計作業の途中で、うっかり上げちゃったって説明。二十四時間以内に消して、個人情報保護委員会にも報告済みよ。",
+      "news_index": 2,
+      "start_sec": 152.2,
+      "end_sec": 160.62
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "便利さに手が伸びた結果なのだ……。ボクも似たことやりそうで怖いのだ。",
+      "news_index": 2,
+      "start_sec": 160.77,
+      "end_sec": 166.99
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこが今朝いちばん刺さるところ。会社の資料を私物のAIに、要約して、って投げた瞬間、同じ側に立ってるのよ。",
+      "news_index": 2,
+      "start_sec": 167.14,
+      "end_sec": 174.72
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "うわっ、心当たりのある人、今そこで固まってるのだ。",
+      "news_index": 2,
+      "start_sec": 174.87,
+      "end_sec": 178.64
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに、AIの使用ルールは決めるだけじゃなく、周知と教育まで続けないと危ないって話。次いくわ。",
+      "news_index": 2,
+      "start_sec": 178.79,
+      "end_sec": 185.66
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目。さっきの障害の話と地続きだけど、家の回線の方にも保険が出たの。",
+      "news_index": 3,
+      "start_sec": 185.74,
+      "end_sec": 191.27
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "保険! 落ちても平気にする話なのだ?",
+      "news_index": 3,
+      "start_sec": 191.42,
+      "end_sec": 194.25
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ケーディーディーアイが九月十七日から、エーユーひかりプラスってのを始めるわ。",
+      "news_index": 3,
+      "start_sec": 194.4,
+      "end_sec": 199.06
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ふつうの光回線と、どこが違うのだ?",
+      "news_index": 3,
+      "start_sec": 199.21,
+      "end_sec": 202.31
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ハイブリッドホームルーターっていう箱が付くの。有線が落ちたら、自動でエーユーの5G回線に切り替わるのよ。",
+      "news_index": 3,
+      "start_sec": 202.46,
+      "end_sec": 209.45
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、勝手に乗り換えてくれるのだ!? 賢すぎじゃん!",
+      "news_index": 3,
+      "start_sec": 209.6,
+      "end_sec": 213.07
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "有線側は最大で毎秒10ギガビット。切り替わったことに気づかない、が理想形ね。",
+      "news_index": 3,
+      "start_sec": 213.22,
+      "end_sec": 218.64
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、お値段はいくらなのだ? そこがいちばん大事なのだ。",
+      "news_index": 3,
+      "start_sec": 218.79,
+      "end_sec": 222.73
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二年契約で、戸建ての10ギガとマンションの10ギガが月6,380円。戸建ての1ギガなら5,720円ね。",
+      "news_index": 3,
+      "start_sec": 222.88,
+      "end_sec": 230.71
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "あれ、思ったより暴れてない金額なのだ。",
+      "news_index": 3,
+      "start_sec": 230.86,
+      "end_sec": 234.22
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "別でルーター代が月858円。工事費は分割で乗るけど、条件を満たせば同額の割引もあるから、そこまで見て考えなさい。",
+      "news_index": 3,
+      "start_sec": 234.37,
+      "end_sec": 243.49
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "接続する会社は、選べないのだっけ?",
+      "news_index": 3,
+      "start_sec": 243.64,
+      "end_sec": 246.62
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ビッグローブ、ソネット、ニフティの三つから選べるわ。",
+      "news_index": 3,
+      "start_sec": 246.77,
+      "end_sec": 250.03
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "在宅で仕事してる人、これ効くやつなのだ。回線が死ぬと仕事も死ぬのだ。",
+      "news_index": 3,
+      "start_sec": 250.18,
+      "end_sec": 255.2
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに、通信の二本立て。一本目の話とセットで覚えておきなさい。",
+      "news_index": 3,
+      "start_sec": 255.35,
+      "end_sec": 260.26
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四本目は、今すぐ手元で試せるやつ。ドキュブラウザーっていう無料の道具が出たのよ。",
+      "news_index": 4,
+      "start_sec": 260.34,
+      "end_sec": 265.52
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ぶらうざ? ボクが毎日開いてるやつと、親戚なのだ?",
+      "news_index": 4,
+      "start_sec": 265.67,
+      "end_sec": 269.86
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "名前だけね。中身は、自分のパソコンの中の書類を探して、要約までしてくれる道具。",
+      "news_index": 4,
+      "start_sec": 270.01,
+      "end_sec": 275.57
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、それボクの、どこに保存したか分からないファイル問題じゃん!",
+      "news_index": 4,
+      "start_sec": 275.72,
+      "end_sec": 279.86
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "まさにそれ用。ピーディーエフもワードもエクセルも、電子書籍まで丸ごと相手にするわ。",
+      "news_index": 4,
+      "start_sec": 280.01,
+      "end_sec": 285.44
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "探すって、ファイル名を覚えてないとダメなやつなのだ?",
+      "news_index": 4,
+      "start_sec": 285.59,
+      "end_sec": 289.42
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこが新しいの。言葉が一致してなくても、意味の近い書類を拾ってくれるモードがあるのよ。",
+      "news_index": 4,
+      "start_sec": 289.57,
+      "end_sec": 295.17
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、去年の引っ越しの見積もり、みたいな雑な言い方でも届くのだ!?",
+      "news_index": 4,
+      "start_sec": 295.32,
+      "end_sec": 299.94
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そういう方向ね。しかも、全部あなたのパソコンの中で処理するの。外には送らないわ。",
+      "news_index": 4,
+      "start_sec": 300.09,
+      "end_sec": 305.98
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "さっきのライザップの話のあとだと、そこがいちばん安心するのだ。",
+      "news_index": 4,
+      "start_sec": 306.13,
+      "end_sec": 310.87
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ついでに、クレジットカード番号や口座番号が入った書類を見つけて、検索から外す機能まで付いてるわ。",
+      "news_index": 4,
+      "start_sec": 311.02,
+      "end_sec": 317.98
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "至れり尽くせりじゃん。落とし穴はないのだ?",
+      "news_index": 4,
+      "start_sec": 318.13,
+      "end_sec": 321.43
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "日本語がまだ正式対応じゃないの。英語向けに作られてるから、そこは期待しすぎないこと。",
+      "news_index": 4,
+      "start_sec": 321.58,
+      "end_sec": 327.2
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "最後にちゃんと落としてくるのだ……。",
+      "news_index": 4,
+      "start_sec": 327.35,
+      "end_sec": 330.15
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "五本目は軽くいくわ。頑丈なノートパソコン、って売られてる機種があるでしょ。",
+      "news_index": 5,
+      "start_sec": 330.3,
+      "end_sec": 335.04
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、工事現場の人が持ってる、ごつい黒いやつなのだ!",
+      "news_index": 5,
+      "start_sec": 335.19,
+      "end_sec": 338.99
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "それ。パナソニックのタフブック40なんかが代表格ね。",
+      "news_index": 5,
+      "start_sec": 339.14,
+      "end_sec": 342.8
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "あれ、なんで普通のお店で見かけないのだ?",
+      "news_index": 5,
+      "start_sec": 342.95,
+      "end_sec": 346.09
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "値段よ。日本の実売で、だいたい48万円台から。",
+      "news_index": 5,
+      "start_sec": 346.24,
+      "end_sec": 350.28
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "48万!? ボクのパソコン予算、五台分ためてやっと届く額なのだ!",
+      "news_index": 5,
+      "start_sec": 350.43,
+      "end_sec": 355.41
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "重さも3.35キロ。補強の枠を回して、角を守って、穴という穴を塞いでるからそうなるの。",
+      "news_index": 5,
+      "start_sec": 355.56,
+      "end_sec": 361.87
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "守りに全振りした結果、カバンが凶器になったのだ。",
+      "news_index": 5,
+      "start_sec": 362.02,
+      "end_sec": 366.06
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "で、記事の結論が身も蓋もないのよ。ふつうの人は、そこまでの頑丈さが要る場面に出会わないの。",
+      "news_index": 5,
+      "start_sec": 366.21,
+      "end_sec": 372.67
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "言われてみると、ボクが落とすのは机から30センチなのだ。",
+      "news_index": 5,
+      "start_sec": 372.82,
+      "end_sec": 377.0
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そのくらいなら、ふつうのノートで足りるわ。同じ48万を出すなら、画面か軽さか性能に回した方が幸せね。",
+      "news_index": 5,
+      "start_sec": 377.15,
+      "end_sec": 384.86
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "憧れは憧れのまま、置いとくのだ。",
+      "news_index": 5,
+      "start_sec": 385.01,
+      "end_sec": 387.57
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "じゃあラスト六本目。冒頭で焦らした、気持ち悪い食べ物の話ね。",
+      "news_index": 6,
+      "start_sec": 387.72,
+      "end_sec": 392.04
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "待ってたのだー! ……いや、待ってなかったかもしれないのだ。",
+      "news_index": 6,
+      "start_sec": 392.19,
+      "end_sec": 395.89
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "AIが作った料理の写真って、なんか怖いでしょ。テカりすぎとか、層がやたら多いラザニアとか。",
+      "news_index": 6,
+      "start_sec": 396.04,
+      "end_sec": 402.18
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あるのだ! おいしそうなのに、なぜか食べたくないやつ!",
+      "news_index": 6,
+      "start_sec": 402.33,
+      "end_sec": 405.67
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "あれ、理由が二つあるの。作り方の問題と、見る側の問題。",
+      "news_index": 6,
+      "start_sec": 405.82,
+      "end_sec": 410.5
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "作り方の方から聞きたいのだ。",
+      "news_index": 6,
+      "start_sec": 410.65,
+      "end_sec": 412.93
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今の画像AIはね、砂嵐みたいなノイズから、だんだん形を起こしていくのよ。",
+      "news_index": 6,
+      "start_sec": 413.08,
+      "end_sec": 418.18
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "彫刻みたいに、削り出していく感じなのだね。",
+      "news_index": 6,
+      "start_sec": 418.33,
+      "end_sec": 421.49
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "近いわ。問題は、大まかな形を間違えたまま、そこに本物そっくりの質感を貼っちゃうところ。",
+      "news_index": 6,
+      "start_sec": 421.64,
+      "end_sec": 427.61
+    },
+    {
+      "index": 84,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "骨組みが歪んでる家に、高級な壁紙を貼るやつじゃん!",
+      "news_index": 6,
+      "start_sec": 427.76,
+      "end_sec": 431.58
+    },
+    {
+      "index": 85,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今朝いちばんの例えね。だから細部だけリアルで、全体が変って絵ができるの。",
+      "news_index": 6,
+      "start_sec": 431.73,
+      "end_sec": 436.64
+    },
+    {
+      "index": 86,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、見る側の問題ってなんなのだ?",
+      "news_index": 6,
+      "start_sec": 436.79,
+      "end_sec": 439.51
+    },
+    {
+      "index": 87,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "人間は、危ない食べ物にすごく敏感なの。穴の集まりは感染症、糸みたいな細い線は寄生虫、変な色は腐敗を連想させるのよ。",
+      "news_index": 6,
+      "start_sec": 439.66,
+      "end_sec": 448.54
+    },
+    {
+      "index": 88,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "うわっ、AIが偶然そこを踏み抜いてるってことなのだ!?",
+      "news_index": 6,
+      "start_sec": 448.69,
+      "end_sec": 452.54
+    },
+    {
+      "index": 89,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "それと、お手本にした料理写真が、もともと演出過剰なの。強い照明も、盛った色も、そのまま真似しちゃうわけ。",
+      "news_index": 6,
+      "start_sec": 452.69,
+      "end_sec": 460.37
+    },
+    {
+      "index": 90,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、これがボクたちにどう関係あるのだ?",
+      "news_index": 6,
+      "start_sec": 460.52,
+      "end_sec": 463.47
+    },
+    {
+      "index": 91,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "もう飲食店のメニューにまで出回り始めてるのよ。写真と実物が違う、が普通に起きる時代。",
+      "news_index": 6,
+      "start_sec": 463.62,
+      "end_sec": 469.72
+    },
+    {
+      "index": 92,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "頼む前に一回、写真を疑うのだ。",
+      "news_index": 6,
+      "start_sec": 469.87,
+      "end_sec": 473.11
+    },
+    {
+      "index": 93,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあまとめ。三つのAIの障害がほぼ同じ時間帯に重なって、原因の説明はそろわなかったわ。",
+      "news_index": 0,
+      "start_sec": 473.26,
+      "end_sec": 479.69
+    },
+    {
+      "index": 94,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "私用のAIに仕事のデータを入れると、ライザップの二の舞なのだ。",
+      "news_index": 0,
+      "start_sec": 479.84,
+      "end_sec": 484.17
+    },
+    {
+      "index": 95,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "家の回線には保険が付くようになって、書類探しは手元だけで完結できるようになった。",
+      "news_index": 0,
+      "start_sec": 484.32,
+      "end_sec": 489.86
+    },
+    {
+      "index": 96,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "頑丈なノートは48万円で、AIの料理写真は今日も怖いのだ。",
+      "news_index": 0,
+      "start_sec": 490.01,
+      "end_sec": 495.18
+    },
+    {
+      "index": 97,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "気になったのがあったら、着いてから調べてみて。",
+      "news_index": 0,
+      "start_sec": 495.33,
+      "end_sec": 498.22
+    },
+    {
+      "index": 98,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "旅の道ラジオ朝便、また明日のテック朝便で会うのだー!",
+      "news_index": 0,
+      "start_sec": 498.37,
+      "end_sec": 502.49
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 503.19,
+      "end_sec": 509.82
+    }
+  ],
+  "wall_time_sec": 12.92,
+  "audio_url": "/audio/ai/20260906_051911.mp3?v=1788640332"
+}
