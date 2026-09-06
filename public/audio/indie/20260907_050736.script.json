@@ -1,0 +1,596 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-08-12T03:17:30.398112+00:00",
+  "title": "二つの牢獄 〜入れ替わる意識と、終わらない考察〜",
+  "segments": [
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "旅の道ラジオへようこそなのだ！ パーソナリティのずんだもんなのだー！",
+      "news_index": 0
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "intro",
+      "text": "あーし、春日部つむぎっす！ 今回のお題は2004年のノベルゲー『リメンバーイレブン』っすよ！",
+      "news_index": 0,
+      "reading": "あーし、かすかべつむぎっす！コンカイノオダイワにせんよんねんのノベルゲー『リメンバーイレブン』っすよ！"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "リメンバーイレブン……サッカーの11人を思い出すゲームなのだ？",
+      "news_index": 0
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "先輩それガチ違うっす。ボールは一個も出てこないっす、雪山と離島を行ったり来たりする話っすよ w",
+      "news_index": 0,
+      "reading": "センパイソレガチチガウッス。ボールはイッコモデテコナイッス、ゆきやまとりとうをいったりきたりするはなしっすよw"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "雪山と離島！ 旅行番組みたいで楽しそうじゃん。",
+      "news_index": 0
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "楽しくはないっす。要するに、遭難と記憶喪失を同時に食らう回っす。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "スタートから情報量が多すぎて、もうぐるぐるなのだ……",
+      "news_index": 0
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そこが醍醐味っす！ あーし、実機で両方の視点クリアしてるっすよ！",
+      "news_index": 0,
+      "reading": "そこがだいごみっす！あーし、じっきでりょうほうのしてんクリアしてるっすよ！"
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "まず基本情報からいくっす。発売は2004年3月18日、プレイステーション2のソフトっす。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "そんな昔なのだ。作ったのはどこなのだ？",
+      "news_index": 1
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "キッドっていうメーカーっす。ノベルゲーで名前を上げたブランドっすね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "キッド……子供が作ったゲームってこと？",
+      "news_index": 1
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "会社名っす。子供が精神病院の話を書いてたら、そっちの方が怖いっすよ w",
+      "news_index": 1,
+      "reading": "カイシャメイッス。こどもがせいしんびょういんのはなしをかいてたら、そっちのホーガコワイッスヨw"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "たしかに怖いのだ。キッドは他にも有名なゲームを出してるのだ？",
+      "news_index": 1
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "『ネバーセブン』と『エバーセブンティーン』っす！ この三本が、いわゆるインフィニティシリーズっすね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "セブン、セブンティーン、イレブン……数字がバラバラなのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "つまり数字は続き番号じゃなくて、作品ごとの記号っす。そこがこのシリーズの味っすね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "そのシリーズの中でも、この作品はなにが変わってるのだ？",
+      "news_index": 2
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "主人公が二人いるっす。ココロ編とサトル編、二つの視点で話が進むっすよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "二人！ 交代でお留守番するのだ？",
+      "news_index": 2
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "留守番じゃないっす。ココロは猛吹雪の雪山、サトルは離島にある精神病院スフィアっす。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "遠すぎるのだ。旅費だけで予算が尽きるでしょ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そこで出てくるのが人格転移現象っす。二人の意識が、二つの舞台のあいだで入れ替わるっす。",
+      "reading": "そこででてくるのがじんかくてんいげんしょうっす。ふたりのいしきが、ふたつのぶたいのあいだでいれかわるっす。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "入れ替わる！？ ボクとつむぎが入れ替わったら、ボクがギャルになるのだ？",
+      "news_index": 2
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "先輩の中身であーしの見た目とか、完全に事故っす。想像したら眠れなくなったっす。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "……ごめんなさいなのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "話戻すっす。ココロ側は、飛行機事故から生き残った四人が猛吹雪の山小屋に閉じ込められるとこから始まるっす。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "その二つの話、繋がってるのだ？",
+      "news_index": 3
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そこがガチで面白いとこっす！ 片方での選択が、もう片方に効いてくるっすよ。",
+      "news_index": 3,
+      "reading": "そこがガチでおもしろいとこっす！カタホウデノセンタクガ、もうかたほうにきいてくるっすよ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "つまり片方だけ遊んでも全部は見えないってことなのだ？",
+      "news_index": 3
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "さすが先輩っす！ 両目で見ないと立体に見えない、みたいなノリっすね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "他の仕組みも気になるのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "作中は七日間のタイムリミット制で進むっす。のんびり構えてられない作りっすね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "七日間！ ボクの夏休みより短いのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "先輩の夏休みは比較対象にならないっす w エンディングも七個以上あって、バッドエンドの比率が高いことで有名っす。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "難しそうなのだ。専門用語も覚えられる気がしないのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そこはティップスがあるっす！ 作中用語をその場で読み返せる機能っすよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "しかもこれ、前作が説明長いって言われた反省から入った機能っす。要するに、読み手への歩み寄りっすね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "誰が作ったのかも気になってきたのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "企画原案とディレクター、それにシナリオを担当したのが中澤工っす。『ネバーセブン』で初めてディレクターを務めたかたっすよ。",
+      "reading": "きかくげんあんとでぃれくたー、それにしなりおをたんとうしたのがなかざわたくみっす。『ねばーせぶん』ではじめてでぃれくたーをつとめたかたっすよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "職人なのだ。他にも名前は出てくるのだ？",
+      "news_index": 4
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "ここからオタクくん向けの小ネタっす！ シナリオにもう一人、槻潮鋼っていう名前が並んでるっす。",
+      "reading": "ここからおたくくんむけのこねたっす！しなりおにもうひとり、つきしおこうっていうなまえがならんでるっす。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "渋い名前なのだ。絶対ベテランの大先生なのだ。",
+      "news_index": 4,
+      "reading": "シブイナマエナノダ。ゼッタイベテランのだいせんせいなのだ。"
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "その正体が打越鋼太郎っす。変名でシナリオに参加してたっすよ。",
+      "reading": "そのしょうたいがうちこしこうたろうっす。へんめいでしなりおにさんかしてたっすよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "変名！ 忍者みたいでかっこいいじゃん。",
+      "news_index": 4
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "本人いわく、せっかく考えたのに誰も使ってくれない哀しきペンネームだったらしいっす。実際に使ったのはこの作品だけっす。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "切ない話なのだ……。その名前、ボクが引き取ってあげたいのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "先輩が名乗ったら台無しっす w このかたは『エバーセブンティーン』の企画原案とシナリオを書いたかたっすよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "さっき出てきたシリーズのかたなのだ！ すごい布陣でしょ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "その後チュンソフトに移って極限脱出シリーズを作って、2017年には自分の会社を立ち上げてるっす。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "音楽とか絵の方はどうなのだ？",
+      "news_index": 4
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "音楽は阿保剛っす！ あーし、サントラで一番回してるのがこの作品っす。",
+      "reading": "おんがくはあぼたけしっす！ あーし、さんとらでいちばんまわしてるのがこのさくひんっす。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "推し語りが始まったのだ。ボクもその曲聴いてみたいのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "で、ここが今回の一番の山場っす。ぶっちゃけこの作品、当時から評価がきれいに割れてるっす。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "割れてる！ ケンカになったのだ！？",
+      "news_index": 5
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "ケンカじゃないっす。ベタ惚れしたオタクくんと、物足りないって言うオタクくんが両方いるって話っす。",
+      "news_index": 5
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "まずベタ惚れ側っす。謎解き好きにガチで刺さって、ユーザーの考察がめちゃくちゃ生まれた作品っす。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "クリアしたら終わり、じゃないってことなのだ？",
+      "news_index": 5
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "むしろクリアしてからが本番みたいな遊ばれ方をしてるっす。要するに、答え合わせを自分でやる遊びっすね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "つむぎも考察ノートとか作ってたのだ？",
+      "news_index": 5
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "作ったっす！ ルーズリーフ両面びっしり、矢印だらけっす！",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "それ、一緒に考察してくれる友達はいたのだ？",
+      "news_index": 5
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "shirake",
+      "text": "……先輩。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "な、なんでもないのだ……ごめんなさいなのだ……",
+      "news_index": 5
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "コホン。で、物足りないって声の方っす。",
+      "news_index": 5
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "最後のシナリオが未完成のまま発売された、っていう証言があるっす。プロデューサーが後年そう認めてるっすね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、未完成のまま出しちゃったのだ！？",
+      "news_index": 5
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "シナリオを書いた打越鋼太郎も、2025年の時点で未完成だと話してるっす。再発売するなら手を入れる必要がある、って立場っすね。",
+      "reading": "しなりおをかいたうちこしこうたろうも、にせんにじゅうごねんのじてんでみかんせいだとはなしてるっす。さいはつばいするならてをいれるひつようがある、ってたちばっすね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ただ、それで駄作扱いされてるかというと全然違うっす。むしろ考察対象として、今も長く遊ばれ続けてるっす。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "褒める声とうーんって声が、同時に残ってるのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "そこがカルト作の証っす。ハマるオタクくんはとことんハマる枠っすね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "メディアの評価はどうだったのだ？",
+      "news_index": 5
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ファミ通は使いやすいシステムと物語性を評価して7点前後っす。海外のアールピージーファンってサイトは、絵と音楽をがっつり褒めてるっす。",
+      "reading": "ふぁみつうはつかいやすいしすてむとものがたりせいをひょうかしてななてんぜんごっす。かいがいのあーるぴーじーふぁんってさいとは、えとおんがくをがっつりほめてるっす。",
+      "news_index": 5
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "それが賛否両論って言葉の正体っす。片方だけ紹介したら嘘になるっすからね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "その後、この作品はどうなったのだ？",
+      "news_index": 6
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "2009年にピーエスピー版が出てるっす。そこで年表形式の補足情報が追加されたっすよ。",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "答え合わせが載ってるのだ！？",
+      "news_index": 6
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そこがしびれるとこっす。公式が、最も納得した真相こそがあなたにとっての真実、ってスタンスを出したっす。",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "それ、丸投げじゃないのだ！？",
+      "news_index": 6
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "丸投げじゃないっす、委ねっす。……まあ、ちょっと丸投げっすけど w",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "作ったキッドは今どうしてるのだ？",
+      "news_index": 6
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "キッドは2006年に営業を終えて、破産手続きに入ってるっす。",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "そんな……。作品も一緒に消えちゃったのだ？",
+      "news_index": 6
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "権利は別の会社に引き継がれて、複数のプラットフォームに移植版が出てるっす。要するに、作品自体は生き延びたっす。",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "気になったかたは探してみてほしいのだ。",
+      "news_index": 6
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "ネタバレは絶対踏まずに行ってほしいっす！ 一周目の混乱が、この作品の一番のごちそうっす。",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ところでつむぎ、結局サッカーは一回も出てこなかったのだ。",
+      "news_index": 6
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "最初からそう言ってるっす w 雪山で11人パス回してる余裕はないっすよ。",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "というわけで今回はここまでなのだー！",
+      "news_index": 6
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "オタクくん、雪山と離島のあいだで迷子になってくるっす！",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "また旅の道ラジオで会うのだー！",
+      "news_index": 6
+    }
+  ],
+  "program_description": "2004年にキッドから発売されたプレイステーション2のノベルゲーム『リメンバーイレブン』を掘り下げる回。猛吹雪の雪山にある遭難小屋と、離島の精神病院スフィア。まったく別の場所にいる二人の主人公の意識が入れ替わる人格転移現象を軸に、片方の選択がもう片方に響く相互依存の構造、七日間のタイムリミット、作中用語をその場で読み返せるティップス機能まで、核心を踏まずにシステム面から紹介していく。シナリオに変名で参加した人物のちょっと切ないペンネーム話や、音楽まわりのスタッフ話も。そして最大の論点である「最後のシナリオが未完成のまま発売された」という証言と、それでも考察対象として長く遊ばれ続けているという評価の割れ方を、どちらにも寄せずに両方並べる。つむぎが考察ノートの話でうっかり自爆し、ずんだもんが最後までサッカーの十一人だと思い込んだまま引っ張る回。",
+  "featured_game": {
+    "app_id": null,
+    "vndb_id": "v13",
+    "title": "Remember11",
+    "alttitle": "Remember11 -the age of infinity-",
+    "image_rel": "/images/topics/indie_20260907_050736_chars.webp",
+    "hero_rel": "/image/games/vndb_v13.jpg",
+    "screenshot_rels": [
+      "/image/games/vndb_v13_ss1.jpg"
+    ],
+    "developers": [
+      "キッド",
+      "SDR Project"
+    ],
+    "publishers": [],
+    "genres": [
+      "ビジュアルノベル"
+    ],
+    "release_date": "2004-03-18",
+    "short_description": "Fuyukawa Kokoro, a third-year sociology major, boards a plane bound for Hokkaido to meet a research subject in the Specified Psychiatric Hospital for Isolation and Aegis, or SPHIA. For unknown reasons, her plane crashes in the mountains in the middle of a snowstorm. Of the 31 passengers, only she, Kusuda Yuni, Yomogi Seiji, and Mayuzumi Lin survive unharmed. Unable to establish communication with the outside world due to the fierce snowstorm, the four decide to take shelter in an empty cabin and wait until the storm passes.\n\n[url=/c6648]Yuukidou Satoru[/url], falls from the SPHIA clock tower. "
+  },
+  "bank_meta": {
+    "built_at": "2026-08-12T12:21:20.344541",
+    "title": "Remember11",
+    "title_spec": "Remember11|Remember11: The Age of Infinity",
+    "variant": "retro",
+    "built_ts": "20260812_121730",
+    "residual_cleaned": true
+  }
+}

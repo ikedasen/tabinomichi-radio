@@ -1,0 +1,567 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-09-06T20:20:23.561862+00:00",
+  "title": "1時間おきの空 〜賢くなった天気と、ランウェイを歩くロボット〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "kamera",
+      "text": "おはようございます、旅の道ラジオ朝便、テックニュースの回。四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今日もテックの話題、軽くサクッといくのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今朝は五本立て。天気予報から、ロボットのバク転まで流していくわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "天気予報? それ、テックの話だっけ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今朝いちばん生活に刺さるやつよ。傘を持つか持たないかが変わるの。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "それ、ボクの朝の最大の悩みじゃん! 聞くのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ一本目からいくわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "グーグルが九月三日に、天気を当てるAIの新型を出したのよ。名前はウェザーネクストスリー。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "AIが天気を当てる? お天気お姉さんの仕事を取るのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "読み上げる人じゃなくて、予報を計算する裏方の話。グーグルの新しいモデルでは、そこをAIで大きく置き換えたの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "裏方!? スーパーコンピューターがゴリゴリ計算してるやつじゃなかったのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今までは大気の物理法則を全部計算する方式ね。新型は、従来の解析データに加えて、衛星や観測所から届くデータをAIへ直接取り込むの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "計算をやめちゃって、ちゃんと当たるのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "雨や雪の予報は、比べる観測データによって一割から最大六割ほど精度がよくなったって。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "五割!? 当たらない天気予報っていうイメージ、けっこう覆るじゃん!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "細かさも変わったわ。前の世代は六時間おきに、二十五キロ四方のマス目で見てたの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "二十五キロ!? ボクの町、まるごと一マスに飲み込まれてるのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それが一時間おきになって、気温や湿度などは五キロ間隔まで細かくなった。海沿いとか谷とか、数キロで天気が変わる場所に効くのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、これがグーグルの検索とマップとジェミニに入るの。要するに、いつも見てる天気の欄が黙って賢くなるって話ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "傘を持つ判断が当たるようになるのだ! ボクの朝が救われるじゃん!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目。エヌビディアが九月三日に、ディーエルエスエスファイブっていう技術を出したわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でぃーえるえすえす? 電気工事の資格みたいな響きなのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "資格じゃないわよ。グラフィックボードが、AIで絵を描き足して、軽く速く見せる技術ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "描き足す? それ、手抜きって言わないのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "言い方。全部まじめに描くと重すぎるから、間をAIに埋めさせて滑らかにするの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、それでゲームの映像がぬるぬる動くのだね!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今回の新しさは、光と質感まで踏み込んだこと。肌の透け方、髪への光の当たり方、触れてる所の影ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "AIが影を描き足す!? もう画家として雇えるじゃん!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "会社の宣伝だと、いちばん高いカードで、毎秒240コマが370コマまで伸びるって。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "370コマ!? ボクの目、そんなに数えられないのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこは割り引いて聞きなさい。AIが作ったコマも一緒に数えてる数字だから。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "大人の数え方じゃん……。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、肝心なのが対応するカード。今のところ、アールティーエックスの50番台だけなの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "古いカードの人は、しばらく指をくわえてるのだ……。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "40番台にも広げる計画は示してるけど、時期はまだ決まってないわ。要するに、買い替えろの圧が、絵の綺麗さで来たって話。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目は、ノートパソコンの電池が急に持つようになった話ね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "待ってたのだ、生活に直撃するやつ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今のノートでは、頭脳の役割をするチップに、いろんな機能をまとめたエスオーシー型の設計が増えてるの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "えすおーしー? 会社の名前だっけ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "部品よ。計算する所と、絵を出す所と、電気のやりくりを、一枚のチップに詰めたやつ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "別々だったのを一枚にまとめると、なんで電池が持つのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "いい質問。部品をまとめてデータのやり取りを効率化したり、使わない所の電力を細かく切ったりできるからよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、遠くのコンビニより隣のコンビニの方が楽、みたいなことじゃん!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "その例えで合ってるわ。で、ここを三社が本気で取り合ってるの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "三社って、どこなのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "インテルのコア・ウルトラのシリーズスリー、クアルコムのスナップドラゴンのエックスツー、エーエムディーのライゼンエーアイの400番台。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "三つとも名前が呪文なのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "覚えなくていいわ。押さえるのは、各社が速さやAI性能と一緒に、電池持ちも強く推してるってこと。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "効くのはここね。外で作業する人が、ACアダプターを持ち歩かずに済む場面が増えるの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "カバンが軽くなるのだ! それ、性能の表より嬉しいやつじゃん!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに、次の買い替えは何時間持つかで選べって話。次いくわよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四本目。今まさにドイツのベルリンで、ヨーロッパ最大の家電の見本市が開かれてるのよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "みほんいち? 家電のバザーみたいなやつなのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "売り場じゃないわ。メーカーが年末商戦に向けて新製品を並べる、業界のお披露目会。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "九月四日から八日まで。四十九カ国から、1,900を超えるブランドが来てるわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "1,900!? 一日じゃ絶対に回りきれない数じゃん!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "三日通っても無理ね。今年のテーマが、未来はいま、ですって。",
+      "news_index": 4,
+      "reading": "みっかかよってもむりね。ことしのテーマが、ミライハイマ、ですって。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "それ、毎年言ってそうなやつなのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "言うわねえ。中身は生活家電にAIが入っていく話が中心で、冷蔵庫、洗濯機、ロボット掃除機あたりが主戦場。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "冷蔵庫にAI? 中で何を考えてるのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこは各社まだ探ってる段階。中身を見て献立を出す、みたいな方向ね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "うちの冷蔵庫、開けるたびに食生活を説教してきそうなのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ダイソンは、床掃除や空気清浄、美容家電に加えて、初めて歯ブラシまで出したわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "歯ブラシ!? 掃除機の会社が、ボクの口の中に来るのだ!?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "パソコンも派手よ。レノボが厚さ10ミリ、830グラムで、ファンの無い14型をコンセプトとして見せたの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "830グラム!? 教科書一冊ぶんより軽いのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "エイサーも799グラムのを出してる。要するに、この秋のノートは薄さと軽さと電池持ちで殴り合いってこと。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "三本目の話と地続きなのだ! 買う側としては、全部おいしいじゃん!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "じゃあラスト五本目。同じ見本市で、もう一つ変なのが起きてたの。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "待ってたのだー! 変なやつ、大好物なのだ!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "九月五日に、ファッションショーの舞台をロボットが歩いたのよ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ロボットが? モデルさんの代わりに歩くってこと?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "shock",
+      "text": "そう。人型のと、四本足のと。歩いて、踊って、バク転までしていったって。",
+      "news_index": 5,
+      "reading": "そう。ヒトガタノト、よんほんあしのやつ。アルイテ、オドッテ、ばくてんまでしていったって。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "バク転!? ボクだってできないのだ!",
+      "news_index": 5,
+      "reading": "ばくてん!?ボクだってできないのだ!"
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "あなたを基準にすると、世の中の大半が超人になるわよ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "出てきたのは十一社のロボット会社。同じ舞台に集めて、歩き方やダンスを生で披露したの。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "見比べさせる? 品評会みたいなことなのだ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "近いわね。ロボット同士でサッカーもやってたし。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "サッカーまで!? それ、もう運動会じゃん!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、家電の見本市でロボットが主役級に出てきた意味はね。人と同じ空間で動くロボットを、製品として見せる段階まで来たってこと。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクの家にも来るのだ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "まだ先よ。家庭向けをうたう機体もあるけど、家事を何でも任せられる段階ではないわ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "バク転できるのに皿は洗えないのだ……。なんか、憎めないじゃん。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ今朝のまとめ。天気予報のAIが一時間おきに更新されて、気温や湿度などは五キロ間隔まで細かくなったわ。",
+      "news_index": 0,
+      "reading": "じゃあけさのまとめ。てんきよほうのAIがいちじかんおきにこうしんされて、キオンヤシツドナドハゴキロカンカクマデコマカクナッタワ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "グラフィックボードは、AIが光と影を描き足す時代なのだ。ただし新しいカード限定。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ノートは電池持ちの世代に入って、ベルリンでは薄さと軽さの殴り合い。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "そしてロボットが、ランウェイでバク転してたのだー!",
+      "news_index": 0,
+      "reading": "そしてロボットが、ランウェイでばくてんしてたのだー!"
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "一本でも引っかかったのがあったら、あとで名前で調べてみて。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "それじゃ、通勤中のかた、いってらっしゃいなのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "kamera",
+      "text": "旅の道ラジオ朝便、四国めたんでした。また明日ね。",
+      "news_index": 0
+    }
+  ],
+  "program_description": "テック朝便、今朝は五本立て。まずグーグルが九月三日に出した天気予報AI、物理計算をやめて衛星データから直接学ぶ方式に変わり、一時間おき・五キロ四方まで細かくなった話。次にエヌビディアの新しい描画技術で、肌の透け方や髪への光までAIが描き足すようになったけれど、当面は新しいカード限定という話。三本目はノートパソコンの頭脳がエスオーシーに置き換わって、電池持ちが各社の主戦場になった件。四本目はベルリンで開催中のヨーロッパ最大の家電見本市から、冷蔵庫や洗濯機に入るAIと、厚さ十ミリのノートまで。締めは同じ会場でロボットがランウェイを歩いてバク転していった話です。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20260907_052023_chars.webp",
+    "hero_rel": "/images/topics/tech_20260907_052023.webp",
+    "title": "1時間おきの空 〜賢くなった天気と、ランウェイを歩くロボット〜",
+    "companies": [
+      "Google",
+      "NVIDIA",
+      "AMD",
+      "Intel",
+      "Gemini"
+    ],
+    "thumbnail_ready": true
+  },
+  "summary_short": "天気AIが1時間ごと5km単位に進化、AIが肌や髪まで描き込む新描画技術、ノートPCの省電力競争、そしてベルリンの家電見本市からロボットのバク転ランウェイまで。テック朝便が今朝の五本を一気読み。"
+}
