@@ -1,0 +1,786 @@
+{
+  "profile": "zatsugaku",
+  "generated_at": "2026-09-08T12:11:39.806113+00:00",
+  "title": "日本酒が20%まで届くのは酵母が強いからではない 〜糖を溜めない発酵という発明〜",
+  "segments": [
+    {
+      "speaker": "ankomon",
+      "tone": "mic",
+      "text": "旅の道ラジオ、雑学チャンネル。あんこもんだもん。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ずんだもんなのだ! 今日はどんなネタを持ってきたのだ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "今日のお題は日本酒だもん。蒸留してないのに、アルコールが20%まで上がるお酒だもん。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "20%? ビールが5%くらいなのに、その4倍なのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "そう。しかも蒸留は一切してないもん。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "うーん、お米が甘いから、糖がいっぱいあるからなのだ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "shirake",
+      "text": "出たもん、その答え。半分合ってるけど、いちばん大事なところが抜けてるもん。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "いきなり否定されたのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "今日こそ、ずんだもんに負けを認めさせるもん。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "でもお米って甘いのだ。ご飯を噛んでると甘くなるじゃん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "それは噛んでる間に唾液が分解してるだけだもん。お米そのものはデンプンで、甘くないもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "じゃあ糖はどこから来るのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "そこが今日の入口だもん。先に発酵の基本を押さえるもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "酵母が糖を食べて、アルコールを出すやつなのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "そう、パンを膨らませるのと同じ生き物だもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ糖をどっさり用意すれば、強いお酒ができるのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "普通はそう考えるもん。でも、そこで必ず詰まるんだもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "詰まる? 糖は多いほど有利じゃないのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "酵母がアルコールを作るには、その約2倍の量の糖が要るもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "2倍…じゃあ20%のお酒なら、糖は40%くらい要るってことなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "hazukashi",
+      "text": "…だいたい合ってるもん。そういうところだけ計算が速いの、気に入らないもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "たまにはボクも冴えるのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "それで、糖が40%溶けた液体がどんな状態か、想像してみてほしいもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "すごく甘い水なのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "水飴みたいなドロドロだもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "水飴! もう飲み物じゃないのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "その中に酵母を放り込んでも、まともに働けなくなるもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "甘すぎて溺れるのだ…",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "言い方は雑だけど、方向は合ってるもん。濃い砂糖水は、細胞から水を吸い出すんだもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "それ、ナメクジに塩をかけるのと同じ話なのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "shirake",
+      "text": "まさにそれだもん。ジャムや砂糖漬けが長持ちするのも、同じ理屈だもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ワインは11%まで行ってるじゃん。あれはどうやってるのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "ぶどうは果汁がもともと甘いから、搾って酵母を入れるだけで発酵が始まるもん。そのかわり最初にある糖の分でおしまいで、終わると約11%だもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ビールは?",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "麦のデンプンを先に糖にして、冷ましてから酵母を入れるもん。終わってみると約5%だもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "日本酒だけ20%なのだ。同じ発酵なのに、なんでなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "答えを先に言うもん。日本酒は、デンプンを糖に変える作業と、糖をアルコールに変える作業を、同じタンクで同時にやってるもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "同時にやってるのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "これを並行複発酵っていうもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "えっ、それ何なのだ? 難しい言葉なのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "並行は同時って意味だもん。糖を作る係と糖を食べる係が、隣で一緒に働いてるだけだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "作った先から食べられてるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "そこが全部だもん。糖はできた瞬間に消えるから、タンクの中の糖はいつまでも薄いままだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "だから水飴にならないのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "そういうことだもん。酵母は最後まで、甘くない場所で働けるもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "ずるいのだ…出来たてを横から取ってるだけなのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "ずるいというか、これしか手が無いもん。糖を先に全部作ったら、その時点で水飴だもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ワインもビールも、先に糖がある側なのだ。日本酒だけ、作りながら食べさせてるのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "要するに、日本酒が強いのは酵母が偉いからじゃなくて、糖を溜めない段取りが偉いんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "それで、デンプンを糖に変える係って誰なのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "麹だもん。蒸したお米にカビを生やして、酵素を作らせるもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "カビ! お酒にカビを生やしてるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "生やしてるもん。アスペルギルス・オリゼー、日本ではニホンコウジカビって呼ばれてる種類だもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "えっ、それ何なのだ? 舌が絡まりそうなのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "味噌や醤油も、この仲間の麹菌で作られてるもん。そのカビが、デンプンを切るハサミを2種類作るもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "2種類もあるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "1つ目はアルファアミラーゼ。長いデンプンを、まん中からざくざく切って短くするもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "大きいのを、まず食べやすい大きさにするのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "2つ目がグルコアミラーゼだもん。短くなったやつの端から、ブドウ糖を1粒ずつ外していくもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "1粒ずつ! 気が長いのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "ゆっくりでいいんだもん。大事なのは、糖ができる速さと酵母が食べる速さの釣り合いだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ麹をどっさり入れて、一気に糖にしちゃえばいいのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "それをやったら、ただの水飴だもん。さっき詰んだところに戻るもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "振り出しなのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "だから麹の量も温度も、わざと抑えるもん。速く作ることじゃなくて、遅く出し続けることが仕事だもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ところで、材料は一気にドンと入れるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "そこも違うもん。日本酒は4日かけて、3回に分けて仕込むもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "4日? 面倒くさいのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "三段仕込みっていうもん。初添え、仲添え、留添えの3回だもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "なんで分けるのだ? まとめて入れた方が速いじゃん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "最初にあるのは酒母っていう、酵母をぎゅうぎゅうに増やした小さいタンクだもん。そこにいきなり全量を足したら、酵母も酸も一気に薄まるもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "薄まると何が困るのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "他の菌に入り込まれるもん。酸が濃いうちは、余計な菌が住めないんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "濃さが防御なのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "そう。だから初添えは全体の1割くらいで止めて、次の日は何も足さないもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "何もしない日があるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "踊りっていう日だもん。泡の様子から来た呼び方で、この1日で酵母が数を増やすもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "名前がかわいいのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "3日目に仲添え、4日目に留添えで、留添えが全体の半分くらいだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "少ない、休む、増やす、どっさり、なのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "要するに、酵母の数がタンクの大きさに追いつくのを待ってるんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ここまで来ると、酵母もよっぽど根性があるやつなのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "shirake",
+      "text": "そこは逆だもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "逆なのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "日本酒の酵母も、ワインの酵母も、パンの酵母も、実は全部同じ種類の生き物だもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "同じなのだ! 別の生き物だと思ってたのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "サッカロミセス・セレビシエっていう1つの種だもん。中の性格が違うだけだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "その性格の違いって、どこにあるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "よく使われる清酒酵母の系統では、休むための遺伝子が壊れてるもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "壊れてるのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "酵母は普通、環境が苦しくなると仕事を止めて、じっとする準備を始めるもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "冬眠みたいなやつなのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "その号令をかける係が、変異で途中から欠けてるもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "号令が来ないと、どうなるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "止まらないもん。苦しくなっても、そのまま発酵を続けるもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "根性じゃなくて、ブレーキが無いだけなのだ…",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "hazukashi",
+      "text": "…それ、あんこもんが言おうとしてたことだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "今日は当たりの日なのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "この遺伝子には RIM15 という名前が付いてるもん。ただ、原因はこれ1つとは限らなくて、他の遺伝子の関わりも報告されてるもん。",
+      "reading": "このいでんしには、リムジューゴ、というなまえがついてるもん。ただ、げんいんはこれひとつとはかぎらなくて、ほかのいでんしのかかわりもほうこくされてるもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "まだ途中の話なのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "そういうことだもん。それと、止まらない代わりに、ストレスへの守りは弱くなってるもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "無理してるのだ…",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "ここで売り場の話をするもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "売ってる日本酒って15%くらいじゃん。20%じゃないのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "搾ったばかりのお酒は18%から20%くらいあるもん。そこに水を足して、15%から16%に下げて出すのが普通だもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "せっかく20%まで行ったのに、薄めるのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "味の濃さを整えるためだもん。水を足さないまま出したものは、原酒って書いてあるもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "原酒って、そういう意味だったのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "もう1つ、面白い数字があるもん。酒税法だと、清酒はアルコール分が22度未満のもの、って決まってるもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "22? さっきの20より、ちょっとだけ上なのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "そこが妙に生々しいもん。もろみが届く上限の、すぐ外側に線が引いてあるもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "法律が、酵母の限界に合わせて引かれてるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "そう言われることがある、というだけだもん。確かなのは、22度未満という線が2006年の改正で入った、という事実だけだもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "線を引いた理由までは、分からないままなのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "数字の意味を知ってると、条文の見え方が変わるもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ちなみに、この作り方って日本酒だけなのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "焼酎も泡盛も、紹興酒もマッコリも同じ並行複発酵だもん。カビや麹で糖にするお酒は、だいたいこの型だもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "麦を芽吹かせる西の型と、カビを飼う東の型で分かれてるのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "いい言い方だもん。あと、あの麹のカビには称号があって、2006年に日本の国菌に選ばれてるもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "国の菌! 国鳥みたいなノリなのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "決めたのは日本醸造学会だもん。国が定めた制度じゃないもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "それでも、なんか誇らしいのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "味噌も醤油もお酒も、あの麹菌の仲間の上に乗ってるもん。称号くらいは当然だもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "mic",
+      "text": "というわけで今日は、日本酒が20%まで届く理由だったもん。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ブレーキの壊れた酵母と、糖を溜めない段取り。その合わせ技だったのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "作りながら食べさせる。それだけで、ビールに4倍の差をつけてるもん。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "次にお酒の棚を見たら、あのタンクの中を思い出すのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "今日は1本取られた気がするから、次はもっと難しいネタを持ってくるもん。",
+      "news_index": 0
+    }
+  ],
+  "program_description": "蒸留していないのに、日本酒のアルコール分は20%近くまで上がります。【問い】では、お米は甘くないのに糖はどこから来るのか、酵母は作るアルコールの約2倍の糖を必要とするので20%を狙うと糖40%の水飴になってしまうこと、そして濃い糖が細胞から水を奪うことを確かめ、約11%のワイン、約5%のビールと並べました。【解説】では答えである並行複発酵を先に出し、麹の2種類の酵素がブドウ糖を1粒ずつ小出しにすること、初添え・踊り・仲添え・留添えの三段仕込みが酵母と酸の濃さを守ること、清酒酵母はワインやパンの酵母と同じ種なのに休む号令をかける遺伝子が欠けていることをたどりました。【広がり】では原酒を割水して15%前後で出すこと、酒税法の22度未満という線、焼酎や紹興酒も同じ型であることに触れました。",
+  "featured_game": {
+    "title": "日本酒が20%まで届くのは酵母が強いからではない",
+    "topic": "日本酒が20%まで届くのは並行複発酵で糖を溜めないから",
+    "category": "tabemono",
+    "dedup_verified": true,
+    "image_rel": "/images/topics/zatsugaku_20260908_211139_chars.webp",
+    "hero_rel": "/images/topics/zatsugaku_20260908_211139.webp",
+    "thumbnail_ready": true
+  }
+}
