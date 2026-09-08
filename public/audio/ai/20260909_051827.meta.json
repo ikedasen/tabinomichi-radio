@@ -1,0 +1,956 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-09-09T05:18:27+09:00",
+  "title": "たい焼きの型を替える朝 〜財布を預けるAIと、唐辛子のチップ〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 409.69,
+  "script_hash": "sha256:d49638d0333a5824fdf35afe08079183be57fa6709ae470042c6a5b46b792a8f",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 4.69
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便。テックニュースの回、四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 4.69,
+      "end_sec": 9.9
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝もテックの話、軽くいくのだー!",
+      "news_index": 0,
+      "start_sec": 10.05,
+      "end_sec": 14.43
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今日は5本。買い物を代わりにやるAIから、1台600億円の機械まで。",
+      "news_index": 0,
+      "start_sec": 14.58,
+      "end_sec": 19.74
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "600億円!? 朝から桁がおかしいじゃん!",
+      "news_index": 0,
+      "start_sec": 19.89,
+      "end_sec": 22.99
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それは最後まで取っておくわ。まずは、スマホの話から。",
+      "news_index": 0,
+      "start_sec": 23.14,
+      "end_sec": 26.71
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、それボクに刺さるやつなのだ!",
+      "news_index": 0,
+      "start_sec": 26.86,
+      "end_sec": 29.24
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "全員に刺さるわよ。通勤中の耳、少し貸してちょうだい。",
+      "news_index": 0,
+      "start_sec": 29.39,
+      "end_sec": 33.47
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "メタが9月8日に、ミューズっていう個人向けのAIを出したのよ。",
+      "news_index": 1,
+      "start_sec": 33.55,
+      "end_sec": 37.71
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "めた? フェイスブックとインスタの会社だっけ?",
+      "news_index": 1,
+      "start_sec": 37.86,
+      "end_sec": 41.11
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこよ。今回のは、頼んだ用事を自分で片付けてくるタイプ。",
+      "news_index": 1,
+      "start_sec": 41.26,
+      "end_sec": 45.22
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、それが「エージェント」ってやつなのだ?",
+      "news_index": 1,
+      "start_sec": 45.37,
+      "end_sec": 48.6
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。AIエージェント、人の代わりに勝手に作業を進めるAIのこと。",
+      "news_index": 1,
+      "start_sec": 48.75,
+      "end_sec": 53.69
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "どこまで勝手にやるのだ?",
+      "news_index": 1,
+      "start_sec": 53.84,
+      "end_sec": 55.73
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "旅行の予約、フォームの記入、料理動画から買い物リストを作るあたりまで。",
+      "news_index": 1,
+      "start_sec": 55.88,
+      "end_sec": 60.69
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "動画から買い物リスト!? ボクの「あとで作る」フォルダが成仏するじゃん!",
+      "news_index": 1,
+      "start_sec": 60.84,
+      "end_sec": 65.62
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "つなぎ先も発表されてて、チケットの予約サイトからレストラン、音楽アプリまで並んでるわ。",
+      "news_index": 1,
+      "start_sec": 65.77,
+      "end_sec": 71.67
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "それ、財布まで握られてない?",
+      "news_index": 1,
+      "start_sec": 71.82,
+      "end_sec": 74.19
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "買い物の実行までできるけど、購入前には本人の確認を取る仕組みよ。",
+      "news_index": 1,
+      "start_sec": 74.34,
+      "end_sec": 79.38
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "怖いのだ……。",
+      "news_index": 1,
+      "start_sec": 79.53,
+      "end_sec": 80.67
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今は18歳以上、アメリカだけ。専用アプリか、ワッツアップから話しかける形ね。",
+      "news_index": 1,
+      "start_sec": 80.82,
+      "end_sec": 86.49
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、ボクたちにはいつ来るのだ?",
+      "news_index": 1,
+      "start_sec": 86.64,
+      "end_sec": 88.93
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに「AIにどこまで財布を任せられるか」を試すサービスで、メタは世界初の個人向けAIエージェントとうたってるの。日本での提供時期は、まだ発表されてないわ。",
+      "news_index": 1,
+      "start_sec": 89.08,
+      "end_sec": 100.15
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目。同じ9月8日に、オープンエーアイが絵を描くAIの新型を出したわ。",
+      "news_index": 2,
+      "start_sec": 100.23,
+      "end_sec": 105.32
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "待ってたのだ、今すぐ触れるやつ!",
+      "news_index": 2,
+      "start_sec": 105.47,
+      "end_sec": 107.85
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "名前はチャットジーピーティー イメージズ 2.5。目玉は速さよ。",
+      "news_index": 2,
+      "start_sec": 108.0,
+      "end_sec": 112.01
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "どのくらい速いのだ?",
+      "news_index": 2,
+      "start_sec": 112.16,
+      "end_sec": 113.8
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "前の型と比べて、待ち時間が最大で半分。",
+      "news_index": 2,
+      "start_sec": 113.95,
+      "end_sec": 117.01
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "半分? 1分が30秒になっただけじゃん、地味なのだ。",
+      "news_index": 2,
+      "start_sec": 117.16,
+      "end_sec": 121.96
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "その30秒を、一日50回やる人がいるのよ。",
+      "news_index": 2,
+      "start_sec": 122.11,
+      "end_sec": 125.6
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "あっ、積もったら昼休みが丸ごと浮くじゃん!",
+      "news_index": 2,
+      "start_sec": 125.75,
+      "end_sec": 128.74
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "もう一つが編集ね。直したいところだけ直せるようになったの。",
+      "news_index": 2,
+      "start_sec": 128.89,
+      "end_sec": 132.66
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "前は違ったのだ?",
+      "news_index": 2,
+      "start_sec": 132.81,
+      "end_sec": 134.39
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "前は「猫の耳だけ直して」って頼むと、背景まで描き変わってたのよ。",
+      "news_index": 2,
+      "start_sec": 134.54,
+      "end_sec": 139.63
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "それ、床屋で前髪だけって言ったら丸刈りにされるやつじゃん!",
+      "news_index": 2,
+      "start_sec": 139.78,
+      "end_sec": 144.72
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いい例えね。今回はちゃんと前髪だけ切ってくれるわ。",
+      "news_index": 2,
+      "start_sec": 144.87,
+      "end_sec": 148.31
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "絵が下手なボクにも、やっと朗報なのだ……!",
+      "news_index": 2,
+      "start_sec": 148.46,
+      "end_sec": 151.41
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "要するに、チラシやサムネイルを自分で作る人の作業が、一段ラクになるって話。",
+      "news_index": 2,
+      "start_sec": 151.56,
+      "end_sec": 157.01
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目は硬いから、短くいくわ。",
+      "news_index": 3,
+      "start_sec": 157.09,
+      "end_sec": 159.53
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "朝の硬い話は、短いのがいちばんなのだ。",
+      "news_index": 3,
+      "start_sec": 159.68,
+      "end_sec": 162.87
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "アンソロピックが、月額プランの宣伝の仕方で訴えられてるの。集団訴訟ね。",
+      "news_index": 3,
+      "start_sec": 163.02,
+      "end_sec": 168.08
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "げつがく? サブスクってことだっけ?",
+      "news_index": 3,
+      "start_sec": 168.23,
+      "end_sec": 170.93
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。上のほうに、月100ドルと200ドルのプランがあるのよ。",
+      "news_index": 3,
+      "start_sec": 171.08,
+      "end_sec": 175.03
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "200ドル!? 月3万円を誰が払うのだ!?",
+      "news_index": 3,
+      "start_sec": 175.18,
+      "end_sec": 178.33
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "仕事で一日中使う人ね。訴えてるのも、そのくちよ。",
+      "news_index": 3,
+      "start_sec": 178.48,
+      "end_sec": 182.52
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、何が不満だったのだ?",
+      "news_index": 3,
+      "start_sec": 182.67,
+      "end_sec": 184.88
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "「5倍使える」「20倍使える」って書いてあるのに、実際はもっと早く止まる、って主張。",
+      "news_index": 3,
+      "start_sec": 185.03,
+      "end_sec": 190.97
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、食べ放題なのに3皿で止められるやつなのだ!",
+      "news_index": 3,
+      "start_sec": 191.12,
+      "end_sec": 194.66
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "だいたい合ってるわ。5時間の作業1回で、一週間分の枠を15パーセント持っていかれたって言ってるの。",
+      "news_index": 3,
+      "start_sec": 194.81,
+      "end_sec": 201.25
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "1回で15パーセント!? 7回で空になるじゃん!",
+      "news_index": 3,
+      "start_sec": 201.4,
+      "end_sec": 204.93
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "会社側は訴え自体を退けるよう申し立てていて、11月6日に法廷で山場が来るわ。",
+      "news_index": 3,
+      "start_sec": 205.08,
+      "end_sec": 211.58
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクたちには、どう関係するのだ?",
+      "news_index": 3,
+      "start_sec": 211.73,
+      "end_sec": 214.32
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "まず争われるのは、この訴えを審理に進めるかどうかよ。ほかのサブスク表示がすぐ全部変わると決まったわけではないの。",
+      "news_index": 3,
+      "start_sec": 214.47,
+      "end_sec": 221.69
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四本目。冒頭で焦らした、600億円の機械ね。",
+      "news_index": 4,
+      "start_sec": 221.77,
+      "end_sec": 225.3
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "待ってたのだー!",
+      "news_index": 4,
+      "start_sec": 225.45,
+      "end_sec": 226.54
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "エーエスエムエルっていう、オランダの会社が作ってるのよ。半導体を焼く機械。",
+      "news_index": 4,
+      "start_sec": 226.69,
+      "end_sec": 231.57
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "焼く? たい焼き機なのだ?",
+      "news_index": 4,
+      "start_sec": 231.72,
+      "end_sec": 233.81
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "意外と遠くないわ。回路の原版に光を当てて、丸い板に模様を写すの。",
+      "news_index": 4,
+      "start_sec": 233.96,
+      "end_sec": 238.81
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "じゃあ、その原版が、たい焼きの型ってことなのだ!",
+      "news_index": 4,
+      "start_sec": 238.96,
+      "end_sec": 242.44
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "呑み込みが早いじゃない。で、9月8日にその型を大きくする話で業界が揃ったのよ。",
+      "news_index": 4,
+      "start_sec": 242.59,
+      "end_sec": 248.64
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "誰が揃ったのだ?",
+      "news_index": 4,
+      "start_sec": 248.79,
+      "end_sec": 250.26
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "エーエスエムエルと、台湾のティーエスエムシー、それに韓国のサムスンとインテル。",
+      "news_index": 4,
+      "start_sec": 250.41,
+      "end_sec": 255.37
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ライバル全員!? 仲、悪いはずじゃん!",
+      "news_index": 4,
+      "start_sec": 255.52,
+      "end_sec": 258.39
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今の型は縦横6インチ。これを縦6インチ、横12インチに広げよう、って話ね。",
+      "news_index": 4,
+      "start_sec": 258.54,
+      "end_sec": 264.43
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "大きくすると、何がうれしいのだ?",
+      "news_index": 4,
+      "start_sec": 264.58,
+      "end_sec": 267.2
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "今は型が小さくて、大きなチップだと二回に分けて焼いてるの。おかげで1時間175枚できたのが、125枚まで落ちてるのよ。",
+      "news_index": 4,
+      "start_sec": 267.35,
+      "end_sec": 276.27
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "3割減!? たい焼き屋なら潰れるのだ!",
+      "news_index": 4,
+      "start_sec": 276.42,
+      "end_sec": 279.34
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "だから型を大きくして、一発で焼こうって話。試作のラインが2031年、量産向けの機械は2033年ね。",
+      "news_index": 4,
+      "start_sec": 279.49,
+      "end_sec": 287.69
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "七年後……気が長すぎるのだ。",
+      "news_index": 4,
+      "start_sec": 287.84,
+      "end_sec": 291.16
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "半導体はそういう世界よ。要するに、将来の高性能チップを効率よく作るために、業界全体で新しい型の準備を始めたってこと。",
+      "news_index": 4,
+      "start_sec": 291.31,
+      "end_sec": 300.3
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあラスト五本目。エヌビディアの一強に、ちょっと穴が空いた話ね。",
+      "news_index": 5,
+      "start_sec": 300.38,
+      "end_sec": 304.54
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "穴!? あの会社、無敵じゃなかったのだ!?",
+      "news_index": 5,
+      "start_sec": 304.69,
+      "end_sec": 307.81
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "オープンエーアイが8月25日に、自分で設計した推論用チップの成績を公開したの。",
+      "news_index": 5,
+      "start_sec": 307.96,
+      "end_sec": 314.01
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "名前はなんて言うのだ?",
+      "news_index": 5,
+      "start_sec": 314.16,
+      "end_sec": 315.95
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ハラペーニョ。",
+      "news_index": 5,
+      "start_sec": 316.1,
+      "end_sec": 317.05
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "唐辛子じゃん! チップに辛いの塗ってどうするのだ!",
+      "news_index": 5,
+      "start_sec": 317.2,
+      "end_sec": 321.22
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "名前で笑ってる場合じゃないわよ。中身はかなり本気なの。",
+      "news_index": 5,
+      "start_sec": 321.37,
+      "end_sec": 325.04
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "何がすごいのだ?",
+      "news_index": 5,
+      "start_sec": 325.19,
+      "end_sec": 326.65
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "同じくらいの仕事量で比べると、電気の使用量はおよそ三分の二から半分程度で済む計算なのよ。",
+      "news_index": 5,
+      "start_sec": 326.8,
+      "end_sec": 333.32
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "電気? そこ、そんなに大事なのだ?",
+      "news_index": 5,
+      "start_sec": 333.47,
+      "end_sec": 336.53
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "かなり大事よ。大規模なAI設備では、電力の確保と費用が大きな負担になるもの。",
+      "news_index": 5,
+      "start_sec": 336.68,
+      "end_sec": 342.61
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あー、だから自分で作りにいったのだ!",
+      "news_index": 5,
+      "start_sec": 342.76,
+      "end_sec": 345.39
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "使ったのは第三者企業が公開しているベンチマークで、その企業の技術者も研究所で一部の測定を確認してるわ。",
+      "news_index": 5,
+      "start_sec": 345.54,
+      "end_sec": 352.98
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "じゃあ手前味噌じゃないってことなのだ。",
+      "news_index": 5,
+      "start_sec": 353.13,
+      "end_sec": 355.65
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ただし、比べたのは現行のジービー200とジービー300で、次世代のヴェラ・ルービンとは比べてないの。そこは差し引いて聞いてちょうだい。",
+      "news_index": 5,
+      "start_sec": 355.8,
+      "end_sec": 364.53
+    },
+    {
+      "index": 84,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、ボクたちの財布にはどう来るのだ?",
+      "news_index": 5,
+      "start_sec": 364.68,
+      "end_sec": 367.51
+    },
+    {
+      "index": 85,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "AIを動かす電力や設備のコストが下がれば、将来の利用料を抑える余地は広がるわ。ただ、それだけで値下げが決まるわけではないの。",
+      "news_index": 5,
+      "start_sec": 367.66,
+      "end_sec": 376.04
+    },
+    {
+      "index": 86,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで、今朝は5本ね。",
+      "news_index": 0,
+      "start_sec": 376.12,
+      "end_sec": 378.12
+    },
+    {
+      "index": 87,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "買い物するAIと、速くなった絵のAIと、サブスク裁判と、たい焼きの型と、唐辛子チップなのだ。",
+      "news_index": 0,
+      "start_sec": 378.27,
+      "end_sec": 385.32
+    },
+    {
+      "index": 88,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "まとめ方が雑すぎるけど、中身は合ってるわ。",
+      "news_index": 0,
+      "start_sec": 385.47,
+      "end_sec": 388.47
+    },
+    {
+      "index": 89,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "えへへ、褒められたのだ。",
+      "news_index": 0,
+      "start_sec": 388.62,
+      "end_sec": 390.6
+    },
+    {
+      "index": 90,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "気になったのがあったら、あとで調べてみてちょうだい。",
+      "news_index": 0,
+      "start_sec": 390.75,
+      "end_sec": 393.78
+    },
+    {
+      "index": 91,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "旅の道ラジオ朝便、また明日のテック朝便で会いましょうなのだ!",
+      "news_index": 0,
+      "start_sec": 393.93,
+      "end_sec": 398.41
+    },
+    {
+      "index": 92,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "いってらっしゃい。四国めたんでした。",
+      "news_index": 0,
+      "start_sec": 398.56,
+      "end_sec": 400.69
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 401.39,
+      "end_sec": 409.69
+    }
+  ],
+  "wall_time_sec": 12.85,
+  "audio_url": "/audio/ai/20260909_051827.mp3?v=1788899340"
+}

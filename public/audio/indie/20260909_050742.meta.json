@@ -1,0 +1,926 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-09-09T05:07:42+09:00",
+  "title": "タマ姉のいる学園 〜トゥハート2、逆さまの系譜〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 391.38,
+  "script_hash": "sha256:d0b4df3879f60aad5b8aa38bf67cc9b9c38fa555549f890755baaac4d22ecfd1",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 6.47
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "旅の道ラジオへようこそなのだ！ ずんだもんなのだー、今回はレトロゲーム回なのだ！",
+      "news_index": 0,
+      "start_sec": 6.47,
+      "end_sec": 11.84
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "intro",
+      "text": "またまた、あーしが担当するっすよー！ 今回のテーマは『トゥハート2』っす！",
+      "news_index": 0,
+      "start_sec": 11.99,
+      "end_sec": 16.93
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "2004年に出た、ド王道の学園恋愛アドベンチャーっす！",
+      "news_index": 0,
+      "start_sec": 17.01,
+      "end_sec": 20.6
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "トゥハート2……ハートが2つ? 心臓が2個ある人の話なのだ?",
+      "news_index": 0,
+      "start_sec": 20.75,
+      "end_sec": 25.91
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "先輩それガチ違うっす。ハートは恋のほうのハートっす",
+      "news_index": 0,
+      "start_sec": 26.06,
+      "end_sec": 29.65
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに、学園でド王道の恋愛をやるゲームっす",
+      "news_index": 0,
+      "start_sec": 29.73,
+      "end_sec": 33.02
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "発売は2004年12月28日、プレイステーション2っす",
+      "news_index": 1,
+      "start_sec": 33.1,
+      "end_sec": 37.42
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "12月28日って、もう年末の大掃除の日なのだ。ゲームどころじゃないのだー",
+      "news_index": 1,
+      "start_sec": 37.57,
+      "end_sec": 44.53
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに、年末年始をこれ1本で潰す配置っすね",
+      "news_index": 1,
+      "start_sec": 44.68,
+      "end_sec": 48.29
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "作ってるのはどこなのだ?",
+      "news_index": 1,
+      "start_sec": 48.44,
+      "end_sec": 50.25
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "発売元はアクアプラス、制作にはリーフが関わってるっす",
+      "news_index": 1,
+      "start_sec": 50.4,
+      "end_sec": 54.21
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "リーフって、葉っぱのことなのだ? ずんだの葉っぱ担当なのだ?",
+      "news_index": 1,
+      "start_sec": 54.36,
+      "end_sec": 58.54
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "葉っぱじゃなくてブランド名っす。前作のトゥハートを作ったとこっすよ",
+      "news_index": 1,
+      "start_sec": 58.69,
+      "end_sec": 62.79
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ずんだ餅屋がずんだアイスを出すみたいなもんなのだ",
+      "news_index": 1,
+      "start_sec": 62.94,
+      "end_sec": 66.07
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "つまり、看板シリーズの続編を本家が出したって話っす",
+      "news_index": 1,
+      "start_sec": 66.22,
+      "end_sec": 69.99
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "しかも大阪と東京、2つの開発室の共同制作っす",
+      "news_index": 1,
+      "start_sec": 70.07,
+      "end_sec": 74.08
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "大阪と東京!? じゃあヒロインの半分は関西弁なのだ!?",
+      "news_index": 1,
+      "start_sec": 74.23,
+      "end_sec": 78.72
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "そういう分け方じゃないっす。要するに、2拠点がかりのわりとでかいプロジェクトだったって話っす",
+      "news_index": 1,
+      "start_sec": 78.87,
+      "end_sec": 84.64
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "あと発売日には3つの形態が同時に並んだっす。通常版と初回限定版、それとデラックスパックっす",
+      "news_index": 1,
+      "start_sec": 84.72,
+      "end_sec": 91.29
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "3種類!? ボク、店の前で1時間は動けなくなるやつなのだ",
+      "news_index": 1,
+      "start_sec": 91.44,
+      "end_sec": 97.06
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "デラックスパックには前作のトゥハートも入ってて、シリーズ入門としてはめちゃくちゃ強いパッケージっす",
+      "news_index": 1,
+      "start_sec": 97.21,
+      "end_sec": 102.97
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "実質2本入りなのだ！ それはお得なのだー！",
+      "news_index": 1,
+      "start_sec": 103.12,
+      "end_sec": 106.05
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "ここからガチで語らせてほしいっす。この作品、系譜が逆なんすよ",
+      "news_index": 2,
+      "start_sec": 106.2,
+      "end_sec": 110.56
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "逆? 続編が先に出て、前作が後から出たってことなのだ?",
+      "news_index": 2,
+      "start_sec": 110.71,
+      "end_sec": 116.48
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "そこじゃないっす。パソコン版と家庭用版の順番の話っす",
+      "news_index": 2,
+      "start_sec": 116.63,
+      "end_sec": 120.58
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "この手の作品って、普通はパソコン版が先で、後から家庭用に移植されるっす",
+      "news_index": 2,
+      "start_sec": 120.66,
+      "end_sec": 125.74
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "でもトゥハート2は逆っす！ プレイステーション2の全年齢版が最初なんすよ",
+      "news_index": 2,
+      "start_sec": 125.82,
+      "end_sec": 130.53
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "順番を間違えたのだ? 誰かが箱を逆から出したのだ?",
+      "news_index": 2,
+      "start_sec": 130.68,
+      "end_sec": 134.6
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "間違いじゃないっす、狙ってこの順番っす。パソコン向けの年齢制限版が出たのは翌年の2005年12月っす",
+      "news_index": 2,
+      "start_sec": 134.75,
+      "end_sec": 141.79
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに、家庭用が本家で、パソコンが後から追いかけた珍しい形っす",
+      "news_index": 2,
+      "start_sec": 141.87,
+      "end_sec": 146.88
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "つむぎ、それ豆知識としてかなり強いのだ",
+      "news_index": 2,
+      "start_sec": 147.03,
+      "end_sec": 150.45
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "でしょ? これ言うとオタクくんに一目置かれるやつっす",
+      "news_index": 2,
+      "start_sec": 150.6,
+      "end_sec": 154.15
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "その後もピーエスピー版が2009年、プレイステーション3版が2011年に出てるっす",
+      "news_index": 2,
+      "start_sec": 154.23,
+      "end_sec": 159.82
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "7年も現役なのだ!? ボクの好きなお菓子より寿命が長いのだ",
+      "news_index": 2,
+      "start_sec": 159.97,
+      "end_sec": 164.71
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに、ハードを跨ぎながら10年近く売られ続けたタイトルっすね",
+      "news_index": 2,
+      "start_sec": 164.86,
+      "end_sec": 169.07
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "そもそも前作のトゥハートとは、どう繋がってるのだ?",
+      "news_index": 3,
+      "start_sec": 169.22,
+      "end_sec": 172.73
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "舞台は前作の2年後、同じ学園っす",
+      "news_index": 3,
+      "start_sec": 172.88,
+      "end_sec": 175.75
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "じゃあ前作のキャラが先輩で出てくるのだ！ 卒業式で泣くやつなのだー",
+      "news_index": 3,
+      "start_sec": 175.9,
+      "end_sec": 181.1
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "それが出ないんすよ。前作の登場人物は一切出てこないっす",
+      "news_index": 3,
+      "start_sec": 181.25,
+      "end_sec": 185.31
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "セリフの中で名前が触れられる程度っす。直接の続編じゃなくて、舞台を共有してる作品っす",
+      "news_index": 3,
+      "start_sec": 185.39,
+      "end_sec": 191.52
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに、同じ学校の別の代の話ってことっす",
+      "news_index": 3,
+      "start_sec": 191.6,
+      "end_sec": 195.08
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "あー、それいいのだ。学校って卒業したら本当にそうなるよね",
+      "news_index": 3,
+      "start_sec": 195.23,
+      "end_sec": 199.62
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "で、中身は学園の日常をひたすら丁寧に描くタイプっす",
+      "news_index": 3,
+      "start_sec": 199.77,
+      "end_sec": 203.67
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "日常だけ? 事件も犯人も出てこないのだ?",
+      "news_index": 3,
+      "start_sec": 203.82,
+      "end_sec": 206.97
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "ホラーじゃないっす先輩。ここは恋愛アドベンチャーっす",
+      "news_index": 3,
+      "start_sec": 207.12,
+      "end_sec": 210.29
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ただヒロインごとに秘密とか意外な設定があって、そこが評価されてるっす",
+      "news_index": 3,
+      "start_sec": 210.37,
+      "end_sec": 214.79
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "で、ここからが本題っす！ キャラの話っす！",
+      "news_index": 4,
+      "start_sec": 214.87,
+      "end_sec": 217.96
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "主人公は河野貴明、ごく普通の男子高校生っす",
+      "news_index": 4,
+      "start_sec": 218.04,
+      "end_sec": 221.86
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "普通の高校生が主人公……つまりボクにもチャンスがあるってことなのだ",
+      "news_index": 4,
+      "start_sec": 222.01,
+      "end_sec": 226.57
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "先輩は妖精っす。そもそも学校に通ってないっすよね",
+      "news_index": 4,
+      "start_sec": 226.72,
+      "end_sec": 230.48
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "で、一番人気なのが向坂環、通称タマ姉っす",
+      "news_index": 4,
+      "start_sec": 230.56,
+      "end_sec": 234.46
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "タマ姉……猫の名前なのだ?",
+      "news_index": 4,
+      "start_sec": 234.61,
+      "end_sec": 236.77
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "猫じゃないっす！ 年上の幼なじみのお姉さんキャラっす",
+      "news_index": 4,
+      "start_sec": 236.92,
+      "end_sec": 240.43
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "年上の幼なじみ! それは属性が強すぎるのだ",
+      "news_index": 4,
+      "start_sec": 240.58,
+      "end_sec": 244.58
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そうなんすよ！ グッズもフィギュアもめちゃくちゃ出てて、要するにこの作品の顔になったキャラっす",
+      "news_index": 4,
+      "start_sec": 244.73,
+      "end_sec": 250.19
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "他だと、クラス委員の小牧愛佳、それと幼なじみの柚原このみっす",
+      "news_index": 4,
+      "start_sec": 250.27,
+      "end_sec": 255.06
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "幼なじみが2人もいるのだ? 主人公、幼少期の交友関係が広すぎるのだ",
+      "news_index": 4,
+      "start_sec": 255.21,
+      "end_sec": 261.56
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "たしかに……ってなんないっすよ。ギャルゲーの様式美っす",
+      "news_index": 4,
+      "start_sec": 261.71,
+      "end_sec": 265.36
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "あと自称宇宙人とか、ロボット系のキャラもいるっす",
+      "news_index": 4,
+      "start_sec": 265.44,
+      "end_sec": 268.76
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "学園の日常はどこ行ったのだ!? 急にエスエフなのだー",
+      "news_index": 4,
+      "start_sec": 268.91,
+      "end_sec": 273.82
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そこが振り幅っす！ 日常の中に変な子が普通に混ざってるのが味なんすよ",
+      "news_index": 4,
+      "start_sec": 273.97,
+      "end_sec": 278.7
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kangae",
+      "text": "あと語りたいのが、原画の分担っす",
+      "news_index": 4,
+      "start_sec": 278.78,
+      "end_sec": 281.41
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "原画って、絵を描いてるかたのことなのだ?",
+      "news_index": 4,
+      "start_sec": 281.56,
+      "end_sec": 284.33
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そうっす。柚原このみ側はみつみ美里、タマ姉側は甘露樹が担当してるっす",
+      "news_index": 4,
+      "start_sec": 284.48,
+      "end_sec": 290.07
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "分業制なのだ！ ずんだ餅工場みたいなのだ",
+      "news_index": 4,
+      "start_sec": 290.22,
+      "end_sec": 293.86
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "工場て。でも近いっす、要するに絵柄の違いがそのままキャラの個性になってるっす",
+      "news_index": 4,
+      "start_sec": 294.01,
+      "end_sec": 299.24
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "つむぎはこういう話、ギャル友達ともするのだ?",
+      "news_index": 4,
+      "start_sec": 299.39,
+      "end_sec": 303.32
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "……しないっす。サークルだとオタクくんとしか通じない世界っす",
+      "news_index": 4,
+      "start_sec": 303.47,
+      "end_sec": 307.24
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "そのオタクくん、ちゃんと実在するのだ?",
+      "news_index": 4,
+      "start_sec": 307.39,
+      "end_sec": 310.5
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "shirake",
+      "text": "……先輩。",
+      "news_index": 4,
+      "start_sec": 310.65,
+      "end_sec": 311.47
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "な、なんでもないのだ……ごめんなさいなのだ……",
+      "news_index": 4,
+      "start_sec": 311.62,
+      "end_sec": 315.56
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "コホン。話戻すっすよ",
+      "news_index": 4,
+      "start_sec": 315.71,
+      "end_sec": 317.58
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "この作品、ゲームの外にもガンガン広がってるっす",
+      "news_index": 5,
+      "start_sec": 317.66,
+      "end_sec": 320.89
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "ついに実写映画化なのだ?",
+      "news_index": 5,
+      "start_sec": 321.04,
+      "end_sec": 322.99
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "そこまでは言ってないっす。テレビアニメっすよ、2005年の秋から放送っす",
+      "news_index": 5,
+      "start_sec": 323.14,
+      "end_sec": 327.96
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "発売の翌年なのだ! 展開が早すぎるのだー",
+      "news_index": 5,
+      "start_sec": 328.11,
+      "end_sec": 331.94
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "全13話に特別編がついた構成っす。要するに、出てすぐアニメに行けるだけの人気があったってことっす",
+      "news_index": 5,
+      "start_sec": 332.09,
+      "end_sec": 338.78
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "あともう1個、あーしが一番好きなやつがあるっす",
+      "news_index": 5,
+      "start_sec": 338.86,
+      "end_sec": 342.01
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "なんなのだ?",
+      "news_index": 5,
+      "start_sec": 342.16,
+      "end_sec": 343.22
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "トゥハート2 ダンジョントラベラーズ！ ピーエスピーで出たダンジョン探索のアールピージーっす",
+      "news_index": 5,
+      "start_sec": 343.37,
+      "end_sec": 348.68
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "恋愛アドベンチャーはどこ行ったのだ!? さっきのエスエフより飛んでるのだ",
+      "news_index": 5,
+      "start_sec": 348.83,
+      "end_sec": 354.28
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "飛んでるっす。でも探索が普通に面白いんすよ",
+      "news_index": 5,
+      "start_sec": 354.43,
+      "end_sec": 357.78
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに、キャラが強いとジャンルを越えて連れ出せるって話っす",
+      "news_index": 5,
+      "start_sec": 357.86,
+      "end_sec": 361.73
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "今回のトゥハート2、ボクかなりやってみたくなったのだ",
+      "news_index": 5,
+      "start_sec": 361.88,
+      "end_sec": 365.49
+    },
+    {
+      "index": 84,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "オタクくんも、ド王道の学園恋愛アドベンチャーを1本通しで味わってほしいっす",
+      "news_index": 5,
+      "start_sec": 365.64,
+      "end_sec": 370.58
+    },
+    {
+      "index": 85,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ボクはタマ姉が気になるのだー",
+      "news_index": 5,
+      "start_sec": 370.73,
+      "end_sec": 372.99
+    },
+    {
+      "index": 86,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "先輩、さっき猫の名前だと思ってたっすよね",
+      "news_index": 5,
+      "start_sec": 373.14,
+      "end_sec": 376.28
+    },
+    {
+      "index": 87,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "……それは忘れてほしいのだ",
+      "news_index": 5,
+      "start_sec": 376.43,
+      "end_sec": 378.03
+    },
+    {
+      "index": 88,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "では今回はここまでっす！ また旅の道ラジオで会いましょうっす！",
+      "news_index": 5,
+      "start_sec": 378.18,
+      "end_sec": 382.06
+    },
+    {
+      "index": 89,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "またなのだー！",
+      "news_index": 5,
+      "start_sec": 382.21,
+      "end_sec": 383.22
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 383.92,
+      "end_sec": 391.38
+    }
+  ],
+  "wall_time_sec": 16.67,
+  "audio_url": "/audio/indie/20260909_050742.mp3?v=1788899345"
+}
