@@ -1,0 +1,926 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-09-09T10:39:40+09:00",
+  "title": "9時間の密室 〜ノナリーゲームに沈む豪華客船〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 445.34,
+  "script_hash": "sha256:cabf28389f0e990ed5dcdfcbf6771127f59081c187bb40600d0ae9669773250b",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 6.47
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "旅の道ラジオへようこそなのだ！パーソナリティのずんだもんなのだー！",
+      "news_index": 0,
+      "start_sec": 6.47,
+      "end_sec": 10.61
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "intro",
+      "text": "またまた、あーしが担当するっすよー！今回のテーマは『極限脱出 9時間9人9の扉』っす！",
+      "news_index": 0,
+      "start_sec": 10.76,
+      "end_sec": 17.74
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "9時間9人9の扉? 数字が並びすぎてて、九九の特訓ゲームなのだ?",
+      "news_index": 0,
+      "start_sec": 17.89,
+      "end_sec": 23.31
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "先輩それガチ違うっす。9人が9時間で船から脱出するサスペンスアドベンチャーっす。",
+      "news_index": 0,
+      "start_sec": 23.46,
+      "end_sec": 29.19
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "脱出! じゃあボクは浮き輪を持って乗り込むのだ！",
+      "news_index": 0,
+      "start_sec": 29.34,
+      "end_sec": 32.76
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "浮き輪で解決するなら誰も苦労してないっす w。要するに、閉じ込められた9人の謎解きノベルっす。",
+      "news_index": 0,
+      "start_sec": 32.91,
+      "end_sec": 38.9
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "謎解きノベル……そういうのはネタバレが一番怖いのだ。",
+      "news_index": 0,
+      "start_sec": 39.05,
+      "end_sec": 42.63
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "そこ大事っす。この作品、ネタバレ厳禁レベルが歴代でも最高クラスなんで、あーし慎重にいくっす。",
+      "news_index": 0,
+      "start_sec": 42.78,
+      "end_sec": 49.29
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "まず基本っす。2009年12月10日に、ニンテンドーDSで出た作品っす。",
+      "news_index": 1,
+      "start_sec": 49.37,
+      "end_sec": 54.53
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "2009年! それはもうボクが生まれる前の前くらいなのだ。",
+      "news_index": 1,
+      "start_sec": 54.68,
+      "end_sec": 58.53
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "作ったのはチュンソフトっす。発売元はスパイクっすね。",
+      "news_index": 1,
+      "start_sec": 58.68,
+      "end_sec": 62.06
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "チュンソフトって、雪山とか廃屋でおなじみのところじゃん。",
+      "news_index": 1,
+      "start_sec": 62.21,
+      "end_sec": 66.6
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "さすが先輩っす！サウンドノベルの本家本元っすよ！",
+      "news_index": 1,
+      "start_sec": 66.75,
+      "end_sec": 70.2
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "その老舗が脱出ゲームを作ると、なにが変わるのだ?",
+      "news_index": 1,
+      "start_sec": 70.35,
+      "end_sec": 74.04
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "テキストの圧がえぐいっす。読ませて追い詰めてくるタイプっすね。",
+      "news_index": 1,
+      "start_sec": 74.19,
+      "end_sec": 77.82
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "文章で追い詰められるのだ!? ボク打たれ弱いのだー。",
+      "news_index": 1,
+      "start_sec": 77.97,
+      "end_sec": 82.17
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そこは慣れっす。要するに、謎解きより物語で殴ってくる作品ってことっす。",
+      "news_index": 1,
+      "start_sec": 82.32,
+      "end_sec": 87.41
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "舞台は密室状態の豪華客船っす。そこに男女9人が閉じ込められるっす。",
+      "news_index": 2,
+      "start_sec": 87.49,
+      "end_sec": 92.34
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "豪華客船! ビュッフェとプールがついてるやつなのだ!",
+      "news_index": 2,
+      "start_sec": 92.49,
+      "end_sec": 96.33
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "優雅な要素は一個もないっす。9時間以内に脱出しないと終わりって状況っす。",
+      "news_index": 2,
+      "start_sec": 96.48,
+      "end_sec": 101.46
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "仕掛けたのは『ゼロ』って名乗る正体不明の首謀者っす。そいつが用意したのがノナリーゲームっすね。",
+      "news_index": 2,
+      "start_sec": 101.54,
+      "end_sec": 107.34
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ノナリーゲーム……ボクの知ってる『のんびりゲーム』とは真逆なのだ。",
+      "news_index": 2,
+      "start_sec": 107.49,
+      "end_sec": 111.57
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "真逆っす。全員、左手首にバングルって腕輪をはめられるっす。",
+      "news_index": 2,
+      "start_sec": 111.72,
+      "end_sec": 116.01
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "腕輪って、おしゃれアイテムじゃん! ボクも欲しいのだ!",
+      "news_index": 2,
+      "start_sec": 116.16,
+      "end_sec": 119.89
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "shirake",
+      "text": "……先輩、それ、飲まされた時限爆弾の起爆装置っすよ。",
+      "news_index": 2,
+      "start_sec": 120.04,
+      "end_sec": 124.08
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "いらないのだ……返品したいのだ……",
+      "news_index": 2,
+      "start_sec": 124.23,
+      "end_sec": 127.0
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "無理っす。バングルには1桁の数字が出てて、船内のドアにも1から9の数字が振ってあるっす。",
+      "news_index": 2,
+      "start_sec": 127.15,
+      "end_sec": 133.08
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "自分と同じ番号のドアを通ればいいのだ?",
+      "news_index": 2,
+      "start_sec": 133.23,
+      "end_sec": 136.22
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "そこがひねくれてるんすよ。何人かの番号を足して出した数字根を、ドアの数字に合わせるっす。",
+      "news_index": 2,
+      "start_sec": 136.37,
+      "end_sec": 142.24
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "足し算……やっぱり九九なのだ! ボクの見立ては正しかったのだ!",
+      "news_index": 2,
+      "start_sec": 142.39,
+      "end_sec": 147.43
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "九九に戻すのやめてほしいっす w。2桁になったら各桁をまた足して1桁にするだけっす。",
+      "news_index": 2,
+      "start_sec": 147.58,
+      "end_sec": 153.06
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "つまり、誰と組むかで通れる扉が変わるってことじゃん。",
+      "news_index": 2,
+      "start_sec": 153.21,
+      "end_sec": 157.36
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "先輩ガチ正解っす！9人の組み合わせが、そのまま謎解きになるっす！",
+      "news_index": 2,
+      "start_sec": 157.51,
+      "end_sec": 162.26
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ドアを開ける装置がRED、通った先で腕輪を認証する装置がDEADっす。",
+      "news_index": 2,
+      "start_sec": 162.34,
+      "end_sec": 166.83
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "装置の名前が不穏すぎるのだ。要するに、逃げ道まで意地が悪いのだ。",
+      "news_index": 2,
+      "start_sec": 166.98,
+      "end_sec": 171.72
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ゲームは2部構成っす。会話と選択肢のノベルパートと、部屋を調べる脱出パートが交互っす。",
+      "news_index": 3,
+      "start_sec": 171.87,
+      "end_sec": 177.78
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "脱出パートって、ドアをひたすら蹴破るところなのだ?",
+      "news_index": 3,
+      "start_sec": 177.93,
+      "end_sec": 181.44
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "力技ゼロっす。一人称視点で部屋を調べて、仕掛けを解くタイプっす。",
+      "news_index": 3,
+      "start_sec": 181.59,
+      "end_sec": 186.25
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "昔のゲームって、画面の端っこを総当たりで触るやつじゃん。",
+      "news_index": 3,
+      "start_sec": 186.4,
+      "end_sec": 190.41
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そこがこの作品の偉いとこっす！ピクセルハンティングに頼らない論理的なパズルだって評価されてるっす！",
+      "news_index": 3,
+      "start_sec": 190.56,
+      "end_sec": 196.7
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "ちゃんと考えれば解けるのだ。それは物語に集中できるやつなのだ。",
+      "news_index": 3,
+      "start_sec": 196.85,
+      "end_sec": 201.46
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kangae",
+      "text": "で、ここからが本題なんすけど……この作品、DSの2画面の使い方がやばいっす。",
+      "news_index": 3,
+      "start_sec": 201.61,
+      "end_sec": 207.36
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "普通に説明すると、上画面がテキストで、下画面をタッチして謎を解くっす。",
+      "news_index": 3,
+      "start_sec": 207.44,
+      "end_sec": 212.32
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "『普通に説明すると』って言い方、絶対になにか隠してるじゃん。",
+      "news_index": 3,
+      "start_sec": 212.47,
+      "end_sec": 216.78
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "……DSでしか成立しない仕掛けがある、とだけ言っておくっす。",
+      "news_index": 3,
+      "start_sec": 216.93,
+      "end_sec": 220.48
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "気になるのだー! でも聞いたら台無しになるやつなのだ!",
+      "news_index": 3,
+      "start_sec": 220.63,
+      "end_sec": 224.98
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "hisohiso",
+      "text": "その通りっす。だから遊ぶなら、なにも調べずに行ってほしいっす。",
+      "news_index": 3,
+      "start_sec": 225.13,
+      "end_sec": 229.75
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "作ったかたの話するっす。ディレクターとシナリオが打越鋼太郎っす。",
+      "news_index": 4,
+      "start_sec": 229.83,
+      "end_sec": 234.4
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "打越さん、絶対に締め切り前は寝てないタイプなのだ。",
+      "news_index": 4,
+      "start_sec": 234.55,
+      "end_sec": 238.22
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "勝手に生活リズム決めないでほしいっす w。1998年にKIDに入って、翌年にメモリーズオフでシナリオデビューしたかたっす。",
+      "news_index": 4,
+      "start_sec": 238.37,
+      "end_sec": 247.08
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "Ever17とかRemember11とか、あの系譜のかたっす！分かるオタクくんは同志っす！",
+      "news_index": 4,
+      "start_sec": 247.16,
+      "end_sec": 252.76
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "数字がタイトルに入りすぎてて、もう全部同じに見えるのだ。",
+      "news_index": 4,
+      "start_sec": 252.91,
+      "end_sec": 257.68
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "キャラクターデザインが西村キヌっす。元カプコンのかたっすね。",
+      "news_index": 4,
+      "start_sec": 257.83,
+      "end_sec": 261.72
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "カプコンって格闘ゲームのところじゃん。船の上で殴り合いが始まるのだ?",
+      "news_index": 4,
+      "start_sec": 261.87,
+      "end_sec": 267.38
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "始まらないっす。ストリートファイターの販促イラストとか、サイバーボッツを手がけてたかたっす。",
+      "news_index": 4,
+      "start_sec": 267.53,
+      "end_sec": 272.95
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "その絵で密室サスペンスって、画面がガッツリ締まるのだ。",
+      "news_index": 4,
+      "start_sec": 273.1,
+      "end_sec": 277.29
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "それなっす！音楽が細江慎治、プロデューサーがイシイジロウっす！",
+      "news_index": 4,
+      "start_sec": 277.44,
+      "end_sec": 282.3
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "登場人物は9人。主人公が淳平、21歳の大学生っす。",
+      "news_index": 4,
+      "start_sec": 282.38,
+      "end_sec": 287.73
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "9人も出てくると、名前を覚える前に事件が起きそうなのだ。",
+      "news_index": 4,
+      "start_sec": 287.88,
+      "end_sec": 292.06
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そこは親切っす。みんなバングルの番号にちなんだ呼び名で呼び合うっす。",
+      "news_index": 4,
+      "start_sec": 292.21,
+      "end_sec": 296.55
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "5番が淳平なら、ボクは9番のずんだもんを名乗るのだ!",
+      "news_index": 4,
+      "start_sec": 296.7,
+      "end_sec": 300.5
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "shirake",
+      "text": "……先輩、9番だけは絶対にやめたほうがいいっす。",
+      "news_index": 4,
+      "start_sec": 300.65,
+      "end_sec": 304.08
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "な、なんでもないのだ……1番でいいのだ……",
+      "news_index": 4,
+      "start_sec": 304.23,
+      "end_sec": 306.98
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ヒロインが倉式茜、淳平の幼馴染っす。あとは盲目の青年ニルスとか、45歳の大男セブンとか濃い面子っす。",
+      "news_index": 4,
+      "start_sec": 307.13,
+      "end_sec": 315.83
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "hisohiso",
+      "text": "しかもゼロは、9人の中の誰かだって言われてるっす。",
+      "news_index": 4,
+      "start_sec": 315.91,
+      "end_sec": 319.56
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "うわー! それ全員疑うしかないじゃん!",
+      "news_index": 4,
+      "start_sec": 319.71,
+      "end_sec": 322.88
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ここからが一番おいしい話っす。この作品、日本より先に海外で爆発したっす。",
+      "news_index": 5,
+      "start_sec": 323.03,
+      "end_sec": 328.58
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "海外! 船だけに世界一周したのだ?",
+      "news_index": 5,
+      "start_sec": 328.73,
+      "end_sec": 331.63
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "うまいこと言った顔やめてほしいっす w。評価の話っすよ。",
+      "news_index": 5,
+      "start_sec": 331.78,
+      "end_sec": 335.54
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "IGNが10点満点で9点、デストラクトイドはまさかの満点10点っす！",
+      "news_index": 5,
+      "start_sec": 335.62,
+      "end_sec": 340.29
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ゲームスポットが8.5点、メタクリティックの集計が82点っす。ファミ通のクロスレビューも、合計36点っすね。",
+      "news_index": 5,
+      "start_sec": 340.37,
+      "end_sec": 348.06
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "評価は文句なしじゃん。じゃあバカ売れしたのだ?",
+      "news_index": 5,
+      "start_sec": 348.21,
+      "end_sec": 351.29
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "shirake",
+      "text": "……それが、国内は2年でだいたい4万本弱っす。",
+      "news_index": 5,
+      "start_sec": 351.44,
+      "end_sec": 354.76
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "少ないのだ……。評価と売上が全然かみ合ってないのだ。",
+      "news_index": 5,
+      "start_sec": 354.91,
+      "end_sec": 360.17
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "国内は商業的にきつかったっす。でも北米では、想定を超えて好調だったっす。",
+      "news_index": 5,
+      "start_sec": 360.32,
+      "end_sec": 365.7
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "なんで向こうで先にウケたのだ?",
+      "news_index": 5,
+      "start_sec": 365.85,
+      "end_sec": 368.01
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kangae",
+      "text": "ビジュアルノベルって日本特有のジャンルだと思われてたんすよ。開発陣も驚いたって話っす。",
+      "news_index": 5,
+      "start_sec": 368.16,
+      "end_sec": 374.43
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "海の向こうの人が先に価値を見つけたのだ。ちょっとロマンがあるじゃん。",
+      "news_index": 5,
+      "start_sec": 374.58,
+      "end_sec": 379.36
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "しかもIGNの2010年のベストストーリー賞まで獲ってるっす！",
+      "news_index": 5,
+      "start_sec": 379.51,
+      "end_sec": 383.78
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "北米での好評とカルト的な人気が、シリーズ化を後押ししたとされてるっす。",
+      "news_index": 5,
+      "start_sec": 383.86,
+      "end_sec": 388.55
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "物語で賞を獲るって、ノベルゲーにとって最高の勲章じゃん。続編もあるのだ?",
+      "news_index": 5,
+      "start_sec": 388.7,
+      "end_sec": 394.19
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "続編が『善人シボウデス』、そのあと『刻のジレンマ』で三部作が完結っす。",
+      "news_index": 5,
+      "start_sec": 394.34,
+      "end_sec": 399.85
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "三部作まとめてゼロエスケープって呼ばれてるっす。今はスマホもパソコンも据え置きも、移植が揃ってるっす。",
+      "news_index": 5,
+      "start_sec": 399.93,
+      "end_sec": 406.54
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあボクはまず九九から復習してくるのだ。",
+      "news_index": 5,
+      "start_sec": 406.69,
+      "end_sec": 409.41
+    },
+    {
+      "index": 84,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "最後まで引っ張るんすね w。足し算はゲーム側がやってくれるんで、安心してほしいっす。",
+      "news_index": 5,
+      "start_sec": 409.56,
+      "end_sec": 415.08
+    },
+    {
+      "index": 85,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "オタクくん、この作品だけはなにも調べずに遊んでほしいっす。それが一番の贅沢っす。",
+      "news_index": 5,
+      "start_sec": 415.16,
+      "end_sec": 420.69
+    },
+    {
+      "index": 86,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "検索は禁止なのだ! 遊んでから語り合うのだ!",
+      "news_index": 5,
+      "start_sec": 420.84,
+      "end_sec": 424.08
+    },
+    {
+      "index": 87,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "それなっす！遊び終わったら、オタクくん同士でガチ語りしてほしいっす！",
+      "news_index": 5,
+      "start_sec": 424.23,
+      "end_sec": 428.56
+    },
+    {
+      "index": 88,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "というわけで今回はここまでなのだ。また旅の道ラジオで会いましょうなのだー！",
+      "news_index": 5,
+      "start_sec": 428.71,
+      "end_sec": 433.53
+    },
+    {
+      "index": 89,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "会いましょうっす！ オタクくん、またっすよー！",
+      "news_index": 5,
+      "start_sec": 433.68,
+      "end_sec": 436.34
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 437.04,
+      "end_sec": 445.34
+    }
+  ],
+  "wall_time_sec": 9.67,
+  "audio_url": "/audio/indie/20260909_103940.mp3?v=1788984566"
+}
