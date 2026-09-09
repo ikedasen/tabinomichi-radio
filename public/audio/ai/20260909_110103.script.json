@@ -1,0 +1,679 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-09-09T02:01:03.880541+00:00",
+  "title": "OpenAIが90年の難問に証明を出したと発表 〜ナビエ・ストークスと、数学者の告発〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "intro",
+      "text": "こんばんは、旅の道ラジオ夜便。四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今夜は1本を、じっくり掘るのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今夜のテーマは、9月8日にオープンエーアイが出した発表ね。社内のAIが、90年ほど誰も解けなかった数学の難問について、証明を作ったという内容よ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "90年!? そんなに長いあいだ、誰も届かなかった問題があるのだ!?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "あるのよ。でも今夜が重いのは、そこじゃないの。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "難問が崩れたより重い話が、あるのだ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "同じ日にね、ニューヨーク大学の数学者が、自分たちの未発表の研究が先回りされたと告発したの。今夜は両方の言い分を、並べて見ていくわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "告発? 誰が、なにを言ったのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "順を追うわね。登場するのは、ニューヨーク大学の数学研究所にいるトリスタン・バックマスターと、アンソロピック所属の数学者レベント・アルポーゲよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "アンソロピック。オープンエーアイのライバル側にいる人なのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。2人は1年ほどかけて、ナビエ・ストークスの親戚にあたる方程式で、解が壊れる例を作る研究をしていたの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "壊れる例。それが、さっきの難問につながるのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ナビエ・ストークスは、クレイ数学研究所が2000年に並べた7つのミレニアム懸賞問題の1つよ。賞金は1問100万ドルね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "100万ドル!? ボクが一生おやつを買い続けても、使い切れない額なのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "7つのうち解けたのは、ペレルマンが2002年から2003年に証明を出したポアンカレ予想だけ。20年以上たって、まだ1つなの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "20年以上で1つ!? そこに手が届いたら、そりゃ大騒ぎなのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そういうこと。2人はスペインの2人の数学者が開いた、滑らかな外力を使うやり方を土台にしていたわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、その研究はどこで書いてたのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "下書きを、オープンエーアイのコーデックスというプログラミング用のAIに上げて進めていたと説明されているの。ここが後の火種ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "hisohiso",
+      "text": "いまの一言で、ボクの胃がきゅっとしたのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "8月中旬に研究が加速して、外力を加えたオイラー方程式で壊れる構成に成功したそうよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "オイラー? また別の式が出てきたのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "水のねばりを無視した、兄弟みたいな式ね。あとで効いてくるから、覚えておいて。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "兄弟の方で先に成功したのだ。で、次はなにが起きたのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "9月1日ごろ、アンソロピック側が大きな数学の成果を出したらしい、という噂が業界に流れたの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "噂の方が先に走ったのだ!?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "オープンエーアイは、9月1日に噂を聞いて着手したと説明していて、サム・アルトマンもそれを認めているわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "聞いてから走り出したことは、隠してないのだね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "8月1日には、未公開のモデルが未解決の数学の問題を10個進めたという発表もあったから、下地はあったのよね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "助走はできてた、ってことなのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そして9月7日の深夜、バックマスターとアルポーゲが自分たちの結果と声明を先に公開したの。その数時間後に、オープンエーアイが公式発表を出したわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "数時間差!? 同じ日に、2つの発表がぶつかったのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ここからは、ナビエ・ストークス方程式そのものを見ていくわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "そもそも、なんの式なのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "水や空気の動きを書き表す式よ。飛行機の設計も、天気予報も、血液の流れの解析も、この式を計算して回してるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "それ、もう解けてるってことじゃないのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "使えてはいるけど、解けてはいないわ。数値で近づけて答えを出すのと、式そのものの性質を証明するのは、別の仕事なの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "料理は作れるけど、なんで膨らむのかは説明できない、みたいな話なのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "近いわね。決まっていないのは、滑らかな状態から始めた流れが、ずっとそのまま続くのか、どこかで壊れるのか、という問いよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "壊れる? 水が割れるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "式の上で、ある場所の速さが有限の時間で無限大になってしまうことね。そういう点を特異点と呼ぶわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "無限大!? バケツの水をかき混ぜてたら、どこかがとんでもない速さになるってことなのだ!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "現実の水ではまず起きないけれど、式の上で起こりうるのかどうかが、90年ぶんの問いなの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、オープンエーアイはどっちを示したと言ってるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "3次元で、外から力を加え続ける形ね。静止した状態から始めて、有限の時間で速さが無限大になる解を作った、という主張よ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "外から力を加え続ける? 誰が押すのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "式の上の設定よ。決まった押し方をずっと続ける、という条件を付けた形ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "条件付きなのだ。じゃあ、本丸とは違うのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "公式の問題文には4つの形が並んでいて、外力なしで滑らかに続く形と、壊れる形があるの。今回は壊れる側の、外力を加えた形ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "4つのうちの1つに、旗を立てた状態なのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "だから、ミレニアム問題を解いたと言い切るのは、まだ早いわ。賞に値するかはクレイ数学研究所の判断で、決められた形で公表したあと、少なくとも2年の検証期間が要るの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "年単位なのだ!? 発表した日に100万ドルもらえるんじゃないのだ!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "しかもオープンエーアイ自身が、賞金を請求する意図はないと言っているわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、どうやったのだ? 天才のAIが1体で、うんうん唸ったのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "逆よ。10,000体ほどのエージェントを並べて動かして、着手から88時間で答えに届いたと説明しているの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "10,000体!? そんな数の見習いが、寝ずに手分けしてる図なのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "数え方はそれで合ってるわ。計算にかかった費用は、会社の幹部の説明では数百万ドル規模ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "計算の費用でそこまで!? ボクのお小遣いを何万回ためても、届かない額なのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そして肝は次よ。出てきた証明を、リーンという道具に通したの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "りーん? どういう道具なのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "証明を機械が確かめられる厳密な形に書き直して、論理の飛びがないか検査する仕組みね。その形式化と検証に17時間かけて、166ページの文書を公開したと説明されているわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "機械のお墨付きなら、もう正しいと決まったも同然なのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこは慎重にね。前提の立て方が意図どおりかは人が読む話だし、第三者はまだ回し直していないの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "作った本人が、自分で検算しましたと言っている段階なのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。告発した側の2人の結果も一部はリーンで検証済みで、オープンエーアイは2つの証明は内容的に大きく異なると説明しているわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "で、同じ日に出たっていう告発は、なにを言ってるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "バックマスターの主張よ。自分たちの情報が伝わった数日のうちに、オープンエーアイ社内で同じ外力ありという、ほかにほとんど誰も取らない入口の最初の指示が出ていたと知って、疑いを持ったというの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "誰も通らない裏道を、同じ週に通られたみたいな話なのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そして9月5日から6日ごろ、オープンエーアイの数学チームを率いる研究者、セバスチャン・ブベックから連絡が来たと語っているわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "そこで、なにを言われたと言ってるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "オープンエーアイの結果をバックマスターが単独で論文にまとめる案を示され、アンソロピック所属のアルポーゲをそこに入れないよう2度求められた。断ったら、なぜキャリアを棒に振るのか、と言われたという主張ね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "本当なら、かなり重い言葉なのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ここからが大事よ。ブベックはこの告発を、事実と異なり扇動的だと否定しているの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "マジか。真っ向から食い違ってるのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "連絡したのは成果を祝って、知見やプロンプトの共有を申し出るためだったと説明しているの。2人自身の研究から著者を外すよう求めたことはなく、話していたのは別の論文案だったと反論しているわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、あの言葉自体も無かったことになるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこは複雑ね。キャリアの発言そのものは、苛立ちの中での不適切なもので、その場で撤回したと本人も認めているの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "発言はあった、でも意味づけが割れてる。いちばん厄介なやつなのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "会社としてのオープンエーアイは、彼らの研究を公開されるまでいかなる手段でも見ていない、と説明したわ。同時に、製品の利用から生まれた非識別化データが自社モデルの改善に役立った可能性は完全には排除できない、とも認めたの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "見ていない、でも影響はゼロと言い切れない。その2つが並んでるのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこが今いちばん議論されている場所ね。しかもバックマスター自身が、答えは知らないし、オープンエーアイがそうしたと非難しているわけではない、と留保しているわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "告発した本人が、断定は避けてるのだ。ボクらが決めつけたら、追い越しなのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "sasayaki",
+      "text": "芯にあるのは、未発表の作業をAIに預けたとき、それがどこへ行くのかという信頼の問題ね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "あっ、それボクにも刺さるやつじゃん! 出す前の企画とか、書きかけの下書きとか!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "心当たりのあるかた、多いと思うわ。個人向けのAIサービスでは対話がモデルの改善に使われる場合があって、学習に使わないよう申告できる設定を用意しているところもあるの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "おぷとあうと? 学習に使わないで、って言えるボタンなのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういう申告の設定ね。法人向けや開発者向けの契約では、最初から学習に使わない決まりのものもあるから、自分の使い方と契約を1回確かめるのが早いわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "会社の仕事だと、どうすればいいのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "機密は無料の窓口に貼らない。絵や文章を作る人も、発表前のラフや設定を見せる前に、その道具の扱いを先に確かめてほしいわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kanashimi",
+      "text": "研究をしている人は、もっと切実なのだ。名前が消えたら、1年が消えるのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "だから展望の1つ目は、AIと組んだ研究で、誰の名前をどう残すかのルール作りね。学会や出版社でも、議論が進んでいるところよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "証明そのものについては、なにを見ておけばいいのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "見るところは4つ。まず、第三者がリーンの検証を自分の手元で回し直すことね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "よその人が、同じ手順をなぞって答え合わせするのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "企業のブログに載った段階と、査読を通った論文は別物だからね。2つ目はクレイ数学研究所の見解で、理事長は期待を語ったと伝えられているけれど、公式の認定はまだよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "焦らされるのだ。3つ目はなんなのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "オープンエーアイが、利用データの扱いをどこまで具体的に説明するか。排除できないで止めるのか、線を引き直すのかね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "そこが濁ったままだと、預ける側は落ち着かないのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "4つ目はアンソロピックの公式の反応ね。今のところ確認できているのは、本人たちの発言までよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "会社としては、まだ静かなのだ。ほかに見ておくものはあるのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "テレンス・タオの発言ね。フィールズ賞をとった数学者で、バックマスターとアルポーゲの成果を注目すべき達成だと評価しているわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "大物が褒めてるのだ。でも、警告もしてるのだね?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ええ。自動化された仕組みで未解決問題を手当たり次第に掘り尽くすと、そこから育つはずの新しい手法や次の世代の数学者まで損ないかねない、という警告よ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kanashimi",
+      "text": "遠回りや行き止まりで鍛えられるのに、そこを先に均されちゃうってことなのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今夜のまとめね。オープンエーアイは、外力を加えた形のナビエ・ストークスで、解が壊れる例を作ったと発表したわ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "10,000体のエージェントが88時間、機械の検算が17時間。数字はどれも規格外なのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "ただ、ミレニアム問題が解けたと決まったわけじゃないの。認定も検証も、これから年単位よ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "そして同じ日に、告発と反論がぶつかった。ボクらは、どっちの言い分も持ったまま帰るのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "残ったのは、未発表の仕事をAIに預けるとき、それがどこへ行くのかという問いね。聴いてくれてるかた、設定を1回だけ見直す夜にしてもいいかもしれないわ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "旅の道ラジオ夜便、今夜はここまでなのだ。また大きいニュースがあったら、掘りに来るのだ!",
+      "news_index": 5
+    }
+  ],
+  "program_description": "オープンエーアイが9月8日、社内のAIがナビエ・ストークス方程式の証明を作ったと発表しました。背景では、ニューヨーク大学のバックマスターとアンソロピック所属のアルポーゲが1年かけて進めた研究、9月1日に流れた噂、9月7日深夜の先行公開までを追います。技術では、水や空気の動きを表す式の何が90年未解決なのか、外力を加えた形とは何か、10,000体のエージェントが88時間、リーンによる17時間の機械検算を噛み砕きました。含意では、著者を外すよう迫られたという主張と、それを事実と異なると否定する反論、見ていないと排除できないが併存する説明を並べ、未発表の仕事をAIに預ける意味を考えます。展望は第三者検証、クレイ数学研究所の判断、テレンス・タオの警告まで。",
+  "summary_short": "オープンエーアイは9月8日、社内の未公開モデルがナビエ・ストークス方程式について、外から力を加えた条件で解が有限時間で壊れる例を構成したと発表した。約10,000体のAIエージェントを88時間動かし、証明を機械が検算するリーンでの検証に17時間かけたと説明する。同じ日、ニューヨーク大学の数学者トリスタン・バックマスターは、未発表の研究が先回りされた疑いと、アンソロピック所属の共著者を外すよう迫られたと告発した。オープンエーアイの研究者は事実と異なると否定し、問題の発言は撤回したと説明。同社は研究を見ていないとしつつ、非識別化データの影響は完全には排除できないとも認めている。懸賞問題としての認定は未定で、第三者による検証もこれからだ。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20260909_110103_chars.webp",
+    "hero_rel": "/images/topics/tech_20260909_110103.webp",
+    "title": "OpenAIが90年の難問に証明を出したと発表 〜ナビエ・ストークスと、数学者の告発〜",
+    "companies": [
+      "OpenAI",
+      "Claude"
+    ],
+    "thumbnail_ready": true
+  }
+}

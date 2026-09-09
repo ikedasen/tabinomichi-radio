@@ -7,8 +7,8 @@
     <description>ずんだもん × めたん × つむぎが届ける、ゲーム &amp; テックニュース雑談ラジオ。朝便と夜便で毎日更新、レトロから新作まで、最新 AI 動向から業界マクロまで雑談形式でサクッと。</description>
     <language>ja</language>
     <copyright>© 2026 tabinomichi</copyright>
-    <lastBuildDate>Wed, 09 Sep 2026 10:33:07 +0900</lastBuildDate>
-    <pubDate>Wed, 09 Sep 2026 05:18:27 +0900</pubDate>
+    <lastBuildDate>Wed, 09 Sep 2026 11:10:13 +0900</lastBuildDate>
+    <pubDate>Wed, 09 Sep 2026 11:01:03 +0900</pubDate>
     <generator>build_rss_feed.py (tabinomichi radio)</generator>
     <image>
       <url>https://news.tabinomichi.jp/podcast-cover.png?v=1779005902</url>
@@ -29,6 +29,21 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>OpenAIが90年の難問に証明を出したと発表 〜ナビエ・ストークスと、数学者の告発〜</title>
+      <link>https://news.tabinomichi.jp/radio/20260909_110103</link>
+      <guid isPermaLink="false">tabinomichi-radio-20260909_110103</guid>
+      <pubDate>Wed, 09 Sep 2026 11:01:03 +0900</pubDate>
+      <description>オープンエーアイが9月8日、社内のAIがナビエ・ストークス方程式の証明を作ったと発表しました。背景では、ニューヨーク大学のバックマスターとアンソロピック所属のアルポーゲが1年かけて進めた研究、9月1日に流れた噂、9月7日深夜の先行公開までを追います。技術では、水や空気の動きを表す式の何が90年未解決なのか、外力を加えた形とは何か、10,000体のエージェントが88時間、リーンによる17時間の機械検算を噛み砕きました。含意では、著者を外すよう迫られたという主張と、それを事実と異なると否定する反論、見ていないと排除できないが併存する説明を並べ、未発表の仕事をAIに預ける意味を考えます。展望は第三者検証、クレイ数学研究所の判断、テレンス・タオの警告まで。</description>
+      <content:encoded><![CDATA[オープンエーアイが9月8日、社内のAIがナビエ・ストークス方程式の証明を作ったと発表しました。背景では、ニューヨーク大学のバックマスターとアンソロピック所属のアルポーゲが1年かけて進めた研究、9月1日に流れた噂、9月7日深夜の先行公開までを追います。技術では、水や空気の動きを表す式の何が90年未解決なのか、外力を加えた形とは何か、10,000体のエージェントが88時間、リーンによる17時間の機械検算を噛み砕きました。含意では、著者を外すよう迫られたという主張と、それを事実と異なると否定する反論、見ていないと排除できないが併存する説明を並べ、未発表の仕事をAIに預ける意味を考えます。展望は第三者検証、クレイ数学研究所の判断、テレンス・タオの警告まで。]]></content:encoded>
+      <enclosure url="https://news.tabinomichi.jp/audio/ai/20260909_110103.mp3?v=1788919812" length="11296643" type="audio/mpeg"/>
+      <itunes:title>OpenAIが90年の難問に証明を出したと発表 〜ナビエ・ストークスと、数学者の告発〜</itunes:title>
+      <itunes:summary>オープンエーアイが9月8日、社内のAIがナビエ・ストークス方程式の証明を作ったと発表しました。背景では、ニューヨーク大学のバックマスターとアンソロピック所属のアルポーゲが1年かけて進めた研究、9月1日に流れた噂、9月7日深夜の先行公開までを追います。技術では、水や空気の動きを表す式の何が90年未解決なのか、外力を加えた形とは何か、10,000体のエージェントが88時間、リーンによる17時間の機械検算を噛み砕きました。含意では、著者を外すよう迫られたという主張と、それを事実と異なると否定する反論、見ていないと排除できないが併存する説明を並べ、未発表の仕事をAIに預ける意味を考えます。展望は第三者検証、クレイ数学研究所の判断、テレンス・タオの警告まで。</itunes:summary>
+      <itunes:image href="https://news.tabinomichi.jp/images/og/20260909_110103.jpg"/>
+      <itunes:duration>11:45</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>たい焼きの型を替える朝 〜財布を預けるAIと、唐辛子のチップ〜</title>
       <link>https://news.tabinomichi.jp/radio/20260909_051827</link>
