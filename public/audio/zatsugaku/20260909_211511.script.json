@@ -1,0 +1,796 @@
+{
+  "profile": "zatsugaku",
+  "generated_at": "2026-09-09T12:15:11.732300+00:00",
+  "title": "氷が滑るのは体重の圧力で融けるからではない 〜表面で転がっている分子の話〜",
+  "segments": [
+    {
+      "speaker": "ankomon",
+      "tone": "mic",
+      "text": "旅の道ラジオ、雑学チャンネル。あんこもんだもん。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ずんだもんなのだ! 今日はどんなネタを持ってきたのだ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "今日のお題は氷だもん。どうして氷の上だけ、あんなに滑るのかって話だもん。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "氷なのだ? そんなの簡単なのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "shirake",
+      "text": "言ってみるもん。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "体重で圧力がかかって、氷が融けて水になるからなのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "出たもん、それ。昔の教科書にも、そう書いてあったやつだもん。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "合ってるのだ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "数字を出すと、全然足りないもん。今日こそ、ずんだもんに負けを認めさせるもん。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "足りないって、どういうことなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "圧力をかけると氷の融ける温度が下がるのは、本当だもん。でも下がる量がすごく小さいもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "どのくらいなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "1気圧増やして、たったの0.0072度だもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "0.0072度!? 小数点の下に、ゼロが2個も並んでるのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "スケート靴の刃で計算しても、圧力は3.3メガパスカルくらいだもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "メガパスカル? ボクには難しすぎるのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "圧力の単位だもん。1メガパスカルが、だいたい10気圧だもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあ3.3メガパスカルで、33気圧くらいなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "そう。それで融ける温度が下がるのは、0.24度だもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shirake",
+      "text": "0.24度なのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "マイナス0.24度だもん。それより寒い氷は、体重をかけても融けないもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "でもスケートリンクって、そんなに寒くないんじゃないのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "フィギュアスケートのリンクはマイナス5.5度、アイスホッケーはマイナス9度だもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "0.24度どころじゃないのだ! 全然届いてないじゃん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "しかも人間は、マイナス30度の氷の上でも普通に滑れるもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "じゃあ、あの説はどこから来たのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "1886年に、ジョン・ジョリーという人が計算したもん。スケートの刃が466気圧をかけて、融ける温度がマイナス3.5度まで下がるって。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "おお、ちゃんと計算してるじゃん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "当時としては真面目な計算だもん。ただ、刃が氷に触る面積を、小さく見すぎていたもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "面積を小さく見ると、圧力は大きく出るのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "そう。同じ体重でも、支える面積が狭いほど圧力は上がるもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ボクが片足で立つと、両足のときの倍の圧力なのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "shirake",
+      "text": "まあ、そういうことだもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "でも実際の刃って、そんなに細いんじゃないのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "刃の裏は真ん中がへこんでいて、両側のふちだけが氷に当たるもん。それでも466気圧には届かないもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "圧力じゃないなら、何なのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "答えを先に言うもん。氷の表面には、氷点下でも動き回れる水分子がいるもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "氷点下なのに、動いてるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "そう。氷が氷のままなのに、いちばん外側の分子だけは自由に動けるもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "気になるのだ! これ、誰が見つけたのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "ファラデーだもん。電気の実験で有名な、あのマイケル・ファラデーだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "電気の人が、氷の話をしてるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "1850年6月7日に、王立研究所で実験を見せてるもん。2つの氷を押し当てると、くっついて1つになる実験だもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "雪玉を握ると固まるのと、同じやつなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "近いもん。氷どうしがくっつく方は、復氷って呼ばれてるもん。",
+      "news_index": 2,
+      "reading": "マサニソレダモン。フクヒョウッテヨバレテルモン。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "フクヒョウ? 何なのだ、それ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "一度ゆるんだ表面が、また凍って1つに戻る現象だもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、ファラデーは何て言ったのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "1859年に、氷の表面には氷点下でも薄い液体の膜がある、って言ったもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "170年近く前に、もう言ってたのだ!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "ただ、当時は圧力だけで説明できるって主張した人もいたもん。ジェームズ・トムソンだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "どっちが勝ったのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "shirake",
+      "text": "結局、両方が部分的に正しかったもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあさ、滑るときの摩擦の熱で融けてるんじゃないのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "惜しいもん。それは本当に起きてるもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "当たったのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "でも、それだけじゃ足りないもん。1939年にボーデンとヒューズという2人が、実験から摩擦の熱で水の膜ができるって唱えたもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ちゃんと実験してるのだ。じゃあ何が足りないのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "止まってるときだもん。こすってもいないのに、氷はもう滑りやすいもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "立った瞬間に、ツルッといくやつなのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "しかも、うんと寒い氷でも滑るもん。摩擦の熱で融かすのには限界があるもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "圧力もダメ、摩擦だけでもダメ。氷、手強すぎるのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "ここからが本題だもん。さっき言った、表面の層の正体だもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "水の膜が張ってるんでしょ? もう分かったのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "そこがズレてるもん。水の膜って言うと、だいたい間違えるもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、膜じゃないのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "厚さを測ると、マイナス24度で12ナノメートル、マイナス0.7度で70ナノメートルだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "ナノメートル? 全然ピンとこないのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "1ナノメートルは、1ミリの100万分の1だもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "100万分の1! それ、膜っていうより表面そのものなのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "2018年に、オランダとドイツの研究チームが分子のレベルで調べたもん。表面の水分子は、2種類あったもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "2種類なのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "手を3本使って下の氷にくっついてる分子と、2本しか使ってなくて動き回れる分子だもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "手って何なのだ? ボクには難しすぎるのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "水素結合っていう、分子どうしをつなぐ弱い手だもん。氷の中では4本ぜんぶ使って、隣とがっちり組んでるもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "表面の分子は、上に相手がいないから手が余るのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "hazukashi",
+      "text": "そう。まさに、そういうことだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ボク、今いいこと言ったのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "shirake",
+      "text": "言ってないもん。次いくもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "それで、手が2本しかない分子はどうなるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "熱の振動で、小さい球みたいに氷の上を転がり続けてるもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "転がってるのだ!? 膜じゃなくて、玉なのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "研究チームの結論は、液体の膜があるからじゃなくて、動ける分子が多いからだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "じゃあ寒いほどツルツルなのだ? カチカチの方が、よく滑りそうなのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "違うもん。摩擦がいちばん小さくなるのは、マイナス7度だもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "マイナス7度! ピンポイントすぎるのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "それより寒いと、動ける分子が減っていくもん。転がる玉が少なくなる感じだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ0度に近い方がいいんじゃないのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "そっちは氷が柔らかくなるもん。刃が深く食い込んで、かえって引っかかるもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "玉は多いけど、地面がぬかるむのだ。ちょうどいい真ん中がマイナス7度なのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "うまい言い方だもん。しかもスピードスケートのリンクが、まさにマイナス7度に設定されてるもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "実験で出た数字と、現場の数字が一致してるのだ!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "nagomi",
+      "text": "選手や技術者は、経験でとっくにその温度にたどり着いてたもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "理屈があとから追いついたのだ。かっこいいのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "要するに、氷は勝手に融けてるんじゃなくて、表面が最初からゆるいだけだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でもさ、なんで氷だけこんなに滑るのだ? 氷が特別な物質なのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "そこも違うもん。氷は、そんなに特別じゃないもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、特別じゃないのだ!?",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "表面から先に融けはじめるのは、氷だけじゃないもん。1985年に鉛の結晶で、全体が融ける温度の約40度も手前から観測されてるもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "鉛も、表面が先に融けるのだ! 40度も手前なのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "そう。氷が特別なんじゃなくて、氷の融ける温度が、たまたま人間の暮らす温度のすぐそこにあるだけだもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "それ、めちゃくちゃ大きい話なのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "nagomi",
+      "text": "鉛の表面が同じことをしてても、人間はその温度で歩き回れないもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、圧力で融ける話は完全に間違いだったのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "それも違うもん。ちゃんと効く場所があるもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "どこなのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "氷河の底だもん。何百メートルもの氷が上に乗ってるから、圧力のかかり方が桁違いだもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "体重どころじゃないのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "底が圧力で融ける温度に届いていると、氷河は地面の上をすべって動くもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "岩とかにぶつかったら、どうするのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "岩の手前で圧力が上がって融けて、通り過ぎた先でまた凍るもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "それ、さっきのフクヒョウじゃん!",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "そう。ファラデーが見せた実験と、同じ復氷の仲間だもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあ、これで氷の謎は全部解けたのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "hisohiso",
+      "text": "それが、まだなんだもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "まだ揉めてるのだ!?",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "2025年に、ドイツのザールラント大学のチームが、別の説を出したもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "どんな説なのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "滑ること自体が氷の結晶をこわして、バラバラの層を作ってるっていう説だもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "融けるんじゃなくて、こわれるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "そう。それなら、動ける分子がほとんど無いような極寒でも滑る理由が説明できるもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "本当のところは、どっちなのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "論文を出した本人が、全部が組み合わさってるのかもしれないし、まだ知らない何かかもしれない、って言ってるもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shirake",
+      "text": "本人が分かってないのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "mic",
+      "text": "そろそろ時間だもん。今日のまとめだもん。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "氷が滑るのは、体重で融けてるからじゃないのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "表面が最初からゆるいのは確かだけど、決め手が何かはまだ研究中だもん。今日はあんこもんの勝ちだもん。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "でもボク、水素結合のところで1回当てたのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "hazukashi",
+      "text": "聞こえなかったもん。旅の道ラジオ、雑学チャンネルでした。",
+      "news_index": 0
+    }
+  ],
+  "program_description": "氷の上だけ、どうしてあんなに滑るのか。【問い】では、体重の圧力で氷が融けるという定番の答えを数字で確かめます。圧力が1気圧増えても融ける温度は0.0072度しか下がらず、スケート靴の3.3メガパスカルでは0.24度。フィギュアのリンクはマイナス5.5度、ホッケーはマイナス9度で、人はマイナス30度でも滑れます。【解説】ではファラデーが1859年に表面の薄い膜を唱えていたこと、摩擦の熱では止まっているときを説明できないこと、水素結合を2本しか使わない分子が小さな球のように転がっていること、摩擦が最小のマイナス7度がスピードスケートのリンク温度と一致することをたどりました。【広がり】では鉛の結晶でも表面が先に融けること、圧力融解が本当に効くのは氷河の底であること、2025年の新説に触れました。",
+  "featured_game": {
+    "title": "氷が滑るのは体重の圧力で融けるからではない",
+    "topic": "氷が滑るのは圧力融解ではなく表面の動きやすい水分子",
+    "category": "science",
+    "dedup_verified": true,
+    "image_rel": "/images/topics/zatsugaku_20260909_211511_chars.webp",
+    "hero_rel": "/images/topics/zatsugaku_20260909_211511.webp",
+    "genres": [
+      "雑学",
+      "科学"
+    ],
+    "thumbnail_ready": true
+  }
+}
