@@ -1,0 +1,664 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-08-12T03:21:27.081838+00:00",
+  "title": "千年越しの花 〜ジパングに響いたオーケストラ〜",
+  "segments": [
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "旅の道ラジオへようこそなのだ！ パーソナリティのずんだもんなのだ！",
+      "reading": "たびのみちラジオへようこそなのだ！ パーソナリティのずんだもんなのだ！",
+      "news_index": 0
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "intro",
+      "text": "ちっす！ 今回もレトロゲー回、あーしが担当するっすよ！",
+      "reading": "ちっす！ こんかいもレトロゲーかい、あーしがたんとうするっすよ！",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "つむぎ、今回はなんのゲームなのだ？",
+      "reading": "つむぎ、こんかいはなんのゲームなのだ？",
+      "news_index": 0
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "お題は『天外魔境II 卍MARU』っす！ PCエンジンのシーディーロム機で出た、ジパングが舞台の和風ロールプレイングゲームっす",
+      "reading": "おだいは、てんがいまきょうツー まんじまるっす！ ピーシーエンジンのシーディーロムきででた、ジパングがぶたいのわふうロールプレイングゲームっす",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "天外魔境……。天狗が外で魔境を作る話なのだ？",
+      "reading": "てんがいまきょう……。てんぐがそとでまきょうをつくるはなしなのだ？",
+      "news_index": 0
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "天狗は一匹も出ないっす先輩。出てくるのは火の一族と根の一族っすよ",
+      "reading": "てんぐはいっぴきもでないっすせんぱい。でてくるのはひのいちぞくとねのいちぞくっすよ",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "つまり和風の一族対決ゲームってことなのだ。",
+      "reading": "つまりわふうのいちぞくたいけつゲームってことなのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "発売は1992年3月26日、パブリッシャーはハドソンっす。",
+      "reading": "はつばいはせんきゅうひゃくきゅうじゅうにねんさんがつにじゅうろくにち、パブリッシャーはハドソンっす。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "1992年って、ボクが生まれる前の前の前くらいなのだ。",
+      "reading": "せんきゅうひゃくきゅうじゅうにねんって、ボクがうまれるまえのまえのまえくらいなのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "先輩の年齢設定が急に増えたっす。開発はハドソンとレッドカンパニーとアルファシステムの3社共同っすよ",
+      "reading": "せんぱいのねんれいせっていがきゅうにふえたっす。かいはつはハドソンとレッドカンパニーとアルファシステムのさんしゃきょうどうっすよ",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "3社って、多すぎて誰が決めてるのか分からなくなるやつなのだ。",
+      "reading": "さんしゃって、おおすぎてだれがきめてるのかわからなくなるやつなのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "揉めてる前提で語らないでほしいっす。逆に3社ぶんの人手を注ぎ込んだ大作、って話っすよ",
+      "reading": "もめてるぜんていでかたらないでほしいっす。ぎゃくにさんしゃぶんのひとでをつぎこんだたいさく、ってはなしっすよ",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ハドソンは売る側でも作る側でもあるってことなのだ。",
+      "reading": "ハドソンはうるがわでもつくるがわでもあるってことなのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "そこ正確っす先輩、さすがっす。で、ファミ通のクロスレビューが9・6・9・8で合計32点、ゴールド殿堂っすよ",
+      "reading": "そこせいかくっすせんぱい、さすがっす。で、ファミつうのクロスレビューがきゅう・ろく・きゅう・はちでごうけいさんじゅうにてん、ゴールドでんどうっすよ",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "6の人だけ機嫌が悪かったのだ？",
+      "reading": "ろくのひとだけきげんがわるかったのだ？",
+      "news_index": 1
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "そこ拾うのやめてあげてほしいっす。4人中3人が9点前後なんで、当時としては相当な高評価っす",
+      "reading": "そこひろうのやめてあげてほしいっす。よにんちゅうさんにんがきゅうてんぜんごなんで、とうじとしてはそうとうなこうひょうかっす",
+      "news_index": 1
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "もっとヤバいのが月刊PCエンジンFANの読者点っす！ 30点満点で27.92点、1993年の時点でPCエンジン全ソフト485本中1位っすよ",
+      "reading": "もっとヤバいのがげっかんピーシーエンジンファンのどくしゃてんっす！さんじゅってんまんてんでにじゅうななてんきゅうにてん、せんきゅうひゃくきゅうじゅうさんねんのじてんでピーシーエンジンぜんソフトよんひゃくはちじゅうごほんちゅういちいっすよ",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "485本中1位って、もう2位から下は全部おまけなのだ！",
+      "reading": "よんひゃくはちじゅうごほんちゅういちいって、もうにいからしたはぜんぶおまけなのだ！",
+      "news_index": 1
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "下の484本にも人生があるっす先輩。要するに、読者が選んだPCエンジンの頂点だったって話っすね",
+      "reading": "したのよんひゃくはちじゅうよんほんにもじんせいがあるっすせんぱい。ようするに、どくしゃがえらんだピーシーエンジンのちょうてんだったってはなしっすね",
+      "news_index": 1
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "舞台は『ジパング』っていう架空の国っす。外国のかたが想像した変な日本、みたいな世界観っすね",
+      "reading": "ぶたいは、ジパングっていうかくうのくにっす。がいこくのかたがそうぞうしたへんなにっぽん、みたいなせかいかんっすね",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "海外の店で出てくるお寿司みたいなノリなのだ。",
+      "reading": "かいがいのみせででてくるおすしみたいなノリなのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "それなっす！ 侍も忍者もいるのに、どこかズレてるのを全力でやり切ってるのが強みっす",
+      "reading": "それなっす！ さむらいもにんじゃもいるのに、どこかズレてるのをぜんりょくでやりきってるのがつよみっす",
+      "news_index": 2
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "その国で1000年前に、火の一族と根の一族が大戦争してるっす。火の一族がかろうじて勝ったっすね",
+      "reading": "そのくにでせんねんまえに、ひのいちぞくとねのいちぞくがだいせんそうしてるっす。ひのいちぞくがかろうじてかったっすね",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "じゃあ根の一族は消えたのだ！",
+      "reading": "じゃあねのいちぞくはきえたのだ！",
+      "news_index": 2
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "そこが違うっす。滅びきってなくて、復活の機会をずっと待ってたっすよ",
+      "reading": "そこがちがうっす。ほろびきってなくて、ふっかつのきかいをずっとまってたっすよ",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "1000年待つって、気が長すぎるのだ。",
+      "reading": "せんねんまつって、きがながすぎるのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "kangae",
+      "text": "根気で言えば根の一族の圧勝っすね。で、その根の一族が世界征服に使った巨大な花が『暗黒ラン』っす",
+      "reading": "こんきでいえばねのいちぞくのあっしょうっすね。で、そのねのいちぞくがせかいせいふくにつかったきょだいなはながあんこくランっす",
+      "news_index": 2
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "……はい、前半スベったんで戻すっす。要するに、千年越しのリベンジを花で仕掛けてくる話っすね",
+      "reading": "……はい、ぜんはんスベったんでもどすっす。ようするに、せんねんごしのリベンジをはなでしかけてくるはなしっすね",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "花が兵器なのだ。主人公は誰なのだ？",
+      "reading": "はながへいきなのだ。しゅじんこうはだれなのだ？",
+      "news_index": 3
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "戦国卍丸っす！ 火の一族の末裔の少年で、15歳っすね",
+      "reading": "せんごくまんじまるっす！ ひのいちぞくのまつえいのしょうねんで、じゅうごさいっすね",
+      "news_index": 3
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "名前からもう強いっすよね。父親を根の一族に殺されてて、母親のお春と2人暮らしで育ったっす",
+      "reading": "なまえからもうつよいっすよね。ちちおやをねのいちぞくにころされてて、ははおやのおはるとふたりぐらしでそだったっす",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "けっこう重い出だしなのだ……。",
+      "reading": "けっこうおもいでだしなのだ……。",
+      "news_index": 3
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "重いっすけど、卍丸自身はカラッとしてるのが救いっす。で、仲間がまた濃いんすよ",
+      "reading": "おもいっすけど、まんじまるじしんはカラッとしてるのがすくいっす。で、なかまがまたこいんすよ",
+      "news_index": 3
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "まずカブキ団十郎、自称ジパング一の伊達男っす。19歳で、尾張のヘビ仙人の弟子っすよ",
+      "reading": "まずカブキだんじゅうろう、じしょうジパングいちのだておとこっす。じゅうきゅうさいで、おわりのヘビせんにんのでしっすよ",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ヘビ仙人に弟子入りしてる時点で、もう伊達男じゃないのだ。",
+      "reading": "ヘビせんにんにでしいりしてるじてんで、もうだておとこじゃないのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "言われてみればっすね。しかもこの人、自分が目立ちたいって理由で根の一族と戦ってるっす",
+      "reading": "いわれてみればっすね。しかもこのひと、じぶんがめだちたいってりゆうでねのいちぞくとたたかってるっす",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "動機が軽いのだー！ ボクはそこが好きなのだ",
+      "reading": "どうきがかるいのだー！ ボクはそこがすきなのだ",
+      "news_index": 3
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "分かるオタクくんは同志っすよね！ 正義感ゼロで動く仲間、最高っす",
+      "reading": "わかるオタクくんはどうしっすよね！ せいぎかんゼロでうごくなかま、さいこうっす",
+      "news_index": 3
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "もう1人が極楽太郎っす。1000年前の戦争の生き残りで、年齢は1024歳っす",
+      "reading": "もうひとりがごくらくたろうっす。せんねんまえのせんそうのいきのこりで、ねんれいはせんにじゅうよんさいっす",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "1024歳って、誕生日ケーキのろうそくで火事になるのだ。",
+      "reading": "せんにじゅうよんさいって、たんじょうびケーキのろうそくでかじになるのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "火の一族の話にケーキ持ち込まないでほしいっす。恋人だった人魚、千代の涙を飲んで千年の寿命を得たっすよ",
+      "reading": "ひのいちぞくのはなしにケーキもちこまないでほしいっす。こいびとだったにんぎょ、ちよのなみだをのんでせんねんのじゅみょうをえたっすよ",
+      "news_index": 3
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "ヒロインは絹っす！ 14歳の薄幸の少女っすね",
+      "reading": "ヒロインはきぬっす！ じゅうよんさいのはっこうのしょうじょっすね",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "薄幸って、体力が低いってことなのだ？",
+      "reading": "はっこうって、たいりょくがひくいってことなのだ？",
+      "news_index": 3
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "ステータスの話じゃないっす先輩。父親が鬼族の首領の酒天童子で、母親が火の一族っていう出自っすよ",
+      "reading": "ステータスのはなしじゃないっすせんぱい。ちちおやがおにぞくのしゅりょうのしゅてんどうじで、ははおやがひのいちぞくっていうしゅつじっすよ",
+      "news_index": 3
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "この出自が物語をずっと引っ張るんで、先は実際に遊んで確かめてほしいっす。",
+      "reading": "このしゅつじがものがたりをずっとひっぱるんで、さきはじっさいにあそんでたしかめてほしいっす。",
+      "news_index": 3
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "ここからガチで語らせてもらうっす。オーケストラの音楽、声優のボイス、ムービーを全部シーディーロムに詰め込んだのがこの作品っす",
+      "reading": "ここからガチでかたらせてもらうっす。オーケストラのおんがく、せいゆうのボイス、ムービーをぜんぶシーディーロムにつめこんだのがこのさくひんっす",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "当時のゲームって、ピー音だけじゃないのだ？",
+      "reading": "とうじのゲームって、ピーおんだけじゃないのだ？",
+      "news_index": 4
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そのイメージが普通の時代っす。そこにフルオーケストラをぶつけてきたのが、この作品っすね",
+      "reading": "そのイメージがふつうのじだいっす。そこにフルオーケストラをぶつけてきたのが、このさくひんっすね",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "声優は何人くらいなのだ？",
+      "reading": "せいゆうはなんにんくらいなのだ？",
+      "news_index": 4
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "24名っす！ 1992年のゲームで24名は、当時としてはとんでもない規模っす",
+      "reading": "にじゅうよんめいっす！せんきゅうひゃくきゅうじゅうにねんのゲームでにじゅうよんめいは、とうじとしてはとんでもないきぼっす",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "24人って、もうアニメなのだ！",
+      "reading": "にじゅうよにんって、もうアニメなのだ！",
+      "news_index": 4
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "体感それに近いっす。そして音楽監督が久石譲っすよ",
+      "reading": "たいかんそれにちかいっす。そしておんがくかんとくがひさいしじょうっすよ",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "えっ、あの久石譲なのだ！？",
+      "reading": "えっ、あのひさいしじょうなのだ！？",
+      "news_index": 4
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "あの久石譲っす！ サウンドトラックのクレジットに、9曲を作曲・編曲したって明記されてるっす",
+      "reading": "あのひさいしじょうっす！ サウンドトラックのクレジットに、きゅうきょくをさっきょく・へんきょくしたってめいきされてるっす",
+      "news_index": 4
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "しかもオープニングやエンディングを含む一部は、フルオーケストラの演奏で録音されてるっす。久石譲みずから指揮を執ったって記録が残ってるっすね",
+      "reading": "しかもオープニングやエンディングをふくむいちぶは、フルオーケストラのえんそうでろくおんされてるっす。ひさいしじょうみずからしきをとったってきろくがのこってるっすね",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "指揮台に立ってる絵が浮かぶのだ……。ボク、その話だけで泣けるのだ",
+      "reading": "しきだいにたってるえがうかぶのだ……。ボク、そのはなしだけでなけるのだ",
+      "news_index": 4
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "あーしもそこがガチで震えるっす！ ゲーム音楽の格が一段上がった瞬間っすね",
+      "reading": "あーしもそこがガチでふるえるっす！ ゲームおんがくのかくがいちだんあがったしゅんかんっすね",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "hisohiso",
+      "text": "ここだけの話、ボクはさっきからその話を待ってたのだ。",
+      "reading": "ここだけのはなし、ボクはさっきからそのはなしをまってたのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "作り手の話もするっす。総監督が桝田省治、企画と監修が広井王子っす",
+      "reading": "つくりてのはなしもするっす。そうかんとくがますだしょうじ、きかくとかんしゅうがひろいこうじっす",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "2人で分けてるのだ。",
+      "reading": "ふたりでわけてるのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "役割が違うっす。シリーズを立ち上げたのが広井王子で、この2作目の現場と脚本を仕切ったのが桝田省治っすね",
+      "reading": "やくわりがちがうっす。シリーズをたちあげたのがひろいこうじで、このにさくめのげんばときゃくほんをしきったのがますだしょうじっすね",
+      "news_index": 5
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "で、ここで有名な延期伝説が来るっす。",
+      "reading": "で、ここでゆうめいなえんきでんせつがくるっす。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "延期なのだ？",
+      "reading": "えんきなのだ？",
+      "news_index": 5
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "もともと1991年の年末に出る予定が、翌年の春までズレたっす。",
+      "reading": "もともとせんきゅうひゃくきゅうじゅういちねんのねんまつにでるよていが、よくねんのはるまでズレたっす。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "半年待たされるって、当時の子供には永遠なのだ。",
+      "reading": "はんとしまたされるって、とうじのこどもにはえいえんなのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "namidame",
+      "text": "それなっす……。ただ理由は語られてないんで、あーしも断定はしないっす",
+      "reading": "それなっす……。ただりゆうはかたられてないんで、あーしもだんていはしないっす",
+      "news_index": 5
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "で、待たされるファン向けに、序盤の体験版を収録したソフト集が1991年12月に出たっす！",
+      "reading": "で、またされるファンむけに、じょばんのたいけんばんをしゅうろくしたソフトしゅうがせんきゅうひゃくきゅうじゅういちねんじゅうにがつにでたっす！",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "体験版で我慢しろってことなのだ。",
+      "reading": "たいけんばんでがまんしろってことなのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そうっす。しかも『ドラゴンスレイヤー英雄伝説』の体験版も一緒に入ってたっす",
+      "reading": "そうっす。しかもドラゴンスレイヤーえいゆうでんせつのたいけんばんもいっしょにはいってたっす",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "2本立てで機嫌を取りに来てるのだ。",
+      "reading": "にほんだてできげんをとりにきてるのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "あーしはそのソフト集も中古屋で発掘したっす！ この話をギャル友達にしたら、真顔で黙られたっす",
+      "reading": "あーしはそのソフトしゅうもちゅうこやではっくつしたっす！このはなしをギャルともだちにしたら、まがおでだまられたっす",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "つむぎ、そのギャル友達って実在するのだ？",
+      "reading": "つむぎ、そのギャルともだちってじつざいするのだ？",
+      "news_index": 5
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "shirake",
+      "text": "……先輩。",
+      "reading": "……せんぱい。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "な、なんでもないのだ……ごめんなさいなのだ……",
+      "reading": "な、なんでもないのだ……ごめんなさいなのだ……",
+      "news_index": 5
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "コホン、話を戻すっす。この作品、後の世代でも何度も出し直されてるっす",
+      "reading": "コホン、はなしをもどすっす。このさくひん、のちのせだいでもなんどもだしなおされてるっす",
+      "news_index": 6
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "2003年にゲームキューブ版とプレイステーション2版が出てるっす。こっちは3D化のフルリメイクっすね",
+      "reading": "にせんさんねんにゲームキューブばんとプレイステーションツーばんがでてるっす。こっちはスリーディーかのフルリメイクっすね",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "まるごと作り直しなのだ！",
+      "reading": "まるごとつくりなおしなのだ！",
+      "news_index": 6
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "2006年のニンテンドーDS版は逆っす。PCエンジン版を忠実に再現する方向で作られてるっす",
+      "reading": "にせんろくねんのニンテンドーディーエスばんはぎゃくっす。ピーシーエンジンばんをちゅうじつにさいげんするほうこうでつくられてるっす",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "作りかたの向きが真逆なのだ。",
+      "reading": "つくりかたのむきがまぎゃくなのだ。",
+      "news_index": 6
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そうっす。ちなみにDS版の売上は1万7000本っす",
+      "reading": "そうっす。ちなみにディーエスばんのうりあげはいちまんななせんぼんっす",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "思ったより少ないのだ……。",
+      "reading": "おもったよりすくないのだ……。",
+      "news_index": 6
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "kangae",
+      "text": "時代っすねー。2011年にはゲームアーカイブスで、PCエンジン版そのものの配信もされたっす",
+      "reading": "じだいっすねー。にせんじゅういちねんにはゲームアーカイブスで、ピーシーエンジンばんそのもののはいしんもされたっす",
+      "news_index": 6
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "オタクくんに言いたいのは1つっす。ジパングは一度は歩いてみてほしい国っす",
+      "reading": "オタクくんにいいたいのはひとつっす。ジパングはいちどはあるいてみてほしいくにっす",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ボクは天狗を探しに行くのだ。",
+      "reading": "ボクはてんぐをさがしにいくのだ。",
+      "news_index": 6
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "まだ言ってるんすか。天狗はいないっす、いるのは火の一族っす",
+      "reading": "まだいってるんすか。てんぐはいないっす、いるのはひのいちぞくっす",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "じゃあ卍丸に弟子入りするのだー！",
+      "reading": "じゃあまんじまるにでしいりするのだー！",
+      "news_index": 6
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "それはアリっす！ というわけで今回はここまでっす",
+      "reading": "それはアリっす！ というわけでこんかいはここまでっす",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "また旅の道ラジオで会いましょうなのだー！",
+      "reading": "またたびのみちラジオであいましょうなのだー！",
+      "news_index": 6
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ちっす、またっすー！",
+      "reading": "ちっす、またっすー！",
+      "news_index": 6
+    }
+  ],
+  "program_description": "今回のテーマは、1992年3月26日にPCエンジンのCD-ROM機で発売された『天外魔境II 卍MARU』。ファミ通クロスレビューで合計32点のゴールド殿堂、月刊PCエンジンFANの読者点では1993年時点のPCエンジン全ソフト485本中1位に立った、ハードを代表する和風RPGです。架空の国ジパングを舞台にした、千年前の戦争を引きずる火の一族と根の一族の対立。そして火の一族の末裔・戦国卍丸、伊達男を自称するカブキ団十郎、1024歳の極楽太郎、鬼族の血を引く絹という濃すぎる面々を紹介します。オーケストラ音楽と24名の声優ボイスを詰め込んだCD-ROMの衝撃、音楽監督の久石譲が9曲を手がけ一部では自ら指揮を執った話、1991年末から翌春へずれ込んだ延期伝説、その後のリメイクや配信の系譜まで掘り下げる回。ずんだもんが最後まで天狗を探し続けます。",
+  "featured_game": {
+    "app_id": null,
+    "igdb_id": 145890,
+    "title": "天外魔境II 卍MARU",
+    "image_rel": "/images/topics/indie_20260911_051002_chars.webp",
+    "hero_rel": "/image/games/igdb_145890.jpg",
+    "screenshot_rels": [
+      "/image/games/igdb_145890_ss1.jpg",
+      "/image/games/igdb_145890_ss2.jpg",
+      "/image/games/igdb_145890_ss3.jpg",
+      "/image/games/igdb_145890_ss4.jpg"
+    ],
+    "developers": [
+      "Red Entertainment"
+    ],
+    "publishers": [
+      "Hudson Soft"
+    ],
+    "genres": [
+      "Role-playing (RPG)"
+    ],
+    "release_date": "1992-03-26",
+    "short_description": "This is a remake of the original Tengai Makyou II game for PC Engine. You control Majinmaru, a young warrior who is chosen by the destiny to rid the ancient world of Jipang from the evil, and the allies he meets on his journey. The game is set in a unique alternative medieval Japan, a world which is mostly based on the European's image of Japan, with deliberately exaggerated characteristics and clichés. The graphics have been completely remade, although the 3D characters were made to look in the style of old 2D RPGs. There are also many anime-style videos who have a distinctly comic look. The ",
+    "alttitle": "Far East of Eden II: Manjimaru"
+  },
+  "bank_meta": {
+    "built_at": "2026-08-12T12:23:31.510827",
+    "title": "天外魔境II 卍MARU",
+    "title_spec": "天外魔境II 卍MARU|Far East of Eden II: Manjimaru",
+    "variant": "retro",
+    "built_ts": "20260812_122127",
+    "residual_cleaned": true
+  }
+}
