@@ -7,8 +7,8 @@
     <description>ずんだもん × めたん × つむぎが届ける、ゲーム &amp; テックニュース雑談ラジオ。朝便と夜便で毎日更新、レトロから新作まで、最新 AI 動向から業界マクロまで雑談形式でサクッと。</description>
     <language>ja</language>
     <copyright>© 2026 tabinomichi</copyright>
-    <lastBuildDate>Fri, 11 Sep 2026 05:41:58 +0900</lastBuildDate>
-    <pubDate>Fri, 11 Sep 2026 05:29:43 +0900</pubDate>
+    <lastBuildDate>Fri, 11 Sep 2026 21:21:29 +0900</lastBuildDate>
+    <pubDate>Fri, 11 Sep 2026 21:13:46 +0900</pubDate>
     <generator>build_rss_feed.py (tabinomichi radio)</generator>
     <image>
       <url>https://news.tabinomichi.jp/podcast-cover.png?v=1779005902</url>
@@ -29,6 +29,21 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>電子レンジは水の『共振』で温めているのではない 〜水がいちばん反応する周波数から外れているおかげで奥まで届く話〜</title>
+      <link>https://news.tabinomichi.jp/radio/20260911_211346</link>
+      <guid isPermaLink="false">tabinomichi-radio-20260911_211346</guid>
+      <pubDate>Fri, 11 Sep 2026 21:13:46 +0900</pubDate>
+      <description>電子レンジは水の共振周波数に合わせて温めている、というよく聞く説明を掘り下げた回。【問い】では周波数と共振をブランコにたとえて整理し、2.45ギガヘルツは水の共振ではないと切り分けた。【解説】では、極性分子が電気の向きの入れ替わりについていけない遅れが熱になる誘電加熱の仕組み、室温の水で1回の揺れごとに熱に変わる分が最大になるのは20ギガヘルツ付近のなだらかな山であること、吸われすぎると表面で使い切ってしまうが2.45ギガヘルツはほどほどに吸われて奥まで届きやすいこと、マイクロ波が直接届くのは表面から数センチであること、使っていい周波数の国際的な枠を紹介。【広がり】では、氷がマイクロ波をほとんど吸わないことで起きる解凍ムラ、定在波とターンテーブル、ドアの金属網、ワイファイとの干渉を取り上げた。</description>
+      <content:encoded><![CDATA[電子レンジは水の共振周波数に合わせて温めている、というよく聞く説明を掘り下げた回。【問い】では周波数と共振をブランコにたとえて整理し、2.45ギガヘルツは水の共振ではないと切り分けた。【解説】では、極性分子が電気の向きの入れ替わりについていけない遅れが熱になる誘電加熱の仕組み、室温の水で1回の揺れごとに熱に変わる分が最大になるのは20ギガヘルツ付近のなだらかな山であること、吸われすぎると表面で使い切ってしまうが2.45ギガヘルツはほどほどに吸われて奥まで届きやすいこと、マイクロ波が直接届くのは表面から数センチであること、使っていい周波数の国際的な枠を紹介。【広がり】では、氷がマイクロ波をほとんど吸わないことで起きる解凍ムラ、定在波とターンテーブル、ドアの金属網、ワイファイとの干渉を取り上げた。]]></content:encoded>
+      <enclosure url="https://news.tabinomichi.jp/audio/zatsugaku/20260911_211346.mp3?v=1789129289" length="11948242" type="audio/mpeg"/>
+      <itunes:title>電子レンジは水の『共振』で温めているのではない 〜水がいちばん反応する周波数から外れているおかげで奥まで届く話〜</itunes:title>
+      <itunes:summary>電子レンジは水の共振周波数に合わせて温めている、というよく聞く説明を掘り下げた回。【問い】では周波数と共振をブランコにたとえて整理し、2.45ギガヘルツは水の共振ではないと切り分けた。【解説】では、極性分子が電気の向きの入れ替わりについていけない遅れが熱になる誘電加熱の仕組み、室温の水で1回の揺れごとに熱に変わる分が最大になるのは20ギガヘルツ付近のなだらかな山であること、吸われすぎると表面で使い切ってしまうが2.45ギガヘルツはほどほどに吸われて奥まで届きやすいこと、マイクロ波が直接届くのは表面から数センチであること、使っていい周波数の国際的な枠を紹介。【広がり】では、氷がマイクロ波をほとんど吸わないことで起きる解凍ムラ、定在波とターンテーブル、ドアの金属網、ワイファイとの干渉を取り上げた。</itunes:summary>
+      <itunes:image href="https://news.tabinomichi.jp/images/og/20260911_211346.jpg"/>
+      <itunes:duration>12:26</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>本物を証明する朝 〜折りたためるアイフォーンと、口が合わない面接〜</title>
       <link>https://news.tabinomichi.jp/radio/20260911_052943</link>
@@ -1511,21 +1526,6 @@
       <itunes:summary>今回の旅の道ラジオは、発売から評価がしっかり固まった名作詰め合わせ『UFO 50』を一本まるごと深掘り。実在しない80年代のゲーム会社「UFO Soft」が1982年から1989年に作った……という架空の設定で、タイトル画面からエンディングまで揃った独立した50本がまるっと収録されてるという狂気のボリューム。横スクロールアクションからシューティング、パズル、ローグライト、本格RPGまでジャンルはバラバラで、どれもミニゲームじゃなく完成品。作ってるのは『スペランキー』のデレク・ユー率いるモスマウスで、『ダウンウェル』のモッピンら腕利きが9年がかりで仕上げた執念の塊。Steamでは「圧倒的に好評」、レビュー六千件超で九割五分が高評価という化け物っぷり。ずんだもんが「ユーフォーだから宇宙人が出る」と勘違いし続け、めたんが架空の歴史設定でつい厨二発病する回。50本の中から自分だけの推し一本を探す楽しさを語りました。</itunes:summary>
       <itunes:image href="https://news.tabinomichi.jp/images/og/20260714_050609.jpg"/>
       <itunes:duration>6:03</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>賢い相棒が机に降りる朝 〜自分でネットを触るAIと、消える円盤・金より高い容量〜</title>
-      <link>https://news.tabinomichi.jp/radio/20260713_051339</link>
-      <guid isPermaLink="false">tabinomichi-radio-20260713_051339</guid>
-      <pubDate>Mon, 13 Jul 2026 05:13:39 +0900</pubDate>
-      <description>旅の道ラジオ朝便、テックニュースの回。今朝は4本立て。1本目はクロードコードに内蔵ブラウザがついて、AIが自分でサイトを開いて読んだりクリックしたりできるようになった話。2本目はソニーがプレステの新作ゲームディスクの生産を2028年1月で終えて、これからの新作はダウンロード版だけになる話。3本目はSSDの値段が数年で何倍にも跳ね上がって、容量が金より高いと言われる高騰ぶり。4本目は手のひらサイズなのにメモリを128ギガ積んで、大きなAIを自分の机の上で丸ごと動かせるモンスターミニPCの話。AIとデジタルが『持ち方・使い方』を作り替えていく空気を、通勤・通学のおともに軽くまとめた回です。</description>
-      <content:encoded><![CDATA[旅の道ラジオ朝便、テックニュースの回。今朝は4本立て。1本目はクロードコードに内蔵ブラウザがついて、AIが自分でサイトを開いて読んだりクリックしたりできるようになった話。2本目はソニーがプレステの新作ゲームディスクの生産を2028年1月で終えて、これからの新作はダウンロード版だけになる話。3本目はSSDの値段が数年で何倍にも跳ね上がって、容量が金より高いと言われる高騰ぶり。4本目は手のひらサイズなのにメモリを128ギガ積んで、大きなAIを自分の机の上で丸ごと動かせるモンスターミニPCの話。AIとデジタルが『持ち方・使い方』を作り替えていく空気を、通勤・通学のおともに軽くまとめた回です。]]></content:encoded>
-      <enclosure url="https://news.tabinomichi.jp/audio/ai/20260713_051339.mp3?v=1783887933" length="5513760" type="audio/mpeg"/>
-      <itunes:title>賢い相棒が机に降りる朝 〜自分でネットを触るAIと、消える円盤・金より高い容量〜</itunes:title>
-      <itunes:summary>旅の道ラジオ朝便、テックニュースの回。今朝は4本立て。1本目はクロードコードに内蔵ブラウザがついて、AIが自分でサイトを開いて読んだりクリックしたりできるようになった話。2本目はソニーがプレステの新作ゲームディスクの生産を2028年1月で終えて、これからの新作はダウンロード版だけになる話。3本目はSSDの値段が数年で何倍にも跳ね上がって、容量が金より高いと言われる高騰ぶり。4本目は手のひらサイズなのにメモリを128ギガ積んで、大きなAIを自分の机の上で丸ごと動かせるモンスターミニPCの話。AIとデジタルが『持ち方・使い方』を作り替えていく空気を、通勤・通学のおともに軽くまとめた回です。</itunes:summary>
-      <itunes:image href="https://news.tabinomichi.jp/images/og/20260713_051339.jpg"/>
-      <itunes:duration>5:44</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>

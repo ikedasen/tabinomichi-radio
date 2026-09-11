@@ -1,0 +1,1316 @@
+{
+  "profile": "zatsugaku",
+  "generated_at": "2026-09-11T21:13:46+09:00",
+  "title": "電子レンジは水の『共振』で温めているのではない 〜水がいちばん反応する周波数から外れているおかげで奥まで届く話〜",
+  "audio_path": "zatsugaku_latest.wav",
+  "duration_sec": 746.68,
+  "script_hash": "sha256:9db0e5f302715d022ed310ebb317652ab20116a1a5d60d2f2a7f1404cf65e1cf",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 4.64
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "mic",
+      "text": "旅の道ラジオ、雑学チャンネル。あんこもんだもん。",
+      "news_index": 0,
+      "start_sec": 4.64,
+      "end_sec": 8.09
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ずんだもんなのだ! 今日はどんなネタを持ってきたのだ?",
+      "news_index": 0,
+      "start_sec": 8.24,
+      "end_sec": 11.54
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "今日のお題は電子レンジだもん。あれがどうやって食べ物を温めてるのか、って話だもん。",
+      "news_index": 0,
+      "start_sec": 11.69,
+      "end_sec": 17.23
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "電子レンジなのだ? それならボクでも知ってるのだ。",
+      "news_index": 0,
+      "start_sec": 17.38,
+      "end_sec": 20.6
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "shirake",
+      "text": "じゃあ、言ってみるもん。",
+      "news_index": 0,
+      "start_sec": 20.75,
+      "end_sec": 22.77
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "水の分子にぴったり合う周波数の電波を当てて、ブルブル揺らしてるのだ!",
+      "news_index": 0,
+      "start_sec": 22.92,
+      "end_sec": 27.62
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "出たもん、それ。よく聞く説明だけど、今日はそこをひっくり返すもん。",
+      "news_index": 0,
+      "start_sec": 27.77,
+      "end_sec": 32.39
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、違うのだ!?",
+      "news_index": 0,
+      "start_sec": 32.54,
+      "end_sec": 34.11
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "聴いてくれてるかたも、一緒に考えてほしいもん。今日こそ、ずんだもんに負けを認めさせるもん。",
+      "news_index": 0,
+      "start_sec": 34.26,
+      "end_sec": 40.05
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも、ボクの説明、けっこう合ってる気がするのだ。水が温まるのは本当なのだ?",
+      "news_index": 1,
+      "start_sec": 40.2,
+      "end_sec": 46.18
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "そこは合ってるもん。電子レンジは、食べ物の中の水を温めるのが得意だもん。",
+      "news_index": 1,
+      "start_sec": 46.33,
+      "end_sec": 51.44
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ほら、やっぱりボクの勝ちなのだ。",
+      "news_index": 1,
+      "start_sec": 51.59,
+      "end_sec": 54.08
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "shirake",
+      "text": "早いもん。問題は「ぴったり合う周波数」のところだもん。",
+      "news_index": 1,
+      "start_sec": 54.23,
+      "end_sec": 59.5
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "周波数って、そもそも何なのだ? ボクには難しすぎるのだ。",
+      "news_index": 1,
+      "start_sec": 59.65,
+      "end_sec": 64.16
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "1秒間に波が何回揺れるか、っていう数だもん。電子レンジは2.45ギガヘルツで、1秒に24億5,000万回揺れてるもん。",
+      "news_index": 1,
+      "start_sec": 64.31,
+      "end_sec": 73.24
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "1秒で24億5,000万回!? ボクが一生ぷるぷるしても、そんなに揺れられないのだ。",
+      "news_index": 1,
+      "start_sec": 73.39,
+      "end_sec": 80.63
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "nagomi",
+      "text": "桁が違うもん。で、この数字がどこから来たのか、って話だもん。",
+      "news_index": 1,
+      "start_sec": 80.78,
+      "end_sec": 85.49
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "だから、水の分子がいちばん揺れやすい数字なのだ。そういうのを共振って言うのだ?",
+      "news_index": 1,
+      "start_sec": 85.64,
+      "end_sec": 91.02
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "共振って言葉、ちゃんと分かって使ってるもん?",
+      "news_index": 1,
+      "start_sec": 91.17,
+      "end_sec": 94.38
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "hazukashi",
+      "text": "えっと、なんとなくなのだ。",
+      "news_index": 1,
+      "start_sec": 94.53,
+      "end_sec": 96.6
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "ブランコは、揺れに合わせて押すと、ちょっとの力でどんどん大きく揺れるでしょ。そのタイミングがぴったり合って揺れが大きくなるのが、共振だもん。",
+      "news_index": 1,
+      "start_sec": 96.75,
+      "end_sec": 105.31
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "ブランコなら分かるのだ。水にもそのタイミングがあって、電子レンジはそこを押してると思ってたのだ。",
+      "news_index": 1,
+      "start_sec": 105.46,
+      "end_sec": 111.64
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "hisohiso",
+      "text": "実はそれ、よく広まってるけど、物理の先生たちが「俗説だ」ってはっきり書いてる話だもん。",
+      "news_index": 1,
+      "start_sec": 111.79,
+      "end_sec": 121.3
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "マジなのだ!? じゃあ、2.45ってただの数字なのだ?",
+      "news_index": 1,
+      "start_sec": 121.45,
+      "end_sec": 125.5
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "ただの数字、ってわけでもないもん。でも、水のために選ばれた特別な数字でもないもん。",
+      "news_index": 1,
+      "start_sec": 125.65,
+      "end_sec": 131.9
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "意味が分からないのだ。水を温めてるのに、水に合わせてないのだ?",
+      "news_index": 1,
+      "start_sec": 132.05,
+      "end_sec": 136.7
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "そこが面白いとこだもん。むしろ、水がいちばん反応する周波数からは、けっこう外れてるもん。",
+      "news_index": 1,
+      "start_sec": 136.85,
+      "end_sec": 142.95
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "外れてる!? 的があるのに、外して投げてるのだ?",
+      "news_index": 1,
+      "start_sec": 143.1,
+      "end_sec": 147.71
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "nagomi",
+      "text": "そうだもん。でも、外れてるのが、かえって都合いいこともあるもん。",
+      "news_index": 1,
+      "start_sec": 147.86,
+      "end_sec": 152.6
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "都合いいこと……。温まりすぎて爆発しないで済むのだ?",
+      "news_index": 1,
+      "start_sec": 152.75,
+      "end_sec": 156.58
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "shirake",
+      "text": "物騒だもん。そうじゃなくて、温まる「場所」の問題だもん。",
+      "news_index": 1,
+      "start_sec": 156.73,
+      "end_sec": 162.73
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "場所なのだ? 電子レンジって、真ん中から温まるんじゃないのだ?",
+      "news_index": 1,
+      "start_sec": 162.88,
+      "end_sec": 167.56
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "それもよく聞く話だもん。それも、あとで崩すもん。",
+      "news_index": 1,
+      "start_sec": 167.71,
+      "end_sec": 171.3
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "2つも崩されるのだ!? 今日のボク、ボロボロなのだ。",
+      "news_index": 1,
+      "start_sec": 171.45,
+      "end_sec": 174.93
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "じゃあ、順番にいくもん。まずは、電子レンジが水をどうやって温めてるのか、からだもん。",
+      "news_index": 1,
+      "start_sec": 175.08,
+      "end_sec": 181.13
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "お願いするのだ。ここは、ちゃんと聞いておくのだ。",
+      "news_index": 1,
+      "start_sec": 181.28,
+      "end_sec": 184.48
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "水の分子は、片方の端がプラス、反対の端がマイナスに、ちょっと偏ってるもん。こういう分子を、極性分子っていうもん。",
+      "news_index": 2,
+      "start_sec": 184.63,
+      "end_sec": 193.2
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "えっ、極性分子って何なのだ? 分子に表と裏があるのだ?",
+      "news_index": 2,
+      "start_sec": 193.35,
+      "end_sec": 198.05
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "nagomi",
+      "text": "片方がプラス寄り、もう片方がマイナス寄りの、小さな棒みたいなもの、って思えばいいもん。",
+      "news_index": 2,
+      "start_sec": 198.2,
+      "end_sec": 204.49
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "棒なら分かるのだ。それがどうなるのだ?",
+      "news_index": 2,
+      "start_sec": 204.64,
+      "end_sec": 207.32
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "電子レンジの中では、電気の向きが1秒に何十億回も入れ替わってるもん。棒はそのたびに、向きを合わせようとして回るもん。",
+      "news_index": 2,
+      "start_sec": 207.47,
+      "end_sec": 215.41
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "何十億回もクルクル!? 目が回るのだ。",
+      "news_index": 2,
+      "start_sec": 215.56,
+      "end_sec": 219.1
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "でも、まわりの分子とくっついたりぶつかったりしてるから、ぴったりはついていけないもん。その遅れと抵抗の分が、熱に変わるもん。",
+      "news_index": 2,
+      "start_sec": 219.25,
+      "end_sec": 227.35
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "遅れると熱になるのだ? よく分からないのだ。",
+      "news_index": 2,
+      "start_sec": 227.5,
+      "end_sec": 230.67
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "満員電車で、全員が一斉に回れ右しようとするのを想像するもん。肩がぶつかって、こすれて、暑くなるでしょ。",
+      "news_index": 2,
+      "start_sec": 230.82,
+      "end_sec": 238.97
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "それは暑いのだ! おしくらまんじゅうなのだ。",
+      "news_index": 2,
+      "start_sec": 239.12,
+      "end_sec": 241.83
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "そういう感じだもん。この温め方を、誘電加熱っていうもん。",
+      "news_index": 2,
+      "start_sec": 241.98,
+      "end_sec": 246.07
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "誘電加熱……。名前はいかついけど、中身はおしくらまんじゅうなのだ。",
+      "news_index": 2,
+      "start_sec": 246.22,
+      "end_sec": 250.85
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "本当はもっと細かい話があるけど、入り口はそれでいいもん。大事なのは、ブランコみたいな共振じゃなくて、ついていけない遅れが熱になってる、ってとこだもん。",
+      "news_index": 2,
+      "start_sec": 251.0,
+      "end_sec": 261.26
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "共振じゃなくて、遅れなのだ。でも、それなら水がいちばん熱くなりやすい周波数に合わせた方が、早く温まるのだ?",
+      "news_index": 2,
+      "start_sec": 261.41,
+      "end_sec": 269.18
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "半分は合ってるけど、それをやると失敗するもん。",
+      "news_index": 2,
+      "start_sec": 269.33,
+      "end_sec": 272.45
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、なんでなのだ!?",
+      "news_index": 2,
+      "start_sec": 272.6,
+      "end_sec": 274.3
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "室温の水で、1回の揺れごとに熱に変わる分がいちばん大きくなるのは、20ギガヘルツ付近だもん。電子レンジの2.45ギガヘルツより、8倍くらい高いもん。",
+      "news_index": 2,
+      "start_sec": 274.45,
+      "end_sec": 285.24
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "全然合ってないのだ! ボクの共振説、どこに行ったのだ?",
+      "news_index": 2,
+      "start_sec": 285.39,
+      "end_sec": 290.53
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "しかも水の場合、ブランコみたいに「ここだけ」っていう鋭い山じゃないもん。なだらかな丘みたいに、広い範囲の周波数を吸うもん。",
+      "news_index": 2,
+      "start_sec": 290.68,
+      "end_sec": 299.76
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "丘なのだ? じゃあ、2.45でもそこそこ吸うのだ?",
+      "news_index": 2,
+      "start_sec": 299.91,
+      "end_sec": 304.08
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "そういうことだもん。丘のふもとあたりで、ちゃんと吸ってはいるもん。",
+      "news_index": 2,
+      "start_sec": 304.23,
+      "end_sec": 308.28
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "じゃあ、どうして丘のてっぺんの20ギガにしないのだ? てっぺんの方が強いのだ。",
+      "news_index": 2,
+      "start_sec": 308.43,
+      "end_sec": 314.03
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "吸うのが強すぎると、食べ物の表面で全部吸われちゃうもん。中まで届く前に、使い切っちゃうもん。",
+      "news_index": 2,
+      "start_sec": 314.18,
+      "end_sec": 321.22
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "表面だけ熱くなるのだ?",
+      "news_index": 2,
+      "start_sec": 321.37,
+      "end_sec": 323.3
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "外は熱いのに中は冷たいまま、になりやすいもん。2.45ギガは吸われ方がほどほどだから、そのぶん奥まで届くもん。",
+      "news_index": 2,
+      "start_sec": 323.45,
+      "end_sec": 331.3
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "外れてるのが、かえってよかったのだ! ど真ん中だと、手前で全部止まっちゃうのだ。",
+      "news_index": 2,
+      "start_sec": 331.45,
+      "end_sec": 338.41
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "要するに、水にぴったり合ってないおかげで、奥まで温めやすくなってるんだもん。",
+      "news_index": 2,
+      "start_sec": 338.56,
+      "end_sec": 343.43
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、さっきの「真ん中から温まる」は、どう崩れるのだ?",
+      "news_index": 2,
+      "start_sec": 343.58,
+      "end_sec": 348.08
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "電子レンジは中から温める、ってよく言われるけど、マイクロ波が直接届くのは、表面から数センチくらいまでだもん。",
+      "news_index": 2,
+      "start_sec": 348.23,
+      "end_sec": 355.89
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "たったそれだけなのだ!? 思ってたより、ずっと浅いのだ。",
+      "news_index": 2,
+      "start_sec": 356.04,
+      "end_sec": 359.79
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "水だけで考えると、2センチ前後で強さがかなり落ちる、っていう計算があるもん。温度でも変わるけど、だいたいそのくらいだもん。",
+      "news_index": 2,
+      "start_sec": 359.94,
+      "end_sec": 368.22
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、大きいお肉の真ん中は、どうやって温まるのだ?",
+      "news_index": 2,
+      "start_sec": 368.37,
+      "end_sec": 372.49
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "外側の数センチで生まれた熱が、じわじわ中に伝わっていくもん。これは、普通の熱の伝わり方だもん。",
+      "news_index": 2,
+      "start_sec": 372.64,
+      "end_sec": 379.66
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "それ、フライパンと同じなのだ?",
+      "news_index": 2,
+      "start_sec": 379.81,
+      "end_sec": 382.08
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "hazukashi",
+      "text": "……外から熱が入ってくる、って意味では、似てるもん。",
+      "news_index": 2,
+      "start_sec": 382.23,
+      "end_sec": 386.25
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "ただ、フライパンは表面のすごく薄いところから、電子レンジは数センチの厚みをまとめて温めるもん。そこが大きな違いだもん。",
+      "news_index": 2,
+      "start_sec": 386.33,
+      "end_sec": 394.38
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "だから、冷凍のグラタンは、外だけ熱くて真ん中が冷たいことがあるのだ。",
+      "news_index": 2,
+      "start_sec": 394.53,
+      "end_sec": 399.7
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "それだもん。要するに、電子レンジは中から温めてるわけじゃなくて、外側の厚めの層を温めてるんだもん。",
+      "news_index": 2,
+      "start_sec": 399.85,
+      "end_sec": 406.61
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "2つ目も崩れたのだ……。",
+      "news_index": 2,
+      "start_sec": 406.76,
+      "end_sec": 408.32
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも、まだ分からないのだ。ほどほどに吸われる周波数なら、2.45じゃなくてもいいのだ?",
+      "news_index": 2,
+      "start_sec": 408.4,
+      "end_sec": 414.73
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "いいところ突くもん。実際、水は2.45ギガのところだけ特別よく吸う、ってわけじゃないもん。",
+      "news_index": 2,
+      "start_sec": 414.88,
+      "end_sec": 421.73
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "じゃあ分かったのだ! 使っていい周波数が、決まりで決まってるのだ!",
+      "news_index": 2,
+      "start_sec": 421.88,
+      "end_sec": 426.11
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "hazukashi",
+      "text": "……なんで先に言うもん。",
+      "news_index": 2,
+      "start_sec": 426.26,
+      "end_sec": 427.7
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ボク、冴えてるのだ。",
+      "news_index": 2,
+      "start_sec": 427.85,
+      "end_sec": 429.7
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "shirake",
+      "text": "今のは、たまたまだもん。……でも、そうだもん。",
+      "news_index": 2,
+      "start_sec": 429.85,
+      "end_sec": 434.26
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "電波はテレビや携帯の通信にも使うから、好き勝手に強い電波を出したら邪魔になるもん。だから、通信以外の産業・科学・医療に使っていい周波数の枠が、国際的に決められてるもん。",
+      "news_index": 2,
+      "start_sec": 434.34,
+      "end_sec": 447.01
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "枠なのだ? 何ていう名前なのだ?",
+      "news_index": 2,
+      "start_sec": 447.16,
+      "end_sec": 449.85
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "nagomi",
+      "text": "アイエスエムバンドっていうもん。産業、科学、医療を英語にしたときの頭文字だもん。",
+      "news_index": 2,
+      "start_sec": 450.0,
+      "end_sec": 455.92
+    },
+    {
+      "index": 84,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "電子レンジの周波数は、その枠から選ばれてるのだ?",
+      "news_index": 2,
+      "start_sec": 456.07,
+      "end_sec": 460.07
+    },
+    {
+      "index": 85,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "そうだもん。電子レンジの周波数は国際的に2,450メガヘルツと定められてる、って日本機械学会の解説にも書いてあるもん。",
+      "news_index": 2,
+      "start_sec": 460.22,
+      "end_sec": 469.15
+    },
+    {
+      "index": 86,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "2,450メガ? さっきは2.45ギガって言ってたのだ。",
+      "news_index": 2,
+      "start_sec": 469.3,
+      "end_sec": 474.69
+    },
+    {
+      "index": 87,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "nagomi",
+      "text": "同じ数字だもん。1ギガが1,000メガだから、言い方が違うだけだもん。",
+      "news_index": 2,
+      "start_sec": 474.84,
+      "end_sec": 479.5
+    },
+    {
+      "index": 88,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "アメリカでは、電子レンジを作ろうとしてた会社が当局に周波数を求めて、915メガと2,450メガの2つが認められた、と伝えられてるもん。",
+      "news_index": 2,
+      "start_sec": 479.58,
+      "end_sec": 489.57
+    },
+    {
+      "index": 89,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "2つもあったのだ? 915の方はどうなったのだ?",
+      "news_index": 2,
+      "start_sec": 489.72,
+      "end_sec": 493.78
+    },
+    {
+      "index": 90,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "周波数が低いほど、食べ物の奥まで届きやすいもん。だから915メガは、大きな業務用の加熱装置で使われることがあるもん。",
+      "news_index": 2,
+      "start_sec": 493.93,
+      "end_sec": 502.66
+    },
+    {
+      "index": 91,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、家のレンジも915にしたら、もっと中まで温まるのだ?",
+      "news_index": 2,
+      "start_sec": 502.81,
+      "end_sec": 507.94
+    },
+    {
+      "index": 92,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "日本だと915メガは、まわりに電波を漏らさない決まりがずっと厳しくて、実際はほとんど2,450メガが使われてるもん。家庭用がなぜそっちに落ち着いたかは、いろんな理由が挙げられてて、諸説あるもん。",
+      "news_index": 2,
+      "start_sec": 508.09,
+      "end_sec": 522.34
+    },
+    {
+      "index": 93,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "物理だけじゃなくて、決まりの話でもあったのだ。",
+      "news_index": 2,
+      "start_sec": 522.49,
+      "end_sec": 525.57
+    },
+    {
+      "index": 94,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "要するに、2.45は水のための魔法の数字じゃないもん。使っていい枠の中で、ちゃんと吸われて奥にも届く周波数、ってことだもん。",
+      "news_index": 2,
+      "start_sec": 525.72,
+      "end_sec": 534.64
+    },
+    {
+      "index": 95,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "魔法じゃなかったのだ……。でも、なんか納得したのだ。",
+      "news_index": 2,
+      "start_sec": 534.79,
+      "end_sec": 538.29
+    },
+    {
+      "index": 96,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "ここからは、この仕組みが台所のどこに顔を出してるか、って話だもん。まずは冷凍食品だもん。",
+      "news_index": 3,
+      "start_sec": 538.44,
+      "end_sec": 544.99
+    },
+    {
+      "index": 97,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "解凍が遅いのは、凍ってて冷たいからなのだ。スタートの温度が低いだけなのだ。",
+      "news_index": 3,
+      "start_sec": 545.14,
+      "end_sec": 550.35
+    },
+    {
+      "index": 98,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "それだけじゃないもん。氷は、マイクロ波をほとんど吸わないもん。",
+      "news_index": 3,
+      "start_sec": 550.5,
+      "end_sec": 554.38
+    },
+    {
+      "index": 99,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、氷だって水なのだ!?",
+      "news_index": 3,
+      "start_sec": 554.53,
+      "end_sec": 556.66
+    },
+    {
+      "index": 100,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "氷の中の分子は、きっちり並んで固まってて、向きを変えにくいもん。メーカーの説明だと、氷がマイクロ波を吸う割合は、水の8,000分の1ほどだもん。",
+      "news_index": 3,
+      "start_sec": 556.81,
+      "end_sec": 566.94
+    },
+    {
+      "index": 101,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "8,000分の1!? じゃあ、解凍するとき、中では何が起きてるのだ?",
+      "news_index": 3,
+      "start_sec": 567.09,
+      "end_sec": 573.5
+    },
+    {
+      "index": 102,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "どこかがちょっとだけ溶けて水になると、そこがマイクロ波をどんどん吸うもん。溶けたところだけ、先に熱くなっていくもん。",
+      "news_index": 3,
+      "start_sec": 573.65,
+      "end_sec": 580.77
+    },
+    {
+      "index": 103,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "だから、端っこだけ煮えて、真ん中はカチコチなのだ!",
+      "news_index": 3,
+      "start_sec": 580.92,
+      "end_sec": 584.46
+    },
+    {
+      "index": 104,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "そういうことだもん。解凍は低い出力でじわじわ、ってすすめられるのは、熱が中まで伝わる時間をかせげるからだもん。",
+      "news_index": 3,
+      "start_sec": 584.61,
+      "end_sec": 592.1
+    },
+    {
+      "index": 105,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "もう1つ、電子レンジの中は壁が金属だから、マイクロ波が跳ね返って行ったり来たりしてるもん。すると、強いところと弱いところが、決まった場所にできるもん。",
+      "news_index": 3,
+      "start_sec": 592.18,
+      "end_sec": 602.21
+    },
+    {
+      "index": 106,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "えっ、それ何なのだ? 場所で強さが違うのだ?",
+      "news_index": 3,
+      "start_sec": 602.36,
+      "end_sec": 606.03
+    },
+    {
+      "index": 107,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "nagomi",
+      "text": "定在波っていうもん。お風呂のお湯を揺らすと、よく揺れる場所とあんまり揺れない場所ができるでしょ、あれの電波版だもん。",
+      "news_index": 3,
+      "start_sec": 606.18,
+      "end_sec": 613.55
+    },
+    {
+      "index": 108,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "お風呂なら分かるのだ! じゃあ、お皿が回るのは……。",
+      "news_index": 3,
+      "start_sec": 613.7,
+      "end_sec": 617.06
+    },
+    {
+      "index": 109,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "食べ物を動かして、強いところと弱いところを通らせて、ムラを減らしてるもん。お皿が回らない平らなタイプは、下で回るアンテナが電波を散らしてるもん。",
+      "news_index": 3,
+      "start_sec": 617.21,
+      "end_sec": 626.57
+    },
+    {
+      "index": 110,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "じゃあ、真ん中に置くのがいちばんなのだ?",
+      "news_index": 3,
+      "start_sec": 626.72,
+      "end_sec": 629.77
+    },
+    {
+      "index": 111,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "メーカーの人の説明だと、平らなタイプは真ん中、回るタイプはターンテーブルの外周ギリギリがおすすめだもん。機種で違うから、最後は説明書を見るのが確かだもん。",
+      "news_index": 3,
+      "start_sec": 629.92,
+      "end_sec": 641.1
+    },
+    {
+      "index": 112,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "回るタイプは端っこなのだ!? 真ん中が正解だと思ってたのだ。",
+      "news_index": 3,
+      "start_sec": 641.25,
+      "end_sec": 646.51
+    },
+    {
+      "index": 113,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "そういえば、ドアの窓には黒い網がついてるのだ。あれは飾りなのだ?",
+      "news_index": 3,
+      "start_sec": 646.59,
+      "end_sec": 651.5
+    },
+    {
+      "index": 114,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "あれは金属の網だもん。波は、自分の波長よりずっと小さい穴は、ほとんど通れないもん。",
+      "news_index": 3,
+      "start_sec": 651.65,
+      "end_sec": 657.77
+    },
+    {
+      "index": 115,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "波長って、何なのだ? 波の長さなのだ?",
+      "news_index": 3,
+      "start_sec": 657.92,
+      "end_sec": 661.24
+    },
+    {
+      "index": 116,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "波の山から次の山までの長さだもん。電子レンジのマイクロ波は、それが約12センチあるもん。",
+      "news_index": 3,
+      "start_sec": 661.39,
+      "end_sec": 667.62
+    },
+    {
+      "index": 117,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "網の穴はそれよりずっと小さいから、マイクロ波は通れないもん。光の波はずっと短いから網を通って、中が見えるもん。",
+      "news_index": 3,
+      "start_sec": 667.7,
+      "end_sec": 675.34
+    },
+    {
+      "index": 118,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "電波には壁で、光には窓なのだ。うまくできてるのだ。",
+      "news_index": 3,
+      "start_sec": 675.49,
+      "end_sec": 679.44
+    },
+    {
+      "index": 119,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "最後にもう1つ。電子レンジを使ってると、ワイファイがつながりにくくなることがあるもん。",
+      "news_index": 3,
+      "start_sec": 679.59,
+      "end_sec": 684.95
+    },
+    {
+      "index": 120,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "えっ、なんで台所の家電がワイファイの邪魔をするのだ?",
+      "news_index": 3,
+      "start_sec": 685.1,
+      "end_sec": 689.08
+    },
+    {
+      "index": 121,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "2.4ギガヘルツ帯の無線ランは、電子レンジとほぼ同じ周波数だからだもん。総務省の東海総合通信局も、電子レンジの影響を受けやすいって注意してるもん。",
+      "news_index": 3,
+      "start_sec": 689.23,
+      "end_sec": 699.77
+    },
+    {
+      "index": 122,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "お隣さんどころか、同じ部屋にいたのだ!",
+      "news_index": 3,
+      "start_sec": 699.92,
+      "end_sec": 702.79
+    },
+    {
+      "index": 123,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "周波数を切り替えたり、機械を離したりするのが対策だもん。同じ枠を分け合ってる、ってことだもん。",
+      "news_index": 3,
+      "start_sec": 702.94,
+      "end_sec": 709.61
+    },
+    {
+      "index": 124,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "今日のボク、共振説も、中から温まる説も、解凍の説も、全部崩されたのだ。",
+      "news_index": 0,
+      "start_sec": 709.76,
+      "end_sec": 716.04
+    },
+    {
+      "index": 125,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "要するに、電子レンジは水にぴったり合わせてるんじゃなくて、決められた枠の周波数が、ほどほどに吸われて奥まで届いてるんだもん。",
+      "news_index": 0,
+      "start_sec": 716.19,
+      "end_sec": 724.09
+    },
+    {
+      "index": 126,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "でも、決まりの枠の話は、ボクが先に当てたのだ。",
+      "news_index": 0,
+      "start_sec": 724.24,
+      "end_sec": 727.62
+    },
+    {
+      "index": 127,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "hazukashi",
+      "text": "……あれは、たまたまだもん。次こそ、ずんだもんに負けを認めさせるもん。",
+      "news_index": 0,
+      "start_sec": 727.77,
+      "end_sec": 733.06
+    },
+    {
+      "index": 128,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "旅の道ラジオ、雑学チャンネル。次のお題も楽しみにしてるのだ!",
+      "news_index": 0,
+      "start_sec": 733.21,
+      "end_sec": 737.68
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 738.38,
+      "end_sec": 746.68
+    }
+  ],
+  "wall_time_sec": 9.91,
+  "audio_url": "/audio/zatsugaku/20260911_211346.mp3?v=1789129289"
+}
