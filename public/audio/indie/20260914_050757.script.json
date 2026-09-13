@@ -1,0 +1,728 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-08-12T05:18:04.006000+00:00",
+  "title": "箱舟に乗せる百獣 〜リンダキューブという怪作の設計図〜",
+  "segments": [
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "旅の道ラジオへようこそなのだ！パーソナリティのずんだもんなのだー！",
+      "reading": "たびのみちラジオへようこそなのだ！パーソナリティのずんだもんなのだー！",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "今回はレトロゲーム回なのだ！",
+      "reading": "こんかいはレトロゲームかいなのだ！",
+      "news_index": 0
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "intro",
+      "text": "またまた、あーしが担当するっすよー！今回のテーマは『リンダキューブ』っす！",
+      "reading": "またまた、あーしがたんとうするっすよー！こんかいのテーマは『リンダキューブ』っす！",
+      "news_index": 0
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "動物を集めまくるっていう、とんでもない方向に振り切ったRPGっす。",
+      "reading": "どうぶつをあつめまくるっていう、とんでもないほうこうにふりきったアールピージーっす。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "リンダキューブ……立方体を積んでいくパズルなのだ？",
+      "reading": "リンダキューブ……りっぽうたいをつんでいくパズルなのだ？",
+      "news_index": 0
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "先輩それガチ違うっす。キューブは一個も積まないっすよ。",
+      "reading": "せんぱいそれガチちがうっす。キューブはいっこもつまないっすよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに、王道RPGの真逆を全力で走った怪作っす。",
+      "reading": "ようするに、おうどうアールピージーのまぎゃくをぜんりょくではしったかいさくっす。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "真逆……ボクそういうの好きなのだ。",
+      "reading": "まぎゃく……ぼくそういうのすきなのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "まず基本っす。初出はPCエンジンで、1995年10月13日発売っす。",
+      "reading": "まずきほんっす。しょしゅつはピーシーエンジンで、せんきゅうひゃくきゅうじゅうごねんじゅうがつじゅうさんにちはつばいっす。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "1995年！ボクが生まれる前の前の前くらいなのだ。",
+      "reading": "せんきゅうひゃくきゅうじゅうごねん！ぼくがうまれるまえのまえのまえくらいなのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "先輩の年表ざっくりしすぎっす w。ちなみに媒体はCD-ROMっす。",
+      "reading": "せんぱいのねんぴょうざっくりしすぎっす。ちなみにばいたいはシーディーロムっす。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "CD-ROMってことは、音がめっちゃ良いやつなのだ？",
+      "reading": "シーディーロムってことは、おとがめっちゃいいやつなのだ？",
+      "news_index": 1
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そこはあーしも推したいとこっす。作ったのはアルファ・システムっすね。",
+      "reading": "そこはあーしもおしたいとこっす。つくったのはアルファシステムっすね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "発売元はNECホームエレクトロニクス、ハードの本家っす。",
+      "reading": "はつばいもとはエヌイーシーホームエレクトロニクス、ハードのほんけっす。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "本家が出すゲームで動物集め……かなり攻めてるのだ。",
+      "reading": "ほんけがだすゲームでどうぶつあつめ……かなりせめてるのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "中身いくっす。舞台は惑星ネオ・ケニア、そこから脱出するのが目的っす。",
+      "reading": "なかみいくっす。ぶたいはわくせいネオケニア、そこからだっしゅつするのがもくてきっす。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "脱出ゲームなのだ？部屋の鍵を探すやつなのだ？",
+      "reading": "だっしゅつゲームなのだ？へやのかぎをさがすやつなのだ？",
+      "news_index": 2
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "部屋じゃなくて惑星まるごとっす、スケールが桁違いっすよ。",
+      "reading": "へやじゃなくてわくせいまるごとっす、スケールがけたちがいっすよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "しかも制限時間が8年っす。ゲームの中で8年っすよ。",
+      "reading": "しかもせいげんじかんがはちねんっす。ゲームのなかではちねんっすよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "8年！？ボクの夏休みの宿題より長いのだ！",
+      "reading": "はちねん！？ぼくのなつやすみのしゅくだいよりながいのだ！",
+      "news_index": 2
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "その8年で、100種類以上の動物を集めるのが本題っす。",
+      "reading": "そのはちねんで、ひゃくしゅるいいじょうのどうぶつをあつめるのがほんだいっす。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "100種類以上……図鑑を埋めるやつなのだ。ボク得意なのだ。",
+      "reading": "ひゃくしゅるいいじょう……ずかんをうめるやつなのだ。ぼくとくいなのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "集めた動物は、箱舟っていう脱出用の宇宙船に乗せるっす。",
+      "reading": "あつめたどうぶつは、はこぶねっていうだっしゅつようのうちゅうせんにのせるっす。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "箱舟って、あのノアのやつなのだ？",
+      "reading": "はこぶねって、あのノアのやつなのだ？",
+      "news_index": 2
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そうっす、ノアの方舟モチーフっす。つまり動物版の避難計画っすね。",
+      "reading": "そうっす、ノアのはこぶねモチーフっす。つまりどうぶつばんのひなんけいかくっすね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "主人公はケン、15歳っす。幼馴染のリンダが14歳っすね。",
+      "reading": "しゅじんこうはケン、じゅうごさいっす。おさななじみのリンダがじゅうよんさいっすね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "動物を乗せて星から逃げる……ロマンの塊なのだ！",
+      "reading": "どうぶつをのせてほしからにげる……ロマンのかたまりなのだ！",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "でもケンって名前、どこかで聞いた気がするのだ。",
+      "reading": "でもケンってなまえ、どこかできいたきがするのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そこ引っかかるの さすが先輩っす。『狼少年ケン』が名前の由来っす。",
+      "reading": "そこひっかかるのさすがせんぱいっす。おおかみしょうねんケンがなまえのゆらいっす。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "狼少年……嘘をつきまくる少年の方なのだ？",
+      "reading": "おおかみしょうねん……うそをつきまくるしょうねんのほうなのだ？",
+      "news_index": 2
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "それイソップ寓話の方っす、完全に混ざってるっすよ先輩。",
+      "reading": "それイソップぐうわのほうっす、かんぜんにまざってるっすよせんぱい。",
+      "news_index": 2
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに、少年と幼馴染で動物を集めて星から逃げる話っす。",
+      "reading": "ようするに、しょうねんとおさななじみでどうぶつをあつめてほしからにげるはなしっす。",
+      "news_index": 2
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ここからガチで語らせてもらうっす。ゲームデザインとシナリオは桝田省治っす。",
+      "reading": "ここからガチでかたらせてもらうっす。ゲームデザインとシナリオはますだしょうじっす。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "そのかたは、どういう経歴の人なのだ？",
+      "reading": "そのかたは、どういうけいれきのひとなのだ？",
+      "news_index": 3
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "直前に『天外魔境II 卍MARU』を手掛けたかたっす、1992年の作品っすね。",
+      "reading": "ちょくぜんにてんがいまきょうツーまんじマルをてがけたかたっす、せんきゅうひゃくきゅうじゅうにねんのさくひんっすね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "天外魔境！名前が強すぎて、もう必殺技みたいなのだ。",
+      "reading": "てんがいまきょう！なまえがつよすぎて、もうひっさつわざみたいなのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "攻略本のコメントだと、王道な展開ばかり書いてストレスが溜まったって話っす。",
+      "reading": "こうりゃくぼんのコメントだと、おうどうなてんかいばかりかいてストレスがたまったってはなしっす。",
+      "news_index": 3
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "その反動で作ったのがリンダキューブ、って流れっす。",
+      "reading": "そのはんどうでつくったのがリンダキューブ、ってながれっす。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "反動でこれが出てくるの、振り幅がおかしいのだ。",
+      "reading": "はんどうでこれがでてくるの、ふりはばがおかしいのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "だからこの作品、魔王みたいな世界の脅威がそもそも居ないっす。",
+      "reading": "だからこのさくひん、まおうみたいなせかいのきょういがそもそもいないっす。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "魔王が居ないRPG！？じゃあ最後は誰を倒すのだ？",
+      "reading": "まおうがいないアールピージー！？じゃあさいごはだれをたおすのだ？",
+      "news_index": 3
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "倒す相手が居ないのが仕掛けっす。敵は時間と、自分の段取りっすね。",
+      "reading": "たおすあいてがいないのがしかけっす。てきはじかんと、じぶんのだんどりっすね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "段取りが敵……それ完全に大人のゲームなのだ。",
+      "reading": "だんどりがてき……それかんぜんにおとなのゲームなのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに、王道RPGへのアンチテーゼとして設計された作品っす。",
+      "reading": "ようするに、おうどうアールピージーへのアンチテーゼとしてせっけいされたさくひんっす。",
+      "news_index": 3
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "あとキャラクターデザインは、CANNABIS名義の田中達之っす。",
+      "reading": "あとキャラクターデザインは、カンナビスめいぎのたなかたつゆきっす。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "名義からして、もう只者じゃない気配なのだ。",
+      "reading": "めいぎからして、もうただものじゃないけはいなのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "あーし今めっちゃオタク早口だったっすね、すんませんっす。",
+      "reading": "あーしいまめっちゃオタクはやくちだったっすね、すんませんっす。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "いいのだ。つむぎが楽しそうだから、それでいいのだ。",
+      "reading": "いいのだ。つむぎがたのしそうだから、それでいいのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "構造の話いくっす。PCエンジン版はシナリオがA・B・Cの三本立てっす。",
+      "reading": "こうぞうのはなしいくっす。ピーシーエンジンばんはシナリオがエー・ビー・シーのさんぼんだてっす。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "三本立て！それはお得なのだ。",
+      "reading": "さんぼんだて！それはおとくなのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "後の移植版ではDが足されて四本っす。中身はここでは言わないっす。",
+      "reading": "のちのいしょくばんではディーがたされてよんほんっす。なかみはここではいわないっす。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "つむぎが黙る時は、だいたい面白い時なのだ。",
+      "reading": "つむぎがだまるときは、だいたいおもしろいときなのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "そこは自分の目で確かめてほしいっす、オタクくん。",
+      "reading": "そこはじぶんのめでたしかめてほしいっす、オタクくん。",
+      "news_index": 4
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "あと大事なとこっす。PCエンジン版は18歳以上推奨指定で出てるっす。",
+      "reading": "あとだいじなとこっす。ピーシーエンジンばんはじゅうはっさいいじょうすいしょうしていででてるっす。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "えっ、動物を集めるゲームなのに！？",
+      "reading": "えっ、どうぶつをあつめるゲームなのに！？",
+      "news_index": 4
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そうっす。かなり攻めた表現が入ってるんで、そこは覚悟がいるっす。",
+      "reading": "そうっす。かなりせめたひょうげんがはいってるんで、そこはかくごがいるっす。",
+      "news_index": 4
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "当時の映画やビデオの空気を、意図的に持ち込んでる作りっすね。",
+      "reading": "とうじのえいがやビデオのくうきを、いとてきにもちこんでるつくりっすね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "……ボク、心の準備をしてから遊ぶのだ。",
+      "reading": "……ぼく、こころのじゅんびをしてからあそぶのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "評価も割れてるっす。ファミ通のクロスレビューはPCエンジン版が40点満点で28点っす。",
+      "reading": "ひょうかもわれてるっす。ファミつうのクロスレビューはピーシーエンジンばんがよんじゅってんまんてんでにじゅうはってんっす。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "28点……褒められてるのか、渋られてるのか分からないのだ。",
+      "reading": "にじゅうはってん……ほめられてるのか、しぶられてるのかわからないのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "その後のPS版は31点で、シルバー殿堂入りっす。評価が後から伸びた形っすね。",
+      "reading": "そのごのピーエスばんはさんじゅういってんで、シルバーでんどういりっす。ひょうかがあとからのびたかたちっすね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "後から評価が伸びるゲーム、ボクは信用するのだ！",
+      "reading": "あとからひょうかがのびるゲーム、ぼくはしんようするのだ！",
+      "news_index": 4
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに、ちょっとだけ早すぎたカルト名作枠っす。",
+      "reading": "ようするに、ちょっとだけはやすぎたカルトめいさくわくっす。",
+      "news_index": 4
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "逸話がまた濃いっす。初回出荷版にフリーズ不具合があったっす。",
+      "reading": "いつわがまたこいっす。しょかいしゅっかばんにフリーズふぐあいがあったっす。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "フリーズ……ボクの冷凍庫の話じゃないのだ？",
+      "reading": "フリーズ……ぼくのれいとうこのはなしじゃないのだ？",
+      "news_index": 5
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "冷凍庫は一切関係ないっす w。CD-ROMの28トラック目にアクセスすると止まったっす。",
+      "reading": "れいとうこはいっさいかんけいないっす。シーディーロムのにじゅうはちトラックめにアクセスするととまったっす。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "28トラック目だけ！？ピンポイントすぎるのだ。",
+      "reading": "にじゅうはちトラックめだけ！？ピンポイントすぎるのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "で、店頭回収と、購入者への交換対応まで実施されたっす。",
+      "reading": "で、てんとうかいしゅうと、こうにゅうしゃへのこうかんたいおうまでじっしされたっす。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "今ならパッチで直る話なのだ。当時は物理で直してたのだ。",
+      "reading": "いまならパッチでなおるはなしなのだ。とうじはぶつりでなおしてたのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "交換したオタクくんが居たら、それガチの同志っす。",
+      "reading": "こうかんしたオタクくんがいたら、それガチのどうしっす。",
+      "news_index": 5
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "あともう一個。モンスターのデザインが雑誌で公募されたっす。",
+      "reading": "あともういっこ。モンスターのデザインがざっしでこうぼされたっす。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "読者が動物を考えたのだ！？",
+      "reading": "どくしゃがどうぶつをかんがえたのだ！？",
+      "news_index": 5
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "『電撃PCエンジン』誌でやってたっす。読者巻き込み型っすね。",
+      "reading": "でんげきピーシーエンジンしでやってたっす。どくしゃまきこみがたっすね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ボクも応募したいのだ。ずんだ味の動物を出すのだ。",
+      "reading": "ぼくもおうぼしたいのだ。ずんだあじのどうぶつをだすのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "先輩それ動物じゃなくて食品っす w",
+      "reading": "せんぱいそれどうぶつじゃなくてしょくひんっす",
+      "news_index": 5
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "あと衝撃なのが、リンダって企画の初期には居なかったっす。",
+      "reading": "あとしょうげきなのが、リンダってきかくのしょきにはいなかったっす。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "えっ、タイトルに名前が入ってるのに！？",
+      "reading": "えっ、タイトルになまえがはいってるのに！？",
+      "news_index": 5
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "編集者のアドバイスで、後から足されたキャラっす。",
+      "reading": "へんしゅうしゃのアドバイスで、あとからたされたキャラっす。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "後付けのヒロインがタイトルを乗っ取ったのだ。",
+      "reading": "あとづけのヒロインがタイトルをのっとったのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "遊びかたの話っす。PS版が『リンダキューブ アゲイン』、1997年9月25日っす。",
+      "reading": "あそびかたのはなしっす。ピーエスばんがリンダキューブアゲイン、せんきゅうひゃくきゅうじゅうななねんくがつにじゅうごにちっす。",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "アゲイン……もう一回やれってことなのだ？",
+      "reading": "アゲイン……もういっかいやれってことなのだ？",
+      "news_index": 6
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "だいたいそのノリっす。さらにセガサターン版が『完全版』で、1998年6月18日っす。",
+      "reading": "だいたいそのノリっす。さらにセガサターンばんがかんぜんばんで、せんきゅうひゃくきゅうじゅうはちねんろくがつじゅうはちにちっす。",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "アゲインの次が完全版！名前がどんどん強くなってるのだ。",
+      "reading": "アゲインのつぎがかんぜんばん！なまえがどんどんつよくなってるのだ。",
+      "news_index": 6
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そこ好きっす。しかも2007年9月27日から、ゲームアーカイブスでも配信が始まってるっす。",
+      "reading": "そこすきっす。しかもにせんななねんくがつにじゅうしちにちから、ゲームアーカイブスでもはいしんがはじまってるっす。",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "実機がなくても道はあるってことなのだ！",
+      "reading": "じっきがなくてもみちはあるってことなのだ！",
+      "news_index": 6
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "あーしは実機で遊び込んだクチっすけど、入口は多い方がいいっす。",
+      "reading": "あーしはじっきであそびこんだクチっすけど、いりぐちはおおいほうがいいっす。",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "……つむぎに、友達と遊ぶ時間はあったのだ？",
+      "reading": "……つむぎに、ともだちとあそぶじかんはあったのだ？",
+      "news_index": 6
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "shirake",
+      "text": "……先輩。",
+      "reading": "……せんぱい。",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "な、なんでもないのだ……ごめんなさいなのだ……",
+      "reading": "な、なんでもないのだ……ごめんなさいなのだ……",
+      "news_index": 6
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "コホン。話を戻すっす。",
+      "reading": "コホン。はなしをもどすっす。",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "結局これ、立方体を積むパズルじゃなかったのだ。",
+      "reading": "けっきょくこれ、りっぽうたいをつむパズルじゃなかったのだ。",
+      "news_index": 6
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "そこ最後まで引っ張るの、先輩しか居ないっす w",
+      "reading": "そこさいごまでひっぱるの、せんぱいしかいないっす",
+      "news_index": 6
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "動物集めと、かなり攻めた表現が同居してる怪作っす。",
+      "reading": "どうぶつあつめと、かなりせめたひょうげんがどうきょしてるかいさくっす。",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "怖いもの見たさで触りたくなるやつなのだ。",
+      "reading": "こわいものみたさでさわりたくなるやつなのだ。",
+      "news_index": 6
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "気になったオタクくんは、覚悟を決めて箱舟に乗ってほしいっす。",
+      "reading": "きになったオタクくんは、かくごをきめてはこぶねにのってほしいっす。",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "というわけで、今回のレトロ回はここまでなのだ！",
+      "reading": "というわけで、こんかいのレトロかいはここまでなのだ！",
+      "news_index": 6
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "また旅の道ラジオで会いましょうっす！",
+      "reading": "またたびのみちラジオであいましょうっす！",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "またなのだー！",
+      "reading": "またなのだー！",
+      "news_index": 6
+    }
+  ],
+  "program_description": "レトロゲーム回のお題は、1995年10月13日にPCエンジンで生まれた『リンダキューブ』。惑星ネオ・ケニアから脱出するために、8年という制限時間のなかで100種類以上の動物を集めて箱舟に乗せる、という一度聞いたら忘れられない設計のRPGです。開発はアルファ・システム、発売元はハードの本家であるNECホームエレクトロニクス。ゲームデザインとシナリオを手掛けた桝田省治が、直前の『天外魔境II 卍MARU』で王道な展開ばかり書いてストレスが溜まった反動として作った、という攻略本コメントを軸に、魔王のような脅威がそもそも存在しない王道アンチテーゼの構造を掘り下げます。シナリオがA・B・Cの三本立てという骨組み、18歳以上推奨指定で出たかなり攻めた表現、ファミ通クロスレビューがPCエンジン版28点からPS版31点のシルバー殿堂入りへと後から伸びていった経緯、初回出荷版のフリーズ不具合による店頭回収と交換対応、雑誌『電撃PCエンジン』でのモンスターデザイン公募、そしてリンダというキャラが企画初期には存在せず編集者のアドバイスで後から足されたという逸話まで。ずんだもんが「立方体を積むパズル」と勘違いしたまま最後まで引っ張る回でもあります。ネタバレは構造の話までに留めているので、これから触るかたも安心して聴けます。",
+  "featured_game": {
+    "app_id": null,
+    "igdb_id": 194757,
+    "title": "リンダキューブ",
+    "image_rel": "/images/topics/indie_20260914_050757_chars.webp",
+    "hero_rel": "/image/games/igdb_194757.jpg",
+    "screenshot_rels": [
+      "/image/games/igdb_194757_ss1.jpg",
+      "/image/games/igdb_194757_ss2.jpg",
+      "/image/games/igdb_194757_ss3.jpg",
+      "/image/games/igdb_194757_ss4.jpg"
+    ],
+    "developers": [
+      "AlfaSystem Co., Ltd."
+    ],
+    "publishers": [
+      "ASCII Corporation"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure"
+    ],
+    "release_date": "1995年10月13日",
+    "short_description": "Linda 3 Kanzenban is a slightly different version of Linda 3 Again - which, in its turn, is a remake of the PC Engine CD original version.\n\nFor the most part, the game looks, sounds, and plays exactly the same as the Playstation remake. However, the Saturn version comes with a few extras, in-game as well as in the packaging.",
+    "alttitle": "Linda Cube Kanzenban"
+  },
+  "bank_meta": {
+    "built_at": "2026-08-12T14:20:41.993803",
+    "title": "リンダキューブ",
+    "title_spec": "リンダキューブ|Linda Cube Kanzenban",
+    "variant": "retro",
+    "built_ts": "20260812_141804",
+    "residual_cleaned": true
+  }
+}

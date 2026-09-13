@@ -1,0 +1,528 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-09-13T20:17:35.258256+00:00",
+  "title": "ブレーキを相談する朝 〜974個の穴と、10年目の土台〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "intro",
+      "text": "おはようございます、旅の道ラジオ朝便。月曜の朝も、テックの話題をサクッと流していく、四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 週の始まり、眠気ごと吹き飛ばしていくのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今朝は四本。AI業界のトップたちがそろってブレーキを口にした話から、10年目の古い土台に出た新しいチップまでね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ブレーキ!? あのアクセル全開の人たちが、止まるって言い出したのだ!?",
+      "news_index": 0,
+      "reading": "ブレーキ!?あのアクセルぜんかいのひとたちが、とまるっていいだしたのだ!?"
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "止まるんじゃなくて、スピードを整えようって話。そこが今朝の肝だから、一本目でじっくりいくわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "朝から大物じゃん! じゃあ一本目、いくのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "アンソロピックのダリオ・アモデイ社長が、九月十二日に長いエッセイを出したの。題名は、最先端のペースを整えなければならない、って意味。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "アンソロピックって、クロードを作ってる会社だよね。自分でAIを作ってる人が、遅くしようって言ってるのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこが皮肉なところ。この夏からのAIの伸びるスピードに、安全対策が追いつかなくなったと本人が書いてるのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "自分で車を速くしすぎて、ハンドルさばきが追いつかなくなったってことじゃん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "たとえは合ってるわ。で、ブレーキは三段階で踏む計画なの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "三段階? 急ブレーキじゃないってこと?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "一段目は、外部の評価者を会社の中に置きっぱなしにすること。社員並みに中身を見られる見張り役。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、ライバルの会社に中身を見られちゃうのだ!?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "ライバルじゃないわよ、安全性を調べる第三者の専門家。銀行に検査官が入るのと同じ発想ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "テストの間じゅう、ずっと横に試験官が座ってる感じなのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二段目は、民主主義の国のAI企業どうしで安全の基準をそろえること。三段目で、ほかの国まで巻き込む構想よ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "でもそれ、アンソロピックだけ遅くなったら、ライバルに抜かれて終わりじゃん?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこで驚きの展開。オープンエーアイのサム・アルトマンが、評価者を置く案に、うちも同じことをやると乗ってきたの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? いつもバチバチの二社が、同じ向きを向いたのだ!?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "さらにイーロン・マスクも、ダリオは正しい、のひと言。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "マスクさんまで!? ボク、今日が何曜日か分からなくなってきたのだ……。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ただ、話はそう簡単じゃないわ。オープンエーアイは、みんなで一緒に減速したら独占禁止法に触れないか、アメリカの議会に問い合わせてると九月十一日に報じられたの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "どくせんきんし? 仲良く遅くするのが、なんで法律違反なのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ライバル同士が示し合わせて開発のスピードを抑えると、談合と同じ扱いになりかねないの。町のガソリンスタンドが全店で値段をそろえたら、怒られるでしょ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、安全のための相談でも、見た目は談合になっちゃうってことなのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今の一行が正解。ブレーキを踏む相談にまで、法律の確認がいる時代ってわけ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、ボクたちの生活には、なにか関係あるのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "明日すぐ変わる話じゃないわ。ただ、新しいAIが世に出る前に外の目でチェックされる流れができれば、使う側の安心感は上がるはずよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "使う側としては、見張りがいるほうが安心なのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "じゃあ二本目。今度は逆に、アクセル全開の話よ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "待ってたのだ、スピード感あるやつ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "中国のディープシークが、九月十日に、フラッシュっていう新しい軽量版のAIを出したの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ふらっしゅ? カメラがピカッて光るやつなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "光らないわよ。速くて安い、小回り重視の版に付いてる名前ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "軽いほうってことは、上に重たい上位版もいるってこと?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "いるわ、プロって名前のね。で、会社いわく、新しいフラッシュがそのプロを、成績でも速さでも安さでも上回ったって。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? 弟が、お兄ちゃんを全部の種目で抜いちゃったのだ!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "しかも九月十四日のお昼過ぎから、プロ宛ての依頼は自動でフラッシュに回される仕組み。料金も、フラッシュの安い値段でね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "お兄ちゃんの席に、弟が座らされるやつじゃん。お兄ちゃん、立場ないのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "新しいプロが出るまでの、つなぎの措置よ。お兄ちゃんは作り直し中ってこと。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でもボク、ディープシークのAIって直接使ったことないのだ。関係あるの?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ここの武器は値段なのよ。安くて賢いのが出るたびに、ほかの会社も値下げを迫られるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、隣の店が安売りしたら、近所の店まで値下げするやつなのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そういうこと。巡り巡って、私たちが払うAIサービスの値段にも効いてくる話。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目は、ウィンドウズのパソコンを持ってる人にも関係する話。マイクロソフトの九月の定例更新で、同社製品全体の直した穴の数が過去最多になったの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ウィンドウズに穴!? 雨漏りでもするのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "雨じゃなくて、悪い人が入り込めるセキュリティの弱点のこと。その数、マイクロソフト製品全体で974個。そのうちウィンドウズ関連は723個よ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "974個!? ボクの靴下の穴を全部足しても、そんなにないのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "これまでの最多が、七月の570個。それを一気に塗り替えたわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "そんなに穴だらけで、ボクのパソコン、よく今まで動いてたのだ……。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "急に壊れたわけじゃないの。マイクロソフトは七月の時点で、AIで弱点探しをするから、直す数が一気に増えるって予告してたのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、虫眼鏡をすごく強力なのに替えたら、ホコリがいっぱい見えたってことじゃん!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "うまいわね。前から潜んでいたホコリまで、たくさん見つけやすくなったって話。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "じゃあ、見つかったならもう安心ってことで、いいのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "そこは油断禁物。974個のうち、すでに悪用されてた穴が二つあったのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、もう泥棒が入ってた窓があったってこと!?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "だから今朝のお願いは一つ。ウィンドウズの更新を後回しにしてる人は、今日こそ再起動まで済ませてね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "ボク、再起動のお知らせ、ずっと明日に回してたのだ……。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "今日やればいいのよ。AIが穴を見つける時代は、更新をためない人ほど守られるってこと。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "会社に着いたら、真っ先に再起動するのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ラスト四本目は、自作パソコン派の人に。エーエムディーが九月十日に、新しいシーピーユーを出したの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "しーぴーゆー、パソコンの頭脳のやつだよね。どんなすごいのが出たの?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "すごいのは性能より、値札と土台。アメリカで99ドル、ざっくり1万5,000円くらいの、ライゼン ファイブ ごーごーまるまるエフよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "1万5,000円!? シーピーユーって、何万円もするものじゃなかったのだ!?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おもしろいのはここから。これ、エーエムフォーっていう、登場から10年たつ古い土台に挿すチップなのよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "土台? 10年前の家に、新しい家具を入れる感じ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "いい例えね。土台はマザーボード、部品をつなぐ基板のことで、古い家のまま頭脳だけ入れ替えられるの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも、なんで今さら古い土台向けに出すのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "この土台なら、高騰している新しいメモリを買わずに済むのよ。ひと世代前のメモリで動くから、手持ちのをそのまま使い回せるわけ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、前に話したメモリ高騰から逃げる、抜け道なのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そういうこと。ただ日本での値段はまだ出てないし、映像を出す機能は付いてないから、グラフィックボードは別に要るわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "値札の話、ついでにもう一個ないの?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kamera",
+      "text": "秋葉原のツクモのお店で、シーゲートの24テラバイトのハードディスクが79,800円。同じシリーズの16や20テラバイトより安かったって。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "大きいほうが安い!? ポテトのLが、Mより安いみたいな逆転なのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "値上がりが続く今だからこそ、細かく見比べると掘り出し物に当たるわけ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "要するに、新品の最強より、賢い組み合わせで勝つ時代ってことなのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "今朝いちばんの要約だわ。自作するなら、手持ちの部品を捨てる前に一回考えてみて。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで今朝は四本。ブレーキを相談し始めたAI業界、兄を追い越したディープシークの弟、974個の穴、そして10年目の土台だったわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "聴いてくれてるかた、ウィンドウズの再起動、忘れずになのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "それが今朝いちばん役に立つひと言かもね。気になった話があったら、ぜひ調べてみて。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ボクは、マスクさんとアルトマンさんが同じことを言った、その続きが気になるのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "足並みがそろうかは、まだこれからよ。それじゃ、また明日の旅の道ラジオ朝便で。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "いってらっしゃいなのだー!",
+      "news_index": 0
+    }
+  ],
+  "program_description": "旅の道ラジオ朝便のテックニュース回。アンソロピックのアモデイ社長が、AI開発のペースを落とそうと呼びかけ、サム・アルトマンとイーロン・マスクまで賛同した話と、みんなで減速すると独占禁止法に触れるかもしれない悩みから出発。続いて、中国のディープシークの新しい軽量版が上位版を追い越し、上位版宛ての依頼がそのまま回されることになった兄弟逆転の話。マイクロソフトの九月の更新で、AIが見つけたセキュリティの穴が過去最多の974個になった件と、更新をためない大切さ。最後は、10年目の古い土台に出たエーエムディーの安いシーピーユーと、大きいほうが安かったハードディスクの値札まで、四本をサクッと雑談した回です。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20260914_051735_chars.webp",
+    "hero_rel": "/images/topics/tech_20260914_051735.webp",
+    "title": "ブレーキを相談する朝 〜974個の穴と、10年目の土台〜",
+    "companies": [
+      "OpenAI",
+      "Claude",
+      "DeepSeek",
+      "Microsoft",
+      "AMD",
+      "X"
+    ],
+    "thumbnail_ready": true
+  },
+  "summary_short": "AI開発を減速すべき」に業界トップが賛同しつつ独禁法の壁を心配する回。中国発の軽量モデルが上位版を逆転し、マイクロソフト製品の脆弱性発見数は過去最多に。10年選手のPCにAMDの格安CPUを足す土台談義まで、四本を雑談。"
+}
