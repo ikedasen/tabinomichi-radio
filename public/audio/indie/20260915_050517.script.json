@@ -1,0 +1,614 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-08-12T05:18:29.888572+00:00",
+  "title": "半熟のまま世界を獲れ 〜スクウェアが本気でふざけた卵の戦争〜",
+  "segments": [
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "旅の道ラジオへようこそなのだ！ パーソナリティのずんだもんなのだー！",
+      "news_index": 0
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "intro",
+      "text": "ちっす！ 今回もレトロ担当は、あーしが持っていくっすよー！",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "今回はレトロゲーム回なのだ！ つむぎ、お題はなんなのだ？",
+      "news_index": 0
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "お題は『半熟英雄 ああ、世界よ半熟なれ』っす！ スーパーファミコンで1992年に出た、スクウェアのギャグ戦争シミュレーションっす！",
+      "reading": "おだいは、はんじゅくえいゆうああ、せかいよはんじゅくなれ、っす！スーパーファミコンでせんきゅうひゃくきゅうじゅうにねんにでた、スクウェアのギャグせんそうシミュレーションっす！",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "半熟英雄……つまり目玉焼きを焼くゲームなのだ？ 黄身が固まる前にひっくり返すやつなのだ。",
+      "reading": "はんじゅくえいゆう……つまりめだまやきをやくゲームなのだ？ きみがかたまるまえにひっくりかえすやつなのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "先輩それガチ違うっす。 卵は出てくるっすけど、焼くんじゃなくて中から怪物が出るっす。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "余計にわけがわからないのだ！ 卵料理が怪獣になるのだ？",
+      "news_index": 0
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そういうゲームっす。 要するに、スクウェアが真顔でふざけ倒した一本っすよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "もうちょっとちゃんと教えてほしいのだ。 いつ出たゲームなのだ？",
+      "news_index": 1
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "発売は1992年12月19日、開発も販売もスクウェアっす。",
+      "reading": "はつばいはせんきゅうひゃくきゅうじゅうにねんじゅうにがつじゅうくにち、かいはつもはんばいもスクウェアっす。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "1992年って、ボクが生まれる前の前の前くらいなのだ。 まだずんだ餅も半熟だった時代なのだ。",
+      "reading": "せんきゅうひゃくきゅうじゅうにねんって、ぼくがうまれるまえのまえのまえくらいなのだ。まだずんだもちもはんじゅくだったじだいなのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "ずんだ餅に半熟あるんすか。 先輩の年表、ざっくりすぎっす。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "スクウェアって、あのファイナルファンタジーのところなのだ？",
+      "news_index": 1
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "まさにそのスクウェアっす！ 全編コメディタッチで、ギャグとパロディが随所に散りばめられてるっす。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "名作の顔をして中身がふざけてるのだ。 スーツで来た人がずっと変な踊りしてる感じなのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "要するに、真面目な会社がガチでふざけると強いって話っす。",
+      "news_index": 1
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "で、実はこれ2作目っす。 初代はファミコンで1988年12月2日に出てるっす。",
+      "reading": "で、じつはこれにさくめっす。しょだいはファミコンでせんきゅうひゃくはちじゅうはちねんじゅうにがつふつかにでてるっす。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあ初代は白黒だったのだ？ ピー音だけで戦争してたのだ？",
+      "news_index": 2
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "ファミコンなめすぎっす先輩。 ちゃんと色も音も出るっすよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "……ごめんなさいなのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "初代は複数の敵勢力がいて、大陸の統一がクリア条件の自由なシムだったっす。 スーファミ版はそこを変えて、明確なストーリーの全12話ステージクリア制にしたっす。",
+      "reading": "しょだいはふくすうのてきせいりょくがいて、たいりくのとういつがクリアじょうけんのじゆうなシムだったっす。スーファミばんはそこをかえて、めいかくなストーリーのぜんじゅうにわステージクリアせいにしたっす。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "自由に大陸を統一してたのに、急に12話の連ドラになったのだ？ 頭がぐるぐるするのだ。",
+      "reading": "じゆうにたいりくをとういつしてたのに、きゅうにじゅうにわのれんドラになったのだ？あたまがぐるぐるするのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "しかもマルチエンディングっす！ 要するに、初代の自由なシムをストーリー物に作り替えた続編ってことっす。",
+      "reading": "しかもマルチエンディングっす！ ようするに、しょだいのじゆうなシムをストーリーものにつくりかえたぞくへんってことっす。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "終わりかたが変わるのは、ボクの好きなやつなのだ。 何回も遊べるゲームは正義なのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "ここからガチで語らせてもらうっすけど、このゲーム最大の特徴がエッグモンスターっす！",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "出たのだ、さっきの卵怪獣なのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "将軍が持ってる卵から怪物を召喚して、兵士の代わりに戦わせるっす。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "兵士の代わりって、兵士はなにしてるのだ？ 見学なのだ？",
+      "news_index": 3
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "ほぼ見学っす。 卵が強すぎるんで、そうなるっすね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "卵って1種類なのだ？",
+      "news_index": 3
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "カラフルエッグ、スーパーエッグ、ワンダーエッグ、イビルエッグ、サイバーエッグとか、いろんな卵があるっす。 種類で出てくる怪物が変わるっす。",
+      "reading": "カラフルエッグ、スーパーエッグ、ワンダーエッグ、イビルエッグ、サイバーエッグとか、いろんなたまごがあるっす。 しゅるいででてくるかいぶつがかわるっす。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "サイバーエッグ！ もう卵の概念が壊れてるのだー！",
+      "news_index": 3
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "壊れてるのが正解っす。 あと大事なのがネタ元で、エッグモンスターはファイナルファンタジー4のキャラのパロディっす。",
+      "reading": "こわれてるのがせいかいっす。 あとだいじなのがネタもとで、エッグモンスターはファイナルファンタジーフォーのキャラのパロディっす。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "えっ、自分の会社の看板作品をおもちゃにしてるのだ！？",
+      "news_index": 3
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "それがスクウェアのふざけ枠っす。 身内ネタを全力でやるのが伝統っすね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "誰がどのキャラなのだ？ 全部教えてほしいのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "kangae",
+      "text": "うーん、そこは資料でハッキリしてないんで、あーしも断言しないでおくっす。 気になるオタクくんは、実物で確かめてほしいっす。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあ卵を割るのが答え合わせなのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ゲームは戦闘パートと内政パートの二本立てっす。 月が経過するたびに、月イチコマンドって画面が来るっす。",
+      "reading": "ゲームはせんとうパートとないせいパートのにほんだてっす。 つきがけいかするたびに、つきいちコマンドってがめんがくるっす。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "月イチって、月に一回しか遊べないゲームなのだ？ 気が長すぎるのだ。",
+      "reading": "つきいちって、つきにいっかいしかあそべないゲームなのだ？ きがながすぎるのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "サブスクじゃないっす先輩。 ゲーム内の一ヶ月ごとに、将軍を募集したり兵士を補充したり城を建てたりする内政ターンっすよ。",
+      "reading": "サブスクじゃないっすせんぱい。 ゲームないのいっかげつごとに、しょうぐんをぼしゅうしたりへいしをほじゅうしたりしろをたてたりするないせいターンっすよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "城を建てる！ ボクもずんだ城が欲しいのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsukuriama",
+      "text": "あーしも城を建てまくって、気づいたら国庫が空っぽになってたっす。 楽しかったっすよー、ぴーすぴーす。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "つむぎ、目が笑ってないのだ……。",
+      "news_index": 4
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そんなことないっすよ、あーしはいつも通りっす！ で、将軍の話に戻すっす。",
+      "news_index": 4,
+      "reading": "そんなことないっすよ、あーしはいつもトオリッス！で、ショウグンノハナシニモドスッス。"
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "初代の将軍はギリシャ神話とローマ神話由来の名前ばっかだったっす。 2作目からは食べ物系の名前とか、自社キャラの名前を冠した将軍が増えたっす。",
+      "reading": "しょだいのしょうぐんはギリシャしんわとローマしんわゆらいのなまえばっかだったっす。にさくめからはたべものけいのなまえとか、じしゃキャラのなまえをかんしたしょうぐんがふえたっす。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "食べ物系！ じゃあ将軍ずんだも絶対いるのだ！",
+      "news_index": 4
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "いないっす。 先輩の願望を歴史に混ぜないでほしいっす。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "戦争はどう進むのだ？ 順番にコマを動かすのだ？",
+      "news_index": 4
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そこが変わってて、戦争がリアルタイムで進むっす。 家庭用ゲーム機ではかなり早い時期のリアルタイム戦略ものっす。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "リアルタイム！？ ボクが寝てる間も敵が攻めてくるのだ！？",
+      "news_index": 4
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "電源切ったら止まるっす、安心してほしいっす。 要するに、考えてる間も戦況が動くタイプっすね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ところで、このゲームの音楽はどんな感じなのだ？",
+      "news_index": 5
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そこがあーしの一番語りたいとこっす。 このスーファミ版、すぎやまこういちが手がけてるっす。",
+      "reading": "そこがあーしのいちばんかたりたいとこっす。 このスーファミばん、すぎやまこういちがてがけてるっす。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "えっ！ ドラゴンクエストの音楽のかたなのだ！？",
+      "news_index": 5
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そうっす！ ドラゴンクエストで有名なあのかたが、卵のギャグゲーに本気で曲を書いてるっす。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "勇者の代わりに卵が出てくるドラゴンクエストなのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "言いかたよ、って感じっすけど、音の豪華さはガチでそのレベルっす。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "なんでそのかたが参加したのだ？",
+      "news_index": 5
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "初代の大ファンだったらしくて、企画発案の段階から積極的に関わってたっす。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "ファンが本気を出したパターンなのだ。 それはいい話なのだ。",
+      "news_index": 5,
+      "reading": "ファンがホンキヲダシタパターンなのだ。それはいいハナシナノダ。"
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "サウンドトラックも出てるっす。 『ディヴェルティメント半熟英雄』ってタイトルで、1993年1月21日発売っす。",
+      "reading": "サウンドトラックもでてるっす。でぃゔぇるてぃめんとはんじゅくえいゆう、ってタイトルで、せんきゅうひゃくきゅうじゅうさんねんいちがつにじゅういちにちはつばいっす。",
+      "news_index": 5
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "中身はオリジナルが42曲、プラスでオーケストラアレンジが4曲っす！ ギャグゲーのサウンドトラックでオーケストラっすよ。",
+      "reading": "なかみはオリジナルがよんじゅうにきょく、プラスでオーケストラアレンジがよんきょくっす！ ギャグゲーのサウンドトラックでオーケストラっすよ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "ふざけたゲームの曲を、オーケストラが真顔で演奏してるのだ……。 その現場を見たかったのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "シナリオは時田貴司、プロデューサーは青木和彦っす。",
+      "reading": "シナリオはときたたかし、プロデューサーはあおきかずひこっす。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "その青木さんは、きっと卵が好きだったのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "知らんっす。 そこまでは資料に書いてないっすよ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "このシリーズ、これで終わりなのだ？",
+      "news_index": 6
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "その後も続いてるっす。 2002年にはワンダースワンカラーでリメイクが出てるっす。",
+      "reading": "そのあともつづいてるっす。にせんにねんにはワンダースワンカラーでリメイクがでてるっす。",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ワンダースワン！ さっきのワンダーエッグの仲間なのだ？",
+      "news_index": 6
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "たまたまっす。 名前が似てるだけっすよ。",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "リメイクはなにが変わったのだ？",
+      "news_index": 6
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "グラフィックが一新されて、召喚が12種類も追加されたっす。 評判もかなり良かったっす。",
+      "reading": "グラフィックがいっしんされて、しょうかんがじゅうにしゅるいもついかされたっす。 ひょうばんもかなりよかったっす。",
+      "news_index": 6
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "その後もプレステ2で続編が2本、ニンテンドーDSにはスピンオフも出てるっす。",
+      "reading": "そのあともプレステツーでぞくへんがにほん、ニンテンドーディーエスにはスピンオフもでてるっす。",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "意外と長生きしてるのだ。 売れたのだ？",
+      "news_index": 6
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "1994年2月の時点で、初代とスーファミ版を合わせて国内40万本っす。",
+      "reading": "せんきゅうひゃくきゅうじゅうよねんにがつのじてんで、しょだいとスーファミばんをあわせてこくないよんじゅうまんぼんっす。",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "40万本！ ボクの知り合い全員が2本ずつ買っても、全然足りないのだ。",
+      "reading": "よんじゅうまんぼん！ ぼくのしりあいぜんいんがにほんずつかっても、ぜんぜんたりないのだ。",
+      "news_index": 6
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "それ、先輩の交友関係が狭すぎるだけっす。",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "つむぎこそ、ギャル友達にこの卵の話をできるのだ？",
+      "news_index": 6
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "shirake",
+      "text": "……先輩。",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "な、なんでもないのだ……ごめんなさいなのだ……",
+      "news_index": 6
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "コホン。 実はこのスーファミ版、2017年にスマホ版も出てるっす。",
+      "reading": "コホン。じつはこのスーファミばん、にせんじゅうななねんにスマホばんもでてるっす。",
+      "news_index": 7
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "じゃあボクでも遊べるのだ！ 卵を割りに行くのだ。",
+      "news_index": 7
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "オタクくんも一回は触ってほしいっす。 真面目な会社の全力のふざけって、なかなか見られないっすよ。",
+      "news_index": 7
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "名作の顔をした変なゲーム、ボクは大好きなのだ。",
+      "news_index": 7
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "それなっす！ あーし的にも家宝枠っす。",
+      "news_index": 7
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "最後に一個だけ確認なのだ。 これ、目玉焼きは焼けないのだ？",
+      "news_index": 7
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "焼けないっす。 そこだけ最後まで諦めないの、やめてほしいっす。",
+      "news_index": 7
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ということで、旅の道ラジオはここまでなのだ！",
+      "news_index": 7
+    },
+    {
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "また旅の道ラジオで会いましょうっす！",
+      "news_index": 7,
+      "reading": "またたびのみちラジオであいましょうっす！"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "またなのだー！",
+      "news_index": 7
+    }
+  ],
+  "program_description": "今回のレトロ回は、スクウェアが1992年にスーパーファミコンで出した『半熟英雄 ああ、世界よ半熟なれ…!!』。真面目な大手が全力でふざけ倒した、ギャグ×リアルタイム戦争シミュレーションの怪作を掘り下げます。将軍が持つ卵から怪物を呼び出すエッグモンスター召喚、月が経過するたびに回ってくる月イチコマンドの内政、全12話のステージクリア制とマルチエンディングといった仕組みを、ファミコンの初代からどう作り替えられたのかという流れごと整理。音楽をすぎやまこういちが手がけた経緯や、オーケストラアレンジ入りのサウンドトラック、ワンダースワンカラー版のリメイクとその後の続編まで話は伸びていきます。エッグモンスターがファイナルファンタジー4のキャラのパロディという身内ネタ全開っぷりに驚きつつ、ずんだもんが最後まで「これは目玉焼きを焼くゲーム」だと信じ続ける回。",
+  "featured_game": {
+    "app_id": null,
+    "igdb_id": 37441,
+    "title": "半熟英雄 ああ、世界よ半熟なれ…!!",
+    "image_rel": "/images/topics/indie_20260915_050517_chars.webp",
+    "hero_rel": "/image/games/igdb_37441.jpg",
+    "screenshot_rels": [
+      "/image/games/igdb_37441_ss1.jpg",
+      "/image/games/igdb_37441_ss2.jpg",
+      "/image/games/igdb_37441_ss3.jpg"
+    ],
+    "developers": [
+      "Square"
+    ],
+    "publishers": [
+      "Square"
+    ],
+    "genres": [
+      "Real Time Strategy (RTS)",
+      "Strategy"
+    ],
+    "release_date": "1992-12-19",
+    "short_description": "Hanjuku Hero: Aa, Sekai yo Hanjuku Nare...! is the second game in the series. The Egg Monsters featured in the game are parodies of Final Fantasy IV characters.\n\nThe game was re-released on the WonderSwan Color in 2002. This version features a graphical overhaul and twelve new summons.",
+    "alttitle": "Hanjuku Hero: Aa Sekai yo Hanjuku Nare"
+  },
+  "bank_meta": {
+    "built_at": "2026-08-12T14:20:08.705075",
+    "title": "半熟英雄 ああ、世界よ半熟なれ…!!",
+    "title_spec": "半熟英雄 ああ、世界よ半熟なれ…!!|Hanjuku Hero: Aa, Sekai yo Hanjuku Nare...!|Hanjuku Eiyuu",
+    "variant": "retro",
+    "built_ts": "20260812_141829",
+    "residual_cleaned": true
+  }
+}

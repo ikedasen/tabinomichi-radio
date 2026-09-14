@@ -1,0 +1,936 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-09-15T05:05:17+09:00",
+  "title": "半熟のまま世界を獲れ 〜スクウェアが本気でふざけた卵の戦争〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 452.33,
+  "script_hash": "sha256:dda5b684e11364b0f2235190152e2e99bd684e3f823f4f100ceacea279b64595",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 6.34
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "旅の道ラジオへようこそなのだ！ パーソナリティのずんだもんなのだー！",
+      "news_index": 0,
+      "start_sec": 6.34,
+      "end_sec": 10.81
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "intro",
+      "text": "ちっす！ 今回もレトロ担当は、あーしが持っていくっすよー！",
+      "news_index": 0,
+      "start_sec": 10.96,
+      "end_sec": 14.82
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "今回はレトロゲーム回なのだ！ つむぎ、お題はなんなのだ？",
+      "news_index": 0,
+      "start_sec": 14.97,
+      "end_sec": 19.04
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "お題は『半熟英雄 ああ、世界よ半熟なれ』っす！ スーパーファミコンで1992年に出た、スクウェアのギャグ戦争シミュレーションっす！",
+      "news_index": 0,
+      "start_sec": 19.19,
+      "end_sec": 28.21
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "半熟英雄……つまり目玉焼きを焼くゲームなのだ？ 黄身が固まる前にひっくり返すやつなのだ。",
+      "news_index": 0,
+      "start_sec": 28.36,
+      "end_sec": 35.58
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "先輩それガチ違うっす。 卵は出てくるっすけど、焼くんじゃなくて中から怪物が出るっす。",
+      "news_index": 0,
+      "start_sec": 35.73,
+      "end_sec": 41.32
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "余計にわけがわからないのだ！ 卵料理が怪獣になるのだ？",
+      "news_index": 0,
+      "start_sec": 41.47,
+      "end_sec": 45.92
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そういうゲームっす。 要するに、スクウェアが真顔でふざけ倒した一本っすよ。",
+      "news_index": 0,
+      "start_sec": 46.07,
+      "end_sec": 50.73
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "もうちょっとちゃんと教えてほしいのだ。 いつ出たゲームなのだ？",
+      "news_index": 1,
+      "start_sec": 50.88,
+      "end_sec": 54.62
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "発売は1992年12月19日、開発も販売もスクウェアっす。",
+      "news_index": 1,
+      "start_sec": 54.77,
+      "end_sec": 59.92
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "1992年って、ボクが生まれる前の前の前くらいなのだ。 まだずんだ餅も半熟だった時代なのだ。",
+      "news_index": 1,
+      "start_sec": 60.07,
+      "end_sec": 67.16
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "ずんだ餅に半熟あるんすか。 先輩の年表、ざっくりすぎっす。",
+      "news_index": 1,
+      "start_sec": 67.31,
+      "end_sec": 71.87
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "スクウェアって、あのファイナルファンタジーのところなのだ？",
+      "news_index": 1,
+      "start_sec": 72.02,
+      "end_sec": 75.38
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "まさにそのスクウェアっす！ 全編コメディタッチで、ギャグとパロディが随所に散りばめられてるっす。",
+      "news_index": 1,
+      "start_sec": 75.53,
+      "end_sec": 81.05
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "名作の顔をして中身がふざけてるのだ。 スーツで来た人がずっと変な踊りしてる感じなのだ。",
+      "news_index": 1,
+      "start_sec": 81.2,
+      "end_sec": 87.9
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "要するに、真面目な会社がガチでふざけると強いって話っす。",
+      "news_index": 1,
+      "start_sec": 88.05,
+      "end_sec": 91.9
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "で、実はこれ2作目っす。 初代はファミコンで1988年12月2日に出てるっす。",
+      "news_index": 2,
+      "start_sec": 91.98,
+      "end_sec": 98.06
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあ初代は白黒だったのだ？ ピー音だけで戦争してたのだ？",
+      "news_index": 2,
+      "start_sec": 98.21,
+      "end_sec": 102.41
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "ファミコンなめすぎっす先輩。 ちゃんと色も音も出るっすよ。",
+      "news_index": 2,
+      "start_sec": 102.56,
+      "end_sec": 106.06
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "……ごめんなさいなのだ。",
+      "news_index": 2,
+      "start_sec": 106.21,
+      "end_sec": 107.45
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "初代は複数の敵勢力がいて、大陸の統一がクリア条件の自由なシムだったっす。 スーファミ版はそこを変えて、明確なストーリーの全12話ステージクリア制にしたっす。",
+      "news_index": 2,
+      "start_sec": 107.6,
+      "end_sec": 118.05
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "自由に大陸を統一してたのに、急に12話の連ドラになったのだ？ 頭がぐるぐるするのだ。",
+      "news_index": 2,
+      "start_sec": 118.2,
+      "end_sec": 125.94
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "しかもマルチエンディングっす！ 要するに、初代の自由なシムをストーリー物に作り替えた続編ってことっす。",
+      "news_index": 2,
+      "start_sec": 126.09,
+      "end_sec": 132.45
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "終わりかたが変わるのは、ボクの好きなやつなのだ。 何回も遊べるゲームは正義なのだ。",
+      "news_index": 2,
+      "start_sec": 132.6,
+      "end_sec": 138.68
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "ここからガチで語らせてもらうっすけど、このゲーム最大の特徴がエッグモンスターっす！",
+      "news_index": 3,
+      "start_sec": 138.83,
+      "end_sec": 143.68
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "出たのだ、さっきの卵怪獣なのだ。",
+      "news_index": 3,
+      "start_sec": 143.83,
+      "end_sec": 146.48
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "将軍が持ってる卵から怪物を召喚して、兵士の代わりに戦わせるっす。",
+      "news_index": 3,
+      "start_sec": 146.63,
+      "end_sec": 151.49
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "兵士の代わりって、兵士はなにしてるのだ？ 見学なのだ？",
+      "news_index": 3,
+      "start_sec": 151.64,
+      "end_sec": 155.68
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "ほぼ見学っす。 卵が強すぎるんで、そうなるっすね。",
+      "news_index": 3,
+      "start_sec": 155.83,
+      "end_sec": 159.63
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "卵って1種類なのだ？",
+      "news_index": 3,
+      "start_sec": 159.78,
+      "end_sec": 161.64
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "カラフルエッグ、スーパーエッグ、ワンダーエッグ、イビルエッグ、サイバーエッグとか、いろんな卵があるっす。 種類で出てくる怪物が変わるっす。",
+      "news_index": 3,
+      "start_sec": 161.79,
+      "end_sec": 170.61
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "サイバーエッグ！ もう卵の概念が壊れてるのだー！",
+      "news_index": 3,
+      "start_sec": 170.76,
+      "end_sec": 174.25
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "壊れてるのが正解っす。 あと大事なのがネタ元で、エッグモンスターはファイナルファンタジー4のキャラのパロディっす。",
+      "news_index": 3,
+      "start_sec": 174.4,
+      "end_sec": 180.93
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "えっ、自分の会社の看板作品をおもちゃにしてるのだ！？",
+      "news_index": 3,
+      "start_sec": 181.08,
+      "end_sec": 184.99
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "それがスクウェアのふざけ枠っす。 身内ネタを全力でやるのが伝統っすね。",
+      "news_index": 3,
+      "start_sec": 185.14,
+      "end_sec": 189.61
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "誰がどのキャラなのだ？ 全部教えてほしいのだ。",
+      "news_index": 3,
+      "start_sec": 189.76,
+      "end_sec": 193.53
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kangae",
+      "text": "うーん、そこは資料でハッキリしてないんで、あーしも断言しないでおくっす。 気になるオタクくんは、実物で確かめてほしいっす。",
+      "news_index": 3,
+      "start_sec": 193.68,
+      "end_sec": 201.86
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあ卵を割るのが答え合わせなのだ。",
+      "news_index": 3,
+      "start_sec": 202.01,
+      "end_sec": 204.49
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ゲームは戦闘パートと内政パートの二本立てっす。 月が経過するたびに、月イチコマンドって画面が来るっす。",
+      "news_index": 4,
+      "start_sec": 204.64,
+      "end_sec": 211.16
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "月イチって、月に一回しか遊べないゲームなのだ？ 気が長すぎるのだ。",
+      "news_index": 4,
+      "start_sec": 211.31,
+      "end_sec": 216.22
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "サブスクじゃないっす先輩。 ゲーム内の一ヶ月ごとに、将軍を募集したり兵士を補充したり城を建てたりする内政ターンっすよ。",
+      "news_index": 4,
+      "start_sec": 216.37,
+      "end_sec": 223.9
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "城を建てる！ ボクもずんだ城が欲しいのだ。",
+      "news_index": 4,
+      "start_sec": 224.05,
+      "end_sec": 227.21
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriama",
+      "text": "あーしも城を建てまくって、気づいたら国庫が空っぽになってたっす。 楽しかったっすよー、ぴーすぴーす。",
+      "news_index": 4,
+      "start_sec": 227.36,
+      "end_sec": 233.54
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "つむぎ、目が笑ってないのだ……。",
+      "news_index": 4,
+      "start_sec": 233.69,
+      "end_sec": 236.74
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そんなことないっすよ、あーしはいつも通りっす！ で、将軍の話に戻すっす。",
+      "news_index": 4,
+      "start_sec": 236.89,
+      "end_sec": 242.01
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "初代の将軍はギリシャ神話とローマ神話由来の名前ばっかだったっす。 2作目からは食べ物系の名前とか、自社キャラの名前を冠した将軍が増えたっす。",
+      "news_index": 4,
+      "start_sec": 242.09,
+      "end_sec": 251.26
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "食べ物系！ じゃあ将軍ずんだも絶対いるのだ！",
+      "news_index": 4,
+      "start_sec": 251.41,
+      "end_sec": 254.72
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "いないっす。 先輩の願望を歴史に混ぜないでほしいっす。",
+      "news_index": 4,
+      "start_sec": 254.87,
+      "end_sec": 258.45
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "戦争はどう進むのだ？ 順番にコマを動かすのだ？",
+      "news_index": 4,
+      "start_sec": 258.6,
+      "end_sec": 262.38
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そこが変わってて、戦争がリアルタイムで進むっす。 家庭用ゲーム機ではかなり早い時期のリアルタイム戦略ものっす。",
+      "news_index": 4,
+      "start_sec": 262.53,
+      "end_sec": 269.57
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "リアルタイム！？ ボクが寝てる間も敵が攻めてくるのだ！？",
+      "news_index": 4,
+      "start_sec": 269.72,
+      "end_sec": 274.37
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "電源切ったら止まるっす、安心してほしいっす。 要するに、考えてる間も戦況が動くタイプっすね。",
+      "news_index": 4,
+      "start_sec": 274.52,
+      "end_sec": 280.92
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ところで、このゲームの音楽はどんな感じなのだ？",
+      "news_index": 5,
+      "start_sec": 281.07,
+      "end_sec": 284.47
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そこがあーしの一番語りたいとこっす。 このスーファミ版、すぎやまこういちが手がけてるっす。",
+      "news_index": 5,
+      "start_sec": 284.62,
+      "end_sec": 290.08
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "えっ！ ドラゴンクエストの音楽のかたなのだ！？",
+      "news_index": 5,
+      "start_sec": 290.23,
+      "end_sec": 293.25
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そうっす！ ドラゴンクエストで有名なあのかたが、卵のギャグゲーに本気で曲を書いてるっす。",
+      "news_index": 5,
+      "start_sec": 293.4,
+      "end_sec": 298.91
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "勇者の代わりに卵が出てくるドラゴンクエストなのだ。",
+      "news_index": 5,
+      "start_sec": 299.06,
+      "end_sec": 302.86
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "言いかたよ、って感じっすけど、音の豪華さはガチでそのレベルっす。",
+      "news_index": 5,
+      "start_sec": 303.01,
+      "end_sec": 307.33
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "なんでそのかたが参加したのだ？",
+      "news_index": 5,
+      "start_sec": 307.48,
+      "end_sec": 309.66
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "初代の大ファンだったらしくて、企画発案の段階から積極的に関わってたっす。",
+      "news_index": 5,
+      "start_sec": 309.81,
+      "end_sec": 314.76
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "ファンが本気を出したパターンなのだ。 それはいい話なのだ。",
+      "news_index": 5,
+      "start_sec": 314.91,
+      "end_sec": 318.69
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "サウンドトラックも出てるっす。 『ディヴェルティメント半熟英雄』ってタイトルで、1993年1月21日発売っす。",
+      "news_index": 5,
+      "start_sec": 318.84,
+      "end_sec": 326.89
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "中身はオリジナルが42曲、プラスでオーケストラアレンジが4曲っす！ ギャグゲーのサウンドトラックでオーケストラっすよ。",
+      "news_index": 5,
+      "start_sec": 326.97,
+      "end_sec": 334.06
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "ふざけたゲームの曲を、オーケストラが真顔で演奏してるのだ……。 その現場を見たかったのだ。",
+      "news_index": 5,
+      "start_sec": 334.21,
+      "end_sec": 341.38
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "シナリオは時田貴司、プロデューサーは青木和彦っす。",
+      "news_index": 5,
+      "start_sec": 341.53,
+      "end_sec": 345.14
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "その青木さんは、きっと卵が好きだったのだ。",
+      "news_index": 5,
+      "start_sec": 345.29,
+      "end_sec": 348.34
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "知らんっす。 そこまでは資料に書いてないっすよ。",
+      "news_index": 5,
+      "start_sec": 348.49,
+      "end_sec": 351.35
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "このシリーズ、これで終わりなのだ？",
+      "news_index": 6,
+      "start_sec": 351.5,
+      "end_sec": 353.88
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "その後も続いてるっす。 2002年にはワンダースワンカラーでリメイクが出てるっす。",
+      "news_index": 6,
+      "start_sec": 354.03,
+      "end_sec": 358.81
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ワンダースワン！ さっきのワンダーエッグの仲間なのだ？",
+      "news_index": 6,
+      "start_sec": 358.96,
+      "end_sec": 362.98
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "たまたまっす。 名前が似てるだけっすよ。",
+      "news_index": 6,
+      "start_sec": 363.13,
+      "end_sec": 365.79
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "リメイクはなにが変わったのだ？",
+      "news_index": 6,
+      "start_sec": 365.94,
+      "end_sec": 367.96
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "グラフィックが一新されて、召喚が12種類も追加されたっす。 評判もかなり良かったっす。",
+      "news_index": 6,
+      "start_sec": 368.11,
+      "end_sec": 373.89
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "その後もプレステ2で続編が2本、ニンテンドーDSにはスピンオフも出てるっす。",
+      "news_index": 6,
+      "start_sec": 373.97,
+      "end_sec": 378.94
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "意外と長生きしてるのだ。 売れたのだ？",
+      "news_index": 6,
+      "start_sec": 379.09,
+      "end_sec": 381.74
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "1994年2月の時点で、初代とスーファミ版を合わせて国内40万本っす。",
+      "news_index": 6,
+      "start_sec": 381.89,
+      "end_sec": 387.49
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "40万本！ ボクの知り合い全員が2本ずつ買っても、全然足りないのだ。",
+      "news_index": 6,
+      "start_sec": 387.64,
+      "end_sec": 393.33
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "それ、先輩の交友関係が狭すぎるだけっす。",
+      "news_index": 6,
+      "start_sec": 393.48,
+      "end_sec": 396.76
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "つむぎこそ、ギャル友達にこの卵の話をできるのだ？",
+      "news_index": 6,
+      "start_sec": 396.91,
+      "end_sec": 401.29
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "shirake",
+      "text": "……先輩。",
+      "news_index": 6,
+      "start_sec": 401.44,
+      "end_sec": 402.26
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "な、なんでもないのだ……ごめんなさいなのだ……",
+      "news_index": 6,
+      "start_sec": 402.41,
+      "end_sec": 406.35
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "コホン。 実はこのスーファミ版、2017年にスマホ版も出てるっす。",
+      "news_index": 7,
+      "start_sec": 406.5,
+      "end_sec": 411.0
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "じゃあボクでも遊べるのだ！ 卵を割りに行くのだ。",
+      "news_index": 7,
+      "start_sec": 411.15,
+      "end_sec": 414.61
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "オタクくんも一回は触ってほしいっす。 真面目な会社の全力のふざけって、なかなか見られないっすよ。",
+      "news_index": 7,
+      "start_sec": 414.76,
+      "end_sec": 420.7
+    },
+    {
+      "index": 84,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "名作の顔をした変なゲーム、ボクは大好きなのだ。",
+      "news_index": 7,
+      "start_sec": 420.85,
+      "end_sec": 424.35
+    },
+    {
+      "index": 85,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "それなっす！ あーし的にも家宝枠っす。",
+      "news_index": 7,
+      "start_sec": 424.5,
+      "end_sec": 427.07
+    },
+    {
+      "index": 86,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "最後に一個だけ確認なのだ。 これ、目玉焼きは焼けないのだ？",
+      "news_index": 7,
+      "start_sec": 427.22,
+      "end_sec": 432.15
+    },
+    {
+      "index": 87,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "焼けないっす。 そこだけ最後まで諦めないの、やめてほしいっす。",
+      "news_index": 7,
+      "start_sec": 432.3,
+      "end_sec": 436.26
+    },
+    {
+      "index": 88,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ということで、旅の道ラジオはここまでなのだ！",
+      "news_index": 7,
+      "start_sec": 436.41,
+      "end_sec": 439.81
+    },
+    {
+      "index": 89,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "また旅の道ラジオで会いましょうっす！",
+      "news_index": 7,
+      "start_sec": 439.96,
+      "end_sec": 442.16
+    },
+    {
+      "index": 90,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "またなのだー！",
+      "news_index": 7,
+      "start_sec": 442.31,
+      "end_sec": 443.33
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 444.03,
+      "end_sec": 452.33
+    }
+  ],
+  "wall_time_sec": 17.25,
+  "audio_url": "/audio/indie/20260915_050517.mp3?v=1789417615"
+}
