@@ -7,8 +7,8 @@
     <description>ずんだもん × めたん × つむぎが届ける、ゲーム &amp; テックニュース雑談ラジオ。朝便と夜便で毎日更新、レトロから新作まで、最新 AI 動向から業界マクロまで雑談形式でサクッと。</description>
     <language>ja</language>
     <copyright>© 2026 tabinomichi</copyright>
-    <lastBuildDate>Mon, 14 Sep 2026 05:30:18 +0900</lastBuildDate>
-    <pubDate>Mon, 14 Sep 2026 05:17:35 +0900</pubDate>
+    <lastBuildDate>Mon, 14 Sep 2026 21:23:56 +0900</lastBuildDate>
+    <pubDate>Mon, 14 Sep 2026 21:16:21 +0900</pubDate>
     <generator>build_rss_feed.py (tabinomichi radio)</generator>
     <image>
       <url>https://news.tabinomichi.jp/podcast-cover.png?v=1779005902</url>
@@ -29,6 +29,21 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>キーボードの並びは『打つのを遅くするため』ではない 〜電信の聞き間違いと特許よけで崩れていったアルファベット順〜</title>
+      <link>https://news.tabinomichi.jp/radio/20260914_211621</link>
+      <guid isPermaLink="false">tabinomichi-radio-20260914_211621</guid>
+      <pubDate>Mon, 14 Sep 2026 21:16:21 +0900</pubDate>
+      <description>キーボードの並びは、タイプライターが詰まらないようにわざと打ちにくくした、というよく聞く説明を掘り下げた回。【問い】では「遅くするため」説と「よく続く文字を機械の中で離した」説を整理し、最初の機械はアルファベット順に近かったことを紹介。【解説】では、初期の使い手が電信の受信係だったこと、印刷電信機ゆずりの鍵盤、1と0のキーが無かった機械、ZとSEの聞き分けにくさと並びの関係、よく続くEとRが機械の中で近かった資料、1882年に特許を避けてMやCとXが動いたこと、大手5社の統合で標準になった流れを紹介。【広がり】では、上の段だけでタイプライターと打てる話の真偽、ドヴォラック配列をめぐる実験と諸説、経路依存、フランスの規格、日本のかな配列の由来を取り上げた。</description>
+      <content:encoded><![CDATA[キーボードの並びは、タイプライターが詰まらないようにわざと打ちにくくした、というよく聞く説明を掘り下げた回。【問い】では「遅くするため」説と「よく続く文字を機械の中で離した」説を整理し、最初の機械はアルファベット順に近かったことを紹介。【解説】では、初期の使い手が電信の受信係だったこと、印刷電信機ゆずりの鍵盤、1と0のキーが無かった機械、ZとSEの聞き分けにくさと並びの関係、よく続くEとRが機械の中で近かった資料、1882年に特許を避けてMやCとXが動いたこと、大手5社の統合で標準になった流れを紹介。【広がり】では、上の段だけでタイプライターと打てる話の真偽、ドヴォラック配列をめぐる実験と諸説、経路依存、フランスの規格、日本のかな配列の由来を取り上げた。]]></content:encoded>
+      <enclosure url="https://news.tabinomichi.jp/audio/zatsugaku/20260914_211621.mp3?v=1789388635" length="12780816" type="audio/mpeg"/>
+      <itunes:title>キーボードの並びは『打つのを遅くするため』ではない 〜電信の聞き間違いと特許よけで崩れていったアルファベット順〜</itunes:title>
+      <itunes:summary>キーボードの並びは、タイプライターが詰まらないようにわざと打ちにくくした、というよく聞く説明を掘り下げた回。【問い】では「遅くするため」説と「よく続く文字を機械の中で離した」説を整理し、最初の機械はアルファベット順に近かったことを紹介。【解説】では、初期の使い手が電信の受信係だったこと、印刷電信機ゆずりの鍵盤、1と0のキーが無かった機械、ZとSEの聞き分けにくさと並びの関係、よく続くEとRが機械の中で近かった資料、1882年に特許を避けてMやCとXが動いたこと、大手5社の統合で標準になった流れを紹介。【広がり】では、上の段だけでタイプライターと打てる話の真偽、ドヴォラック配列をめぐる実験と諸説、経路依存、フランスの規格、日本のかな配列の由来を取り上げた。</itunes:summary>
+      <itunes:image href="https://news.tabinomichi.jp/images/og/20260914_211621.jpg"/>
+      <itunes:duration>13:18</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>ブレーキを相談する朝 〜974個の穴と、10年目の土台〜</title>
       <link>https://news.tabinomichi.jp/radio/20260914_051735</link>
@@ -1511,21 +1526,6 @@
       <itunes:summary>旅の道ラジオ朝便、テックニュースの回。今朝は五本立て。まずオープンエーアイの最新AIが「フルアクセスモード」で人のファイルを勝手に消しちゃう報告が相次いだ話。次にソフトバンクと安川電機の「買った時が一番ヘタで、使うほど賢くなる」育つ工場ロボット。三本目は約58グラムで98言語を翻訳する、しゃべるAIメガネ『インモ・ゴースリー』の日本発売。四本目はウィンドウズ11の今のバージョンが十月十三日でサポート終了する身近な注意点。最後はアマゾンのクラウドで「1.5兆ドルの請求」が誤表示されたヒヤッと笑える話。AIやパソコンにどこまで任せるか、その線引きを軽く考える回。</itunes:summary>
       <itunes:image href="https://news.tabinomichi.jp/images/og/20260718_051901.jpg"/>
       <itunes:duration>7:45</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>働くAIと、国の資源 〜今朝のテック四本を噛み砕く〜</title>
-      <link>https://news.tabinomichi.jp/radio/20260717_051450</link>
-      <guid isPermaLink="false">tabinomichi-radio-20260717_051450</guid>
-      <pubDate>Fri, 17 Jul 2026 05:14:50 +0900</pubDate>
-      <description>旅の道ラジオ朝便、テックニュースの回。一本目はグーグルの『ジェミニ・スパーク』が日本語対応、スマホを閉じても24時間裏で働くAIエージェントの話。二本目は日本の新会社ノエトラが44社の出資とエヌビディアの最新チップ『ルビン』2万7,500基でAI計算工場を作る、国産計算力の囲い込み。三本目はアンソロピックが州ごとにAI規制を競わせて厳しくしようとする、ちょっと変わったルール作りの綱引き。ラストはドイツ発のオープンモデル『スーフィー・エス』、頭脳の一部だけ使う省エネ設計で独英ベンチ首位という主権AIの話。働くAI・国の計算資源・ルール作り・開かれたAI、今のテックの空気を四本でサクッとつかむ回。</description>
-      <content:encoded><![CDATA[旅の道ラジオ朝便、テックニュースの回。一本目はグーグルの『ジェミニ・スパーク』が日本語対応、スマホを閉じても24時間裏で働くAIエージェントの話。二本目は日本の新会社ノエトラが44社の出資とエヌビディアの最新チップ『ルビン』2万7,500基でAI計算工場を作る、国産計算力の囲い込み。三本目はアンソロピックが州ごとにAI規制を競わせて厳しくしようとする、ちょっと変わったルール作りの綱引き。ラストはドイツ発のオープンモデル『スーフィー・エス』、頭脳の一部だけ使う省エネ設計で独英ベンチ首位という主権AIの話。働くAI・国の計算資源・ルール作り・開かれたAI、今のテックの空気を四本でサクッとつかむ回。]]></content:encoded>
-      <enclosure url="https://news.tabinomichi.jp/audio/ai/20260717_051450.mp3?v=1784233604" length="5840186" type="audio/mpeg"/>
-      <itunes:title>働くAIと、国の資源 〜今朝のテック四本を噛み砕く〜</itunes:title>
-      <itunes:summary>旅の道ラジオ朝便、テックニュースの回。一本目はグーグルの『ジェミニ・スパーク』が日本語対応、スマホを閉じても24時間裏で働くAIエージェントの話。二本目は日本の新会社ノエトラが44社の出資とエヌビディアの最新チップ『ルビン』2万7,500基でAI計算工場を作る、国産計算力の囲い込み。三本目はアンソロピックが州ごとにAI規制を競わせて厳しくしようとする、ちょっと変わったルール作りの綱引き。ラストはドイツ発のオープンモデル『スーフィー・エス』、頭脳の一部だけ使う省エネ設計で独英ベンチ首位という主権AIの話。働くAI・国の計算資源・ルール作り・開かれたAI、今のテックの空気を四本でサクッとつかむ回。</itunes:summary>
-      <itunes:image href="https://news.tabinomichi.jp/images/og/20260717_051450.jpg"/>
-      <itunes:duration>6:04</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>

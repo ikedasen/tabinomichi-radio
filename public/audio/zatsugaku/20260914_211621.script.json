@@ -1,0 +1,786 @@
+{
+  "profile": "zatsugaku",
+  "generated_at": "2026-09-14T12:16:21.750771+00:00",
+  "title": "キーボードの並びは『打つのを遅くするため』ではない 〜電信の聞き間違いと特許よけで崩れていったアルファベット順〜",
+  "segments": [
+    {
+      "speaker": "ankomon",
+      "tone": "mic",
+      "text": "旅の道ラジオ、雑学チャンネル。あんこもんだもん。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ずんだもんなのだ! 今日はどんなネタを持ってきたのだ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "今日のお題は、キーボードの文字の並びだもん。パソコンでもスマホでも見る、あの並びだもん。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "左上から、キュー、ダブリュー、イー、アール、ティー、ワイって並んでるやつなのだ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "そうだもん。アルファベット順でもないのに、なんでこんなにバラバラなのか、って話だもん。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "それならボクでも知ってるのだ! 昔のタイプライターが絡まないように、わざと打ちにくくしたのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "出たもん、それ。よく聞く説明だけど、今日はそこをひっくり返すもん。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、違うのだ!? いろんなところで聞いたのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "聴いてくれてるかたも、手元のキーボードを見ながら聞いてほしいもん。今日こそ、ずんだもんに「参りました」って言わせるもん。",
+      "news_index": 0
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "まず、よく聞く説を2つに分けるもん。1つ目は「打つのを遅くするため」説だもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "速く打つと機械が詰まるから、わざとゆっくり打たせた、ってやつなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "そうだもん。2つ目は「続けてよく打つ文字どうしを、機械の中で離した」説だもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "昔のタイプライターは、文字のハンコが付いた細い棒が、輪になって並んでたもん。キーを押すと、その棒が跳ね上がって紙を打つもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "棒が跳ね上がるのだ!? 隣どうしを続けて押したら、ぶつかりそうなのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "そこだもん。だから、よく続けて出る文字の棒を遠くに置いた、っていう説明だもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "じゃあ聞くもん。この並び、最初からこうだったと思うもん?",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "発明した人が、最初からバシッと決めたんじゃないのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "違うもん。発明したのは、アメリカのミルウォーキーで新聞の編集をしてた、ショールズって人と仲間たちだもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "1868年に最初のお客さんへ届けた機械は、アルファベット順に近い並びだったもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "最初はアルファベット順だったのだ!? じゃあ、どこかで崩れたのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "そう、そこが今日の問いだもん。誰が、何のために崩したのか、だもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "簡単なのだ。アルファベット順だと棒がぶつかるから、崩したのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "それっぽいけど、違うもん。京都大学の安岡孝一さんたちが、当時の特許や手紙を追いかけた研究だと、そういう筋書きになってないもん。",
+      "reading": "それっぽいけど、ちがうもん。きょうとだいがくの、やすおかこういちさんたちが、とうじのとっきょやてがみをおいかけたけんきゅうだと、そういうすじがきになってないもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "ヒントは、その最初のお客さんだもん。シカゴの、ある学校の校長先生だもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "学校なのだ? タイピングを教える学校なのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "惜しいもん。そのころは、タイピングを仕事にする人なんて、まだいないもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "えっ、じゃあ誰がタイプライターを打つのだ? ボクには分からないのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "答えは、電信だもん。トン・ツーのモールス信号を受け取って書き取る、電信の学校だもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "電信!? キーボードと電信が、どうつながるのだ!?",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "今の並びは、電信の係の人たちの注文から崩れはじめて、最後は特許の都合で仕上がった、っていうのが研究の読み解きだもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "特許!? ますます分からなくなってきたのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "順番にいくもん。電信の受信係は、耳でトン・ツーを聞いて、紙に手で書き取ってたもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "送ってくる速さに、手書きで追いつくのは大変そうなのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "そうだもん。1870年代にタイプライターを打ってたのは、電信の係や、話し言葉を記号で速くメモする速記の人だった、と論文にあるもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "…あれ? 送る速さに追いつきたい人に、わざと遅い並びを渡すのは、変じゃないのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "hazukashi",
+      "text": "…先に言わないでほしいもん。そこ、あんこもんが言うところだったもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "shirake",
+      "text": "まあ、そのとおりだもん。論文でも、遅くしたら送る側に追いつけないから、そんなつもりがあったとは考えられない、って書いてるもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ほら、ボクの勝ちなのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "1問だけだもん。で、最初の機械のキーは、ピアノの鍵盤みたいに並んでたもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "ピアノなのだ? なんでタイプライターがピアノなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "その電信学校で使ってた「印刷電信機」って機械に、そっくりだったからだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "えっ、印刷電信機ってなんなのだ? ボクには難しすぎるのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "ピアノみたいなキーを押すと、遠くの相手の機械が、その文字を紙に打ち出してくれる電信だもん。トン・ツーを覚えなくても送れる仕組みだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "マジかよ! それ、もうほとんどメールなのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "要するに、タイプライターのキーボードは、電信機の鍵盤がお手本だった、っていう見方だもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも、ピアノの並びのままだったら、今みたいにならないのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "そこで、電信学校の校長から注文が来るもん。電報には数字も出てくるから、数字のキーを付けてくれ、って。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "1から9と、0を足せばいいのだ。簡単なのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "それが、1870年の機械の数字は、2から9までしか無かったもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "1と0が無いのだ!? 100も打てないのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "どうしてたと思うもん?",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ゼロは丸いオーで、1は棒のアイで、代わりに打つのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "shock",
+      "text": "…そのとおりだもん。オーはゼロ、アイは1の代わりにも使ってたもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "見た目が同じなら、キーを減らせるのだ。ボク、冴えてるのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "調子に乗らないでほしいもん。そのあとも、ニューヨークの電信の会社の人たちが、買う条件として並びの手直しをたくさん頼んできたもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "1872年に雑誌の表紙に載った機械では、キーが42個に増えて、文字の半分くらいが場所を変えてたもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "半分も動いたのだ… アルファベット順の面影、もう無いのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "要するに、並びは一気に決まったんじゃなくて、電信のお客さんの注文で何度も動いたんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも、電信の注文って、具体的にはどんなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "研究で挙げられてる例が、ゼットとエスとイーの並びだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "知ってるのだ! ゼットはあんまり使わないから、左下の端っこに追いやったのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "それだけじゃないもん。アメリカの電信の符号だと、ゼットは「トントントン、ちょっと空けて、トン」だったもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "エスは「トントントン」、イーは「トン」だもん。エスの次にイーが来たのか、ゼットが来たのか、聞き分けにくいんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "同じに聞こえるのだ!? 耳だけじゃ無理なのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "特に単語の頭だと、次の文字を聞くまで決められないもん。しかも英語では、エスとイーが続く方が、ゼットよりずっとよく出てくるもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、受信係はどうするのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "エスを、ゼットとイーの両方のすぐそばに置いておけば、迷っても指をちょっと動かすだけで打ち直せる、って読み解きだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "キーボードに、電信の聞き間違い対策が埋まってるのだ!? マジかよ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "ただし、これは当時の資料から研究者が読み解いた説明だもん。ほかの説もあって、諸説ある、ってことは言っておくもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、棒がぶつからないように離した説は、完全にハズレなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "そこも、研究者が表にして確かめてるもん。英語でよく続けて出る文字の組み合わせが、機械の中の輪で何度離れてるか、だもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "よく出る組み合わせなら、輪の反対側くらいまで離れてるはずなのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "いちばんよく出るティーとエイチは、180度、ちょうど反対側だもん。ここまでは合ってるもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "でも、2番目によく出るイーとアールは、たった16度しか離れてないもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "16度!? すぐ近くなのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "そうだもん。よく続く文字を離した、っていう説明だけじゃ、この並びは説明しきれないもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "しかも国立国語研究所の解説だと、1874年に売り出す時に、アールをイーの隣に動かしてるもん。英語にはイーアールやアールイーの綴りが多いから、って理由だもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "打ちにくくするどころか、打ちやすくしてるのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "要するに、「わざと打ちにくくした」説は、当時の資料と合わないんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、結局いつ今の並びになったのだ? 1874年なのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "1874年に、レミントンって会社から売り出されたもん。見た目はミシンみたいで、足のペダルで紙を次の行に送る機械だったもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "足で改行するのだ!? ボク、足が短いから届かないのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "shirake",
+      "text": "そこは心配いらないもん。それに、今の並びが完成するのは、もう少しあとの1882年だもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "売る会社が新しい型を出す時に、エムをエヌの隣に動かして、シーとエックスを入れ替えたもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "分かったのだ! 使いやすくするための、最後の仕上げなのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "それが違うもん。別の会社が持ってた古い特許に引っかからないように、デザインを少し変えた、って研究では書かれてるもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "特許よけなのだ!? 使いやすさ、関係ないのだ!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "特許っていうのは、発明した人に、しばらくの間その作り方を独り占めさせる決まりだもん。似すぎてると勝手に使えないから、ずらしたんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "要するに研究の読み解きだと、今の並びは、電信の注文と、作る側との話し合いと、特許よけで、たまたまできたんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも、たまたまの並びが、なんで世界中に広がったのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "1893年に、レミントンを含む大手5社が、1つのグループにまとまったもん。その5社が同じ並びを使って、1898年ごろには事実上の標準になったもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "さらに1910年代には、電信の機械のテレタイプもこの並びを使ったもん。それがアメリカやイギリスや日本で、コンピュータの端末として使われたもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "電信から始まって、また電信の機械を通って、コンピュータに入ったのだ!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "他にも、キーボードの俗説ってあるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "有名なのが、タイプライターって英単語が、いちばん上の段の文字だけで打てる、って話だもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "え、ティー、ワイ、ピー、イー、ダブリュー、アール、アイ、ティー、イー、アール… 全部上の段なのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "打てるのは本当だもん。問題は「売り込みの人がお客の前でさっと打って見せるために、アールを上の段に置いた」って話の方だもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "かっこいいのだ! それが本当の理由なのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "研究者は、それを疑ってるもん。当時の実演は、電信を受け取ってみせるか、読み上げを書き取ってみせるやり方だった、って書いてるもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "それに、自慢したいなら、発明した人の名前が1段で打てる方が、よっぽど目立つのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "shirake",
+      "text": "…研究者も、ほぼ同じツッコミを書いてるもん。要するに、上の段で打てるのは本当でも、それが理由だっていう裏付けは無いもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "じゃあ、もっと速く打てる並びを作った人はいないのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "いるもん。1936年に特許を取ったドヴォラック配列っていう、英語を速く楽に打てるように考えた並びだもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "そっちの方が速いに決まってるのだ! みんな乗り換えればいいのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "そう言われがちだけど、話がややこしいもん。1944年のアメリカ海軍の実験では速いって結果が出たけど、その実験を仕切ったのは、特許を持ってるドヴォラック本人だったもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shirake",
+      "text": "自分で自分の答え合わせをしてたのだ…。",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "1956年には、アメリカ政府の役所が条件をそろえて比べて、今の並びの人も同じくらいか、むしろ速いって結果になったもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "ただ、ドヴォラック派の人たちは、その批判の方こそ偏ってる、って反論してるもん。どっちが速いかは、今も決着がついてなくて、諸説あるもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "速いか分からないのに、みんな同じ並びを使い続けてるのは、なんでなのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "1985年に、経済学者のポール・デイヴィッドって人が、これを「経路依存」の例として論文に書いたもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、経路依存ってなんなのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "最初にたまたま決まったやり方が広がると、あとから変えるのが大変になって残り続ける、って考え方だもん。道にできた車輪の跡に、あとの車がはまっていく感じだもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "ただ、この例え自体にも「そもそも今の並びが劣ってる証拠は無い」って反論があるもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "他の国も、同じ並びなのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "同じ流れの親戚だもん。フランスでは左上がエー、ゼットから始まる並び、ドイツではワイとゼットが入れ替わった並びが使われてるもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "フランスは、変えようとしなかったのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "2019年に、フランスで初めて、キーボードの並びの公式な規格ができたもん。フランス語のアクセント付きの文字を、打ちやすくするためだもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "shirake",
+      "text": "ただ、この規格は、使うかどうかをメーカーが選べる、任意の決まりだもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "決めたのに、強制じゃないのだ… 車輪の跡、深いのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "日本語のかなの並びにも、似た話があるもん。1923年に、かなを五十音の行ごとに近くに集めたタイプライターが、アメリカの会社で作られてるもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "そこから何度も手直しされて、1970年に電電公社、今のエヌティーティーが作った端末の並びが、今のパソコンのかな配列に受け継がれてるもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "かなの並びも、手直しの積み重ねなのだ…!",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "要するに、キーボードの並びは、誰かが一発で設計した正解じゃなくて、歴史の地層なんだもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "今日からキーボードを見るたびに、トン・ツーが聞こえてきそうなのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "今日のまとめだもん。遅くするためだった証拠は乏しくて、研究では、電信の係の注文と特許よけの積み重ねでできた、って読み解かれてるもん。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "でも今日は、遅くする説のおかしさも、1と0の代わりも、名前の話も、ボクが先に当てたのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "hazukashi",
+      "text": "……3回だけだもん。次は、ずんだもんが1個も当てられないお題を持ってくるもん。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "旅の道ラジオ、雑学チャンネル。次のお題も楽しみにしてるのだ!",
+      "news_index": 0
+    }
+  ],
+  "program_description": "キーボードの並びは、タイプライターが詰まらないようにわざと打ちにくくした、というよく聞く説明を掘り下げた回。【問い】では「遅くするため」説と「よく続く文字を機械の中で離した」説を整理し、最初の機械はアルファベット順に近かったことを紹介。【解説】では、初期の使い手が電信の受信係だったこと、印刷電信機ゆずりの鍵盤、1と0のキーが無かった機械、ZとSEの聞き分けにくさと並びの関係、よく続くEとRが機械の中で近かった資料、1882年に特許を避けてMやCとXが動いたこと、大手5社の統合で標準になった流れを紹介。【広がり】では、上の段だけでタイプライターと打てる話の真偽、ドヴォラック配列をめぐる実験と諸説、経路依存、フランスの規格、日本のかな配列の由来を取り上げた。",
+  "featured_game": {
+    "title": "キーボードの並びは打つのを遅くするためではない",
+    "topic": "QWERTY配列は打鍵を遅くするためではなく、電信の受信係の注文と特許回避で少しずつ崩れてできた",
+    "category": "history",
+    "dedup_verified": true,
+    "image_rel": "/images/topics/zatsugaku_20260914_211621_chars.webp",
+    "hero_rel": "/images/topics/zatsugaku_20260914_211621.webp",
+    "thumbnail_ready": true
+  }
+}
