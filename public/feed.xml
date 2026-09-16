@@ -7,8 +7,8 @@
     <description>ずんだもん × めたん × つむぎが届ける、ゲーム &amp; テックニュース雑談ラジオ。朝便と夜便で毎日更新、レトロから新作まで、最新 AI 動向から業界マクロまで雑談形式でサクッと。</description>
     <language>ja</language>
     <copyright>© 2026 tabinomichi</copyright>
-    <lastBuildDate>Wed, 16 Sep 2026 05:26:38 +0900</lastBuildDate>
-    <pubDate>Wed, 16 Sep 2026 05:15:20 +0900</pubDate>
+    <lastBuildDate>Wed, 16 Sep 2026 21:07:30 +0900</lastBuildDate>
+    <pubDate>Wed, 16 Sep 2026 21:04:22 +0900</pubDate>
     <generator>build_rss_feed.py (tabinomichi radio)</generator>
     <image>
       <url>https://news.tabinomichi.jp/podcast-cover.png?v=1779005902</url>
@@ -29,6 +29,21 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>木が100メートル上まで水を届けるのは、根っこが押し上げているからではない 〜てっぺんの葉っぱが水を引っ張り上げる話〜</title>
+      <link>https://news.tabinomichi.jp/radio/20260916_210422</link>
+      <guid isPermaLink="false">tabinomichi-radio-20260916_210422</guid>
+      <pubDate>Wed, 16 Sep 2026 21:04:22 +0900</pubDate>
+      <description>木はポンプも無いのに、なぜ100メートル以上の高さまで水を届けられるのかを掘り下げた回。【問い】では、ストローやポンプで吸い上げられるのは10メートルほどが限界だという話から、毛細管現象と根圧という2つのよくある答えを検討し、どちらも高い木の説明には足りないことを確かめた。【解説】では、葉っぱから水が蒸発すると、水分子どうしのつながりで下の水が引っ張られるという凝集力説を紹介。枝を圧力の容器に入れて引っ張りの強さを測る方法や、110メートルを超えるセコイアの枝で測った数字、泡が入ると水の柱が切れる弱点と、それを聞き取ったレコード針の実験、針葉樹の弁のしくみも取り上げた。【広がり】では、高さの限界が122から130メートルと見積もられている話、てっぺんの葉っぱが小さく硬くなる理由、霧の水の役割、世界一高い木ハイペリオンを紹介した。</description>
+      <content:encoded><![CDATA[木はポンプも無いのに、なぜ100メートル以上の高さまで水を届けられるのかを掘り下げた回。【問い】では、ストローやポンプで吸い上げられるのは10メートルほどが限界だという話から、毛細管現象と根圧という2つのよくある答えを検討し、どちらも高い木の説明には足りないことを確かめた。【解説】では、葉っぱから水が蒸発すると、水分子どうしのつながりで下の水が引っ張られるという凝集力説を紹介。枝を圧力の容器に入れて引っ張りの強さを測る方法や、110メートルを超えるセコイアの枝で測った数字、泡が入ると水の柱が切れる弱点と、それを聞き取ったレコード針の実験、針葉樹の弁のしくみも取り上げた。【広がり】では、高さの限界が122から130メートルと見積もられている話、てっぺんの葉っぱが小さく硬くなる理由、霧の水の役割、世界一高い木ハイペリオンを紹介した。]]></content:encoded>
+      <enclosure url="https://news.tabinomichi.jp/audio/zatsugaku/20260916_210422.mp3?v=1789560450" length="13078821" type="audio/mpeg"/>
+      <itunes:title>木が100メートル上まで水を届けるのは、根っこが押し上げているからではない 〜てっぺんの葉っぱが水を引っ張り上げる話〜</itunes:title>
+      <itunes:summary>木はポンプも無いのに、なぜ100メートル以上の高さまで水を届けられるのかを掘り下げた回。【問い】では、ストローやポンプで吸い上げられるのは10メートルほどが限界だという話から、毛細管現象と根圧という2つのよくある答えを検討し、どちらも高い木の説明には足りないことを確かめた。【解説】では、葉っぱから水が蒸発すると、水分子どうしのつながりで下の水が引っ張られるという凝集力説を紹介。枝を圧力の容器に入れて引っ張りの強さを測る方法や、110メートルを超えるセコイアの枝で測った数字、泡が入ると水の柱が切れる弱点と、それを聞き取ったレコード針の実験、針葉樹の弁のしくみも取り上げた。【広がり】では、高さの限界が122から130メートルと見積もられている話、てっぺんの葉っぱが小さく硬くなる理由、霧の水の役割、世界一高い木ハイペリオンを紹介した。</itunes:summary>
+      <itunes:image href="https://news.tabinomichi.jp/images/og/20260916_210422.jpg"/>
+      <itunes:duration>13:37</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>ハンドルを手放す朝 〜無人のタクシーと、木目のパソコン〜</title>
       <link>https://news.tabinomichi.jp/radio/20260916_051520</link>
@@ -1511,21 +1526,6 @@
       <itunes:summary>旅の道ラジオ朝便、テックニュースの回。今朝は業界を動かすお金と電気にまつわる4本をサクッと。まず一本目、チップ大手AMDがクロードを作るアンソロピックに最大50億ドルを出資し、2ギガワットぶんのGPUを供給するビッグ提携。ただし出したお金が自社チップ代で戻ってくる循環構造にバブル懸念も。二本目は世界一の半導体工場ティーエスエムシーが2027年から製造代を5〜10%値上げ、AI向けはさらに上乗せという話で、グラボやPCの値段にじわり波及。三本目はアンソロピックが著作権裁判で15億ドルの過去最大和解、学習はセーフ・海賊版入手はアウトの線引き。ラストは中国の無料オープンAIがアメリカの課金モデルを揺さぶる陣取り合戦。どれも巡り巡って私たちの財布に届く話、という締めでお届けしました。</itunes:summary>
       <itunes:image href="https://news.tabinomichi.jp/images/og/20260723_051608.jpg"/>
       <itunes:duration>6:49</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>見せて覚える朝 〜AIに仕事を教える手と、消える紙の本〜</title>
-      <link>https://news.tabinomichi.jp/radio/20260722_051245</link>
-      <guid isPermaLink="false">tabinomichi-radio-20260722_051245</guid>
-      <pubDate>Wed, 22 Jul 2026 05:12:45 +0900</pubDate>
-      <description>今朝のテック朝便は、肩の力を抜いて聴ける話題を四本お届け。一本目はアンソロピックのAIエージェント『クロード・コワーク』に、画面録画と口頭の説明だけで新しい仕事を覚えさせられる機能がついた話。二本目はオープンエーアイが、誰でも安く動かせるオープンウェイトAIの台頭に危機感を強め、一時は規制を訴えて撤回した業界の駆け引き。三本目は転売ヤーの買い占めで『週刊少年ジャンプ』が店頭から消え、紙の本が電子版へ押し出されていく皮肉。締めは街で人気のモンベルの薄型ポーチを、紐でサコッシュにアレンジする夏フェス向けのDIY。AIの新機能から暮らしの小ネタまで、今のテックをサクッとまとめる回。</description>
-      <content:encoded><![CDATA[今朝のテック朝便は、肩の力を抜いて聴ける話題を四本お届け。一本目はアンソロピックのAIエージェント『クロード・コワーク』に、画面録画と口頭の説明だけで新しい仕事を覚えさせられる機能がついた話。二本目はオープンエーアイが、誰でも安く動かせるオープンウェイトAIの台頭に危機感を強め、一時は規制を訴えて撤回した業界の駆け引き。三本目は転売ヤーの買い占めで『週刊少年ジャンプ』が店頭から消え、紙の本が電子版へ押し出されていく皮肉。締めは街で人気のモンベルの薄型ポーチを、紐でサコッシュにアレンジする夏フェス向けのDIY。AIの新機能から暮らしの小ネタまで、今のテックをサクッとまとめる回。]]></content:encoded>
-      <enclosure url="https://news.tabinomichi.jp/audio/ai/20260722_051245.mp3?v=1784665382" length="6230560" type="audio/mpeg"/>
-      <itunes:title>見せて覚える朝 〜AIに仕事を教える手と、消える紙の本〜</itunes:title>
-      <itunes:summary>今朝のテック朝便は、肩の力を抜いて聴ける話題を四本お届け。一本目はアンソロピックのAIエージェント『クロード・コワーク』に、画面録画と口頭の説明だけで新しい仕事を覚えさせられる機能がついた話。二本目はオープンエーアイが、誰でも安く動かせるオープンウェイトAIの台頭に危機感を強め、一時は規制を訴えて撤回した業界の駆け引き。三本目は転売ヤーの買い占めで『週刊少年ジャンプ』が店頭から消え、紙の本が電子版へ押し出されていく皮肉。締めは街で人気のモンベルの薄型ポーチを、紐でサコッシュにアレンジする夏フェス向けのDIY。AIの新機能から暮らしの小ネタまで、今のテックをサクッとまとめる回。</itunes:summary>
-      <itunes:image href="https://news.tabinomichi.jp/images/og/20260722_051245.jpg"/>
-      <itunes:duration>6:29</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
