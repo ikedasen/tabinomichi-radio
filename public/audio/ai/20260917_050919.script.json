@@ -1,0 +1,565 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-09-16T20:09:19.000762+00:00",
+  "title": "ひとつの入口の朝 〜家じゅうに挿さるAIと、りんごの箱〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便です。テックの話題をサクッと届ける回、四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝も通勤のお供に、軽くいくのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今朝は五本。最後に、りんごのマークの会社が作るかもしれない、ちょっと意外な箱の話もあるわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "りんごの箱? 青森から、りんごが一箱届くってこと?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "産地直送じゃないわ。中身は、最後のお楽しみね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "焦らすのだー! じゃあ一本目、いってみよう!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。アンソロピックが九月十六日に、クロードのチャットとコワークを、一つにまとめると発表したの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "こわーく? ボク、クロードとおしゃべりはするけど、そっちは知らないのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "コワークは、調べ物やレポート作りみたいな、重めの仕事をまるごと任せる場所。今までは、チャットとは別の入口だったのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "分かった、玄関と勝手口が別々だったってことじゃん!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "例えとしては悪くないわね。どっちから入るか迷う、って声が多かったんですって。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあ、これからはどうなるのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "入口は一つ。お願いを書くだけで、ちょっとした質問ならそのまま答えて、大きな仕事なら表やスライドのファイルにして返してくれるわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、モード選びもしなくていいのだ!? ボク、いつも選択肢の前で固まってたのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "同じタイミングで、文書とスライドを作る新しい道具も、試験版で出てるわ。パワーポイントやピーディーエフで持ち出せるって話。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "学校の発表資料、クロードに丸投げできるやつじゃん!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "丸投げした資料で発表して、質問に答えられなかったら地獄よ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "うっ……想像しただけで、冷や汗が出てきたのだ……。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "対象は有料のプロとマックスのプランで、この先数週間かけて順番に広がる予定。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "つまりボクたちの生活だと、どう変わるのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "どこに頼むか悩む時間が減って、とりあえず話しかければいい、ってことね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "迷子にならないAI、ボクみたいな方向音痴にはありがたいのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目。グーグルが九月十六日に、グーグルホームを、ほかの会社のAIからも動かせる仕組みを出したわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "グーグルホームって、話しかけると電気をつけてくれる、あのスピーカーのやつ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そう。それに家のカメラやインターホン、温度調節の機器までまとめた、家の仕組み全体ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、ほかの会社のAIって、どういうことなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "エムシーピーっていう、共通の差し込み口を使うの。AIとサービスをつなぐ、コンセントの規格みたいなものね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "コンセントの形が同じなら、エムシーピーに対応したAIなら挿せるってことじゃん!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そういうこと。例として名前が挙がってるのは、クロードや、グーグルの開発支援エージェント「アンチグラビティ」なんかね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "挿したら、何ができるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "家じゅうのカメラの映像をまとめて要約したり、家で起きたことの履歴に答えたり、機器を代わりに操作したりね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "待って、ボクが夜中に冷蔵庫を開けた回数も、バレちゃうのだ!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "冷蔵庫にカメラを向けてなければ大丈夫。向けてたら、自業自得ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "それ、日本でも使えるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "今は、アメリカの月20ドル、約3,000円の上位プラン向けに、先行で開放された段階よ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "月3,000円……ボクのお小遣いの、半分が消えるのだ……。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "要するに、家の操作をどのAIに任せるか、自分で選べる時代の入口って話。日本に来るのは、まだ先ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "お気に入りのAIに、家のお世話を任せる日が、ちょっとずつ近づいてるのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目は値下げ合戦。グーグルが九月十五日に、声で会話するAI、ジェミニ さんてんはち ライブを出したの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "声のAI! 少し前に、オープンエーアイも出してたやつなのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "よく覚えてたわね。今回の目玉は、とにかく値段が安いこと。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "どのくらい安いのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "開発者がアプリに組み込むときの料金で、一時間しゃべらせても1.38ドル。ざっくり200円ちょっとね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "一時間で200円!? カラオケより安いじゃん!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "オープンエーアイの声のAIは、同じ一時間で最低でも3ドル。ざっくり半額以下ってわけ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも安いってことは、どこかで手を抜いてるってこと?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "会話の自然さでは、オープンエーアイの方が上という見方もあるわ。グーグルは、質より値段で勝負に出た格好ね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "回転寿司と、カウンターのお寿司の戦いってことじゃん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "うまいこと言うじゃない。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、ボクたちにはどう関係するのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "お店の電話窓口や、アプリの音声案内に、AIの声が入りやすくなるってこと。安ければ、使う会社が一気に増えるから。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "電話の保留音を聴く時間が減ってくれたら、最高なのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "四本目は重めだから、手短にいくわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "朝の重い話は、さらっといくのが一番なのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "アマゾンのクラウド、エーダブリューエスが九月十五日に、中東の被災した施設にある一部のリソースやデータへ、アクセスを復旧できないと明らかにしたの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でーたせんたー? クラウドって、空に浮いてるんじゃなかったのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "浮いてないわ。データセンターは、ネットのサービスを動かすサーバーをぎっしり詰めた、巨大な倉庫よ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "その倉庫に、何があったのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "三月、アメリカとイスラエル、それにイランの戦闘が続く中、イランのドローン攻撃でアラブ首長国連邦とバーレーンの施設が被害を受けたの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、戦争でデータが消えちゃったってこと!?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "shock",
+      "text": "バーレーンでは被害が複数の拠点にまたがって、備えの想定を超えたと説明してるわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "クラウドって、一つ壊れても別の場所にコピーがあるから安心、って聞いてたのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "普段はね。でも近くの拠点がまとめてやられると、その前提が崩れるって話。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "ボクの写真も、どこかの倉庫一か所にしかないのだ……。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "大事なデータは、別のサービスや手元にも、もう一つ残しておく。今日持ち帰るのは、それだけでいいわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "バックアップは二か所! 覚えたのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "じゃあラスト五本目。冒頭で焦らした、りんごの箱よ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "待ってたのだー!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "アップルが、自社のチップを積んだ企業向けのAIサーバーを検討してる、って九月十六日に報じられたの。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "さーばー? アップルって、アイフォーンやマックの会社だっけ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこが意外なところ。サーバーは、たくさんの人のお願いを裏で処理し続ける、業務用のコンピューターね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、その箱には何が入ってるのだ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "次の世代のチップ、エムエイト ウルトラを二つ積む型と、四つ積む型の二種類が話に出てるわ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "四つ!? 頭脳が四つもあったら、ボクの宿題なんて一瞬じゃん!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "宿題用じゃないわよ。狙いは、AIの開発者や企業、それに政府機関。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "AIにお勉強をさせる機械ってこと?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "惜しいわ。学習じゃなくて推論向け、つまり出来上がったAIに答えを出させる担当ね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "勉強する係じゃなくて、テストを解く係なのだ!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今の一行が正解。チップ同士をつなぐ部分には、エヌビディアの技術を使う案も出てるらしいわ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ライバルっぽい会社と、手を組むのだ!?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ただし、出るとしても早くて2029年以降。計画ごと消える可能性もある、という段階よ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "三年も先……ボク、そのころには大人になってるのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "要するに、AIを動かす機械の選択肢が増えるかも、って話。すぐ生活は変わらないけど、企業がAIを動かす機械を選ぶときの、新しい候補になるかもしれないわ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "青森のりんごじゃなくても、この箱はちょっと楽しみになってきたのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今朝はここまで。クロードの入口の一本化、グーグルホームの差し込み口、声のAIの値下げ、クラウドの教訓、それとアップルの箱ね。",
+      "news_index": 0,
+      "reading": "けさはここまで。クロードのいりぐちのいっぽんか、グーグルホームのさしこみぐち、こえのAIのねさげ、クラウドのきょうくん、それとアップルのはこね。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "今日ボクが一つ持ち帰るなら、バックアップは二か所、なのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "通勤中に聴いてくれてるかた、いってらっしゃい。気になった話は、ぜひ調べてみて。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "また明日のテック朝便で会うのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "旅の道ラジオ朝便、四国めたんと。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ずんだもんでしたー!",
+      "news_index": 0
+    }
+  ],
+  "program_description": "テックの話題を五本、サクッとまとめる朝便です。アンソロピックがクロードのチャットとコワークを一つの入口にまとめる話、グーグルホームが共通の差し込み口エムシーピーで他社のAIからも動かせるようになった話、グーグルの声のAIジェミニ3.8ライブが一時間200円ほどという安さで値下げ合戦を仕掛けた話を紹介。さらに、中東の戦闘で被害を受けたアマゾンのクラウド施設で一部のデータが戻せないと分かった件から、バックアップは二か所という教訓を。ラストは、アップルが自社チップを積んだ企業向けAIサーバーを検討しているという報道を、ずんだもんのボケとめたんのツッコミで噛み砕きます。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20260917_050919_chars.webp",
+    "hero_rel": "/images/topics/tech_20260917_050919.webp",
+    "title": "ひとつの入口の朝 〜家じゅうに挿さるAIと、りんごの箱〜",
+    "companies": [
+      "Claude",
+      "Google",
+      "Apple",
+      "Amazon",
+      "Gemini",
+      "OpenAI",
+      "NVIDIA"
+    ],
+    "thumbnail_ready": true
+  },
+  "summary_short": "クロードとグーグルがAIを我先にと安売り＆合体させる中、遠い戦場の火の粉でクラウドのデータが消える現実も。ずんだもんとめたんが、AIバブルの光と影を軽やかにまとめる朝一番のニュース便です。"
+}

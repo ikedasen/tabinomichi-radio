@@ -1,0 +1,609 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-08-12T05:20:15.556971+00:00",
+  "title": "軌道から降る民主主義 〜四人で降りて、たまに味方を撃つ〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "はい、旅の道ラジオ。パーソナリティの四国めたんよ。",
+      "reading": "はい、たびのみちらじお。ぱーそなりてぃのしこくめたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ずんだもん登場なのだー！リスナーのみなさん、ようこそなのだ！",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今回はね、発売から時間が経って評価がすっかり固まった一本を掘るわ。タイトルは『HELLDIVERS 2』。",
+      "reading": "こんかいはね、はつばいからじかんがたってひょうかがすっかりかたまったいっぽんをほるわ。たいとるは、へるだいばーずつー。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ヘルダイバー……地獄に潜るのだ？ぜったい深海ホラーなのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "潜るのは海じゃなくて惑星ね。宇宙船から敵の星に飛び降りる、四人協力のシューターよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "宇宙版のスカイダイビングじゃん！それは楽しそうなのだー！",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに、降りて暴れて回収されるのを延々くり返す作品ってこと。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "発売は2024年2月8日。開発はスウェーデンのアローヘッド・ゲーム・スタジオズよ。",
+      "reading": "はつばいはにせんにじゅうよねんにがつようか。かいはつはすうぇーでんのあろーへっど・げーむ・すたじおずよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "舞台は22世紀。スーパーアースっていう超大国が、銀河じゅうに喧嘩を売ってる時代なの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "スーパーアース。名前の時点でもう自信満々なのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "プレイヤーはそこの降下部隊、ヘルダイバー。掲げてる大義名分が管理民主主義っていうのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "管理民主主義？選挙のたびに役所でハンコ押すやつなのだ？",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "押すのはハンコじゃなくて引き金よ。上から配給された自由を、疑いもせず他所の星へ輸出する体制の話。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "自由が配給制……頭がこんがらがってきたのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "その矛盾を全力でギャグにしてるの。要するに、笑える全体主義パロディってことね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "chuuni",
+      "text": "星々の海に翻る旗……その裏に焼き付けられた、管理された自由の烙印……",
+      "reading": "ほしぼしのうみにひるがえるはた……そのうらにやきつけられた、かんりされたじゆうのらくいん……",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "出たのだー！めたんの厨二モードが発病したのだー！",
+      "reading": "でたのだー！めたんのちゅうにもーどがはつびょうしたのだー！",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ごめんなさい、世界観が濃すぎて出ちゃったわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ仕組みの話ね。目玉はストラタジェムっていう、母艦から支援を呼ぶシステムよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "方向キーを決められた順に入力すると、軌道爆撃とか機関砲が空から降ってくるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "それ完全に格ゲーの必殺技コマンドじゃん！",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "その理解、珍しく一発で合ってるわ。ただし敵に追い回されながら入力するのが前提だけどね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに、緊張感の出どころは敵の強さじゃなくて自分の入力ミス。しかもマップは毎回自動生成なの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "地形が毎回変わったら、味方がどこにいるかも覚えられないじゃん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこで誤射が起きるの。フレンドリーファイアはミッション中ずっとオンだからね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "フレンドリーファイア……友情の炎なのだ？あったかい響きじゃん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "真逆よ。味方の弾が普通に当たって、燃え尽きるのは友情のほうなの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "ボク、めたんと組んだら真っ先に撃たれる気がするのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "ずんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "……はい、なのだ？",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "sexy",
+      "text": "安心なさい。あなたの場合は誤射じゃなくて、狙って撃つから。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "ごめんなさいなのだ……もう言わないのだ……",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "コホン、話を戻すわね。作ってるのはアローヘッドで、出してるのがソニー・インタラクティブエンタテインメントよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ボク、ソニーが作ってると思ってたのだ。ラーメン屋と、その味を全国に卸してる会社みたいなものなのだね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "近いわ。味の責任がアローヘッドで、看板と流通がソニーってこと。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "発売時はプレステ5とパソコン版が同時。2025年8月26日にはエックスボックス版も出てるわ。",
+      "reading": "はつばいじはぷれすてふぁいぶとぱそこんばんがどうじ。にせんにじゅうごねんはちがつにじゅうろくにちにはえっくすぼっくすばんもでてるわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "後から仲間が増えたのだ。ちゃんと一緒に遊べるのだ？",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "全機種でクロスプレイ対応よ。要するに、持ってるハードが違っても同じ星に降りられるってこと。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それでね、売れかたが完全に異常だったの。2024年2月11日の時点で、およそ100万本。",
+      "reading": "それでね、うれかたがかんぜんにいじょうだったの。にせんにじゅうよねんにがつじゅういちにちのじてんで、およそひゃくまんぼん。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "発売から数日で100万本なのだ？ペースが早すぎじゃん。",
+      "reading": "はつばいからすうじつでひゃくまんぼんなのだ？ぺーすがはやすぎじゃん。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "2月24日には300万本を超えて、3月15日には800万本。同時接続は45万人よ。",
+      "reading": "にがつにじゅうよっかにはさんびゃくまんぼんをこえて、さんがつじゅうごにちにははっぴゃくまんぼん。どうじせつぞくはよんじゅうごまんにんよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "45万人って、ボクの知り合い全員が45万回ログインしてる計算なのだ！",
+      "reading": "よんじゅうごまんにんって、ぼくのしりあいぜんいんがよんじゅうごまんかいろぐいんしてるけいさんなのだ！",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "あなたの知り合い、その計算だと一人でしょ。45万人は中規模の市がまるごと同じ星に降りてる数よ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "発売直後の二週間はログインすら通らなかったって聞いたのだ。買ったのに入れないのはつらいじゃん。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "混みすぎてサーバーが悲鳴を上げたのよ。三週目には同時接続の上限を70万人まで引き上げてるわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "hisohiso",
+      "text": "ここだけの話、上限を何度も引き上げる羽目になるのって、この業界だと最高に幸せな事故なのよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "幸せな事故。ひびきがいいのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "2024年5月には1200万本。プレイステーション史上いちばん速いセールス記録だと言われたわ。",
+      "reading": "にせんにじゅうよねんごがつにはせんにひゃくまんぼん。ぷれいすてーしょんしじょういちばんはやいせーるすきろくだといわれたわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "2026年の初めの時点で累計2000万本超え、世界の売上高は7億ドル超よ。数字は今も動いてるはずだけどね。",
+      "reading": "にせんにじゅうろくねんのはじめのじてんでるいけいにせんまんぼんごえ、せかいのうりあげだかはななおくどるごえよ。すうじはいまもうごいてるはずだけどね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ただね、順風満帆なだけじゃなかったの。2024年5月3日に大きな騒ぎが起きてるわ。",
+      "reading": "ただね、じゅんぷうまんぱんなだけじゃなかったの。にせんにじゅうよねんごがつみっかにおおきなさわぎがおきてるわ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ソニーが、パソコン版にもプレイステーションネットワークのアカウント連携を必須にすると発表したのよ。",
+      "reading": "そにーが、ぱそこんばんにもぷれいすてーしょんねっとわーくのあかうんとれんけいをひっすにするとはっぴょうしたのよ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "アカウントを作るだけじゃん。手続きくらいするのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこが揉めたの。ソニー自身の説明では、パソコン版のアカウントは任意だとされてたのよ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "後出しで必須にしたのだ。それは怒られるやつじゃん。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そもそもアカウントを作れない国や地域のプレイヤーもいたしね。で、Steamのレビュー欄が荒れたわ。",
+      "reading": "そもそもあかうんとをつくれないくにやちいきのぷれいやーもいたしね。で、すちーむのれびゅーらんがあれたわ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "5月4日の時点で、投稿されたレビューの約53％が否定的。否定的なレビューは8万4千件を超えたわ。",
+      "reading": "ごがつよっかのじてんで、とうこうされたれびゅーのやくごじゅうさんぱーせんとがひていてき。ひていてきなれびゅーははちまんよんせんけんをこえたわ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "8万4千件……全部読むだけで一年終わるのだ。",
+      "reading": "はちまんよんせんけん……ぜんぶよむだけでいちねんおわるのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そして翌日、5月5日。ソニーは方針を転換して、必須化を取り下げたの。",
+      "reading": "そしてよくじつ、ごがついつか。そにーはほうしんをてんかんして、ひっすかをとりさげたの。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "早いのだ！二日で撤回じゃん。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "開発元と協力して別の手を考える、という約束もしてるわ。ここ、因果は言い切らないでおくわね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "言い切らない？抗議が効いたって話じゃないのだ？",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "確かなのは日付の並びだけよ。発表があって、荒れて、翌日に取り下げられた、それだけ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "そういう慎重さ、めたんらしいのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "騒ぎはあったけど、ゲーム本体の評価はずっと高いままだったの。",
+      "news_index": 6
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "メタクリティックのスコアが、パソコン版83点、プレステ5版82点、エックスボックス版88点よ。",
+      "reading": "めたくりてぃっくのすこあが、ぱそこんばんはちじゅうさんてん、ぷれすてふぁいぶばんはちじゅうにてん、えっくすぼっくすばんはちじゅうはってんよ。",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "全部そろって八十点台なのだ。優等生じゃん。",
+      "reading": "ぜんぶそろってはちじゅうてんだいなのだ。ゆうとうせいじゃん。",
+      "news_index": 6
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "評価の言葉も強くてね。銃の撃ち心地は同ジャンルで最高クラス、っていう書かれかたをされてるわ。",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "撃ち心地。味方に当たった時の心地も込みなのだ？",
+      "news_index": 6
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "そこは別売りよ。",
+      "news_index": 6
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "賞のほうも山ほど取ってるわ。ザ・ゲーム・アワード2024で二冠、ゴールデンジョイスティックアワードではベストゲームトレーラーまで持っていったの。",
+      "reading": "しょうのほうもやまほどとってるわ。ざ・げーむ・あわーどにせんにじゅうよねんでにかん、ごーるでんじょいすてぃっくあわーどではべすとげーむとれーらーまでもっていったの。",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "予告編でも賞なのだ？中身も見せかたも一等賞ってことじゃん。",
+      "news_index": 6
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "でね、この作品の芯はここから。ギャラクティックウォーっていう、全プレイヤー共通の戦争があるのよ。",
+      "news_index": 7
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "共通の戦争？じゃあボクがサボったら銀河が負けるのだ？",
+      "news_index": 7
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一人分の重みなんて誤差よ。ただ、その誤差がメジャーオーダーっていう全体目標に何十万人分積み上がるの。",
+      "news_index": 7
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "2024年6月11日には、こんな二択のオーダーが出たわ。地雷を手に入れるか、捕らわれた子どもたちを救出するか。",
+      "reading": "にせんにじゅうよねんろくがつじゅういちにちには、こんなにたくのおーだーがでたわ。じらいをてにいれるか、とらわれたこどもたちをきゅうしゅつするか。",
+      "news_index": 7
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "そんなの子どもに決まってるじゃん！",
+      "news_index": 7
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "コミュニティも同じ判断をして、救出が選ばれたの。それを記念して、当時の開発元のトップがセーブ・ザ・チルドレンに4,311ドル寄付したわ。",
+      "reading": "こみゅにてぃもおなじはんだんをして、きゅうしゅつがえらばれたの。それをきねんして、とうじのかいはつもとのとっぷがせーぶ・ざ・ちるどれんによんせんさんびゃくじゅういちどるきふしたわ。",
+      "news_index": 7
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "いい話なのだ。ゲームの中の選択が、外まで届いたのだね。",
+      "news_index": 7
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "国連から開発元に、操作に対する心理的な防御について問い合わせが来たこともあるそうよ。トップは、全体主義の国がどういうものかを認識する助けになる、と話しているわ。",
+      "news_index": 7
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "笑いながら撃ってたら、いつのまにか勉強させられてるのだ。",
+      "news_index": 7
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "あと、ウォーボンドっていう報酬の仕組みには期限切れがないの。後から入っても置いていかれにくい設計だわ。",
+      "news_index": 7
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ただし戦況も更新内容も日々動くから、今どうなってるかは自分の目で確かめてほしいわ。",
+      "news_index": 7
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "気になったかたは、いくらで買えるのだ？",
+      "news_index": 8
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "Steamの日本での価格が3,360円。日本語表示にもちゃんと対応してるわ。",
+      "reading": "すちーむのにほんでのかかくがさんぜんさんびゃくろくじゅうえん。にほんごひょうじにもちゃんとたいおうしてるわ。",
+      "news_index": 8
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "四人ぶん誘っても一万三千円ちょっとなのだ！安いじゃん。",
+      "reading": "よにんぶんさそってもいちまんさんぜんえんちょっとなのだ！やすいじゃん。",
+      "news_index": 8
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "誘う前にひとつ約束して。フレンドリーファイアは常時オンだからね。",
+      "news_index": 8
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "任せるのだ！ボク、友情の炎の練習をしてくるのだー！",
+      "news_index": 8
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "だから燃えるのは友情じゃなくて味方だってば。練習するな。",
+      "news_index": 8
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "はい、今回はここまで。旅の道ラジオ、四国めたんでした。",
+      "reading": "はい、こんかいはここまで。たびのみちらじお、しこくめたんでした。",
+      "news_index": 8
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ずんだもんなのだー！また旅の道ラジオで会いましょうなのだー！",
+      "reading": "ずんだもんなのだー！またたびのみちらじおであいましょうなのだー！",
+      "news_index": 8
+    }
+  ],
+  "program_description": "今回の旅の道ラジオは、2024年2月8日にPS5とPCで同時発売された協力シューター『HELLDIVERS 2』を一本まるごと深掘りします。舞台は22世紀、超大国スーパーアースが掲げる「管理民主主義」を銀河に広めるため、四人一組のヘルダイバー部隊が軌道上から敵の星へ飛び降りるという皮肉たっぷりの世界観から、方向キーの入力シーケンスで母艦から支援を呼ぶストラタジェム、常時オンのフレンドリーファイア、毎回変わる自動生成マップといった仕組みを紹介。発売直後の爆発的な売れかたとサーバー障害、同時接続の上限を70万人まで引き上げた話、2024年5月のPSNアカウント連携必須化の発表からレビュー欄が荒れ、翌日に方針が撤回されるまでの時系列を、因果を断定しないかたちで整理します。メタクリティックのスコアや主要アワードでの受賞、コミュニティ全体で戦況が動くギャラクティックウォー、子どもたちの救出を選んだ大規模ミッションを記念して開発元のトップが慈善団体に寄付した逸話まで。ずんだもんがフレンドリーファイアを「友情の炎」と勘違いし、めたんが銀河の旗を語り出して厨二病を発症する回です。",
+  "featured_game": {
+    "app_id": null,
+    "igdb_id": 250616,
+    "title": "Helldivers 2",
+    "image_rel": "/images/topics/indie_20260917_050640_chars.webp",
+    "hero_rel": "/image/games/igdb_250616.jpg",
+    "screenshot_rels": [
+      "/image/games/igdb_250616_ss1.jpg",
+      "/image/games/igdb_250616_ss2.jpg",
+      "/image/games/igdb_250616_ss3.jpg",
+      "/image/games/igdb_250616_ss4.jpg"
+    ],
+    "developers": [
+      "Arrowhead Game Studios"
+    ],
+    "publishers": [
+      "Sony Interactive Entertainment"
+    ],
+    "genres": [
+      "Shooter",
+      "Tactical"
+    ],
+    "release_date": "2024-02-08",
+    "price": "3,360円",
+    "short_description": "Helldivers 2 is a cooperative third-person shooter in which squads of up to four players are deployed from orbit onto hostile planets to complete strategic missions. Players select loadouts of weapons, armor, and stratagems that allow them to call in orbital strikes, supply drops, vehicles, and turrets during combat. Friendly fire is always active, requiring coordination between teammates. The game features a persistent galactic war where community-wide performance determines which planets are liberated or lost."
+  },
+  "bank_meta": {
+    "built_at": "2026-08-12T14:23:09.864972",
+    "title": "Helldivers 2",
+    "title_spec": "Helldivers 2|HELLDIVERS™ 2",
+    "variant": "evergreen",
+    "built_ts": "20260812_142015",
+    "residual_cleaned": true
+  }
+}
