@@ -1,0 +1,603 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-09-17T20:13:21.175764+00:00",
+  "title": "まとめ役を持った朝 〜AIの中間管理職と、消えていく保存先〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便。テックニュースの回、四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 通勤通学のおともに、軽くいくのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今朝は五本。AIに仕事を丸投げする話から、ロボットの指先、それにお財布が痛くなる話まで。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、朝から財布の話!? 心の準備がいるやつじゃん!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "それは最後に置いたから、そこまでは安心して聴いてて。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ一本目は、なんの話だっけ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "プログラムを書くAIが、ついに上司を持った話よ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "上司!? AIが会社員になったのだ!?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "アンソロピックが九月十七日に、クロードコードのプロジェクト機能を作り直したの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "くろーどこーど? ボクが話してるクロードとは、別の子だっけ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "同じクロードを使って、コードを読んだり書いたり、開発作業を進めたりする道具ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、パソコンの中で勝手にコードを書いてくれるやつじゃん!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今回の目玉が、コーディネーター。日本語にすると、まとめ役。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "まとめ役って、なにをまとめるのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "頼まれた仕事を小分けにして、スレッド、つまり作業係のAIに何本も配るのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、AIがAIに仕事を振るってこと!? 完全に中間管理職じゃん!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "言い方は悪いけど、当たってるわ。作業係はそれぞれ別々に手を動かして、テストまで回してくるの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "で、まとめ役は最後に「よし」って言うだけなのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "そこは違う。出てきた成果を全部読んで、一本につなぎ直すまでが仕事よ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "うちの部長より働いてるのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "shock",
+      "text": "……アナタ、会社員だったの?",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "違うのだ。で、コードを書かないボクには関係ない話じゃん?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "今はプロとマックスの一部だけのベータだし、動くのもクラウドの中だけ。ただ、複数の作業を並行してクロードに任せる選択肢が増えたのは確かね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "スマホから様子を見られるって、上司というより現場監督なのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに、人が目標を決めて、クロードが作業を分けて進める使い方ができるようになった、って話。次いくわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "二本目はロボットの腕。オープンエーアイの新しいAIに、机の上の文房具をいじらせた検証が出たのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ぶんぼうぐ? テストの中身が、急に地味なのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "地味だからいいの。マーカーのキャップを外す、クリップを箱から注ぐ、定規を左右の腕で受け渡す。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、それ全部ボクが今すぐできるやつじゃん!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう、人間なら難なくできるように見える作業。でもロボットには、何十年も鬼門の課題なの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "なんで難しいのだ? つまむだけでしょ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "目で見た位置と、腕をどこまで動かすかを結びつけるのが苦手なのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "距離感がつかめないってこと!? ボクが夜中に足の小指をぶつけるのと一緒じゃん!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いい例えね。で、成績が、五種類の課題を二十回ずつ試した百回のうち、最後までやり切ったのは七回。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "……七つ。九十三個は失敗してるのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "比べた相手は、ゼロよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ゼロ!? 七点が急にまぶしく見えてきたのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "途中までの出来を点数にしても、四十六対十二。まだ実用には遠いけど、段差はできたわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "これ、ボクの生活だとどこに効いてくるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "家事ロボットが来るのはまだ先ね。まず期待されるのは、こうした細かい手作業をロボットに覚えさせる研究への応用ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "キャップを外せるようになったら、次は瓶のフタなのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこまで行ったら、私も一台ほしいわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "三本目は音楽の話。作曲AIのスーノが、九月九日に新しい版を出したのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "すーの? 歌まで丸ごと作っちゃうやつだっけ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、言葉で頼むと歌詞も伴奏もボーカルも出てくるやつ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "音が良くなったとか、そういう話なのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこより、作り方が変わったのが本題。ワーナーミュージックとビーエムジー、それに音楽配信会社のビリーブと組んで開発したの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、レコード会社ってAIを訴えてる側じゃなかったのだ!?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "去年の十一月に、ワーナーとは和解済みなのよ。その提携を受けて、以前とは別のモデルを、許諾された音源やユーザー提供データを使って一から学習したの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、だから前のモデルは全部引退させるのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ご名答。無料でも使える軽い版と、有料の本気版、それに暴れる用の版で三段構えね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "暴れる用て。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "予想のつかない曲を出す用よ。整いすぎて退屈、って人向け。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、ボクたちにはどう効くのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "許諾された音源を学習に使い、参加する権利者へ新しい収益の道を作ろうとしてる。そこが大きな変化。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "許諾されたデータで作り直したAIへ、サービスごと切り替わっていくのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ただし全社と手を組めたわけじゃなくて、まだ争ってるレーベルもいるわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "四本目は中国発。オールスパークっていう研究チームが、アイリスってAIを無料で公開したの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "あいりす? お花の名前じゃん。なにが得意なのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "調べ物。ネットを自分で検索して、読んで、答えをまとめるところに全振りしてるのよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "それ、ボクが毎日やってるやつなのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "アナタのは、検索して三行読んで閉じるやつでしょ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "……図星で、朝からダメージなのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "面白いのは配り方でね。AIの中身そのものを、誰でも持ち帰って商売に使える形で公開してるの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "タダ!? 大手は何千億もかけてるのに、まるごと配っちゃうのだ!?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "しかも開発チームの公表値では、同じ規模の公開型検索AIの中で総合的にトップ級よ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "なんで配るのだ。丸損じゃん。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "重みを公開すれば、研究者や企業が自分たちの環境で試したり、改良したりしやすくなるの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、試食を配りまくって、棚ごと取りにいくやつじゃん!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "もっと変なのが、開発チームは、検索向けの学習が道具の操作や事務系の課題にも良い影響を与えた、と報告してること。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "勉強してない教科の点数まで上がったってこと!? ずるいのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに、高性能な調べ物AIの重みを、自分たちで動かせる選択肢が増えた、って話。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "じゃあラスト。冒頭で脅かした、お財布の話ね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "来ちゃったのだ……心の準備、まだできてないのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "パソコンの保存先、エスエスディーとハードディスクが、今えらいことになってるのよ。",
+      "news_index": 5,
+      "reading": "パソコンのホゾンサキ、えすえすでぃーとハードディスクが、イマエライコトニナッテルノヨ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "保存先って、写真とかゲームを入れとくとこだよね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。エスエスディーに使うナンド型フラッシュの契約価格が、春の三か月で七割ほど上がったの。",
+      "news_index": 5,
+      "reading": "そう。えすえすでぃーにナンドがたフラッシュのけいやくかかくが、ハルノサンカゲツデシチワリホドアガッタノ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "七割!? 一年かけてじゃなくて、三か月でなのだ!?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "店頭はもっと露骨よ。一テラバイトの定番品が、一か月で三倍になった例もあるわ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "三倍!? ボクのお小遣いを三か月ぶん積んで、やっと一個なのだ!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "大容量のハードディスクなんて、二十二テラバイトのモデルが13万円台。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "保存する箱ひとつで、中古のパソコンが買える値段じゃん……。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "大きな要因はAI向けデータセンターの需要ね。企業向けエスエスディーへの生産振り分けや、大手クラウド会社の長期契約で、一般向けにも品薄と値上がりが波及してるの。",
+      "news_index": 5,
+      "reading": "オオキナヨウインワAIむけデータセンターのじゅようね。きぎょうむけえすえすでぃーへのせいさんふりわけや、おおてクラウドがいしゃのちょうきけいやくで、イッパンムケニモシナジナトネアガリガハキュウシテルノ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "作ってる会社が、工場を増やせばいいじゃん。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "大容量ハードディスクは、大手二社のデータセンター向け生産枠が二〇二七年までほぼ埋まってるのよ。新しく買う側は、割高な市場価格を覚悟する状況ね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "完売!? 工場が福袋みたいになってるのだ!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "で、私たちへの影響。パソコンやゲーム機を買う予定があるなら、保存容量だけは今のうちに多めを選ぶこと。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "落ち着くのは、いつごろなのだ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "少なくとも年内は厳しくて、大容量ハードディスクは二〇二七年まで供給が詰まるとの見方もあるわ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "じゃあボクは、いらない動画を消すところから始めるのだ!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "それが今いちばん安上がりな増設ね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "はい、今朝は五本。AIの中間管理職、ロボットの指先、許可を取った作曲AI、無料で配る中国のAI、それに保存先の値上がりね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "どれか一個でも、今日の雑談で使えたら嬉しいのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "気になったやつは、移動の合間にでも調べてみて。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "聴いてくれてるかた、今日も一日いってらっしゃいなのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "それじゃ、また明日のテック朝便で。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんでしたー! またなのだー!",
+      "news_index": 0
+    }
+  ],
+  "program_description": "旅の道ラジオ朝便、テックニュースの回。一本目はアンソロピックがクロードコードのプロジェクト機能を作り直した話で、まとめ役のAIが複数の作業係AIに仕事を振り分ける仕組みを噛み砕きます。二本目はオープンエーアイの新しいモデルが、双腕ロボットで机の上の文房具をいじる検証に挑んだ結果。三本目は作曲AIのスーノが、ワーナーミュージックたちと組んで許可を取った曲だけで作り直した新しいモデルの話。四本目は中国のオールスパークが無料で公開した、調べ物に全振りのAIアイリス。ラストはエスエスディーとハードディスクの値上がりで、AIのデータセンターに保存先を買い占められている現状と、買い物のタイミングについて話しました。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20260918_051321_chars.webp",
+    "hero_rel": "/images/topics/tech_20260918_051321.webp",
+    "title": "まとめ役を持った朝 〜AIの中間管理職と、消えていく保存先〜",
+    "companies": [
+      "Claude",
+      "OpenAI"
+    ]
+  },
+  "summary_short": "AIがAI同士に仕事を割り振る新体制から、ロボットの手先検証、許諾曲だけの作曲AI刷新、無料公開の調べ物特化AI、そしてストレージ高騰でデータの置き場所が消えていく現実まで、朝のテック事情を一気に整理します。"
+}
