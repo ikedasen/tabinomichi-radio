@@ -1,0 +1,1296 @@
+{
+  "profile": "zatsugaku",
+  "generated_at": "2026-09-18T21:04:44+09:00",
+  "title": "日本語に同音異義語が多いのは「音が少ないから」だけではない 〜中国語の音の違いを置いてきた話〜",
+  "audio_path": "zatsugaku_latest.wav",
+  "duration_sec": 673.64,
+  "script_hash": "sha256:b02e0e7b2ae815cd1dd091e4bd2e7ad60340f9af884ceaa6e19374049f574de1",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 6.47
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "mic",
+      "text": "旅の道ラジオ、雑学チャンネル。あんこもんだもん。",
+      "news_index": 0,
+      "start_sec": 6.47,
+      "end_sec": 9.92
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ずんだもんなのだ! 今日はどんなネタを持ってきたのだ?",
+      "news_index": 0,
+      "start_sec": 10.07,
+      "end_sec": 13.37
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "今日はクイズからいくもん。「こうしょう」って聞いて、何を思い浮かべる?",
+      "news_index": 0,
+      "start_sec": 13.52,
+      "end_sec": 18.17
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "交渉なのだ。値段の交渉とかの。",
+      "news_index": 0,
+      "start_sec": 18.32,
+      "end_sec": 21.03
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "他にも高尚、考証、校章、鉱床、公称。まだまだあるんだもん。",
+      "news_index": 0,
+      "start_sec": 21.18,
+      "end_sec": 26.6
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "そんなにあるのだ!? 校章しか分からなかったのだ。",
+      "news_index": 0,
+      "start_sec": 26.75,
+      "end_sec": 29.95
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "今日のお題は、日本語にはなんでこんなに同じ音の言葉が多いのか、だもん。",
+      "news_index": 0,
+      "start_sec": 30.1,
+      "end_sec": 34.83
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "それならボク知ってるのだ。日本語は音の種類が少ないからなのだ!",
+      "news_index": 0,
+      "start_sec": 34.98,
+      "end_sec": 39.74
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "それだけじゃないもん。今日こそずんだもんに、半分しか合ってないって認めさせるんだもん。",
+      "news_index": 0,
+      "start_sec": 39.89,
+      "end_sec": 44.98
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "半分は合ってるなら、ボクの勝ちでいいのだ。",
+      "news_index": 1,
+      "start_sec": 45.13,
+      "end_sec": 47.8
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "shirake",
+      "text": "よくないもん。まず、「こうしょう」がいくつあるか数えてみるもん。",
+      "news_index": 1,
+      "start_sec": 47.95,
+      "end_sec": 53.49
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "スーパー大辞林の3.0だと48語、広辞苑の第6版だと仮名の見出しが50もあるんだもん。",
+      "news_index": 1,
+      "start_sec": 53.57,
+      "end_sec": 59.91
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "50!? ボクが1日に食べるずんだ餅の数より、ずっと多いのだ。",
+      "news_index": 1,
+      "start_sec": 60.06,
+      "end_sec": 65.82
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "shirake",
+      "text": "1日に50個食べてたら、それはそれで問題だもん。",
+      "news_index": 1,
+      "start_sec": 65.97,
+      "end_sec": 70.4
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも、なんでその言葉だけそんなに増えたのだ?",
+      "news_index": 1,
+      "start_sec": 70.55,
+      "end_sec": 73.78
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "ヒントは、その50個の書き方だもん。全部、漢字2文字の熟語なんだもん。",
+      "news_index": 1,
+      "start_sec": 73.93,
+      "end_sec": 79.13
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "そういえば、ひらがなの言葉の同じ音ってあんまり思いつかないのだ。",
+      "news_index": 1,
+      "start_sec": 79.28,
+      "end_sec": 83.62
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "もちろんゼロじゃないもん。書くと掻く、恋と鯉みたいに、昔からの日本の言葉にもあるんだもん。",
+      "news_index": 1,
+      "start_sec": 83.77,
+      "end_sec": 89.92
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "でも数がケタ違いに多いのは、漢字の音読みでできた言葉、漢語の方なんだもん。",
+      "news_index": 1,
+      "start_sec": 90.0,
+      "end_sec": 95.06
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "えっ、漢語って何なのだ? 漢文の漢なのだ?",
+      "news_index": 1,
+      "start_sec": 95.21,
+      "end_sec": 99.09
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "そうだもん。中国から入ってきた漢字の読み方で組み立てた言葉のことだもん。",
+      "news_index": 1,
+      "start_sec": 99.24,
+      "end_sec": 103.96
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "学校、電話、交渉、みたいに音読みでできてる熟語は、だいたい漢語だもん。",
+      "news_index": 1,
+      "start_sec": 104.04,
+      "end_sec": 109.84
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあ、やまとか、さくらとかの訓読みの言葉は違うのだ?",
+      "news_index": 1,
+      "start_sec": 109.99,
+      "end_sec": 114.12
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "そっちは和語。もともと日本にあった言葉だもん。",
+      "news_index": 1,
+      "start_sec": 114.27,
+      "end_sec": 117.26
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "漢語って、実際どのくらいあるのだ? ちょっとだけなのだ?",
+      "news_index": 1,
+      "start_sec": 117.41,
+      "end_sec": 121.61
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "国立国語研究所が1956年の雑誌90種類の言葉を調べたデータがあるもん。",
+      "news_index": 1,
+      "start_sec": 121.76,
+      "end_sec": 127.5
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "言葉の種類で数えると、漢語が47.5%、和語が36.7%。漢語の方が多いんだもん。",
+      "news_index": 1,
+      "start_sec": 127.58,
+      "end_sec": 135.47
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "マジかよ! 半分近くが中国から来た読み方の言葉なのだ!?",
+      "news_index": 1,
+      "start_sec": 135.62,
+      "end_sec": 139.86
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "ただ、使われた回数で数えると、和語が53.9%で逆転するんだもん。",
+      "news_index": 1,
+      "start_sec": 140.01,
+      "end_sec": 145.77
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "種類は漢語が多くて、よく使うのは和語ってことなのだ?",
+      "news_index": 1,
+      "start_sec": 145.92,
+      "end_sec": 150.23
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "そういうことだもん。漢語は、細かい意味を言い分けるための言葉がずらっと並んでるんだもん。",
+      "news_index": 1,
+      "start_sec": 150.38,
+      "end_sec": 155.84
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "でもそれ、やっぱり音が少ないからぶつかるのだ。ボクの答え、合ってるのだ。",
+      "news_index": 1,
+      "start_sec": 155.99,
+      "end_sec": 161.79
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "そこなんだもん。漢語って、もとの中国語だと同じ音じゃなかったんだもん。",
+      "news_index": 1,
+      "start_sec": 161.94,
+      "end_sec": 166.41
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、中国でも同じ「こうしょう」じゃないのだ!?",
+      "news_index": 1,
+      "start_sec": 166.56,
+      "end_sec": 170.04
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "違うもん。要するに同じ音は日本に来てから生まれたから、どこで重なったのかを追いかけるもん。",
+      "news_index": 1,
+      "start_sec": 170.19,
+      "end_sec": 175.83
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "中国語だと、どう違ってたのだ? 読み方が全然別なのだ?",
+      "news_index": 2,
+      "start_sec": 175.98,
+      "end_sec": 180.55
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "まず1つ目の違いは、声調だもん。",
+      "news_index": 2,
+      "start_sec": 180.7,
+      "end_sec": 183.27
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "えっ、声調って何なのだ? 声の調子なのだ?",
+      "news_index": 2,
+      "start_sec": 183.42,
+      "end_sec": 187.21
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "音の高さの上がり下がりの型だもん。同じ「マ」でも、平らに言うか、上げて言うかで別の字になるんだもん。",
+      "news_index": 2,
+      "start_sec": 187.36,
+      "end_sec": 194.53
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "高さを変えるだけで別の言葉なのだ!? ボクなら歌ってるうちに意味が変わっちゃうのだ。",
+      "news_index": 2,
+      "start_sec": 194.68,
+      "end_sec": 201.29
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "昔の中国語は、この型を平声、上声、去声、入声の4つに分けてたんだもん。まとめて四声っていうもん。",
+      "news_index": 2,
+      "start_sec": 201.44,
+      "end_sec": 209.64
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "日本語で読むときは、その高さは守ったのだ?",
+      "news_index": 2,
+      "start_sec": 209.79,
+      "end_sec": 213.03
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "shirake",
+      "text": "守らなかったもん。日本の漢字の音読みには、声調の区別が入ってないんだもん。",
+      "news_index": 2,
+      "start_sec": 213.18,
+      "end_sec": 220.05
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "いきなり1個、区別を落としてるのだ!",
+      "news_index": 2,
+      "start_sec": 220.2,
+      "end_sec": 222.81
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "しかも、もう1つ大きいのが残ってるもん。音の終わり方だもん。",
+      "news_index": 2,
+      "start_sec": 222.96,
+      "end_sec": 227.22
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "終わり方? 言葉のお尻のことなのだ?",
+      "news_index": 2,
+      "start_sec": 227.37,
+      "end_sec": 230.31
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "そう。昔の中国語の字は、最後がプ、ツ、クで詰まったり、ム、ン、ングで鼻に抜けたりしたんだもん。",
+      "news_index": 2,
+      "start_sec": 230.46,
+      "end_sec": 238.11
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "この字の終わりの部分を、韻尾っていうもん。",
+      "news_index": 2,
+      "start_sec": 238.19,
+      "end_sec": 240.98
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "韻尾……ボクには難しすぎるのだ。",
+      "news_index": 2,
+      "start_sec": 241.13,
+      "end_sec": 244.65
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "amaama",
+      "text": "英語のカップのプ、キャットのト、ブックのクを思い出すもん。最後に母音がつかないで、ピタッと止まる音だもん。",
+      "news_index": 2,
+      "start_sec": 244.8,
+      "end_sec": 251.75
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "あー、それなら分かるのだ。",
+      "news_index": 2,
+      "start_sec": 251.9,
+      "end_sec": 253.79
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "で、プ、ツ、クで止まる字のグループが、さっきの4つ目の入声なんだもん。",
+      "news_index": 2,
+      "start_sec": 253.94,
+      "end_sec": 258.88
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも日本語って、「ん」以外は最後に母音がつくのだ。",
+      "news_index": 2,
+      "start_sec": 259.03,
+      "end_sec": 263.34
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "shock",
+      "text": "……そこに気づくとは思わなかったもん。",
+      "news_index": 2,
+      "start_sec": 263.49,
+      "end_sec": 265.69
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "hazukashi",
+      "text": "そ、そうだもん。だから日本語は母音を足して、フ、ツ、チ、ク、キの仮名で書き写したんだもん。",
+      "news_index": 2,
+      "start_sec": 265.77,
+      "end_sec": 273.61
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ボク、今ちょっと勝ったのだ?",
+      "news_index": 2,
+      "start_sec": 273.76,
+      "end_sec": 276.2
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "ちょっとだけだもん。学校の学がガク、日曜の日がニチで、これがクとチになった字だもん。",
+      "news_index": 2,
+      "start_sec": 276.35,
+      "end_sec": 281.89
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあ、プで終わる字はどうなったのだ?",
+      "news_index": 2,
+      "start_sec": 282.04,
+      "end_sec": 284.72
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "数字の十は、昔の仮名遣いだと「じふ」だもん。それが今は「じゅう」になってるもん。",
+      "news_index": 2,
+      "start_sec": 284.87,
+      "end_sec": 291.52
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "マジかよ! 十に「ふ」がついてたのだ!?",
+      "news_index": 2,
+      "start_sec": 291.67,
+      "end_sec": 294.91
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ングの方はどうなったのだ?",
+      "news_index": 2,
+      "start_sec": 294.99,
+      "end_sec": 296.92
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "ングはウやイで写したもん。そしてムとンは、はじめ仮名で書き分けてたんだもん。",
+      "news_index": 2,
+      "start_sec": 297.07,
+      "end_sec": 301.89
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "平安時代の終わりごろの資料だと、金はキム、森はシム、民はミンと書いてあるもん。",
+      "news_index": 2,
+      "start_sec": 301.97,
+      "end_sec": 307.91
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "キム! 今の読み方と全然違うのだ。",
+      "news_index": 2,
+      "start_sec": 308.06,
+      "end_sec": 311.09
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "それがだいたい鎌倉時代ごろまでに、全部「ん」にまとまったもん。ここでまた区別が1個消えたんだもん。",
+      "news_index": 2,
+      "start_sec": 311.24,
+      "end_sec": 318.04
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "待つのだ。じゃあ日本に入ってきた瞬間に、全部同じ音になったのだ?",
+      "news_index": 2,
+      "start_sec": 318.19,
+      "end_sec": 323.36
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "そこも違うもん。最初は、けっこう頑張って書き分けてたんだもん。",
+      "news_index": 2,
+      "start_sec": 323.51,
+      "end_sec": 327.63
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "昔の仮名遣いだと、高いの高は「かう」、公園の公は「こう」、光は「くわう」と書き分けてたもん。",
+      "news_index": 2,
+      "start_sec": 327.71,
+      "end_sec": 335.74
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "今は3つとも「こう」なのに、書き方がバラバラなのだ!",
+      "news_index": 2,
+      "start_sec": 335.89,
+      "end_sec": 339.69
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "これは字音仮名遣いといって、もとの中国語の音に合わせて書き分けるルールだもん。",
+      "news_index": 2,
+      "start_sec": 339.84,
+      "end_sec": 344.74
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "書き分けてたってことは、発音も違ってたのだ?",
+      "news_index": 2,
+      "start_sec": 344.89,
+      "end_sec": 348.29
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "もともとは違う音だったと考えられてるもん。それが日本語の音の変化で、あとから同じ音に合流したんだもん。",
+      "news_index": 2,
+      "start_sec": 348.44,
+      "end_sec": 355.9
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "収集は昔「しうしふ」、少将は「せうしゃう」。今はどっちも「しゅうしゅう」と「しょうしょう」だもん。",
+      "news_index": 2,
+      "start_sec": 355.98,
+      "end_sec": 363.36
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "しうしふ、せうしゃう……早口言葉みたいで、ボクの舌がこんがらがるのだ。",
+      "news_index": 2,
+      "start_sec": 363.51,
+      "end_sec": 369.57
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "字音仮名遣いは戦前まで新聞の振り仮名でも使われてたけど、戦後の国語改革で使われなくなったんだもん。",
+      "news_index": 2,
+      "start_sec": 369.72,
+      "end_sec": 376.33
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "つまり、声調を落として、お尻の音を丸めて、あとから音もくっついた。3段階なのだ。",
+      "news_index": 2,
+      "start_sec": 376.48,
+      "end_sec": 382.67
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "要するにそういうことだもん。日本語の少ない音に合わせて取り込んだから、漢字の音の区別がどんどん減っていったんだもん。",
+      "news_index": 2,
+      "start_sec": 382.82,
+      "end_sec": 389.84
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも、それって大昔の話なのだ。今の言葉にはあんまり関係ないのだ?",
+      "news_index": 2,
+      "start_sec": 389.99,
+      "end_sec": 395.46
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "それも半分違うもん。同じ音の漢語がどっと増えたのは、むしろ明治になってからなんだもん。",
+      "news_index": 2,
+      "start_sec": 395.61,
+      "end_sec": 401.14
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、明治!? 急に最近の話になったのだ。",
+      "news_index": 2,
+      "start_sec": 401.29,
+      "end_sec": 404.99
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "西洋の学問が一気に入ってきて、それを日本語に訳す言葉が大量に必要になったんだもん。",
+      "news_index": 2,
+      "start_sec": 405.14,
+      "end_sec": 411.03
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "その訳語を、漢字を組み合わせて作ったんだもん。代表が西周という学者だもん。",
+      "news_index": 2,
+      "start_sec": 411.11,
+      "end_sec": 416.56
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "どんな言葉を作ったのだ?",
+      "news_index": 2,
+      "start_sec": 416.71,
+      "end_sec": 418.7
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "哲学、技術、概念、定義、それに科学。新しく作ったり、昔からある言葉に新しい意味をのせたりして、西周らの訳語として広まったんだもん。",
+      "news_index": 2,
+      "start_sec": 418.85,
+      "end_sec": 427.0
+    },
+    {
+      "index": 84,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "科学まで!? 明治より前は無かった言葉なのだ?",
+      "news_index": 2,
+      "start_sec": 427.15,
+      "end_sec": 430.63
+    },
+    {
+      "index": 85,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "哲学の方はそうだもん。西周は最初「希哲学」と訳して、あとで「哲学」に縮めたんだもん。",
+      "news_index": 2,
+      "start_sec": 430.78,
+      "end_sec": 437.19
+    },
+    {
+      "index": 86,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "西周の訳語を調べた研究だと、787語のうち447語が新しく作った漢語だったもん。",
+      "news_index": 2,
+      "start_sec": 437.27,
+      "end_sec": 444.8
+    },
+    {
+      "index": 87,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "1人で447語!? ボク、新しいずんだ餅の名前を3個考えるのも無理なのだ。",
+      "news_index": 2,
+      "start_sec": 444.95,
+      "end_sec": 452.55
+    },
+    {
+      "index": 88,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも漢字で作ったら、また同じ音とぶつかるのだ。",
+      "news_index": 2,
+      "start_sec": 452.63,
+      "end_sec": 456.15
+    },
+    {
+      "index": 89,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "そこだもん。訳語は主に本や論文を通して、目で読む言葉として広まったんだもん。",
+      "news_index": 2,
+      "start_sec": 456.3,
+      "end_sec": 461.71
+    },
+    {
+      "index": 90,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "字で見れば区別がつくから、音がかぶっても困りにくかったんだもん。",
+      "news_index": 2,
+      "start_sec": 461.79,
+      "end_sec": 465.73
+    },
+    {
+      "index": 91,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "耳で聞くより、字で見る言葉だったのだ!?",
+      "news_index": 2,
+      "start_sec": 465.88,
+      "end_sec": 468.66
+    },
+    {
+      "index": 92,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "百科事典にも、明治の初めから漢語が飛躍的に増えて、同音語が多くできたと書いてあるもん。",
+      "news_index": 2,
+      "start_sec": 468.81,
+      "end_sec": 474.87
+    },
+    {
+      "index": 93,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "その結果、文字を見なければ通じない場合も生まれた、とまで書いてあるんだもん。",
+      "news_index": 2,
+      "start_sec": 474.95,
+      "end_sec": 480.01
+    },
+    {
+      "index": 94,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "まとめると、区別を落として輸入して、音がくっついて、明治に書き言葉の漢語が山ほど増えたのだ。",
+      "news_index": 2,
+      "start_sec": 480.16,
+      "end_sec": 486.77
+    },
+    {
+      "index": 95,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "要するにそういうことだもん。日本語の同音異義語は、音の少なさと、漢語の積み上げの両方でできたんだもん。",
+      "news_index": 2,
+      "start_sec": 486.92,
+      "end_sec": 493.89
+    },
+    {
+      "index": 96,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも、そんなにかぶってたら、話してて困らないのだ?",
+      "news_index": 3,
+      "start_sec": 494.04,
+      "end_sec": 497.67
+    },
+    {
+      "index": 97,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "困る場面はあるもん。だから、わざと読み方を変える工夫があるんだもん。",
+      "news_index": 3,
+      "start_sec": 497.82,
+      "end_sec": 502.41
+    },
+    {
+      "index": 98,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "化学を「ばけがく」、私立を「わたくしりつ」、市立を「いちりつ」って言うの、聞いたことある?",
+      "news_index": 3,
+      "start_sec": 502.49,
+      "end_sec": 509.59
+    },
+    {
+      "index": 99,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あるのだ! ニュースで「わたくしりつ」って言ってたのだ。",
+      "news_index": 3,
+      "start_sec": 509.74,
+      "end_sec": 513.29
+    },
+    {
+      "index": 100,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "これは説明読みといって、正式な読み方じゃないけど、聞き違いを防ぐために使われる読み方なんだもん。",
+      "news_index": 3,
+      "start_sec": 513.44,
+      "end_sec": 519.8
+    },
+    {
+      "index": 101,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "他にも、形式とまぎれないように、型式を「かたしき」と読むことがあるもん。",
+      "news_index": 3,
+      "start_sec": 519.88,
+      "end_sec": 525.56
+    },
+    {
+      "index": 102,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "科学と化学がぶつかるの、どっちも漢字で作ったからなのだ。",
+      "news_index": 3,
+      "start_sec": 525.71,
+      "end_sec": 530.25
+    },
+    {
+      "index": 103,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "shirake",
+      "text": "……そうだもん。中国語だと科学と化学は、出だしの音から違うのに、日本語だとぴったり重なるんだもん。",
+      "news_index": 3,
+      "start_sec": 530.4,
+      "end_sec": 539.06
+    },
+    {
+      "index": 104,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも同じ音がそんなに多いのに、ボクらがあんまり気にしないのはなんでなのだ?",
+      "news_index": 3,
+      "start_sec": 539.21,
+      "end_sec": 544.27
+    },
+    {
+      "index": 105,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "百科事典には、漢字で書き分けるから、同じ音だっていう意識が薄まってる、と書いてあるもん。",
+      "news_index": 3,
+      "start_sec": 544.42,
+      "end_sec": 550.4
+    },
+    {
+      "index": 106,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "字で見分けてるから、ぶつかってること自体に気づいてないのだ!",
+      "news_index": 3,
+      "start_sec": 550.55,
+      "end_sec": 554.34
+    },
+    {
+      "index": 107,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "そういうことだもん。それで、どうしても耳でまぎれるときだけ、読み方を変えるしかないんだもん。",
+      "news_index": 3,
+      "start_sec": 554.49,
+      "end_sec": 560.18
+    },
+    {
+      "index": 108,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "そういえば、さっきのムの音って、もう全部消えちゃったのだ?",
+      "news_index": 3,
+      "start_sec": 560.33,
+      "end_sec": 564.5
+    },
+    {
+      "index": 109,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "実はちょっとだけ名残があるもん。三位一体の三位は「さんい」じゃなくて「さんみ」って読むもん。",
+      "news_index": 3,
+      "start_sec": 564.65,
+      "end_sec": 571.69
+    },
+    {
+      "index": 110,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "陰陽師の陰陽も「おんよう」じゃなくて「おんみょう」。三も陰も、昔は最後がムの字だったんだもん。",
+      "news_index": 3,
+      "start_sec": 571.77,
+      "end_sec": 578.56
+    },
+    {
+      "index": 111,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "マジかよ! 消えたはずのムが、次の字にくっついて生き残ってるのだ!",
+      "news_index": 3,
+      "start_sec": 578.71,
+      "end_sec": 583.09
+    },
+    {
+      "index": 112,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "そうだもん。前の字の終わりの音が、次の字に引っ越して残ったんだもん。",
+      "news_index": 3,
+      "start_sec": 583.24,
+      "end_sec": 587.78
+    },
+    {
+      "index": 113,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ中国語は声調があるから、同じ音の悩みは無いのだ?",
+      "news_index": 3,
+      "start_sec": 587.93,
+      "end_sec": 592.35
+    },
+    {
+      "index": 114,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "それも違うもん。今の中国の標準語も、昔の音の終わりのプ、ツ、クを失ってるんだもん。",
+      "news_index": 3,
+      "start_sec": 592.5,
+      "end_sec": 598.77
+    },
+    {
+      "index": 115,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "言語学者のチャオ・ユエンレンが、ほぼ全部「シー」という音の字だけで書いた、92文字の文章があるもん。",
+      "news_index": 3,
+      "start_sec": 598.85,
+      "end_sec": 606.32
+    },
+    {
+      "index": 116,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "92文字全部シー!? それ、お話になってるのだ?",
+      "news_index": 3,
+      "start_sec": 606.47,
+      "end_sec": 611.36
+    },
+    {
+      "index": 117,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "ちゃんと話になってるもん。石のライオンを食べようとする詩人の話だもん。",
+      "news_index": 3,
+      "start_sec": 611.51,
+      "end_sec": 616.11
+    },
+    {
+      "index": 118,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "字で読めば分かるのに、標準語で声に出したり、ローマ字にしたりすると、途端に分からなくなるんだもん。",
+      "news_index": 3,
+      "start_sec": 616.19,
+      "end_sec": 622.56
+    },
+    {
+      "index": 119,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "わざと作った極端な例でも、字が無いと分からなくなるのだ。そこは日本語と似てるのだ。",
+      "news_index": 3,
+      "start_sec": 622.71,
+      "end_sec": 628.69
+    },
+    {
+      "index": 120,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "そうだもん。普段の会話は2文字の言葉や前後の話で聞き分けるけど、音で足りない分を字が支えてるところもあるんだもん。",
+      "news_index": 3,
+      "start_sec": 628.84,
+      "end_sec": 636.28
+    },
+    {
+      "index": 121,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "漢字って、覚えるの大変だけど、ちゃんと仕事してたのだ。",
+      "news_index": 3,
+      "start_sec": 636.43,
+      "end_sec": 640.48
+    },
+    {
+      "index": 122,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "今日のまとめ。日本語に同音異義語が多いのは、音が少ないからだけじゃないもん。",
+      "news_index": 0,
+      "start_sec": 640.63,
+      "end_sec": 645.56
+    },
+    {
+      "index": 123,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "中国語の声調と音の終わりを置いてきて、あとから音がまとまって、明治に書き言葉の漢語が大量に増えた。その積み重ねだもん。",
+      "news_index": 0,
+      "start_sec": 645.64,
+      "end_sec": 653.84
+    },
+    {
+      "index": 124,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "でもボクの答えも半分は合ってたのだ。今日は引き分けなのだ。",
+      "news_index": 0,
+      "start_sec": 653.99,
+      "end_sec": 658.39
+    },
+    {
+      "index": 125,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "hazukashi",
+      "text": "……引き分けでいいもん。次は絶対に勝つもん。",
+      "news_index": 0,
+      "start_sec": 658.54,
+      "end_sec": 661.74
+    },
+    {
+      "index": 126,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "今日も聴いてくれてるかた、ありがとうなのだ!",
+      "news_index": 0,
+      "start_sec": 661.89,
+      "end_sec": 664.64
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 665.34,
+      "end_sec": 673.64
+    }
+  ],
+  "wall_time_sec": 10.02,
+  "audio_url": "/audio/zatsugaku/20260918_210444.mp3?v=1789761789"
+}
