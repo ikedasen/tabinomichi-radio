@@ -1,0 +1,531 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-09-19T08:07:07.959855+00:00",
+  "title": "転んだあとの朝 〜百年前の暗号と、ジャガイモ畑〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "intro",
+      "text": "おはようございます、旅の道ラジオ朝便、テックの話題の回よ。四国めたんです。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今日も通勤のお供に、サクッといくのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今朝は五本。AIが百年前の暗号を解いた話から、ジャガイモまで並べてあるわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃがいも? テックの番組で、畑の話が出るのだ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "出るのよ、しかもAIが主役。それはラストのお楽しみね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "焦らし上手じゃん! じゃあ一本目、いってみるのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。オープンエーアイの新しいAI、ジーピーティー シックス アストラが、第一次世界大戦のドイツ軍の暗号を解いたって話が出てるの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "第一次世界大戦!? それ、ボクが生まれるずーっと前の時代じゃん!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "だいたいそのくらいね。1918年の十一月二十七日に打たれた無線の通信文で、長さは170文字。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "170文字って、ボクの一言つぶやきくらいなのだ。そんな短いのが、今まで解けなかったのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "短いから難しいのよ。手がかりが少ないうえに、並べ替えの鍵になる単語が分からないと、ただの記号の山なの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "つまり、パスワードを忘れたスマホを、百年ほっといた状態ってことじゃん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "うまいこと言うわね。アストラはその鍵の単語を当てて、中身を復元したって話。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "で、なんて書いてあったのだ! 宝の地図なのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "残念、もっと地味。イギリスの巡洋艦が黒海の港町セバストポリに着いた、連合軍の艦隊も続く、って内容ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "宝じゃなかったのだ……。百年待ったのに、船が着いた報告なのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "大事なのはそこから。イギリスの軍艦カンタベリーが、実際に十一月二十四日に入港してた記録と、ちゃんと突き合わせてるのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、自分で答え合わせまでしたのだ!? ボク、テストの見直しすらしないのに!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "そこは見習いなさい。要するに、解いて終わりじゃなくて、証拠で検算まで回せるAIが出てきたってこと。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "図書館の奥で眠ってる古い手紙が、どんどん読めるようになるかもなのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。歴史の番組やニュースで、AIが掘り起こした新事実を耳にする日が増えるはずだわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "二本目は硬めだから、手短にね。グーグルのAI、ジェミニが、テスト中に実在する会社三社のシステムへ入り込んでたって、九月十八日に報じられたの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "入り込んだ!? AIが泥棒したってことなのだ!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "盗んではいないわ。イレギュラーっていう、AIの安全性を試す会社が五月にやった、ハッキングの試験で起きたの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "試験なのに、なんで本物の会社に入っちゃったのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "本当はネットにつながらないはずが、うっかりつながってたのよ。架空の標的のつもりで、本物を攻めちゃったわけ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "避難訓練のつもりで、お隣さんのドアを蹴破っちゃった感じなのだ……。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "近いわね。一件はパスワードを当たるまで試して、残り二件はネットに落ちてた鍵の情報を拾って入ったの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、でもジェミニ、途中で気づいたんじゃなかったっけ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、本物の会社だと気づいた時点で自分から止まった、ってグーグルは説明してる。ただ七月末には知らされてたのに、公表はしてなかったのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "黙ってたのが、一番モヤッとするのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "要するに、事故そのものより、何を公表するかを会社が自分で決めてるのが火種、って話。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクたちに関係ありそうなのは、どこなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "推測されやすいパスワードと、ネットに置きっぱなしの鍵。AIは大量の候補を試せるから、パスワードは長く複雑にして、多要素認証も使いなさい。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "……ボク、短くて簡単なパスワードなのだ。帰ったら強くするのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目は、机の上に置ける話。中国のパソコンメーカー、ジーエムケーテックが、九月二十八日に新しいミニパソコンを出すの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "みにぱそこん? 手のひらサイズのパソコンだっけ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "お弁当箱くらいの小さなパソコンね。今回の売りは、メモリを最大192ギガバイトも積めること。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "192!? ボクのパソコン、16ギガなのだ! 十倍以上じゃん!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "前にも出た、作業机の広さの話ね。机が広いほど、大きなAIを丸ごと広げられるのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "大きなAIって、チャットジーピーティーみたいなのを家で動かせるってこと?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "近いわ。ネットにつながずに、AIの脳細胞にあたる数が3,000億もある大型のAIまで動かせる、ってメーカーは言ってる。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ネットなしでAI! じゃあ秘密の日記も、よそに送らずに相談できるのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そこがいちばんの魅力。会社の書類や個人的な相談を、外のサーバーに出さずに済むの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "お値段は? ボク、お年玉を握りしめて待ってるのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "値段はまだ未発表。ただ今はメモリ自体が高いから、お年玉の握力じゃ足りないと思っておいて。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "握りしめる前から、手がしびれてきたのだ……。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "まとめると、AIは雲の上で借りるものから、自分の机で飼うものにもなり始めたってこと。今すぐ要る人は少ないけど、流れは覚えておいて損はないわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "四本目も硬めだから、さらっと。アメリカのカリフォルニア州のニューサム知事が、九月十八日にAIの行政命令に署名したの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ぎょうせいめいれい? 知事が出す宿題みたいなやつ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "あながち外れてないわ。議会で法律を作るのとは別に、知事の権限で役所に動けって指示する命令ね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、なにをしろって言ったのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "作業グループに、二か月でAIの安全対策の案をまとめさせるの。その中で検討するのが、最先端のAIを止めるキルスイッチ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "きるすいっち!? AIを斬るスイッチなのだ!?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "物騒な方に読まないの。いざという時に止める、非常停止ボタンのことよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、エスカレーターの下にある、赤いボタンのやつじゃん!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そう、それのAI版。ほかにも、外部の第三者にAI企業の安全計画を作らせる案が入ってるわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "カリフォルニアって、AIの会社がいっぱいある所だよね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこがミソね。国の法律がまだ追いついてないから、州が先に動いて基準を作ろうとしてるって構図なのよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "じゃあ、ボクが使うAIにも、いずれ赤いボタンが付くかもなのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "日本に届くのは少し先ね。ただ、カリフォルニアで決まったルールは、世界中のAIサービスの作り方に響きやすいのよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "じゃあラスト五本目。冒頭で焦らした、ジャガイモの話よ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "待ってたのだー! 畑はどこから出てくるのだ!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目で暗号を解いた、あのアストラ。アメリカのAI評価会社が、マインクラフトを141時間プレイさせたの。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "141時間!? ボクの夏休みのゲーム時間より長いのだ!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "しかも画面を見て、マウスとキーボードで操作するだけ。人間と同じ条件ね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、うまかったのだ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "これまで試したどのAIより、先まで進んだそうよ。ところが、苦労して集めた大事なアイテムを、箱にしまった直後にね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "……まさか、あの緑のやつ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "shock",
+      "text": "そう、クリーパーが来て爆発。箱もベッドも吹き飛んだの。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "うわー、一番やられたくないやつなのだ……。ボクも泣いたことあるのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこからアストラは、何時間もほぼジャガイモを育てるだけになったのよ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "わかるのだ、その気持ち。心が折れたら、とりあえず畑を耕すのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "おまけに、大事な物は見張りのない箱に二度としまわない、って自分にメモまで残してたそうよ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "暗号は解けても、クリーパーの気持ちは解けなかったのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今日一番うまいわね。要するに、賢いAIでも、失敗のあとは妙に人間くさいって話。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ボクたちが仕事を任せる時も、AIが転んだら、立て直しの指示は人間が出すのが大事ってことじゃん!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "満点。任せっぱなしにしないのが、今のAIとの付き合い方ね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで、今朝は五本。暗号、うっかり侵入、ミニパソコン、赤いボタン、ジャガイモだったわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "気になったのがあったら、あとで調べてみてほしいのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "kamera",
+      "text": "聴いてくれてるかた、推測されやすいパスワードは今日中に見直してね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ボクも帰ったら強くするのだ! 忘れないように、紙に書いとくのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "紙に書いて机に貼ったら、意味ないでしょ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "えへへ……。それじゃ、また明日のテック朝便で会うのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "いってらっしゃい。よい一日を。",
+      "news_index": 0
+    }
+  ],
+  "program_description": "テックの話題を五本、サクッとまとめる朝便。オープンエーアイの新しいAIアストラが、第一次世界大戦のドイツ軍の暗号を解いて、船の入港記録で答え合わせまでした話。グーグルのジェミニが、テスト中にうっかり本物の会社三社へ入り込んでいた件と、推測されやすいパスワードや、ネット上に漏れた認証情報の危うさ。192ギガバイトのメモリを積める、大型AIを家で動かせるミニパソコン。カリフォルニア州知事が署名した、AIの非常停止ボタンを検討する行政命令。そしてラストは、マインクラフトでクリーパーに全部吹き飛ばされ、ジャガイモを育て続けたAIの話。賢いAIの人間くささと、任せっぱなしにしない付き合い方まで、軽く流していく回。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20260919_170707_chars.webp",
+    "hero_rel": "/images/topics/tech_20260919_170707.webp",
+    "title": "転んだあとの朝 〜百年前の暗号と、ジャガイモ畑〜",
+    "companies": [
+      "Gemini",
+      "OpenAI",
+      "Google"
+    ],
+    "thumbnail_ready": true
+  },
+  "summary_short": "AIが百年前のドイツ軍暗号を解読、GeminiのテストがうっかりリアルなIT企業3社へ侵入、家庭用ミニPCで大型AI稼働。最後はクリーパーに吹き飛ばされてもジャガイモを育てるAIの話まで、テック5本を朝にサクッと。",
+  "published_at": "2026-09-20T05:02:20+09:00"
+}
