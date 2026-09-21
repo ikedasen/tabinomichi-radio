@@ -1,0 +1,936 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-09-21T17:14:32+09:00",
+  "title": "敗者は本になる 〜ある図書館の招待状〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 462.13,
+  "script_hash": "sha256:8c033d858216a2a061b97875bfeca48e4ce1fdea422964615ee482a175977a57",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 5.05
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "はい、旅の道ラジオ、めたんよ。ここからよろしくね。",
+      "news_index": 0,
+      "start_sec": 5.05,
+      "end_sec": 8.72
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "旅の道ラジオへようこそなのだ！パーソナリティのずんだもんなのだー！",
+      "news_index": 0,
+      "start_sec": 8.87,
+      "end_sec": 13.34
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今回は新作ニュースじゃなくて、もう評判が固まった一本をまるごと掘る回。",
+      "news_index": 0,
+      "start_sec": 13.49,
+      "end_sec": 18.19
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "おっ、今からでも遊ぶ価値ある枠なのだ。なにを持ってきたのだ？",
+      "news_index": 0,
+      "start_sec": 18.34,
+      "end_sec": 22.77
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "『ライブラリー・オブ・ルイナ』。韓国のスタジオ、プロジェクトムーンが作ったデッキ構築型のRPGよ。",
+      "news_index": 0,
+      "start_sec": 22.92,
+      "end_sec": 29.01
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "図書館なのだ？ボク、延滞料金だけは払ったことあるのだ。",
+      "news_index": 0,
+      "start_sec": 29.16,
+      "end_sec": 34.04
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "借りるほうの図書館じゃないの。ここは、負けた客が本に変わる図書館よ。",
+      "news_index": 0,
+      "start_sec": 34.19,
+      "end_sec": 38.52
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "本になる!? 人が!? 意味がわからないのだー。",
+      "news_index": 0,
+      "start_sec": 38.67,
+      "end_sec": 42.78
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに、招いた相手と戦って、勝つと蔵書が増えていく図書館ってこと。",
+      "news_index": 1,
+      "start_sec": 42.93,
+      "end_sec": 47.63
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "舞台は前作の廃墟の上に建った図書館なの。外側には26の地区でできた『都市』が広がってるわ。",
+      "news_index": 1,
+      "start_sec": 47.71,
+      "end_sec": 54.36
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "26地区!? ボクんちの町内会が3班だから、ざっと8町内会ぶんの世界なのだ！",
+      "news_index": 1,
+      "start_sec": 54.51,
+      "end_sec": 61.24
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "比較の相手が小さすぎるわ。町内会じゃなくて、街がまるごと26個ぶんの規模で聞いて。",
+      "news_index": 1,
+      "start_sec": 61.39,
+      "end_sec": 67.04
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "町内会のことは忘れるのだ。それで、その図書館の主は誰なのだ？",
+      "news_index": 1,
+      "start_sec": 67.19,
+      "end_sec": 72.0
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "管理者のアンジェラっていうAI。それと、元フィクサー、つまり傭兵から司書になったローランね。",
+      "news_index": 1,
+      "start_sec": 72.15,
+      "end_sec": 77.92
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "このふたりがぶつかって、すり合っていく。そこが物語の背骨になってるの。",
+      "news_index": 1,
+      "start_sec": 78.0,
+      "end_sec": 82.5
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "AIと元傭兵の職場なのだ。人事評価がだいぶ怖そうじゃん。",
+      "news_index": 1,
+      "start_sec": 82.65,
+      "end_sec": 86.99
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "笑えないくらい怖いわよ。招いた客と戦って、負けた客はそのまま本に変わるんだから。",
+      "news_index": 1,
+      "start_sec": 87.14,
+      "end_sec": 92.64
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "……その本、返却期限はどうなってるのだ？",
+      "news_index": 1,
+      "start_sec": 92.79,
+      "end_sec": 95.75
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "延滞から離れなさい。その本が新しいカードになって、次の戦いで使えるの。",
+      "news_index": 1,
+      "start_sec": 95.9,
+      "end_sec": 101.02
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "勝つほど手札が増えるのだ。追いつかれたら終わりのやつじゃん。",
+      "news_index": 1,
+      "start_sec": 101.17,
+      "end_sec": 105.4
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ戦闘の話。デッキを組んで戦うカードバトルで、攻撃も防御も『コンバットページ』ってカードなの。",
+      "news_index": 2,
+      "start_sec": 105.55,
+      "end_sec": 112.36
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "行動の順番はどう決まるのだ？",
+      "news_index": 2,
+      "start_sec": 112.51,
+      "end_sec": 114.88
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "『スピードダイス』ね。サイコロで速さと行動が決まるのよ。",
+      "news_index": 2,
+      "start_sec": 115.03,
+      "end_sec": 118.93
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "ダイス!? じゃあ運ゲーなのだ。ボクの得意分野じゃん！",
+      "news_index": 2,
+      "start_sec": 119.08,
+      "end_sec": 123.09
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "運の要素はあるわ。ただタグは『難易度高』と『戦略』で埋まってて、運任せだと普通に轢かれる。",
+      "news_index": 2,
+      "start_sec": 123.24,
+      "end_sec": 129.9
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "轢かれるのだ……。ボクの得意分野じゃなかったのだー。",
+      "news_index": 2,
+      "start_sec": 130.05,
+      "end_sec": 134.02
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "あと『ライト』っていうリソース管理がある。カードを切るのに要るから、毎ターンの悩みどころなの。",
+      "news_index": 2,
+      "start_sec": 134.17,
+      "end_sec": 140.11
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ライト……電気代のことなのだ？",
+      "news_index": 2,
+      "start_sec": 140.26,
+      "end_sec": 142.53
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "光熱費じゃないの。行動力の残量、って言い換えたほうが近いわね。",
+      "news_index": 2,
+      "start_sec": 142.68,
+      "end_sec": 147.16
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "行動力なら分かるのだ。ボクも夕方には残量ゼロなのだ。",
+      "news_index": 2,
+      "start_sec": 147.31,
+      "end_sec": 151.39
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "私もよ。……で、面白いのがここからで、戦いの中で『感情値』が上がっていくの。",
+      "news_index": 2,
+      "start_sec": 151.54,
+      "end_sec": 157.21
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "感情値が上がるとどうなるのだ？",
+      "news_index": 2,
+      "start_sec": 157.36,
+      "end_sec": 159.6
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "幻想体、アブノーマリティ由来のカードが手に入るの。要するに、盛り上がるほど変な力が解放されていくのよ。",
+      "news_index": 2,
+      "start_sec": 159.75,
+      "end_sec": 166.67
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "熱くなったほうが強いのだ！ボクは常時マックスなのだ！",
+      "news_index": 2,
+      "start_sec": 166.82,
+      "end_sec": 170.34
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "あんたは平常時から上振れてるものね。負けたら組み直して挑む、その繰り返しが本体って作りよ。",
+      "news_index": 2,
+      "start_sec": 170.49,
+      "end_sec": 176.61
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "作ってるのはプロジェクトムーン、韓国のスタジオね。前作が2018年の『ロボトミーコーポレーション』よ。",
+      "news_index": 3,
+      "start_sec": 176.69,
+      "end_sec": 183.76
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "前作やってないと分からないのだ？ボク、いきなり2巻から読むタイプなのだ。",
+      "news_index": 3,
+      "start_sec": 183.91,
+      "end_sec": 189.45
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今作から入る人も多いわ。ただ前作の幻想体がたくさん出てくるから、知ってるとニヤリが増えるの。",
+      "news_index": 3,
+      "start_sec": 189.6,
+      "end_sec": 195.79
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、この後に2023年の『リンバスカンパニー』が出てる。三作が同じ世界で地続きになってるのよ。",
+      "news_index": 3,
+      "start_sec": 195.87,
+      "end_sec": 202.87
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "一本ハマったら三本ぶん持っていかれるやつなのだ。",
+      "news_index": 3,
+      "start_sec": 203.02,
+      "end_sec": 206.24
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "hisohiso",
+      "text": "ここだけの話、こういう地続きの世界って、芋づるで全部買っちゃうのよね。",
+      "news_index": 3,
+      "start_sec": 206.39,
+      "end_sec": 211.88
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "hisohiso",
+      "text": "めたん、それ完全に体験談じゃん。",
+      "news_index": 3,
+      "start_sec": 212.03,
+      "end_sec": 214.77
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "コホン。販売元の話をすると、パソコン版とエックスボックスワン版はプロジェクトムーン自身が出してるの。",
+      "news_index": 3,
+      "start_sec": 214.92,
+      "end_sec": 221.38
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ニンテンドースイッチ版とプレステ4版のほうは、アークシステムワークスが発行してるわ。",
+      "news_index": 3,
+      "start_sec": 221.46,
+      "end_sec": 226.58
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "開発と販売が別なのだ。そこ、混ぜたら怒られるやつなのだ。",
+      "news_index": 3,
+      "start_sec": 226.73,
+      "end_sec": 231.06
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "よく分かってるじゃない。えらいわ。",
+      "news_index": 3,
+      "start_sec": 231.21,
+      "end_sec": 233.33
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ評判の話ね。スチームのレビューは全体で4万件近く集まってて、評価は『非常に好評』よ。",
+      "news_index": 4,
+      "start_sec": 233.41,
+      "end_sec": 240.41
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "4万件!? ボクが今まで食べたずんだ餅と同じ数なのだ！",
+      "news_index": 4,
+      "start_sec": 240.56,
+      "end_sec": 244.98
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "あんたの餅を単位にしないで。世界共通の物差しで喋りなさい。",
+      "news_index": 4,
+      "start_sec": 245.13,
+      "end_sec": 249.26
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "ごめんなさいなのだ……。それで、4万件ってどれくらいすごいのだ？",
+      "news_index": 4,
+      "start_sec": 249.41,
+      "end_sec": 254.82
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "インディーとしては相当な数よ。しかも英語のレビューだけで絞ると、1万4千件で96%が好評なの。",
+      "news_index": 4,
+      "start_sec": 254.97,
+      "end_sec": 262.32
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "96%は化け物なのだ。刺さる人にはとことん刺さるやつじゃん。",
+      "news_index": 4,
+      "start_sec": 262.47,
+      "end_sec": 267.21
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこが要点ね。誰にでも勧められる万人向けじゃなくて、刺さった人が二度と離れないタイプ。",
+      "news_index": 4,
+      "start_sec": 267.36,
+      "end_sec": 273.07
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "逆に、合わない人もいるのだ？",
+      "news_index": 4,
+      "start_sec": 273.22,
+      "end_sec": 275.5
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "はっきり分かれるわ。実際、ニンテンドースイッチ版はメタクリティックで55点、評価は『混合』なの。",
+      "news_index": 4,
+      "start_sec": 275.65,
+      "end_sec": 282.24
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "さっき96%って言ったのに!? 数字が喧嘩してるのだー。",
+      "news_index": 4,
+      "start_sec": 282.39,
+      "end_sec": 287.88
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "別物として見るのが正解よ。スイッチ版は動作の重さと文字の小ささが叩かれたの。",
+      "news_index": 4,
+      "start_sec": 288.03,
+      "end_sec": 293.48
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "中身じゃなくて移植の話なのだ。じゃあ遊ぶならパソコン版が安全なのだ？",
+      "news_index": 4,
+      "start_sec": 293.63,
+      "end_sec": 298.57
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。同じレビューでも音楽と物語とボイスは褒められてるから、要するにまずはパソコン版が無難ね。",
+      "news_index": 4,
+      "start_sec": 298.72,
+      "end_sec": 305.35
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "値段はスチームで3,090円。サウンドトラックとアートブックが、それぞれ2,050円の別売りよ。",
+      "news_index": 4,
+      "start_sec": 305.43,
+      "end_sec": 311.84
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "3,090円でこの密度なのだ？ボク、財布を出す準備できたのだ。",
+      "news_index": 4,
+      "start_sec": 311.99,
+      "end_sec": 317.54
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "言語も安心していいわ。インターフェースも音声も字幕も日本語に対応してる。",
+      "news_index": 4,
+      "start_sec": 317.69,
+      "end_sec": 322.55
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "フルボイスで日本語なのだ！英語の壁でひるんでたかたにも朗報じゃん。",
+      "news_index": 4,
+      "start_sec": 322.7,
+      "end_sec": 327.03
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "発売の順番も整理しておくわ。早期アクセスの開始が2020年5月15日、正式版は2021年8月10日ね。",
+      "news_index": 4,
+      "start_sec": 327.18,
+      "end_sec": 335.56
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "1年3ヶ月の早期アクセスなのだ。ボクの夏休みの宿題よりずっと計画的じゃん。",
+      "news_index": 4,
+      "start_sec": 335.71,
+      "end_sec": 342.13
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "あと、この作品を語るなら音楽を外せないわ。担当はスタジオ・イームと、日本のインディー音楽グループのミリーね。",
+      "news_index": 5,
+      "start_sec": 342.28,
+      "end_sec": 349.72
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "ミリー知ってるのだ！ゲーム好きなら一度は耳にしてるやつじゃん。",
+      "news_index": 5,
+      "start_sec": 349.87,
+      "end_sec": 354.27
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そのミリーが、2021年10月にこの作品専用のミニアルバムまで出してるの。全8曲よ。",
+      "news_index": 5,
+      "start_sec": 354.42,
+      "end_sec": 360.84
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "専用アルバムなのだ!? 気になったかたは配信で探して聴いてみてほしいのだ。",
+      "news_index": 5,
+      "start_sec": 360.99,
+      "end_sec": 366.42
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "題は『トゥー・キル・ア・リビング・ブック』。生きた本を殺す、って物騒な名前ね。",
+      "news_index": 5,
+      "start_sec": 366.57,
+      "end_sec": 372.78
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "chuuni",
+      "text": "本は語るのよ。閉じられた頁の底で、誰かの一生が今も燃えている……。",
+      "news_index": 5,
+      "start_sec": 372.86,
+      "end_sec": 377.59
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "出たのだ！めたんの厨二モード発病なのだ!?",
+      "news_index": 5,
+      "start_sec": 377.74,
+      "end_sec": 380.77
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ふふ、ごめんなさい。廃墟と図書館なんて単語が並ぶと、つい出ちゃうのよ。",
+      "news_index": 5,
+      "start_sec": 380.92,
+      "end_sec": 385.46
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "まあ、この作品の空気には合ってるのだ。",
+      "news_index": 5,
+      "start_sec": 385.61,
+      "end_sec": 388.52
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "でしょう。タグも『ストーリーリッチ』『ビジュアルノベル』『心理ホラー』が並んでるくらいだから。",
+      "news_index": 5,
+      "start_sec": 388.67,
+      "end_sec": 394.16
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "カードゲームなのに心理ホラーなのだ。ジャンルの欲張りセットじゃん。",
+      "news_index": 5,
+      "start_sec": 394.31,
+      "end_sec": 398.35
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこが強みね。要するに、読み物としても戦術ゲームとしても成立してるってこと。",
+      "news_index": 5,
+      "start_sec": 398.5,
+      "end_sec": 403.88
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "負けても本が増えるならお得なのだ！",
+      "news_index": 5,
+      "start_sec": 404.03,
+      "end_sec": 406.41
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "増えるのは勝ったときね。負けたら普通にやり直しよ。",
+      "news_index": 5,
+      "start_sec": 406.56,
+      "end_sec": 409.81
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "お得じゃなかったのだ……。",
+      "news_index": 5,
+      "start_sec": 409.96,
+      "end_sec": 412.12
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "でも、やり直すたびに手札は確実に厚くなる。そこは本当に気持ちいいわよ。",
+      "news_index": 5,
+      "start_sec": 412.27,
+      "end_sec": 417.62
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "アンジェラはなにを目指してるのだ？",
+      "news_index": 5,
+      "start_sec": 417.77,
+      "end_sec": 419.96
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "唯一無二の、完璧な一冊を求めてるの。その理由はネタバレになるから伏せておくわ。",
+      "news_index": 5,
+      "start_sec": 420.11,
+      "end_sec": 425.56
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "そこは自分の目で確かめるやつなのだね。",
+      "news_index": 5,
+      "start_sec": 425.71,
+      "end_sec": 428.38
+    },
+    {
+      "index": 84,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "今回のまとめなのだ。負けた客が本に変わる図書館で、デッキを組んで戦うゲームなのだ。",
+      "news_index": 6,
+      "start_sec": 428.46,
+      "end_sec": 434.41
+    },
+    {
+      "index": 85,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "スチームで3,090円、日本語もフル対応。刺さる人には一生ものになるタイプよ。",
+      "news_index": 6,
+      "start_sec": 434.56,
+      "end_sec": 440.25
+    },
+    {
+      "index": 86,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "しかも延滞料金は取られないのだ。",
+      "news_index": 6,
+      "start_sec": 440.4,
+      "end_sec": 443.09
+    },
+    {
+      "index": 87,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "最後までそれ言うのね。",
+      "news_index": 6,
+      "start_sec": 443.24,
+      "end_sec": 444.75
+    },
+    {
+      "index": 88,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "リスナーのみなさん、気になったら覗いてみてほしいのだ！",
+      "news_index": 6,
+      "start_sec": 444.9,
+      "end_sec": 448.3
+    },
+    {
+      "index": 89,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "では今回はここまで。また旅の道ラジオで会いましょう。",
+      "news_index": 6,
+      "start_sec": 448.45,
+      "end_sec": 451.97
+    },
+    {
+      "index": 90,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "またなのだー！",
+      "news_index": 6,
+      "start_sec": 452.12,
+      "end_sec": 453.13
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 453.83,
+      "end_sec": 462.13
+    }
+  ],
+  "wall_time_sec": 23.44,
+  "audio_url": "/audio/indie/20260921_171432.mp3?v=1790020980"
+}
