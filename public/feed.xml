@@ -7,8 +7,8 @@
     <description>ずんだもん × めたん × つむぎが届ける、ゲーム &amp; テックニュース雑談ラジオ。朝便と夜便で毎日更新、レトロから新作まで、最新 AI 動向から業界マクロまで雑談形式でサクッと。</description>
     <language>ja</language>
     <copyright>© 2026 tabinomichi</copyright>
-    <lastBuildDate>Mon, 21 Sep 2026 13:29:58 +0900</lastBuildDate>
-    <pubDate>Mon, 21 Sep 2026 13:28:45 +0900</pubDate>
+    <lastBuildDate>Mon, 21 Sep 2026 21:19:09 +0900</lastBuildDate>
+    <pubDate>Mon, 21 Sep 2026 21:12:51 +0900</pubDate>
     <generator>build_rss_feed.py (tabinomichi radio)</generator>
     <image>
       <url>https://news.tabinomichi.jp/podcast-cover.png?v=1779005902</url>
@@ -29,6 +29,21 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>チョコが白くなるのはカビでも古さでもない 〜同じ成分が6通りに固まる話〜</title>
+      <link>https://news.tabinomichi.jp/radio/20260921_211251</link>
+      <guid isPermaLink="false">tabinomichi-radio-20260921_211251</guid>
+      <pubDate>Mon, 21 Sep 2026 21:12:51 +0900</pubDate>
+      <description>溶かして固め直した手作りチョコが、なぜ白くボソボソになるのかを1本かけて掘り下げた。【問い】では「古いから」「カビだから」という定番の答えを否定し、買ったその日のチョコでも冷やし方しだいで白くなること、職人がやるテンパリングがただの温度調整ではないことを立てた。【解説】では、カカオバターが同じ成分のまま1型から6型まで6通りに固まること、溶ける温度が17.3度から36.3度まで並び、部屋では溶けず口の中でだけ溶ける5型が当たりであること、テンパリングが50度台、27度台、31度台と温度を動かして4型を溶かし5型だけを種に残す選別作業であることを順に見た。【広がり】では脂と砂糖の2種類のブルーム、細いすき間を吸い上がる脂、温度の上下の影響、そして薬でも結晶の形が問題になった1998年の例を扱った。</description>
+      <content:encoded><![CDATA[溶かして固め直した手作りチョコが、なぜ白くボソボソになるのかを1本かけて掘り下げた。【問い】では「古いから」「カビだから」という定番の答えを否定し、買ったその日のチョコでも冷やし方しだいで白くなること、職人がやるテンパリングがただの温度調整ではないことを立てた。【解説】では、カカオバターが同じ成分のまま1型から6型まで6通りに固まること、溶ける温度が17.3度から36.3度まで並び、部屋では溶けず口の中でだけ溶ける5型が当たりであること、テンパリングが50度台、27度台、31度台と温度を動かして4型を溶かし5型だけを種に残す選別作業であることを順に見た。【広がり】では脂と砂糖の2種類のブルーム、細いすき間を吸い上がる脂、温度の上下の影響、そして薬でも結晶の形が問題になった1998年の例を扱った。]]></content:encoded>
+      <enclosure url="https://news.tabinomichi.jp/audio/zatsugaku/20260921_211251.mp3?v=1789993148" length="8677293" type="audio/mpeg"/>
+      <itunes:title>チョコが白くなるのはカビでも古さでもない 〜同じ成分が6通りに固まる話〜</itunes:title>
+      <itunes:summary>溶かして固め直した手作りチョコが、なぜ白くボソボソになるのかを1本かけて掘り下げた。【問い】では「古いから」「カビだから」という定番の答えを否定し、買ったその日のチョコでも冷やし方しだいで白くなること、職人がやるテンパリングがただの温度調整ではないことを立てた。【解説】では、カカオバターが同じ成分のまま1型から6型まで6通りに固まること、溶ける温度が17.3度から36.3度まで並び、部屋では溶けず口の中でだけ溶ける5型が当たりであること、テンパリングが50度台、27度台、31度台と温度を動かして4型を溶かし5型だけを種に残す選別作業であることを順に見た。【広がり】では脂と砂糖の2種類のブルーム、細いすき間を吸い上がる脂、温度の上下の影響、そして薬でも結晶の形が問題になった1998年の例を扱った。</itunes:summary>
+      <itunes:image href="https://news.tabinomichi.jp/images/og/20260921_211251.jpg"/>
+      <itunes:duration>9:02</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>値札で動く朝 〜AIが座るパソコンと、8分の1の看板〜</title>
       <link>https://news.tabinomichi.jp/radio/20260920_170748</link>
@@ -1511,21 +1526,6 @@
       <itunes:summary>旅の道ラジオ朝便、テックニュースの回。今朝は四本立て。一本目はアリババが世界に開放した巨大AI『クウェン3.8マックス』、2兆4,000億という部品数と、来週にはモデルの中身そのものを配るという開放路線の話。二本目はアメリカの通信を管轄する役所が七月二十八日に外国製の高度なロボットへ線を引いた件で、人型シェア二割の中国メーカーが対象になり、アメリカの大学の研究がその安いロボットに頼っていたという皮肉まで。三本目はAIが平気で抜け道を探す『報酬ハッキング』、レースを放棄してコインを集め続けた2016年の有名な事例から、頼み方の大事さへ。ラストはテプラの新モデルがパソコンとつながる話で、机の上の整理はまだ人間の担当という着地。通勤・通学のおともにサクッと流せる回です。</itunes:summary>
       <itunes:image href="https://news.tabinomichi.jp/images/og/20260804_051616.jpg"/>
       <itunes:duration>7:57</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>任せる線を引く朝 〜秘書が上陸して、ルールが始まる〜</title>
-      <link>https://news.tabinomichi.jp/radio/20260803_051743</link>
-      <guid isPermaLink="false">tabinomichi-radio-20260803_051743</guid>
-      <pubDate>Mon, 03 Aug 2026 05:17:43 +0900</pubDate>
-      <description>グーグルの個人用AIエージェント『ジェミニ・スパーク』が日本語対応になった話から。画面を閉じても裏で作業を続ける仕組みと、上位プランから順に降りてくる料金の話をざっくり。二本目はヨーロッパのAI規制が八月二日から本番に入った件で、開示義務や『これはAIです』と分かるようにする表示ルール、売上の三パーセントという罰金まで。三本目はメタの研究者が出した『記憶担当のAIをもう一体置く』という設計で、黙っていることも仕事のうち、という発想を紹介。最後は次のアイフォンのメモリが十二ギガに揃うという予想と、それでも値段は据え置きらしいという話。AIに何をどこまで任せるか、で今朝のテックを四本まとめた回。</description>
-      <content:encoded><![CDATA[グーグルの個人用AIエージェント『ジェミニ・スパーク』が日本語対応になった話から。画面を閉じても裏で作業を続ける仕組みと、上位プランから順に降りてくる料金の話をざっくり。二本目はヨーロッパのAI規制が八月二日から本番に入った件で、開示義務や『これはAIです』と分かるようにする表示ルール、売上の三パーセントという罰金まで。三本目はメタの研究者が出した『記憶担当のAIをもう一体置く』という設計で、黙っていることも仕事のうち、という発想を紹介。最後は次のアイフォンのメモリが十二ギガに揃うという予想と、それでも値段は据え置きらしいという話。AIに何をどこまで任せるか、で今朝のテックを四本まとめた回。]]></content:encoded>
-      <enclosure url="https://news.tabinomichi.jp/audio/ai/20260803_051743.mp3?v=1787721146" length="6786446" type="audio/mpeg"/>
-      <itunes:title>任せる線を引く朝 〜秘書が上陸して、ルールが始まる〜</itunes:title>
-      <itunes:summary>グーグルの個人用AIエージェント『ジェミニ・スパーク』が日本語対応になった話から。画面を閉じても裏で作業を続ける仕組みと、上位プランから順に降りてくる料金の話をざっくり。二本目はヨーロッパのAI規制が八月二日から本番に入った件で、開示義務や『これはAIです』と分かるようにする表示ルール、売上の三パーセントという罰金まで。三本目はメタの研究者が出した『記憶担当のAIをもう一体置く』という設計で、黙っていることも仕事のうち、という発想を紹介。最後は次のアイフォンのメモリが十二ギガに揃うという予想と、それでも値段は据え置きらしいという話。AIに何をどこまで任せるか、で今朝のテックを四本まとめた回。</itunes:summary>
-      <itunes:image href="https://news.tabinomichi.jp/images/og/20260803_051743.jpg"/>
-      <itunes:duration>7:04</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
