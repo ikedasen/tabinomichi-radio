@@ -1,0 +1,876 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-09-20T17:07:48+09:00",
+  "title": "値札で動く朝 〜AIが座るパソコンと、8分の1の看板〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 441.57,
+  "script_hash": "sha256:0044c976b70d53efdc5ae04bc78133212df20c58219ea7583df788c1129b2a30",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 5.56
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便、テックニュースの回。四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 5.56,
+      "end_sec": 10.77
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝もテックの話、軽くいくのだー!",
+      "news_index": 0,
+      "start_sec": 10.92,
+      "end_sec": 15.3
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今日は5本。パソコンの新しいかたち、AIの値下げ合戦、それに机に置く縦長の板ね。",
+      "news_index": 0,
+      "start_sec": 15.45,
+      "end_sec": 21.79
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "縦長の板? まな板の話なのだ?",
+      "news_index": 0,
+      "start_sec": 21.94,
+      "end_sec": 24.9
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "まな板は切るでしょ。最後まで取っておくから、まずは1本目。",
+      "news_index": 0,
+      "start_sec": 25.05,
+      "end_sec": 28.88
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "通勤中のかた、耳だけ貸してほしいのだ!",
+      "news_index": 0,
+      "start_sec": 29.03,
+      "end_sec": 31.95
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "グーグルが、グーグルブックっていう新しいノートパソコンの予約を、9月21日に始めるの。",
+      "news_index": 1,
+      "start_sec": 32.1,
+      "end_sec": 38.04
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "グーグルブック!? 本屋さんの話じゃないのだ!?",
+      "news_index": 1,
+      "start_sec": 38.19,
+      "end_sec": 41.39
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "本は売らないわよ。パソコンの中身を、ジェミニっていうグーグルのAIに合わせて作り直した機械ね。",
+      "news_index": 1,
+      "start_sec": 41.54,
+      "end_sec": 47.75
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ジェミニって、話しかけると答えてくれるやつだよね。それがパソコンに入るってこと?",
+      "news_index": 1,
+      "start_sec": 47.9,
+      "end_sec": 53.38
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "入るというより、真ん中に座るの。スマホのアンドロイドと、クロームブックの仕組みを混ぜた土台の上にね。",
+      "news_index": 1,
+      "start_sec": 53.53,
+      "end_sec": 59.84
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、クロームブックって、学校で使ってる軽いパソコンじゃん!",
+      "news_index": 1,
+      "start_sec": 59.99,
+      "end_sec": 64.1
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そう、あれの上等な兄さん。作ってるのはエイサー、エイスース、デル、エイチピー、レノボの5社よ。",
+      "news_index": 1,
+      "start_sec": 64.25,
+      "end_sec": 71.14
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "有名どころが勢ぞろいなのだ。で、なにができるのだ?",
+      "news_index": 1,
+      "start_sec": 71.29,
+      "end_sec": 75.74
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "目玉はマジックポインター。カーソルを合わせた物について、その場でAIに聞けるの。",
+      "news_index": 1,
+      "start_sec": 75.89,
+      "end_sec": 81.25
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "合わせるだけ? コピーして貼り付けなくていいってこと?",
+      "news_index": 1,
+      "start_sec": 81.4,
+      "end_sec": 85.06
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこが狙いね。もう一つ、キャストマイアップスっていうのがあって、スマホのアプリを入れずにそのまま開けるわ。",
+      "news_index": 1,
+      "start_sec": 85.21,
+      "end_sec": 91.44
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "入れずに開く!? ボクのスマホのゲーム、パソコンの画面でできちゃうじゃん!",
+      "news_index": 1,
+      "start_sec": 91.59,
+      "end_sec": 96.12
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "遊ぶ前提で聞かないの。で、肝心の値段と、日本で売るかどうかは、まだ発表なし。",
+      "news_index": 1,
+      "start_sec": 96.27,
+      "end_sec": 102.12
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "いちばん知りたいところが空欄なのだ……。",
+      "news_index": 1,
+      "start_sec": 102.27,
+      "end_sec": 105.76
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに、パソコンの主役がアイコンからAIに移るかの実験台。買うかどうかは値札を見てから、ね。",
+      "news_index": 1,
+      "start_sec": 105.91,
+      "end_sec": 112.59
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "2本目はお金の話。中国のアリババが、音と映像をまとめて扱える新しいAIを出したの。",
+      "news_index": 2,
+      "start_sec": 112.67,
+      "end_sec": 119.01
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "音と映像をまとめて? 動画をそのまま見せられるってこと?",
+      "news_index": 2,
+      "start_sec": 119.16,
+      "end_sec": 123.35
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そういうこと。動画を1本渡して、要約してとか、翻訳してが通るタイプね。",
+      "news_index": 2,
+      "start_sec": 123.5,
+      "end_sec": 128.83
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "それ、グーグルのやつも似たことやってた気がするのだ。",
+      "news_index": 2,
+      "start_sec": 128.98,
+      "end_sec": 132.32
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "察しがいいわね。今回の話題は性能じゃなくて、値札のほう。",
+      "news_index": 2,
+      "start_sec": 132.47,
+      "end_sec": 136.6
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、安いやつなのだ!? どのくらい安いのだ!",
+      "news_index": 2,
+      "start_sec": 136.75,
+      "end_sec": 140.05
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "グーグルの同じ格のAIと比べて、読ませる側がだいたい5分の1、返ってくる側が8分の1よ。",
+      "news_index": 2,
+      "start_sec": 140.2,
+      "end_sec": 146.69
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "8分の1!? 牛丼が並盛の値段で8杯くるレベルじゃん!",
+      "news_index": 2,
+      "start_sec": 146.84,
+      "end_sec": 151.1
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "例えが食い意地に寄ってるわ。特に安いのが音声で、1時間聞かせても1セントに届かないって。",
+      "news_index": 2,
+      "start_sec": 151.25,
+      "end_sec": 157.16
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "1セントって、日本円だと1円ちょっと。ほぼタダじゃん!",
+      "news_index": 2,
+      "start_sec": 157.31,
+      "end_sec": 161.08
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "タダ同然ね。しかもアリババの公表では、音声と映像の課題でグーグルに近い成績だというの。",
+      "news_index": 2,
+      "start_sec": 161.23,
+      "end_sec": 167.8
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "同じ味で値段が8分の1なら、お店の看板は関係なくなるのだ。",
+      "news_index": 2,
+      "start_sec": 167.95,
+      "end_sec": 174.46
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今回の注目点はそこね。近い性能をどれだけ安く提供できるかも、大きな競争軸になってるのよ。",
+      "news_index": 2,
+      "start_sec": 174.61,
+      "end_sec": 181.21
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、ボクたちにはどう効いてくるのだ?",
+      "news_index": 2,
+      "start_sec": 181.36,
+      "end_sec": 184.02
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "文字起こしや翻訳みたいなアプリは、開発側の処理費用を下げられる余地が広がりそう。サービス作りには追い風ね。",
+      "news_index": 2,
+      "start_sec": 184.17,
+      "end_sec": 191.46
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "3本目は、ちょっと変わった新型AI。タイプセーフっていうアメリカの会社が出したのよ。",
+      "news_index": 3,
+      "start_sec": 191.54,
+      "end_sec": 197.37
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "聞いたことない名前なのだ。どこの誰が作ってるのだ?",
+      "news_index": 3,
+      "start_sec": 197.52,
+      "end_sec": 201.19
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "作ったのは、チャットジーピーティーを生み出した元オープンエーアイの研究者。2年前に辞めて、自分の会社を立てたの。",
+      "news_index": 3,
+      "start_sec": 201.34,
+      "end_sec": 208.37
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、本家の中の人が独立したパターンじゃん!",
+      "news_index": 3,
+      "start_sec": 208.52,
+      "end_sec": 211.7
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう。で、その新型、自由な文章は生成しないの。",
+      "news_index": 3,
+      "start_sec": 211.85,
+      "end_sec": 215.98
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? しゃべらないAIって、ただの置物じゃないのだ!?",
+      "news_index": 3,
+      "start_sec": 216.13,
+      "end_sec": 220.0
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "置物は仕事しないでしょ。出てくるのは、あらかじめ決めた形式の答えと、その確率よ。",
+      "news_index": 3,
+      "start_sec": 220.15,
+      "end_sec": 225.77
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "確率? 天気予報みたいに、70パーセントって返ってくるのだ?",
+      "news_index": 3,
+      "start_sec": 225.92,
+      "end_sec": 231.82
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "近いわ。この投稿は危ないかとか、この問い合わせはどの窓口かっていうのを、迷わず数字で判定する係ね。",
+      "news_index": 3,
+      "start_sec": 231.97,
+      "end_sec": 239.26
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "AIがいちいち文章で説明してたところを、丸ごと省いたってことじゃん。",
+      "news_index": 3,
+      "start_sec": 239.41,
+      "end_sec": 244.09
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ご名答。だから速いし安いのよ。",
+      "news_index": 3,
+      "start_sec": 244.24,
+      "end_sec": 246.62
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "どのくらい安いのだ?",
+      "news_index": 3,
+      "start_sec": 246.77,
+      "end_sec": 248.43
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "会社の説明だと、ふつうのAIの100分の1の値段で、100倍速いらしいわ。しかも返す側の料金はゼロよ。",
+      "news_index": 3,
+      "start_sec": 248.58,
+      "end_sec": 256.51
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "返事はタダ!? 太っ腹すぎて、逆に怪しく聞こえるのだ!",
+      "news_index": 3,
+      "start_sec": 256.66,
+      "end_sec": 260.7
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "お金を取るのは読ませる側だけね。実際、アプリの裏で判定してた部分を差し替えたら、何倍も速くなったって報告が出てるわ。",
+      "news_index": 3,
+      "start_sec": 260.85,
+      "end_sec": 268.95
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクたちが直接さわるやつじゃないのだ?",
+      "news_index": 3,
+      "start_sec": 269.1,
+      "end_sec": 271.95
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "裏方よ。でも、何でもAIに丸投げじゃなく、専門の係に振り分ける流れの始まりね。",
+      "news_index": 3,
+      "start_sec": 272.1,
+      "end_sec": 277.94
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "sexy",
+      "text": "4本目はちょっと物騒だから、さらっといくわ。",
+      "news_index": 4,
+      "start_sec": 278.02,
+      "end_sec": 281.64
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "朝の物騒な話は、短いのが一番なのだ。",
+      "news_index": 4,
+      "start_sec": 281.79,
+      "end_sec": 285.28
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "あるセキュリティ会社の研究者3人が、オープンエーアイの社内のコード置き場まで入り込んだの。72時間かからずによ。",
+      "news_index": 4,
+      "start_sec": 285.43,
+      "end_sec": 292.75
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "72時間!? 3日もかかってないじゃん!",
+      "news_index": 4,
+      "start_sec": 292.9,
+      "end_sec": 295.82
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "しかも使った道具が、よりによってクロード。よその会社のAIね。",
+      "news_index": 4,
+      "start_sec": 295.97,
+      "end_sec": 300.21
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ライバルの武器で、ライバルの家に入ったのだ。ドラマみたいじゃん。",
+      "news_index": 4,
+      "start_sec": 300.36,
+      "end_sec": 304.94
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "入口は、誰でも見られる利用者の掲示板。そこに画像を1枚送るところから始まってるわ。",
+      "news_index": 4,
+      "start_sec": 305.09,
+      "end_sec": 311.28
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "画像!? 写真を送っただけで、家の鍵が開いちゃうのだ?",
+      "news_index": 4,
+      "start_sec": 311.43,
+      "end_sec": 316.59
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "画像を開く部品に古い欠陥があって、そこと、ログインの設定ミスがつながったの。",
+      "news_index": 4,
+      "start_sec": 316.74,
+      "end_sec": 321.92
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "小さい穴が2つ、線でつながって大穴になったってことなのだ。",
+      "news_index": 4,
+      "start_sec": 322.07,
+      "end_sec": 326.29
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "その理解で十分。ちなみに彼らは悪用せずに報告して、報奨金は日本円で100万円くらいね。",
+      "news_index": 4,
+      "start_sec": 326.44,
+      "end_sec": 333.25
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "100万!? ボクのお小遣いを何年ためても届かない額なのだ!",
+      "news_index": 4,
+      "start_sec": 333.4,
+      "end_sec": 337.53
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今回の例では、AIが攻撃コードを作る手間と時間を大きく減らしたってこと。私たちにできるのは、更新の通知を後回しにしないことよ。",
+      "news_index": 4,
+      "start_sec": 337.68,
+      "end_sec": 346.74
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "じゃあラスト5本目。冒頭で焦らした、縦長の板ね。",
+      "news_index": 5,
+      "start_sec": 346.82,
+      "end_sec": 350.29
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "待ってたのだー! まな板の正体なのだ!",
+      "news_index": 5,
+      "start_sec": 350.44,
+      "end_sec": 353.08
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "まな板じゃないってば。ジャパンネクストっていうモニターのメーカーが、7.8型の小さい画面を出したの。",
+      "news_index": 5,
+      "start_sec": 353.23,
+      "end_sec": 359.44
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "7.8型って、どのくらいの大きさなのだ?",
+      "news_index": 5,
+      "start_sec": 359.59,
+      "end_sec": 362.84
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "スマホをちょっと大きくしたくらい。重さは200グラムで、りんご1個より軽いわ。",
+      "news_index": 5,
+      "start_sec": 362.99,
+      "end_sec": 367.76
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "200グラム!? モニターっていうより、下敷きじゃん!",
+      "news_index": 5,
+      "start_sec": 367.91,
+      "end_sec": 371.22
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "面白いのは形ね。縦と横の比が5対16で、とにかく縦に長いの。",
+      "news_index": 5,
+      "start_sec": 371.37,
+      "end_sec": 376.36
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "縦に長い……テレビを立てて置いた感じなのだ?",
+      "news_index": 5,
+      "start_sec": 376.51,
+      "end_sec": 380.52
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう。狙いは、チャットやエスエヌエスみたいに縦へ流れるものを、そこだけ映しておく使い方。",
+      "news_index": 5,
+      "start_sec": 380.67,
+      "end_sec": 386.53
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、作業してる画面の横に、通知だけ立てとくやつじゃん!",
+      "news_index": 5,
+      "start_sec": 386.68,
+      "end_sec": 390.67
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ご名答。値段は14,480円で、発売は9月10日ね。",
+      "news_index": 5,
+      "start_sec": 390.82,
+      "end_sec": 395.87
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "1万4,000円台……グラボの値段を聞いた後だと、やけに優しく聞こえるのだ。",
+      "news_index": 5,
+      "start_sec": 396.02,
+      "end_sec": 401.54
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今朝いちばん現実的な買い物ね。机の端っこが余ってる人は、覚えておくといいわ。",
+      "news_index": 5,
+      "start_sec": 401.69,
+      "end_sec": 407.26
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "今日の5本、どれも最後は値札の話に着地してた気がするのだ。",
+      "news_index": 0,
+      "start_sec": 407.41,
+      "end_sec": 411.77
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "気のせいじゃないわ。今朝の話題は、性能だけじゃなく値段も見逃せないものが多かったの。",
+      "news_index": 0,
+      "start_sec": 411.92,
+      "end_sec": 417.45
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "新しいパソコンの値段は、いつ分かるのだ?",
+      "news_index": 0,
+      "start_sec": 417.6,
+      "end_sec": 420.83
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "予約が始まれば、そのうち見えてくるはず。分かったらまた話すわね。",
+      "news_index": 0,
+      "start_sec": 420.98,
+      "end_sec": 425.26
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "気になったやつがあったら、あとで調べてみてほしいのだ!",
+      "news_index": 0,
+      "start_sec": 425.41,
+      "end_sec": 428.8
+    },
+    {
+      "index": 84,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "旅の道ラジオ朝便、テックの回。今日も一日いってらっしゃい、また明日ね。",
+      "news_index": 0,
+      "start_sec": 428.95,
+      "end_sec": 434.23
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 434.93,
+      "end_sec": 441.57
+    }
+  ],
+  "wall_time_sec": 12.59,
+  "audio_url": "/audio/ai/20260920_170748.mp3?v=1789964991"
+}
