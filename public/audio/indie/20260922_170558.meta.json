@@ -1,0 +1,996 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-09-22T17:05:58+09:00",
+  "title": "狂気の遊園地 〜イルブリード、笑いながら燃える怪作〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 509.84,
+  "script_hash": "sha256:5cf68440175d07aaf153fe8fd49fa8bfa911ae01f33d5724700a446636d3fce5",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 5.05
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "旅の道ラジオへようこそなのだ！パーソナリティのずんだもんなのだ！",
+      "news_index": 0,
+      "start_sec": 5.05,
+      "end_sec": 9.09
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "intro",
+      "text": "またまた、あーしが担当するっすよー！今回のテーマは『イルブリード』っす！",
+      "news_index": 0,
+      "start_sec": 9.24,
+      "end_sec": 14.23
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "イルブリード……犬のブリーダーが体調を崩す話なのだ？",
+      "news_index": 0,
+      "start_sec": 14.38,
+      "end_sec": 18.76
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "先輩それガチ違うっす。ドリームキャストで出たホラーゲームっすよ。",
+      "news_index": 0,
+      "start_sec": 18.91,
+      "end_sec": 22.79
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "ホラー！？ ボク、暗い部屋にひとりで放り込まれるやつは無理なのだ。",
+      "news_index": 0,
+      "start_sec": 22.94,
+      "end_sec": 27.73
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "安心してほしいっす、これ怖いより先に笑うやつっす。要するに世界一おバカなお化け屋敷を歩く回っすね。",
+      "news_index": 0,
+      "start_sec": 27.88,
+      "end_sec": 34.68
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "発売は2001年3月29日、機種はドリームキャストっす。ジャンル表記が『バーチャルホラーランド』って書いてあるっす。",
+      "news_index": 1,
+      "start_sec": 34.76,
+      "end_sec": 42.48
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "ジャンル名の時点で説明を放棄してるのだ。",
+      "news_index": 1,
+      "start_sec": 42.63,
+      "end_sec": 46.07
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そこが最高なんすよ！舞台はイルブリードって名前のホラー遊園地で、中にB級ホラー映画がテーマのお化け屋敷が六つあるっす。",
+      "news_index": 1,
+      "start_sec": 46.22,
+      "end_sec": 53.94
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "遊園地！ ジェットコースターは何時間待ちなのだ？",
+      "news_index": 1,
+      "start_sec": 54.09,
+      "end_sec": 58.16
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "コースターは無いっす先輩、あるのは全部お化け屋敷っす。乗り物ゼロの遊園地っすよ。",
+      "news_index": 1,
+      "start_sec": 58.31,
+      "end_sec": 63.65
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "遊具ゼロで入場料を取るの、なかなか強気なのだ。",
+      "news_index": 2,
+      "start_sec": 63.8,
+      "end_sec": 67.3
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "主人公はエリコ・クリスティ、十八歳の女子高生っす。",
+      "news_index": 2,
+      "start_sec": 67.45,
+      "end_sec": 71.46
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "女子高生がお化け屋敷に挑むのだ？ 肝試しの帰りに補導されそうなのだ。",
+      "news_index": 2,
+      "start_sec": 71.61,
+      "end_sec": 76.66
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "それがこの子、ホラー映画マニアで恐怖感がほぼ麻痺してるっす。要するに主人公の時点でだいぶ怖いっすね。",
+      "news_index": 2,
+      "start_sec": 76.81,
+      "end_sec": 83.4
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "システムもヤバいっす。視覚、聴覚、嗅覚、第六感の四つのセンサーで罠の気配を感知するっす。",
+      "news_index": 2,
+      "start_sec": 83.48,
+      "end_sec": 90.17
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "第六感がステータス画面に載ってるのだ！？",
+      "news_index": 2,
+      "start_sec": 90.32,
+      "end_sec": 93.75
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "載ってるっす。しかもホラーモニターってのを使って、アドレナリンを削りながら怪しい場所にマーキングするっす。",
+      "news_index": 2,
+      "start_sec": 93.9,
+      "end_sec": 100.04
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "アドレナリンが弾薬扱いなのだ。ボクの残量は常にゼロなのだ。",
+      "news_index": 2,
+      "start_sec": 100.19,
+      "end_sec": 104.5
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに撃つゲームじゃなくて、先に気づくゲームっすね。ステータスも心拍数と出血量が並んでて、ビックリしすぎるとショック死するっすよ。",
+      "news_index": 2,
+      "start_sec": 104.65,
+      "end_sec": 112.93
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "びっくりで死ぬの、ボクなら初日で終わってるのだ。",
+      "news_index": 2,
+      "start_sec": 113.08,
+      "end_sec": 117.58
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "死んだら仲間キャラに交代して続けられるっす。つまり主人公が消耗品枠っすね。",
+      "news_index": 2,
+      "start_sec": 117.73,
+      "end_sec": 123.01
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "ここからガチで語らせてもらうっすけど、六つのアトラクションが全部B級映画のパロディなんすよ。",
+      "news_index": 3,
+      "start_sec": 123.09,
+      "end_sec": 128.45
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "たとえばどんなのがあるのだ？",
+      "news_index": 3,
+      "start_sec": 128.6,
+      "end_sec": 130.51
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "一個目が『ミネソタヘルシネマ』、元ネタは『死を呼ぶホームラン』っす。火炎放射器を持ったお父さんが出てくるっす。",
+      "news_index": 3,
+      "start_sec": 130.66,
+      "end_sec": 138.0
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "ホームランの要素はどこへ行ったのだ。",
+      "news_index": 3,
+      "start_sec": 138.15,
+      "end_sec": 140.92
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriama",
+      "text": "バットが火を噴いてないだけマシっすよ。あーし、こういうのを愛でるタイプっす、ぴーすぴーす。",
+      "news_index": 3,
+      "start_sec": 141.07,
+      "end_sec": 146.74
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "つむぎ、目のハイライトが消えてるのだ……",
+      "news_index": 3,
+      "start_sec": 146.89,
+      "end_sec": 149.44
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "二個目の『シネパニック』は『女王ミミズの復讐』が元ネタで、巨大なミミズが襲ってくるっす。三個目の『ブギーズファンムービー』は『材木人間』枠っす。",
+      "news_index": 3,
+      "start_sec": 149.59,
+      "end_sec": 160.52
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "聴いてるみんな、今『材木人間』って聞こえたのだ。ボクの空耳じゃないのだ。",
+      "news_index": 3,
+      "start_sec": 160.67,
+      "end_sec": 166.25
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "空耳じゃないっす、正式名称っす！しかもプレイヤーキャラが木の人形にされる演出まであるっす。",
+      "news_index": 3,
+      "start_sec": 166.4,
+      "end_sec": 172.25
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "タイトルの時点でもう勝ってるのだ。",
+      "news_index": 3,
+      "start_sec": 172.4,
+      "end_sec": 174.61
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "四個目の『ショックショックシアター』は店長が蜘蛛みたいな姿でボスになるっす。五個目の『ホールオブリセントメント』は犯人を推理する要素まで入ってくるっす。",
+      "news_index": 3,
+      "start_sec": 174.76,
+      "end_sec": 184.46
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "ホラー遊園地で急にミステリーが始まったのだ。",
+      "news_index": 3,
+      "start_sec": 184.61,
+      "end_sec": 188.35
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ジャンルが渋滞してるっす。ラストが『チャイルドパレス』、元ネタは『トイハンター インダくん地獄へ行く』っす。",
+      "news_index": 3,
+      "start_sec": 188.5,
+      "end_sec": 195.18
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "インダくん、名前だけ聞くと友達になれそうなのだ。",
+      "news_index": 3,
+      "start_sec": 195.33,
+      "end_sec": 199.08
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriama",
+      "text": "地獄には行くっすけどね。楽しい楽しいおもちゃの国っすよー、ぴーす。",
+      "news_index": 3,
+      "start_sec": 199.23,
+      "end_sec": 203.67
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "……つむぎ、今日は無理してないのだ？",
+      "news_index": 3,
+      "start_sec": 203.82,
+      "end_sec": 206.14
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "無理してないっす。あとこのステージ、話を進めるためにわざと罠に引っかかる必要があるっす。",
+      "news_index": 3,
+      "start_sec": 206.29,
+      "end_sec": 211.85
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "避けろって散々教わった罠に、自分から突っ込むのだ！？",
+      "news_index": 3,
+      "start_sec": 212.0,
+      "end_sec": 215.67
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "作ったのはクレイジーゲームズってスタジオっす。発売の一ヶ月前まで、社名はクライマックス・グラフィックスだったっす。",
+      "news_index": 4,
+      "start_sec": 215.82,
+      "end_sec": 223.01
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "発売直前に社名をクレイジーにするの、自己申告が早すぎるのだ。",
+      "news_index": 4,
+      "start_sec": 223.16,
+      "end_sec": 228.54
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そこが最高っすよね！開発は東京の新宿で、だいたい十八ヶ月、ピーク時で二十三人のチームっす。",
+      "news_index": 4,
+      "start_sec": 228.69,
+      "end_sec": 235.77
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "エンジンは前作の『ブルースティンガー』を改良して組み直してるっす。",
+      "news_index": 4,
+      "start_sec": 235.85,
+      "end_sec": 240.16
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ブルースティンガー……刺されると青くなるのだ？",
+      "news_index": 4,
+      "start_sec": 240.31,
+      "end_sec": 243.23
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "先輩、それただの打撲っす。同じチームが作った前のドリームキャスト作品っすよ。",
+      "news_index": 4,
+      "start_sec": 243.38,
+      "end_sec": 248.63
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "着想元が富士急ハイランドのお化け屋敷と、八十年代アメリカのB級映画っす。",
+      "news_index": 4,
+      "start_sec": 248.71,
+      "end_sec": 253.99
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "お化け屋敷を家で歩き回りたい、はめちゃくちゃ分かるのだ。",
+      "news_index": 4,
+      "start_sec": 254.14,
+      "end_sec": 258.44
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "プロデューサー兼脚本が西垣伸哉、ディレクターが杉森哲郎っす。",
+      "news_index": 4,
+      "start_sec": 258.59,
+      "end_sec": 262.94
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "西垣さんが影響を挙げてるのが、キャメロン、スピルバーグ、ルーカス、それと宮崎駿と黒澤明っす。",
+      "news_index": 4,
+      "start_sec": 263.02,
+      "end_sec": 269.94
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "そのメンツから出てくるのが火炎放射器のお父さんなのだ！？",
+      "news_index": 4,
+      "start_sec": 270.09,
+      "end_sec": 274.53
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そこがこの作品の一番おいしいところっす！音楽と効果音は菊池幸範、キャラクターデザインはせがわまさきっす。",
+      "news_index": 4,
+      "start_sec": 274.68,
+      "end_sec": 281.71
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "で、ここからが伝説っす。北米で出すまでの流れがガチでカオスなんすよ。",
+      "news_index": 5,
+      "start_sec": 281.79,
+      "end_sec": 286.42
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "まずセガ・オブ・アメリカが、自社のタイトルで手一杯って理由で北米の発売権を一回手放すっす。",
+      "news_index": 5,
+      "start_sec": 286.5,
+      "end_sec": 292.24
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "開園前に運営会社に逃げられた遊園地なのだ。",
+      "news_index": 5,
+      "start_sec": 292.39,
+      "end_sec": 296.25
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そこに五社が名乗りを上げて、ジャレコが権利を取るっす。",
+      "news_index": 5,
+      "start_sec": 296.4,
+      "end_sec": 299.64
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "よかったのだ。これで一件落着なのだ。",
+      "news_index": 5,
+      "start_sec": 299.79,
+      "end_sec": 302.47
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriama",
+      "text": "そのジャレコが経営破綻して買収されるっす。大丈夫っすよー、ぴーすぴーす。",
+      "news_index": 5,
+      "start_sec": 302.62,
+      "end_sec": 307.52
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "全然大丈夫じゃないのだ！",
+      "news_index": 5,
+      "start_sec": 307.67,
+      "end_sec": 309.91
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "最後は元ジャレコの幹部が2001年の初めに新会社AIAを立ち上げて、自力で出し切ったっす。",
+      "news_index": 5,
+      "start_sec": 310.06,
+      "end_sec": 316.21
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "肝心の売上は世界で約五万本、前作ブルースティンガーの十分の一っす。",
+      "news_index": 5,
+      "start_sec": 316.29,
+      "end_sec": 321.25
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "執念で開園までこぎつけたのに、お客さんが来なかったのだ。",
+      "news_index": 5,
+      "start_sec": 321.4,
+      "end_sec": 327.28
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "評価も見事に真っ二つっす。メタクリティックは百点満点で六十一点っす。",
+      "news_index": 6,
+      "start_sec": 327.43,
+      "end_sec": 332.19
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "海外だとゲームスポットとエッジが十点満点で六点、ゲームインフォーマーは五点っす。でも日本のドリームキャストマガジンは八点、ファミ通のクロスレビューは四十点満点で二十八点っす。",
+      "news_index": 6,
+      "start_sec": 332.27,
+      "end_sec": 343.23
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "国境をまたぐと点数が変わるゲーム、なかなか珍しいのだ。",
+      "news_index": 6,
+      "start_sec": 343.38,
+      "end_sec": 348.1
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに刺さる人には刺さる、典型のカルト枠っすね。叩かれたのはジャンプの操作の硬さと、カメラの見づらさっす。",
+      "news_index": 6,
+      "start_sec": 348.25,
+      "end_sec": 355.41
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "あと部屋に入るたび立ち止まって罠をスキャンするんで、テンポが止まりまくるっす。エッジ誌には『マインスイーパーの繰り返し』って書かれたっす。",
+      "news_index": 6,
+      "start_sec": 355.49,
+      "end_sec": 363.96
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "お化け屋敷でマインスイーパー、地味すぎるのだ。",
+      "news_index": 6,
+      "start_sec": 364.11,
+      "end_sec": 367.88
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriama",
+      "text": "その地味な作業の先で火を噴くお父さんが待ってるんすよ。最高の遊園地っすよねー、ぴーす。",
+      "news_index": 6,
+      "start_sec": 368.03,
+      "end_sec": 373.97
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "……また目が消えたのだ。",
+      "news_index": 6,
+      "start_sec": 374.12,
+      "end_sec": 375.44
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "褒めてる側もヤバいっす。アメリカのゲーム誌が『死にかけたサバイバルホラーの松明を拾って、ガソリンをかけてツリーハウスに投げ込んで、笑いながら見てる』って書いたっす。",
+      "news_index": 6,
+      "start_sec": 375.59,
+      "end_sec": 385.55
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "それ褒めてるのだ！？ 通報案件じゃないのだ！？",
+      "news_index": 6,
+      "start_sec": 385.7,
+      "end_sec": 389.57
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "褒めてるっす。イギリスのドリームキャスト誌も、過剰、狂ってる、やりすぎ、って並べてるっす。",
+      "news_index": 6,
+      "start_sec": 389.72,
+      "end_sec": 395.73
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "全部悪口に見えるのに、なぜか誇らしいのだ。",
+      "news_index": 6,
+      "start_sec": 395.88,
+      "end_sec": 399.15
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "極めつけが西垣さんの発言っす。イルブリードは遊ぶのに高度な知性を要する、否定的なレビューは自分には全く影響しなかった、っす。",
+      "news_index": 6,
+      "start_sec": 399.3,
+      "end_sec": 407.91
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "強すぎるのだ！ ボクも今度テストの点数で使うのだ！",
+      "news_index": 6,
+      "start_sec": 408.06,
+      "end_sec": 411.69
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "先輩が言うとただの言い訳っす。",
+      "news_index": 6,
+      "start_sec": 411.84,
+      "end_sec": 413.95
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "あと実はXbox版の移植が九割まで出来てたっす。",
+      "news_index": 7,
+      "start_sec": 414.03,
+      "end_sec": 417.63
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "九割！？ それもう完成じゃないのだ！",
+      "news_index": 7,
+      "start_sec": 417.78,
+      "end_sec": 420.67
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "namidame",
+      "text": "そこで西垣さんが2004年に亡くなって、Xboxも日本で振るわなくて、開発中止になったっす。",
+      "news_index": 7,
+      "start_sec": 420.82,
+      "end_sec": 427.63
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "……そっか。そのまま出てたら、違う未来があったのだ。",
+      "news_index": 7,
+      "start_sec": 427.78,
+      "end_sec": 431.14
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そうっすね。それでも時間が経って、海外でドリームキャストの隠れた名作って再評価されまくってるっす。",
+      "news_index": 7,
+      "start_sec": 431.29,
+      "end_sec": 437.47
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "当時ボロカスに言われてたのに、手のひらが高速回転してるのだ。",
+      "news_index": 7,
+      "start_sec": 437.62,
+      "end_sec": 442.51
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "評価が変わったんじゃなくて、時代が追いついたって見方もあるっす。要するに早すぎたバカゲーっすね。",
+      "news_index": 7,
+      "start_sec": 442.66,
+      "end_sec": 448.66
+    },
+    {
+      "index": 84,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "バカゲーが早すぎるの、なかなか無い事故なのだ。",
+      "news_index": 7,
+      "start_sec": 448.81,
+      "end_sec": 451.96
+    },
+    {
+      "index": 85,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriama",
+      "text": "あーし、これ実機で最後まで遊び切ってるっす。すっごく楽しかったっすよー、ぴーすぴーす。",
+      "news_index": 7,
+      "start_sec": 452.11,
+      "end_sec": 457.84
+    },
+    {
+      "index": 86,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "目が完全に死んでるのだ。カメラワークで何時間溶けたのだ？",
+      "news_index": 7,
+      "start_sec": 457.99,
+      "end_sec": 462.02
+    },
+    {
+      "index": 87,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "その話はやめるっす。でも罠を全部覚えた頃には、もう園内の職員っすね。",
+      "news_index": 7,
+      "start_sec": 462.17,
+      "end_sec": 467.38
+    },
+    {
+      "index": 88,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "つむぎ、アルバイトとして雇われてたのだ！",
+      "news_index": 7,
+      "start_sec": 467.53,
+      "end_sec": 470.61
+    },
+    {
+      "index": 89,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "shirake",
+      "text": "……先輩、あーしの青春を時給に換算しないでほしいっす。",
+      "news_index": 7,
+      "start_sec": 470.76,
+      "end_sec": 474.6
+    },
+    {
+      "index": 90,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "ご、ごめんなさいなのだ……",
+      "news_index": 7,
+      "start_sec": 474.75,
+      "end_sec": 477.15
+    },
+    {
+      "index": 91,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "冗談っす。ところで先輩、まだ犬のブリーダーの話だと思ってるっすか？",
+      "news_index": 7,
+      "start_sec": 477.3,
+      "end_sec": 482.04
+    },
+    {
+      "index": 92,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "遊園地を作った園長は、ある意味お化けのブリーダーなのだ！",
+      "news_index": 7,
+      "start_sec": 482.19,
+      "end_sec": 486.15
+    },
+    {
+      "index": 93,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "……それ、ちょっと上手いっす。悔しいっす。",
+      "news_index": 7,
+      "start_sec": 486.3,
+      "end_sec": 488.97
+    },
+    {
+      "index": 94,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "旅の道ラジオ、今回はイルブリードの回だったのだ！",
+      "news_index": 7,
+      "start_sec": 489.12,
+      "end_sec": 492.67
+    },
+    {
+      "index": 95,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "オタクくんも機会があったら、この狂った遊園地を覗いてみてほしいっす。また旅の道ラジオで会いましょう、っす！",
+      "news_index": 7,
+      "start_sec": 492.82,
+      "end_sec": 499.57
+    },
+    {
+      "index": 96,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "またなのだー！",
+      "news_index": 7,
+      "start_sec": 499.72,
+      "end_sec": 500.84
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 501.54,
+      "end_sec": 509.84
+    }
+  ],
+  "wall_time_sec": 23.11,
+  "audio_url": "/audio/indie/20260922_170558.mp3?v=1790193799"
+}
