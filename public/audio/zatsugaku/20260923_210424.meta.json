@@ -1,0 +1,1386 @@
+{
+  "profile": "zatsugaku",
+  "generated_at": "2026-09-23T21:04:24+09:00",
+  "title": "飛行機が浮くのは「上の空気が遠回りして追いつくから」ではない 〜アインシュタインも外した揚力の話〜",
+  "audio_path": "zatsugaku_latest.wav",
+  "duration_sec": 662.41,
+  "script_hash": "sha256:30219ea9a20a9e56f51b98dc0cc275ec27f8e8528fcce203108de0ff7eacc5e6",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 9.59
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "mic",
+      "text": "旅の道ラジオ、雑学チャンネル。あんこもんだもん。",
+      "news_index": 0,
+      "start_sec": 9.59,
+      "end_sec": 13.05
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ずんだもんなのだ! 今日はどんなネタを持ってきたのだ?",
+      "news_index": 0,
+      "start_sec": 13.2,
+      "end_sec": 16.49
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "今日のお題は、飛行機はなぜ空に浮いていられるのか、だもん。",
+      "news_index": 0,
+      "start_sec": 16.64,
+      "end_sec": 20.57
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "それならボク知ってるのだ! 翼の上がぷっくり膨らんでるからなのだ。",
+      "news_index": 0,
+      "start_sec": 20.72,
+      "end_sec": 25.02
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "上の空気が遠回りして急ぐから、上の圧が下がって吸い上げられるのだ?",
+      "news_index": 0,
+      "start_sec": 25.1,
+      "end_sec": 30.05
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "半分合ってて、半分は教科書が広めちゃった間違いだもん。",
+      "news_index": 0,
+      "start_sec": 30.2,
+      "end_sec": 33.91
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、教科書が間違ってるのだ!?",
+      "news_index": 0,
+      "start_sec": 34.06,
+      "end_sec": 36.5
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "今日こそ、ずんだもんの知ったかぶりを崩してあげるんだもん。",
+      "news_index": 0,
+      "start_sec": 36.65,
+      "end_sec": 39.99
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "じゃあ、ずんだもんの説をちゃんと言葉にしてみるもん。",
+      "news_index": 1,
+      "start_sec": 40.07,
+      "end_sec": 43.22
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "翼の前で、空気が上と下に分かれるのだ。",
+      "news_index": 1,
+      "start_sec": 43.37,
+      "end_sec": 46.7
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "分かれた空気は、後ろの端でまた同時に合流するのだ。",
+      "news_index": 1,
+      "start_sec": 46.78,
+      "end_sec": 50.58
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "うん。それで?",
+      "news_index": 1,
+      "start_sec": 50.73,
+      "end_sec": 52.02
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "上の方が道のりが長いから、同時に着くには上の空気が速く走らないといけないのだ!",
+      "news_index": 1,
+      "start_sec": 52.17,
+      "end_sec": 57.84
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "それ、アメリカ航空宇宙局の教材では「等時間説」って名前で呼んでるもん。",
+      "news_index": 1,
+      "start_sec": 57.99,
+      "end_sec": 64.16
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "とうじかんせつ? それ何なのだ?",
+      "news_index": 1,
+      "start_sec": 64.31,
+      "end_sec": 66.69
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "上と下の空気が、同じ時間で後ろに着くはず、っていう考え方のことだもん。",
+      "news_index": 1,
+      "start_sec": 66.84,
+      "end_sec": 72.17
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "しかも同じ教材が、はっきり「間違った揚力の説明」の欄に載せてるんだもん。",
+      "news_index": 1,
+      "start_sec": 72.25,
+      "end_sec": 77.56
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "マジかよ! じゃあ同時には着かないのだ?",
+      "news_index": 1,
+      "start_sec": 77.71,
+      "end_sec": 80.96
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "着かないもん。上を通った空気の方が、ずっと先に後ろへ着いちゃうんだもん。",
+      "news_index": 1,
+      "start_sec": 81.11,
+      "end_sec": 85.88
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "先に!? 合流すらしないってことなのだ?",
+      "news_index": 1,
+      "start_sec": 86.03,
+      "end_sec": 88.89
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "2003年に、イギリスのケンブリッジ大学の先生が、煙で確かめた実験があるもん。",
+      "news_index": 1,
+      "start_sec": 89.04,
+      "end_sec": 94.86
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "翼に向かって、煙を短い間隔でポンポンと流すんだもん。",
+      "news_index": 1,
+      "start_sec": 94.94,
+      "end_sec": 98.98
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "上と下で、同じ列に並んでた煙の粒がどこに行くか見るのだね。",
+      "news_index": 1,
+      "start_sec": 99.13,
+      "end_sec": 103.81
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "そう。映像を止めると、上の煙はもう翼を通りすぎてて、下の煙はまだ翼の下にいるんだもん。",
+      "news_index": 1,
+      "start_sec": 103.96,
+      "end_sec": 111.04
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "ボクの「同時に合流」、あっさり崩れたのだ……。",
+      "news_index": 1,
+      "start_sec": 111.19,
+      "end_sec": 115.83
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "まだあるもん。紙飛行機の翼って、どんな形?",
+      "news_index": 1,
+      "start_sec": 115.98,
+      "end_sec": 119.58
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ただの平らな紙なのだ。上も下も、長さは同じなのだ。",
+      "news_index": 1,
+      "start_sec": 119.73,
+      "end_sec": 123.88
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "等時間説だと、道のりが同じなら速さの差も出ない。つまり浮かないはずだもん。",
+      "news_index": 1,
+      "start_sec": 124.03,
+      "end_sec": 129.27
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "でも紙飛行機、普通に飛ぶのだ!",
+      "news_index": 1,
+      "start_sec": 129.42,
+      "end_sec": 131.82
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "上下対称の翼でもちゃんと浮くし、曲技飛行機は逆さまのまま飛べるもん。",
+      "news_index": 1,
+      "start_sec": 131.97,
+      "end_sec": 136.71
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "逆さまだと、膨らんだ側が下になるのだ。じゃあ下に吸われて落ちるはずなのだ?",
+      "news_index": 1,
+      "start_sec": 136.86,
+      "end_sec": 143.42
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "それに、同時に着く速さで計算すると、揚力が実物よりずっと小さく出ちゃうんだもん。",
+      "news_index": 1,
+      "start_sec": 143.57,
+      "end_sec": 149.58
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも上の空気が速いのは、本当なのだね?",
+      "news_index": 1,
+      "start_sec": 149.73,
+      "end_sec": 153.0
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "そこは本当。速いし、上の圧は低い。間違ってるのは「なぜ速くなるか」の理由の方だもん。",
+      "news_index": 1,
+      "start_sec": 153.15,
+      "end_sec": 159.98
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "結果は合ってて、理由だけ作り話だったのだ。",
+      "news_index": 1,
+      "start_sec": 160.13,
+      "end_sec": 163.33
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "じゃあ、答えを言うもん。",
+      "news_index": 2,
+      "start_sec": 163.48,
+      "end_sec": 165.26
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "翼は、空気の流れを曲げてるんだもん。曲がった流れが、上を低い圧に、下を高い圧にするんだもん。",
+      "news_index": 2,
+      "start_sec": 165.34,
+      "end_sec": 172.25
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "流れを曲げる……? 空気を叩いてるとかじゃなくて?",
+      "news_index": 2,
+      "start_sec": 172.4,
+      "end_sec": 175.86
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "カギは2つ。翼の形と、「迎え角」だもん。",
+      "news_index": 2,
+      "start_sec": 176.01,
+      "end_sec": 179.76
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "むかえかく? それ何なのだ?",
+      "news_index": 2,
+      "start_sec": 179.91,
+      "end_sec": 182.08
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "向かってくる風に対して、翼がどれだけ上を向いてるかの角度だもん。",
+      "news_index": 2,
+      "start_sec": 182.23,
+      "end_sec": 186.7
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "走ってる車の窓から手のひらを出して、指先をちょっと上げると、手がふわっと持ち上がるでしょ。あれだもん。",
+      "news_index": 2,
+      "start_sec": 186.78,
+      "end_sec": 193.54
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あれか! 角度を付けると、手がぐいっと上に行くのだ。",
+      "news_index": 2,
+      "start_sec": 193.69,
+      "end_sec": 197.27
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "逆さまで飛ぶ曲技飛行機も、機首を上げて迎え角を作って飛んでるんだもん。",
+      "news_index": 2,
+      "start_sec": 197.42,
+      "end_sec": 202.09
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "膨らみの向きより、角度の方が大事ってことなのだ?",
+      "news_index": 2,
+      "start_sec": 202.24,
+      "end_sec": 205.97
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "アメリカ航空宇宙局の説明でも、揚力を決めるのは角度と、翼の反り方の組み合わせだもん。",
+      "news_index": 2,
+      "start_sec": 206.12,
+      "end_sec": 212.45
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "分かったのだ! 角度が付いてると、下の面に空気がぶつかって、押し上げられるのだ!",
+      "news_index": 2,
+      "start_sec": 212.6,
+      "end_sec": 218.08
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "水切りの石が、水面で跳ねるのと同じなのだ?",
+      "news_index": 2,
+      "start_sec": 218.16,
+      "end_sec": 221.54
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "それもある。でも、それだけだと足りないもん。",
+      "news_index": 2,
+      "start_sec": 221.69,
+      "end_sec": 224.65
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "その考え方も、同じ教材の「間違った説明」の欄に「水切り石説」として載ってるもん。",
+      "news_index": 2,
+      "start_sec": 224.73,
+      "end_sec": 231.6
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ボクの説、2個とも間違いの欄に載ってるのだ!?",
+      "news_index": 2,
+      "start_sec": 231.75,
+      "end_sec": 235.09
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "ほら、知らないだけだったもん。",
+      "news_index": 2,
+      "start_sec": 235.24,
+      "end_sec": 237.16
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "むぅ……。何が足りないのだ?",
+      "news_index": 2,
+      "start_sec": 237.31,
+      "end_sec": 239.32
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "上の面を忘れてるもん。流れを下向きに曲げてる量は、下の面より上の面の方が大きいんだもん。",
+      "news_index": 2,
+      "start_sec": 239.47,
+      "end_sec": 245.72
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "上!? 上は空気が乗ってるだけじゃないのだ?",
+      "news_index": 2,
+      "start_sec": 245.87,
+      "end_sec": 249.83
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "上の空気は、翼の丸い背中にくっついて、そのまま後ろで下向きに流れていくんだもん。",
+      "news_index": 2,
+      "start_sec": 249.98,
+      "end_sec": 255.72
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "上を通った空気も、最後は下に向けられてるってことなのだね。",
+      "news_index": 2,
+      "start_sec": 255.87,
+      "end_sec": 260.05
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "そう。翼の後ろには、下向きの空気の流れができるんだもん。これを「吹き下ろし」って呼ぶもん。",
+      "news_index": 2,
+      "start_sec": 260.2,
+      "end_sec": 267.35
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "下向きに空気を流して、その反動で翼が上に押されるのだ?",
+      "news_index": 2,
+      "start_sec": 267.5,
+      "end_sec": 271.84
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "そういうこと。ニュートンの「押したら押し返される」の法則だもん。",
+      "news_index": 2,
+      "start_sec": 271.99,
+      "end_sec": 276.19
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "待ってほしいのだ。じゃあ最初の「上の圧が低い」って話は、どこに行ったのだ?",
+      "news_index": 2,
+      "start_sec": 276.34,
+      "end_sec": 282.24
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "速いと圧が下がる、ベルヌーイの定理ってやつで全部説明できるんじゃないのだ?",
+      "news_index": 2,
+      "start_sec": 282.32,
+      "end_sec": 287.45
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "ベルヌーイの定理自体は正しいもん。でも、それだけだと「なぜ速くなるの」が抜けちゃうんだもん。",
+      "news_index": 2,
+      "start_sec": 287.6,
+      "end_sec": 294.41
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ていうか、ベルヌーイの定理ってそもそも何なのだ? ボクには難しすぎるのだ。",
+      "news_index": 2,
+      "start_sec": 294.56,
+      "end_sec": 299.73
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "流れの中では、速いところほど圧が低く、遅いところほど圧が高い、っていう決まりだもん。",
+      "news_index": 2,
+      "start_sec": 299.88,
+      "end_sec": 306.15
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "つまり速さと圧はセットで動くのだ。",
+      "news_index": 2,
+      "start_sec": 306.3,
+      "end_sec": 308.85
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "そう。で、そのセットをどう揺らすか、が「流れを曲げる」の部分なんだもん。",
+      "news_index": 2,
+      "start_sec": 309.0,
+      "end_sec": 314.22
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "ケンブリッジの先生の説明だと、翼が流れの線を曲げて、それが圧の差を生むんだもん。",
+      "news_index": 2,
+      "start_sec": 314.3,
+      "end_sec": 320.17
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "線を曲げると、なんで圧が変わるのだ?",
+      "news_index": 2,
+      "start_sec": 320.32,
+      "end_sec": 323.29
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "空気がカーブを曲がるには、外側から内側へ押す力がいるもん。その押す力が圧の差なんだもん。",
+      "news_index": 2,
+      "start_sec": 323.44,
+      "end_sec": 329.71
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "だからカーブの内側ほど圧が低く、外側ほど圧が高くなるんだもん。",
+      "news_index": 2,
+      "start_sec": 329.79,
+      "end_sec": 334.26
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "翼の上だと、カーブの内側は翼の背中の方なのだ。",
+      "news_index": 2,
+      "start_sec": 334.41,
+      "end_sec": 338.66
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "だから背中にくっついてるところが低い圧になるのだ!",
+      "news_index": 2,
+      "start_sec": 338.74,
+      "end_sec": 342.1
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "そう。上の空気が速いのは原因じゃなくて、低い圧に吸い込まれて加速した結果でもあるんだもん。",
+      "news_index": 2,
+      "start_sec": 342.25,
+      "end_sec": 348.37
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "じゃあ、圧の説と、反動の説、どっちが正しいのだ?",
+      "news_index": 2,
+      "start_sec": 348.52,
+      "end_sec": 353.69
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "アメリカ航空宇宙局の結論は「どっちも正しい」だもん。同じ現象を、圧で見るか、空気の動きで見るかの違いなんだもん。",
+      "news_index": 2,
+      "start_sec": 353.84,
+      "end_sec": 362.3
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "なーんだ。結局、空気を下に曲げたぶんだけ浮く、って一言でいいのだ?",
+      "news_index": 2,
+      "start_sec": 362.45,
+      "end_sec": 368.39
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "hazukashi",
+      "text": "……それ、あんこもんが最後に言おうとしてた締めだもん。",
+      "news_index": 2,
+      "start_sec": 368.54,
+      "end_sec": 372.01
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ボクの勝ちなのだ!",
+      "news_index": 2,
+      "start_sec": 372.16,
+      "end_sec": 373.56
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "shirake",
+      "text": "今のはたまたまだもん。ちなみに専門家の間でも、どの言い方が一番いいかは今も諸説あるんだもん。",
+      "news_index": 2,
+      "start_sec": 373.71,
+      "end_sec": 382.28
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "ある研究者は、下向きの流れ、速さ、上の低い圧、下の高い圧の4つが、お互いを支え合ってると説明してるもん。",
+      "news_index": 2,
+      "start_sec": 382.36,
+      "end_sec": 390.96
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "どれが先ってわけじゃなくて、4つがぐるぐる支え合ってるのだね。",
+      "news_index": 2,
+      "start_sec": 391.11,
+      "end_sec": 395.41
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "もう1個、大事な部品があるもん。翼の後ろの端、どうなってる?",
+      "news_index": 2,
+      "start_sec": 395.56,
+      "end_sec": 400.42
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "前は丸くて、後ろはシュッと尖ってるのだ。",
+      "news_index": 2,
+      "start_sec": 400.57,
+      "end_sec": 403.63
+    },
+    {
+      "index": 84,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "その尖りのおかげで、空気は後ろの端から素直に離れていくんだもん。これを「クッタ条件」って呼ぶもん。",
+      "news_index": 2,
+      "start_sec": 403.78,
+      "end_sec": 410.95
+    },
+    {
+      "index": 85,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "くったじょうけん? また難しいのが来たのだ。",
+      "news_index": 2,
+      "start_sec": 411.1,
+      "end_sec": 414.07
+    },
+    {
+      "index": 86,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "下の空気が尖った端をくるっと回りこんで、上に逃げたりしない、っていうルールだもん。",
+      "news_index": 2,
+      "start_sec": 414.22,
+      "end_sec": 420.0
+    },
+    {
+      "index": 87,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "このルールで、流れの曲がり方が1つに決まって、揚力の大きさも決まるんだもん。",
+      "news_index": 2,
+      "start_sec": 420.08,
+      "end_sec": 425.18
+    },
+    {
+      "index": 88,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "尖ったお尻が、空気の行き先を決める交通整理係なのだ。",
+      "news_index": 2,
+      "start_sec": 425.33,
+      "end_sec": 429.58
+    },
+    {
+      "index": 89,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "じゃあ角度をどんどん付ければ、どんどん浮くのだ? 90度にしたら最強なのだ!",
+      "news_index": 2,
+      "start_sec": 429.66,
+      "end_sec": 434.72
+    },
+    {
+      "index": 90,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "途中までは増えるもん。でも、ある角度を超えると一気にダメになるんだもん。",
+      "news_index": 2,
+      "start_sec": 434.87,
+      "end_sec": 439.5
+    },
+    {
+      "index": 91,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "上の空気が、翼の背中にくっついていられなくなって、はがれちゃうんだもん。",
+      "news_index": 2,
+      "start_sec": 439.58,
+      "end_sec": 444.43
+    },
+    {
+      "index": 92,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "はがれる? 空気がシールみたいにはがれるのだ?",
+      "news_index": 2,
+      "start_sec": 444.58,
+      "end_sec": 447.78
+    },
+    {
+      "index": 93,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "背中から離れて、後ろでぐちゃぐちゃに渦を巻くんだもん。そうなると下向きにきれいに曲げられないもん。",
+      "news_index": 2,
+      "start_sec": 447.93,
+      "end_sec": 454.11
+    },
+    {
+      "index": 94,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "これが「失速」。スピードが落ちることじゃなくて、角度の付けすぎで流れがはがれることなんだもん。",
+      "news_index": 2,
+      "start_sec": 454.19,
+      "end_sec": 460.01
+    },
+    {
+      "index": 95,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "失速って、遅くなることじゃなかったのだ!?",
+      "news_index": 2,
+      "start_sec": 460.16,
+      "end_sec": 463.98
+    },
+    {
+      "index": 96,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "アメリカ連邦航空局のパイロット向けの教本だと、小型機の翼で、だいたい16度から20度くらいが限界だもん。",
+      "news_index": 2,
+      "start_sec": 464.13,
+      "end_sec": 471.64
+    },
+    {
+      "index": 97,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "90度どころか、20度くらいで終わりなのだ。思ったよりずっと繊細なのだ。",
+      "news_index": 2,
+      "start_sec": 471.79,
+      "end_sec": 477.13
+    },
+    {
+      "index": 98,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "要するに、翼は空気をやさしく下に曲げ続ける道具なんだもん。",
+      "news_index": 2,
+      "start_sec": 477.28,
+      "end_sec": 481.43
+    },
+    {
+      "index": 99,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "ここからは、この話で痛い目を見た有名人の話だもん。",
+      "news_index": 3,
+      "start_sec": 481.51,
+      "end_sec": 485.16
+    },
+    {
+      "index": 100,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "有名人? 飛行機の人なのだ?",
+      "news_index": 3,
+      "start_sec": 485.31,
+      "end_sec": 488.05
+    },
+    {
+      "index": 101,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "アインシュタインだもん。",
+      "news_index": 3,
+      "start_sec": 488.2,
+      "end_sec": 489.41
+    },
+    {
+      "index": 102,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "あの相対性理論のアインシュタインなのだ!?",
+      "news_index": 3,
+      "start_sec": 489.56,
+      "end_sec": 492.36
+    },
+    {
+      "index": 103,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "1916年に、ドイツの科学雑誌に「水の波と飛行の初歩の理論」っていう短い論文を出してるもん。",
+      "news_index": 3,
+      "start_sec": 492.51,
+      "end_sec": 500.16
+    },
+    {
+      "index": 104,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "その考えをもとに、背中がぐっと盛り上がった翼を考えたんだもん。",
+      "news_index": 3,
+      "start_sec": 500.24,
+      "end_sec": 504.55
+    },
+    {
+      "index": 105,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "盛り上がりを強くしたら、もっと浮くと考えたのだ?",
+      "news_index": 3,
+      "start_sec": 504.7,
+      "end_sec": 508.29
+    },
+    {
+      "index": 106,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "そう。伸びをした猫の背中に似てたから、あとで「猫の背中翼」ってあだ名が付いたもん。",
+      "news_index": 3,
+      "start_sec": 508.44,
+      "end_sec": 514.82
+    },
+    {
+      "index": 107,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "1917年ごろ、ベルリンの飛行機メーカーがその翼で機体を作って、実際に飛ばしてみたもん。",
+      "news_index": 3,
+      "start_sec": 514.9,
+      "end_sec": 521.44
+    },
+    {
+      "index": 108,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "天才の翼なのだ。すごく飛んだに決まってるのだ!",
+      "news_index": 3,
+      "start_sec": 521.59,
+      "end_sec": 525.03
+    },
+    {
+      "index": 109,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "shirake",
+      "text": "テストしたパイロットは「お腹の大きいアヒルみたいに、空でヨタヨタした」って言ったもん。",
+      "news_index": 3,
+      "start_sec": 525.18,
+      "end_sec": 532.42
+    },
+    {
+      "index": 110,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "アヒル……。天才でも、翼は難しいのだ。",
+      "news_index": 3,
+      "start_sec": 532.57,
+      "end_sec": 537.38
+    },
+    {
+      "index": 111,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "アインシュタイン本人も、1954年になって、あれは若気の至りだったって振り返ってるもん。",
+      "news_index": 3,
+      "start_sec": 537.53,
+      "end_sec": 543.8
+    },
+    {
+      "index": 112,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "形を盛れば盛るほど浮く、って単純な話じゃなかったのだね。",
+      "news_index": 3,
+      "start_sec": 543.95,
+      "end_sec": 548.19
+    },
+    {
+      "index": 113,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ところで、この仕組み、空を飛ぶもの以外でも使えるのだ?",
+      "news_index": 3,
+      "start_sec": 548.27,
+      "end_sec": 552.17
+    },
+    {
+      "index": 114,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "エフワンの車の前と後ろに付いてる羽、見たことある?",
+      "news_index": 3,
+      "start_sec": 552.32,
+      "end_sec": 555.94
+    },
+    {
+      "index": 115,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あるのだ! あれも飛ぶためなのだ?",
+      "news_index": 3,
+      "start_sec": 556.09,
+      "end_sec": 558.33
+    },
+    {
+      "index": 116,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "逆だもん。飛行機の翼をひっくり返した形で、車を地面に押しつけてるんだもん。",
+      "news_index": 3,
+      "start_sec": 558.48,
+      "end_sec": 563.99
+    },
+    {
+      "index": 117,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "浮く力を、下向きに使ってるのだ!?",
+      "news_index": 3,
+      "start_sec": 564.14,
+      "end_sec": 566.77
+    },
+    {
+      "index": 118,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "タイヤが地面に強く押しつけられるから、カーブで滑りにくくなるんだもん。",
+      "news_index": 3,
+      "start_sec": 566.92,
+      "end_sec": 571.16
+    },
+    {
+      "index": 119,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "逆さまの飛行機が飛べるのと、同じ理屈なのだね。",
+      "news_index": 3,
+      "start_sec": 571.31,
+      "end_sec": 574.95
+    },
+    {
+      "index": 120,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "旅客機にも、上の面が大事ってことが分かる部品があるもん。",
+      "news_index": 3,
+      "start_sec": 575.1,
+      "end_sec": 578.88
+    },
+    {
+      "index": 121,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "着陸したとき、翼の上で板がパタパタ立ち上がるの、見たことない?",
+      "news_index": 3,
+      "start_sec": 578.96,
+      "end_sec": 583.71
+    },
+    {
+      "index": 122,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "窓から見たことあるのだ。翼が割れたのかと思ってドキッとしたのだ。",
+      "news_index": 3,
+      "start_sec": 583.86,
+      "end_sec": 588.43
+    },
+    {
+      "index": 123,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "あれは「スポイラー」。上の面の流れをわざと乱して、揚力を減らす板だもん。",
+      "news_index": 3,
+      "start_sec": 588.58,
+      "end_sec": 593.91
+    },
+    {
+      "index": 124,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "上の流れを邪魔するだけで浮かなくなるなら、やっぱり上が主役なのだ。",
+      "news_index": 3,
+      "start_sec": 594.06,
+      "end_sec": 598.52
+    },
+    {
+      "index": 125,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "ちなみに、さっきの水切り石説が当たる場面も、1つだけあるもん。",
+      "news_index": 3,
+      "start_sec": 598.67,
+      "end_sec": 603.19
+    },
+    {
+      "index": 126,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "え、間違いの欄に載ってたのに?",
+      "news_index": 3,
+      "start_sec": 603.34,
+      "end_sec": 606.03
+    },
+    {
+      "index": 127,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "宇宙船が戻ってくるとき、高さ80キロより上を、時速16,000キロ以上で飛ぶような場面だもん。",
+      "news_index": 3,
+      "start_sec": 606.18,
+      "end_sec": 612.8
+    },
+    {
+      "index": 128,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "空気が薄すぎて、上の面にはほとんど空気が回りこまない。だから下にぶつかる分だけで計算が合うんだもん。",
+      "news_index": 3,
+      "start_sec": 612.88,
+      "end_sec": 619.69
+    },
+    {
+      "index": 129,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "時速16,000キロ……。ボクがおやつを食べてる10分ちょっとで、日本の端から端まで行けちゃうのだ?",
+      "news_index": 3,
+      "start_sec": 619.84,
+      "end_sec": 628.03
+    },
+    {
+      "index": 130,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "要するに、同じ翼でも空気の濃さと速さで、効き方が全然変わるんだもん。",
+      "news_index": 3,
+      "start_sec": 628.18,
+      "end_sec": 633.19
+    },
+    {
+      "index": 131,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "今日のまとめ。上の空気は遠回りして追いつくんじゃなくて、先に着いちゃうもん。",
+      "news_index": 0,
+      "start_sec": 633.27,
+      "end_sec": 638.32
+    },
+    {
+      "index": 132,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "翼は角度と形で空気を下に曲げて、その分だけ浮いてるのだ!",
+      "news_index": 0,
+      "start_sec": 638.47,
+      "end_sec": 642.89
+    },
+    {
+      "index": 133,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "その締め、今日はずんだもんに譲ってあげただけだもん。",
+      "news_index": 0,
+      "start_sec": 643.04,
+      "end_sec": 646.21
+    },
+    {
+      "index": 134,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "素直に負けを認めていいのだ。",
+      "news_index": 0,
+      "start_sec": 646.36,
+      "end_sec": 648.64
+    },
+    {
+      "index": 135,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "hazukashi",
+      "text": "認めないもん! 聴いてくれてるかた、また次の雑学で会うもん。",
+      "news_index": 0,
+      "start_sec": 648.79,
+      "end_sec": 653.4
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 654.1,
+      "end_sec": 662.41
+    }
+  ],
+  "wall_time_sec": 12.57,
+  "audio_url": "/audio/zatsugaku/20260923_210424.mp3?v=1790165242"
+}

@@ -7,8 +7,8 @@
     <description>ずんだもん × めたん × つむぎが届ける、ゲーム &amp; テックニュース雑談ラジオ。朝便と夜便で毎日更新、レトロから新作まで、最新 AI 動向から業界マクロまで雑談形式でサクッと。</description>
     <language>ja</language>
     <copyright>© 2026 tabinomichi</copyright>
-    <lastBuildDate>Tue, 22 Sep 2026 17:05:37 +0900</lastBuildDate>
-    <pubDate>Mon, 21 Sep 2026 21:12:51 +0900</pubDate>
+    <lastBuildDate>Wed, 23 Sep 2026 21:07:23 +0900</lastBuildDate>
+    <pubDate>Wed, 23 Sep 2026 21:04:24 +0900</pubDate>
     <generator>build_rss_feed.py (tabinomichi radio)</generator>
     <image>
       <url>https://news.tabinomichi.jp/podcast-cover.png?v=1779005902</url>
@@ -29,6 +29,21 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>飛行機が浮くのは「上の空気が遠回りして追いつくから」ではない 〜アインシュタインも外した揚力の話〜</title>
+      <link>https://news.tabinomichi.jp/radio/20260923_210424</link>
+      <guid isPermaLink="false">tabinomichi-radio-20260923_210424</guid>
+      <pubDate>Wed, 23 Sep 2026 21:04:24 +0900</pubDate>
+      <description>教科書でよく見る「翼の上は道のりが長いから、下の空気と同時に後ろへ着こうとして速くなる」という説明を、あんこもんが崩していく回。【問い】では、ケンブリッジ大学の煙の実験で上の空気の方が先に後ろへ着いてしまうこと、紙飛行機の平らな翼や背面飛行がこの説では説明できないことを確認。【解説】では、翼が角度と形で空気の流れを曲げ、曲がった流れが上を低圧・下を高圧にすること、空気を下へ押し出す反動と圧力の差は同じ現象の裏表であること、下面より上面の方が流れを大きく曲げていること、角度を付けすぎると流れがはがれて失速することを掘り下げた。【広がり】では、アインシュタインが1916年に論文を書き、猫の背中のような翼を試してうまくいかなかった話、エフワンの逆さ翼、旅客機の翼の上に立つスポイラーの役割まで広げた。</description>
+      <content:encoded><![CDATA[教科書でよく見る「翼の上は道のりが長いから、下の空気と同時に後ろへ着こうとして速くなる」という説明を、あんこもんが崩していく回。【問い】では、ケンブリッジ大学の煙の実験で上の空気の方が先に後ろへ着いてしまうこと、紙飛行機の平らな翼や背面飛行がこの説では説明できないことを確認。【解説】では、翼が角度と形で空気の流れを曲げ、曲がった流れが上を低圧・下を高圧にすること、空気を下へ押し出す反動と圧力の差は同じ現象の裏表であること、下面より上面の方が流れを大きく曲げていること、角度を付けすぎると流れがはがれて失速することを掘り下げた。【広がり】では、アインシュタインが1916年に論文を書き、猫の背中のような翼を試してうまくいかなかった話、エフワンの逆さ翼、旅客機の翼の上に立つスポイラーの役割まで広げた。]]></content:encoded>
+      <enclosure url="https://news.tabinomichi.jp/audio/zatsugaku/20260923_210424.mp3?v=1790165242" length="10599487" type="audio/mpeg"/>
+      <itunes:title>飛行機が浮くのは「上の空気が遠回りして追いつくから」ではない 〜アインシュタインも外した揚力の話〜</itunes:title>
+      <itunes:summary>教科書でよく見る「翼の上は道のりが長いから、下の空気と同時に後ろへ着こうとして速くなる」という説明を、あんこもんが崩していく回。【問い】では、ケンブリッジ大学の煙の実験で上の空気の方が先に後ろへ着いてしまうこと、紙飛行機の平らな翼や背面飛行がこの説では説明できないことを確認。【解説】では、翼が角度と形で空気の流れを曲げ、曲がった流れが上を低圧・下を高圧にすること、空気を下へ押し出す反動と圧力の差は同じ現象の裏表であること、下面より上面の方が流れを大きく曲げていること、角度を付けすぎると流れがはがれて失速することを掘り下げた。【広がり】では、アインシュタインが1916年に論文を書き、猫の背中のような翼を試してうまくいかなかった話、エフワンの逆さ翼、旅客機の翼の上に立つスポイラーの役割まで広げた。</itunes:summary>
+      <itunes:image href="https://news.tabinomichi.jp/images/og/20260923_210424.jpg"/>
+      <itunes:duration>11:02</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>チョコが白くなるのはカビでも古さでもない 〜同じ成分が6通りに固まる話〜</title>
       <link>https://news.tabinomichi.jp/radio/20260921_211251</link>
@@ -1511,21 +1526,6 @@
       <itunes:summary>今朝のテック朝便は4本立て。1本目は40億パラメータの小さなオープンモデルが、検索の仕事だけならトップクラスのAIに並んだうえ、費用は100分の1で済むという報告。2本目は中国のムーンショット・エーアイが公開したパラメータ2.8兆の巨大モデル、キミ・ケースリー。中身を丸ごと無料で配る戦い方の意味を噛み砕きます。3本目はメタが自分から公表した事故で、評価会社の設定ミスで外に出たAIが、よその会社の弱点を突いてしまった話。ラストはソフトバンクグループの決算会見から、後藤CFOの「AI向けデータセンターは圧倒的に供給不足」発言と、それが私たちのパソコン部品の値段にどう跳ね返るか。安さで攻める側と大きさで攻める側が同時に走る、今の業界を軽くまとめる回です。</itunes:summary>
       <itunes:image href="https://news.tabinomichi.jp/images/og/20260807_051607.jpg"/>
       <itunes:duration>7:07</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>引き継ぎの朝 〜席を立つ人と、消える住人〜</title>
-      <link>https://news.tabinomichi.jp/radio/20260806_051542</link>
-      <guid isPermaLink="false">tabinomichi-radio-20260806_051542</guid>
-      <pubDate>Thu, 06 Aug 2026 05:15:42 +0900</pubDate>
-      <description>今朝のテック朝便は五本立て。まずグーグルアシスタントが九月四日から順番に停止して、後継のジェミニに一本化される話。一度切り替わったら元には戻せない仕様で、家の音声操作を任せてるかたは要注意。二本目はメタが出したプログラムを書くAI「ミューズ・コード」、途中で落ちても止まった場所から再開できる設計がポイント。三本目はグーグルのAI部門で創業者と長年の重鎮が同じ日に役割を降りた話、二十七年在籍した人は新会社を立ち上げるらしい。四本目はチャットジーピーティーの音声機能が聞きながら話せる作りになって、会話の順番待ちが消えた話。最後はシャープの新しいスマホ、明るさ約二倍と丈夫さで実用だけ盛ってきた一台を紹介したよ。</description>
-      <content:encoded><![CDATA[今朝のテック朝便は五本立て。まずグーグルアシスタントが九月四日から順番に停止して、後継のジェミニに一本化される話。一度切り替わったら元には戻せない仕様で、家の音声操作を任せてるかたは要注意。二本目はメタが出したプログラムを書くAI「ミューズ・コード」、途中で落ちても止まった場所から再開できる設計がポイント。三本目はグーグルのAI部門で創業者と長年の重鎮が同じ日に役割を降りた話、二十七年在籍した人は新会社を立ち上げるらしい。四本目はチャットジーピーティーの音声機能が聞きながら話せる作りになって、会話の順番待ちが消えた話。最後はシャープの新しいスマホ、明るさ約二倍と丈夫さで実用だけ盛ってきた一台を紹介したよ。]]></content:encoded>
-      <enclosure url="https://news.tabinomichi.jp/audio/ai/20260806_051542.mp3?v=1785961562" length="6912252" type="audio/mpeg"/>
-      <itunes:title>引き継ぎの朝 〜席を立つ人と、消える住人〜</itunes:title>
-      <itunes:summary>今朝のテック朝便は五本立て。まずグーグルアシスタントが九月四日から順番に停止して、後継のジェミニに一本化される話。一度切り替わったら元には戻せない仕様で、家の音声操作を任せてるかたは要注意。二本目はメタが出したプログラムを書くAI「ミューズ・コード」、途中で落ちても止まった場所から再開できる設計がポイント。三本目はグーグルのAI部門で創業者と長年の重鎮が同じ日に役割を降りた話、二十七年在籍した人は新会社を立ち上げるらしい。四本目はチャットジーピーティーの音声機能が聞きながら話せる作りになって、会話の順番待ちが消えた話。最後はシャープの新しいスマホ、明るさ約二倍と丈夫さで実用だけ盛ってきた一台を紹介したよ。</itunes:summary>
-      <itunes:image href="https://news.tabinomichi.jp/images/og/20260806_051542.jpg"/>
-      <itunes:duration>7:11</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
