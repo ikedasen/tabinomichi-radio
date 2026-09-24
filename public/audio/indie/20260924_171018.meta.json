@@ -1,0 +1,806 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-09-24T17:10:18+09:00",
+  "title": "義務の国の向日葵 〜2005年、少女たちに科された罰〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 360.37,
+  "script_hash": "sha256:a49ca9d229da9424bafa4fe72f778223e913bdb04efda295b824490f057d033f",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 6.34
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "旅の道ラジオ、ボク、ずんだもんなのだ！ 今回はレトロゲーム回なのだー！",
+      "news_index": 0,
+      "start_sec": 6.34,
+      "end_sec": 11.21
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "またまた、あーしが担当するっすよー！ 今回のテーマは2005年のノベルゲー『車輪の国、向日葵の少女』っす！",
+      "news_index": 0,
+      "start_sec": 11.36,
+      "end_sec": 18.8
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "車輪の国って、自転車で日本一周する話なのだ？",
+      "news_index": 0,
+      "start_sec": 18.95,
+      "end_sec": 22.75
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "先輩それガチ違うっす。 自転車、1台も出てこないっす。",
+      "news_index": 0,
+      "start_sec": 22.9,
+      "end_sec": 26.96
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "ボクの旅ゲー予想、初手で轢かれたのだ……",
+      "news_index": 0,
+      "start_sec": 27.11,
+      "end_sec": 31.23
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに、日本によく似た架空の国で罪と更生を描くシナリオゲーっす。",
+      "news_index": 0,
+      "start_sec": 31.38,
+      "end_sec": 35.98
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "発売は2005年11月25日、作ったのは「あかべぇそふとつぅ」ってブランドっす。",
+      "news_index": 1,
+      "start_sec": 36.06,
+      "end_sec": 41.88
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "2005年って、ボクが生まれる前の前くらいなのだ。 21年前じゃん。",
+      "news_index": 1,
+      "start_sec": 42.03,
+      "end_sec": 46.81
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そうっす、もう21年モノっす！ なのに今でも名前が挙がり続けてる化け物っすよ。",
+      "news_index": 1,
+      "start_sec": 46.96,
+      "end_sec": 52.3
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "化け物って言われても、どこがすごいのか全然分かんないのだ。",
+      "news_index": 1,
+      "start_sec": 52.45,
+      "end_sec": 56.31
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "「義務」って設定が全部っす。 この国では罪を犯した人に、刑務所じゃなくて特別な義務が科されるっす。",
+      "news_index": 1,
+      "start_sec": 56.46,
+      "end_sec": 62.93
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "分かったのだ、夏休みの宿題みたいなやつなのだ。",
+      "news_index": 1,
+      "start_sec": 63.08,
+      "end_sec": 66.91
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "宿題は8月31日に終わるっす。 こっちは終わりが見えないやつっす。",
+      "news_index": 1,
+      "start_sec": 67.06,
+      "end_sec": 71.85
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "えっ、終わらないのだ……重すぎなのだー。",
+      "news_index": 1,
+      "start_sec": 72.0,
+      "end_sec": 75.65
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに、罰を時間で払わされる国っす。",
+      "news_index": 1,
+      "start_sec": 75.8,
+      "end_sec": 78.7
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "で、その更生を指導する役職が「特別高等人」って呼ばれてるっす。",
+      "news_index": 1,
+      "start_sec": 78.78,
+      "end_sec": 83.81
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "特別高等人って、めちゃくちゃ偉そうな肩書きなのだ。",
+      "news_index": 1,
+      "start_sec": 83.96,
+      "end_sec": 87.64
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "実際ガチで偉いっす。 主人公の森田賢一は、その候補生っす。",
+      "news_index": 1,
+      "start_sec": 87.79,
+      "end_sec": 92.38
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "候補生ってことは、ボクで言うずんだ餅見習いなのだ。",
+      "news_index": 1,
+      "start_sec": 92.53,
+      "end_sec": 96.47
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "スケールが急に和菓子っすね。 賢一は最終試験のために、地方の町へ送り込まれるっす。",
+      "news_index": 1,
+      "start_sec": 96.62,
+      "end_sec": 102.37
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "試験って、ペーパーテストなのだ？",
+      "news_index": 1,
+      "start_sec": 102.52,
+      "end_sec": 104.9
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "そこがエグいっす。 試験内容は、義務を背負った少女たちを更生させることっす。",
+      "news_index": 1,
+      "start_sec": 105.05,
+      "end_sec": 110.11
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "人間が試験問題なのだ？ 情報量が多すぎてぐるぐるなのだ……",
+      "news_index": 1,
+      "start_sec": 110.26,
+      "end_sec": 115.53
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに、他人の人生が答案用紙になる話っす。",
+      "news_index": 1,
+      "start_sec": 115.68,
+      "end_sec": 119.26
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "少女たちの義務がまた強烈で、ひとりは「恋愛できない義務」っす。",
+      "news_index": 1,
+      "start_sec": 119.34,
+      "end_sec": 123.79
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "恋愛できない義務……つまり合コン禁止なのだ？",
+      "news_index": 1,
+      "start_sec": 123.94,
+      "end_sec": 127.14
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "合コンどころか、異性と触れちゃ駄目っす。 触った男の側も罪になるっす。",
+      "news_index": 1,
+      "start_sec": 127.29,
+      "end_sec": 132.05
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "うわ、ボク握手会もできないのだ……",
+      "news_index": 1,
+      "start_sec": 132.2,
+      "end_sec": 134.45
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "その義務を背負ってるのが、メインヒロインの日向夏咲っす。",
+      "news_index": 1,
+      "start_sec": 134.6,
+      "end_sec": 138.17
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "名前が夏っぽくて、なんか温度を感じるのだ。",
+      "news_index": 1,
+      "start_sec": 138.32,
+      "end_sec": 141.51
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "他にも「一日を12時間しか過ごせない義務」の子と、「大人になってはいけない義務」の子がいるっす。",
+      "news_index": 1,
+      "start_sec": 141.66,
+      "end_sec": 148.07
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "一日12時間って、ボクの昼寝と同じ長さじゃん。",
+      "news_index": 1,
+      "start_sec": 148.22,
+      "end_sec": 151.74
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "先輩の昼寝が異常なだけっす。 12時間経ったら強制的に眠らされるっす。",
+      "news_index": 1,
+      "start_sec": 151.89,
+      "end_sec": 156.84
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "つむぎ、それ実質ボクの生活なのだ。 ボク、才能あるのだ？",
+      "news_index": 1,
+      "start_sec": 156.99,
+      "end_sec": 161.78
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "shirake",
+      "text": "……先輩。",
+      "news_index": 1,
+      "start_sec": 161.93,
+      "end_sec": 162.75
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "な、なんでもないのだ……ごめんなさいなのだ……",
+      "news_index": 1,
+      "start_sec": 162.9,
+      "end_sec": 166.84
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "コホン。 要するに、少女ごとに違う理不尽が最初から設置されてるっす。",
+      "news_index": 1,
+      "start_sec": 166.99,
+      "end_sec": 171.7
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そしてここからガチで語らせてもらうっすけど、シナリオが「るーすぼーい」ってライターっす！",
+      "news_index": 1,
+      "start_sec": 171.78,
+      "end_sec": 177.04
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "るーすぼーいさんは、きっと夜型生活なのだ。",
+      "news_index": 1,
+      "start_sec": 177.19,
+      "end_sec": 180.32
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "生活リズムの話はしてないっす。 この作品が、そのかたの商業デビュー作っす。",
+      "news_index": 1,
+      "start_sec": 180.47,
+      "end_sec": 185.72
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "デビュー作でいきなり伝説なのだ？ 一発目からホームランじゃん。",
+      "news_index": 1,
+      "start_sec": 185.87,
+      "end_sec": 190.5
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "それなっす。 のちに『G線上の魔王』を書いて、そっちも大ヒットしてるっす。",
+      "news_index": 1,
+      "start_sec": 190.65,
+      "end_sec": 195.99
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ジー線上って、音ゲーなのだ？",
+      "news_index": 1,
+      "start_sec": 196.14,
+      "end_sec": 198.44
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "音ゲーじゃないっす、2008年に出たノベルゲーっす。 その年の美少女ゲームアワードで大賞を獲ってるっす。",
+      "news_index": 1,
+      "start_sec": 198.59,
+      "end_sec": 204.94
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "つまり、当てる人は何回でも当てるのだ！",
+      "news_index": 1,
+      "start_sec": 205.09,
+      "end_sec": 207.9
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "しかもこのかた、いまは漫画『無能なナナ』の原作もやってるっす。",
+      "news_index": 1,
+      "start_sec": 208.05,
+      "end_sec": 212.35
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "えっ、それ知ってるのだ！ ボクの世代まで届いてるじゃん。",
+      "news_index": 1,
+      "start_sec": 212.5,
+      "end_sec": 216.51
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "そこが面白いとこで、21年前のノベルゲーと今の漫画が同じ脳味噌から出てるっす。",
+      "news_index": 1,
+      "start_sec": 216.66,
+      "end_sec": 222.16
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "要するに、どんでん返しの人なのだね。",
+      "news_index": 1,
+      "start_sec": 222.31,
+      "end_sec": 224.97
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "あーし、PSP版で3周してるっす！ 3周目でやっと台詞の意味が全部つながったっす。",
+      "news_index": 1,
+      "start_sec": 225.12,
+      "end_sec": 230.96
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "3周って、途中で飽きないのだ？",
+      "news_index": 1,
+      "start_sec": 231.11,
+      "end_sec": 233.6
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "1周目と2周目で見えてる景色が別物になるタイプっす。 それ以上は言えないっす。",
+      "news_index": 1,
+      "start_sec": 233.75,
+      "end_sec": 238.61
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "つむぎ、いま急に口が固くなったのだ。",
+      "news_index": 1,
+      "start_sec": 238.76,
+      "end_sec": 241.96
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "ネタバレしたら、あーしオタクくんに刺されるっす。 ここは黙秘っす。",
+      "news_index": 1,
+      "start_sec": 242.11,
+      "end_sec": 246.32
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "hisohiso",
+      "text": "リスナーの皆、つむぎが黙る所が一番おいしい所なのだ。",
+      "news_index": 1,
+      "start_sec": 246.47,
+      "end_sec": 250.68
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "先輩、それ実質ネタバレっす。",
+      "news_index": 1,
+      "start_sec": 250.83,
+      "end_sec": 253.12
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "この作品、家庭用にもガッツリ移植されてるっす。 エックスボックス360版が2010年10月28日っす。",
+      "news_index": 1,
+      "start_sec": 253.2,
+      "end_sec": 260.76
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "5年越しの移植なのだ。 気が長いのだー。",
+      "news_index": 1,
+      "start_sec": 260.91,
+      "end_sec": 263.69
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そこからPSP版が2012年2月23日、プレステ3版が2013年2月28日っす。",
+      "news_index": 1,
+      "start_sec": 263.84,
+      "end_sec": 270.89
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "移植のたびに2月なのだ。 2月が好きなのだね。",
+      "news_index": 1,
+      "start_sec": 271.04,
+      "end_sec": 274.23
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "偶然っす。 あと2007年1月26日に、ファンディスクの『車輪の国、悠久の少年少女』も出てるっす。",
+      "news_index": 1,
+      "start_sec": 274.38,
+      "end_sec": 282.13
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "続きが読めるのだ！ ボク、そういうおまけ大好きなのだー。",
+      "news_index": 1,
+      "start_sec": 282.28,
+      "end_sec": 286.49
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "分かるオタクくんは同志っすよね！？ 本編のあとにこれ来ると効くっす。",
+      "news_index": 1,
+      "start_sec": 286.64,
+      "end_sec": 290.7
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ところでこれ、当時いくらしたのだ？",
+      "news_index": 1,
+      "start_sec": 290.85,
+      "end_sec": 293.27
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kangae",
+      "text": "PC版は8,800円くらいの価格帯っす。 あーしの当時のお年玉的にはガチで無理だったやつっす。",
+      "news_index": 1,
+      "start_sec": 293.42,
+      "end_sec": 300.11
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "1万円近いのだ。 ずんだ餅が何個買えると思ってるのだー！",
+      "news_index": 1,
+      "start_sec": 300.26,
+      "end_sec": 304.35
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "また和菓子換算っすか。 そこ通貨にしないでほしいっす。",
+      "news_index": 1,
+      "start_sec": 304.5,
+      "end_sec": 307.84
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "評価としては、泣きゲー・シナリオゲーの代表格として今でも名前が挙がり続けてるっす。",
+      "news_index": 1,
+      "start_sec": 307.92,
+      "end_sec": 313.39
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "21年経っても現役って、けっこう異常なのだ。",
+      "news_index": 1,
+      "start_sec": 313.54,
+      "end_sec": 317.11
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "ノベルゲーの「話がうまい」ってなんなのか、その答え合わせみたいな作品っす。",
+      "news_index": 1,
+      "start_sec": 317.26,
+      "end_sec": 322.18
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ボク、これはやってみたいのだー。 義務の国、めちゃくちゃ気になるのだ。",
+      "news_index": 1,
+      "start_sec": 322.33,
+      "end_sec": 327.26
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "先に言っとくっす。 前情報を入れないで遊ぶのが、この作品は一番強いっす。",
+      "news_index": 1,
+      "start_sec": 327.41,
+      "end_sec": 332.68
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "分かったのだ。 ……で、結局自転車は出てくるのだ？",
+      "news_index": 1,
+      "start_sec": 332.83,
+      "end_sec": 337.05
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "shirake",
+      "text": "……出ないっす。",
+      "news_index": 1,
+      "start_sec": 337.2,
+      "end_sec": 338.06
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "……ごめんなさいなのだ。",
+      "news_index": 1,
+      "start_sec": 338.21,
+      "end_sec": 339.44
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "というわけで『車輪の国、向日葵の少女』回、以上っす！ オタクくんも一回この義務、背負ってみてほしいっす。",
+      "news_index": 1,
+      "start_sec": 339.59,
+      "end_sec": 347.14
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "また旅の道ラジオで会いましょうなのだー！",
+      "news_index": 1,
+      "start_sec": 347.29,
+      "end_sec": 350.19
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "会いましょうっす！",
+      "news_index": 1,
+      "start_sec": 350.34,
+      "end_sec": 351.37
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 352.07,
+      "end_sec": 360.37
+    }
+  ],
+  "wall_time_sec": 15.91,
+  "audio_url": "/audio/indie/20260924_171018.mp3?v=1790280222"
+}
