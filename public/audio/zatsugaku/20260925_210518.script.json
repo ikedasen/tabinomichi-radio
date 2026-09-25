@@ -1,0 +1,806 @@
+{
+  "profile": "zatsugaku",
+  "generated_at": "2026-09-25T12:05:18.998448+00:00",
+  "title": "缶コーヒーがスチール缶なのは「丈夫だから」だけではない 〜缶を叩いて安全を確かめる話〜",
+  "segments": [
+    {
+      "speaker": "ankomon",
+      "tone": "mic",
+      "text": "旅の道ラジオ、雑学チャンネル。あんこもんだもん。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ずんだもんなのだ! 今日はどんなネタを持ってきたのだ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "今日は自販機の話だもん。ずんだもん、缶コーヒーってアルミ缶とスチール缶、どっちが多いと思う?",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "うーん、磁石にくっつく方だから、スチール缶なのだ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "正解だもん。特にミルク入りのコーヒーは、長いことスチール缶ばっかりだったんだもん。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "逆にコーラとかビールは、ぺこぺこのアルミ缶なのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "今日のお題はそこだもん。どうして缶コーヒーはスチール缶なのか。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "そんなの簡単なのだ。鉄の方が丈夫だから、温めて売っても平気なのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "半分は合ってるけど、それが主役じゃないもん。今日こそずんだもんに負けを認めさせるんだもん。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "望むところなのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "まず、みんなが思いつきそうな答えを並べてみるもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "鉄が丈夫、温めても平気、あとは、アルミの方が高いからなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "値段の話だけなら、コーラだってスチールでいいはずでしょ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "たしかに、コーラだけ贅沢する理由はないのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "それに丈夫さの話なら、振り回される炭酸の缶の方がよっぽど心配じゃない?",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "言われてみれば、振ったら中でガスが暴れるのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "なのにそっちは、薄いアルミで平気なんだもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "アルミ缶って、どれくらい薄いのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "一番薄い胴のところで、約0.1ミリだもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "0.1ミリ!? 枝豆の薄皮とたいして変わらないのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "そんなに薄くても、炭酸の缶はそう簡単には潰れないもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、薄いアルミで平気な飲み物と、ダメな飲み物があるってことなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "いいところに気づいたもん。その分かれ目が、缶の中の「気圧」なんだもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "気圧って、天気予報で聞くやつなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "そう、空気が押す力のことだもん。缶の中の空気が、外より強く押してるか、弱く押してるかだもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "缶の中にも天気があるのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "shirake",
+      "text": "天気はないもん。でも押す力の強さは、飲み物によって全然違うんだもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "中の方が強いのを「陽圧」、外の方が強いのを「陰圧」って呼ぶもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "ようあつ、いんあつ。ボクには難しすぎるのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "nagomi",
+      "text": "中からパンパンに押してるのが陽圧、外から押し潰されそうなのが陰圧、それだけだもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "膨らんだ風船と、しぼみかけの風船の違いみたいなものなのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "要するに、炭酸の缶は陽圧、缶コーヒーは陰圧だもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、缶コーヒーの中って、潰れそうになってるのだ!?",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "そうだもん。しかもそれは、わざとなんだもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "わざと潰れそうにするなんて、意味が分からないのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "先に答えを言うもん。缶コーヒーがスチールなのは、缶を叩いて中の異常を調べられる、っていうのが大きな理由なんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "叩く!? 缶を叩いて何が分かるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "音だもん。この検査を「打検」っていうんだもん。",
+      "news_index": 2,
+      "reading": "おとだもん。このけんさを、だけんっていうんだもん。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "だけん? それ何なのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "缶の底やフタを叩いて、音と手に伝わる振動で、いい缶と悪い缶を聞き分けるんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "スイカを叩いて選ぶのと似てるのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "nagomi",
+      "text": "近いもん。缶の場合は、開けずに全部の缶を調べられるのがすごいところだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも、なんで音で分かるのだ? 中身はどれも同じコーヒーなのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "そこで陰圧が効いてくるんだもん。順番に説明するもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "まず、缶の飲み物で一番怖いのは、ボツリヌス菌っていう菌だもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボツリヌス菌? 名前からして強そうなのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "空気が無いところで増えて、とても強い毒を作る菌だもん。密閉された缶の中は、この菌にとって居心地がいいんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "缶の中は空気が無いから安全、じゃなかったのだ!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "空気が無いと困る菌は多いけど、ボツリヌス菌には逆に好都合なんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあ、どんな飲み物でも危ないのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "そうでもないもん。酸っぱい食べ物だと、この菌は増えにくいんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "目安は、酸っぱさの目盛りのピーエイチが4.6より上で、水気が多いもの。国の資料でも、そういう食品は特に注意がいるとされてるもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ピーエイチ? 酸っぱさに目盛りがあるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "nagomi",
+      "text": "数字が小さいほど酸っぱいんだもん。レモン汁はずっと小さい側で、ミルク入りのコーヒーは酸っぱくない側だもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ミルク入りコーヒーは、その菌が好きな側なのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "そういうことだもん。だから缶コーヒーは、詰めたあとに高温でしっかり殺菌されてるんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "お鍋でぐつぐつ煮れば大丈夫なのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "それが足りないんだもん。この菌は「芽胞」っていう殻にこもると、熱にすごく強くなるんだもん。",
+      "news_index": 2,
+      "reading": "それがたりないんだもん。このきんは、がほうっていうからにこもると、ねつにすごくつよくなるんだもん。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "がほう? 殻にこもるって、どういうことなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "nagomi",
+      "text": "植物の種みたいな休眠モードだもん。普通にお湯で煮るくらいじゃ、びくともしないんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "寝てる方が強いなんて、ずるいのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "それを倒す目安が、120度で4分なんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "120度!? お湯は100度で沸騰しちゃうのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "だから圧力をかけた釜で熱するんだもん。これを「レトルト殺菌」っていうもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "レトルトカレーのレトルトなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "同じ言葉だもん。どっちも、圧力をかけた高温で殺菌してるんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "ここからが本題だもん。殺菌はしっかりやる、でも万が一失敗した缶が1本でも出たら困るでしょ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "1本ずつ開けて調べるわけにもいかないのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "そこで陰圧だもん。缶の中を、外より気圧が低い状態にしておくんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "どうやって気圧を下げるのだ? 掃除機で吸うのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "熱い中身を詰めてすぐフタをすると、冷えたときに中が縮むもん。すると中の気圧が下がるんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "熱いお茶を入れたペットボトルが、冷めるとぺこっとへこむやつなのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "まさにそれだもん。缶コーヒーの中は、ずっとあの「へこみたい」状態なんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "じゃあ、缶は外の空気に押されっぱなしなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "空気って、1平方センチあたり約1キロの力で押してるもん。中の気圧が低いと、その差を缶の壁が支えないといけないんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "指先くらいの広さに1キロ!? 全身だったらボクはぺちゃんこなのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "shirake",
+      "text": "ずんだもんは中からも押し返してるから平気だもん。缶コーヒーは中が弱いから、壁が頑張るしかないんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "0.1ミリのアルミだと、どうなるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "外から押されて、へこんじゃうもん。だから硬いスチールの出番なんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "最初にボクが言った「丈夫だから」も、ちょっとは合ってたのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "ちょっとだけだもん。大事なのは、なんでわざわざ陰圧にするかの方だもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "そうなのだ。へこみたい缶にする理由が、まだ分からないのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "フタが中に引っ張られてると、太鼓の皮をピンと張ったみたいになるもん。叩くと、決まった高さの音が鳴るんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "缶が太鼓になるのだ。ポンポン叩いて演奏会なのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "shirake",
+      "text": "演奏会じゃないもん。もし中で菌が増えたら、どうなると思う?",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "菌が増えたら、ガスとか出すのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "ガスを出す菌も多いもん。ガスが出ると中の気圧が上がって、ピンと張ってたフタがゆるむから音が変わるんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "マジかよ! 音の高さで、中の気圧が分かるのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "フタの閉まりが甘くて空気が入った缶も、陰圧が抜けて音が変わるもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ陰圧って、中で何か起きたら分かる「見張り番」なのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "hazukashi",
+      "text": "それ、あんこもんが言おうとしてた決めゼリフだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "ただし音で分かるのは、中の気圧の変化やフタの閉まりの甘さだもん。打検だけで安全が全部保証されるわけじゃなくて、殺菌と組み合わせた守りの1つなんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "昔は機械じゃなくて、人が叩いてたのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "先に小さな球がついた「打検棒」で、人が叩いてたもん。音と、手に伝わる振動で聞き分けるんだもん。",
+      "news_index": 2,
+      "reading": "さきにちいさなたまがついた、だけんぼうで、ひとがたたいてたもん。おとと、てにつたわるしんどうできき わけるんだもん。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "全部の缶を人の手で!? 耳も手もへとへとになるのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "今でも打検を請け負う会社があって、ベテランは同じ高さの音をずっと出し続けられるそうだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "叩く方の音がぶれたら、聞き比べられないのだ。職人技なのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "nagomi",
+      "text": "工場では、叩いた音の高さを測って自動で見分ける検査機も使われてるもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でもそれ、アルミ缶じゃダメなのだ? 叩けば音は出るのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "アルミ缶は薄すぎて、中を陰圧にすると耐えられないもん。それに底が丸いドーム形で、叩いて調べるのに向いてないんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "スチール缶の業界団体も、中を真空にして打検できる飲料缶はスチール缶だけ、って説明してるもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "スチール缶は、叩かれるために選ばれてたのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "そういうことだもん。丈夫さは、叩ける状態を保つための条件だったんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも最近、ミルク入りなのにアルミ缶の缶コーヒーも見かけるのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "よく見てるもん。実は業界団体が、30年くらい、ミルク入りの缶飲料にアルミ缶を使うのを控えるよう呼びかけてたんだもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "30年も! 法律じゃなくて、みんなで我慢してたのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "業界の申し合わせだもん。それが2014年の8月に変わって、届け出をすればアルミ缶が使えるようになったんだもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "じゃあ叩く検査はやめて、菌のことは気にしなくなったのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "そんなわけないもん。アルミ缶の方は、逆に中を陽圧にしてるんだもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "えっ、陰圧じゃなくて陽圧? 真逆なのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "窒素みたいな、ほかの物とくっつきにくいガスを入れて、中から押して薄い缶を支えるもん。炭酸飲料と同じ作戦だもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でもそれだと、中で菌がガスを出しても、もともとパンパンなのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "そこなんだもん。缶詰の業界団体のガイドラインにも、陽圧の缶は形が変わらないから、外から見て判断しにくいって書いてあるもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "叩いても見ても分からないなんて、困るのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "だからそのガイドラインで、打検とは別の管理をすることになってるもん。「初期流動管理」っていうんだもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "しょきりゅうどう? それ何なのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "nagomi",
+      "text": "言葉としては、作り始めたばかりの時期を特に念入りに見張る、っていう意味だもん。叩けないぶん、工場の側の見張りを厚くしてるんだもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "スチールかアルミかで、安全の守り方がまるっきり違うのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "そうだもん。どっちも殺菌と工場の管理が土台で、スチールはそこに叩く検査を足せる、アルミは別の見張りを足してる、って違いなんだもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "陰圧で安全を確かめるのって、缶のほかにもあるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "ジャムの瓶のフタ、真ん中がちょっとへこんでるの見たことない?",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "あるのだ! 開けるとポコッて鳴るやつなのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "あれも中が陰圧で、フタの真ん中が引っ張られてへこんでるんだもん。一度開けたり空気が入ったりすると、へこみが戻るもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "缶コーヒーの打検と、同じ考え方なのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "叩く代わりに、へこみを目で見る打検みたいなものだもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "ボクの身の回りにも、ずっと気圧の見張り番がいたのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "今日のまとめだもん。缶コーヒーがスチールなのは、ただ丈夫だからじゃなくて、陰圧にして叩いて調べられるのが大きな理由だったもん。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "丈夫さは半分正解だったから、今日は引き分けなのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "半分は負けってことだもん。次こそ完全に認めさせるもん。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "聴いてくれてるかた、自販機で缶コーヒーを買ったら、磁石にくっつくか試してみてほしいのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "mic",
+      "text": "旅の道ラジオ、雑学チャンネル。また次のお題で会うもん。",
+      "news_index": 0
+    }
+  ],
+  "program_description": "ミルク入りの缶コーヒーはなぜ長くスチール缶だったのか。問いのパートでは、値段や丈夫さでは炭酸飲料のアルミ缶と説明がつかないことから、分かれ目が缶の中の気圧、陽圧と陰圧にあることを確かめた。解説では、酸っぱくない飲み物で増えるボツリヌス菌と、120度で4分を目安にするレトルト殺菌、熱い中身を詰めて冷やすことで缶の中を陰圧にする仕組み、そしてフタを叩いた音の高さで異常を見つける打検と打検棒の職人技を紹介し、薄いアルミ缶では陰圧に耐えられないことを説明した。広がりでは、2014年に業界の申し合わせが変わり、窒素で陽圧にしたアルミ缶が使えるようになったことと、叩けない代わりの管理、ジャムの瓶のフタのへこみも同じ陰圧の見張り番であることを話した。",
+  "featured_game": {
+    "title": "缶コーヒーがスチール缶なのは「丈夫だから」だけではない",
+    "topic": "缶コーヒーがスチール缶なのは丈夫さより、陰圧にして叩いた音で菌の増殖や漏れを見つける打検のためで、アルミ缶は窒素で陽圧にして別管理する",
+    "category": "seikatsu",
+    "dedup_verified": true,
+    "image_rel": "/images/topics/zatsugaku_20260925_210518_chars.webp",
+    "hero_rel": "/images/topics/zatsugaku_20260925_210518.webp",
+    "thumbnail_ready": true
+  }
+}

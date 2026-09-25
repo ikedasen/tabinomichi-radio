@@ -7,8 +7,8 @@
     <description>ずんだもん × めたん × つむぎが届ける、ゲーム &amp; テックニュース雑談ラジオ。朝便と夜便で毎日更新、レトロから新作まで、最新 AI 動向から業界マクロまで雑談形式でサクッと。</description>
     <language>ja</language>
     <copyright>© 2026 tabinomichi</copyright>
-    <lastBuildDate>Fri, 25 Sep 2026 17:03:57 +0900</lastBuildDate>
-    <pubDate>Fri, 25 Sep 2026 05:02:29 +0900</pubDate>
+    <lastBuildDate>Fri, 25 Sep 2026 21:11:02 +0900</lastBuildDate>
+    <pubDate>Fri, 25 Sep 2026 21:05:18 +0900</pubDate>
     <generator>build_rss_feed.py (tabinomichi radio)</generator>
     <image>
       <url>https://news.tabinomichi.jp/podcast-cover.png?v=1779005902</url>
@@ -29,6 +29,21 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>缶コーヒーがスチール缶なのは「丈夫だから」だけではない 〜缶を叩いて安全を確かめる話〜</title>
+      <link>https://news.tabinomichi.jp/radio/20260925_210518</link>
+      <guid isPermaLink="false">tabinomichi-radio-20260925_210518</guid>
+      <pubDate>Fri, 25 Sep 2026 21:05:18 +0900</pubDate>
+      <description>ミルク入りの缶コーヒーはなぜ長くスチール缶だったのか。問いのパートでは、値段や丈夫さでは炭酸飲料のアルミ缶と説明がつかないことから、分かれ目が缶の中の気圧、陽圧と陰圧にあることを確かめた。解説では、酸っぱくない飲み物で増えるボツリヌス菌と、120度で4分を目安にするレトルト殺菌、熱い中身を詰めて冷やすことで缶の中を陰圧にする仕組み、そしてフタを叩いた音の高さで異常を見つける打検と打検棒の職人技を紹介し、薄いアルミ缶では陰圧に耐えられないことを説明した。広がりでは、2014年に業界の申し合わせが変わり、窒素で陽圧にしたアルミ缶が使えるようになったことと、叩けない代わりの管理、ジャムの瓶のフタのへこみも同じ陰圧の見張り番であることを話した。</description>
+      <content:encoded><![CDATA[ミルク入りの缶コーヒーはなぜ長くスチール缶だったのか。問いのパートでは、値段や丈夫さでは炭酸飲料のアルミ缶と説明がつかないことから、分かれ目が缶の中の気圧、陽圧と陰圧にあることを確かめた。解説では、酸っぱくない飲み物で増えるボツリヌス菌と、120度で4分を目安にするレトルト殺菌、熱い中身を詰めて冷やすことで缶の中を陰圧にする仕組み、そしてフタを叩いた音の高さで異常を見つける打検と打検棒の職人技を紹介し、薄いアルミ缶では陰圧に耐えられないことを説明した。広がりでは、2014年に業界の申し合わせが変わり、窒素で陽圧にしたアルミ缶が使えるようになったことと、叩けない代わりの管理、ジャムの瓶のフタのへこみも同じ陰圧の見張り番であることを話した。]]></content:encoded>
+      <enclosure url="https://news.tabinomichi.jp/audio/zatsugaku/20260925_210518.mp3?v=1790338260" length="10417675" type="audio/mpeg"/>
+      <itunes:title>缶コーヒーがスチール缶なのは「丈夫だから」だけではない 〜缶を叩いて安全を確かめる話〜</itunes:title>
+      <itunes:summary>ミルク入りの缶コーヒーはなぜ長くスチール缶だったのか。問いのパートでは、値段や丈夫さでは炭酸飲料のアルミ缶と説明がつかないことから、分かれ目が缶の中の気圧、陽圧と陰圧にあることを確かめた。解説では、酸っぱくない飲み物で増えるボツリヌス菌と、120度で4分を目安にするレトルト殺菌、熱い中身を詰めて冷やすことで缶の中を陰圧にする仕組み、そしてフタを叩いた音の高さで異常を見つける打検と打検棒の職人技を紹介し、薄いアルミ缶では陰圧に耐えられないことを説明した。広がりでは、2014年に業界の申し合わせが変わり、窒素で陽圧にしたアルミ缶が使えるようになったことと、叩けない代わりの管理、ジャムの瓶のフタのへこみも同じ陰圧の見張り番であることを話した。</itunes:summary>
+      <itunes:image href="https://news.tabinomichi.jp/images/og/20260925_210518.jpg"/>
+      <itunes:duration>10:51</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>声でこなす朝 〜しゃべるだけの事務係と、AIが見つけた謎の酵素〜</title>
       <link>https://news.tabinomichi.jp/radio/20260924_171323</link>
@@ -1511,21 +1526,6 @@
       <itunes:summary>今朝のテック朝便は四本立て。まずグーグルのジェミニが月間10億人を突破して、チャットジーピーティーと肩を並べた話。人数集めから稼ぎ方の勝負へ移る転換点を確認します。二本目はメタが公開した『ミューズ・グリマー』、300億パラメータのAIを圧縮して、手元のパソコンで動くようにしたモデルの話。三本目は研究チームがAIの隠れた下書きを外から読み出してしまった件で、公開された会話からパスワードが数十件見つかり、下書きには『マリネ』のような妙な単語が並んでいたという不気味な報告。最後は中国のユニツリーが上海の市場に上場する件で、人型ロボットが夢から決算書に載る商品へ変わった瞬間を追いかけます。</itunes:summary>
       <itunes:image href="https://news.tabinomichi.jp/images/og/20260812_051646.jpg"/>
       <itunes:duration>7:13</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>そろう規格と、離れる値札 〜AIに吸い寄せられる朝〜</title>
-      <link>https://news.tabinomichi.jp/radio/20260811_051755</link>
-      <guid isPermaLink="false">tabinomichi-radio-20260811_051755</guid>
-      <pubDate>Tue, 11 Aug 2026 05:17:55 +0900</pubDate>
-      <description>今朝のテック朝便は四本立て。一本目はオープンエーアイが公開した、プログラムの穴を見つけることに特化したセキュリティ用AI『ジーピーティー5.6サイバー』。誰でも使えるわけじゃなく、身元確認を通った会社限定という配り方の話。二本目は八月六日に出たAI拡張機能の共通規格『エージェント・プラグインズ』で、普段は競争してるアマゾン・マイクロソフト・オープンエーアイたちが同じ形にそろえた件。三本目はグーグルの『ディフュージョン・ジェマ』、文章を一語ずつじゃなく絵を描くみたいに一気に磨き上げて最大四倍速にした実験モデル。ラストはエーエムディーの決算で、全体は五割増なのにゲーム部門だけ三割減という、AIに部品とお金が吸い寄せられてる構造の話をしました。</description>
-      <content:encoded><![CDATA[今朝のテック朝便は四本立て。一本目はオープンエーアイが公開した、プログラムの穴を見つけることに特化したセキュリティ用AI『ジーピーティー5.6サイバー』。誰でも使えるわけじゃなく、身元確認を通った会社限定という配り方の話。二本目は八月六日に出たAI拡張機能の共通規格『エージェント・プラグインズ』で、普段は競争してるアマゾン・マイクロソフト・オープンエーアイたちが同じ形にそろえた件。三本目はグーグルの『ディフュージョン・ジェマ』、文章を一語ずつじゃなく絵を描くみたいに一気に磨き上げて最大四倍速にした実験モデル。ラストはエーエムディーの決算で、全体は五割増なのにゲーム部門だけ三割減という、AIに部品とお金が吸い寄せられてる構造の話をしました。]]></content:encoded>
-      <enclosure url="https://news.tabinomichi.jp/audio/ai/20260811_051755.mp3?v=1786393885" length="7367827" type="audio/mpeg"/>
-      <itunes:title>そろう規格と、離れる値札 〜AIに吸い寄せられる朝〜</itunes:title>
-      <itunes:summary>今朝のテック朝便は四本立て。一本目はオープンエーアイが公開した、プログラムの穴を見つけることに特化したセキュリティ用AI『ジーピーティー5.6サイバー』。誰でも使えるわけじゃなく、身元確認を通った会社限定という配り方の話。二本目は八月六日に出たAI拡張機能の共通規格『エージェント・プラグインズ』で、普段は競争してるアマゾン・マイクロソフト・オープンエーアイたちが同じ形にそろえた件。三本目はグーグルの『ディフュージョン・ジェマ』、文章を一語ずつじゃなく絵を描くみたいに一気に磨き上げて最大四倍速にした実験モデル。ラストはエーエムディーの決算で、全体は五割増なのにゲーム部門だけ三割減という、AIに部品とお金が吸い寄せられてる構造の話をしました。</itunes:summary>
-      <itunes:image href="https://news.tabinomichi.jp/images/og/20260811_051755.jpg"/>
-      <itunes:duration>7:40</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
