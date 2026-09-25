@@ -1,0 +1,916 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-09-25T17:07:51+09:00",
+  "title": "肩代わりの朝 〜電話をかけるAIと、宇宙へ上がるサーバー〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 475.76,
+  "script_hash": "sha256:04ea595b6addc0e44049019fff80586f51a66450288eba32257201d56b624dbe",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 5.56
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便。今朝もテックの話題をサクッと並べていくわ、四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 5.56,
+      "end_sec": 12.09
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだ! 通勤中のみんな、おはようなのだー!",
+      "news_index": 0,
+      "start_sec": 12.24,
+      "end_sec": 16.44
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今朝は五本。電話をかけるAI、顔を持ったAI、それに宇宙へ打ち上がるサーバーまであるわ。",
+      "news_index": 0,
+      "start_sec": 16.59,
+      "end_sec": 22.9
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "うちゅう!? サーバーがロケットに乗るってこと!?",
+      "news_index": 0,
+      "start_sec": 23.05,
+      "end_sec": 26.14
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "それはラストのお楽しみ。先に地上の話から片付けるわよ。",
+      "news_index": 0,
+      "start_sec": 26.29,
+      "end_sec": 30.19
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "焦らし上手なのだ! じゃあ一本目、いってみよー!",
+      "news_index": 0,
+      "start_sec": 30.34,
+      "end_sec": 33.59
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。グーグルが九月二十四日に、ジェミニが代わりに電話をかけてくれる機能の試験を始めたの。名前はコール フォー ミー。",
+      "news_index": 1,
+      "start_sec": 33.74,
+      "end_sec": 41.35
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "代わりに電話? ボクの声マネして、おばあちゃんに電話するってこと?",
+      "news_index": 1,
+      "start_sec": 41.5,
+      "end_sec": 46.35
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "なりすましはしないわよ。AIだって名乗ったうえで、お店に在庫を聞いたり、予約を入れたりするの。",
+      "news_index": 1,
+      "start_sec": 46.5,
+      "end_sec": 52.53
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、ボク電話苦手だから、それめっちゃ欲しいやつなのだ!",
+      "news_index": 1,
+      "start_sec": 52.68,
+      "end_sec": 56.48
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そういう人向けね。ホームセンターにこの工具ある?とか、レストランのテラス席を取っといて、とか。",
+      "news_index": 1,
+      "start_sec": 56.63,
+      "end_sec": 62.8
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも、音声案内の「一番を押してください」って、AIに押せるのだ?",
+      "news_index": 1,
+      "start_sec": 62.95,
+      "end_sec": 68.61
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "押せるのよ。ボタンのメニューを進むのも、保留の音楽を待つのも、全部AIが引き受けるわ。",
+      "news_index": 1,
+      "start_sec": 68.76,
+      "end_sec": 74.56
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "保留の音楽を聴かなくていいなんて、天国なのだ……。",
+      "news_index": 1,
+      "start_sec": 74.71,
+      "end_sec": 78.51
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ただ、今はアメリカのピクセル イレブンだけ。しかもジェミニの有料プランに入ってる人の、試験参加枠よ。",
+      "news_index": 1,
+      "start_sec": 78.66,
+      "end_sec": 85.54
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、日本のボクには、まだ届かないのだ!?",
+      "news_index": 1,
+      "start_sec": 85.69,
+      "end_sec": 88.79
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そうね。それに、緊急通報やお金の支払いみたいな電話は、やらせない決まりになってるわ。",
+      "news_index": 1,
+      "start_sec": 88.94,
+      "end_sec": 94.71
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "お店の人に、勝手に変なこと言われたら困るのだ?",
+      "news_index": 1,
+      "start_sec": 94.86,
+      "end_sec": 98.66
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "大丈夫、会話は文字で画面に流れて、途中でいつでも自分に代われるの。",
+      "news_index": 1,
+      "start_sec": 98.81,
+      "end_sec": 103.72
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "要するに、電話の気まずい前半戦だけ押し付けられる係ってことなのだ。",
+      "news_index": 1,
+      "start_sec": 103.87,
+      "end_sec": 109.27
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今の一言が正解。日本に来たら、電話をかける前の十分間の葛藤が消えるかもね。",
+      "news_index": 1,
+      "start_sec": 109.42,
+      "end_sec": 115.2
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目もグーグル。同じ九月二十四日に、ジェミニに顔をつける機能を、企業向けに出したの。",
+      "news_index": 2,
+      "start_sec": 115.28,
+      "end_sec": 121.15
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "顔? AIで福笑いでもするのだ?",
+      "news_index": 2,
+      "start_sec": 121.3,
+      "end_sec": 124.38
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "パーツは並べないわよ。話しながら口の動きと表情がリアルタイムで動く、アバターっていう分身の映像ね。",
+      "news_index": 2,
+      "start_sec": 124.53,
+      "end_sec": 131.25
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、ボクたちの立ち絵みたいなやつなのだ!",
+      "news_index": 2,
+      "start_sec": 131.4,
+      "end_sec": 134.21
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "近いけど、向こうは実写っぽい顔が、しゃべる中身に合わせて口まで動くの。しかも97の言語で話せるわ。",
+      "news_index": 2,
+      "start_sec": 134.36,
+      "end_sec": 141.5
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "97!? ボク、日本語とずんだ語しか話せないのだ!",
+      "news_index": 2,
+      "start_sec": 141.65,
+      "end_sec": 145.53
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ずんだ語は数えないで。途中で英語から日本語に切り替えても、映像が崩れないのが売りなのよ。",
+      "news_index": 2,
+      "start_sec": 145.68,
+      "end_sec": 151.91
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも、悪い人が有名人の顔で使ったら、まずくないのだ?",
+      "news_index": 2,
+      "start_sec": 152.06,
+      "end_sec": 156.55
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこは対策済み。自分だけのオリジナルの顔を作れるのは、グーグルが許可した企業に限ってるわ。",
+      "news_index": 2,
+      "start_sec": 156.7,
+      "end_sec": 162.66
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "許可制ってことは、誰でも勝手には作れないのだね。",
+      "news_index": 2,
+      "start_sec": 162.81,
+      "end_sec": 166.28
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そう。さらに映像と声には、AI製だと後から見分けられる、見えない透かしが入るの。",
+      "news_index": 2,
+      "start_sec": 166.43,
+      "end_sec": 172.54
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "お札の透かしみたいなものなのだ。",
+      "news_index": 2,
+      "start_sec": 172.69,
+      "end_sec": 174.83
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "うまいこと言うわね。要するに、ホテルの受付や窓口の案内に、AIの顔が座り始めるって話よ。",
+      "news_index": 2,
+      "start_sec": 174.98,
+      "end_sec": 181.87
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "そのうちボク、駅の窓口でAIのお姉さんに道を聞くのだ!",
+      "news_index": 2,
+      "start_sec": 182.02,
+      "end_sec": 186.1
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "三本目は硬めだから手短に。アメリカのオラクルが、巨大なデータセンターの工事に、不可抗力の通知を出したの。",
+      "news_index": 3,
+      "start_sec": 186.25,
+      "end_sec": 193.69
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でーたせんたーは、AIを動かすコンピューターが詰まった巨大倉庫だっけ? で、ふかこうりょくって?",
+      "news_index": 3,
+      "start_sec": 193.84,
+      "end_sec": 200.78
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "自分じゃどうにもならない事情で遅れたら、契約の義務を免れられる取り決めよ。台風で電車が止まった時の、遅延証明書みたいなものね。",
+      "news_index": 3,
+      "start_sec": 200.93,
+      "end_sec": 209.62
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ボクも寝坊した日に出したいのだ、その証明書。",
+      "news_index": 3,
+      "start_sec": 209.77,
+      "end_sec": 213.25
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "寝坊は自分でどうにかなるでしょ。現場はニューメキシコ州で、オープンエーアイ向けのスターゲート計画の一つよ。",
+      "news_index": 3,
+      "start_sec": 213.4,
+      "end_sec": 219.91
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "どのくらい大きい工事なのだ?",
+      "news_index": 3,
+      "start_sec": 220.06,
+      "end_sec": 222.29
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "費用は最大で1,650億ドルとも報じられてる、とんでもない規模だわ。",
+      "news_index": 3,
+      "start_sec": 222.44,
+      "end_sec": 227.23
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "1,650億ドル!? ボクのお小遣いを何億年ためても、届かないのだ!",
+      "news_index": 3,
+      "start_sec": 227.38,
+      "end_sec": 232.62
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "遅れの原因の一つはガスの配管。発電の燃料を運ぶパイプラインの許可が下りなくて、半年近くずれ込んでるの。",
+      "news_index": 3,
+      "start_sec": 232.77,
+      "end_sec": 240.26
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、じゃあオラクル、逃げ出しちゃうのだ?",
+      "news_index": 3,
+      "start_sec": 240.41,
+      "end_sec": 243.3
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "逃げないわ。借り主として残ったまま、2028年の稼働に間に合わなかった時に、支払いを遅らせられる保険をかけた形ね。",
+      "news_index": 3,
+      "start_sec": 243.45,
+      "end_sec": 251.31
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "保険をかけただけなら、平和な話なのだ?",
+      "news_index": 3,
+      "start_sec": 251.46,
+      "end_sec": 254.62
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "市場はそう見なかったわ。報道のあと、オラクルの株は数%下がったの。AIの建設ラッシュに、ちょっと冷や水って感じね。",
+      "news_index": 3,
+      "start_sec": 254.77,
+      "end_sec": 262.81
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "要するに、でっかい工事ほど、パイプ一本で止まるってことなのだ。",
+      "news_index": 3,
+      "start_sec": 262.96,
+      "end_sec": 268.01
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。こういう遅れが広がれば、AI向けの計算設備を増やす計画にも、あとからじわっと響くかもしれないわ。",
+      "news_index": 3,
+      "start_sec": 268.16,
+      "end_sec": 275.55
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四本目はロボットの話。ドイツのブラック フォレスト ラボが、ロボット用のAIを無料で公開したの。",
+      "news_index": 4,
+      "start_sec": 275.63,
+      "end_sec": 281.63
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ぶらっくふぉれすと? 黒い森って、ケーキの名前なのだ!",
+      "news_index": 4,
+      "start_sec": 281.78,
+      "end_sec": 285.46
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "ケーキは焼いてないわ。もともと、言葉から絵を作るAIで有名な会社よ。",
+      "news_index": 4,
+      "start_sec": 285.61,
+      "end_sec": 290.4
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "絵描きの会社が、なんでロボットに手を出したのだ?",
+      "news_index": 4,
+      "start_sec": 290.55,
+      "end_sec": 293.92
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "名前はフラックス スリー アクション。カメラの映像と指示の言葉から、ロボットが次にどう手を動かすかを決めるの。",
+      "news_index": 4,
+      "start_sec": 294.07,
+      "end_sec": 300.59
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、「コップ取って」って言ったら、腕がすーっと動くやつなのだ!",
+      "news_index": 4,
+      "start_sec": 300.74,
+      "end_sec": 305.0
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう。しかもロボットの成績を比べるランキングで一位なのに、七十億パラメーターで、比較対象になったエヌビディアの百六十億パラメーターのモデルの半分以下なのよ。",
+      "news_index": 4,
+      "start_sec": 305.15,
+      "end_sec": 315.73
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "半分の体で一位!? 省エネの優等生なのだ!",
+      "news_index": 4,
+      "start_sec": 315.88,
+      "end_sec": 319.49
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "軽いのが大事なの。家庭用のグラボ、つまりゲーム用パソコンの映像担当の部品一枚に載るくらいまで縮められるわ。",
+      "news_index": 4,
+      "start_sec": 319.64,
+      "end_sec": 327.45
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "自作パソコンの部品で、ロボットの頭脳が動くなんて、夢があるのだ。",
+      "news_index": 4,
+      "start_sec": 327.6,
+      "end_sec": 332.89
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "会社も、ゲームの中のキャラやパソコン操作にも使えそうだって言ってるわ。",
+      "news_index": 4,
+      "start_sec": 333.04,
+      "end_sec": 337.43
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "要するに、ロボットの頭脳が工場の外に出てくる準備ってことなのだ。",
+      "news_index": 4,
+      "start_sec": 337.58,
+      "end_sec": 342.79
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "その通り。ロボット制御のモデルを、研究者や開発者が試しやすくする方向の話ね。",
+      "news_index": 4,
+      "start_sec": 342.94,
+      "end_sec": 349.09
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "じゃあラスト五本目。冒頭で焦らした、宇宙へ行くサーバーよ。",
+      "news_index": 5,
+      "start_sec": 349.17,
+      "end_sec": 352.96
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "待ってたのだー! ロケットに乗るのは誰なのだ!",
+      "news_index": 5,
+      "start_sec": 353.11,
+      "end_sec": 355.98
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "グーグルが十月一日に、サンキャッチャー計画の試験衛星を打ち上げる予定なの。",
+      "news_index": 5,
+      "start_sec": 356.13,
+      "end_sec": 361.33
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "さんきゃっちゃー? 窓に吊るす、キラキラのガラス玉だっけ?",
+      "news_index": 5,
+      "start_sec": 361.48,
+      "end_sec": 365.79
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "飾りじゃないわ。宇宙でAIの計算をさせる、人工衛星の実験よ。",
+      "news_index": 5,
+      "start_sec": 365.94,
+      "end_sec": 370.79
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "宇宙でAI!? なんでわざわざ空の上なのだ!",
+      "news_index": 5,
+      "start_sec": 370.94,
+      "end_sec": 374.31
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "地上のデータセンターは、電気が足りないの。宇宙なら太陽の光で発電し放題、って発想ね。",
+      "news_index": 5,
+      "start_sec": 374.46,
+      "end_sec": 381.03
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、その衛星には何が乗ってるのだ?",
+      "news_index": 5,
+      "start_sec": 381.18,
+      "end_sec": 383.92
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "グーグル自前のAI用チップが四つ。全部合わせて、データセンターのサーバー一台分くらいの力よ。",
+      "news_index": 5,
+      "start_sec": 384.07,
+      "end_sec": 390.57
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "一台分……。宇宙まで行くのに、意外と控えめなのだ。",
+      "news_index": 5,
+      "start_sec": 390.72,
+      "end_sec": 395.04
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "最初の一歩だもの。スペースエックスのロケット、ファルコン ナインで、カリフォルニアから上がるわ。",
+      "news_index": 5,
+      "start_sec": 395.19,
+      "end_sec": 401.1
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "宇宙って寒いから、パソコンを冷やすのも楽勝なのだ?",
+      "news_index": 5,
+      "start_sec": 401.25,
+      "end_sec": 405.16
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "逆よ。空気がないから熱を逃がしにくくて、そこを確かめるのも今回の目的なの。",
+      "news_index": 5,
+      "start_sec": 405.31,
+      "end_sec": 410.55
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、冷蔵庫じゃなくて、魔法瓶の中みたいなことなのだ!?",
+      "news_index": 5,
+      "start_sec": 410.7,
+      "end_sec": 414.9
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いい例えね。しかもこれ、もともと来年の予定だったのを前倒しした一機なのよ。",
+      "news_index": 5,
+      "start_sec": 415.05,
+      "end_sec": 420.04
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクのパソコンにも、なにか関係あるのだ?",
+      "news_index": 5,
+      "start_sec": 420.19,
+      "end_sec": 423.26
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "すぐにはないわ。要するに、宇宙の豊富な太陽光を、将来のAI計算に生かせるか確かめ始めたって話よ。",
+      "news_index": 5,
+      "start_sec": 423.41,
+      "end_sec": 431.09
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "電気代の悩みが、ついに地球からはみ出したのだ!",
+      "news_index": 5,
+      "start_sec": 431.24,
+      "end_sec": 434.6
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今朝は、電話を代わるAI、顔を持つAI、足踏みする巨大工事、軽いロボットの頭脳、そして宇宙のサーバーだったわ。",
+      "news_index": 0,
+      "start_sec": 434.75,
+      "end_sec": 442.67
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ボクはやっぱり、電話を代わってくれるやつが一番欲しいのだ。",
+      "news_index": 0,
+      "start_sec": 442.82,
+      "end_sec": 447.37
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "日本に来る日を待ちましょ。気になった話があったら、ニュースをのぞいてみてね。",
+      "news_index": 0,
+      "start_sec": 447.52,
+      "end_sec": 452.2
+    },
+    {
+      "index": 84,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "十月一日の打ち上げ、ボクも空を見上げて待ってるのだー!",
+      "news_index": 0,
+      "start_sec": 452.35,
+      "end_sec": 456.54
+    },
+    {
+      "index": 85,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "カリフォルニアからだから、ここからは見えないわよ。",
+      "news_index": 0,
+      "start_sec": 456.69,
+      "end_sec": 459.56
+    },
+    {
+      "index": 86,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "そうだったのだ……。",
+      "news_index": 0,
+      "start_sec": 459.71,
+      "end_sec": 461.15
+    },
+    {
+      "index": 87,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "聴いてくれてるかた、いってらっしゃい。また明日の朝便でね。",
+      "news_index": 0,
+      "start_sec": 461.3,
+      "end_sec": 465.11
+    },
+    {
+      "index": 88,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "いってらっしゃいなのだー!",
+      "news_index": 0,
+      "start_sec": 465.26,
+      "end_sec": 466.76
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 467.46,
+      "end_sec": 475.76
+    }
+  ],
+  "wall_time_sec": 14.61,
+  "audio_url": "/audio/ai/20260925_170751.mp3?v=1790366636"
+}

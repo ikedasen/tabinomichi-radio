@@ -1,0 +1,956 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-09-25T17:04:23+09:00",
+  "title": "血のつながらない食卓 〜家族計画、2001年の疑似家族〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 426.21,
+  "script_hash": "sha256:68e919c134263a8b63797ccca88faa71fc0e7c8d72ae04f2e39c75dc131e2c38",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 9.59
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "旅の道ラジオへようこそなのだ！パーソナリティのずんだもんなのだー！",
+      "news_index": 0,
+      "start_sec": 9.59,
+      "end_sec": 13.73
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "intro",
+      "text": "ちっす！春日部つむぎっす！今回もあーしの担当回っすよー！",
+      "news_index": 0,
+      "start_sec": 13.88,
+      "end_sec": 18.08
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "今回はレトロゲーム回なのだ！つむぎ、お題はなんなのだ？",
+      "news_index": 0,
+      "start_sec": 18.23,
+      "end_sec": 22.74
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "お題は『家族計画』っす！2001年に出た、疑似家族もののノベルゲーっすよ。",
+      "news_index": 0,
+      "start_sec": 22.89,
+      "end_sec": 28.52
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "家族計画……。少子化対策を学ぶ、真面目な啓発ゲームなのだね？",
+      "news_index": 0,
+      "start_sec": 28.67,
+      "end_sec": 34.15
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "先輩それガチ違うっす。血のつながらない他人同士が、一つ屋根の下で家族をやる話っす。",
+      "news_index": 0,
+      "start_sec": 34.3,
+      "end_sec": 40.2
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "あー、そっちの計画なのだ。家族を作る計画って意味なのだね。",
+      "news_index": 0,
+      "start_sec": 40.35,
+      "end_sec": 44.79
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに、家族を計画的にこしらえちゃう話っす。テーマは重いのに、めちゃくちゃ笑えるっすよ。",
+      "news_index": 0,
+      "start_sec": 44.94,
+      "end_sec": 50.99
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "発売は2001年11月2日、ディー・オーってメーカーから出たっす。",
+      "news_index": 1,
+      "start_sec": 51.07,
+      "end_sec": 56.0
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "2001年！ボクが生まれる前の、そのまた前くらいなのだ！",
+      "news_index": 1,
+      "start_sec": 56.15,
+      "end_sec": 60.11
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "先輩の生年月日はこの際どうでもいいっす。当時はパソコン用の大人向けソフトとして出た作品っすよ。",
+      "news_index": 1,
+      "start_sec": 60.26,
+      "end_sec": 66.64
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "大人向け……。ボクは聴いてるオタクくんと一緒に、お話の中身だけ聞いておくのだ。",
+      "news_index": 1,
+      "start_sec": 66.79,
+      "end_sec": 73.41
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そこは安心してほしいっす。後から15歳以上向けの家庭用移植も出てるっす。",
+      "news_index": 1,
+      "start_sec": 73.56,
+      "end_sec": 78.52
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ジャンルはなんて書いてあるのだ？",
+      "news_index": 1,
+      "start_sec": 78.67,
+      "end_sec": 80.67
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "ハートフルコメディーアドベンチャー、っす。ファンの間では略して『家計』って呼ばれてるっす。",
+      "news_index": 1,
+      "start_sec": 80.82,
+      "end_sec": 86.62
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "家計……。お小遣い帳をつけるゲームみたいなのだ。",
+      "news_index": 1,
+      "start_sec": 86.77,
+      "end_sec": 90.4
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "家計簿は出てこないっす。でも暮らしの苦しさはガチで出てくるっす。",
+      "news_index": 1,
+      "start_sec": 90.55,
+      "end_sec": 94.65
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "導入がガチで良いんで話すっすね。主人公は天涯孤独の若者で、司って子っす。",
+      "news_index": 2,
+      "start_sec": 94.73,
+      "end_sec": 100.33
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "身寄りがないってことなのだね。なにして暮らしてるのだ？",
+      "news_index": 2,
+      "start_sec": 100.48,
+      "end_sec": 103.91
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "中華料理店でバイトして食いつないでるっす。人と深く関わらないように生きてるタイプっす。",
+      "news_index": 2,
+      "start_sec": 104.06,
+      "end_sec": 109.25
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "分かるのだ。関わると、ずんだ餅を分けなきゃいけなくなるからなのだ。",
+      "news_index": 2,
+      "start_sec": 109.4,
+      "end_sec": 114.46
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "スケールが餅で止まってるっす。司の場合は、失うのが怖いから最初から関係を作らないって話っす。",
+      "news_index": 2,
+      "start_sec": 114.61,
+      "end_sec": 121.19
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "……なかなか重たい理由なのだ。",
+      "news_index": 2,
+      "start_sec": 121.34,
+      "end_sec": 123.29
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そんな司が、バイト先の裏路地で倒れてる女の子を拾っちゃうっす。中国から密入国してきた子っす。",
+      "news_index": 2,
+      "start_sec": 123.44,
+      "end_sec": 129.86
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "えっ、いきなり話のスケールが国際問題なのだ！？",
+      "news_index": 2,
+      "start_sec": 130.01,
+      "end_sec": 134.44
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そこから同居人がどんどん増えて、疑似家族が組み上がっていくっす。要するに、拾ったら止まらなくなった話っす。",
+      "news_index": 2,
+      "start_sec": 134.59,
+      "end_sec": 141.62
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "何人家族になるのだ？",
+      "news_index": 3,
+      "start_sec": 141.77,
+      "end_sec": 143.6
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "最終的に高屋敷家として6人っす。全員、血がつながってないっす。",
+      "news_index": 3,
+      "start_sec": 143.75,
+      "end_sec": 148.56
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "6人！しかも全員他人！シェアハウスの上級編なのだ！",
+      "news_index": 3,
+      "start_sec": 148.71,
+      "end_sec": 152.79
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "長女ポジの青葉は、政略結婚から逃げてきたお嬢様っす。口が悪くて言葉の攻撃力が高いっす。",
+      "news_index": 3,
+      "start_sec": 152.94,
+      "end_sec": 159.58
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "つむぎと気が合いそうなのだ。",
+      "news_index": 3,
+      "start_sec": 159.73,
+      "end_sec": 161.76
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "shirake",
+      "text": "……先輩。",
+      "news_index": 3,
+      "start_sec": 161.91,
+      "end_sec": 162.73
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "な、なんでもないのだ……ごめんなさいなのだ……",
+      "news_index": 3,
+      "start_sec": 162.88,
+      "end_sec": 166.82
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "コホン。次女ポジの準は、司と過去に因縁がある子っす。自分のことをあんまり話さないタイプっす。",
+      "news_index": 3,
+      "start_sec": 166.97,
+      "end_sec": 173.17
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "さっきの中国から来た子はどこに入るのだ？",
+      "news_index": 3,
+      "start_sec": 173.32,
+      "end_sec": 176.3
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "三女ポジの春花っす。お母さんを探しに来た子で、明るくてまっすぐで、あーしの推しっす。",
+      "news_index": 3,
+      "start_sec": 176.45,
+      "end_sec": 182.09
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そこに末っ子の末莉と、お母さん役の真純が加わって、ようやく家族が完成するっす。",
+      "news_index": 3,
+      "start_sec": 182.17,
+      "end_sec": 187.81
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "肩書きが全部あとから決まるの、ちょっといいのだ。",
+      "news_index": 3,
+      "start_sec": 187.96,
+      "end_sec": 191.5
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "で、ここが大事なんすけど、前半はひたすらギャグっす。",
+      "news_index": 4,
+      "start_sec": 191.65,
+      "end_sec": 195.25
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "設定は重いのに笑えるのだ？",
+      "news_index": 4,
+      "start_sec": 195.4,
+      "end_sec": 197.7
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "笑えるっす。全員クセが強すぎて、食卓の会話がずっと漫才っす。",
+      "news_index": 4,
+      "start_sec": 197.85,
+      "end_sec": 202.47
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "この番組と同じなのだね。",
+      "news_index": 4,
+      "start_sec": 202.62,
+      "end_sec": 204.77
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "うちは片方が勝手にボケてるだけっす。向こうは6人が同時に回してくるっす。",
+      "news_index": 4,
+      "start_sec": 204.92,
+      "end_sec": 209.78
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "6人同時ボケ……。ツッコミが渋滞するのだ。",
+      "news_index": 4,
+      "start_sec": 209.93,
+      "end_sec": 213.8
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "でもそのバカ騒ぎが後で効いてくるっす。楽しい食卓を見せられるほど、崩れた時が痛いっす。",
+      "news_index": 4,
+      "start_sec": 213.95,
+      "end_sec": 219.78
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "つまり笑わせてるのは全部前フリってことなのだ。",
+      "news_index": 4,
+      "start_sec": 219.93,
+      "end_sec": 223.13
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "その一行が正解っす。オタクくん、前半でしっかり油断させられるっすよ。",
+      "news_index": 4,
+      "start_sec": 223.28,
+      "end_sec": 228.1
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "後半はどうなるのだ？",
+      "news_index": 5,
+      "start_sec": 228.25,
+      "end_sec": 229.97
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "各自が抱えてた事情がだんだん表に出てきて、家族計画そのものが揺らぐっす。",
+      "news_index": 5,
+      "start_sec": 230.12,
+      "end_sec": 235.08
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "せっかく作った家族が壊れる方向なのだ！？",
+      "news_index": 5,
+      "start_sec": 235.23,
+      "end_sec": 238.92
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そこはガチで結末を言えないっす。ただ、コメディからシリアスへの落差が本作の核っす。",
+      "news_index": 5,
+      "start_sec": 239.07,
+      "end_sec": 244.54
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "落差で殴ってくるタイプなのだね。",
+      "news_index": 5,
+      "start_sec": 244.69,
+      "end_sec": 246.92
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そうっす。しかもそれぞれの事情が、社会の冷たさとちゃんとつながってるっす。",
+      "news_index": 5,
+      "start_sec": 247.07,
+      "end_sec": 251.76
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "リストラとか、居場所がないとか、そういう話なのだね。",
+      "news_index": 5,
+      "start_sec": 251.91,
+      "end_sec": 255.52
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kangae",
+      "text": "そこっす。当時メーカーの中でも社会派タイトルって呼ばれてたらしいっす。",
+      "news_index": 5,
+      "start_sec": 255.67,
+      "end_sec": 260.21
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ギャグゲーの顔をした社会派なのだ。ずるいのだー！",
+      "news_index": 5,
+      "start_sec": 260.36,
+      "end_sec": 263.56
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そのずるさがクセになるっす。",
+      "news_index": 5,
+      "start_sec": 263.71,
+      "end_sec": 265.42
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "シナリオを書いたかたが、いま名前を聞くとびっくりする人なんすよ。",
+      "news_index": 6,
+      "start_sec": 265.5,
+      "end_sec": 269.22
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "誰なのだ？",
+      "news_index": 6,
+      "start_sec": 269.37,
+      "end_sec": 270.41
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "田中ロミオっす。当時は別のペンネームで書いてて、2003年に同じ人だって公表されたっす。",
+      "news_index": 6,
+      "start_sec": 270.56,
+      "end_sec": 276.53
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "それ、前にこの番組でやった『クロス・チャンネル』の人なのだ！",
+      "news_index": 6,
+      "start_sec": 276.68,
+      "end_sec": 281.17
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "さすが先輩っす！同じかたの作品を続けて追える回になったっす。",
+      "news_index": 6,
+      "start_sec": 281.32,
+      "end_sec": 285.52
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "hisohiso",
+      "text": "リスナーのみなさん、ボクたち計画的に選んでるっぽいのだ。",
+      "news_index": 6,
+      "start_sec": 285.67,
+      "end_sec": 289.57
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "完全に偶然っす。でも同じ書き手の違う顔が見られるのはお得っすね。",
+      "news_index": 6,
+      "start_sec": 289.72,
+      "end_sec": 294.37
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "原画は福永ユミってかたで、柔らかい絵が家族のあったかさにガチで効いてるっす。",
+      "news_index": 6,
+      "start_sec": 294.45,
+      "end_sec": 299.27
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "音楽の方はどうなのだ？",
+      "news_index": 6,
+      "start_sec": 299.42,
+      "end_sec": 301.3
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "オープニング曲の『同じ空の下で』が名曲っす。歌はKOTOKO、作曲と編曲は高瀬一矢っす。",
+      "news_index": 6,
+      "start_sec": 301.45,
+      "end_sec": 308.18
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "タイトルからしてもう泣かせにきてるのだ。",
+      "news_index": 6,
+      "start_sec": 308.33,
+      "end_sec": 311.0
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "聴いたことないオタクくんは、一回探して聴いてみてほしいっす。",
+      "news_index": 6,
+      "start_sec": 311.15,
+      "end_sec": 314.88
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "この作品、そのあとが長いっす。2002年には音声つきの強化版が出たっす。",
+      "news_index": 7,
+      "start_sec": 314.96,
+      "end_sec": 320.06
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "あとから声がついたのだね。",
+      "news_index": 7,
+      "start_sec": 320.21,
+      "end_sec": 322.05
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そこから2004年に続編、2005年にプレステ2版の『家族計画 心の絆』が出たっす。",
+      "news_index": 7,
+      "start_sec": 322.2,
+      "end_sec": 328.85
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "家庭用は誰でも買えるやつなのだ？",
+      "news_index": 7,
+      "start_sec": 329.0,
+      "end_sec": 331.51
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "15歳以上向けっす。定価は7,480円だったっす。",
+      "news_index": 7,
+      "start_sec": 331.66,
+      "end_sec": 335.83
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "7,480円……。ボクのずんだ餅、何個分なのだ？",
+      "news_index": 7,
+      "start_sec": 335.98,
+      "end_sec": 341.35
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "また餅換算っすか。当時の家庭用ソフトとしては普通の値段っす。",
+      "news_index": 7,
+      "start_sec": 341.5,
+      "end_sec": 345.7
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "さらに2013年、全部作り直したリメイクも出てるっす。タイトルに『紡ぐ糸』って入ってるっす。",
+      "news_index": 7,
+      "start_sec": 345.78,
+      "end_sec": 352.43
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "紡ぐ糸……。つむぎ、それつむぎの名前が入ってるのだ！",
+      "news_index": 7,
+      "start_sec": 352.58,
+      "end_sec": 356.27
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "気づくの遅いっす。あーしがこの作品好きなの、正直そこもデカいっす。",
+      "news_index": 7,
+      "start_sec": 356.42,
+      "end_sec": 361.19
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "つむぎはどこでこれと出会ったのだ？",
+      "news_index": 8,
+      "start_sec": 361.34,
+      "end_sec": 363.62
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "中古屋のワゴンで発掘したのが最初っす。パッケージの家族がやたら幸せそうで気になったっす。",
+      "news_index": 8,
+      "start_sec": 363.77,
+      "end_sec": 369.5
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、開けてみたら重かったのだね。",
+      "news_index": 8,
+      "start_sec": 369.65,
+      "end_sec": 371.93
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "重かったっす。でも食卓のシーンがずっと頭に残ってて、あーしの中では飯がうまそうなゲーム枠っす。",
+      "news_index": 8,
+      "start_sec": 372.08,
+      "end_sec": 378.32
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "ご飯の描写が強いゲームは、だいたい強いのだ。",
+      "news_index": 8,
+      "start_sec": 378.47,
+      "end_sec": 381.81
+    },
+    {
+      "index": 84,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "分かってくれるオタクくんは同志っす。遊ぶと中華まんが食べたくなるっす。",
+      "news_index": 8,
+      "start_sec": 381.96,
+      "end_sec": 386.15
+    },
+    {
+      "index": 85,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ところでつむぎ、これ結局、少子化対策の啓発ゲームだったのだ？",
+      "news_index": 8,
+      "start_sec": 386.3,
+      "end_sec": 391.76
+    },
+    {
+      "index": 86,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "shirake",
+      "text": "……先輩、最後の最後でそれ蒸し返すっすか。",
+      "news_index": 8,
+      "start_sec": 391.91,
+      "end_sec": 394.99
+    },
+    {
+      "index": 87,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "……ごめんなさいなのだ。",
+      "news_index": 8,
+      "start_sec": 395.14,
+      "end_sec": 396.38
+    },
+    {
+      "index": 88,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "まあ家族を増やす話ではあるっす。増やしかたが規格外なだけっす。",
+      "news_index": 8,
+      "start_sec": 396.53,
+      "end_sec": 400.64
+    },
+    {
+      "index": 89,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "血がつながってなくても家族になれるって、けっこう希望のある話なのだ。",
+      "news_index": 9,
+      "start_sec": 400.79,
+      "end_sec": 405.49
+    },
+    {
+      "index": 90,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "そこが2001年から今も愛されてる理由っす。オタクくん、機会があったら触ってほしいっす。",
+      "news_index": 9,
+      "start_sec": 405.64,
+      "end_sec": 411.29
+    },
+    {
+      "index": 91,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "今回はここまでなのだ。また旅の道ラジオで会いましょうなのだー！",
+      "news_index": 9,
+      "start_sec": 411.44,
+      "end_sec": 415.56
+    },
+    {
+      "index": 92,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "あーしもまた来るっすよ！ばいばいっす！",
+      "news_index": 9,
+      "start_sec": 415.71,
+      "end_sec": 418.05
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 418.75,
+      "end_sec": 426.21
+    }
+  ],
+  "wall_time_sec": 19.6,
+  "audio_url": "/audio/indie/20260925_170423.mp3?v=1790366642"
+}
