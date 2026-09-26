@@ -1,0 +1,846 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-09-26T17:08:52+09:00",
+  "title": "凍った惑星のラジオ 〜SIGNALIS、夢を探すレプリカ〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 407.72,
+  "script_hash": "sha256:45cd3c3617cd097379368e66706738c7e74f29562b5f7600aa270ee14e481e2f",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 6.47
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "welcome",
+      "text": "旅の道ラジオ、四国めたんよ。リスナーのみなさん、ようこそ。",
+      "news_index": 0,
+      "start_sec": 6.47,
+      "end_sec": 10.59
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー！今回はなんの話なのだ？",
+      "news_index": 0,
+      "start_sec": 10.74,
+      "end_sec": 14.49
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今回は最新ニュースじゃなくて、評判がしっかり固まった名作を一本だけ掘り返す回よ。",
+      "news_index": 0,
+      "start_sec": 14.64,
+      "end_sec": 20.33
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "評判が固まるって、なんか漬物みたいな言い方なのだ。",
+      "news_index": 0,
+      "start_sec": 20.48,
+      "end_sec": 24.44
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "漬かってるのは評価のほうね。発売直後の熱狂が引いても残ってる作品って意味よ。",
+      "news_index": 0,
+      "start_sec": 24.59,
+      "end_sec": 29.94
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに、今から買っても外さないやつを紹介するってこと。",
+      "news_index": 0,
+      "start_sec": 30.02,
+      "end_sec": 33.82
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "それは聞きたいのだ！早く教えてほしいのだ！",
+      "news_index": 0,
+      "start_sec": 33.97,
+      "end_sec": 37.31
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今回はシグナーリス。ドイツの小さなチームが作ったサバイバルホラーよ。",
+      "news_index": 1,
+      "start_sec": 37.46,
+      "end_sec": 41.84
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "シグナーリス……シグナルと、リスなのだ？電波を出すリスの話なのだ？",
+      "news_index": 1,
+      "start_sec": 41.99,
+      "end_sec": 47.55
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "リスは一匹も出てこないわ。信号って響きを持ったタイトルよ。",
+      "news_index": 1,
+      "start_sec": 47.7,
+      "end_sec": 51.47
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに、ラジオの電波が謎解きの鍵になるホラーって覚えておけばいいわ。",
+      "news_index": 1,
+      "start_sec": 51.55,
+      "end_sec": 56.1
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "電波で謎解きなのだ！？それ、ラジオ番組と相性が良すぎるのだ。",
+      "news_index": 1,
+      "start_sec": 56.25,
+      "end_sec": 60.83
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "発売は2022年10月27日。パソコンもスイッチもプレイステーション4も、ほぼ同時に出てるわ。",
+      "news_index": 1,
+      "start_sec": 60.98,
+      "end_sec": 67.68
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "4年前なのだ。ゲームの4年前って、人間でいうと何歳くらいなのだ？",
+      "news_index": 1,
+      "start_sec": 67.83,
+      "end_sec": 73.17
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "年齢に換算しないの。4年経っても評価が落ちてないっていうのが、今日の話の肝よ。",
+      "news_index": 1,
+      "start_sec": 73.32,
+      "end_sec": 78.73
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "たしかに、4年生き残ってるなら本物なのだ。",
+      "news_index": 1,
+      "start_sec": 78.88,
+      "end_sec": 82.03
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "見た目がとにかく特徴的でね。わざとカクカクの粗いポリゴンで作ってあるのよ。",
+      "news_index": 1,
+      "start_sec": 82.18,
+      "end_sec": 86.89
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "えっ、2022年なのに粗いのだ？予算が足りなくなったのだ？",
+      "news_index": 1,
+      "start_sec": 87.04,
+      "end_sec": 92.93
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "違う違う、完全に狙ってやってるの。プレイステーション1くらいの時代の質感を再現してるのよ。",
+      "news_index": 1,
+      "start_sec": 93.08,
+      "end_sec": 99.22
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "例えるなら、フィルムカメラでわざと粗く撮るのと同じ発想ね。",
+      "news_index": 1,
+      "start_sec": 99.3,
+      "end_sec": 103.1
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "なるほどなのだ。粗いほうが、逆に想像力で怖くなるやつなのだ。",
+      "news_index": 1,
+      "start_sec": 103.25,
+      "end_sec": 107.75
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう、今の一言が正解。見えない部分を脳が勝手に補完しちゃうのよ。",
+      "news_index": 1,
+      "start_sec": 107.9,
+      "end_sec": 112.76
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "主人公はエルスターっていう技術者タイプの人造人間。作中ではレプリカって呼ばれてるわ。",
+      "news_index": 1,
+      "start_sec": 112.84,
+      "end_sec": 118.49
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "レプリカ！ボクのレプリカも売ってるのだ？ずんだもん複製品なのだ？",
+      "news_index": 1,
+      "start_sec": 118.64,
+      "end_sec": 123.56
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "あんたの偽物の話はしてないの。この世界で量産されてる人造人間のことよ。",
+      "news_index": 1,
+      "start_sec": 123.71,
+      "end_sec": 128.88
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そのエルスターが、雪に覆われた惑星で、失われた夢を探して彷徨うっていう筋書きね。",
+      "news_index": 1,
+      "start_sec": 128.96,
+      "end_sec": 134.76
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "雪の惑星で、たったひとりぼっちなのだ……。",
+      "news_index": 1,
+      "start_sec": 134.91,
+      "end_sec": 137.72
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "chuuni",
+      "text": "凍てついた鉄の棺に沈む、名も無き夢の残響……。ヒトはどこまで人を模して、壊れていくのかしらね……。",
+      "news_index": 1,
+      "start_sec": 137.87,
+      "end_sec": 144.45
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "うわっ、急に発病したのだ！？めたんが厨二モードに入ったのだ！",
+      "news_index": 1,
+      "start_sec": 144.6,
+      "end_sec": 148.96
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "hazukashi",
+      "text": "……ごめん。レトロなSFの匂いを嗅ぐと出ちゃうのよ。",
+      "news_index": 1,
+      "start_sec": 149.11,
+      "end_sec": 152.45
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "めたんのそれ、変な周波数を受信しちゃったのだ。",
+      "news_index": 1,
+      "start_sec": 152.6,
+      "end_sec": 156.33
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "コホン。システムの話ね、これが古典的なサバイバルホラーそのものなの。",
+      "news_index": 1,
+      "start_sec": 156.48,
+      "end_sec": 160.89
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "持ち物がね、基本六つまでしか持てないのよ。",
+      "news_index": 1,
+      "start_sec": 160.97,
+      "end_sec": 163.84
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "六つ！？ボクのポケットのほうが入るのだ。というか六つって、ずんだ餅で埋まって終わりなのだ。",
+      "news_index": 1,
+      "start_sec": 163.99,
+      "end_sec": 170.11
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "餅で埋めたら回復も戦闘もできないでしょ。武器も弾も一枠ずつ食べていくのよ。",
+      "news_index": 1,
+      "start_sec": 170.26,
+      "end_sec": 175.37
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "つまりこの不便さが緊張感の正体。毎回、何を捨てるかで悩ませる設計ってこと。",
+      "news_index": 1,
+      "start_sec": 175.45,
+      "end_sec": 181.03
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "持てないから怖い……。荷物そのものが敵なのだ。",
+      "news_index": 1,
+      "start_sec": 181.18,
+      "end_sec": 184.43
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "安全な部屋にアイテムボックスがあって、そこに預ける方式よ。バイオハザードを遊んだことがあるかたなら一瞬で分かるはず。",
+      "news_index": 1,
+      "start_sec": 184.58,
+      "end_sec": 191.94
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "あっ、ボクそれ知ってるのだ！こっちの箱に入れたら、あっちの箱から出てくるやつなのだ！",
+      "news_index": 1,
+      "start_sec": 192.09,
+      "end_sec": 198.29
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そうそう、そのご都合主義の箱。ちなみに後のパッチで、この六枠を増やす設定も追加されてるわ。",
+      "news_index": 1,
+      "start_sec": 198.44,
+      "end_sec": 204.84
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "優しさなのだ。厳しいのが好きな人は、そのままで遊べばいいのだ。",
+      "news_index": 1,
+      "start_sec": 204.99,
+      "end_sec": 209.46
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、さっき言ったラジオね。周波数を合わせて手がかりを拾う仕掛けが出てくるのよ。",
+      "news_index": 1,
+      "start_sec": 209.61,
+      "end_sec": 214.69
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "なら、この番組の周波数を合わせたら、めたんの本音も受信できるのだ！",
+      "news_index": 1,
+      "start_sec": 214.84,
+      "end_sec": 219.64
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "ずんだもん。",
+      "news_index": 1,
+      "start_sec": 219.79,
+      "end_sec": 220.6
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "……はい、なのだ？",
+      "news_index": 1,
+      "start_sec": 220.75,
+      "end_sec": 222.17
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "sexy",
+      "text": "受信できたら、そのまま丸ごとずんだ餅に加工してあげるわね。",
+      "news_index": 1,
+      "start_sec": 222.32,
+      "end_sec": 227.12
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "ごめんなさいなのだ……ボク、もう周波数は合わせないのだ……",
+      "news_index": 1,
+      "start_sec": 227.27,
+      "end_sec": 232.12
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "コホン。話を戻すと、音の演出がこのゲームの怖さの半分を担ってると私は思ってるわ。",
+      "news_index": 1,
+      "start_sec": 232.27,
+      "end_sec": 238.27
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、作ってるのはローズエンジンっていう、ドイツのハンブルクを拠点にした二人組のチームなの。",
+      "news_index": 1,
+      "start_sec": 238.35,
+      "end_sec": 244.04
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "二人！？会社じゃなくて、二人でこれ作ったのだ？",
+      "news_index": 1,
+      "start_sec": 244.19,
+      "end_sec": 247.74
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そうよ。チームの結成が2014年で、シグナーリスを世に出したのが2022年ね。",
+      "news_index": 1,
+      "start_sec": 247.89,
+      "end_sec": 253.57
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "8年……。ボクが8年かけたら、ずんだ餅が化石になるのだ。",
+      "news_index": 1,
+      "start_sec": 253.72,
+      "end_sec": 258.91
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "8年ずっとこれだけ作ってたって話じゃないわよ。結成から数えて、それだけ積み上げてきた二人ってこと。",
+      "news_index": 1,
+      "start_sec": 259.06,
+      "end_sec": 265.49
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "なるほどなのだ。少人数だからこそ、変な尖りかたができるのだ。",
+      "news_index": 1,
+      "start_sec": 265.64,
+      "end_sec": 269.98
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "hisohiso",
+      "text": "ここだけの話、このゲーム、売る側の事情がちょっとややこしいことになってるのよ。",
+      "news_index": 1,
+      "start_sec": 270.13,
+      "end_sec": 275.83
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "えっ、なんなのだ？リスナーのみなさんも気になるやつなのだ。",
+      "news_index": 1,
+      "start_sec": 275.98,
+      "end_sec": 279.91
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "発売当時は、海外と日本の二つのパブリッシャーが組んで出してたの。",
+      "news_index": 1,
+      "start_sec": 280.06,
+      "end_sec": 284.28
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "その海外側が今年の3月に買収されて、レーベル名まで変わっちゃったのよ。",
+      "news_index": 1,
+      "start_sec": 284.36,
+      "end_sec": 289.36
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "作った人と、売る人は別ってことなのだ？",
+      "news_index": 1,
+      "start_sec": 289.51,
+      "end_sec": 292.67
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。中身を作ったのはあくまでローズエンジンの二人で、変わったのは看板だけね。",
+      "news_index": 1,
+      "start_sec": 292.82,
+      "end_sec": 298.35
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "さて、肝心の評判。スチームのレビューが二万八千件を超えてて、そのうち96%が好評よ。",
+      "news_index": 1,
+      "start_sec": 298.43,
+      "end_sec": 305.29
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "96%！？ボクのずんだ餅の純度より高いのだ！",
+      "news_index": 1,
+      "start_sec": 305.44,
+      "end_sec": 309.63
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "あんたの純度は知らないけど、まあ怪物じみた数字ではあるわね。",
+      "news_index": 1,
+      "start_sec": 309.78,
+      "end_sec": 313.84
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "しかも直近30日でも97%が好評。4年経って、評価がまだ上を向いてるってことよ。",
+      "news_index": 1,
+      "start_sec": 313.92,
+      "end_sec": 320.7
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "聴いてるみなさん、96%って落ちてこない数字なのだ。",
+      "news_index": 1,
+      "start_sec": 320.85,
+      "end_sec": 325.07
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "発売から一年はゲームパスにも入ってたから、そこで触った人が語り出したのも大きいと思うわ。",
+      "news_index": 1,
+      "start_sec": 325.22,
+      "end_sec": 331.15
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "あと、エンディングが四種類あってね。三つは条件で分岐して、もう一つは隠しよ。",
+      "news_index": 1,
+      "start_sec": 331.23,
+      "end_sec": 336.61
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "隠しエンディング……ボク、そういうのが大好きなのだー！",
+      "news_index": 1,
+      "start_sec": 336.76,
+      "end_sec": 340.75
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "だから考察好きが繰り返し遊んで、エンディングを集めるのが定番になってるの。",
+      "news_index": 1,
+      "start_sec": 340.9,
+      "end_sec": 345.8
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "一回クリアして終わりじゃないのだ。おかわりができるゲームなのだ。",
+      "news_index": 1,
+      "start_sec": 345.95,
+      "end_sec": 350.49
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "値段はスチームで1,980円。日本語にもちゃんと対応してるわ。",
+      "news_index": 1,
+      "start_sec": 350.64,
+      "end_sec": 355.34
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "4年前の名作が1,980円……これはもう行くしかないのだ！",
+      "news_index": 1,
+      "start_sec": 355.49,
+      "end_sec": 360.24
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ホラーが本気で苦手な人にはきついけど、雰囲気ものが好きなら確実に刺さると思う。",
+      "news_index": 1,
+      "start_sec": 360.39,
+      "end_sec": 365.7
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボク、暗いところは苦手なのだ。……でも、気になるのだ。",
+      "news_index": 1,
+      "start_sec": 365.85,
+      "end_sec": 369.69
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そういう時は部屋の電気をつけてやりなさい。それだけで体感の難易度が半分になるわよ。",
+      "news_index": 1,
+      "start_sec": 369.84,
+      "end_sec": 375.51
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "めたんが優しいと、逆にちょっと怖いのだ。",
+      "news_index": 1,
+      "start_sec": 375.66,
+      "end_sec": 378.7
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで今回は、シグナーリスを一本まるごと掘り下げてみたわ。",
+      "news_index": 1,
+      "start_sec": 378.85,
+      "end_sec": 382.94
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "気になった人は、スチームのページを覗いてみてほしいのだ。",
+      "news_index": 1,
+      "start_sec": 383.09,
+      "end_sec": 386.81
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ちなみにボクは最後まで、電波を出すリスが出てくると信じてるのだ。",
+      "news_index": 1,
+      "start_sec": 386.89,
+      "end_sec": 391.86
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "出ないってば。そこだけは私が保証するわ。",
+      "news_index": 1,
+      "start_sec": 392.01,
+      "end_sec": 394.76
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それじゃ、また旅の道ラジオで会いましょう。",
+      "news_index": 1,
+      "start_sec": 394.84,
+      "end_sec": 397.44
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "またなのだー！",
+      "news_index": 1,
+      "start_sec": 397.59,
+      "end_sec": 398.71
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 399.41,
+      "end_sec": 407.72
+    }
+  ],
+  "wall_time_sec": 17.7,
+  "audio_url": "/audio/indie/20260926_170852.mp3?v=1790453024"
+}
