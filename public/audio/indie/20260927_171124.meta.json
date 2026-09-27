@@ -1,0 +1,866 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-09-27T17:11:24+09:00",
+  "title": "軋んだ破片 〜ゼノギアス、二枚目のディスクに賭けた物語〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 363.24,
+  "script_hash": "sha256:bd19b7278ffeabb514785808eab34271fa57c90fabd06f2541d32d87dfaf5aec",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 6.47
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "旅の道ラジオへようこそなのだ！ パーソナリティのずんだもんなのだー！",
+      "news_index": 0,
+      "start_sec": 6.47,
+      "end_sec": 10.94
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "今回はレトロゲーム回なのだ！",
+      "news_index": 0,
+      "start_sec": 11.02,
+      "end_sec": 13.35
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "またまた、あーしが担当するっすよー！ 今回のテーマは『ゼノギアス』っす！",
+      "news_index": 0,
+      "start_sec": 13.5,
+      "end_sec": 18.52
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "1998年にスクウェアから出た、巨大ロボに乗り込むプレイステーションのRPGっす。",
+      "news_index": 0,
+      "start_sec": 18.6,
+      "end_sec": 24.28
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ギアって、自転車の変速機のことなのだ？",
+      "news_index": 0,
+      "start_sec": 24.43,
+      "end_sec": 27.95
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "先輩それガチ違うっす。作中のギアは人が乗り込む人型の機動兵器っすよ。",
+      "news_index": 0,
+      "start_sec": 28.1,
+      "end_sec": 33.14
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに、生身の人間ドラマとロボット戦が同じ物語に同居してるRPGって話っす。",
+      "news_index": 0,
+      "start_sec": 33.22,
+      "end_sec": 39.21
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "発売はいつだったのだ？",
+      "news_index": 1,
+      "start_sec": 39.36,
+      "end_sec": 41.16
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "1998年2月11日っす。ディスク2枚組の、当時の大作枠っすね。",
+      "news_index": 1,
+      "start_sec": 41.31,
+      "end_sec": 47.13
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "1998年って、ボクが生まれる前の前の前くらいなのだ。",
+      "news_index": 1,
+      "start_sec": 47.28,
+      "end_sec": 51.97
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "shirake",
+      "text": "先輩、生まれ直しすぎっす。",
+      "news_index": 1,
+      "start_sec": 52.12,
+      "end_sec": 54.32
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "……気持ちの問題なのだ。",
+      "news_index": 1,
+      "start_sec": 54.47,
+      "end_sec": 55.92
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "定価は6,800円っす。あーしの当時のお年玉スケールだとガチで一撃っすね。",
+      "news_index": 1,
+      "start_sec": 56.07,
+      "end_sec": 61.28
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "お年玉が消し飛ぶ値段なのだ。それでも売れたのだ？",
+      "news_index": 1,
+      "start_sec": 61.43,
+      "end_sec": 64.82
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "国内で約90万本っす。",
+      "news_index": 1,
+      "start_sec": 64.97,
+      "end_sec": 66.93
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "90万本ってことは、ずんだ餅90万個と交換できるってことなのだ！",
+      "news_index": 1,
+      "start_sec": 67.08,
+      "end_sec": 72.64
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "その換算レート初耳っす。要するに、当時のRPGとしてガッツリ売れた一本ってことっす。",
+      "news_index": 1,
+      "start_sec": 72.79,
+      "end_sec": 78.91
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "作ってたのは誰なのだ？",
+      "news_index": 1,
+      "start_sec": 79.06,
+      "end_sec": 80.85
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "発売元がスクウェアで、開発はスクウェアの開発第3事業部っす。",
+      "news_index": 1,
+      "start_sec": 81.0,
+      "end_sec": 85.33
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ディレクターと脚本が高橋哲哉、このかたっす。",
+      "news_index": 1,
+      "start_sec": 85.41,
+      "end_sec": 88.5
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "高橋さんは、きっと夜型生活なのだ。",
+      "news_index": 1,
+      "start_sec": 88.65,
+      "end_sec": 91.62
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "生活リズムの話は誰も聞いてないっす。要するに、この作品は高橋哲哉の頭の中を丸ごと出した一本ってことっす。",
+      "news_index": 1,
+      "start_sec": 91.77,
+      "end_sec": 99.46
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "そのかたは今も現役なのだ？",
+      "news_index": 1,
+      "start_sec": 99.61,
+      "end_sec": 101.75
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "現役どころか、今はモノリスソフトの取締役っす。",
+      "news_index": 1,
+      "start_sec": 101.9,
+      "end_sec": 105.34
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "キャラクターデザインは田中久仁彦、音楽は光田康典っす。",
+      "news_index": 1,
+      "start_sec": 105.42,
+      "end_sec": 109.2
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "情報が急に増えたのだ……ぐるぐるするのだ。",
+      "news_index": 1,
+      "start_sec": 109.35,
+      "end_sec": 112.98
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "落ち着いてほしいっす。名前は全部おぼえなくていいっす、音だけ持って帰ってほしいっす。",
+      "news_index": 1,
+      "start_sec": 113.13,
+      "end_sec": 118.41
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ボク、ロボと音楽の組み合わせは大好きなのだー。",
+      "news_index": 1,
+      "start_sec": 118.56,
+      "end_sec": 122.27
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "分かるっす！ あーしはこのゲームの音楽で情緒を破壊されたクチっす！",
+      "news_index": 1,
+      "start_sec": 122.42,
+      "end_sec": 126.54
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "エンディングテーマがまたヤバいっす。作曲が光田康典で、作詞は加藤正人っす。",
+      "news_index": 1,
+      "start_sec": 126.62,
+      "end_sec": 131.8
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "曲名はなんていうのだ？",
+      "news_index": 1,
+      "start_sec": 131.95,
+      "end_sec": 133.8
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "SMALL TWO OF PIECES、軋んだ破片っていう曲っす。歌ってるのはジョアン・ホッグっす。",
+      "news_index": 1,
+      "start_sec": 133.95,
+      "end_sec": 139.67
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ボーカル入りのエンディングって、当時のRPGだと珍しかったのだ？",
+      "news_index": 1,
+      "start_sec": 139.82,
+      "end_sec": 144.43
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "珍しかったっす。歌モノのスタッフロールで泣かされる時代の、入口みたいなノリっすね。",
+      "news_index": 1,
+      "start_sec": 144.58,
+      "end_sec": 149.91
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "肝心の中身はどんな話なのだ？",
+      "news_index": 1,
+      "start_sec": 150.06,
+      "end_sec": 152.53
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "主人公はフェイっていう青年で、ラハンっていう辺境の村で暮らしてるっす。",
+      "news_index": 1,
+      "start_sec": 152.68,
+      "end_sec": 157.16
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "過去の記憶がない状態で村に預けられてて、そこにギアが飛んでくるっす。",
+      "news_index": 1,
+      "start_sec": 157.24,
+      "end_sec": 161.6
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "村にロボが降ってくるって、ご近所トラブルでは済まないのだ。",
+      "news_index": 1,
+      "start_sec": 161.75,
+      "end_sec": 165.56
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "済まないっす。そこから物語が動いて、ヒロインのエリィと出会ってフェイが変わっていくっす。",
+      "news_index": 1,
+      "start_sec": 165.71,
+      "end_sec": 170.99
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "つむぎ、そこから先はしゃべりすぎないのだ。",
+      "news_index": 1,
+      "start_sec": 171.14,
+      "end_sec": 174.39
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "分かってるっす、核心はぜったい言わないっす。オタクくんの初見を守るのがあーしの仕事っす。",
+      "news_index": 1,
+      "start_sec": 174.54,
+      "end_sec": 180.38
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "戦闘はどうなってるのだ？",
+      "news_index": 1,
+      "start_sec": 180.53,
+      "end_sec": 182.48
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "生身のバトルはボタンの組み合わせで技をつないでいくタイプっす。ギア戦は燃料とにらめっこしながら殴る別ゲーっす。",
+      "news_index": 1,
+      "start_sec": 182.63,
+      "end_sec": 189.39
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "同じゲームの中に2種類の戦闘があるってことなのだ？",
+      "news_index": 1,
+      "start_sec": 189.54,
+      "end_sec": 194.01
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そうっす。人間サイズとロボサイズで、頭の使いかたが切り替わるのが気持ちいいっす。",
+      "news_index": 1,
+      "start_sec": 194.16,
+      "end_sec": 199.44
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "マップも当時としては変わってたのだ？",
+      "news_index": 1,
+      "start_sec": 199.59,
+      "end_sec": 202.01
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "回せるんすよマップが！ ぐるっと360度回して、ジャンプして登れるっす！",
+      "news_index": 1,
+      "start_sec": 202.16,
+      "end_sec": 207.03
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "回して登れる……ボクの部屋の掃除もそれでいけるのだ。",
+      "news_index": 1,
+      "start_sec": 207.18,
+      "end_sec": 210.65
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "先輩の部屋は回さなくていいっす。それ、回したら中身が全部出てくるやつっすよ。",
+      "news_index": 1,
+      "start_sec": 210.8,
+      "end_sec": 216.08
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "で、ここからがこの回の本題っす。ディスク2の話っす。",
+      "news_index": 1,
+      "start_sec": 216.16,
+      "end_sec": 219.94
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "2枚目でなにが起きるのだ？",
+      "news_index": 1,
+      "start_sec": 220.09,
+      "end_sec": 222.06
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kangae",
+      "text": "ディスク2は、物語が語り主体で進む場面がぐっと増えるっす。",
+      "news_index": 1,
+      "start_sec": 222.21,
+      "end_sec": 226.27
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "RPGが途中からノベルゲーになるってことなのだ？",
+      "news_index": 1,
+      "start_sec": 226.42,
+      "end_sec": 230.02
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そう言われがちっす。ここは当時からガチで賛否両論のポイントっす。",
+      "news_index": 1,
+      "start_sec": 230.17,
+      "end_sec": 234.43
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "遊べる部分が減ったら、怒る人もいるのだ。",
+      "news_index": 1,
+      "start_sec": 234.58,
+      "end_sec": 237.51
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "いるっす。ただ、あーしはあの語りの圧が忘れられない派っす。",
+      "news_index": 1,
+      "start_sec": 237.66,
+      "end_sec": 241.57
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "作ったかたは、そこをどう思ってるのだ？",
+      "news_index": 1,
+      "start_sec": 241.72,
+      "end_sec": 244.39
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "高橋哲哉は後年、海外メディアで「正しい選択だったと思う」って答えてるっす。",
+      "news_index": 1,
+      "start_sec": 244.54,
+      "end_sec": 250.17
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "本人が言い切ってるのは強いのだ。",
+      "news_index": 1,
+      "start_sec": 250.32,
+      "end_sec": 252.58
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ディスク1で終わらせる案もあった中で、続きを描く方を選んだって話っす。",
+      "news_index": 1,
+      "start_sec": 252.73,
+      "end_sec": 257.37
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "途中で切らないで、最後まで見せたかったのだね。",
+      "news_index": 1,
+      "start_sec": 257.52,
+      "end_sec": 260.75
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに、綺麗にまとめるより全部渡す方を取った作品ってことっす。",
+      "news_index": 1,
+      "start_sec": 260.9,
+      "end_sec": 265.24
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "つむぎは実機で遊んだのだ？",
+      "news_index": 1,
+      "start_sec": 265.39,
+      "end_sec": 267.48
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "遊んだっす！ 中古屋で発掘して、ディスク入れ替えのカチャッて音まで記憶に焼き付いてるっす！",
+      "news_index": 1,
+      "start_sec": 267.63,
+      "end_sec": 273.15
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ギャル友達には絶対言えない趣味なんすけどね。",
+      "news_index": 1,
+      "start_sec": 273.23,
+      "end_sec": 275.95
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "つむぎ、それ前も言ってたのだ。友達の在庫は大丈夫なのだ？",
+      "news_index": 1,
+      "start_sec": 276.1,
+      "end_sec": 280.75
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "shirake",
+      "text": "……先輩。",
+      "news_index": 1,
+      "start_sec": 280.9,
+      "end_sec": 281.72
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "ごめんなさいなのだ……ボク、なにも言ってないのだ……",
+      "news_index": 1,
+      "start_sec": 281.87,
+      "end_sec": 286.07
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "コホン。話戻すっすよ。",
+      "news_index": 1,
+      "start_sec": 286.22,
+      "end_sec": 288.1
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "この作品の流れは、今もちゃんと続いてるっす。高橋哲哉はその後モノリスソフトを立ち上げてるっす。",
+      "news_index": 1,
+      "start_sec": 288.18,
+      "end_sec": 294.38
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "続編が出たのだ？",
+      "news_index": 1,
+      "start_sec": 294.53,
+      "end_sec": 296.02
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "直接の続編じゃないっす。ゼノサーガはナムコから、ゼノブレイドは任天堂から出てるっす。",
+      "news_index": 1,
+      "start_sec": 296.17,
+      "end_sec": 301.72
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "会社をまたいで名前だけ受け継がれてるって、なかなか珍しいのだ。",
+      "news_index": 1,
+      "start_sec": 301.87,
+      "end_sec": 306.11
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "それなっす。世界そのものは作品ごとに別物っすけど、匂いはガッツリ地続きっす。",
+      "news_index": 1,
+      "start_sec": 306.26,
+      "end_sec": 311.68
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "リスナーのみなさん、ここは覚えておくといいのだ。",
+      "news_index": 1,
+      "start_sec": 311.83,
+      "end_sec": 314.91
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "hisohiso",
+      "text": "ここだけの話、初見のかたは攻略情報を見ないで突っ込むのが一番おいしいっす。",
+      "news_index": 1,
+      "start_sec": 315.06,
+      "end_sec": 320.81
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ネタバレを踏まないのが最大の攻略なのだ。",
+      "news_index": 1,
+      "start_sec": 320.96,
+      "end_sec": 323.84
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "オタクくん、もし今から触るなら、ディスク1の入り方だけは静かに始めてほしいっす。",
+      "news_index": 1,
+      "start_sec": 323.99,
+      "end_sec": 329.17
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ロボに乗る前の、村の空気からちゃんと味わうのだ！",
+      "news_index": 1,
+      "start_sec": 329.32,
+      "end_sec": 332.78
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "さすが先輩っす！ それが一番正しい遊びかたっす！",
+      "news_index": 1,
+      "start_sec": 332.93,
+      "end_sec": 336.48
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ちなみにボク、まだギアは変速機だと思ってるのだ。",
+      "news_index": 1,
+      "start_sec": 336.63,
+      "end_sec": 340.52
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "最後に全部持っていかないでほしいっす。要するに先輩、話ぜんぜん聞いてなかったっすね。",
+      "news_index": 1,
+      "start_sec": 340.67,
+      "end_sec": 346.17
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "というわけで今回は『ゼノギアス』の回でした！ また旅の道ラジオで会いましょうなのだー！",
+      "news_index": 1,
+      "start_sec": 346.32,
+      "end_sec": 352.39
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "またっすよー！ オタクくん、ばいばーい！",
+      "news_index": 1,
+      "start_sec": 352.54,
+      "end_sec": 355.08
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 355.78,
+      "end_sec": 363.24
+    }
+  ],
+  "wall_time_sec": 16.7,
+  "audio_url": "/audio/indie/20260927_171124.mp3?v=1790539622"
+}
