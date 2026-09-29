@@ -1,0 +1,956 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-09-30T05:01:44+09:00",
+  "title": "最期の歌が響く夜 〜SWAN SONG、教会に集まった人たち〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 376.15,
+  "script_hash": "sha256:bb0bfb5b3177d5313908dca4cf59c909ff66205f9d68d7f3a75b980f56cf2c93",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 4.69
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "旅の道ラジオへようこそなのだ！パーソナリティのずんだもんなのだー！",
+      "news_index": 0,
+      "start_sec": 4.69,
+      "end_sec": 9.16
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "今回はレトロゲーム回なのだ！",
+      "news_index": 0,
+      "start_sec": 9.24,
+      "end_sec": 11.37
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "またまた、あーしが担当するっすよー！今回のテーマは『スワンソング』っす！",
+      "news_index": 0,
+      "start_sec": 11.52,
+      "end_sec": 16.58
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "クリスマスイブに大地震が起きた街を描く、2005年のノベルゲーっす！",
+      "news_index": 0,
+      "start_sec": 16.66,
+      "end_sec": 21.06
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "スワンソングって、白鳥の生態を観察するゲームなのだ？",
+      "news_index": 0,
+      "start_sec": 21.21,
+      "end_sec": 25.84
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "先輩それガチ違うっす。白鳥が死ぬ間際に一度だけ鳴くっていう言い伝えから来た言葉っすよ",
+      "news_index": 0,
+      "start_sec": 25.99,
+      "end_sec": 31.6
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに「最期の歌」って意味のタイトルっす。",
+      "news_index": 0,
+      "start_sec": 31.68,
+      "end_sec": 34.79
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "いきなり重いのだ……。ケーキの話とかは無いのだ？",
+      "news_index": 0,
+      "start_sec": 34.94,
+      "end_sec": 38.18
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "発売は2005年7月29日、作ってるのはフライングシャインっす。",
+      "news_index": 1,
+      "start_sec": 38.33,
+      "end_sec": 42.87
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ジャンルはビジュアルノベル、18禁のパソコンゲームっす。",
+      "news_index": 1,
+      "start_sec": 42.95,
+      "end_sec": 46.34
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "18禁！ ボク、この話していいのだ？",
+      "news_index": 1,
+      "start_sec": 46.49,
+      "end_sec": 50.38
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "中身はほぼ災害サバイバル群像劇っすよ。むしろエロ目当てで買った人が一番びっくりするやつっす",
+      "news_index": 1,
+      "start_sec": 50.53,
+      "end_sec": 56.86
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ジャケットで釣っておいて心を折ってくるタイプなのだ？",
+      "news_index": 1,
+      "start_sec": 57.01,
+      "end_sec": 60.29
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "言い方 w でも当たらずとも遠からずっす。",
+      "news_index": 1,
+      "start_sec": 60.44,
+      "end_sec": 62.86
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "舞台はクリスマスイブの夜、雪が降る山奥の地方都市っす。",
+      "news_index": 1,
+      "start_sec": 62.94,
+      "end_sec": 66.81
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "クリスマスイブ！ やっぱりケーキとチキンの話なのだー！",
+      "news_index": 1,
+      "start_sec": 66.96,
+      "end_sec": 71.06
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "そこで大地震っす。街が壊滅して、外と完全に切り離されるっす",
+      "news_index": 1,
+      "start_sec": 71.21,
+      "end_sec": 75.83
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "ケーキが3秒で消えたのだ……",
+      "news_index": 1,
+      "start_sec": 75.98,
+      "end_sec": 78.34
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "生き残った人たちが、雪をしのげる古い教会に集まってくるっす。",
+      "news_index": 1,
+      "start_sec": 78.49,
+      "end_sec": 82.72
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そこから始まるのが、極限状態の人間観察っす。",
+      "news_index": 1,
+      "start_sec": 82.8,
+      "end_sec": 86.36
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "助けは来ないのだ？",
+      "news_index": 1,
+      "start_sec": 86.51,
+      "end_sec": 88.03
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そこが肝っす。外から誰も来ないって前提で話が進むっす",
+      "news_index": 1,
+      "start_sec": 88.18,
+      "end_sec": 92.14
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "じゃあ教会でみんなで讃美歌でも歌って過ごすのだ。平和なのだー",
+      "news_index": 1,
+      "start_sec": 92.29,
+      "end_sec": 97.17
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "shirake",
+      "text": "……先輩。それができる話なら、タイトルが『スワンソング』にならないっす",
+      "news_index": 1,
+      "start_sec": 97.32,
+      "end_sec": 102.42
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "……そうなのだ。ごめんなさいなのだ……",
+      "news_index": 1,
+      "start_sec": 102.57,
+      "end_sec": 104.61
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに、人が追い詰められた時になにをするかを、ひたすら見せる作品っす。",
+      "news_index": 1,
+      "start_sec": 104.76,
+      "end_sec": 109.46
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "ここからガチで語らせてもらうっすけど、この作品はシナリオのかたが完全に主役っす！",
+      "news_index": 2,
+      "start_sec": 109.54,
+      "end_sec": 114.65
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "企画もシナリオも演出も、瀬戸口廉也ってかたが一人で担当してるっす。",
+      "news_index": 2,
+      "start_sec": 114.73,
+      "end_sec": 119.19
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "一人で三役なのだ？ 働きすぎなのだ",
+      "news_index": 2,
+      "start_sec": 119.34,
+      "end_sec": 122.24
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そのぶん作品のトーンがブレないっす。全部おんなじ体温で書かれてるっす",
+      "news_index": 2,
+      "start_sec": 122.39,
+      "end_sec": 126.81
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "他にはどんなの作ってるのだ？ リスナーのみなさんも気になってるはずなのだ！",
+      "news_index": 2,
+      "start_sec": 126.96,
+      "end_sec": 131.71
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "前作が『カーニバル』、2年後に『キラ☆キラ』っす！",
+      "news_index": 2,
+      "start_sec": 131.86,
+      "end_sec": 135.86
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そのあとも2019年、2022年、2023年って、今も現役で書き続けてるかたっす！",
+      "news_index": 2,
+      "start_sec": 135.94,
+      "end_sec": 142.6
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "20年ずっと人を鬱にし続けてるってことなのだ",
+      "news_index": 2,
+      "start_sec": 142.75,
+      "end_sec": 146.43
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "その紹介やめるっす w 小説家としても本を何冊も出してるかたっすよ",
+      "news_index": 2,
+      "start_sec": 146.58,
+      "end_sec": 150.82
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "つまりゲームの外でも、ちゃんと書き手として立ってるってことっす。",
+      "news_index": 2,
+      "start_sec": 150.9,
+      "end_sec": 154.5
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "絵の人は誰なのだ？",
+      "news_index": 2,
+      "start_sec": 154.65,
+      "end_sec": 156.2
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "原画は川原誠ってかたっす。",
+      "news_index": 2,
+      "start_sec": 156.35,
+      "end_sec": 158.44
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "この絵がまた、柔らかいのに全然守ってくれない絵なんすよ！",
+      "news_index": 2,
+      "start_sec": 158.52,
+      "end_sec": 162.08
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "言葉の意味が分からないのだ……",
+      "news_index": 2,
+      "start_sec": 162.23,
+      "end_sec": 164.61
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "絵柄は優しいのに、描いてる状況が容赦ないって話っす。",
+      "news_index": 2,
+      "start_sec": 164.76,
+      "end_sec": 168.64
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "そのギャップが、この作品の世界をガッツリ作ってるっす。",
+      "news_index": 2,
+      "start_sec": 168.72,
+      "end_sec": 172.21
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "絵が優しいぶん、余計に刺さるってことなのだ。",
+      "news_index": 2,
+      "start_sec": 172.36,
+      "end_sec": 175.45
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そうそれっす！ さすが先輩っす！",
+      "news_index": 2,
+      "start_sec": 175.6,
+      "end_sec": 177.84
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "音楽も二組クレジットされてて、片方はゲームソング界隈で有名なバンドっす。",
+      "news_index": 2,
+      "start_sec": 177.92,
+      "end_sec": 182.82
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ボク、その情報だけでもうサントラ聴きたくなってるのだー",
+      "news_index": 2,
+      "start_sec": 182.97,
+      "end_sec": 187.04
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "オタクくん、ここからちょっとマニアックな話するっすよ。",
+      "news_index": 3,
+      "start_sec": 187.19,
+      "end_sec": 190.25
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "このゲーム、立ち絵が無いんすよ。",
+      "news_index": 3,
+      "start_sec": 190.33,
+      "end_sec": 192.39
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "立ち絵って、キャラが画面の真ん中にドンって立ってるアレなのだ？",
+      "news_index": 3,
+      "start_sec": 192.54,
+      "end_sec": 196.56
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "それっす。代わりに顔のアップみたいな絵が切り替わる方式っす",
+      "news_index": 3,
+      "start_sec": 196.71,
+      "end_sec": 200.59
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "予算が足りなかったのだ？",
+      "news_index": 3,
+      "start_sec": 200.74,
+      "end_sec": 202.8
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "違うっす、演出っす。表情だけ抜き出す方が距離が近く感じるっすよ",
+      "news_index": 3,
+      "start_sec": 202.95,
+      "end_sec": 207.6
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに、舞台劇じゃなくて映画のカット割りに寄せた作りっす。",
+      "news_index": 3,
+      "start_sec": 207.68,
+      "end_sec": 211.59
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "それは分かりやすい例えなのだ。",
+      "news_index": 3,
+      "start_sec": 211.74,
+      "end_sec": 213.82
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "しかも視点が一人じゃないっす！ 複数のキャラの内側を渡り歩く群像劇っす！",
+      "news_index": 3,
+      "start_sec": 213.97,
+      "end_sec": 218.8
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "主人公が入れ替わるってことなのだ？",
+      "news_index": 3,
+      "start_sec": 218.95,
+      "end_sec": 221.43
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そうっす。だから「誰が正しいのか」が最後まで固定されないっす",
+      "news_index": 3,
+      "start_sec": 221.58,
+      "end_sec": 226.08
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "うわー、それ考えながら読むと頭ぐるぐるするやつなのだ",
+      "news_index": 3,
+      "start_sec": 226.23,
+      "end_sec": 231.01
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "その揺れごと味わうゲームっす。ボイスもほぼ全キャラ入ってるっす",
+      "news_index": 3,
+      "start_sec": 231.16,
+      "end_sec": 235.06
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "2005年でほぼフルボイスは豪華なのだー！",
+      "news_index": 3,
+      "start_sec": 235.21,
+      "end_sec": 238.34
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "あーし、八坂あろえっていう女の子の声が耳から離れないっす！",
+      "news_index": 3,
+      "start_sec": 238.49,
+      "end_sec": 242.46
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "この子がちょっと特別な立ち位置で、物語の入り口になってるっす。",
+      "news_index": 3,
+      "start_sec": 242.54,
+      "end_sec": 246.6
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "どういう子なのだ？",
+      "news_index": 3,
+      "start_sec": 246.75,
+      "end_sec": 248.12
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kangae",
+      "text": "そこは遊んで確かめてほしいっす。説明した瞬間に薄くなるタイプの子っす",
+      "news_index": 3,
+      "start_sec": 248.27,
+      "end_sec": 253.3
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "つむぎがそこまで言うなら、黙って遊ぶのだ。",
+      "news_index": 3,
+      "start_sec": 253.45,
+      "end_sec": 256.42
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "評価の話するっすね。ユーザー投票のレビューサイトだと、中央値が85点っす",
+      "news_index": 4,
+      "start_sec": 256.57,
+      "end_sec": 262.09
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "85点ってどのくらいなのだ？",
+      "news_index": 4,
+      "start_sec": 262.24,
+      "end_sec": 264.57
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "あのジャンルだと相当上っす。ずっと「鬱ゲーの代表作」って呼ばれ続けてるっす",
+      "news_index": 4,
+      "start_sec": 264.72,
+      "end_sec": 270.11
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "鬱ゲー部門で優勝なのだ。表彰式が暗そうなのだー",
+      "news_index": 4,
+      "start_sec": 270.26,
+      "end_sec": 274.53
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "トロフィーがたぶん灰色っすね w",
+      "news_index": 4,
+      "start_sec": 274.68,
+      "end_sec": 276.74
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ただ、救いが無いだけの話じゃないっす。",
+      "news_index": 4,
+      "start_sec": 276.82,
+      "end_sec": 279.42
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "どんな状況でも折れない心を持ったキャラがちゃんと居るっす。そこがガチで効くっす！",
+      "news_index": 4,
+      "start_sec": 279.5,
+      "end_sec": 284.18
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "暗いだけの話なら、20年も語り継がれないのだ。",
+      "news_index": 4,
+      "start_sec": 284.33,
+      "end_sec": 287.92
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "まさにそれっす。要するに、絶望の隣に人の芯を置いてるから残ってるっす",
+      "news_index": 4,
+      "start_sec": 288.07,
+      "end_sec": 293.16
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "hisohiso",
+      "text": "ここだけの話、初回のCD-ROM版はとっくに生産終了で、中古がめちゃくちゃ高騰したんすよ",
+      "news_index": 4,
+      "start_sec": 293.24,
+      "end_sec": 300.61
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "高騰！？ 一本売ったら家が建つのだ！？",
+      "news_index": 4,
+      "start_sec": 300.76,
+      "end_sec": 303.99
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "建たないっす w 買い取り価格が跳ね上がるレベルって話っす",
+      "news_index": 4,
+      "start_sec": 304.14,
+      "end_sec": 307.49
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "で、2008年に安いDVD版が出て、2012年からはダウンロード版もあるっす。",
+      "news_index": 4,
+      "start_sec": 307.57,
+      "end_sec": 313.23
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "じゃあ今から遊びたい人は困らないのだ！ そこ大事なのだ！",
+      "news_index": 4,
+      "start_sec": 313.38,
+      "end_sec": 317.17
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そうっす！ 20年前の作品が今も普通に買えるって、それだけで幸せっす！",
+      "news_index": 4,
+      "start_sec": 317.32,
+      "end_sec": 322.32
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "注意点だけ言っとくっす。18禁だし、しんどい描写はちゃんとしんどいっす",
+      "news_index": 5,
+      "start_sec": 322.4,
+      "end_sec": 327.38
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "体調がいい時に、ちゃんと時間取ってやってほしいっす。",
+      "news_index": 5,
+      "start_sec": 327.46,
+      "end_sec": 330.83
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "軽い気持ちで寝る前に始めたら大変なのだ。",
+      "news_index": 5,
+      "start_sec": 330.98,
+      "end_sec": 334.03
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "あーし一回それやって、次の日ずっと魂抜けてたっす",
+      "news_index": 5,
+      "start_sec": 334.18,
+      "end_sec": 337.9
+    },
+    {
+      "index": 84,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "それ、感想じゃなくて事故報告なのだ。",
+      "news_index": 5,
+      "start_sec": 338.05,
+      "end_sec": 340.8
+    },
+    {
+      "index": 85,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "でも後悔してないっす！ そこがこの作品のヤバいとこっす！",
+      "news_index": 5,
+      "start_sec": 340.95,
+      "end_sec": 344.53
+    },
+    {
+      "index": 86,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ところでボク、まだ白鳥が一羽も出てきてない件を気にしてるのだ",
+      "news_index": 5,
+      "start_sec": 344.68,
+      "end_sec": 349.47
+    },
+    {
+      "index": 87,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "shirake",
+      "text": "……先輩。",
+      "news_index": 5,
+      "start_sec": 349.62,
+      "end_sec": 350.44
+    },
+    {
+      "index": 88,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "な、なんでもないのだ……",
+      "news_index": 5,
+      "start_sec": 350.59,
+      "end_sec": 352.86
+    },
+    {
+      "index": 89,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "タイトルの意味は、遊び終わった後にちゃんと分かるっす。そこまで我慢っす",
+      "news_index": 5,
+      "start_sec": 353.01,
+      "end_sec": 357.39
+    },
+    {
+      "index": 90,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "気になったリスナーのみんなは、ぜひ手に取ってみてほしいのだ！",
+      "news_index": 5,
+      "start_sec": 357.54,
+      "end_sec": 361.22
+    },
+    {
+      "index": 91,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "あーしはまた語りに来るっす！ オタクくん、ありがとうっすー！",
+      "news_index": 5,
+      "start_sec": 361.37,
+      "end_sec": 364.95
+    },
+    {
+      "index": 92,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "また旅の道ラジオで会いましょうなのだー！",
+      "news_index": 5,
+      "start_sec": 365.1,
+      "end_sec": 367.99
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 368.69,
+      "end_sec": 376.15
+    }
+  ],
+  "wall_time_sec": 18.94,
+  "audio_url": "/audio/indie/20260930_050144.mp3?v=1790712927"
+}
