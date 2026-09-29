@@ -1,0 +1,756 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-09-28T17:08:27+09:00",
+  "title": "看板を下ろす朝 〜消えたAIシールと、台所デビューのロボット〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 434.4,
+  "script_hash": "sha256:41f6568c2dd60064396c47667fe151efd93313b07682f31483b593060c6c289c",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 4.64
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便、テックニュースの回よ。四国めたんです。",
+      "news_index": 0,
+      "start_sec": 4.64,
+      "end_sec": 10.1
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝もテックの話、サクッと流していくのだ!",
+      "news_index": 0,
+      "start_sec": 10.25,
+      "end_sec": 15.07
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今日は四本。消えるパソコンの看板、声を聞き分けるAI、AIと人間の役割分担、それに台所を片付けるロボットね。",
+      "news_index": 0,
+      "start_sec": 15.22,
+      "end_sec": 23.76
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "台所!? ボクの部屋も片付けてほしいのだ!",
+      "news_index": 0,
+      "start_sec": 23.91,
+      "end_sec": 27.0
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "それは自分でやりなさい。ロボットの話は最後に取っておくわ。",
+      "news_index": 0,
+      "start_sec": 27.15,
+      "end_sec": 31.04
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "じゃあ、最後まで聴くしかないじゃん。",
+      "news_index": 0,
+      "start_sec": 31.19,
+      "end_sec": 33.56
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。マイクロソフトが九月二十三日に、新しいサーフェスを発表したの。",
+      "news_index": 1,
+      "start_sec": 33.71,
+      "end_sec": 38.89
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "サーフェス? 波に乗る板のことなのだ?",
+      "news_index": 1,
+      "start_sec": 39.04,
+      "end_sec": 41.96
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "それはサーフボード。マイクロソフトが自分で作ってる、ノートパソコンやタブレットのことよ。",
+      "news_index": 1,
+      "start_sec": 42.11,
+      "end_sec": 47.34
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "話題になったのは中身より名前。コパイロット プラス ピーシーっていう看板を、掲げなかったのよ。",
+      "news_index": 1,
+      "start_sec": 47.42,
+      "end_sec": 53.18
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "こぱいろっと? この前も出てきた、マイクロソフトのAIのお手伝いさんだっけ?",
+      "news_index": 1,
+      "start_sec": 53.33,
+      "end_sec": 58.95
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "同じブランドの仲間ね。今回のは、AI専用の部品を積んだパソコンに付ける、お墨付きのシールみたいなものなの。",
+      "news_index": 1,
+      "start_sec": 59.1,
+      "end_sec": 66.65
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "AI専用の部品って、どういうこと?",
+      "news_index": 1,
+      "start_sec": 66.8,
+      "end_sec": 69.78
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "エヌピーユーっていう、AIの計算だけを省電力でこなす小さな頭脳ね。パソコンの中に、AI係の店員さんを一人雇ってる感じよ。",
+      "news_index": 1,
+      "start_sec": 69.93,
+      "end_sec": 79.06
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "店員さん付きのパソコンじゃん! なんで看板を下ろしちゃったのだ?",
+      "news_index": 1,
+      "start_sec": 79.21,
+      "end_sec": 83.3
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "背景には、ブランドが十分に浸透しなかったことがあると見られてるの。調査会社は当時、2024年に出荷されるパソコンのうち、条件を満たす製品は3%ほどになると予測していたわ。",
+      "news_index": 1,
+      "start_sec": 83.45,
+      "end_sec": 95.96
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "3%!? クラスに一人いるかいないかじゃん!",
+      "news_index": 1,
+      "start_sec": 96.11,
+      "end_sec": 99.39
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "しかも、エヌビディアの新しいパソコン向けチップでも、この呼び名は前面に出されてないの。少なくとも一部のメーカーで、AIパソコンの看板を強調しない動きが出てるのね。",
+      "news_index": 1,
+      "start_sec": 99.54,
+      "end_sec": 110.09
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "誰も見てない文化祭の看板を、こっそり片付けてる感じなのだ。",
+      "news_index": 1,
+      "start_sec": 110.24,
+      "end_sec": 115.16
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "いい例えね。それに、AI向けのエヌピーユーを積む製品が増えて、対応機だけを特別な名前で区切る意味も薄れつつあるの。",
+      "news_index": 1,
+      "start_sec": 115.31,
+      "end_sec": 123.6
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、ボクがパソコンを買う時は何が変わるのだ?",
+      "news_index": 1,
+      "start_sec": 123.75,
+      "end_sec": 127.34
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに、シールだけで判断しにくくなったって話。使いたいAI機能があるなら、エヌピーユーの性能やメモリーも確認したほうがいいわ。",
+      "news_index": 1,
+      "start_sec": 127.49,
+      "end_sec": 136.18
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "シールより中身で選ぶのだ! 次行こ!",
+      "news_index": 1,
+      "start_sec": 136.33,
+      "end_sec": 138.95
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目。エヌビディアが九月二十三日に、話し手を聞き分けるAIを無料で公開したの。名前はネモトロン スリー ダイアライゼーション。",
+      "news_index": 2,
+      "start_sec": 139.1,
+      "end_sec": 147.14
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "だいあらいぜーしょん!? 呪文みたいで舌がもつれるのだ!",
+      "news_index": 2,
+      "start_sec": 147.29,
+      "end_sec": 151.61
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "日本語だと話者分離。会議の録音を聞いて、誰がいつしゃべったかを見分ける技術よ。",
+      "news_index": 2,
+      "start_sec": 151.76,
+      "end_sec": 157.38
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、じゃあボクたちの会話も、ずんだとめたんで仕分けてくれるってこと?",
+      "news_index": 2,
+      "start_sec": 157.53,
+      "end_sec": 162.16
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "まさにそれ。最大八人まで、しゃべってる最中にリアルタイムで見分けられるの。",
+      "news_index": 2,
+      "start_sec": 162.31,
+      "end_sec": 167.32
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "八人!? 班の話し合いを、まるごと聞き分けられるじゃん!",
+      "news_index": 2,
+      "start_sec": 167.47,
+      "end_sec": 171.33
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "声が重なる会話にも対応するのが売り。エヌビディアの報告では、初期のボイスアリーナの評価でトップの成績だったそうよ。",
+      "news_index": 2,
+      "start_sec": 171.48,
+      "end_sec": 178.91
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でもそういう賢いのって、でっかいコンピューター専用でしょ?",
+      "news_index": 2,
+      "start_sec": 179.06,
+      "end_sec": 183.2
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "そこが逆。大きさは一億パラメータで、今どきのAIとしてはかなり小柄よ。パラメータは、AIの脳みその細胞の数みたいなものね。",
+      "news_index": 2,
+      "start_sec": 183.35,
+      "end_sec": 192.02
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "小さくて賢いって、なんか親近感わくのだ。",
+      "news_index": 2,
+      "start_sec": 192.17,
+      "end_sec": 195.87
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "しかも商用でも使える形で配られてるの。会社が自分のアプリに組み込みやすいってことね。",
+      "news_index": 2,
+      "start_sec": 196.02,
+      "end_sec": 201.61
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、ボクたちの生活だと、どこで効いてくるのだ?",
+      "news_index": 2,
+      "start_sec": 201.76,
+      "end_sec": 205.35
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "会議の議事録で、誰の発言か分からない問題が減るわ。オンライン会議の自動まとめも、発言者つきが当たり前になっていくはずよ。",
+      "news_index": 2,
+      "start_sec": 205.5,
+      "end_sec": 214.15
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "つまり、会議で寝てたのがバレやすくなるってことなのだ。",
+      "news_index": 2,
+      "start_sec": 214.3,
+      "end_sec": 218.35
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "しゃべってないのが記録に残るだけ。寝なきゃいいのよ。",
+      "news_index": 2,
+      "start_sec": 218.5,
+      "end_sec": 221.71
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目は、ちょっと真面目な研究の話。中国の上海人工知能研究所や復旦大学などの共同チームが、AI開発の現場で、人とAIがどう役割を分けてるかを調べたの。",
+      "news_index": 3,
+      "start_sec": 221.79,
+      "end_sec": 233.77
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "AIを作る現場で、AIに手伝わせてるってことなのだ?",
+      "news_index": 3,
+      "start_sec": 233.92,
+      "end_sec": 238.23
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。自分たちのAI開発プロジェクトで、56人の参加者と、700件以上の作業の記録を分析したのよ。",
+      "news_index": 3,
+      "start_sec": 238.38,
+      "end_sec": 245.97
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、AIの出番はどれくらいなのだ?",
+      "news_index": 3,
+      "start_sec": 246.12,
+      "end_sec": 249.08
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "AIが関わってた作業は96.5%。ほぼ全部ね。",
+      "news_index": 3,
+      "start_sec": 249.23,
+      "end_sec": 253.68
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ほぼ全部!? じゃあ人間はお茶飲んでただけなのだ!?",
+      "news_index": 3,
+      "start_sec": 253.83,
+      "end_sec": 257.3
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "そう思うでしょ。ところが、やり方や設定を最後に決めたのは、85.5%が人間だったの。",
+      "news_index": 3,
+      "start_sec": 257.45,
+      "end_sec": 264.03
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "手はAIが動かすけど、決めるのは人間ってことなのだ?",
+      "news_index": 3,
+      "start_sec": 264.18,
+      "end_sec": 268.3
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そういうこと。レストランで言うと、AIがおすすめを並べて、人間が注文を決める形ね。",
+      "news_index": 3,
+      "start_sec": 268.45,
+      "end_sec": 274.75
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "ボクもメニューは店員さんに聞くけど、頼むのは自分なのだ。",
+      "news_index": 3,
+      "start_sec": 274.9,
+      "end_sec": 278.86
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "実際、AIは方法や修正案をよく提案する一方で、最終判断の多くは人間が担っていたそうよ。全部おまかせには、まだ遠いって話ね。",
+      "news_index": 3,
+      "start_sec": 279.01,
+      "end_sec": 289.33
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "これ、ボクたちにはどう関係あるのだ?",
+      "news_index": 3,
+      "start_sec": 289.48,
+      "end_sec": 292.2
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "仕事でAIを使うなら、選ぶ目を持ってる人が強いってこと。丸投げより、候補を見比べて決める力ね。",
+      "news_index": 3,
+      "start_sec": 292.35,
+      "end_sec": 298.92
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "最後のハンコは人間が押すわけだね! 次、お待ちかねのロボットなのだー!",
+      "news_index": 3,
+      "start_sec": 299.07,
+      "end_sec": 303.91
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ラスト四本目。スタンフォード大学とカルテックの研究チームが、人型ロボットに、初めて入る台所を片付けさせたの。",
+      "news_index": 4,
+      "start_sec": 304.06,
+      "end_sec": 311.49
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "初めての台所!? お鍋の場所も知らないのに、片付けられるのだ!?",
+      "news_index": 4,
+      "start_sec": 311.64,
+      "end_sec": 316.34
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこが見どころ。ロボットは中国のユニツリーのジー ワンで、脳みそ役にオープンエーアイのジーピーティー シックス アストラをつないだのよ。",
+      "news_index": 4,
+      "start_sec": 316.49,
+      "end_sec": 324.35
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "あすとら? 前に古い暗号を解いてた、あのAIじゃん?",
+      "news_index": 4,
+      "start_sec": 324.5,
+      "end_sec": 328.61
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "よく覚えてたわね。今回は、そのAIがロボットの行動を考えて、使う技と目標を直接選ぶの。仕組みの名前はホームボディよ。",
+      "news_index": 4,
+      "start_sec": 328.76,
+      "end_sec": 337.83
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "直接って、普段は違うってことなのだ?",
+      "news_index": 4,
+      "start_sec": 337.98,
+      "end_sec": 341.11
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "普通は、言葉や映像を理解するAIと動作の制御との間に、学習済みの行動モデルを挟むの。今回はその層を使わず、つかむ、歩く、引き出しを開けるみたいな技の一覧から、AIが直接選んで指示するのよ。",
+      "news_index": 4,
+      "start_sec": 341.26,
+      "end_sec": 356.05
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、コマンドを選んで戦うゲームみたいなやつじゃん!",
+      "news_index": 4,
+      "start_sec": 356.2,
+      "end_sec": 359.58
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "近いわね。しかも最初に部屋を歩き回って、どこに何があるかを自分で覚えるの。",
+      "news_index": 4,
+      "start_sec": 359.73,
+      "end_sec": 364.96
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "引っ越してきた子が、まず家の中を探検する感じなのだ。",
+      "news_index": 4,
+      "start_sec": 365.11,
+      "end_sec": 369.28
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "その記憶のおかげで、今は見えてない引き出しの中の物も取りに行けるんだって。台所専用の訓練は、特にしてないそうよ。",
+      "news_index": 4,
+      "start_sec": 369.43,
+      "end_sec": 377.1
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "訓練なしで!? ボクなんか、自分の家でもハサミの場所が分からないのに!",
+      "news_index": 4,
+      "start_sec": 377.25,
+      "end_sec": 382.06
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "それは片付けないからでしょ。ただ、AIの返事が遅いことや、モーターの熱みたいな課題は残ってるわ。",
+      "news_index": 4,
+      "start_sec": 382.21,
+      "end_sec": 388.64
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、うちに来てくれるのはいつなのだ?",
+      "news_index": 4,
+      "start_sec": 388.79,
+      "end_sec": 391.67
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "今すぐじゃないわ。でも言葉や映像を扱うAIが、専用の技を組み合わせてロボットを動かせると実演したのは、散らかった部屋を頼めば片付く未来への一歩ね。",
+      "news_index": 4,
+      "start_sec": 391.82,
+      "end_sec": 402.31
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "その日まで、ボクの部屋はこのままキープなのだ。",
+      "news_index": 4,
+      "start_sec": 402.46,
+      "end_sec": 405.54
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "キープしないで、今日片付けなさい。",
+      "news_index": 4,
+      "start_sec": 405.69,
+      "end_sec": 407.85
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで、今朝のテック朝便はここまでよ。",
+      "news_index": 0,
+      "start_sec": 407.93,
+      "end_sec": 410.87
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "AIのシールは消えて、声は聞き分けられて、決めるのは人間で、ロボットは台所デビューなのだ!",
+      "news_index": 0,
+      "start_sec": 411.02,
+      "end_sec": 417.49
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "きれいにまとめたわね。聴いてくれてるかた、今日も気をつけていってらっしゃい。",
+      "news_index": 0,
+      "start_sec": 417.64,
+      "end_sec": 421.98
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "また明日の朝便で会おうね! いってらっしゃいなのだ!",
+      "news_index": 0,
+      "start_sec": 422.13,
+      "end_sec": 425.4
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 426.1,
+      "end_sec": 434.4
+    }
+  ],
+  "wall_time_sec": 11.66,
+  "audio_url": "/audio/ai/20260928_170827.mp3?v=1790673350"
+}

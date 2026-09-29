@@ -1,0 +1,886 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-09-28T17:05:54+09:00",
+  "title": "無限の島の七日間 〜隠れた名作と呼ばれた一作目〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 412.66,
+  "script_hash": "sha256:e382eea9918d91e5ee877ce3b272fe0b271f4ec8d019c9773c2992cff661acd0",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 6.47
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "旅の道ラジオへようこそなのだ！パーソナリティのずんだもんなのだ！",
+      "news_index": 0,
+      "start_sec": 6.47,
+      "end_sec": 10.84
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "今回はレトロゲーム回なのだ！",
+      "news_index": 0,
+      "start_sec": 10.92,
+      "end_sec": 13.05
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "またまた、あーしが担当するっすよー！今回のテーマは『ネバーセブン』っす！",
+      "news_index": 0,
+      "start_sec": 13.2,
+      "end_sec": 18.25
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "南の島で同じ一週間と向き合う、SFサスペンス恋愛アドベンチャーっす！",
+      "news_index": 0,
+      "start_sec": 18.33,
+      "end_sec": 23.04
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ネバーセブン？コンビニの新しいやつなのだ？",
+      "news_index": 0,
+      "start_sec": 23.19,
+      "end_sec": 26.35
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "コンビニじゃないっす先輩。2000年にキッドってメーカーが出したアドベンチャーゲームっす。",
+      "news_index": 0,
+      "start_sec": 26.5,
+      "end_sec": 31.31
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに、のちの『エバーセブンティーン』に繋がるシリーズの一作目っす。",
+      "news_index": 0,
+      "start_sec": 31.39,
+      "end_sec": 36.01
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "おお、一作目！ボク、一作目って言葉に弱いのだー！",
+      "news_index": 0,
+      "start_sec": 36.16,
+      "end_sec": 40.76
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "先に言っとくっす、今回は核心のトリックも結末も一切喋らないっす。",
+      "news_index": 0,
+      "start_sec": 40.91,
+      "end_sec": 45.62
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "つむぎが黙るとか、逆に信用ならないのだ。",
+      "news_index": 0,
+      "start_sec": 45.77,
+      "end_sec": 49.26
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "そこは我慢するっす。あーしの理性、今回はフル稼働っす。",
+      "news_index": 0,
+      "start_sec": 49.41,
+      "end_sec": 53.62
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "じゃあ出自から行くっす。初出は2000年3月23日、プレステで出た『インフィニティ』ってタイトルっす。",
+      "news_index": 1,
+      "start_sec": 53.7,
+      "end_sec": 60.43
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "インフィニティって、車のやつなのだ？",
+      "news_index": 1,
+      "start_sec": 60.58,
+      "end_sec": 63.1
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "車じゃないっす、無限って意味っす。そのままシリーズの名前になってるっす。",
+      "news_index": 1,
+      "start_sec": 63.25,
+      "end_sec": 67.74
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "つまり『インフィニティ』が原型で、それを作り直した完全版が『ネバーセブン』っす。",
+      "news_index": 1,
+      "start_sec": 67.82,
+      "end_sec": 73.64
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "完全版があとから出るの、レトロあるあるなのだ。",
+      "news_index": 1,
+      "start_sec": 73.79,
+      "end_sec": 77.05
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "それなっす！ドリームキャスト版が2000年12月21日、そこからウィンドウズ、PS2、PSPって渡り歩いたっす！",
+      "news_index": 1,
+      "start_sec": 77.2,
+      "end_sec": 85.57
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "移植されすぎなのだ。もうゲームの方が旅してるのだ。",
+      "news_index": 1,
+      "start_sec": 85.72,
+      "end_sec": 89.13
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "先輩それ上手いっす。ちなみに開発も発売もキッドっす、まるっと自社製っす。",
+      "news_index": 1,
+      "start_sec": 89.28,
+      "end_sec": 94.37
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "初出の定価は6,800円っす。当時のプレステのアドベンチャーとしては標準的な値段っす。",
+      "news_index": 1,
+      "start_sec": 94.45,
+      "end_sec": 100.3
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "6,800円！それってずんだ餅に換算すると何個分なのだ？",
+      "news_index": 1,
+      "start_sec": 100.45,
+      "end_sec": 105.63
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "そこ換算しなくていいっす w。餅で経済を測る先輩、ガチで独自っす。",
+      "news_index": 1,
+      "start_sec": 105.78,
+      "end_sec": 110.52
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "あーしはリアタイ世代じゃないんで、中古屋のワゴンで発掘したクチっす。",
+      "news_index": 1,
+      "start_sec": 110.6,
+      "end_sec": 114.75
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ワゴンで見つけた時の顔、見てみたかったのだ。",
+      "news_index": 1,
+      "start_sec": 114.9,
+      "end_sec": 117.89
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "中身いくっす。舞台は西暦2019年、南海の孤島にあるロッジっす。",
+      "news_index": 2,
+      "start_sec": 118.04,
+      "end_sec": 123.18
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "2019年って、当時からしたら未来なのだ。ボクまだ豆だったのだ。",
+      "news_index": 2,
+      "start_sec": 123.33,
+      "end_sec": 127.97
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "先輩の豆時代は知らないっす w。主人公は石原誠、大学3年生っす。",
+      "news_index": 2,
+      "start_sec": 128.12,
+      "end_sec": 133.43
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "講義に出なさすぎて、罰として島のセミナー合宿に放り込まれるっす。",
+      "news_index": 2,
+      "start_sec": 133.51,
+      "end_sec": 137.76
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "サボりの罰が離島とか、大学が厳しすぎるのだ。普通は追加レポートじゃん。",
+      "news_index": 2,
+      "start_sec": 137.91,
+      "end_sec": 143.03
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そこが導入っす。で、4月6日に一人の女の子が倒れてるのを見つけるっす。",
+      "news_index": 2,
+      "start_sec": 143.18,
+      "end_sec": 148.41
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "えっ、いきなり不穏なのだ……合宿の話じゃなかったのだ？",
+      "news_index": 2,
+      "start_sec": 148.56,
+      "end_sec": 153.7
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "その直後にベッドで目が覚めて、日付を見たら4月1日に戻ってるっす。",
+      "news_index": 2,
+      "start_sec": 153.85,
+      "end_sec": 158.29
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "エイプリルフールなのだ！全部ウソでしたって落ちなのだ？",
+      "news_index": 2,
+      "start_sec": 158.44,
+      "end_sec": 162.41
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "ウソで済んだら苦労しないっす。六日後に起きることを先に見ちゃった、って構図っす。",
+      "news_index": 2,
+      "start_sec": 162.56,
+      "end_sec": 167.72
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに『残り一週間で、その結末を変えられるか』ってゲームっす。",
+      "news_index": 2,
+      "start_sec": 167.8,
+      "end_sec": 172.54
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "それ完全に締切と戦う話なのだ！ボクにも身に覚えがあるのだ！",
+      "news_index": 2,
+      "start_sec": 172.69,
+      "end_sec": 177.23
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "先輩の締切は自業自得っすけどね w。向こうは命がかかってるっす。",
+      "news_index": 2,
+      "start_sec": 177.38,
+      "end_sec": 181.75
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "スタッフ行くっす。企画・原案・シナリオが打越鋼太郎、監督が中澤工っす。",
+      "news_index": 3,
+      "start_sec": 181.83,
+      "end_sec": 187.8
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "打越さん、きっと締切も打ち越えてきた人なのだ。",
+      "news_index": 3,
+      "start_sec": 187.95,
+      "end_sec": 191.32
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "名前で人生決めつけないでほしいっす w。この二人が二年後に『エバーセブンティーン』を作るっす。",
+      "news_index": 3,
+      "start_sec": 191.47,
+      "end_sec": 197.26
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "あっ、それ聞いたことあるのだ！海の中の施設のやつなのだ？",
+      "news_index": 3,
+      "start_sec": 197.41,
+      "end_sec": 202.01
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "さすが先輩っす！その伝説の二作目に繋がる一作目が、これなんすよ！",
+      "news_index": 3,
+      "start_sec": 202.16,
+      "end_sec": 206.8
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "打越さんはこのあと『極限脱出』シリーズや『AIソムニウムファイル』も手がけてるっす。",
+      "news_index": 3,
+      "start_sec": 206.88,
+      "end_sec": 212.96
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "脱出ゲームの人なのだ！閉じ込められた人を書くのが好きすぎるのだ。",
+      "news_index": 3,
+      "start_sec": 213.11,
+      "end_sec": 217.43
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "中澤さんは『リメンバーイレブン』まで手がけて、そこでキッドを離れたっす。",
+      "news_index": 3,
+      "start_sec": 217.58,
+      "end_sec": 222.43
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "キャラデザは影崎夕那、音楽は阿保剛っす。",
+      "news_index": 3,
+      "start_sec": 222.51,
+      "end_sec": 225.61
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "音楽の話、気になるのだ。どんな感じなのだ？",
+      "news_index": 3,
+      "start_sec": 225.76,
+      "end_sec": 229.31
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "島の空気ごと閉じ込めたみたいな曲っす！あーし、いまだに作業用に流してるっす！",
+      "news_index": 3,
+      "start_sec": 229.46,
+      "end_sec": 234.8
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "つむぎ、それ一緒に聴いてくれる友達はいるのだ？",
+      "news_index": 3,
+      "start_sec": 234.95,
+      "end_sec": 238.82
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "shirake",
+      "text": "……先輩。",
+      "news_index": 3,
+      "start_sec": 238.97,
+      "end_sec": 239.79
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "な、なんでもないのだ……ごめんなさいなのだ……",
+      "news_index": 3,
+      "start_sec": 239.94,
+      "end_sec": 243.88
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "コホン。話戻すっす。",
+      "news_index": 3,
+      "start_sec": 244.03,
+      "end_sec": 245.79
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "評価の話するっす。この作品、当時は『隠れた名作』って呼ばれ方をしたっす。",
+      "news_index": 4,
+      "start_sec": 245.87,
+      "end_sec": 251.43
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "隠れてたのだ？かくれんぼが上手いソフトなのだ。",
+      "news_index": 4,
+      "start_sec": 251.58,
+      "end_sec": 254.67
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "売上が大爆発はしなかったって意味っす。中身は今でも語られてるっす。",
+      "news_index": 4,
+      "start_sec": 254.82,
+      "end_sec": 259.34
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "2000年の時点でループと量子論をギャルゲの文法でやってるのが、とにかく早いっす。",
+      "news_index": 4,
+      "start_sec": 259.42,
+      "end_sec": 264.36
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "つまりループものは全部この人が発明したってことなのだ！？",
+      "news_index": 4,
+      "start_sec": 264.51,
+      "end_sec": 268.78
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "そこまでは言ってないっす。ただ『流行より先にやってた』のは事実っす。",
+      "news_index": 4,
+      "start_sec": 268.93,
+      "end_sec": 273.48
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kangae",
+      "text": "ただ賛否もあるっす。二作目が化け物すぎて、比較されると分が悪いって声は根強いっす。",
+      "news_index": 4,
+      "start_sec": 273.56,
+      "end_sec": 279.47
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "弟が優秀すぎるお兄ちゃんなのだ。切ないのだ。",
+      "news_index": 4,
+      "start_sec": 279.62,
+      "end_sec": 283.1
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "例えが的確すぎて笑うっす。しかも初期版はラストが物足りないって言われて、後の移植で作り直されてるっす。",
+      "news_index": 4,
+      "start_sec": 283.25,
+      "end_sec": 289.84
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "あとから直せるの、すごいのだ。宿題の再提出が認められた感じじゃん。",
+      "news_index": 4,
+      "start_sec": 289.99,
+      "end_sec": 294.9
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "なので今から遊ぶなら、まとまってる後期バージョンが正解っす。",
+      "news_index": 4,
+      "start_sec": 295.05,
+      "end_sec": 298.8
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "構成はヒロイン別のルート分岐で、選択肢で分かれていくっす。",
+      "news_index": 4,
+      "start_sec": 298.88,
+      "end_sec": 302.81
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "サスペンスなのに恋愛ゲーってこと？そこ両立するのだ？",
+      "news_index": 4,
+      "start_sec": 302.96,
+      "end_sec": 306.86
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ジャンル表記も『サスペンス系恋愛アドベンチャー』っす。恋愛が七、SFが三くらいの配合って言われるっす。",
+      "news_index": 4,
+      "start_sec": 307.01,
+      "end_sec": 314.16
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "作中には『キュレイシンドローム』っていう架空の症候群も出てくるっす。",
+      "news_index": 4,
+      "start_sec": 314.24,
+      "end_sec": 318.77
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "急に言いにくい単語が出てきたのだ……舌が回らないのだ。",
+      "news_index": 4,
+      "start_sec": 318.92,
+      "end_sec": 323.66
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "hisohiso",
+      "text": "これが何なのかは、ここから先ガチのネタバレゾーンなんで喋らないっす。",
+      "news_index": 4,
+      "start_sec": 323.81,
+      "end_sec": 328.38
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "リスナーのみんな、ここは自分の目で確かめるのだ！",
+      "news_index": 4,
+      "start_sec": 328.53,
+      "end_sec": 331.79
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ところでつむぎ、どのヒロインが推しなのだ？",
+      "news_index": 4,
+      "start_sec": 331.87,
+      "end_sec": 335.03
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "namidame",
+      "text": "それ言うと語りが止まらなくなるんで、勘弁してほしいっす……",
+      "news_index": 4,
+      "start_sec": 335.18,
+      "end_sec": 338.88
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ボクは全員推しなのだー！これで平和なのだ！",
+      "news_index": 4,
+      "start_sec": 339.03,
+      "end_sec": 342.4
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "ここで朗報っす！2025年3月6日に、スイッチ、PS4、スチームでHDリマスターが出てるっす！",
+      "news_index": 5,
+      "start_sec": 342.55,
+      "end_sec": 350.16
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "えっ、新品で買えるのだ！中古屋を掘らなくていいのだ！",
+      "news_index": 5,
+      "start_sec": 350.31,
+      "end_sec": 354.58
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "価格は3,300円っす。実機を探し回った時代を思うと、ガチで恵まれてるっす。",
+      "news_index": 5,
+      "start_sec": 354.73,
+      "end_sec": 360.45
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "6,800円が3,300円！ずんだ餅換算だと……",
+      "news_index": 5,
+      "start_sec": 360.6,
+      "end_sec": 365.41
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "だからその単位やめるっす w。先輩の通貨、まだ生きてたんすね。",
+      "news_index": 5,
+      "start_sec": 365.56,
+      "end_sec": 369.68
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "しかも同じタイミングで『エバーセブンティーン』もリマスターされてるっす。",
+      "news_index": 5,
+      "start_sec": 369.76,
+      "end_sec": 373.96
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "一作目から入るのが正解なのだ？それとも有名な方から行くのだ？",
+      "news_index": 5,
+      "start_sec": 374.11,
+      "end_sec": 378.85
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kangae",
+      "text": "あーしは一作目から推すっす。二作目の見え方がガチで変わるっす。",
+      "news_index": 5,
+      "start_sec": 379.0,
+      "end_sec": 383.21
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "今回の結論いくっす。『ネバーセブン』はもう隠れた名作じゃなくて、普通に名作でいいっす。",
+      "news_index": 5,
+      "start_sec": 383.29,
+      "end_sec": 389.17
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "いい締めなのだ。かくれんぼ、終了なのだ。",
+      "news_index": 5,
+      "start_sec": 389.32,
+      "end_sec": 392.3
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "オタクくんも、ぜひあの島で一週間過ごしてほしいっす！",
+      "news_index": 5,
+      "start_sec": 392.45,
+      "end_sec": 395.9
+    },
+    {
+      "index": 84,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ということで今回はここまでなのだ！また旅の道ラジオで会いましょうなのだー！",
+      "news_index": 5,
+      "start_sec": 396.05,
+      "end_sec": 401.15
+    },
+    {
+      "index": 85,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "またっす！春日部つむぎでしたっす！",
+      "news_index": 5,
+      "start_sec": 401.3,
+      "end_sec": 403.66
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 404.36,
+      "end_sec": 412.66
+    }
+  ],
+  "wall_time_sec": 18.31,
+  "audio_url": "/audio/indie/20260928_170554.mp3?v=1790673356"
+}
