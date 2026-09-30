@@ -1,0 +1,816 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-09-30T17:03:42+09:00",
+  "title": "怪談は路地裏で待っている 〜昭和の下町、九人の呪い合い〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 358.03,
+  "script_hash": "sha256:33ffb75ecb004062eaaa2cf5ad640355e93f6051b413d6f05d0d1532bbaae66e",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 9.59
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "旅の道ラジオへようこそ。パーソナリティの四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 9.59,
+      "end_sec": 13.14
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー！リスナーのみなさん、今回もよろしくなのだ！",
+      "news_index": 0,
+      "start_sec": 13.29,
+      "end_sec": 17.92
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今回は新作ニュースじゃなくて、もう評判が固まってる一本を掘り下げる回よ。",
+      "news_index": 0,
+      "start_sec": 18.07,
+      "end_sec": 22.97
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "評判が固まってるって、要するに今から遊んでも間違いないやつってことなのだ？",
+      "news_index": 0,
+      "start_sec": 23.12,
+      "end_sec": 28.39
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。スクウェア・エニックスの『パラノマサイト』ね。",
+      "news_index": 0,
+      "start_sec": 28.54,
+      "end_sec": 32.59
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "パラノマ……サイト？ 心霊写真を投稿するサイトなのだ？",
+      "news_index": 0,
+      "start_sec": 32.74,
+      "end_sec": 37.46
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "投稿サイトじゃなくて、視るほうのサイトよ。副題が本所七不思議。",
+      "news_index": 0,
+      "start_sec": 37.61,
+      "end_sec": 41.91
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "七不思議！ ボクの知ってるやつは、夜中に音楽室のピアノが鳴るやつなのだ。",
+      "news_index": 0,
+      "start_sec": 42.06,
+      "end_sec": 47.06
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "それは学校の七不思議。こっちは江戸から伝わってる実在の怪談のほうよ。",
+      "news_index": 0,
+      "start_sec": 47.21,
+      "end_sec": 52.02
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "江戸から！？ 老舗すぎるのだー！",
+      "news_index": 0,
+      "start_sec": 52.17,
+      "end_sec": 54.58
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "舞台は昭和後期の東京、墨田区。その本所七不思議が、そのまま呪いの力になってるの。",
+      "news_index": 1,
+      "start_sec": 54.73,
+      "end_sec": 60.75
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "怪談が呪いに……具体的にどうなるのだ？",
+      "news_index": 1,
+      "start_sec": 60.9,
+      "end_sec": 63.9
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "呪いの珠を手にした九人の男女が、それぞれ相手を呪えるようになるのよ。",
+      "news_index": 1,
+      "start_sec": 64.05,
+      "end_sec": 68.74
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "九人で呪い合い！？ もう下町の治安が終わってるのだ。",
+      "news_index": 1,
+      "start_sec": 68.89,
+      "end_sec": 73.57
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "人情ドラマの顔をしておいて、中身はバトルロイヤルだわ。",
+      "news_index": 1,
+      "start_sec": 73.72,
+      "end_sec": 77.21
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "でも呪いって、そんなポンポン撃てるものなのだ？",
+      "news_index": 1,
+      "start_sec": 77.36,
+      "end_sec": 80.42
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこが上手くてね、呪いごとに発動条件が決まってるの。",
+      "news_index": 1,
+      "start_sec": 80.57,
+      "end_sec": 84.09
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "会話の流れでその条件を満たした瞬間、相手を呪える。それが戦闘なのよ。",
+      "news_index": 1,
+      "start_sec": 84.17,
+      "end_sec": 89.36
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "じゃあボクの発動条件は、ずんだ餅を横取りされた時なのだ！ めたん、覚えておくのだ！",
+      "news_index": 1,
+      "start_sec": 89.51,
+      "end_sec": 95.43
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "ずんだもん。",
+      "news_index": 1,
+      "start_sec": 95.58,
+      "end_sec": 96.39
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "……はい、なのだ？",
+      "news_index": 1,
+      "start_sec": 96.54,
+      "end_sec": 97.96
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "sexy",
+      "text": "その条件、今ここで満たしてあげましょうか。",
+      "news_index": 1,
+      "start_sec": 98.11,
+      "end_sec": 101.54
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "ごめんなさいなのだ……ボク、呪いませんのだ……",
+      "news_index": 1,
+      "start_sec": 101.69,
+      "end_sec": 105.7
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "コホン。要するに、会話そのものが武器になるっていう、テキストADVにしか出来ない設計ね。",
+      "news_index": 1,
+      "start_sec": 105.85,
+      "end_sec": 111.75
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "これ作ってるのはどこなのだ？ 尖りかたがインディーっぽいのだ。",
+      "news_index": 2,
+      "start_sec": 111.9,
+      "end_sec": 115.75
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "作ってるのも出してるのもスクウェア・エニックス。社内で作った小規模タイトルよ。",
+      "news_index": 2,
+      "start_sec": 115.9,
+      "end_sec": 120.71
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "えっ、大手なのに1,980円なのだ？ 安すぎて逆に怪しいのだ。",
+      "news_index": 2,
+      "start_sec": 120.86,
+      "end_sec": 126.06
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "お手ごろ価格のテキストアドベンチャーで勝負する、っていうのがそもそもの戦い方なんだって。",
+      "news_index": 2,
+      "start_sec": 126.21,
+      "end_sec": 131.56
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "フルプライスのゲーム一本で、パラノマサイトが四本買えるのだ！",
+      "news_index": 2,
+      "start_sec": 131.71,
+      "end_sec": 136.4
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "その計算が否定できないのが怖いところね。",
+      "news_index": 2,
+      "start_sec": 136.55,
+      "end_sec": 139.31
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ディレクターとシナリオは石山貴也さん。『スクールガールストライカーズ』とかを手掛けてきたかたよ。",
+      "news_index": 2,
+      "start_sec": 139.39,
+      "end_sec": 144.97
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "学園ものから昭和の怪談って、振れ幅が大きすぎるのだ。",
+      "news_index": 2,
+      "start_sec": 145.12,
+      "end_sec": 149.22
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "音楽は岩﨑英則さん。フロントミッションシリーズのメインコンポーザーね。",
+      "news_index": 2,
+      "start_sec": 149.37,
+      "end_sec": 153.89
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ロボットの人が下町の怪談……そのギャップ、ボクは好きなのだ。",
+      "news_index": 2,
+      "start_sec": 154.04,
+      "end_sec": 158.74
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "生演奏で昭和の空気を出してくる音づくりで、サントラも配信されてるわ。",
+      "news_index": 2,
+      "start_sec": 158.89,
+      "end_sec": 163.62
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "昭和の音、いいのだ。……で、実際の評判はどうだったのだ？",
+      "news_index": 3,
+      "start_sec": 163.77,
+      "end_sec": 168.2
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "Steam のユーザーレビューは圧倒的に好評。ずっと落ちてないわ。",
+      "news_index": 3,
+      "start_sec": 168.35,
+      "end_sec": 172.45
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "圧倒的って、どのくらい圧倒的なのだ？",
+      "news_index": 3,
+      "start_sec": 172.6,
+      "end_sec": 175.72
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "発売直後の時点で97％が好評。海外メディアの平均点も86点よ。",
+      "news_index": 3,
+      "start_sec": 175.87,
+      "end_sec": 181.99
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "97％！？ クラスの好感度で言ったら学級委員より上なのだ。",
+      "news_index": 3,
+      "start_sec": 182.14,
+      "end_sec": 188.48
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "学級委員は呪ってこないけどね。ついでに日本ゲーム大賞2023の優秀賞も獲ってるわ。",
+      "news_index": 3,
+      "start_sec": 188.63,
+      "end_sec": 194.74
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "ちゃんと表彰までされてるのだ！",
+      "news_index": 3,
+      "start_sec": 194.89,
+      "end_sec": 197.2
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "面白いのが、勧めてる人がみんな中身を喋らないのよ。",
+      "news_index": 3,
+      "start_sec": 197.35,
+      "end_sec": 200.95
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "出たのだ、ネタバレ厳禁勢。感想が全部いいから買えで終わるやつなのだ。",
+      "news_index": 3,
+      "start_sec": 201.1,
+      "end_sec": 206.89
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "理由はあってね、設定画面とかセーブとか、ゲームの外側まで巻き込んだ仕掛けがあるの。",
+      "news_index": 3,
+      "start_sec": 207.04,
+      "end_sec": 212.54
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "ゲームの外側！？ ボクのパソコンが呪われるってことなのだ？",
+      "news_index": 3,
+      "start_sec": 212.69,
+      "end_sec": 216.66
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "機械は無事よ。呪われるのはプレイヤーの思い込みのほう、って意味。",
+      "news_index": 3,
+      "start_sec": 216.81,
+      "end_sec": 221.06
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "hisohiso",
+      "text": "（ここだけの話、セールのタイミングだとワンコイン級まで下がったこともあるのよ）",
+      "news_index": 3,
+      "start_sec": 221.14,
+      "end_sec": 226.57
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "hisohiso",
+      "text": "（それはもう、買わない理由が消えるやつなのだ……）",
+      "news_index": 3,
+      "start_sec": 226.72,
+      "end_sec": 229.86
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "物語は群像劇で、中盤からは視点を切り替えながら読み解いていく形になるの。",
+      "news_index": 4,
+      "start_sec": 230.01,
+      "end_sec": 235.24
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "それミステリー好きが一番好きなやつなのだ。",
+      "news_index": 4,
+      "start_sec": 235.39,
+      "end_sec": 238.15
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、バラバラだった話が一本の線に繋がる瞬間が本体ね。",
+      "news_index": 4,
+      "start_sec": 238.3,
+      "end_sec": 242.56
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "怖さのほうはどうなのだ。ボク、ホラー苦手なのだ。",
+      "news_index": 4,
+      "start_sec": 242.71,
+      "end_sec": 246.07
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "幽霊がわーっと襲ってくる系じゃなくて、じわっと来るタイプよ。",
+      "news_index": 4,
+      "start_sec": 246.22,
+      "end_sec": 249.96
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "音と間で緊張感を作ってくるから、驚かされて疲れる感じは薄いわ。",
+      "news_index": 4,
+      "start_sec": 250.04,
+      "end_sec": 254.71
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "それならボクでも大丈夫そうなのだ。ちょっと安心したのだ。",
+      "news_index": 4,
+      "start_sec": 254.86,
+      "end_sec": 258.6
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "chuuni",
+      "text": "……呪いとは、祈りの裏返し。誰かを想う力が、そのまま刃に変わるということ……",
+      "news_index": 4,
+      "start_sec": 258.75,
+      "end_sec": 264.0
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "めたん、完全に発病してるのだ……",
+      "news_index": 4,
+      "start_sec": 264.15,
+      "end_sec": 267.75
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ふふ、怪談ものの話をしてると出ちゃうのよ。",
+      "news_index": 4,
+      "start_sec": 267.9,
+      "end_sec": 270.81
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "あとね、発売に合わせて本所七不思議の探索地図の令和版が配られたの。",
+      "news_index": 4,
+      "start_sec": 270.89,
+      "end_sec": 275.63
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "怪談スポットが実在するのだ！ それはもう歩きに行くしかないのだ！",
+      "news_index": 4,
+      "start_sec": 275.78,
+      "end_sec": 280.08
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "遊んでから墨田区を歩くと、風景の解像度が変わるって話ね。",
+      "news_index": 4,
+      "start_sec": 280.23,
+      "end_sec": 284.37
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、今この作品を勧める理由がもう一個あってね。",
+      "news_index": 5,
+      "start_sec": 284.45,
+      "end_sec": 288.01
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "なんなのだ？",
+      "news_index": 5,
+      "start_sec": 288.16,
+      "end_sec": 289.21
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今年の2月に、続編の『伊勢人魚物語』が出たのよ。",
+      "news_index": 5,
+      "start_sec": 289.36,
+      "end_sec": 293.47
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "シリーズになってたのだ！？ 知らなかったのだー！",
+      "news_index": 5,
+      "start_sec": 293.62,
+      "end_sec": 296.89
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "舞台は三重県、伊勢志摩の離島。今度は人魚の伝説で呪い合うわ。",
+      "news_index": 5,
+      "start_sec": 297.04,
+      "end_sec": 301.5
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "下町の次は離島で人魚……題材の選びかたが渋いのだ。",
+      "news_index": 5,
+      "start_sec": 301.65,
+      "end_sec": 305.73
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに、日本の伝承をひとつ選んで本気で作るシリーズになったってことね。",
+      "news_index": 5,
+      "start_sec": 305.88,
+      "end_sec": 310.59
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "コミカライズも出てて、そっちは本編のあとの後日譚が描かれてるわ。",
+      "news_index": 5,
+      "start_sec": 310.67,
+      "end_sec": 314.93
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあ順番的に、一作目からやるのが正解なのだ。",
+      "news_index": 5,
+      "start_sec": 315.08,
+      "end_sec": 318.65
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ええ、入口としては1,980円は破格だと思う。",
+      "news_index": 5,
+      "start_sec": 318.8,
+      "end_sec": 322.87
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ちなみに音楽室のピアノは、七不思議に入ってるのだ？",
+      "news_index": 5,
+      "start_sec": 323.02,
+      "end_sec": 327.37
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "入ってないわよ。江戸に音楽室はないでしょ。",
+      "news_index": 5,
+      "start_sec": 327.52,
+      "end_sec": 330.45
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "というわけで今回は、パラノマサイトの回だったのだー！",
+      "news_index": 5,
+      "start_sec": 330.6,
+      "end_sec": 334.19
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "気になったかたは、まず一作目から触ってみて。予備知識ゼロで飛び込むのが一番贅沢よ。",
+      "news_index": 5,
+      "start_sec": 334.34,
+      "end_sec": 339.98
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "ボクは自分の呪いの発動条件を考えながら寝るのだー！",
+      "news_index": 5,
+      "start_sec": 340.13,
+      "end_sec": 344.41
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "呪わずに寝なさい。それじゃ、また旅の道ラジオで会いましょう。",
+      "news_index": 5,
+      "start_sec": 344.56,
+      "end_sec": 349.53
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "またなのだー！",
+      "news_index": 5,
+      "start_sec": 349.68,
+      "end_sec": 350.69
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 351.39,
+      "end_sec": 358.03
+    }
+  ],
+  "wall_time_sec": 19.02,
+  "audio_url": "/audio/indie/20260930_170342.mp3?v=1790798571"
+}
