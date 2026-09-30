@@ -7,8 +7,8 @@
     <description>ずんだもん × めたん × つむぎが届ける、ゲーム &amp; テックニュース雑談ラジオ。朝便と夜便で毎日更新、レトロから新作まで、最新 AI 動向から業界マクロまで雑談形式でサクッと。</description>
     <language>ja</language>
     <copyright>© 2026 tabinomichi</copyright>
-    <lastBuildDate>Wed, 30 Sep 2026 17:03:27 +0900</lastBuildDate>
-    <pubDate>Wed, 30 Sep 2026 05:04:12 +0900</pubDate>
+    <lastBuildDate>Wed, 30 Sep 2026 21:13:36 +0900</lastBuildDate>
+    <pubDate>Wed, 30 Sep 2026 21:06:00 +0900</pubDate>
     <generator>build_rss_feed.py (tabinomichi radio)</generator>
     <image>
       <url>https://news.tabinomichi.jp/podcast-cover.png?v=1779005902</url>
@@ -29,6 +29,21 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>深海魚が潰れない理由は「中も外も同じ圧だから」では足りない 〜魚が8,400メートルより下で見つからない壁〜</title>
+      <link>https://news.tabinomichi.jp/radio/20260930_210600</link>
+      <guid isPermaLink="false">tabinomichi-radio-20260930_210600</guid>
+      <pubDate>Wed, 30 Sep 2026 21:06:00 +0900</pubDate>
+      <description>深海魚が水圧で潰れないのは体の中も外も同じ圧だから、という説明は半分しか合っていない、という話。【問い】では水深8,336メートルで撮影されたスネイルフィッシュが、頑丈どころかぶよぶよの体だと確認。【解説】では、圧力で壊れるのは体ではなくタンパク質で、水の粒がすき間に押し込まれて形がゆがむこと、それを防ぐ物質トリメチルアミンオキシドが深さに比例して増えること、増やすほど体液が濃くなり、およそ8,200メートルで海水と同じ濃さになり、8,000メートルから8,500メートルあたりが魚の限界になるという仮説を追った。【広がり】では、もっと深くに住むエビの仲間、魚の生臭さの正体、圧力を逆手に取る食品の高圧処理まで話した。</description>
+      <content:encoded><![CDATA[深海魚が水圧で潰れないのは体の中も外も同じ圧だから、という説明は半分しか合っていない、という話。【問い】では水深8,336メートルで撮影されたスネイルフィッシュが、頑丈どころかぶよぶよの体だと確認。【解説】では、圧力で壊れるのは体ではなくタンパク質で、水の粒がすき間に押し込まれて形がゆがむこと、それを防ぐ物質トリメチルアミンオキシドが深さに比例して増えること、増やすほど体液が濃くなり、およそ8,200メートルで海水と同じ濃さになり、8,000メートルから8,500メートルあたりが魚の限界になるという仮説を追った。【広がり】では、もっと深くに住むエビの仲間、魚の生臭さの正体、圧力を逆手に取る食品の高圧処理まで話した。]]></content:encoded>
+      <enclosure url="https://news.tabinomichi.jp/audio/zatsugaku/20260930_210600.mp3?v=1790770416" length="12971406" type="audio/mpeg"/>
+      <itunes:title>深海魚が潰れない理由は「中も外も同じ圧だから」では足りない 〜魚が8,400メートルより下で見つからない壁〜</itunes:title>
+      <itunes:summary>深海魚が水圧で潰れないのは体の中も外も同じ圧だから、という説明は半分しか合っていない、という話。【問い】では水深8,336メートルで撮影されたスネイルフィッシュが、頑丈どころかぶよぶよの体だと確認。【解説】では、圧力で壊れるのは体ではなくタンパク質で、水の粒がすき間に押し込まれて形がゆがむこと、それを防ぐ物質トリメチルアミンオキシドが深さに比例して増えること、増やすほど体液が濃くなり、およそ8,200メートルで海水と同じ濃さになり、8,000メートルから8,500メートルあたりが魚の限界になるという仮説を追った。【広がり】では、もっと深くに住むエビの仲間、魚の生臭さの正体、圧力を逆手に取る食品の高圧処理まで話した。</itunes:summary>
+      <itunes:image href="https://news.tabinomichi.jp/images/og/20260930_210600.jpg"/>
+      <itunes:duration>13:30</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>分厚い注意書きの朝 〜1.2兆円のお引っ越しと、兆で数える資金集め〜</title>
       <link>https://news.tabinomichi.jp/radio/20260930_050412</link>
@@ -1511,21 +1526,6 @@
       <itunes:summary>今回はレトロゲーム回。1986年にタカラから発売されたファミコン『トランスフォーマー・コンボイの謎』を、レトロ担当・春日部つむぎとずんだもんが深掘りする。クソゲーとして語り継がれる伝説の一本で、開始2秒で死ねる開幕即死、2×2ドットの見えない敵弾、クリアしてもタイトルの謎が解けないローマ字エンディングと、定番の理不尽ネタを総ざらい。パッケージの綴りがCOMVOYになっている誤植伝説、隠し文字を7つ集めると真エンディングに届く救済仕様、そして日本でザ・ムービーが公開されなかったせいで本当に「コンボイの謎」だった時代背景まで掘り下げる。理不尽に泣かされた世代も、名前しか知らないオタクくんも楽しめる回。</itunes:summary>
       <itunes:image href="https://news.tabinomichi.jp/images/og/20260818_050413.jpg"/>
       <itunes:duration>7:38</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>見張りが止まっていた一年 〜中の人がいたAIと、溶けるコネクタ〜</title>
-      <link>https://news.tabinomichi.jp/radio/20260817_051524</link>
-      <guid isPermaLink="false">tabinomichi-radio-20260817_051524</guid>
-      <pubDate>Mon, 17 Aug 2026 05:15:24 +0900</pubDate>
-      <description>テック朝便、今朝は五本立て。アンソロピックが公表した安全性の報告書で、危険な質問を弾くフィルターが一年近く止まっていた話から。次はサンフランシスコの街に立った「最先端AIチャット」の看板、その中身が男のかたひとりの手打ち返信だったという現代アート。三本目はオープンエーアイが壊滅的リスクを見張る専門チームを解散させた件を短めに。四本目は自作パソコン勢に効く話で、グラボの電源コネクタが溶ける理由と、今日から効く一行の対策。締めはアメリカの航空局がゲーマーを狙って航空管制官を募集し、2,000人以上の採用に成功した明るいニュース。通勤通学のおともにどうぞ。</description>
-      <content:encoded><![CDATA[テック朝便、今朝は五本立て。アンソロピックが公表した安全性の報告書で、危険な質問を弾くフィルターが一年近く止まっていた話から。次はサンフランシスコの街に立った「最先端AIチャット」の看板、その中身が男のかたひとりの手打ち返信だったという現代アート。三本目はオープンエーアイが壊滅的リスクを見張る専門チームを解散させた件を短めに。四本目は自作パソコン勢に効く話で、グラボの電源コネクタが溶ける理由と、今日から効く一行の対策。締めはアメリカの航空局がゲーマーを狙って航空管制官を募集し、2,000人以上の採用に成功した明るいニュース。通勤通学のおともにどうぞ。]]></content:encoded>
-      <enclosure url="https://news.tabinomichi.jp/audio/ai/20260817_051524.mp3?v=1786912044" length="8122661" type="audio/mpeg"/>
-      <itunes:title>見張りが止まっていた一年 〜中の人がいたAIと、溶けるコネクタ〜</itunes:title>
-      <itunes:summary>テック朝便、今朝は五本立て。アンソロピックが公表した安全性の報告書で、危険な質問を弾くフィルターが一年近く止まっていた話から。次はサンフランシスコの街に立った「最先端AIチャット」の看板、その中身が男のかたひとりの手打ち返信だったという現代アート。三本目はオープンエーアイが壊滅的リスクを見張る専門チームを解散させた件を短めに。四本目は自作パソコン勢に効く話で、グラボの電源コネクタが溶ける理由と、今日から効く一行の対策。締めはアメリカの航空局がゲーマーを狙って航空管制官を募集し、2,000人以上の採用に成功した明るいニュース。通勤通学のおともにどうぞ。</itunes:summary>
-      <itunes:image href="https://news.tabinomichi.jp/images/og/20260817_051524.jpg"/>
-      <itunes:duration>8:27</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
