@@ -1,0 +1,836 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-10-01T17:07:37+09:00",
+  "title": "108の星が集う城 〜幻想水滸伝IIとデュナン統一戦争〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 359.51,
+  "script_hash": "sha256:4bc9dd65ca8bca5f8ab05e37ee495c465c9d42a5f0f8718f80d327fd2e09998c",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 9.59
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "旅の道ラジオへようこそなのだ！ パーソナリティのずんだもんなのだー！",
+      "news_index": 0,
+      "start_sec": 9.59,
+      "end_sec": 14.06
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "welcome",
+      "text": "またまた、あーしが担当するっすよー！ 今回のテーマは『幻想水滸伝II』っす！",
+      "news_index": 0,
+      "start_sec": 14.21,
+      "end_sec": 19.71
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "幻想水滸伝……。水のほとりで釣りをする伝説のゲームなのだ?",
+      "news_index": 0,
+      "start_sec": 19.86,
+      "end_sec": 24.29
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "先輩それガチ違うっす。水滸伝は中国の古典で、豪傑が108人集まってくるやつっす",
+      "news_index": 0,
+      "start_sec": 24.44,
+      "end_sec": 30.6
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "108人!? 除夜の鐘と同じ数なのだ！",
+      "news_index": 0,
+      "start_sec": 30.75,
+      "end_sec": 34.15
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そこは合ってるっす、どっちも108っすからね。要するに『仲間を集めまくるRPG』っすよ",
+      "news_index": 0,
+      "start_sec": 34.3,
+      "end_sec": 40.81
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "基本情報からいくっす。1998年12月17日、コナミからプレイステーションで発売っす",
+      "news_index": 1,
+      "start_sec": 40.89,
+      "end_sec": 47.76
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "1998年……。ボクが生まれる前の前の前くらいなのだ",
+      "news_index": 1,
+      "start_sec": 47.91,
+      "end_sec": 52.4
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "先輩の年表ガバガバっすね w あーしも当然リアタイしてないっす",
+      "news_index": 1,
+      "start_sec": 52.55,
+      "end_sec": 56.45
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあ、つむぎはどこで手に入れたのだ?",
+      "news_index": 1,
+      "start_sec": 56.6,
+      "end_sec": 59.31
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "中古屋で発掘して実機でクリアしたっす！ ディスク、まだピカピカっすよ",
+      "news_index": 1,
+      "start_sec": 59.46,
+      "end_sec": 63.9
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ピカピカってことは、あんまり遊んでないのでは?",
+      "news_index": 1,
+      "start_sec": 64.05,
+      "end_sec": 67.65
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "磨いたんすよ！ 大事にしてるからっす！",
+      "news_index": 1,
+      "start_sec": 67.8,
+      "end_sec": 70.29
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ちなみに当時の定価は5,800円っす、税別っすね",
+      "news_index": 1,
+      "start_sec": 70.37,
+      "end_sec": 74.23
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "5,800円! ずんだ餅が何個買えると思ってるのだ!",
+      "news_index": 1,
+      "start_sec": 74.38,
+      "end_sec": 78.32
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "餅本位制やめるっす w あーしのお年玉スケールでもガチで一発勝負の値段っすね",
+      "news_index": 1,
+      "start_sec": 78.47,
+      "end_sec": 83.08
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "舞台はハイランド王国と、都市同盟がぶつかる『デュナン統一戦争』っす",
+      "news_index": 1,
+      "start_sec": 83.16,
+      "end_sec": 88.24
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "デュナン統一戦争……。ハイランドって、高いところに住んでる人たちなのだ?",
+      "news_index": 1,
+      "start_sec": 88.39,
+      "end_sec": 93.54
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "地名っす先輩、標高の話じゃないっす w",
+      "news_index": 1,
+      "start_sec": 93.69,
+      "end_sec": 96.57
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに『国と国の戦争に、少年が巻き込まれる話』っす",
+      "news_index": 1,
+      "start_sec": 96.65,
+      "end_sec": 101.3
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "主人公はどんな子なのだ?",
+      "news_index": 1,
+      "start_sec": 101.45,
+      "end_sec": 103.46
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "喋らない主人公っす。で、幼馴染で親友のジョウイと、義理の姉のナナミが最初から一緒っす",
+      "news_index": 1,
+      "start_sec": 103.61,
+      "end_sec": 110.14
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "幼馴染と姉と3人か……。いい話の匂いがするのだ",
+      "news_index": 1,
+      "start_sec": 110.29,
+      "end_sec": 114.27
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "……その匂いについて、あーしは何も言えないっす。ネタバレ厳禁っすからね",
+      "news_index": 1,
+      "start_sec": 114.42,
+      "end_sec": 118.85
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "今の間はなんなのだ! 急に怖いのだ!",
+      "news_index": 1,
+      "start_sec": 119.0,
+      "end_sec": 121.76
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "で、ここからが本題っす。仲間になるキャラが108人いるっす",
+      "news_index": 1,
+      "start_sec": 121.91,
+      "end_sec": 126.07
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "108人!? 出席取るだけで1日終わるのだ",
+      "news_index": 1,
+      "start_sec": 126.22,
+      "end_sec": 130.12
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "体感そのくらいの規模っす。ただ、全員集めなくてもクリアはできるっすよ",
+      "news_index": 1,
+      "start_sec": 130.27,
+      "end_sec": 134.97
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあ全員集める意味はあるのだ?",
+      "news_index": 1,
+      "start_sec": 135.12,
+      "end_sec": 137.46
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そろえると物語にボーナスが出るっす！ だからオタクくんは血眼で探すんすよ",
+      "news_index": 1,
+      "start_sec": 137.61,
+      "end_sec": 142.37
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに『やりこみが物語に直結する』設計っす",
+      "news_index": 1,
+      "start_sec": 142.45,
+      "end_sec": 146.39
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "集めた仲間は本拠地に住みつくっす。城がどんどん賑やかになるっすよ",
+      "news_index": 1,
+      "start_sec": 146.47,
+      "end_sec": 150.94
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "それ好きなやつなのだ！ 拠点が育つゲーム、ボク大好きなのだ",
+      "news_index": 1,
+      "start_sec": 151.09,
+      "end_sec": 155.71
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "料理イベントとかミニゲームとか、住人が増えるほど遊びも増えるっす",
+      "news_index": 1,
+      "start_sec": 155.86,
+      "end_sec": 160.05
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "つまり、108人分の家賃が入るのだ。城主は左うちわなのだ",
+      "news_index": 1,
+      "start_sec": 160.2,
+      "end_sec": 165.61
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "先輩、急に不動産の目になったっす w",
+      "news_index": 1,
+      "start_sec": 165.76,
+      "end_sec": 168.57
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "戦闘は3種類あるっす。普通のパーティ戦、1対1の一騎討ち、それから軍隊戦っす",
+      "news_index": 1,
+      "start_sec": 168.65,
+      "end_sec": 174.88
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "一騎討ちって、じゃんけんなのだ?",
+      "news_index": 1,
+      "start_sec": 175.03,
+      "end_sec": 177.56
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "読み合いって意味では近いっす。相手の出方を読んで、攻めるか受けるか選ぶっすね",
+      "news_index": 1,
+      "start_sec": 177.71,
+      "end_sec": 182.59
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "軍隊戦ってのは?",
+      "news_index": 1,
+      "start_sec": 182.74,
+      "end_sec": 184.24
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "マス目の上で軍を動かすシミュレーションっす！ RPGなのに急に戦略ゲーになるんすよ",
+      "news_index": 1,
+      "start_sec": 184.39,
+      "end_sec": 189.8
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "1本のソフトに3ジャンル詰まってるのだ!?",
+      "news_index": 1,
+      "start_sec": 189.95,
+      "end_sec": 192.74
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに『欲張りセット』っす。しかも全部ちゃんと物語につながってるっす",
+      "news_index": 1,
+      "start_sec": 192.89,
+      "end_sec": 198.05
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "あとこれ、前作のセーブデータを読み込めるっす",
+      "news_index": 1,
+      "start_sec": 198.13,
+      "end_sec": 201.05
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "え、前のゲームのデータを? 意味がわからないのだ……ぐるぐるするのだ",
+      "news_index": 1,
+      "start_sec": 201.2,
+      "end_sec": 206.94
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "読み込むと、一部のキャラや物語のディテールが変わるっす",
+      "news_index": 1,
+      "start_sec": 207.09,
+      "end_sec": 210.63
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "前に遊んだセーブが未来に効くって、ロマンなのだ！",
+      "news_index": 1,
+      "start_sec": 210.78,
+      "end_sec": 214.58
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "そこ分かるオタクくんは同志っす。当時これで震えたかた、多いっすからね",
+      "news_index": 1,
+      "start_sec": 214.73,
+      "end_sec": 219.39
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "音楽は東野美紀っす。制作の初期、サウンド担当はこのかた1人だったっす",
+      "news_index": 1,
+      "start_sec": 219.47,
+      "end_sec": 224.71
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "1人であの量を? 働きすぎなのだ……",
+      "news_index": 1,
+      "start_sec": 224.86,
+      "end_sec": 227.5
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "中国の民族音楽っぽい曲から、西洋風の激しい曲まで振り幅がえぐいっす",
+      "news_index": 1,
+      "start_sec": 227.65,
+      "end_sec": 232.83
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "あーし、ここの曲がガチで脳に焼き付いてるっす！ 聴いたことないオタクくんは探してみてほしいっす",
+      "news_index": 1,
+      "start_sec": 232.91,
+      "end_sec": 238.81
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "つむぎ、目が完全にオタクなのだ",
+      "news_index": 1,
+      "start_sec": 238.96,
+      "end_sec": 241.42
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "キャラクターデザインは石川史っす。柔らかい絵で、世界の空気ごと描くかたっす",
+      "news_index": 1,
+      "start_sec": 241.57,
+      "end_sec": 246.65
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "戦争の話なのに、優しい絵なのだね",
+      "news_index": 1,
+      "start_sec": 246.8,
+      "end_sec": 249.74
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そのギャップが効くんすよ。柔らかい絵だからこそ、重い場面が刺さるっす",
+      "news_index": 1,
+      "start_sec": 249.89,
+      "end_sec": 254.41
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "企画とディレクションとシナリオは村山吉隆っす。1作目からシリーズを立ち上げたかたっす",
+      "news_index": 1,
+      "start_sec": 254.49,
+      "end_sec": 259.99
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "その3つを1人で? 忙しすぎるのだ",
+      "news_index": 1,
+      "start_sec": 260.14,
+      "end_sec": 262.98
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "このかたは2024年2月6日に亡くなってるっす。同じ年の4月23日に、新作の百英雄伝が出たっす",
+      "news_index": 1,
+      "start_sec": 263.13,
+      "end_sec": 270.71
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kanashimi",
+      "text": "……スタッフのみんなが、遺志を継いで完成させたのだね",
+      "news_index": 1,
+      "start_sec": 270.86,
+      "end_sec": 274.44
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そうっす。だから今この作品に触れるのは、けっこう意味があると思うっす",
+      "news_index": 1,
+      "start_sec": 274.59,
+      "end_sec": 279.32
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "いやー、この話サークルでしたらドン引きされたんすけどね",
+      "news_index": 1,
+      "start_sec": 279.4,
+      "end_sec": 282.85
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "つむぎ、サークルに友達いたのだ? 想像上の存在じゃなかったのだ?",
+      "news_index": 1,
+      "start_sec": 283.0,
+      "end_sec": 288.25
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "shirake",
+      "text": "……先輩。",
+      "news_index": 1,
+      "start_sec": 288.4,
+      "end_sec": 289.22
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "な、なんでもないのだ……ごめんなさいなのだ……",
+      "news_index": 1,
+      "start_sec": 289.37,
+      "end_sec": 293.31
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "コホン。話戻すっすよ",
+      "news_index": 1,
+      "start_sec": 293.46,
+      "end_sec": 295.33
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "この作品、長いこと中古が高くて手を出しづらかったっす",
+      "news_index": 1,
+      "start_sec": 295.41,
+      "end_sec": 299.09
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "hisohiso",
+      "text": "名作なのに遊べないやつ、いちばん悔しいのだ……",
+      "news_index": 1,
+      "start_sec": 299.24,
+      "end_sec": 302.43
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そこに来たのがHDリマスターっす！ 2025年3月6日に、1作目と2作目セットで出たっすよ",
+      "news_index": 1,
+      "start_sec": 302.58,
+      "end_sec": 309.38
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "今から遊べるのだ! やったのだ！",
+      "news_index": 1,
+      "start_sec": 309.53,
+      "end_sec": 312.05
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "オートバトルとか倍速とかも付いて、だいぶ遊びやすくなってるっす",
+      "news_index": 1,
+      "start_sec": 312.2,
+      "end_sec": 316.13
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "リスナーのみなさん、これは触ってみるべきなのだ！",
+      "news_index": 1,
+      "start_sec": 316.28,
+      "end_sec": 319.34
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "最後にひとつだけ。この作品、物語の核心は絶対に調べずに遊んでほしいっす",
+      "news_index": 1,
+      "start_sec": 319.49,
+      "end_sec": 325.16
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ボク、つむぎが何回も言葉を飲み込んでたの、気づいてたのだ",
+      "news_index": 1,
+      "start_sec": 325.31,
+      "end_sec": 329.41
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "バレてたっすか w あーし、めっちゃ我慢してたっす",
+      "news_index": 1,
+      "start_sec": 329.56,
+      "end_sec": 332.41
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "で、結局……川釣りはできるのだ?",
+      "news_index": 1,
+      "start_sec": 332.56,
+      "end_sec": 335.82
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "できないっす！ 釣りたいなら別のゲーム行ってほしいっす w",
+      "news_index": 1,
+      "start_sec": 335.97,
+      "end_sec": 339.23
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "というわけで、今回は幻想水滸伝IIの話だったのだ！",
+      "news_index": 1,
+      "start_sec": 339.38,
+      "end_sec": 343.36
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "108人集める旅、オタクくんもぜひ体験してほしいっす！",
+      "news_index": 1,
+      "start_sec": 343.51,
+      "end_sec": 347.22
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "また旅の道ラジオで会いましょうなのだー！",
+      "news_index": 1,
+      "start_sec": 347.37,
+      "end_sec": 350.26
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ばいばいっすー！",
+      "news_index": 1,
+      "start_sec": 350.41,
+      "end_sec": 351.35
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 352.05,
+      "end_sec": 359.51
+    }
+  ],
+  "wall_time_sec": 19.75,
+  "audio_url": "/audio/indie/20261001_170737.mp3?v=1790884968"
+}

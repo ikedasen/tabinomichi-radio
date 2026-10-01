@@ -1,0 +1,511 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-10-01T08:09:45.502145+00:00",
+  "title": "道具箱を取り替える朝 〜宝石からレシピへ、そしてAIの上司禁止令〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "intro",
+      "text": "おはようございます、旅の道ラジオ朝便。テックの話題をサクッと流していく回、四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 眠い目こすりながら、今日もついていくのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今日は五本。名前が変わる便利機能に、脱エヌビディアの道具箱、それからAIの上司禁止令ね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "AIの上司!? ボクの上司がロボットになる未来、もう来てたのだ!?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "正確には、来ないように止める話。それは四本目のお楽しみ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "焦らされたのだ! じゃあ一本目、いってみるのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。グーグルのAI、ジェミニにあるジェムっていう機能が、十一月十七日からスキルに置き換わるの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ジェム? 宝石を集めるパズルゲームの話だっけ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "掘らないわよ。よく使うお願いの仕方を、あらかじめ保存しておける機能のこと。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "たとえば、この文章をやさしく直して、みたいな指示を毎回打たずに呼び出せるってわけ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、料理のレシピカードじゃん! 毎回作り方を説明しなくていいやつなのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いい例えね。新しいスキルは、入力欄でスラッシュを打つだけで呼べて、何枚も重ねて使えるの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "レシピの重ねがけ……カレーとハンバーグ、同時に作れちゃうのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "要するに、組み合わせて大きめの作業を任せやすくなったって話。しかもこの形式、アンソロピックが作った共通の型なのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ライバルの会社が作った型を、グーグルが使うってこと?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "オープンエーアイも似た機能をたたんでて、大手三社の形がそろってきたの。コンセントの差し込み口が統一されるようなものね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "でも待って。ジェムって、タダで使えてたやつなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "namidame",
+      "text": "そこは心配しなくて大丈夫。スキルは無料ユーザーにも提供されるって案内されてるの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "無料の宝石が、無料のレシピに進化するのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "普段使いで言うと、ジェムを使ってた人は、自動でスキルへ移される予定だから、移行後の使い方を確認しておく時期ってこと。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "ボク、自動で移った後にレシピの中身を確認しておくのだ。次いくのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目は半導体。中国のディープシークが九月三十日に、ファーウェイのAIチップ向けの開発道具を、無料で公開したのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ディープシークって、安くて賢いAIで騒がれた会社だっけ? ファーウェイはスマホの会社じゃん?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "どっちも正解。ファーウェイは、アセンドっていうAI用のチップも作ってるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、道具ってなんなのだ? トンカチとかノコギリ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "叩かないわよ。チップに計算のやり方を伝える、プログラムの言葉や部品のこと。中心はタイルラングっていう言語ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ふーん。それの何がすごいのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "今のAI業界は、エヌビディアのクーダっていう道具箱がほぼ標準。開発者がみんなそれに慣れてるから、チップだけ別の会社にするのが難しいのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、ゲーム機を乗り換えたら、今までのソフトが遊べなくなるやつと同じなのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "その感覚で合ってるわ。だから中国勢は、チップだけじゃなく道具箱ごと自前でそろえにきたってわけ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ハードだけじゃなく、ソフトでも独立宣言なのだ!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。ファーウェイの最新チップ向けに調整済みで、最大128個のチップをつなぐ構成にも対応してるんだって。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でもそれ、ボクのパソコンにも関係あるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "直接はないわね。ただAIの心臓部がエヌビディア一強じゃなくなれば、チップの奪い合いが少しゆるんで、値段に効いてくるかもしれない。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "グラボが車の値段から下りてくるなら、ボク全力で応援するのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "気が早いわね。数年がかりの話として覚えておいて。次。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目はちょっとピリッとした話。オープンエーアイが、自分たちのAIの考えた過程を、こっそり丸写ししようとする動きを止めたって発表したの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "考えた過程? 答えだけじゃなくて、途中式ってことなのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "まさに途中式。最近のAIは、答えを出す前に頭の中で筋道を組み立てるの。そこは各社がいちばん隠したい企業秘密なのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "わかった! テストで隣の席の子のノートを、途中式ごと写すやつなのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そのカンニングを、業界では蒸留って呼ぶの。強いAIの答えを大量に集めて、別のAIの教材にする手口ね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じょうりゅう? 理科の実験で、水を湯気にして集めるあれだっけ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "名前の由来はそのイメージ。いいところだけ煮詰めて抜き取るって感じだわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "で、誰が写そうとしてたのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "オープンエーアイの主張では、中国のAI、キミを作ってるムーンショットの関係者。七月二十四日と二十五日に、4,000を超える利用者から、該当する手口で16,000件のリクエストがあったそうよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "16,000回!? ボクが一生で先生に質問する回数より、ずっと多いのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "あなたはもうちょっと質問しなさい。ちなみに、守りの暗号そのものは破られてないって話よ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあ、そのアカウントたちはどうなったのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "利用停止で、登録のチェックも厳しくしたって。要するに、性能の競争が、手の内の守り合いに移ってきたってこと。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクたちには、何か変わるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "AIを仕事で組み込んでる人ほど、登録の確認や使い方のルールが、じわじわ厳しくなるかもね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "カンニングする子がいると、クラス全員の持ち物検査が厳しくなるやつなのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四本目は、冒頭で予告した上司の話。アメリカのカリフォルニア州で、九月三十日にロボ上司禁止法っていう法律が成立したの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "待ってたのだ! ロボットの上司、全員クビってことじゃん!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "逆よ、逆。クビにされる側を守る法律。会社が、AIだけで社員の解雇や処分を決めちゃダメってルールね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、AIの点数だけでクビにされる職場が、もうあったのだ!?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そういう使い方が広がりかけてたの。だからAIの判断を主に使うなら、人間が上司の評価や記録で裏を取りなさい、って決めたのよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "AIが決めた後に、人間がもう一回見直す係がいるってこと?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。しかも処分された人には、AIが関わったことを書面で知らせて、説明できる担当者もつけるの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "AIにクビって言われても、ちゃんと人間に理由を聞けるのだ。ちょっと安心なのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ちなみに知事は去年、似た法案を一度はねてるの。今回は二度目の正直ね。動き出すのは2027年の七月からよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でもカリフォルニアって、日本からは遠いのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "IT企業の本社が集まる州だから、社内ルールが世界の支社にも波及しやすいのよ。AIで評価される時代でも、最後は人が説明する、って流れの目印になるわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "最後の一押しは人間、ってことなのだ。次で最後なのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ラスト五本目。オープンエーアイが、シノプシスっていう会社と組んで、半導体の設計をするAIを作るって発表したの。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "しのぷしす? 恐竜の名前みたいなのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "化石は出てこないわよ。チップの設計図を描いたり、ちゃんと動くか確かめたりするソフトの大手ね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、チップ界の設計事務所さんってことなのだ!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "近いわ。新しいAIの名前は、ジーピーティー シノプシス。人間が目標を伝えると、AIが設計ソフトを自分で動かして、結果を見て直してを繰り返すのよ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、ベテランの設計士さんの手つきを、AIが覚えちゃうのだ!?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そういう狙い。しかも、共同で売り出して、収益を二社で分け合う枠組みも契約に入ってるんだって。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "AIを動かすチップを、AIが設計するのだ? 自分の部屋を自分でリフォームするAIじゃん!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今の一言が正解。時間のかかるチップ設計を、AIで速めようって話よ。もう半導体の会社と、初期の試験も始まってるの。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、ボクたちにはどう関係するのだ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "設計が速くなれば、新しいチップが店に並ぶまでの期間が縮むかも。効いてくるのは、早くて数年後ね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "数年後の新しいスマホ、AIが設計した頭脳かもしれないのだ。ちょっとワクワクするのだ!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今朝は、宝石がレシピに変わる話、道具箱の独立、途中式のカンニング、AIの上司禁止令、自分をリフォームするAIの五本だったわ。",
+      "news_index": 0,
+      "reading": "けさは、ほうせきがレシピにかわるはなし、どうぐばこのどくりつ、とちゅうしきのカンニング、AIのじょうしきんしれい、じぶんをリフォームするAIのごほんだったわ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ボクの一押しは、ジェムがスキルに移った後の確認大作戦なのだ! 十一月十七日、覚えておくのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "どれも今日すぐ生活が変わる話じゃないけど、AIの道具とルールが、じわじわ固まってきてる感じね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "通勤や通学の途中で聴いてくれてるかた、ありがとう。気になったニュースがあったら、のぞいてみてね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "以上、旅の道ラジオ朝便でした! また次のテック朝便で会おうなのだー!",
+      "news_index": 0
+    }
+  ],
+  "program_description": "テックの話題を5本、サクッとまとめる朝便。グーグルのジェミニでよく使う指示を保存できる機能「ジェム」が11月から「スキル」に置き換わり、しかも無料ユーザーも使えるという話からスタート。中国のディープシークがファーウェイのAIチップ向けの開発道具を無料公開して、エヌビディアの道具箱からの独立を狙う話、オープンエーアイがムーンショットの関係者による「AIの考えた過程の丸写し」を止めたと主張した話、カリフォルニアでAIだけで社員をクビにできなくなる法律が成立した話、そしてオープンエーアイとシノプシスが組んでAIに半導体の設計を任せようとしている話まで。ずんだもんのレシピ重ねがけやカンニング騒動の勘違いを、めたんが一つずつ生活目線に直していく回。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20261001_170945_chars.webp",
+    "hero_rel": "/images/topics/tech_20261001_170945.webp",
+    "title": "道具箱を取り替える朝 〜宝石からレシピへ、そしてAIの上司禁止令〜",
+    "companies": [
+      "OpenAI",
+      "NVIDIA",
+      "DeepSeek",
+      "Gemini",
+      "Google",
+      "Claude"
+    ],
+    "thumbnail_ready": true
+  },
+  "summary_short": "ジェムがスキルに変わり無料でも使える一方、ディープシークは華為AIチップ向け開発道具を公開して脱エヌビディアへ。AIの思考丸写し停止、AI単独解雇を禁じるカリフォルニア法、AIの半導体設計まで。ずんだもんの勘違いをめたんが生活目線で正す朝便。",
+  "published_at": "2026-10-02T05:01:36+09:00"
+}
