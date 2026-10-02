@@ -1,0 +1,736 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-10-02T17:04:43+09:00",
+  "title": "発電所に住むAIの朝 〜消しゴムを覚えた絵描きと、売り切れの来年〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 428.76,
+  "script_hash": "sha256:732b5491f2bce25721fb0f5579e8bebccdc45df6099cef77574db7e0a2c45103",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 8.19
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便、テックニュースの回。四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 8.19,
+      "end_sec": 13.41
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝もテックの話、サクッといくのだ!",
+      "news_index": 0,
+      "start_sec": 13.56,
+      "end_sec": 17.96
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今朝は4本。最後に、発電所に住みつくAIの話が控えてるわ。",
+      "news_index": 0,
+      "start_sec": 18.11,
+      "end_sec": 22.82
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "発電所に住む!? AIって、ついに引っ越しまでするのだ!?",
+      "news_index": 0,
+      "start_sec": 22.97,
+      "end_sec": 27.17
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "それは最後のお楽しみ。まずは軽く、絵を描くAIの話からね。",
+      "news_index": 0,
+      "start_sec": 27.32,
+      "end_sec": 32.06
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "了解なのだ! 電車の中でも聴きやすいやつから頼むのだ!",
+      "news_index": 0,
+      "start_sec": 32.21,
+      "end_sec": 36.06
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。ドイツのブラック フォレスト ラボが十月一日に、画像AIの新型、フラックス スリー イメージを出したの。",
+      "news_index": 1,
+      "start_sec": 36.21,
+      "end_sec": 43.4
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ブラック フォレスト ラボって、この前ロボットのAIを出してた会社だっけ?",
+      "news_index": 1,
+      "start_sec": 43.55,
+      "end_sec": 48.37
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "よく覚えてたじゃない。でも本業はこっち、言葉で頼むと絵を描くAIで有名なところよ。",
+      "news_index": 1,
+      "start_sec": 48.52,
+      "end_sec": 54.43
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、今回は何がすごいのだ? もっと上手に描けるようになった?",
+      "news_index": 1,
+      "start_sec": 54.58,
+      "end_sec": 59.09
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "上手さより、直し方ね。描いた絵の直したい場所を箱で囲んで、そこだけ描き直せるの。",
+      "news_index": 1,
+      "start_sec": 59.24,
+      "end_sec": 65.21
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "箱で囲む? それ、今までのAIでもできたんじゃないの?",
+      "news_index": 1,
+      "start_sec": 65.36,
+      "end_sec": 69.57
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "そこが落とし穴だったの。服の色だけ変えてって頼むと、顔や背景までちょっとずつ変わっちゃってたのよ。",
+      "news_index": 1,
+      "start_sec": 69.72,
+      "end_sec": 75.86
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、服を直したら別人になってたってこと!? 怖すぎるのだ!",
+      "news_index": 1,
+      "start_sec": 76.01,
+      "end_sec": 80.29
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今回は、触ってない部分は1ピクセルも変えないって売り。何回直しても、絵が崩れていかないわけ。",
+      "news_index": 1,
+      "start_sec": 80.44,
+      "end_sec": 86.76
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ! 今までのは消しゴムで紙ごと破いてて、今度のは消したい線だけ消せる消しゴムなのだ!",
+      "news_index": 1,
+      "start_sec": 86.91,
+      "end_sec": 92.93
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今の一言が正解。要するに、一発勝負のくじ引きから、仕上げていく道具になったって話。",
+      "news_index": 1,
+      "start_sec": 93.08,
+      "end_sec": 99.35
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ボクの似顔絵も、ほっぺだけ何度でも直してもらえるのだ。",
+      "news_index": 1,
+      "start_sec": 99.5,
+      "end_sec": 103.54
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "ええ。チラシや資料の絵を何度も直す人ほど、手間がぐっと減りそうね。",
+      "news_index": 1,
+      "start_sec": 103.69,
+      "end_sec": 108.41
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "やり直しのたびに顔が変わる悩み、卒業なのだ。次いくのだ!",
+      "news_index": 1,
+      "start_sec": 108.56,
+      "end_sec": 113.0
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "二本目は財布に効く話。メモリ大手のマイクロンが、メモリ不足は2028年まで続くって見通しを出したの。",
+      "news_index": 2,
+      "start_sec": 113.15,
+      "end_sec": 120.71
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "メモリって、パソコンの中のあの細長い板だっけ?",
+      "news_index": 2,
+      "start_sec": 120.86,
+      "end_sec": 124.61
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。パソコンが作業中のことを一時的に覚えておく、机の広さみたいな部品よ。スマホにもゲーム機にも入ってるわ。",
+      "news_index": 2,
+      "start_sec": 124.76,
+      "end_sec": 132.4
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "2028年!? あと2年以上も足りないままってことなのだ!?",
+      "news_index": 2,
+      "start_sec": 132.55,
+      "end_sec": 136.82
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "しかも、来年より再来年のほうがもっと苦しいって言い方なの。来年作る分の4分の3は、もう売り先が決まってるそうよ。",
+      "news_index": 2,
+      "start_sec": 136.97,
+      "end_sec": 144.69
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "4分の3!? 来年のおせち、今のうちに予約で埋まっちゃってるやつなのだ!",
+      "news_index": 2,
+      "start_sec": 144.84,
+      "end_sec": 149.92
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "たとえは合ってるわ。お客さんは今年よりずっと高い値段を払うことになるって、社長本人が言ってるの。",
+      "news_index": 2,
+      "start_sec": 150.07,
+      "end_sec": 156.39
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも、なんでそんなに足りないのだ? みんな急にパソコン買い始めたのだ?",
+      "news_index": 2,
+      "start_sec": 156.54,
+      "end_sec": 161.54
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "犯人はAIね。AIのチップの隣に積むHBM、つまり超高速メモリがとにかく売れてて、工場がそっちに取られてるの。",
+      "news_index": 2,
+      "start_sec": 161.69,
+      "end_sec": 169.9
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、HBMって、テレビのケーブルの仲間じゃなかったのだ!",
+      "news_index": 2,
+      "start_sec": 170.05,
+      "end_sec": 174.5
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "それはHDMI。HBMは、AI用の特急メモリよ。",
+      "news_index": 2,
+      "start_sec": 174.65,
+      "end_sec": 179.18
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ工場を増やせばいいのだ。簡単じゃん?",
+      "news_index": 2,
+      "start_sec": 179.33,
+      "end_sec": 182.46
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "新しい工場は2028年に動き出す予定。でもすぐには値段を下げる力にならないって、本人たちが釘を刺してるわ。",
+      "news_index": 2,
+      "start_sec": 182.61,
+      "end_sec": 190.79
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "うう、待っても安くならないのだ……。",
+      "news_index": 2,
+      "start_sec": 190.94,
+      "end_sec": 194.49
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに、パソコンやスマホの値上がりは当分続く前提で考えておくってこと。買い替えを先延ばしにしても、得するとは限らないわ。",
+      "news_index": 2,
+      "start_sec": 194.64,
+      "end_sec": 202.79
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "ボクの自作パソコン計画、貯金箱をもう一個増やすのだ……。",
+      "news_index": 2,
+      "start_sec": 202.94,
+      "end_sec": 208.02
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目は裁判だから、手短に。グーグル検索の上に出るAIの要約をめぐる訴えを、アメリカの連邦地裁が退けたの。",
+      "news_index": 3,
+      "start_sec": 208.17,
+      "end_sec": 216.43
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "検索したら一番上に出てくる、AIのまとめのことなのだ?",
+      "news_index": 3,
+      "start_sec": 216.58,
+      "end_sec": 221.04
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それ。訴えたのは、ローリング・ストーンなどの雑誌を持つペンスキー・メディアと、学習支援サービスのチェグよ。",
+      "news_index": 3,
+      "start_sec": 221.19,
+      "end_sec": 228.11
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "なんで怒ってたのだ? 要約してもらえたら、宣伝になるじゃん?",
+      "news_index": 3,
+      "start_sec": 228.26,
+      "end_sec": 232.71
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "逆なのよ。要約で満足して、記事を読みに来る人が減るって主張。しかも要約に使われるのを断ると、検索で見えにくくなるのが不公平だって。",
+      "news_index": 3,
+      "start_sec": 232.86,
+      "end_sec": 242.12
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、お店の前で試食を全部配られて、誰も店に入らないやつなのだ!",
+      "news_index": 3,
+      "start_sec": 242.27,
+      "end_sec": 247.41
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いい比喩ね。でも判事は、出版社側が主張した取引の強制や抱き合わせを、独禁法違反として十分に示せていないって判断したの。",
+      "news_index": 3,
+      "start_sec": 247.56,
+      "end_sec": 256.56
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、出版社さんの負けなのだ!?",
+      "news_index": 3,
+      "start_sec": 256.71,
+      "end_sec": 259.25
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "今回の独禁法、つまり市場の独り占めを取り締まる法律の筋ではね。裁判所は、今の独禁法で足りない部分があるなら、それは議会や規制当局が検討する問題だって述べたわ。",
+      "news_index": 3,
+      "start_sec": 259.4,
+      "end_sec": 271.52
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあ、ボクたちの検索はどうなるのだ?",
+      "news_index": 3,
+      "start_sec": 271.67,
+      "end_sec": 274.54
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "当面、AIの要約は今まで通り出るわね。ただ記事を作る側の収入の問題は残ったまま、って話。",
+      "news_index": 3,
+      "start_sec": 274.69,
+      "end_sec": 281.81
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "要約だけ読んで満足してたら、元の記事を書く人がいなくなっちゃうかもなのだ。気になったら、元の記事も開くのだ。",
+      "news_index": 3,
+      "start_sec": 281.96,
+      "end_sec": 289.54
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ラスト四本目。冒頭で言った、発電所に住むAIよ。",
+      "news_index": 4,
+      "start_sec": 289.69,
+      "end_sec": 293.53
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "待ってたのだー! どこの発電所なのだ!",
+      "news_index": 4,
+      "start_sec": 293.68,
+      "end_sec": 296.21
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "千葉の火力発電所。電力会社のJERAと、アメリカのパソコン大手デル、イギリスのレルムっていう会社が、十月一日に構想を発表したの。",
+      "news_index": 4,
+      "start_sec": 296.36,
+      "end_sec": 305.33
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じぇら? デルは知ってるのだ、パソコンの会社だよね。で、何を作るのだ?",
+      "news_index": 4,
+      "start_sec": 305.48,
+      "end_sec": 310.97
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "JERAは、東京電力と中部電力の火力発電をまとめた会社ね。作るのはAIデータセンター、AIを動かすコンピューターがぎっしり詰まった巨大倉庫よ。",
+      "news_index": 4,
+      "start_sec": 311.12,
+      "end_sec": 320.79
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "投資は150億ドル以上、日本円で2.3兆円を超える規模。2028年ごろの運用開始が目標だって。",
+      "news_index": 4,
+      "start_sec": 320.87,
+      "end_sec": 328.96
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "2.3兆円!? ボクのお小遣いを一生ためても、ケタが足りなすぎて数える気も起きないのだ!",
+      "news_index": 4,
+      "start_sec": 329.11,
+      "end_sec": 335.4
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "数えなくていいわよ。それより面白いのは場所。発電所の敷地の中に建てて、電気を直接引っぱるの。",
+      "news_index": 4,
+      "start_sec": 335.55,
+      "end_sec": 342.07
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "なんでわざわざ発電所の中なのだ? 電線でつなげばよくない?",
+      "news_index": 4,
+      "start_sec": 342.22,
+      "end_sec": 346.76
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "AIは電気をとにかく食うの。遠くから運ぶ太い電線や設備を作ると、何年もかかっちゃうのよ。",
+      "news_index": 4,
+      "start_sec": 346.91,
+      "end_sec": 353.24
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ! 食堂の厨房の真横に住めば、出前を待たなくていいってことなのだ!",
+      "news_index": 4,
+      "start_sec": 353.39,
+      "end_sec": 358.38
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そういうこと。最大で40万キロワット、一か所の施設としては国内最大になる見込みよ。",
+      "news_index": 4,
+      "start_sec": 358.53,
+      "end_sec": 364.73
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも、そんなに電気を使って、ボクの家の電気は足りるのだ?",
+      "news_index": 4,
+      "start_sec": 364.88,
+      "end_sec": 369.26
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "いい疑問ね。計画は始まったばかりだから、電気の行き先や値段にどう響くかは、これから見ていくところ。",
+      "news_index": 4,
+      "start_sec": 369.41,
+      "end_sec": 376.28
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ただ、日本国内のAI計算基盤を増やして、データ主権にも配慮した環境を整えるのが、この構想の狙いね。",
+      "news_index": 4,
+      "start_sec": 376.36,
+      "end_sec": 383.81
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "要するに、AIの時代は計算より電気の取り合いってことなのだ。千葉、すごいことになるのだ。",
+      "news_index": 4,
+      "start_sec": 383.96,
+      "end_sec": 390.41
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今朝はここまで。消しゴムを覚えた絵描きAI、売り切れの来年のメモリ、試食の裁判、それに発電所の引っ越しね。",
+      "news_index": 0,
+      "start_sec": 390.56,
+      "end_sec": 397.92
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクの一番は、やっぱりメモリなのだ。財布に直撃してくるよ……。",
+      "news_index": 0,
+      "start_sec": 398.07,
+      "end_sec": 402.65
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "テックの話って、結局みんなお財布と電気に行き着くのよ。",
+      "news_index": 0,
+      "start_sec": 402.8,
+      "end_sec": 406.72
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "聴いてくれたみんな、気になったやつがあったらチェックしてほしいのだ!",
+      "news_index": 0,
+      "start_sec": 406.87,
+      "end_sec": 411.33
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "それじゃ、いってらっしゃい。また次のテック朝便で会いましょう。",
+      "news_index": 0,
+      "start_sec": 411.48,
+      "end_sec": 415.41
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "旅の道ラジオ朝便、ずんだもんと!",
+      "news_index": 0,
+      "start_sec": 415.56,
+      "end_sec": 418.35
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四国めたんでした。",
+      "news_index": 0,
+      "start_sec": 418.5,
+      "end_sec": 419.76
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 420.46,
+      "end_sec": 428.76
+    }
+  ],
+  "wall_time_sec": 12.33,
+  "audio_url": "/audio/ai/20261002_170443.mp3?v=1790971358"
+}
