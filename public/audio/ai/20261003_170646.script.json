@@ -1,0 +1,504 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-10-03T08:06:46.083610+00:00",
+  "title": "鍵を預ける朝 〜家に住みつくAIと、ドライヤーで剥がしたシール〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便。今朝はテックニュースの回、四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 眠い目こすりながら、今日もサクッといくのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今朝は5本。テーマをひと言でいうと、AIにどこまで鍵を預けるかって話ね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "鍵? ボク、家の鍵ならランドセルにぶら下げてるのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "ランドセルはとっくに卒業でしょ。ラストには、ドライヤーで悪だくみした人たちも出てくるわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ドライヤーで悪だくみ!? 寝ぐせ直す道具じゃないのだ!?",
+      "news_index": 0,
+      "reading": "ドライヤーでわるだくみ!?ねぐせなおすどうぐじゃないのだ!?"
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。メタが、AIエージェントのミューズを、自作の機械につなげる道具を無料で出したの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ミューズ! 前にアマゾンでお買い物を締め出されてた子なのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "よく覚えてたわね。エージェントは、人の代わりに自分で動いて作業してくれるAIのこと。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、自作の機械ってなんなのだ? ロボットを一から組むってこと?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこまで大げさじゃないわ。ラズベリーパイみたいな、手のひらサイズの電子工作の基板が対応してるの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ラズベリーパイ? 食べられないパイってことは、ボク知ってるのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "正解、食べたら歯が欠けるわよ。そこに画面やマイク、センサーを足すと、ミューズの手足になるって仕組み。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "机の上のちっちゃい箱が、AIの分身になるのだ? ちょっとかわいいじゃん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "しかもメタは、家電とミューズをつなぐ小さな部品を5,000個作って、アメリカの契約者に一人一個、先着で無料配布するの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "5,000個だけ!? 限定グッズの争奪戦なのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "要するに、AIをアプリの中から、家の中のモノへ引っ越しさせる作戦ってことね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクたちには、どう関係あるのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "すぐには日本で配られないけど、数年後は冷蔵庫の横の小箱にAIが住んでる、くらいは普通になるかもね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "冷蔵庫番のAI、おやつ食べすぎたら告げ口されそうなのだ……。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目は国産の話。ケーディーディーアイグループのイライザが十月二日に、新しいAIを無料で公開したの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "イライザ? 外国のお姫様の名前みたいなのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "残念、東京生まれの会社よ。土台にしたのは、国立情報学研究所が作ってる国産AIの、エルエルエム ジェーピー フォーね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "エルエルエム……もう呪文にしか聞こえないのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "エルエルエムは、AIが言葉を扱う仕組みのこと。国の研究所が作った土台を、イライザが鍛え直したってわけ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、学校の部活で、先輩が新入部員をしごくやつなのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "しごくって言い方。せめて特訓って言いなさい。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ポイントは、会社でお金を稼ぐ用途にも、タダで使っていいってこと。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "タダで商売に使えるのだ!? 太っ腹すぎるのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "海外のAIだと、急な仕様変更や値上げを向こうに握られるでしょ。自前の選択肢があると、役所や会社は安心できるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも、アメリカの最強AIたちに勝てるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこは正直、別問題。日本語の書類仕事でどこまで使えるかが試されるわね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "つまり、国産の選択肢が一個増えて、ボクたちの使うサービスの裏で働くかもしれないってことなのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "その通り。地元野菜が、スーパーの棚に並び始めたって感じね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目はちょっと硬いから手短に。アップルが、マックのフルディスクアクセスっていう許可を厳しくするって発表したの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ふるでぃすく……フルコースのお皿の親戚なのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "食器じゃないわよ。メールもメッセージも閲覧履歴も、マックの中を全部見られる、いちばん強い許可のこと。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "全部!? 日記も覗かれちゃうのだ!?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "家のマスターキーね。もともとはバックアップのソフト用なのに、それを気軽にもらうアプリが出てきたの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "アップルは理由として、AIエージェントが賢く自律的になるほど、この許可の危なさがぐっと増すって書いてるわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、さっきのミューズみたいに、勝手に動き回るAIが増えたからってことなのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "鋭いわね。だから今後は、本当にあげたい人が、はっきりした操作をしないと渡せない形にするらしいわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "いつから変わるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "時期はまだ未定。要するに、OS側がAIに首輪をつけ始めたって話。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ボクたちは、許可のボタンを何も考えずに押さない、ってことなのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "満点。合鍵は、信用できる相手にだけ渡しましょ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "四本目は、あなたの同業者の話よ。マイクロソフトが十月一日に、新しい音声のAIをまとめて出したの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "また同業者!? ボクの出番、どんどん狭くなってくのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "目玉は、話してる最中に文字にしてくれる仕組み。だいたい0.1秒ちょっとで、とりあえずの文字を出すの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "とりあえず? 間違えたら、そのままなのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "続きを聞きながら、あとで直していくの。会議でメモを走り書きして、あとで清書する人と同じね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "それ、ボクのノートのやり方なのだ! 清書はしたことないけど!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "清書までしなさいよ。日本語も含めて60の言語に対応で、年末までの値段は1時間0.54ドル、だいたい80円ね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "1時間80円!? ボクの駄菓子代より安いのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "読み上げの方も新型が出たわ。同じ声のまま、23の言語をしゃべり分けられるのが売り。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "ボク、東北の言葉しか自信ないのだ……。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "あなた、標準語でしゃべってるじゃない。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "まとめると、聞くのも話すのも自社でそろえたって話。お店の電話窓口とかで、AIの声と会話する場面が増えていくわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "電話の向こうがAIでも、ボクは気づかないかもしれないのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあラスト五本目。冒頭で言った、ドライヤーの話よ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "待ってたのだ! 寝ぐせ以外に何に使うのだ!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "エヌビディアのAI用チップが、中国に密輸され続けてる問題。今年三月に起訴された事件が、改めて注目されてるの。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "エヌビディアのチップって、AIの計算を爆速でやるやつだっけ? なんで中国に送っちゃダメなのだ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "アメリカが、軍事に使われるのを警戒して、高性能なものの輸出を止めてるの。そこで抜け道が使われるわけ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "起訴されたのは、サーバー大手スーパーマイクロの共同創業者一人と、同社の社員、それに外部の業者の三人。東南アジアの会社を挟んで、行き先をごまかした疑いね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "どれくらい送ったのだ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "2024年以降、その東南アジアの会社に売られたサーバーは、だいたい25億ドル分。そのうち相当な量が中国へ流された疑いよ。日本円で3,750億円くらいよ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "3,750億円!? ボクのお年玉を一億年ためても、届かないのだ!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "で、問題のドライヤー。監査をごまかすために偽物のサーバーを用意して、シリアル番号のシールをドライヤーで剥がして貼り替えてたらしいわ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "やり方が、ノートの名前シールを付け替える小学生レベルなのだ……。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "金額は天文学的なのに、手口はやけに家庭的なのよね。もちろん、まだ裁判前で疑いの段階よ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも、ボクたちの生活には遠い話なのだ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "直接お財布に響くとまでは言えないけど、こうした事件は、AIを支える高性能チップを誰にどう売るかっていう議論に関わってくるわ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "つまり、遠い事件に見えても、AIを支えるチップの流れに関わる話なのだ!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "今朝いちばんの名答ね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今朝は、家に住みつくAI、国産AI、マックの合鍵、同業者の新人、そしてドライヤー事件の5本だったわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "どれも、AIにどこまで鍵を渡すかって話だったのだ。ボクの合鍵は、めたんにしか渡さないのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いらないわよ、あなたの部屋の鍵なんて。気になった話があったら、各社の発表をのぞいてみてね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "聴いてくれてるかた、今日もいってらっしゃい。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "また次のテック朝便で会うのだー! いってらっしゃいなのだ!",
+      "news_index": 0
+    }
+  ],
+  "program_description": "テック朝便は5本を軽く雑談。メタはAIエージェント、ミューズを自作の小さな基板につなげる道具を無料で出し、アメリカの契約者には家電とつなぐ小さな部品を先着5,000個配る。KDDIグループのイライザは国産AIの土台をもとにした新モデルを、商用でも使える形で無料公開。アップルはマックの全部の部屋に入れる強い許可、フルディスクアクセスをAIエージェントのせいで厳しくすると表明した。マイクロソフトは話している途中から文字にする仕組みと、新しい読み上げAIを出し、同業者のずんだもんが焦る。最後はAI用チップの密輸事件で、シリアル番号のシールをドライヤーで貼り替えていた手口に二人そろってあきれる回。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20261003_170646_chars.webp",
+    "hero_rel": "/images/topics/tech_20261003_170646.webp",
+    "title": "鍵を預ける朝 〜家に住みつくAIと、ドライヤーで剥がしたシール〜",
+    "companies": [
+      "Apple",
+      "Meta",
+      "Microsoft",
+      "NVIDIA",
+      "Amazon"
+    ],
+    "thumbnail_ready": true
+  },
+  "summary_short": "Metaが無料のAI開発ツールを公開し、KDDI系は国産AIの新モデルを商用可で無料配布。Appleは強い権限を絞り、Microsoftは新音声AIでずんだもんが焦る。締めは密輸のシール貼り替えの手口に二人であきれる回。",
+  "published_at": "2026-10-04T05:01:50+09:00"
+}

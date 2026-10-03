@@ -1,0 +1,826 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-10-03T17:06:46+09:00",
+  "title": "鍵を預ける朝 〜家に住みつくAIと、ドライヤーで剥がしたシール〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 455.58,
+  "script_hash": "sha256:dfab1d74ae3784ab9359e8309b4bcdc71637ade6b2fe5a5070c14d919033928a",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 6.34
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便。今朝はテックニュースの回、四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 6.34,
+      "end_sec": 11.87
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 眠い目こすりながら、今日もサクッといくのだ!",
+      "news_index": 0,
+      "start_sec": 12.02,
+      "end_sec": 16.69
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今朝は5本。テーマをひと言でいうと、AIにどこまで鍵を預けるかって話ね。",
+      "news_index": 0,
+      "start_sec": 16.84,
+      "end_sec": 22.13
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "鍵? ボク、家の鍵ならランドセルにぶら下げてるのだ。",
+      "news_index": 0,
+      "start_sec": 22.28,
+      "end_sec": 26.29
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "ランドセルはとっくに卒業でしょ。ラストには、ドライヤーで悪だくみした人たちも出てくるわ。",
+      "news_index": 0,
+      "start_sec": 26.44,
+      "end_sec": 31.79
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ドライヤーで悪だくみ!? 寝ぐせ直す道具じゃないのだ!?",
+      "news_index": 0,
+      "start_sec": 31.94,
+      "end_sec": 35.56
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。メタが、AIエージェントのミューズを、自作の機械につなげる道具を無料で出したの。",
+      "news_index": 1,
+      "start_sec": 35.71,
+      "end_sec": 41.65
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ミューズ! 前にアマゾンでお買い物を締め出されてた子なのだ!",
+      "news_index": 1,
+      "start_sec": 41.8,
+      "end_sec": 45.75
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "よく覚えてたわね。エージェントは、人の代わりに自分で動いて作業してくれるAIのこと。",
+      "news_index": 1,
+      "start_sec": 45.9,
+      "end_sec": 51.51
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、自作の機械ってなんなのだ? ロボットを一から組むってこと?",
+      "news_index": 1,
+      "start_sec": 51.66,
+      "end_sec": 56.21
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこまで大げさじゃないわ。ラズベリーパイみたいな、手のひらサイズの電子工作の基板が対応してるの。",
+      "news_index": 1,
+      "start_sec": 56.36,
+      "end_sec": 62.8
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ラズベリーパイ? 食べられないパイってことは、ボク知ってるのだ。",
+      "news_index": 1,
+      "start_sec": 62.95,
+      "end_sec": 67.56
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "正解、食べたら歯が欠けるわよ。そこに画面やマイク、センサーを足すと、ミューズの手足になるって仕組み。",
+      "news_index": 1,
+      "start_sec": 67.71,
+      "end_sec": 74.36
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "机の上のちっちゃい箱が、AIの分身になるのだ? ちょっとかわいいじゃん。",
+      "news_index": 1,
+      "start_sec": 74.51,
+      "end_sec": 80.13
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "しかもメタは、家電とミューズをつなぐ小さな部品を5,000個作って、アメリカの契約者に一人一個、先着で無料配布するの。",
+      "news_index": 1,
+      "start_sec": 80.28,
+      "end_sec": 88.1
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "5,000個だけ!? 限定グッズの争奪戦なのだ!",
+      "news_index": 1,
+      "start_sec": 88.25,
+      "end_sec": 91.57
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "要するに、AIをアプリの中から、家の中のモノへ引っ越しさせる作戦ってことね。",
+      "news_index": 1,
+      "start_sec": 91.72,
+      "end_sec": 97.3
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクたちには、どう関係あるのだ?",
+      "news_index": 1,
+      "start_sec": 97.45,
+      "end_sec": 100.02
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "すぐには日本で配られないけど、数年後は冷蔵庫の横の小箱にAIが住んでる、くらいは普通になるかもね。",
+      "news_index": 1,
+      "start_sec": 100.17,
+      "end_sec": 107.38
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "冷蔵庫番のAI、おやつ食べすぎたら告げ口されそうなのだ……。",
+      "news_index": 1,
+      "start_sec": 107.53,
+      "end_sec": 111.8
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目は国産の話。ケーディーディーアイグループのイライザが十月二日に、新しいAIを無料で公開したの。",
+      "news_index": 2,
+      "start_sec": 111.95,
+      "end_sec": 119.07
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "イライザ? 外国のお姫様の名前みたいなのだ。",
+      "news_index": 2,
+      "start_sec": 119.22,
+      "end_sec": 122.74
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "残念、東京生まれの会社よ。土台にしたのは、国立情報学研究所が作ってる国産AIの、エルエルエム ジェーピー フォーね。",
+      "news_index": 2,
+      "start_sec": 122.89,
+      "end_sec": 131.26
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "エルエルエム……もう呪文にしか聞こえないのだ。",
+      "news_index": 2,
+      "start_sec": 131.41,
+      "end_sec": 134.91
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "エルエルエムは、AIが言葉を扱う仕組みのこと。国の研究所が作った土台を、イライザが鍛え直したってわけ。",
+      "news_index": 2,
+      "start_sec": 135.06,
+      "end_sec": 142.25
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、学校の部活で、先輩が新入部員をしごくやつなのだ!",
+      "news_index": 2,
+      "start_sec": 142.4,
+      "end_sec": 146.94
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "しごくって言い方。せめて特訓って言いなさい。",
+      "news_index": 2,
+      "start_sec": 147.09,
+      "end_sec": 149.89
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ポイントは、会社でお金を稼ぐ用途にも、タダで使っていいってこと。",
+      "news_index": 2,
+      "start_sec": 149.97,
+      "end_sec": 154.31
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "タダで商売に使えるのだ!? 太っ腹すぎるのだ!",
+      "news_index": 2,
+      "start_sec": 154.46,
+      "end_sec": 157.84
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "海外のAIだと、急な仕様変更や値上げを向こうに握られるでしょ。自前の選択肢があると、役所や会社は安心できるの。",
+      "news_index": 2,
+      "start_sec": 157.99,
+      "end_sec": 166.57
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも、アメリカの最強AIたちに勝てるのだ?",
+      "news_index": 2,
+      "start_sec": 166.72,
+      "end_sec": 170.18
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこは正直、別問題。日本語の書類仕事でどこまで使えるかが試されるわね。",
+      "news_index": 2,
+      "start_sec": 170.33,
+      "end_sec": 175.87
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "つまり、国産の選択肢が一個増えて、ボクたちの使うサービスの裏で働くかもしれないってことなのだ。",
+      "news_index": 2,
+      "start_sec": 176.02,
+      "end_sec": 182.78
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "その通り。地元野菜が、スーパーの棚に並び始めたって感じね。",
+      "news_index": 2,
+      "start_sec": 182.93,
+      "end_sec": 187.53
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目はちょっと硬いから手短に。アップルが、マックのフルディスクアクセスっていう許可を厳しくするって発表したの。",
+      "news_index": 3,
+      "start_sec": 187.61,
+      "end_sec": 194.58
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ふるでぃすく……フルコースのお皿の親戚なのだ?",
+      "news_index": 3,
+      "start_sec": 194.73,
+      "end_sec": 198.09
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "食器じゃないわよ。メールもメッセージも閲覧履歴も、マックの中を全部見られる、いちばん強い許可のこと。",
+      "news_index": 3,
+      "start_sec": 198.24,
+      "end_sec": 204.86
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "全部!? 日記も覗かれちゃうのだ!?",
+      "news_index": 3,
+      "start_sec": 205.01,
+      "end_sec": 207.67
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "家のマスターキーね。もともとはバックアップのソフト用なのに、それを気軽にもらうアプリが出てきたの。",
+      "news_index": 3,
+      "start_sec": 207.82,
+      "end_sec": 213.99
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "アップルは理由として、AIエージェントが賢く自律的になるほど、この許可の危なさがぐっと増すって書いてるわ。",
+      "news_index": 3,
+      "start_sec": 214.07,
+      "end_sec": 220.89
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、さっきのミューズみたいに、勝手に動き回るAIが増えたからってことなのだ!",
+      "news_index": 3,
+      "start_sec": 221.04,
+      "end_sec": 226.5
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "鋭いわね。だから今後は、本当にあげたい人が、はっきりした操作をしないと渡せない形にするらしいわ。",
+      "news_index": 3,
+      "start_sec": 226.65,
+      "end_sec": 233.39
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "いつから変わるのだ?",
+      "news_index": 3,
+      "start_sec": 233.54,
+      "end_sec": 235.07
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "時期はまだ未定。要するに、OS側がAIに首輪をつけ始めたって話。",
+      "news_index": 3,
+      "start_sec": 235.22,
+      "end_sec": 240.31
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ボクたちは、許可のボタンを何も考えずに押さない、ってことなのだ。",
+      "news_index": 3,
+      "start_sec": 240.46,
+      "end_sec": 245.46
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "満点。合鍵は、信用できる相手にだけ渡しましょ。",
+      "news_index": 3,
+      "start_sec": 245.61,
+      "end_sec": 249.29
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "四本目は、あなたの同業者の話よ。マイクロソフトが十月一日に、新しい音声のAIをまとめて出したの。",
+      "news_index": 4,
+      "start_sec": 249.37,
+      "end_sec": 256.8
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "また同業者!? ボクの出番、どんどん狭くなってくのだ!",
+      "news_index": 4,
+      "start_sec": 256.95,
+      "end_sec": 260.72
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "目玉は、話してる最中に文字にしてくれる仕組み。だいたい0.1秒ちょっとで、とりあえずの文字を出すの。",
+      "news_index": 4,
+      "start_sec": 260.87,
+      "end_sec": 267.33
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "とりあえず? 間違えたら、そのままなのだ?",
+      "news_index": 4,
+      "start_sec": 267.48,
+      "end_sec": 270.77
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "続きを聞きながら、あとで直していくの。会議でメモを走り書きして、あとで清書する人と同じね。",
+      "news_index": 4,
+      "start_sec": 270.92,
+      "end_sec": 277.15
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "それ、ボクのノートのやり方なのだ! 清書はしたことないけど!",
+      "news_index": 4,
+      "start_sec": 277.3,
+      "end_sec": 281.3
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "清書までしなさいよ。日本語も含めて60の言語に対応で、年末までの値段は1時間0.54ドル、だいたい80円ね。",
+      "news_index": 4,
+      "start_sec": 281.45,
+      "end_sec": 289.82
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "1時間80円!? ボクの駄菓子代より安いのだ!",
+      "news_index": 4,
+      "start_sec": 289.97,
+      "end_sec": 293.7
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "読み上げの方も新型が出たわ。同じ声のまま、23の言語をしゃべり分けられるのが売り。",
+      "news_index": 4,
+      "start_sec": 293.85,
+      "end_sec": 299.52
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "ボク、東北の言葉しか自信ないのだ……。",
+      "news_index": 4,
+      "start_sec": 299.67,
+      "end_sec": 303.22
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "あなた、標準語でしゃべってるじゃない。",
+      "news_index": 4,
+      "start_sec": 303.37,
+      "end_sec": 305.62
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "まとめると、聞くのも話すのも自社でそろえたって話。お店の電話窓口とかで、AIの声と会話する場面が増えていくわ。",
+      "news_index": 4,
+      "start_sec": 305.7,
+      "end_sec": 314.03
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "電話の向こうがAIでも、ボクは気づかないかもしれないのだ。",
+      "news_index": 4,
+      "start_sec": 314.18,
+      "end_sec": 318.23
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあラスト五本目。冒頭で言った、ドライヤーの話よ。",
+      "news_index": 5,
+      "start_sec": 318.38,
+      "end_sec": 321.91
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "待ってたのだ! 寝ぐせ以外に何に使うのだ!",
+      "news_index": 5,
+      "start_sec": 322.06,
+      "end_sec": 324.96
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "エヌビディアのAI用チップが、中国に密輸され続けてる問題。今年三月に起訴された事件が、改めて注目されてるの。",
+      "news_index": 5,
+      "start_sec": 325.11,
+      "end_sec": 332.94
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "エヌビディアのチップって、AIの計算を爆速でやるやつだっけ? なんで中国に送っちゃダメなのだ?",
+      "news_index": 5,
+      "start_sec": 333.09,
+      "end_sec": 340.14
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "アメリカが、軍事に使われるのを警戒して、高性能なものの輸出を止めてるの。そこで抜け道が使われるわけ。",
+      "news_index": 5,
+      "start_sec": 340.29,
+      "end_sec": 347.68
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "起訴されたのは、サーバー大手スーパーマイクロの共同創業者一人と、同社の社員、それに外部の業者の三人。東南アジアの会社を挟んで、行き先をごまかした疑いね。",
+      "news_index": 5,
+      "start_sec": 347.76,
+      "end_sec": 358.66
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "どれくらい送ったのだ?",
+      "news_index": 5,
+      "start_sec": 358.81,
+      "end_sec": 360.55
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "2024年以降、その東南アジアの会社に売られたサーバーは、だいたい25億ドル分。そのうち相当な量が中国へ流された疑いよ。日本円で3,750億円くらいよ。",
+      "news_index": 5,
+      "start_sec": 360.7,
+      "end_sec": 372.63
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "3,750億円!? ボクのお年玉を一億年ためても、届かないのだ!",
+      "news_index": 5,
+      "start_sec": 372.78,
+      "end_sec": 378.41
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "で、問題のドライヤー。監査をごまかすために偽物のサーバーを用意して、シリアル番号のシールをドライヤーで剥がして貼り替えてたらしいわ。",
+      "news_index": 5,
+      "start_sec": 378.56,
+      "end_sec": 387.13
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "やり方が、ノートの名前シールを付け替える小学生レベルなのだ……。",
+      "news_index": 5,
+      "start_sec": 387.28,
+      "end_sec": 392.06
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "金額は天文学的なのに、手口はやけに家庭的なのよね。もちろん、まだ裁判前で疑いの段階よ。",
+      "news_index": 5,
+      "start_sec": 392.21,
+      "end_sec": 399.01
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも、ボクたちの生活には遠い話なのだ?",
+      "news_index": 5,
+      "start_sec": 399.16,
+      "end_sec": 402.53
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "直接お財布に響くとまでは言えないけど、こうした事件は、AIを支える高性能チップを誰にどう売るかっていう議論に関わってくるわ。",
+      "news_index": 5,
+      "start_sec": 402.68,
+      "end_sec": 411.49
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "つまり、遠い事件に見えても、AIを支えるチップの流れに関わる話なのだ!",
+      "news_index": 5,
+      "start_sec": 411.64,
+      "end_sec": 417.03
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "今朝いちばんの名答ね。",
+      "news_index": 5,
+      "start_sec": 417.18,
+      "end_sec": 418.8
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今朝は、家に住みつくAI、国産AI、マックの合鍵、同業者の新人、そしてドライヤー事件の5本だったわ。",
+      "news_index": 0,
+      "start_sec": 418.88,
+      "end_sec": 426.57
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "どれも、AIにどこまで鍵を渡すかって話だったのだ。ボクの合鍵は、めたんにしか渡さないのだ!",
+      "news_index": 0,
+      "start_sec": 426.72,
+      "end_sec": 434.16
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いらないわよ、あなたの部屋の鍵なんて。気になった話があったら、各社の発表をのぞいてみてね。",
+      "news_index": 0,
+      "start_sec": 434.31,
+      "end_sec": 440.23
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "聴いてくれてるかた、今日もいってらっしゃい。",
+      "news_index": 0,
+      "start_sec": 440.31,
+      "end_sec": 442.74
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "また次のテック朝便で会うのだー! いってらっしゃいなのだ!",
+      "news_index": 0,
+      "start_sec": 442.89,
+      "end_sec": 446.58
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 447.28,
+      "end_sec": 455.58
+    }
+  ],
+  "wall_time_sec": 12.92,
+  "audio_url": "/audio/ai/20261003_170646.mp3?v=1791057776"
+}

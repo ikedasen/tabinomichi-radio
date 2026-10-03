@@ -1,0 +1,896 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-10-03T17:03:48+09:00",
+  "title": "嘘つきだらけの十二年 〜記憶のかけらを並べ直す〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 424.81,
+  "script_hash": "sha256:fe616fab5d7f0493300321d9bdde81c39d90cea194d96d1086a22a17a8142d51",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 4.69
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "welcome",
+      "text": "旅の道ラジオへようこそ。パーソナリティの四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 4.69,
+      "end_sec": 8.52
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー！リスナーのみなさん、ようこそなのだ！",
+      "news_index": 0,
+      "start_sec": 8.67,
+      "end_sec": 12.74
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今回は新作ニュースじゃなくて、評判が固まった名作を一本だけ掘り下げる回よ。",
+      "news_index": 0,
+      "start_sec": 12.89,
+      "end_sec": 18.18
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "つまり、今から買っても間違いないやつを教えてくれるのだね？",
+      "news_index": 0,
+      "start_sec": 18.33,
+      "end_sec": 22.42
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。お題は『未解決事件は終わらせないといけないから』よ。",
+      "news_index": 0,
+      "start_sec": 22.57,
+      "end_sec": 27.1
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、今のぜんぶタイトルなのだ！？ もう文章じゃん。",
+      "news_index": 0,
+      "start_sec": 27.25,
+      "end_sec": 30.74
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう、タイトルが既に一文なの。要するに、名乗った時点でもう主張が強いゲームね。",
+      "news_index": 0,
+      "start_sec": 30.89,
+      "end_sec": 36.51
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ジャンルは推理アドベンチャー。スチームで2024年の1月に出て、お値段は800円よ。",
+      "news_index": 1,
+      "start_sec": 36.59,
+      "end_sec": 42.38
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "800円！？ ボクのずんだ餅だと二袋ぶんくらいなのだ！",
+      "news_index": 1,
+      "start_sec": 42.53,
+      "end_sec": 47.0
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "換算の基準がずんだ餅なのやめなさい。",
+      "news_index": 1,
+      "start_sec": 47.15,
+      "end_sec": 49.7
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ワンコインちょっとで、腰を据えた推理体験が一本ぶん。要するにコスパが異常なのよ。",
+      "news_index": 1,
+      "start_sec": 49.78,
+      "end_sec": 55.08
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "その値段でちゃんと面白いって、逆にちょっと怪しくないのだ？",
+      "news_index": 1,
+      "start_sec": 55.23,
+      "end_sec": 59.52
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこは評価が答えてるわ。スチームのユーザー評価は圧倒的に好評、九割超が好評判定。",
+      "news_index": 1,
+      "start_sec": 59.67,
+      "end_sec": 66.15
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "九割超えは強いのだ！リスナーのみなさん、これは信じていい数字なのだ！",
+      "news_index": 1,
+      "start_sec": 66.3,
+      "end_sec": 71.14
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "話の入口はこうよ。元警部の清崎蒼のところに、退職から12年後、若い警官が訪ねてくるの。",
+      "news_index": 1,
+      "start_sec": 71.29,
+      "end_sec": 78.32
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "12年ぶりに職場から呼び出し……嫌な予感しかしないのだ。",
+      "news_index": 1,
+      "start_sec": 78.47,
+      "end_sec": 82.53
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "内容は、犀華ちゃん行方不明事件を終わらせてほしい、っていう協力要請ね。",
+      "news_index": 1,
+      "start_sec": 82.68,
+      "end_sec": 87.81
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "行方不明……迷子の犬とか猫の話じゃないのだね。……あ、女の子の事件なのだ。",
+      "news_index": 1,
+      "start_sec": 87.96,
+      "end_sec": 94.05
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、公園で遊んでたはずの女の子が消えた事件。12年間ずっと未解決のままなのよ。",
+      "news_index": 1,
+      "start_sec": 94.2,
+      "end_sec": 100.13
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、清崎さんはその事件をバッチリ覚えてるのだ？",
+      "news_index": 1,
+      "start_sec": 100.28,
+      "end_sec": 103.89
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それが逆で、記憶がバラバラなの。かけらを拾い直しながら組み立てていくところから始まるわ。",
+      "news_index": 1,
+      "start_sec": 104.04,
+      "end_sec": 109.57
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "捜査じゃなくて記憶の片付けからなのだ！？ ハードルが高すぎなのだー……",
+      "news_index": 1,
+      "start_sec": 109.72,
+      "end_sec": 115.26
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "しかも組み立てた先で分かるのが、犀華ちゃんの周りは全員嘘つきだったという事実だけ。",
+      "news_index": 1,
+      "start_sec": 115.41,
+      "end_sec": 120.71
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "全員！？ 一人くらい正直者がいてほしいのだ！",
+      "news_index": 1,
+      "start_sec": 120.86,
+      "end_sec": 124.32
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いないのよ。要するに、真実を探すゲームじゃなくて、嘘の配置を直すゲームね。",
+      "news_index": 1,
+      "start_sec": 124.47,
+      "end_sec": 129.79
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "システムがこの作品の本体でね。画面に出てくるのは、細切れになった陳述カードなの。",
+      "news_index": 1,
+      "start_sec": 129.87,
+      "end_sec": 135.32
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "カード！？ レアとか出るのだ？ キラキラの清崎さんが当たったら勝ちなのだ？",
+      "news_index": 1,
+      "start_sec": 135.47,
+      "end_sec": 141.09
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "課金要素はないわよ。引くカードじゃなくて、並べるカード。",
+      "news_index": 1,
+      "start_sec": 141.24,
+      "end_sec": 144.91
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "SNSのタイムラインみたいな画面に発言が積まれてて、それを正しい話者と時系列に割り当てていくの。",
+      "news_index": 1,
+      "start_sec": 144.99,
+      "end_sec": 151.36
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "並べ替えるだけで事件が解けるのだ？ 意外と平和そうじゃん。",
+      "news_index": 1,
+      "start_sec": 151.51,
+      "end_sec": 155.42
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "正解すると新しいカードが解放される仕組みよ。芋づる式に事件のかたちが伸びていくの。",
+      "news_index": 1,
+      "start_sec": 155.57,
+      "end_sec": 161.24
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "……つまり、間違えてる間はずっと景色が変わらないやつなのだ。",
+      "news_index": 1,
+      "start_sec": 161.39,
+      "end_sec": 165.87
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、詰まる時はガッツリ詰まる。代わりに繋がった瞬間の気持ちよさが桁違いなのよ。",
+      "news_index": 1,
+      "start_sec": 166.02,
+      "end_sec": 171.55
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "推理っていうより、パズルに正面から殴られる感じだね。",
+      "news_index": 1,
+      "start_sec": 171.7,
+      "end_sec": 175.57
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "見た目もモノクロのドット絵で、情報が徹底的に整理されてる。要するに、頭を使う所だけ残した作りね。",
+      "news_index": 1,
+      "start_sec": 175.72,
+      "end_sec": 182.66
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "chuuni",
+      "text": "……人の記憶とは砕けた鏡。拾い集めたところで、そこに映るのは歪んだ己の顔だけ……",
+      "news_index": 1,
+      "start_sec": 182.74,
+      "end_sec": 188.56
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "出たのだ！ 急に詩人モードに入ったのだ！？",
+      "news_index": 1,
+      "start_sec": 188.71,
+      "end_sec": 191.58
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "コホン。嘘と記憶がテーマのゲームの話をしてると、つい発病しちゃうのよ。",
+      "news_index": 1,
+      "start_sec": 191.73,
+      "end_sec": 196.63
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "hisohiso",
+      "text": "リスナーのみなさん、めたんはたまにこうなるのだ……",
+      "news_index": 1,
+      "start_sec": 196.78,
+      "end_sec": 199.95
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "聞こえてるわよ。作ってるのはソミっていう、韓国の釜山を拠点にしてるインディー開発者なの。",
+      "news_index": 1,
+      "start_sec": 200.1,
+      "end_sec": 205.79
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ソロ！？ これ、たった一人で作ったのだ？",
+      "news_index": 1,
+      "start_sec": 205.94,
+      "end_sec": 208.82
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、2014年くらいからずっと一人でやってるかたよ。過去作にもちゃんと系譜があるの。",
+      "news_index": 1,
+      "start_sec": 208.97,
+      "end_sec": 214.42
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "その過去作、ボクでも聞いたことあるやつなのだ？",
+      "news_index": 1,
+      "start_sec": 214.57,
+      "end_sec": 217.82
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "『レプリカ』『リーガルダンジョン』『ザ・ウェイク』の三本ね。まとめて罪悪感三部作って呼ばれてるわ。",
+      "news_index": 1,
+      "start_sec": 217.97,
+      "end_sec": 224.47
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "罪悪感三部作……ネーミングが重いのだ。遊び終わったら反省文を書かされそうなのだ。",
+      "news_index": 1,
+      "start_sec": 224.62,
+      "end_sec": 230.78
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "書かされはしないけど、気分は近いわね。要するに、人が人を裁く時の後味を作り続けてるかたなの。",
+      "news_index": 1,
+      "start_sec": 230.93,
+      "end_sec": 237.68
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "今回の未解決事件も、その延長線上にあるってことなのだね。",
+      "news_index": 1,
+      "start_sec": 237.83,
+      "end_sec": 242.22
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "hisohiso",
+      "text": "ここだけの話、こういう作家性の強い開発者って、一本ハマると過去作まで全部買っちゃうのよね。",
+      "news_index": 1,
+      "start_sec": 242.37,
+      "end_sec": 249.75
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "財布が未解決事件になるのだ！",
+      "news_index": 1,
+      "start_sec": 249.9,
+      "end_sec": 252.47
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "……今の、うまいこと言ったつもり？",
+      "news_index": 1,
+      "start_sec": 252.62,
+      "end_sec": 254.7
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "……ごめんなさいなのだ。",
+      "news_index": 1,
+      "start_sec": 254.85,
+      "end_sec": 256.08
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "評価の話に戻すわね。この作品、賞のほうもちゃんと取ってるのよ。",
+      "news_index": 1,
+      "start_sec": 256.23,
+      "end_sec": 260.7
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "こういうの、どこで評価されるものなのだ？",
+      "news_index": 1,
+      "start_sec": 260.85,
+      "end_sec": 263.66
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "国内だとビットサミットで、ゲームデザインの部門で表彰されてる。システムそのものが評価された形ね。",
+      "news_index": 1,
+      "start_sec": 263.81,
+      "end_sec": 270.13
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "並べ替えのアイデアが刺さったってことなのだ。納得なのだ。",
+      "news_index": 1,
+      "start_sec": 270.28,
+      "end_sec": 274.03
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "あと韓国のインディーイベントでも、審査員賞と社会的インパクトの部門で評価されてるのよ。",
+      "news_index": 1,
+      "start_sec": 274.18,
+      "end_sec": 279.73
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "行方不明事件の話で社会的インパクト……ただのミステリじゃないのだ？",
+      "news_index": 1,
+      "start_sec": 279.88,
+      "end_sec": 284.83
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこは遊んで確かめてほしいところ。嘘の裏に何が残るのかが、この作品の芯だから。",
+      "news_index": 1,
+      "start_sec": 284.98,
+      "end_sec": 290.42
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ネタバレなしで語る限界が来たのだね。",
+      "news_index": 1,
+      "start_sec": 290.57,
+      "end_sec": 293.18
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "来たわね。要するに、真相は各自で掘れってこと。",
+      "news_index": 1,
+      "start_sec": 293.33,
+      "end_sec": 296.65
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、ここからが今回この作品を選んだ理由。移植がじわじわ広がってるのよ。",
+      "news_index": 1,
+      "start_sec": 296.73,
+      "end_sec": 301.97
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "スチーム以外でも遊べるのだ？",
+      "news_index": 1,
+      "start_sec": 302.12,
+      "end_sec": 304.23
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "スイッチ版がプレイズムから2024年の9月19日に出てて、さらにPS5版がこの8月19日に配信開始。",
+      "news_index": 1,
+      "start_sec": 304.38,
+      "end_sec": 312.26
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "先週じゃん！ できたてホヤホヤなのだ！",
+      "news_index": 1,
+      "start_sec": 312.41,
+      "end_sec": 314.96
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "PS5版は990円ね。しかもPSプラス会員は、9月1日まで20%オフで買えるの。",
+      "news_index": 1,
+      "start_sec": 315.11,
+      "end_sec": 322.44
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "792円なのだ！ボク、暗算したのだ、えらいのだー！",
+      "news_index": 1,
+      "start_sec": 322.59,
+      "end_sec": 327.55
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "……珍しく合ってるわね。えらいえらい。",
+      "news_index": 1,
+      "start_sec": 327.7,
+      "end_sec": 330.06
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ずんだもん、電卓なしでいけるのだ。",
+      "news_index": 1,
+      "start_sec": 330.21,
+      "end_sec": 333.05
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "同じ日にオリジナルグッズも出てて、地味にお祭りみたいな動きになってるのよ。",
+      "news_index": 1,
+      "start_sec": 333.2,
+      "end_sec": 337.71
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "2024年の作品が2026年に盛り上がってるの、面白い流れだね。",
+      "news_index": 1,
+      "start_sec": 337.86,
+      "end_sec": 343.3
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "評判が長生きしてる証拠ね。要するに、今から入っても全然遅くないってこと。",
+      "news_index": 1,
+      "start_sec": 343.45,
+      "end_sec": 348.7
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "遊ぶ側の心得としては、メモを取りながらやると一気に楽しくなるわ。",
+      "news_index": 1,
+      "start_sec": 348.78,
+      "end_sec": 353.1
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "紙とペンを用意する系のゲームなのだ？",
+      "news_index": 1,
+      "start_sec": 353.25,
+      "end_sec": 355.98
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "必須じゃないけど、人物と時間を自分で整理し始めた瞬間に化けるタイプよ。",
+      "news_index": 1,
+      "start_sec": 356.13,
+      "end_sec": 361.06
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "つまり、遊ぶ人のほうが探偵になるのだ！",
+      "news_index": 1,
+      "start_sec": 361.21,
+      "end_sec": 364.16
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。エンディングも2種類あるから、辿り着いた先が人によって違うのも面白いところ。",
+      "news_index": 1,
+      "start_sec": 364.31,
+      "end_sec": 369.99
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "2周目まで込みのやつなのだ！ボク、そういうの大好きなのだー！",
+      "news_index": 1,
+      "start_sec": 370.14,
+      "end_sec": 374.67
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "値段のわりに語りたくなる要素が多いのよ。だから2年経った今も薦められてるわけ。",
+      "news_index": 1,
+      "start_sec": 374.82,
+      "end_sec": 379.95
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "……ところでめたん、さっきの全員嘘つきって話なのだ。",
+      "news_index": 1,
+      "start_sec": 380.1,
+      "end_sec": 384.18
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "うん？どうしたの。",
+      "news_index": 1,
+      "start_sec": 384.33,
+      "end_sec": 385.78
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "この番組でしゃべってる情報も、実は全部嘘だったりしないのだ？",
+      "news_index": 1,
+      "start_sec": 385.93,
+      "end_sec": 390.85
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "sexy",
+      "text": "……ずんだもん。あとで一枚ずつ、正しい時系列に並べ直してあげましょうか。",
+      "news_index": 1,
+      "start_sec": 391.0,
+      "end_sec": 396.87
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "ごめんなさいなのだ……今の話、全部ほんとなのだ……",
+      "news_index": 1,
+      "start_sec": 397.02,
+      "end_sec": 401.71
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "はい。ということで今回は『未解決事件は終わらせないといけないから』でした。",
+      "news_index": 1,
+      "start_sec": 401.86,
+      "end_sec": 406.86
+    },
+    {
+      "index": 84,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "気になったかたは、スチームでもスイッチでもPS5でも入れるのだ！",
+      "news_index": 1,
+      "start_sec": 407.01,
+      "end_sec": 411.26
+    },
+    {
+      "index": 85,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "また旅の道ラジオで会いましょう。",
+      "news_index": 1,
+      "start_sec": 411.41,
+      "end_sec": 414.64
+    },
+    {
+      "index": 86,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "またなのだー！",
+      "news_index": 1,
+      "start_sec": 414.79,
+      "end_sec": 415.81
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 416.51,
+      "end_sec": 424.81
+    }
+  ],
+  "wall_time_sec": 20.05,
+  "audio_url": "/audio/indie/20261003_170348.mp3?v=1791057783"
+}
