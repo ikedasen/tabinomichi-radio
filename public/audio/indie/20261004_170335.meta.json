@@ -1,0 +1,926 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-10-04T17:03:35+09:00",
+  "title": "継承者たちの引き金 〜64最後期に放たれたトレジャーの一撃〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 399.41,
+  "script_hash": "sha256:1fee87dc8c0681f0042fe4afbeebd11c9e2be7a83b9a12c672d0f8530b97ee41",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 6.34
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "旅の道ラジオへようこそなのだー！パーソナリティのずんだもんなのだ！",
+      "news_index": 0,
+      "start_sec": 6.34,
+      "end_sec": 10.82
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "welcome",
+      "text": "春日部つむぎっす！ オタクくん、またまたあーしがレトロ担当で来たっすよー！",
+      "news_index": 0,
+      "start_sec": 10.97,
+      "end_sec": 15.53
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "今回はレトロゲーム回なのだ！ つむぎ、なにを持ってきたのだ？",
+      "news_index": 0,
+      "start_sec": 15.68,
+      "end_sec": 19.83
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "今回のお題は『罪と罰 地球の継承者』っす！ ノベルゲー枠じゃなくて、ガチのアクションシューティングっす！",
+      "news_index": 0,
+      "start_sec": 19.98,
+      "end_sec": 26.64
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "罪と罰……あの分厚い小説をゲームにしたやつなのだ？",
+      "news_index": 0,
+      "start_sec": 26.79,
+      "end_sec": 30.78
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "先輩それガチ違うっす。ドストエフスキーは一行も出てこないっす",
+      "news_index": 0,
+      "start_sec": 30.93,
+      "end_sec": 35.1
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあ、なにとなにが罪と罰なのだ？",
+      "news_index": 0,
+      "start_sec": 35.25,
+      "end_sec": 37.89
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに、人類が作った生き物と、その落とし前の話っす。そこはあとでガッツリいくっす",
+      "news_index": 0,
+      "start_sec": 38.04,
+      "end_sec": 43.96
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "まずは基本情報からなのだ。いつ出たのだ？",
+      "news_index": 1,
+      "start_sec": 44.11,
+      "end_sec": 47.2
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "2000年11月21日、ニンテンドウ64っす。定価は5800円っす",
+      "news_index": 1,
+      "start_sec": 47.35,
+      "end_sec": 53.23
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "5800円……ボクのお年玉が一撃で消し飛ぶ額なのだ",
+      "news_index": 1,
+      "start_sec": 53.38,
+      "end_sec": 57.51
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "当時のあーしのスケールだと、お年玉を全部積んでギリギリっすねー",
+      "news_index": 1,
+      "start_sec": 57.66,
+      "end_sec": 61.68
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "作ってるのはどこなのだ？",
+      "news_index": 1,
+      "start_sec": 61.83,
+      "end_sec": 63.66
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "開発はトレジャーと、任天堂の開発第一部っす。発売元は任天堂っすね",
+      "news_index": 1,
+      "start_sec": 63.81,
+      "end_sec": 69.23
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "任天堂が売ってるのに、中身はよそのスタジオなのだ。そういうの好きなのだ",
+      "news_index": 1,
+      "start_sec": 69.38,
+      "end_sec": 74.95
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そこ大事っす。パブリッシャーと開発元が別ってやつっす",
+      "news_index": 1,
+      "start_sec": 75.1,
+      "end_sec": 78.79
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "トレジャーって、どんな会社なのだ？",
+      "news_index": 1,
+      "start_sec": 78.94,
+      "end_sec": 81.3
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "元コナミの前川正人さんたちが1992年に独立して作ったスタジオっす！ デビュー作がメガドライブの『ガンスターヒーローズ』っす！",
+      "news_index": 1,
+      "start_sec": 81.45,
+      "end_sec": 90.2
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "1992年って、ボクが生まれる前の前くらいなのだ",
+      "news_index": 1,
+      "start_sec": 90.35,
+      "end_sec": 94.85
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そのあとも『ガーディアンヒーローズ』『レイディアントシルバーガン』『斑鳩』っす。シューティング好きが泣くラインナップっす",
+      "news_index": 1,
+      "start_sec": 95.0,
+      "end_sec": 101.91
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "つむぎ、それ一息で言い切ったのだ。目が完全にオタクなのだ",
+      "news_index": 1,
+      "start_sec": 102.06,
+      "end_sec": 106.37
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "あーし今めっちゃキモいっすね、すんません",
+      "news_index": 1,
+      "start_sec": 106.52,
+      "end_sec": 109.24
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、この罪と罰はどんなゲームなのだ？",
+      "news_index": 1,
+      "start_sec": 109.39,
+      "end_sec": 112.15
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "画面の奥に向かって進んでいくアクションシューティングっす。場面ごとにカメラの角度が勝手に切り替わるっす",
+      "news_index": 1,
+      "start_sec": 112.3,
+      "end_sec": 118.34
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "シューティングって、下から自機がピュンピュン撃つやつなのだ？",
+      "news_index": 1,
+      "start_sec": 118.49,
+      "end_sec": 122.07
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "その形じゃないっす先輩。人が走って跳んで、撃って斬るっす",
+      "news_index": 1,
+      "start_sec": 122.22,
+      "end_sec": 126.34
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "斬る!? シューティングなのに剣があるのだ!?",
+      "news_index": 1,
+      "start_sec": 126.49,
+      "end_sec": 129.29
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そこがヤバいっす！ 撃つのと斬るのが地続きになってるっす！",
+      "news_index": 1,
+      "start_sec": 129.44,
+      "end_sec": 132.83
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "操作はスティックで照準を動かして、トリガーで撃つっす。移動はまた別のボタンっす",
+      "news_index": 1,
+      "start_sec": 132.91,
+      "end_sec": 138.04
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "照準と移動が別……ボク、もう指がぐるぐるなのだ",
+      "news_index": 1,
+      "start_sec": 138.19,
+      "end_sec": 142.76
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そこ、当時もみんな言ってたっす。だから移動をオートにしてくれるモードも付いてるっす",
+      "news_index": 1,
+      "start_sec": 142.91,
+      "end_sec": 147.97
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "優しいのだ。ボクみたいな指の人にも席があるのだ",
+      "news_index": 1,
+      "start_sec": 148.12,
+      "end_sec": 151.7
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "切り替えはボタン一発っす。要するに、腕前に合わせて難しさを選べる設計っす",
+      "news_index": 1,
+      "start_sec": 151.85,
+      "end_sec": 157.29
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "64のコントローラーで撃って走って斬る、絶対忙しいのだ！",
+      "news_index": 1,
+      "start_sec": 157.44,
+      "end_sec": 161.91
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "忙しいっす！ でも慣れると指が勝手に踊るっす、ここがガチで気持ちいいっす！",
+      "news_index": 1,
+      "start_sec": 162.06,
+      "end_sec": 166.91
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "あーし、実機で何周もしてるっす。カートリッジまだ動くっす、家宝っす",
+      "news_index": 1,
+      "start_sec": 166.99,
+      "end_sec": 171.91
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "そのコントローラー、2個目はピカピカのままなのだ？",
+      "news_index": 1,
+      "start_sec": 172.06,
+      "end_sec": 175.79
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "shirake",
+      "text": "……先輩。",
+      "news_index": 1,
+      "start_sec": 175.94,
+      "end_sec": 176.76
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "な、なんでもないのだ……ごめんなさいなのだ……",
+      "news_index": 1,
+      "start_sec": 176.91,
+      "end_sec": 180.85
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "コホン。世界観の話いくっすよ",
+      "news_index": 1,
+      "start_sec": 181.0,
+      "end_sec": 183.4
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "舞台は近い未来の地球っす。食糧を増やすために作られた人工生物ルフィアンが、攻撃本能を持っちゃうっす",
+      "news_index": 1,
+      "start_sec": 183.48,
+      "end_sec": 190.33
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "作った側が、食べられる側になったのだ!?",
+      "news_index": 1,
+      "start_sec": 190.48,
+      "end_sec": 193.36
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そこがタイトルの意味っす。ルフィアンは北海道から南へ下ってくるっす",
+      "news_index": 1,
+      "start_sec": 193.51,
+      "end_sec": 197.92
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "北海道から南下……聴いてるみんなも地図を思い浮かべてほしいのだ。だいぶ怖いのだ",
+      "news_index": 1,
+      "start_sec": 198.07,
+      "end_sec": 203.48
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "で、東京から人を逃がす作戦が始まるっす。そこで人間側も一枚岩じゃなくなるっす",
+      "news_index": 1,
+      "start_sec": 203.63,
+      "end_sec": 209.41
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "怪物より人間のほうが厄介になるやつなのだ",
+      "news_index": 1,
+      "start_sec": 209.56,
+      "end_sec": 212.97
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "それなっす！ 要するに、怪物退治の皮をかぶった人間ドラマっす！",
+      "news_index": 1,
+      "start_sec": 213.12,
+      "end_sec": 217.51
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "主人公は誰なのだ？",
+      "news_index": 1,
+      "start_sec": 217.66,
+      "end_sec": 219.43
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "サキ・アマミヤ、14歳っす。ヒロインのアイラン・ジョが15歳っす",
+      "news_index": 1,
+      "start_sec": 219.58,
+      "end_sec": 224.46
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "14歳!? ボクの感覚だと、まだ部活してる年なのだ",
+      "news_index": 1,
+      "start_sec": 224.61,
+      "end_sec": 228.65
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "他も13歳のアチ、17歳のブラッドっす。全員びっくりするほど若いっす",
+      "news_index": 1,
+      "start_sec": 228.8,
+      "end_sec": 234.07
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "大人はどこに行ったのだ……",
+      "news_index": 1,
+      "start_sec": 234.22,
+      "end_sec": 236.68
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "hisohiso",
+      "text": "そこがこの作品の後味なんす。オタクくん、覚えといてほしいっす",
+      "news_index": 1,
+      "start_sec": 236.83,
+      "end_sec": 241.61
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "キャラデザは鈴木康士さん、音楽は山中季哉さんっす。ディレクターは菅波秀幸さんっす",
+      "news_index": 1,
+      "start_sec": 241.69,
+      "end_sec": 247.43
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ボク、まだ聴いてないのに好きな予感がするのだ",
+      "news_index": 1,
+      "start_sec": 247.58,
+      "end_sec": 251.06
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "聴いたら分かるっす！ あーしの脳にガッツリ焼き付いてるっす！",
+      "news_index": 1,
+      "start_sec": 251.21,
+      "end_sec": 254.63
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ところで、びっくりする仕様があるって言ってたのだ",
+      "news_index": 1,
+      "start_sec": 254.78,
+      "end_sec": 257.93
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "これっす。日本でしか売ってないのに、全編フルボイスが英語なんす",
+      "news_index": 1,
+      "start_sec": 258.08,
+      "end_sec": 262.31
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "逆なのだ!? 海外で売ってないのに英語なのだ!?",
+      "news_index": 1,
+      "start_sec": 262.46,
+      "end_sec": 266.7
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そうなんす。日本語の字幕で読ませるスタイルっす",
+      "news_index": 1,
+      "start_sec": 266.85,
+      "end_sec": 269.84
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "洋画を字幕で観てる気分にさせる作戦なのだ。おしゃれさんなのだ",
+      "news_index": 1,
+      "start_sec": 269.99,
+      "end_sec": 274.75
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに、雰囲気に全振りっす。当時の64ソフトでこれは相当尖ってるっす",
+      "news_index": 1,
+      "start_sec": 274.9,
+      "end_sec": 280.34
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、売れたのだ？",
+      "news_index": 1,
+      "start_sec": 280.49,
+      "end_sec": 281.99
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "namidame",
+      "text": "……それが、売上はけっこう苦戦したっす",
+      "news_index": 1,
+      "start_sec": 282.14,
+      "end_sec": 284.84
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "そんなに面白いのに!?",
+      "news_index": 1,
+      "start_sec": 284.99,
+      "end_sec": 286.69
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "発売が2000年11月、64のかなり終わりのほうっす。タイミングが厳しかったっす",
+      "news_index": 1,
+      "start_sec": 286.84,
+      "end_sec": 292.64
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "でも評価はガチっす！ ファミ通のレビューではプラチナ殿堂入りっす！",
+      "news_index": 1,
+      "start_sec": 292.72,
+      "end_sec": 296.72
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "売上と評価が一致しない、名作あるあるなのだ！",
+      "news_index": 1,
+      "start_sec": 296.87,
+      "end_sec": 300.31
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そこから7年後っす。2007年9月20日、ウィーのバーチャルコンソールで初めて海外にも配信されたっす",
+      "news_index": 1,
+      "start_sec": 300.46,
+      "end_sec": 307.22
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "7年越しの世界デビューなのだ。じわじわ来るのだ",
+      "news_index": 1,
+      "start_sec": 307.37,
+      "end_sec": 310.72
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "元から英語音声なんで、そのまま出せたっす。海外のオタクくんにもガッツリ刺さったっす",
+      "news_index": 1,
+      "start_sec": 310.87,
+      "end_sec": 316.29
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "今から遊ぶことはできるのだ？",
+      "news_index": 1,
+      "start_sec": 316.44,
+      "end_sec": 318.57
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "できるっす！ 2016年にウィーユーでも配信されて、2021年10月26日からはスイッチのオンラインの64ラインナップに入ってるっす！",
+      "news_index": 1,
+      "start_sec": 318.72,
+      "end_sec": 327.97
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ボク、今すぐ触りたいのだ！",
+      "news_index": 1,
+      "start_sec": 328.12,
+      "end_sec": 330.51
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "しかも初期の配信タイトルに選ばれてるっす。任天堂側も推してる一本ってことっす",
+      "news_index": 1,
+      "start_sec": 330.66,
+      "end_sec": 335.93
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "続編はあるのだ？",
+      "news_index": 1,
+      "start_sec": 336.08,
+      "end_sec": 337.58
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "あるっす。2009年10月29日にウィーで『罪と罰 宇宙の後継者』が出てるっす",
+      "news_index": 1,
+      "start_sec": 337.73,
+      "end_sec": 343.61
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "地球の次は宇宙……スケールがどんどん上がってるのだ",
+      "news_index": 1,
+      "start_sec": 343.76,
+      "end_sec": 347.4
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "舞台は今回の数十年後っす。まずは1本目から入るのがおすすめっす",
+      "news_index": 1,
+      "start_sec": 347.55,
+      "end_sec": 352.21
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "分かったのだ。じゃあ小説のほうの罪と罰も予習しておくのだ",
+      "news_index": 1,
+      "start_sec": 352.36,
+      "end_sec": 357.02
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "shirake",
+      "text": "……先輩、それ最初にやったボケっす",
+      "news_index": 1,
+      "start_sec": 357.17,
+      "end_sec": 359.73
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "……ばれてたのだ",
+      "news_index": 1,
+      "start_sec": 359.88,
+      "end_sec": 360.75
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "まあ、罪はちゃんと罰されるっすね",
+      "news_index": 1,
+      "start_sec": 360.9,
+      "end_sec": 363.38
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "終盤の展開はなんも言わないっす。自分の手でぶん殴ってほしいっす",
+      "news_index": 1,
+      "start_sec": 363.46,
+      "end_sec": 367.67
+    },
+    {
+      "index": 84,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "気になったかたは、スイッチのオンラインで探してみてほしいのだ",
+      "news_index": 1,
+      "start_sec": 367.82,
+      "end_sec": 371.64
+    },
+    {
+      "index": 85,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "オタクくん、遊んだら感想くださいっす！ あーし、その話で3時間いけるっす！",
+      "news_index": 1,
+      "start_sec": 371.79,
+      "end_sec": 376.98
+    },
+    {
+      "index": 86,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "3時間は長いのだ。またサークルでドン引きされるのだ",
+      "news_index": 1,
+      "start_sec": 377.13,
+      "end_sec": 380.76
+    },
+    {
+      "index": 87,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "先輩、そこ掘らないでほしいっす",
+      "news_index": 1,
+      "start_sec": 380.91,
+      "end_sec": 383.22
+    },
+    {
+      "index": 88,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "今回はここまでなのだ！ また旅の道ラジオで会いましょうなのだー！",
+      "news_index": 1,
+      "start_sec": 383.37,
+      "end_sec": 387.81
+    },
+    {
+      "index": 89,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "ばいばいっす、オタクくん！ またレトロ掘りに来るっすよー！",
+      "news_index": 1,
+      "start_sec": 387.96,
+      "end_sec": 391.25
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 391.95,
+      "end_sec": 399.41
+    }
+  ],
+  "wall_time_sec": 17.96,
+  "audio_url": "/audio/indie/20261004_170335.mp3?v=1791144190"
+}
