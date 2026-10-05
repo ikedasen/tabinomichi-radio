@@ -1,0 +1,1326 @@
+{
+  "profile": "zatsugaku",
+  "generated_at": "2026-10-05T21:06:36+09:00",
+  "title": "わさびの辛さは、わさびの中に入っていない 〜すりおろした瞬間に生まれる防御のしくみ〜",
+  "audio_path": "zatsugaku_latest.wav",
+  "duration_sec": 665.2,
+  "script_hash": "sha256:bdc61d6b436f69fc252477ca4992ef84759f03d8696c91490b6c3a8ba506497c",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 6.47
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "mic",
+      "text": "旅の道ラジオ、雑学チャンネル。あんこもんだもん。",
+      "news_index": 0,
+      "start_sec": 6.47,
+      "end_sec": 9.92
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ずんだもんなのだ! 今日はどんなネタを持ってきたのだ?",
+      "news_index": 0,
+      "start_sec": 10.07,
+      "end_sec": 13.37
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "今日はお寿司の横にいる、緑のアイツの話だもん。",
+      "news_index": 0,
+      "start_sec": 13.52,
+      "end_sec": 16.74
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "わさびなのだ? ツーンとくる、あの辛いやつなのだ。",
+      "news_index": 0,
+      "start_sec": 16.89,
+      "end_sec": 20.31
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "そう。でもね、わさびの辛さって、わさびの中には入ってないんだもん。",
+      "news_index": 0,
+      "start_sec": 20.46,
+      "end_sec": 25.36
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、意味が分からないのだ! 辛いからわさびなんじゃないのだ?",
+      "news_index": 0,
+      "start_sec": 25.51,
+      "end_sec": 29.61
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "ふふん、ずんだもんには分からないと思ったもん。今日こそ「知らなかった」って言わせるんだもん。",
+      "news_index": 0,
+      "start_sec": 29.76,
+      "end_sec": 35.64
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "言わせられるもんなら、言わせてみるのだ。",
+      "news_index": 0,
+      "start_sec": 35.79,
+      "end_sec": 38.71
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "じゃあ始めるもん。まずは、わさびの辛さが「いつ」できるのか、からだもん。",
+      "news_index": 0,
+      "start_sec": 38.86,
+      "end_sec": 44.38
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "いつできる? 畑で育つうちに、だんだん辛くなっていくんじゃないのだ?",
+      "news_index": 1,
+      "start_sec": 44.53,
+      "end_sec": 49.47
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "育つうちにたまっていくのは、辛さの「材料」の方なんだもん。辛さそのものは、まだできてないんだもん。",
+      "news_index": 1,
+      "start_sec": 49.62,
+      "end_sec": 56.81
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "材料と、できあがりは別なのだ? カレーのルウと、カレーみたいな話なのだ?",
+      "news_index": 1,
+      "start_sec": 56.96,
+      "end_sec": 62.69
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "hazukashi",
+      "text": "……たとえとしては、悪くないもん。そこは認めてあげるもん。",
+      "news_index": 1,
+      "start_sec": 62.84,
+      "end_sec": 67.0
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "やったのだ。ボク、今日は冴えてるのだ。",
+      "news_index": 1,
+      "start_sec": 67.15,
+      "end_sec": 70.19
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "調子に乗らないの。でも、わさびの中には辛い汁が詰まってる、ってイメージない?",
+      "news_index": 1,
+      "start_sec": 70.34,
+      "end_sec": 75.78
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "あるのだ。切ったら、中から辛いのがじわっと出てくる感じなのだ。",
+      "news_index": 1,
+      "start_sec": 75.93,
+      "end_sec": 80.13
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "その「辛い汁が詰まってる」っていうのが、今日ひっくり返したい思い込みなんだもん。",
+      "news_index": 1,
+      "start_sec": 80.28,
+      "end_sec": 85.6
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "うーん、まだピンとこないのだ。",
+      "news_index": 1,
+      "start_sec": 85.75,
+      "end_sec": 88.11
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "じゃあヒントを3つ出すもん。1つめ、お寿司屋さんがわさびを使う直前におろすのは、なぜだと思う?",
+      "news_index": 1,
+      "start_sec": 88.26,
+      "end_sec": 94.82
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "作り置きすると、乾いてカピカピになるからなのだ?",
+      "news_index": 1,
+      "start_sec": 94.97,
+      "end_sec": 98.59
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "乾くのもあるけど、それだけじゃないもん。おろしてから時間がたつと、辛さそのものが抜けていくんだもん。",
+      "news_index": 1,
+      "start_sec": 98.74,
+      "end_sec": 105.02
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "辛さが抜ける? 辛さって、出ていくものなのだ?",
+      "news_index": 1,
+      "start_sec": 105.17,
+      "end_sec": 108.84
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "出ていくんだもん。それは後でちゃんと話すもん。",
+      "news_index": 1,
+      "start_sec": 108.99,
+      "end_sec": 111.88
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "気になるのだ。2つめのヒントは何なのだ?",
+      "news_index": 1,
+      "start_sec": 112.03,
+      "end_sec": 114.98
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "2つめ。大根おろしはピリッと辛いのに、おでんの大根は全然辛くないでしょ。",
+      "news_index": 1,
+      "start_sec": 115.13,
+      "end_sec": 120.4
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "それは簡単なのだ! 煮てるうちに、辛さが熱で飛んでいくからなのだ。",
+      "news_index": 1,
+      "start_sec": 120.55,
+      "end_sec": 125.08
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "半分正解だもん。でも、もっと大事な理由が別にあるんだもん。",
+      "news_index": 1,
+      "start_sec": 125.23,
+      "end_sec": 129.57
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "半分!? 残りの半分は何なのだ?",
+      "news_index": 1,
+      "start_sec": 129.72,
+      "end_sec": 132.49
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "3つめのヒントとつなげると見えてくるもん。粉のからしは、熱湯で練るとうまく辛くならないんだもん。",
+      "news_index": 1,
+      "start_sec": 132.64,
+      "end_sec": 138.72
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "熱いお湯の方が、よく溶けて辛くなりそうなのに、逆なのだ?",
+      "news_index": 1,
+      "start_sec": 138.87,
+      "end_sec": 144.17
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "逆なんだもん。ぬるま湯で練るのがコツとされてるんだもん。",
+      "news_index": 1,
+      "start_sec": 144.32,
+      "end_sec": 147.61
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "お店で直前におろす、煮ると辛くない、熱湯だとダメ……。バラバラの話に見えるのだ。",
+      "news_index": 1,
+      "start_sec": 147.76,
+      "end_sec": 153.81
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "全部、同じ仕組みの話なんだもん。ずんだもん、ここまでで何か思いつく?",
+      "news_index": 1,
+      "start_sec": 153.96,
+      "end_sec": 159.19
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "辛さは、最初からわさびの中に入ってる「辛い粉」みたいなものじゃない、ってことなのだ?",
+      "news_index": 1,
+      "start_sec": 159.34,
+      "end_sec": 165.79
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "いいところまで来たもん。じゃあ、答え合わせに行くもん。",
+      "news_index": 1,
+      "start_sec": 165.94,
+      "end_sec": 169.44
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "答えはこれだもん。わさびの辛さは、すりおろして細胞が壊れた瞬間に、その場で作られるんだもん。",
+      "news_index": 2,
+      "start_sec": 169.52,
+      "end_sec": 176.02
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "その場で作られる!? おろし金の上で、辛さが生まれてるのだ?",
+      "news_index": 2,
+      "start_sec": 176.17,
+      "end_sec": 180.49
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "そうだもん。わさびの中には、辛さの「材料」と、材料を辛さに変える「はさみ」が、別々にしまってあるんだもん。",
+      "news_index": 2,
+      "start_sec": 180.64,
+      "end_sec": 189.62
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "材料と、はさみ? 料理の話なのだ?",
+      "news_index": 2,
+      "start_sec": 189.77,
+      "end_sec": 193.0
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "材料の方は、からし油配糖体っていう物質だもん。わさびだと、主にシニグリンっていうものだもん。",
+      "news_index": 2,
+      "start_sec": 193.15,
+      "end_sec": 199.81
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "えっ、それ何なのだ? 呪文にしか聞こえないのだ。",
+      "news_index": 2,
+      "start_sec": 199.96,
+      "end_sec": 205.03
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "小学生向けに言うと、辛さの素に糖がくっついて、おとなしくしてる状態だもん。",
+      "news_index": 2,
+      "start_sec": 205.18,
+      "end_sec": 210.52
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "辛さの素が、糖でフタをされてるってことなのだ?",
+      "news_index": 2,
+      "start_sec": 210.67,
+      "end_sec": 214.25
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "そのイメージでいいもん。そのフタを切り離す「はさみ」が、ミロシナーゼっていう酵素だもん。",
+      "news_index": 2,
+      "start_sec": 214.4,
+      "end_sec": 220.42
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "酵素って、よく聞くけど何なのだ?",
+      "news_index": 2,
+      "start_sec": 220.57,
+      "end_sec": 223.14
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "生き物の中で、決まった物をちょきんと切ったり、くっつけたりする道具みたいなものだもん。1回で使い切られずに、くり返し働けるんだもん。",
+      "news_index": 2,
+      "start_sec": 223.29,
+      "end_sec": 232.12
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "くり返し使える、魔法のはさみなのだ。",
+      "news_index": 2,
+      "start_sec": 232.27,
+      "end_sec": 235.08
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "で、はさみがフタを切ると、辛さの本体のアリルイソチオシアネートができあがるんだもん。",
+      "news_index": 2,
+      "start_sec": 235.23,
+      "end_sec": 240.55
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "また長い名前なのだ! ボクの頭がおろされそうなのだ。",
+      "news_index": 2,
+      "start_sec": 240.7,
+      "end_sec": 245.22
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "shirake",
+      "text": "おろされないもん。ツーンとくる成分の名前、とだけ覚えればいいもん。",
+      "news_index": 2,
+      "start_sec": 245.37,
+      "end_sec": 251.22
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、材料とはさみが一緒にいたら、ずっと辛いはずなのだ。",
+      "news_index": 2,
+      "start_sec": 251.37,
+      "end_sec": 255.76
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "だから、別々の部屋に入れてあるんだもん。アブラナ科の植物だと、はさみはミロシン細胞っていう特別な細胞の、液胞っていう袋にためてあることが多いんだもん。",
+      "news_index": 2,
+      "start_sec": 255.91,
+      "end_sec": 266.47
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "液胞って何なのだ?",
+      "news_index": 2,
+      "start_sec": 266.62,
+      "end_sec": 268.33
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "nagomi",
+      "text": "細胞の中にある、水やいろんな物をしまっておく袋だもん。押し入れみたいなものだもん。",
+      "news_index": 2,
+      "start_sec": 268.48,
+      "end_sec": 274.25
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "分かったのだ! おろし金で細胞と押し入れを壊すと、材料とはさみが出会うのだ!",
+      "news_index": 2,
+      "start_sec": 274.4,
+      "end_sec": 279.65
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "その通りだもん。折ると中の液が混ざって光る、ケミカルライトと同じなんだもん。",
+      "news_index": 2,
+      "start_sec": 279.8,
+      "end_sec": 284.63
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "お祭りで光る腕輪なのだ! 折るまでは光らないのだ。",
+      "news_index": 2,
+      "start_sec": 284.78,
+      "end_sec": 288.18
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "壊すまでは光らないのと同じで、壊すまでは辛さもまだ生まれてないんだもん。",
+      "news_index": 2,
+      "start_sec": 288.33,
+      "end_sec": 293.0
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "マジかよ! じゃあ、おろす前のわさびは、まだ辛くなる前の状態なのだ。",
+      "news_index": 2,
+      "start_sec": 293.15,
+      "end_sec": 298.09
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "要するに、わさびは「辛いもの」じゃなくて、「壊すと辛くなるもの」なんだもん。",
+      "news_index": 2,
+      "start_sec": 298.24,
+      "end_sec": 303.76
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも、なんでわさびはそんな面倒なことをしてるのだ? 人間においしく食べてほしいからなのだ?",
+      "news_index": 2,
+      "start_sec": 303.91,
+      "end_sec": 310.26
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "shirake",
+      "text": "わさびは、人間のために辛くなってるわけじゃないもん。",
+      "news_index": 2,
+      "start_sec": 310.41,
+      "end_sec": 314.72
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあ、誰のためなのだ?",
+      "news_index": 2,
+      "start_sec": 314.87,
+      "end_sec": 316.83
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "自分の身を守るためだと考えられてるもん。研究の世界では「からし油爆弾」なんて呼ばれてるんだもん。",
+      "news_index": 2,
+      "start_sec": 316.98,
+      "end_sec": 323.68
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "爆弾!? わさびは爆弾を抱えてるのだ?",
+      "news_index": 2,
+      "start_sec": 323.83,
+      "end_sec": 326.97
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "虫がかじると細胞が壊れて、その場で刺激の強い物質ができるもん。かじった瞬間に、口の中で作動する仕掛けだもん。",
+      "news_index": 2,
+      "start_sec": 327.12,
+      "end_sec": 335.04
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "最初から辛い物質を持っておけばいいのに、なんで爆弾方式なのだ?",
+      "news_index": 2,
+      "start_sec": 335.19,
+      "end_sec": 340.15
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "理由の1つと考えられてるのは、できあがった辛さの成分が、わさび自身の細胞にも害になることだもん。材料の形なら、安全にしまっておけるんだもん。",
+      "news_index": 2,
+      "start_sec": 340.3,
+      "end_sec": 350.9
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "危ないものは作り置きしないで、必要な時にだけ作るのだ。注文が入ってからおろす、お寿司屋さんと同じなのだ!",
+      "news_index": 2,
+      "start_sec": 351.05,
+      "end_sec": 359.02
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "hazukashi",
+      "text": "……それ、あんこもんが言おうとしてたんだもん。",
+      "news_index": 2,
+      "start_sec": 359.17,
+      "end_sec": 362.04
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "先に言っちゃったのだ。",
+      "news_index": 2,
+      "start_sec": 362.19,
+      "end_sec": 363.86
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "ちなみに、材料とはさみを別々の細胞に分ける植物もいれば、同じ細胞の中の別の場所に分ける植物もいるんだもん。",
+      "news_index": 2,
+      "start_sec": 364.01,
+      "end_sec": 371.94
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "どっちにしても、壊れるまで出会わないようにしてるのだ。",
+      "news_index": 2,
+      "start_sec": 372.09,
+      "end_sec": 375.64
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "要するに、わさびの辛さは、かじられた時にだけ鳴る防犯ベルなんだもん。",
+      "news_index": 2,
+      "start_sec": 375.79,
+      "end_sec": 380.45
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも、なんでわさびは鼻にツーンとくるのだ? 辛さが強すぎて、鼻まで届いちゃうのだ?",
+      "news_index": 2,
+      "start_sec": 380.6,
+      "end_sec": 386.75
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "強さの問題じゃないもん。唐辛子とは、辛さの成分の性質がまるで違うんだもん。",
+      "news_index": 2,
+      "start_sec": 386.9,
+      "end_sec": 392.43
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "性質? どう違うのだ?",
+      "news_index": 2,
+      "start_sec": 392.58,
+      "end_sec": 394.76
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "アリルイソチオシアネートは、揮発しやすいんだもん。つまり、すぐ気体になって空気に飛んでいくんだもん。",
+      "news_index": 2,
+      "start_sec": 394.91,
+      "end_sec": 401.36
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "気体になると、どうなるのだ?",
+      "news_index": 2,
+      "start_sec": 401.51,
+      "end_sec": 403.72
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "口の中で気体になって、のどの奥から鼻の方へ上がっていくもん。それで鼻の中の神経を刺激するんだもん。",
+      "news_index": 2,
+      "start_sec": 403.87,
+      "end_sec": 410.6
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "辛さが、においみたいに鼻へ登っていくのだ!?",
+      "news_index": 2,
+      "start_sec": 410.75,
+      "end_sec": 413.86
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "そう。唐辛子の辛さのカプサイシンは揮発しにくいから、口の中にとどまるんだもん。",
+      "news_index": 2,
+      "start_sec": 414.01,
+      "end_sec": 419.32
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "鼻の神経を刺激するって、どういう仕組みなのだ?",
+      "news_index": 2,
+      "start_sec": 419.47,
+      "end_sec": 423.08
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "神経には、刺激を感じるスイッチがあるんだもん。わさびの成分は、主にTRPA1っていうスイッチを押すんだもん。",
+      "news_index": 2,
+      "start_sec": 423.23,
+      "end_sec": 430.72
+    },
+    {
+      "index": 84,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "また呪文なのだ……。",
+      "news_index": 2,
+      "start_sec": 430.87,
+      "end_sec": 432.67
+    },
+    {
+      "index": 85,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "「痛い、危ない」を知らせる警報のスイッチだと思えばいいもん。唐辛子が押すのは、主に別のスイッチなんだもん。",
+      "news_index": 2,
+      "start_sec": 432.82,
+      "end_sec": 440.3
+    },
+    {
+      "index": 86,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "同じ「辛い」でも、押してるボタンが違うのだ?",
+      "news_index": 2,
+      "start_sec": 440.45,
+      "end_sec": 444.27
+    },
+    {
+      "index": 87,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "そういうことだもん。だから、わさびのツーンと唐辛子のヒリヒリは、感じ方が違うんだもん。",
+      "news_index": 2,
+      "start_sec": 444.42,
+      "end_sec": 450.33
+    },
+    {
+      "index": 88,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あっ、気体になって飛んでいくってことは、さっきの「辛さが抜ける」もそれなのだ?",
+      "news_index": 2,
+      "start_sec": 450.48,
+      "end_sec": 455.86
+    },
+    {
+      "index": 89,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "ちゃんとつながったもん。おろしたわさびを置いておくと、辛さの成分が空気に逃げていくんだもん。",
+      "news_index": 2,
+      "start_sec": 456.01,
+      "end_sec": 461.62
+    },
+    {
+      "index": 90,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "せっかく生まれた辛さが、旅に出ちゃうのだ……。",
+      "news_index": 2,
+      "start_sec": 461.77,
+      "end_sec": 465.66
+    },
+    {
+      "index": 91,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "要するに、ツーンが鼻に来るのも、時間で抜けるのも、成分が気体になりやすいからだもん。",
+      "news_index": 2,
+      "start_sec": 465.81,
+      "end_sec": 471.64
+    },
+    {
+      "index": 92,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、辛いわさびにしたかったら、力いっぱいゴシゴシおろせばいいのだ?",
+      "news_index": 2,
+      "start_sec": 471.79,
+      "end_sec": 476.77
+    },
+    {
+      "index": 93,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "力より、どれだけ細かく細胞を壊せるかだもん。壊れた細胞が多いほど、材料とはさみが出会うんだもん。",
+      "news_index": 2,
+      "start_sec": 476.92,
+      "end_sec": 484.11
+    },
+    {
+      "index": 94,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "だからお寿司屋さんは、目の細かいおろし金を使うのだ?",
+      "news_index": 2,
+      "start_sec": 484.26,
+      "end_sec": 488.39
+    },
+    {
+      "index": 95,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "昔から、サメの皮を張った鮫皮おろしが使われてきたんだもん。すりつぶすように、細かくおろせるんだもん。",
+      "news_index": 2,
+      "start_sec": 488.54,
+      "end_sec": 495.4
+    },
+    {
+      "index": 96,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "サメ!? わさびのためにサメが出てくるのだ?",
+      "news_index": 2,
+      "start_sec": 495.55,
+      "end_sec": 498.5
+    },
+    {
+      "index": 97,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "nagomi",
+      "text": "細かくおろすと、なめらかになって、辛さや香りも出やすいとされてるもん。",
+      "news_index": 2,
+      "start_sec": 498.65,
+      "end_sec": 503.51
+    },
+    {
+      "index": 98,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "道具まで、細胞を壊すために選ばれてたのだ。",
+      "news_index": 2,
+      "start_sec": 503.66,
+      "end_sec": 506.94
+    },
+    {
+      "index": 99,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "ここからは、同じ仕組みが身の回りのどこに隠れてるか、の話だもん。",
+      "news_index": 3,
+      "start_sec": 507.09,
+      "end_sec": 511.53
+    },
+    {
+      "index": 100,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "さっきのヒントの答え合わせなのだ!",
+      "news_index": 3,
+      "start_sec": 511.68,
+      "end_sec": 513.98
+    },
+    {
+      "index": 101,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "まず粉からし。からしの粉そのものは、まだ辛さができる前の状態なんだもん。",
+      "news_index": 3,
+      "start_sec": 514.13,
+      "end_sec": 519.25
+    },
+    {
+      "index": 102,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "水で練ったところで、はさみが働き始めるのだ?",
+      "news_index": 3,
+      "start_sec": 519.4,
+      "end_sec": 523.0
+    },
+    {
+      "index": 103,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "そうだもん。だから熱湯だと、はさみの酵素が熱でダメになって、うまく辛さが作れないんだもん。",
+      "news_index": 3,
+      "start_sec": 523.15,
+      "end_sec": 529.32
+    },
+    {
+      "index": 104,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "はさみが熱でダメになるのだ!?",
+      "news_index": 3,
+      "start_sec": 529.47,
+      "end_sec": 531.57
+    },
+    {
+      "index": 105,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "酵素は熱に弱いものが多いんだもん。40℃くらいのぬるま湯で練って、少し置くのがいいとされてるもん。",
+      "news_index": 3,
+      "start_sec": 531.72,
+      "end_sec": 538.39
+    },
+    {
+      "index": 106,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "少し置くのは、はさみが働く時間をあげてるのだ。",
+      "news_index": 3,
+      "start_sec": 538.54,
+      "end_sec": 542.12
+    },
+    {
+      "index": 107,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "その通りだもん。練ってすぐより、少し待った方が辛さが出てくるんだもん。",
+      "news_index": 3,
+      "start_sec": 542.27,
+      "end_sec": 547.0
+    },
+    {
+      "index": 108,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "じゃあ、おでんの大根は? 半分正解の、残りの半分なのだ!",
+      "news_index": 3,
+      "start_sec": 547.15,
+      "end_sec": 551.85
+    },
+    {
+      "index": 109,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "大根もわさびと同じアブラナ科の仲間で、同じ爆弾を持ってるもん。おろすと辛いのは、細胞が壊れて辛さが生まれるからだもん。",
+      "news_index": 3,
+      "start_sec": 552.0,
+      "end_sec": 560.14
+    },
+    {
+      "index": 110,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "煮ると……あっ、はさみが熱で壊れちゃうのだ!",
+      "news_index": 3,
+      "start_sec": 560.29,
+      "end_sec": 563.6
+    },
+    {
+      "index": 111,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "shirake",
+      "text": "……また先に言われたもん。そう、煮ると酵素が働かなくなって、そもそも辛さが作られにくいんだもん。",
+      "news_index": 3,
+      "start_sec": 563.75,
+      "end_sec": 572.21
+    },
+    {
+      "index": 112,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ボクの「熱で飛ぶ」も、半分は合ってたのだ。",
+      "news_index": 3,
+      "start_sec": 572.36,
+      "end_sec": 576.27
+    },
+    {
+      "index": 113,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "できた分は飛んでいくし、新しくも作られない、ってことだもん。",
+      "news_index": 3,
+      "start_sec": 576.42,
+      "end_sec": 580.81
+    },
+    {
+      "index": 114,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "大根おろしは、どこをおろしても同じ辛さなのだ?",
+      "news_index": 3,
+      "start_sec": 580.96,
+      "end_sec": 584.53
+    },
+    {
+      "index": 115,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "葉っぱに近い上の方は甘めで、先っぽに行くほど辛くなるんだもん。辛さの材料が、先端に近いほど多いんだもん。",
+      "news_index": 3,
+      "start_sec": 584.68,
+      "end_sec": 592.26
+    },
+    {
+      "index": 116,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "辛いのが好きなら先っぽ、苦手なら上の方なのだ。ボクは上の方にするのだ。",
+      "news_index": 3,
+      "start_sec": 592.41,
+      "end_sec": 597.66
+    },
+    {
+      "index": 117,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "それから、キャベツやブロッコリーも同じアブラナ科で、材料とはさみの仕組みを持ってるんだもん。",
+      "news_index": 3,
+      "start_sec": 597.81,
+      "end_sec": 603.4
+    },
+    {
+      "index": 118,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "キャベツも爆弾持ちなのだ!? 全然ツーンとしないのだ。",
+      "news_index": 3,
+      "start_sec": 603.55,
+      "end_sec": 607.22
+    },
+    {
+      "index": 119,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "中に入ってる材料の種類や量が違うから、わさびみたいにはこないんだもん。",
+      "news_index": 3,
+      "start_sec": 607.37,
+      "end_sec": 612.35
+    },
+    {
+      "index": 120,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "同じ仕組みでも、中身しだいで辛さが変わるのだ。",
+      "news_index": 3,
+      "start_sec": 612.5,
+      "end_sec": 615.87
+    },
+    {
+      "index": 121,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "要するに、アブラナ科の野菜は、みんな「壊すと何かが生まれる」仕組みを持ってるんだもん。",
+      "news_index": 3,
+      "start_sec": 616.02,
+      "end_sec": 621.86
+    },
+    {
+      "index": 122,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "ずんだ餅には、爆弾は入ってないのだ。平和なのだ。",
+      "news_index": 3,
+      "start_sec": 622.01,
+      "end_sec": 625.88
+    },
+    {
+      "index": 123,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "heart",
+      "text": "あんこにも入ってないもん。あんこは平和の味だもん。",
+      "news_index": 3,
+      "start_sec": 626.03,
+      "end_sec": 629.28
+    },
+    {
+      "index": 124,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "今日のまとめだもん。わさびの辛さは、わさびの中にあるんじゃなくて、おろした瞬間に生まれるんだもん。",
+      "news_index": 0,
+      "start_sec": 629.36,
+      "end_sec": 635.56
+    },
+    {
+      "index": 125,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "材料とはさみが、細胞が壊れて出会った時だけ辛くなるのだ。",
+      "news_index": 0,
+      "start_sec": 635.71,
+      "end_sec": 639.95
+    },
+    {
+      "index": 126,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "どう? 知らなかったって認める?",
+      "news_index": 0,
+      "start_sec": 640.1,
+      "end_sec": 642.38
+    },
+    {
+      "index": 127,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "hazukashi",
+      "text": "……ちょっとだけ、知らなかったのだ。でも、お寿司屋さんの話はボクが先に当てたのだ。",
+      "news_index": 0,
+      "start_sec": 642.53,
+      "end_sec": 648.11
+    },
+    {
+      "index": 128,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "shirake",
+      "text": "それはそれだもん。次はもっと手ごわいネタで勝つもん。",
+      "news_index": 0,
+      "start_sec": 648.26,
+      "end_sec": 652.64
+    },
+    {
+      "index": 129,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "聴いてくれてるかた、お疲れさまなのだ。またね、なのだ!",
+      "news_index": 0,
+      "start_sec": 652.79,
+      "end_sec": 656.47
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 657.17,
+      "end_sec": 665.2
+    }
+  ],
+  "wall_time_sec": 11.92,
+  "audio_url": "/audio/zatsugaku/20261005_210636.mp3?v=1791202526"
+}

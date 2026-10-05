@@ -7,8 +7,8 @@
     <description>ずんだもん × めたん × つむぎが届ける、ゲーム &amp; テックニュース雑談ラジオ。朝便と夜便で毎日更新、レトロから新作まで、最新 AI 動向から業界マクロまで雑談形式でサクッと。</description>
     <language>ja</language>
     <copyright>© 2026 tabinomichi</copyright>
-    <lastBuildDate>Mon, 05 Oct 2026 05:03:12 +0900</lastBuildDate>
-    <pubDate>Mon, 05 Oct 2026 05:01:57 +0900</pubDate>
+    <lastBuildDate>Mon, 05 Oct 2026 21:15:27 +0900</lastBuildDate>
+    <pubDate>Mon, 05 Oct 2026 21:06:36 +0900</pubDate>
     <generator>build_rss_feed.py (tabinomichi radio)</generator>
     <image>
       <url>https://news.tabinomichi.jp/podcast-cover.png?v=1779005902</url>
@@ -29,6 +29,21 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>わさびの辛さは、わさびの中に入っていない 〜すりおろした瞬間に生まれる防御のしくみ〜</title>
+      <link>https://news.tabinomichi.jp/radio/20261005_210636</link>
+      <guid isPermaLink="false">tabinomichi-radio-20261005_210636</guid>
+      <pubDate>Mon, 05 Oct 2026 21:06:36 +0900</pubDate>
+      <description>お寿司に欠かせないわさびの辛さは、実はわさびの中にできあがった形では入っていない、という話。問いのパートでは、お寿司屋さんが使う直前におろす理由、煮た大根が辛くない理由、粉からしを熱湯で練るとうまくいかない理由を手がかりに、思い込みを崩していく。解説では、辛さの材料のからし油配糖体と、それを切る酵素ミロシナーゼが別々の場所にしまわれ、すりおろして細胞が壊れた瞬間に反応して辛さが生まれる仕組みを、ケミカルライトにたとえて紹介。虫から身を守る「からし油爆弾」という考え方、成分が揮発しやすいために鼻へ抜け、時間とともに抜けていく理由、細かくおろす道具の話へ進む。広がりでは、粉からしのぬるま湯、おでんの大根、大根の先端が辛い理由、キャベツやブロッコリーにも同じ仕組みがあることまで話した。</description>
+      <content:encoded><![CDATA[お寿司に欠かせないわさびの辛さは、実はわさびの中にできあがった形では入っていない、という話。問いのパートでは、お寿司屋さんが使う直前におろす理由、煮た大根が辛くない理由、粉からしを熱湯で練るとうまくいかない理由を手がかりに、思い込みを崩していく。解説では、辛さの材料のからし油配糖体と、それを切る酵素ミロシナーゼが別々の場所にしまわれ、すりおろして細胞が壊れた瞬間に反応して辛さが生まれる仕組みを、ケミカルライトにたとえて紹介。虫から身を守る「からし油爆弾」という考え方、成分が揮発しやすいために鼻へ抜け、時間とともに抜けていく理由、細かくおろす道具の話へ進む。広がりでは、粉からしのぬるま湯、おでんの大根、大根の先端が辛い理由、キャベツやブロッコリーにも同じ仕組みがあることまで話した。]]></content:encoded>
+      <enclosure url="https://news.tabinomichi.jp/audio/zatsugaku/20261005_210636.mp3?v=1791202526" length="10644209" type="audio/mpeg"/>
+      <itunes:title>わさびの辛さは、わさびの中に入っていない 〜すりおろした瞬間に生まれる防御のしくみ〜</itunes:title>
+      <itunes:summary>お寿司に欠かせないわさびの辛さは、実はわさびの中にできあがった形では入っていない、という話。問いのパートでは、お寿司屋さんが使う直前におろす理由、煮た大根が辛くない理由、粉からしを熱湯で練るとうまくいかない理由を手がかりに、思い込みを崩していく。解説では、辛さの材料のからし油配糖体と、それを切る酵素ミロシナーゼが別々の場所にしまわれ、すりおろして細胞が壊れた瞬間に反応して辛さが生まれる仕組みを、ケミカルライトにたとえて紹介。虫から身を守る「からし油爆弾」という考え方、成分が揮発しやすいために鼻へ抜け、時間とともに抜けていく理由、細かくおろす道具の話へ進む。広がりでは、粉からしのぬるま湯、おでんの大根、大根の先端が辛い理由、キャベツやブロッコリーにも同じ仕組みがあることまで話した。</itunes:summary>
+      <itunes:image href="https://news.tabinomichi.jp/images/og/20261005_210636.jpg"/>
+      <itunes:duration>11:05</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>タダが細くなる朝 〜しぼむ無料枠と、値上がりした7歳の箱〜</title>
       <link>https://news.tabinomichi.jp/radio/20261004_170607</link>
@@ -1511,21 +1526,6 @@
       <itunes:summary>取り上げるのは2005年に同人サークル「ステージなな」が公開したノベルゲーム『ナルキッソス』。シナリオ・原案は片岡とも。値段ゼロ円のフリーウェアとして配られたのに、いまも語り継がれている一本です。舞台は病院の七階、末期の患者が過ごすホスピス病棟。名前の出てこない二十歳の主人公と、ふたつ年上のセツミが、病室に置き忘れられた車のキーを持ち出して銀色のインテグラで水戸から西へ走り出す——水仙が一面に咲く淡路島を目指す旅の導入までを、結末には触れずに紹介します。立ち絵をほとんど使わず文章と背景と音で聴かせる構成、主題歌を歌うエウフォニウス、有志の英語版から海外へ広がって累計百万ダウンロードを超えた経緯、続編やPSP版・Steam版・小説版・漫画版までの広がりも。ずんだもんが冒頭でギリシャ神話と取り違えるところから始まり、つむぎが「泣けるから遊べ」とは言いたくない、と静かに締める回です。</itunes:summary>
       <itunes:image href="https://news.tabinomichi.jp/images/og/20260825_050611.jpg"/>
       <itunes:duration>6:32</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>無料で配る理由 〜国産のAIと、一日早い嵐〜</title>
-      <link>https://news.tabinomichi.jp/radio/20260824_051457</link>
-      <guid isPermaLink="false">tabinomichi-radio-20260824_051457</guid>
-      <pubDate>Mon, 24 Aug 2026 05:14:57 +0900</pubDate>
-      <description>今朝のテック朝便は五本立て。まずは国立情報学研究所が八月十八日に公開した国産の大規模言語モデル、およそ332億の規模を商用利用OKで無料配布した狙いから。次にオープンエーアイが看板モデルの業務用料金を期間限定で値下げした話、続いてクラウドフレアが出した「人間が使わない」AIエージェント専用ブラウザ、カイトサーフ。四本目は法務省が公表した声の権利の指針で、無断のAIカバーがどこから侵害になるのかの線引き。最後はグーグルのディープマインドが無料公開した台風予測AIで、警報が丸一日早くなる話まで。通勤・通学のおともにどうぞ。</description>
-      <content:encoded><![CDATA[今朝のテック朝便は五本立て。まずは国立情報学研究所が八月十八日に公開した国産の大規模言語モデル、およそ332億の規模を商用利用OKで無料配布した狙いから。次にオープンエーアイが看板モデルの業務用料金を期間限定で値下げした話、続いてクラウドフレアが出した「人間が使わない」AIエージェント専用ブラウザ、カイトサーフ。四本目は法務省が公表した声の権利の指針で、無断のAIカバーがどこから侵害になるのかの線引き。最後はグーグルのディープマインドが無料公開した台風予測AIで、警報が丸一日早くなる話まで。通勤・通学のおともにどうぞ。]]></content:encoded>
-      <enclosure url="https://news.tabinomichi.jp/audio/ai/20260824_051457.mp3?v=1787516823" length="7582658" type="audio/mpeg"/>
-      <itunes:title>無料で配る理由 〜国産のAIと、一日早い嵐〜</itunes:title>
-      <itunes:summary>今朝のテック朝便は五本立て。まずは国立情報学研究所が八月十八日に公開した国産の大規模言語モデル、およそ332億の規模を商用利用OKで無料配布した狙いから。次にオープンエーアイが看板モデルの業務用料金を期間限定で値下げした話、続いてクラウドフレアが出した「人間が使わない」AIエージェント専用ブラウザ、カイトサーフ。四本目は法務省が公表した声の権利の指針で、無断のAIカバーがどこから侵害になるのかの線引き。最後はグーグルのディープマインドが無料公開した台風予測AIで、警報が丸一日早くなる話まで。通勤・通学のおともにどうぞ。</itunes:summary>
-      <itunes:image href="https://news.tabinomichi.jp/images/og/20260824_051457.jpg"/>
-      <itunes:duration>7:53</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
