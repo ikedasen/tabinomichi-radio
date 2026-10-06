@@ -1,0 +1,836 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-10-06T17:03:10+09:00",
+  "title": "永遠のドリンクバー 〜ムーンパレスで夜を享受せよ〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 369.72,
+  "script_hash": "sha256:eb3253d28c4a309512698f7146621f1036772d922a1feb934931df6d538a6780",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 9.59
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "旅の道ラジオへようこそなのだー！ パーソナリティのずんだもんなのだ！",
+      "news_index": 0,
+      "start_sec": 9.59,
+      "end_sec": 14.07
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "あーし、春日部つむぎっす！ オタクくん、今回もあーしとまったりしていくっすよー！",
+      "news_index": 0,
+      "start_sec": 14.22,
+      "end_sec": 19.28
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "つむぎはレトロゲー担当だったのだ。今回も古いカセットの話なのだ？",
+      "news_index": 0,
+      "start_sec": 19.43,
+      "end_sec": 24.19
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "それがっすね、今回は2023年のわりと最近のやつっす。",
+      "news_index": 0,
+      "start_sec": 24.34,
+      "end_sec": 28.55
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "レトロ担当が現代に出稼ぎに来たのだ。",
+      "news_index": 0,
+      "start_sec": 28.7,
+      "end_sec": 31.85
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "出稼ぎ言うなっす。要するにあーしはノベルゲーなら年代問わず全部守備範囲なんすわ。",
+      "news_index": 0,
+      "start_sec": 32.0,
+      "end_sec": 37.05
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "今回のお題はこれっす。『ファミレスを享受せよ』、永遠のファミレス、ムーンパレスに迷い込むアドベンチャーっす。",
+      "news_index": 1,
+      "start_sec": 37.13,
+      "end_sec": 43.83
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "永遠のファミレス！ ボク、そこに永住するのだー！",
+      "news_index": 1,
+      "start_sec": 43.98,
+      "end_sec": 47.97
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "永住は半分正解っす。出られないんで、住むしかないんすよ。",
+      "news_index": 1,
+      "start_sec": 48.12,
+      "end_sec": 52.05
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "急に怖くなったのだ。",
+      "news_index": 1,
+      "start_sec": 52.2,
+      "end_sec": 54.19
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "しかもドリンクバーがあるっす。公式の紹介文が「なんとドリンクバーもあります」っすからね。",
+      "news_index": 1,
+      "start_sec": 54.34,
+      "end_sec": 59.84
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ドリンクバーが公式の売りなのだ！ ボクそれだけで2時間はいけるのだ。",
+      "news_index": 1,
+      "start_sec": 59.99,
+      "end_sec": 64.75
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "奇遇っすね先輩、クリアまでちょうど2時間から2時間半っす！",
+      "news_index": 1,
+      "start_sec": 64.9,
+      "end_sec": 68.72
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "計算が合ってしまったのだ。",
+      "news_index": 1,
+      "start_sec": 68.87,
+      "end_sec": 71.05
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに、ドリンクバーの前で悩んでる時間がそのまま本編になるゲームっす。",
+      "news_index": 1,
+      "start_sec": 71.2,
+      "end_sec": 75.78
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "遊びかたはシンプルっす。クリックで探索して、客と雑談して「話題」を集めるっす。",
+      "news_index": 1,
+      "start_sec": 75.86,
+      "end_sec": 81.68
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "雑談を集めるのだ？ RPGで武器を拾うみたいなことなのだ？",
+      "news_index": 1,
+      "start_sec": 81.83,
+      "end_sec": 86.41
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "近いっす。集めた話題を別の人にぶつけると、そのかたが新しい話をしてくれるっす。",
+      "news_index": 1,
+      "start_sec": 86.56,
+      "end_sec": 92.06
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "つまり噂話が鍵になるダンジョンなのだ！",
+      "news_index": 1,
+      "start_sec": 92.21,
+      "end_sec": 95.0
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "その言いかたガチで的確っす！ 会話が鍵で、ファミレスが迷宮っす！",
+      "news_index": 1,
+      "start_sec": 95.15,
+      "end_sec": 99.59
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "先客はどんな人がいるのだ？",
+      "news_index": 1,
+      "start_sec": 99.74,
+      "end_sec": 101.88
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "きまじめな青年のセロニカ、ムーンパレスの古参のガラスパン、亡国フォースプーンの偉大なる王レイルロード・スパイクっす。",
+      "news_index": 1,
+      "start_sec": 102.03,
+      "end_sec": 109.15
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "あと、部屋から出てこないんで誰も姿を見たことがないツェネズっす。",
+      "news_index": 1,
+      "start_sec": 109.23,
+      "end_sec": 113.14
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "情報が渋滞したのだ。王様がファミレスにいるのだ？",
+      "news_index": 1,
+      "start_sec": 113.29,
+      "end_sec": 117.84
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "いるっす。しかもけっこう気さくらしいっす。",
+      "news_index": 1,
+      "start_sec": 117.99,
+      "end_sec": 120.57
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "王様がドリンクバーでメロンソーダ作ってたら、国が心配になるのだ。",
+      "news_index": 1,
+      "start_sec": 120.72,
+      "end_sec": 125.2
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "その光景が味なんすわ。要するに、来歴がバラバラな連中が全員ファミレスで横並びになる話っす。",
+      "news_index": 1,
+      "start_sec": 125.35,
+      "end_sec": 131.85
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "これ作ったのはどこなのだ？",
+      "news_index": 1,
+      "start_sec": 132.0,
+      "end_sec": 133.97
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "月刊湿地帯っていうサークルっす。もともと作者ひとりで作ってたっす。",
+      "news_index": 1,
+      "start_sec": 134.12,
+      "end_sec": 138.41
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "月刊！？ 毎月ファミレスが届くのだ！？",
+      "news_index": 1,
+      "start_sec": 138.56,
+      "end_sec": 141.83
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "届かないっす。月刊は名義であって刊行ペースじゃないっす。",
+      "news_index": 1,
+      "start_sec": 141.98,
+      "end_sec": 145.75
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "毎月来るなら定期購読したかったのだ……",
+      "news_index": 1,
+      "start_sec": 145.9,
+      "end_sec": 149.82
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "気持ちはわかるっす。要するに、名前はジョークで中身は個人の作家性の塊っす。",
+      "news_index": 1,
+      "start_sec": 149.97,
+      "end_sec": 155.32
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "で、開発のきっかけがまた渋いんすよ。作者いわく、留年したことっす。",
+      "news_index": 1,
+      "start_sec": 155.4,
+      "end_sec": 160.27
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "留年からファミレスが生まれたのだ！？",
+      "news_index": 1,
+      "start_sec": 160.42,
+      "end_sec": 162.79
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "深夜のファミレスで人と向かい合ってる絵がしっくり来て、そこから設定を広げてったって語ってるっす。",
+      "news_index": 1,
+      "start_sec": 162.94,
+      "end_sec": 168.59
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "わかる気がするのだ。時間が止まったみたいな場所なのだ。",
+      "news_index": 1,
+      "start_sec": 168.74,
+      "end_sec": 172.21
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そう！ そこが本作のコアっすよ！",
+      "news_index": 1,
+      "start_sec": 172.36,
+      "end_sec": 174.61
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "開発期間は想定ひと月だったのに、全行程で3か月かかったっす。",
+      "news_index": 1,
+      "start_sec": 174.69,
+      "end_sec": 179.31
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "3か月で完成するのすごいのだ。ボクなら3か月ドリンクバーにいるだけなのだ。",
+      "news_index": 1,
+      "start_sec": 179.46,
+      "end_sec": 184.56
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "先輩それ、このゲームの主人公と同じムーブっす。",
+      "news_index": 1,
+      "start_sec": 184.71,
+      "end_sec": 188.19
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "最初は無料で公開されたっす。2023年1月23日、エンジンはゴドーっす。",
+      "news_index": 1,
+      "start_sec": 188.27,
+      "end_sec": 194.31
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "無料！？ こんなに評判いいのがタダだったのだ！？",
+      "news_index": 1,
+      "start_sec": 194.46,
+      "end_sec": 198.01
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そうっす。口コミで火がついて、有料版が2023年8月1日に出たっす。",
+      "news_index": 1,
+      "start_sec": 198.16,
+      "end_sec": 203.72
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "でも無料で遊んだ人は、もう買わないんじゃないのだ？",
+      "news_index": 1,
+      "start_sec": 203.87,
+      "end_sec": 207.25
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そこがうまくて、開発環境をユニティに移して雑談まで追加した完全版なんすわ。",
+      "news_index": 1,
+      "start_sec": 207.4,
+      "end_sec": 212.5
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "雑談が増える増量版なのだ！ 一番うれしい増えかたなのだ！",
+      "news_index": 1,
+      "start_sec": 212.65,
+      "end_sec": 216.77
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "お値段1,500円っす。あーし的にはこの喋る量で1,500円は事故っすよ、安すぎて！",
+      "news_index": 1,
+      "start_sec": 216.92,
+      "end_sec": 222.64
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "つむぎが値段にキレてるのだ。",
+      "news_index": 1,
+      "start_sec": 222.79,
+      "end_sec": 225.0
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "褒めてるっす。要するに、無料でもう完成してたのに、売る版でさらに喋りが伸びた作品っす。",
+      "news_index": 1,
+      "start_sec": 225.15,
+      "end_sec": 231.13
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "評判の話するっすよ。スチームのレビューは「圧倒的に好評」、千件超えで97パーセントが高評価っす。",
+      "news_index": 1,
+      "start_sec": 231.21,
+      "end_sec": 238.59
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "97パーセント！？ 残りの3パーセントはなにを怒ってるのだ？",
+      "news_index": 1,
+      "start_sec": 238.74,
+      "end_sec": 244.45
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "そこ気にするの先輩だけっす。97見て3を数えにいくのやめるっす。",
+      "news_index": 1,
+      "start_sec": 244.6,
+      "end_sec": 249.27
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "……ごめんなさいなのだ。",
+      "news_index": 1,
+      "start_sec": 249.42,
+      "end_sec": 250.65
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "スイッチ版も2023年11月15日に出てるっす。ピアノソロ版のBGMを足すアップデート付きっす。",
+      "news_index": 1,
+      "start_sec": 250.8,
+      "end_sec": 257.75
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ピアノソロ！ 深夜のファミレスにこれ以上ないのだ。",
+      "news_index": 1,
+      "start_sec": 257.9,
+      "end_sec": 261.37
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ここからガチで語らせてもらうっすけど、この作品テキストがめちゃくちゃ小説なんすわ。",
+      "news_index": 1,
+      "start_sec": 261.52,
+      "end_sec": 266.39
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "小説っぽいって、難しい言葉がずらっと並ぶやつなのだ？",
+      "news_index": 1,
+      "start_sec": 266.54,
+      "end_sec": 270.69
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "逆っす。作者は難しい言葉をあまり使わないタイプっす。",
+      "news_index": 1,
+      "start_sec": 270.84,
+      "end_sec": 274.6
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "インタビューだと、高校生の頃に出会った安部公房から文体の影響を受けたって話してるっす。",
+      "news_index": 1,
+      "start_sec": 274.68,
+      "end_sec": 280.6
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "平たい言葉で変なことを書く、っていうやつなのだ。",
+      "news_index": 1,
+      "start_sec": 280.75,
+      "end_sec": 284.11
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "それっす！ 平熱の文章で異常な状況を出してくるから、こっちが勝手に怖くなるっす！",
+      "news_index": 1,
+      "start_sec": 284.26,
+      "end_sec": 289.71
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ずるいのだ。淡々としてるほうが効くのだ。",
+      "news_index": 1,
+      "start_sec": 289.86,
+      "end_sec": 292.64
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに、大声で驚かせてこないホラーみたいな距離感っす。",
+      "news_index": 1,
+      "start_sec": 292.79,
+      "end_sec": 296.47
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "あーし、無料版で一周、製品版でもう一周してるっす！ ドリンクバーは全種類試したっす！",
+      "news_index": 1,
+      "start_sec": 296.55,
+      "end_sec": 302.7
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "つむぎ、それ友達と行くファミレスでもやってるのだ？ ……というか友達いるのだ？",
+      "news_index": 1,
+      "start_sec": 302.85,
+      "end_sec": 308.63
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "shirake",
+      "text": "……先輩。",
+      "news_index": 1,
+      "start_sec": 308.78,
+      "end_sec": 309.6
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "な、なんでもないのだ……ごめんなさいなのだ……",
+      "news_index": 1,
+      "start_sec": 309.75,
+      "end_sec": 313.69
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "コホン。話戻すっすよ。",
+      "news_index": 1,
+      "start_sec": 313.84,
+      "end_sec": 315.72
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "この作者、今は新作を作ってるっす。メトロペンギンユートピアっていう、地下鉄が舞台のRPGっす。",
+      "news_index": 1,
+      "start_sec": 315.8,
+      "end_sec": 322.52
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "ファミレスの次が地下鉄でペンギン！？ 線が繋がらないのだ。",
+      "news_index": 1,
+      "start_sec": 322.67,
+      "end_sec": 327.56
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "繋がらないのがこのかたの持ち味っす。",
+      "news_index": 1,
+      "start_sec": 327.71,
+      "end_sec": 330.15
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "たしかに、変な場所に人を閉じ込める才能はあるのだ。",
+      "news_index": 1,
+      "start_sec": 330.3,
+      "end_sec": 333.91
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに、閉じた場所の人間模様を書かせたら強い作家っす。",
+      "news_index": 1,
+      "start_sec": 334.06,
+      "end_sec": 337.93
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "オタクくん、まだ遊んでないなら今からでも全然間に合うっす。無料版もまだ残ってるっすよ。",
+      "news_index": 1,
+      "start_sec": 338.01,
+      "end_sec": 343.49
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "リスナーのみなさん、ボクはムーンパレスに永住申請するのだ！",
+      "news_index": 1,
+      "start_sec": 343.64,
+      "end_sec": 347.6
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "先輩、永住したら番組に戻ってこれないっす。",
+      "news_index": 1,
+      "start_sec": 347.75,
+      "end_sec": 350.87
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "……じゃあ、閉店まで居るのだ。",
+      "news_index": 1,
+      "start_sec": 351.02,
+      "end_sec": 353.15
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "だから閉店しないんすってば。",
+      "news_index": 1,
+      "start_sec": 353.3,
+      "end_sec": 355.02
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "また旅の道ラジオで会いましょうなのだー！",
+      "news_index": 1,
+      "start_sec": 355.17,
+      "end_sec": 358.06
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "ばいばいっす、オタクくん！ またっすよー！",
+      "news_index": 1,
+      "start_sec": 358.21,
+      "end_sec": 360.72
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 361.42,
+      "end_sec": 369.72
+    }
+  ],
+  "wall_time_sec": 18.03,
+  "audio_url": "/audio/indie/20261006_170310.mp3?v=1791316976"
+}

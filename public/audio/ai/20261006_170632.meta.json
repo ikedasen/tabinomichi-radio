@@ -1,0 +1,886 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-10-06T17:06:32+09:00",
+  "title": "倉庫が引っ越す朝 〜倍になるハードディスクと、雲の上のコワーク〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 559.38,
+  "script_hash": "sha256:d5635bc01ba1d0633693bf59610b67017618529c69263415b997a0b25e4ce5de",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 5.05
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便。テックの話題をサクッと流す回、四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 5.05,
+      "end_sec": 11.06
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝も電車の中から、耳だけ貸してほしいのだ!",
+      "news_index": 0,
+      "start_sec": 11.21,
+      "end_sec": 16.1
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今日は五本。倉庫の話、お引っ越しの話、それに見えないハンコの話もあるわ。",
+      "news_index": 0,
+      "start_sec": 16.25,
+      "end_sec": 21.62
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "見えないハンコ? 押したのに見えないなら、押す意味あるのだ?",
+      "news_index": 0,
+      "start_sec": 21.77,
+      "end_sec": 25.98
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "それは四本目のお楽しみ。まずは、ちょっと財布に効きそうなところから行くわね。",
+      "news_index": 0,
+      "start_sec": 26.13,
+      "end_sec": 31.22
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "財布の話は朝イチで聞いとくべきなのだ! いくのだー!",
+      "news_index": 0,
+      "start_sec": 31.37,
+      "end_sec": 34.99
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。東芝が、AIのデータセンター向けのハードディスクを、2027年度までに倍の量つくれるようにする計画なの。",
+      "news_index": 1,
+      "start_sec": 35.14,
+      "end_sec": 43.02
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ハードディスクって、パソコンの中でカリカリ鳴ってる、あの円盤のやつだっけ?",
+      "news_index": 1,
+      "start_sec": 43.17,
+      "end_sec": 48.46
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そう、データをしまっておく倉庫ね。データセンターは、AIやネットのサービスを動かすコンピューターが詰まった巨大な建物のことよ。",
+      "news_index": 1,
+      "start_sec": 48.61,
+      "end_sec": 56.96
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "AIって、そんなに倉庫がいるのだ? 頭の中に全部しまってるんじゃないのだ?",
+      "news_index": 1,
+      "start_sec": 57.11,
+      "end_sec": 62.37
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "頭だけじゃ足りないの。学ばせる材料も、AIが作った文章や画像も、どこかに山ほど置いとかなきゃいけないわ。",
+      "news_index": 1,
+      "start_sec": 62.52,
+      "end_sec": 69.6
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ボクの部屋の押し入れと一緒じゃん。物が増えるたびに、収納ボックス買い足してるのだ。",
+      "news_index": 1,
+      "start_sec": 69.75,
+      "end_sec": 75.89
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "まさにそれ。で、東芝はフィリピンの工場に約600億円をかけて、箱を作る量を倍にするって話。",
+      "news_index": 1,
+      "start_sec": 76.04,
+      "end_sec": 82.96
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "600億円!? 収納ボックス、何億個買えちゃうのだ!?",
+      "news_index": 1,
+      "start_sec": 83.11,
+      "end_sec": 87.21
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "数えなくていいから。面白いのはその後で、ライバルのシーゲイトとウエスタンデジタルの株が、それぞれ1割前後下がったのよ。",
+      "news_index": 1,
+      "start_sec": 87.36,
+      "end_sec": 94.82
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "東芝が頑張っただけじゃん? なんで他の会社まで落ち込むの?",
+      "news_index": 1,
+      "start_sec": 94.97,
+      "end_sec": 99.42
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ハードディスクは、ほぼこの三社で回してる市場なの。一社が一気に増やすと、品薄で強気だった値段が崩れるかもって、投資家が身構えたわけ。",
+      "news_index": 1,
+      "start_sec": 99.57,
+      "end_sec": 108.83
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、パン屋さんが三軒しかない商店街で、一軒が二倍焼き始めたら、他の二軒が焦るやつなのだ!",
+      "news_index": 1,
+      "start_sec": 108.98,
+      "end_sec": 116.11
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "いいたとえじゃない。しかも東芝は、2030年までに一台65テラバイト級を量産して、その先は100テラバイト級も狙ってるって。",
+      "news_index": 1,
+      "start_sec": 116.26,
+      "end_sec": 125.27
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "100テラバイト!? ボクのスマホ、何百台ぶんなのだ!?",
+      "news_index": 1,
+      "start_sec": 125.42,
+      "end_sec": 129.16
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ただ、アナリストからは冷静な声も出てるわ。東芝は中の円盤や読み取る部品を外の会社から買ってるから、そっちも増えないと倍にはならないって。",
+      "news_index": 1,
+      "start_sec": 129.31,
+      "end_sec": 138.7
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "パン屋さんが張り切っても、小麦粉屋さんが追いつかないとダメってことか……。",
+      "news_index": 1,
+      "start_sec": 138.85,
+      "end_sec": 143.51
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに、宣言は派手だけど、本当に出回るかはこれからって話ね。",
+      "news_index": 1,
+      "start_sec": 143.66,
+      "end_sec": 148.32
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "でも、もし倉庫の値段が下がったら、ボクの外付けハードディスクも安くなるのだ?",
+      "news_index": 1,
+      "start_sec": 148.47,
+      "end_sec": 154.24
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今回増やすのは主にデータセンター向けだから、家庭用の外付けハードディスクまで安くなるかは、まだ何とも言えないわ。",
+      "news_index": 1,
+      "start_sec": 154.39,
+      "end_sec": 161.39
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目は、まさに今日からの話。アンソロピックのAI、クロードにある、コワークっていう機能が変わるの。",
+      "news_index": 2,
+      "start_sec": 161.47,
+      "end_sec": 167.93
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "こわーく? 怖い作業ってことなのだ? 肝試しの季節はもう終わったのだ。",
+      "news_index": 2,
+      "start_sec": 168.08,
+      "end_sec": 173.28
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "肝試しじゃないわよ。パソコンのファイル整理や資料まとめを、代わりにやってくれるAIの作業係ね。",
+      "news_index": 2,
+      "start_sec": 173.43,
+      "end_sec": 179.69
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、ボクの宿題プリントを、勝手にフォルダ分けしてくれるやつじゃん!",
+      "news_index": 2,
+      "start_sec": 179.84,
+      "end_sec": 184.14
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そんな感じ。で、今日十月六日から、プロとマックスの有料プランでは、新しく頼んだ作業がクラウドで動くようになるの。",
+      "news_index": 2,
+      "start_sec": 184.29,
+      "end_sec": 192.15
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "くらうど? 雲の上で作業するのだ? 雨の日はお休み?",
+      "news_index": 2,
+      "start_sec": 192.3,
+      "end_sec": 196.63
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "天気は関係ないわ。クラウドはネットの向こうにある会社のコンピューターのことで、これまで選べた、自分のパソコンだけで動かす設定がなくなるのよ。",
+      "news_index": 2,
+      "start_sec": 196.78,
+      "end_sec": 205.79
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、ボクのパソコンから追い出されちゃうってこと!?",
+      "news_index": 2,
+      "start_sec": 205.94,
+      "end_sec": 209.12
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "追い出しっていうより、作業場が向こうに移る感じね。そのかわり、パソコンを閉じても作業を続けてくれるわ。",
+      "news_index": 2,
+      "start_sec": 209.27,
+      "end_sec": 216.24
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "寝てる間に宿題が片付いてるの、最高すぎるでしょ……。",
+      "news_index": 2,
+      "start_sec": 216.39,
+      "end_sec": 220.16
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ただ、予約しておいた作業もクラウドに移るの。ファイルを手元の外に出したくない人には、気になるところね。",
+      "news_index": 2,
+      "start_sec": 220.31,
+      "end_sec": 227.01
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、どうしても手元で動かしたい人はどうするのだ?",
+      "news_index": 2,
+      "start_sec": 227.16,
+      "end_sec": 230.9
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "その人たちには、プログラミング向けのクロード コードを使ってって案内してる。もう始めてた作業は、そのまま手元で続くわ。",
+      "news_index": 2,
+      "start_sec": 231.05,
+      "end_sec": 238.44
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "つまり、家庭教師が家に来るのをやめて、オンライン授業に切り替わるってことなのだ!",
+      "news_index": 2,
+      "start_sec": 238.59,
+      "end_sec": 243.94
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今のは正解。便利さと引き換えに作業場の鍵を向こうに預ける流れだから、使ってる人は、今日から新しい作業がクラウドで動くって知っておくと安心よ。",
+      "news_index": 2,
+      "start_sec": 244.09,
+      "end_sec": 253.73
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目もクロードがらみ。マイクロソフトとメタが、社員のクロード利用をぐっと絞ってるって報じられたの。",
+      "news_index": 3,
+      "start_sec": 253.81,
+      "end_sec": 259.86
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、あの巨人たちが!? クロードとケンカしたのだ?",
+      "news_index": 3,
+      "start_sec": 260.01,
+      "end_sec": 263.61
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ケンカっていうより、自前の道具に乗り換え中ね。マイクロソフトは、年10億ドルを超える見込みだった支出を、3分の1以上けずったって。",
+      "news_index": 3,
+      "start_sec": 263.76,
+      "end_sec": 272.73
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "10億ドルの3分の1!? ボクのお年玉を一生ぶん集めても、全然届かない額なのだ!",
+      "news_index": 3,
+      "start_sec": 272.88,
+      "end_sec": 279.08
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "お年玉で換算しないの。メタのほうは、プログラミング用のクロード コードを使う社員が、約6万人から約3万人に減ったそうよ。",
+      "news_index": 3,
+      "start_sec": 279.23,
+      "end_sec": 287.33
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "半分! 残りの3万人は、何に乗り換えたってこと?",
+      "news_index": 3,
+      "start_sec": 287.48,
+      "end_sec": 291.57
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "全員が乗り換えたわけじゃないわ。メタは春の人員削減も影響したけど、自社のメタコードやミューズ コードを広げていて、マイクロソフトはギットハブ コパイロットなどへ誘導してるの。",
+      "news_index": 3,
+      "start_sec": 291.72,
+      "end_sec": 302.26
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "わかった。毎日お弁当屋さんに頼んでたけど、自分で作れるようになったってことなのだ。",
+      "news_index": 3,
+      "start_sec": 302.41,
+      "end_sec": 309.08
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこに一味足すと、そのお弁当屋さんが、自分のお店の向かいに定食屋を出し始めた感じ。",
+      "news_index": 3,
+      "start_sec": 309.23,
+      "end_sec": 315.16
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "定食屋? どういうこと?",
+      "news_index": 3,
+      "start_sec": 315.31,
+      "end_sec": 317.53
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "コワークだけが理由とは限らないけど、アンソロピックが企業向けのソフトを次々広げて、マイクロソフトと競う場面も増えてるのよ。",
+      "news_index": 3,
+      "start_sec": 317.68,
+      "end_sec": 325.52
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "仲間だと思ってたら、ライバルになっちゃったのだ……。",
+      "news_index": 3,
+      "start_sec": 325.67,
+      "end_sec": 328.7
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "しかもアンソロピックは、名前を明かしていない上位二社だけで、昨年の売り上げの約4分の1を占めたと開示してるの。大口客への依存はリスクだと見られてるわ。",
+      "news_index": 3,
+      "start_sec": 328.85,
+      "end_sec": 339.05
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "お得意さん二人に同時に背中を向けられたら、ボクなら泣いちゃうのだ……。",
+      "news_index": 3,
+      "start_sec": 339.2,
+      "end_sec": 344.81
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "私たちにとっては、AIをめぐる会社どうしが、組む相手でありながら競う相手にもなってる合図。使う側も、一社に頼り切らない方が身軽だわ。",
+      "news_index": 3,
+      "start_sec": 344.96,
+      "end_sec": 354.13
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四本目、冒頭の見えないハンコ。オープンエーアイが、ヨーロッパ連合で対象になるチャットジーピーティーとコーデックスの文章に、これから数週間かけて透かしを入れるって発表したの。",
+      "news_index": 4,
+      "start_sec": 354.21,
+      "end_sec": 365.0
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "すかしって、お札を光に当てると出てくる、あの顔のやつだっけ?",
+      "news_index": 4,
+      "start_sec": 365.15,
+      "end_sec": 369.75
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "発想は同じよ。文章の場合は、言葉の選び方のクセに、機械だけが見分けられる印をこっそり混ぜるの。",
+      "news_index": 4,
+      "start_sec": 369.9,
+      "end_sec": 377.1
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "文章にハンコが溶けてるってことなのだ!? コピペしても消えないの?",
+      "news_index": 4,
+      "start_sec": 377.25,
+      "end_sec": 381.45
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そのまま貼り付けるだけなら残るって。きっかけは、AIが作った物を機械で見分けられるようにしろっていう、ヨーロッパのAIのルールね。",
+      "news_index": 4,
+      "start_sec": 381.6,
+      "end_sec": 389.65
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "じゃあ、ボクの作文がAIに書かせたものだって、先生にバレちゃうのだ!",
+      "news_index": 4,
+      "start_sec": 389.8,
+      "end_sec": 394.64
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "自分で書きなさい。それに日本のチャットジーピーティーは、今回は対象外よ。",
+      "news_index": 4,
+      "start_sec": 394.79,
+      "end_sec": 399.56
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも、言葉を少し入れ替えたら、ハンコも崩れちゃわない?",
+      "news_index": 4,
+      "start_sec": 399.71,
+      "end_sec": 403.82
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "鋭いじゃない。試験だと、4分の1の言葉を似た言葉に置き換えたら、見分けられる率が9割ちょっとから2割弱まで落ちたって。",
+      "news_index": 4,
+      "start_sec": 403.97,
+      "end_sec": 412.01
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "消しゴムで半分こすったら、お札の顔が別人になっちゃったのだ。",
+      "news_index": 4,
+      "start_sec": 412.16,
+      "end_sec": 417.08
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "しかも見分ける道具は、今は審査を通った研究者などに限られてるの。他のアプリから呼び出して使う開発者向けには、世界中で選べるけど最初はオフね。",
+      "news_index": 4,
+      "start_sec": 417.23,
+      "end_sec": 427.33
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあボクたちには、まだ関係ない話なのだ?",
+      "news_index": 4,
+      "start_sec": 427.48,
+      "end_sec": 430.81
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今すぐはね。でも、ルールがAIの中身を変え始めた例だから、いずれ私たちの文章にも印が付く日は来るかもって話。",
+      "news_index": 4,
+      "start_sec": 430.96,
+      "end_sec": 438.69
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ラスト五本目は軽めよ。AIスタートアップのレカが、ロー ワンっていう新しいAIを研究版として出したの。",
+      "news_index": 5,
+      "start_sec": 438.77,
+      "end_sec": 445.49
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ろーわん? 一番低いって意味なのだ?",
+      "news_index": 5,
+      "start_sec": 445.64,
+      "end_sec": 448.61
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "謙虚すぎるわ、それ。すごいのは、文章も画像も動画も、それにロボットの動かし方まで、一つのAIで扱えるところなの。",
+      "news_index": 5,
+      "start_sec": 448.76,
+      "end_sec": 456.58
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "一人で全部!? 絵も描いて動画も作って、ロボットも操縦するのだ!?",
+      "news_index": 5,
+      "start_sec": 456.73,
+      "end_sec": 461.62
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。今までは、見る係、描く係、動かす係で、別々のAIをつなぐのが普通だったのよ。",
+      "news_index": 5,
+      "start_sec": 461.77,
+      "end_sec": 468.41
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "運動会で、玉入れと綱引きとリレーに、一人で全部出るやつじゃん!",
+      "news_index": 5,
+      "start_sec": 468.56,
+      "end_sec": 473.04
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "体力おばけね。しかも、ロボットの練習材料が足りない問題を、ネットにある普通の動画から体の動かし方を逆算して補ったんだって。",
+      "news_index": 5,
+      "start_sec": 473.19,
+      "end_sec": 482.03
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "操作の記録がない動画からでも、隠れた動きを推測して練習材料にできるってこと……すごいのだ。",
+      "news_index": 5,
+      "start_sec": 482.18,
+      "end_sec": 489.4
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "かわいいかは置いといて、大きさは190億パラメータ。パラメータは、ざっくりAIの脳の部品の数ね。",
+      "news_index": 5,
+      "start_sec": 489.55,
+      "end_sec": 496.68
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "190億って、でっかいの? 小さいの?",
+      "news_index": 5,
+      "start_sec": 496.83,
+      "end_sec": 500.39
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "最先端の巨大AIと比べたら小柄なほうで、エヌビディアのAI用チップ320枚を約3か月回して育てたの。ただ、まだ研究版で中身は一般公開されてないわ。",
+      "news_index": 5,
+      "start_sec": 500.54,
+      "end_sec": 511.72
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "じゃあ、家で皿洗いしてくれる日は、まだ先なのだ。",
+      "news_index": 5,
+      "start_sec": 511.87,
+      "end_sec": 515.57
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そうね。でも、見て考えて手を動かすAIが一つにまとまる流れだから、家事ロボットの夢に一歩近づいた話よ。",
+      "news_index": 5,
+      "start_sec": 515.72,
+      "end_sec": 523.31
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "今朝はハードディスク倍増、コワークのお引っ越し、巨人たちの乗り換え、見えないハンコ、それに全部できるロボットAIだったのだ!",
+      "news_index": 0,
+      "start_sec": 523.46,
+      "end_sec": 531.67
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "どれも、AIが私たちの道具箱の中身を、静かに入れ替えてる話だったわね。",
+      "news_index": 0,
+      "start_sec": 531.82,
+      "end_sec": 536.96
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "とりあえずボクは、コワークの設定画面だけ見てから学校行くのだ!",
+      "news_index": 0,
+      "start_sec": 537.11,
+      "end_sec": 541.4
+    },
+    {
+      "index": 84,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "それが一番えらいわ。聴いてくれてるかた、いってらっしゃい。また明日のテック朝便で会いましょう。",
+      "news_index": 0,
+      "start_sec": 541.55,
+      "end_sec": 547.48
+    },
+    {
+      "index": 85,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ずんだもんでしたー! いってらっしゃいなのだー!",
+      "news_index": 0,
+      "start_sec": 547.63,
+      "end_sec": 550.37
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 551.07,
+      "end_sec": 559.38
+    }
+  ],
+  "wall_time_sec": 13.94,
+  "audio_url": "/audio/ai/20261006_170632.mp3?v=1791316970"
+}
