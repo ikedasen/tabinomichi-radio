@@ -1,0 +1,796 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-10-07T17:05:54+09:00",
+  "title": "身分証を見せる朝 〜見抜けない顔と、ぽっちゃりの巨人〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 460.62,
+  "script_hash": "sha256:2977fdacc66d6144216cc836b7152a022bf859902f95a4177d912dee58ab9af2",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 8.19
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便、テックニュースの回。四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 8.19,
+      "end_sec": 13.41
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝もテックの話、サクッといくのだ!",
+      "news_index": 0,
+      "start_sec": 13.56,
+      "end_sec": 17.96
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今朝は五本。テレビ電話でAIを人間と勘違いした話から、ほぼ半額になった絵描きAIまで、軽めに流していくわ。",
+      "news_index": 0,
+      "start_sec": 18.11,
+      "end_sec": 26.0
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "AIを人間と勘違い? ボク、毎日AIとしゃべってるけど、さすがに分かるのだ。",
+      "news_index": 0,
+      "start_sec": 26.15,
+      "end_sec": 32.4
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "その自信、一本目でさっそく試されるわよ。",
+      "news_index": 0,
+      "start_sec": 32.55,
+      "end_sec": 35.61
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、ボクが試されるの!?",
+      "news_index": 0,
+      "start_sec": 35.76,
+      "end_sec": 37.76
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。アメリカのAIスタートアップ、タヴァスが十月一日に、グリフィンっていうビデオ通話用のAIを発表したの。",
+      "news_index": 1,
+      "start_sec": 37.91,
+      "end_sec": 45.61
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ビデオ通話のAI? 画面の向こうで、AIがしゃべってくれるってこと?",
+      "news_index": 1,
+      "start_sec": 45.76,
+      "end_sec": 51.08
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。顔も声もその場で作って、こっちの表情や間まで見ながら会話するのよ。",
+      "news_index": 1,
+      "start_sec": 51.23,
+      "end_sec": 56.45
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、ボクたちの立ち絵が、勝手に動いてしゃべるやつのすごい版じゃん!",
+      "news_index": 1,
+      "start_sec": 56.6,
+      "end_sec": 61.02
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "近いわね。で、研究プレビュー版のグリフィン ライトと一分間ビデオ通話した五十四人のうち、二十六人が、相手は本物の人間だと思ったって。",
+      "news_index": 1,
+      "start_sec": 61.17,
+      "end_sec": 70.88
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "二十六人!? 半分くらいの人が、AIにだまされちゃったのだ!?",
+      "news_index": 1,
+      "start_sec": 71.03,
+      "end_sec": 75.51
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "割合だと48%。同じ手順で別に試した前の仕組みは、四十一人中ひとり、割合で2.4%だったから、大きく跳ねたわけ。",
+      "news_index": 1,
+      "start_sec": 75.66,
+      "end_sec": 85.81
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "なんでそんなにバレないのだ? 顔がめちゃくちゃリアルとか?",
+      "news_index": 1,
+      "start_sec": 85.96,
+      "end_sec": 89.78
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "顔もだけど、効いてるのは聞きながらしゃべれるところ。トランシーバーみたいに順番待ちせず、電話みたいに相づちや割り込みができるの。",
+      "news_index": 1,
+      "start_sec": 89.93,
+      "end_sec": 97.77
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "分かったのだ。ボクがめたんの話をさえぎるのと同じ技なのだ。",
+      "news_index": 1,
+      "start_sec": 97.92,
+      "end_sec": 102.56
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "自慢することじゃないでしょ、それ。",
+      "news_index": 1,
+      "start_sec": 102.71,
+      "end_sec": 104.76
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "でも、そんなのが詐欺の電話に使われたら、世間のおじいちゃんおばあちゃん危ないのだ……。",
+      "news_index": 1,
+      "start_sec": 104.91,
+      "end_sec": 110.21
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこが心配な点ね。ただ、この数字は会社の自己申告で、一般向けにはまだ出てないわ。",
+      "news_index": 1,
+      "start_sec": 110.36,
+      "end_sec": 116.72
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "要するに、顔が見えるから安心、はもう通じなくなるってことじゃん!",
+      "news_index": 1,
+      "start_sec": 116.87,
+      "end_sec": 121.31
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "正解。お金の話が出たら、一回切ってかけ直す。それだけは覚えておいて。",
+      "news_index": 1,
+      "start_sec": 121.46,
+      "end_sec": 126.78
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目は軽めよ。グーグルが、画像を作るAIの新型を出したの。",
+      "news_index": 2,
+      "start_sec": 126.86,
+      "end_sec": 131.36
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "名前は、ナノ バナナ 2.1。",
+      "news_index": 2,
+      "start_sec": 131.44,
+      "end_sec": 133.62
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ナノバナナ? ちっちゃすぎて、食べてもお腹の足しにならないバナナなのだ?",
+      "news_index": 2,
+      "start_sec": 133.77,
+      "end_sec": 138.65
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "食べ物じゃないわよ。言葉で頼むと絵を描いたり、写真を直したりしてくれる、グーグルの絵描きAIね。",
+      "news_index": 2,
+      "start_sec": 138.8,
+      "end_sec": 145.24
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、新型は何が変わったのだ?",
+      "news_index": 2,
+      "start_sec": 145.39,
+      "end_sec": 147.84
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一番は値段。開発者が使うときの一枚あたりの料金が、前の型からほぼ半額になったの。",
+      "news_index": 2,
+      "start_sec": 147.99,
+      "end_sec": 154.09
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "半額!? スーパーの閉店前のお惣菜みたいなのだ!",
+      "news_index": 2,
+      "start_sec": 154.24,
+      "end_sec": 157.95
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "値引きシール扱いしないで。しかも腕は落ちてなくて、絵の中の文字や、何枚描いても同じキャラの顔を保つのが上手くなったって。",
+      "news_index": 2,
+      "start_sec": 158.1,
+      "end_sec": 165.95
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、それ大事なのだ! 漫画を描かせると、ページごとに主人公が別人になるやつ!",
+      "news_index": 2,
+      "start_sec": 166.1,
+      "end_sec": 171.95
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこを直してきたのよ。しかもグーグル自身の評価では、総合的な好ましさや文字、キャラの安定感など、多くの項目でナノ バナナ プロも上回ったの。",
+      "news_index": 2,
+      "start_sec": 172.1,
+      "end_sec": 181.54
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "つまり、安くなったのに、前よりかなり上手くなったってこと?",
+      "news_index": 2,
+      "start_sec": 181.69,
+      "end_sec": 186.02
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そういうこと。値段を下げながら、性能も引き上げた更新って感じね。",
+      "news_index": 2,
+      "start_sec": 186.17,
+      "end_sec": 190.93
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ボクたちのブログの挿絵とか、気軽に作れるようになりそうじゃん。",
+      "news_index": 2,
+      "start_sec": 191.08,
+      "end_sec": 195.6
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "安い絵描きAIを組み込んだアプリが増えて、私たちが触る機会も増えるはずよ。",
+      "news_index": 2,
+      "start_sec": 195.75,
+      "end_sec": 200.83
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目。オープンエーアイが十月六日に、AIが書いた数学の論文を、722本まとめて公開したの。",
+      "news_index": 3,
+      "start_sec": 200.91,
+      "end_sec": 208.37
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "722本!? 夏休みの読書感想文だって、一本で泣きそうになる量なのだ!",
+      "news_index": 3,
+      "start_sec": 208.52,
+      "end_sec": 214.54
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "比べる相手がおかしいわ。書いたのは、まだ世に出てない社内の最先端AIよ。",
+      "news_index": 3,
+      "start_sec": 214.69,
+      "end_sec": 219.79
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "数学の論文って、何を書いてるのだ? 九九の新しい覚え方とか?",
+      "news_index": 3,
+      "start_sec": 219.94,
+      "end_sec": 225.09
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "そんなわけないでしょ。数学者が長年解けなかった問題に挑んだ結果で、およそ4,000問を解かせて、公開する価値がある分がこの数ってわけ。",
+      "news_index": 3,
+      "start_sec": 225.24,
+      "end_sec": 233.93
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "4,000問の宿題を出されて、自信作だけ提出したってことなのだ!",
+      "news_index": 3,
+      "start_sec": 234.08,
+      "end_sec": 238.64
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "その例え、意外と正確ね。しかも多くの証明は、コンピューターで正しさを機械的に確かめられる形になってるの。",
+      "news_index": 3,
+      "start_sec": 238.79,
+      "end_sec": 246.41
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、もう完璧なのだ? 数学者さんの出番、なくなっちゃう?",
+      "news_index": 3,
+      "start_sec": 246.56,
+      "end_sec": 251.19
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこが逆。昔の研究への引用が不十分だという批判もあるし、まだ検証途中の成果も含まれるから、公開された論文や証明データを数学者が確かめる必要があるのよ。",
+      "news_index": 3,
+      "start_sec": 251.34,
+      "end_sec": 263.28
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "引用の抜けや証明の穴がないか、みんなで確かめる段階なのだ。",
+      "news_index": 3,
+      "start_sec": 263.43,
+      "end_sec": 268.43
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するにそういう話。数学者の助言グループも、公開は評価の終わりじゃなくて始まりで、判断するのは数学界だって釘を刺してるわ。",
+      "news_index": 3,
+      "start_sec": 268.58,
+      "end_sec": 277.17
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ボクたちの生活には、どう関係するのだ?",
+      "news_index": 3,
+      "start_sec": 277.32,
+      "end_sec": 280.41
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "すぐには変わらないわね。ただ、AIの答えを人間がどう確かめるかって問題は、仕事で使うAIにもそのまま来る話だわ。",
+      "news_index": 3,
+      "start_sec": 280.56,
+      "end_sec": 289.01
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "AIが賢くなるほど、答え合わせの係が大事になるのだね。",
+      "news_index": 3,
+      "start_sec": 289.16,
+      "end_sec": 293.47
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四本目はヨーロッパから。フランスのミストラルが、新しいAI、ミストラル ラージ フォーを発表したの。あだ名は、ル チョンク。",
+      "news_index": 4,
+      "start_sec": 293.62,
+      "end_sec": 301.03
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "るちょんく? フランスのお菓子の名前なのだ?",
+      "news_index": 4,
+      "start_sec": 301.18,
+      "end_sec": 304.28
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ネットのスラングで、まるまる太った、みたいな意味よ。中身がそれだけ巨大ってこと。",
+      "news_index": 4,
+      "start_sec": 304.43,
+      "end_sec": 309.65
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、ぽっちゃり猫の写真によく付いてるやつじゃん!",
+      "news_index": 4,
+      "start_sec": 309.8,
+      "end_sec": 313.11
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それ。部品の数は約1兆個分で、エヌビディアの、AIの計算を爆速でやる専用チップを3,800基使って、二か月ほどかけて鍛えたって。",
+      "news_index": 4,
+      "start_sec": 313.26,
+      "end_sec": 322.88
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "4,000基!? ボク、パソコンに1枚ささってるだけで自慢してたのに!",
+      "news_index": 4,
+      "start_sec": 323.03,
+      "end_sec": 327.64
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "しかもAIの中身そのものを、誰でもダウンロードできる形で、十月末までに配る予定なの。",
+      "news_index": 4,
+      "start_sec": 327.79,
+      "end_sec": 333.87
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "タダで配っちゃうの? 太っ腹すぎないのだ?",
+      "news_index": 4,
+      "start_sec": 334.02,
+      "end_sec": 337.21
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "狙いがあるの。中国の外で作られた公開型のAIでは一番強いって言ってて、アメリカのAIに頼りすぎたくないヨーロッパの会社や政府に売り込んでるわけ。",
+      "news_index": 4,
+      "start_sec": 337.36,
+      "end_sec": 347.7
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "体型だけじゃなくて、太っ腹で勝負なのだ。",
+      "news_index": 4,
+      "start_sec": 347.85,
+      "end_sec": 351.33
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "うまいこと言ったつもり? ただ、プログラミングとかでは、まだ最先端に届いてない部分もあるみたいね。",
+      "news_index": 4,
+      "start_sec": 351.48,
+      "end_sec": 357.6
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、ボクたちにはどう効くのだ?",
+      "news_index": 4,
+      "start_sec": 357.75,
+      "end_sec": 359.96
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "十分な設備を持つ会社なら、自社のサーバーや専用クラウドで動かせる、強いAIの選択肢が増えるってこと。どこか一社の都合で突然使えなくなる心配が減るのよ。",
+      "news_index": 4,
+      "start_sec": 360.11,
+      "end_sec": 370.68
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ラスト五本目は硬めだから手短に。アンソロピックが十月六日に、セキュリティの専門家向けの、審査つきプログラムを広げたの。",
+      "news_index": 5,
+      "start_sec": 370.76,
+      "end_sec": 378.62
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "しんさつき? 病院の診察みたいなやつ?",
+      "news_index": 5,
+      "start_sec": 378.77,
+      "end_sec": 382.07
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "審査よ、審査。身元を確かめたプロにだけ、クロードの安全装置を少しゆるめて使わせる仕組みね。",
+      "news_index": 5,
+      "start_sec": 382.22,
+      "end_sec": 388.71
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、安全装置をゆるめちゃって大丈夫なのだ!?",
+      "news_index": 5,
+      "start_sec": 388.86,
+      "end_sec": 392.34
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "例えるなら鍵屋さんの資格。普通の人には教えない開け方も、身元のしっかりした鍵屋さんには教えるって発想だわ。",
+      "news_index": 5,
+      "start_sec": 392.49,
+      "end_sec": 400.24
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "悪い人じゃなくて、守る人に強い道具を渡すってことなのだ!",
+      "news_index": 5,
+      "start_sec": 400.39,
+      "end_sec": 404.47
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。守る側や、わざと攻撃役になって弱点を探す側とか三つのコースがあって、攻撃役のコースで五十回試したら、三十四回やり遂げたって。",
+      "news_index": 5,
+      "start_sec": 404.62,
+      "end_sec": 414.38
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "強いAIは、まず身分証を見せてから、って時代なのだ。",
+      "news_index": 5,
+      "start_sec": 414.53,
+      "end_sec": 419.06
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そういうこと。サイバー分野では、審査の内容に応じて使える範囲を分ける仕組みが広がるかもしれないわね。",
+      "news_index": 5,
+      "start_sec": 419.21,
+      "end_sec": 426.11
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで、今朝の五本はここまで。",
+      "news_index": 0,
+      "start_sec": 426.19,
+      "end_sec": 428.57
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ビデオ通話のAI、半額の絵描き、722本の論文、ぽっちゃりのル チョンク、それに鍵屋さんの資格! 盛りだくさんだったのだ!",
+      "news_index": 0,
+      "start_sec": 428.72,
+      "end_sec": 437.76
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "で、一本目のAIを見抜く自信は、まだあるの?",
+      "news_index": 0,
+      "start_sec": 437.91,
+      "end_sec": 441.66
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "……正直、ちょっと揺らいでるのだ。",
+      "news_index": 0,
+      "start_sec": 441.81,
+      "end_sec": 444.77
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "聴いてくれてるかた、いってらっしゃい。気になった話があったら、各社の発表をのぞいてみてね。",
+      "news_index": 0,
+      "start_sec": 444.92,
+      "end_sec": 450.75
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "また明日のテック朝便で会うのだー!",
+      "news_index": 0,
+      "start_sec": 450.9,
+      "end_sec": 453.28
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 453.98,
+      "end_sec": 460.62
+    }
+  ],
+  "wall_time_sec": 12.5,
+  "audio_url": "/audio/ai/20261007_170554.mp3?v=1791403371"
+}
