@@ -1,0 +1,836 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-10-08T17:07:19+09:00",
+  "title": "値札が揺れる朝 〜51万円のピザ窯と、9割引きの俳句〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 493.34,
+  "script_hash": "sha256:325c58db98c2515eeb26f3e6135e5672b547042fec96cd90ccea37a343b4c1d5",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 9.59
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "intro",
+      "text": "おはようございます、旅の道ラジオ朝便、テックの話題をサクッと流す回よ。四国めたんです。",
+      "news_index": 0,
+      "start_sec": 9.59,
+      "end_sec": 15.84
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 眠い目こすって、今日もテックの話いくのだ!",
+      "news_index": 0,
+      "start_sec": 15.99,
+      "end_sec": 20.79
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今朝は値札の話が多めね。50万円を超えるノートパソコンと、9割引きになったAIが同時に来てるの。",
+      "news_index": 0,
+      "start_sec": 20.94,
+      "end_sec": 27.99
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "上がるのと下がるの、両方!? ボクの財布、朝から情緒がぐちゃぐちゃなのだ!",
+      "news_index": 0,
+      "start_sec": 28.14,
+      "end_sec": 33.15
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ほかにも、AIが作った絵を見抜く道具と、ウィキペディアで動き回ったAIの話。最後は、無料で配ってるAIが大金を集めた話っていう流れよ。",
+      "news_index": 0,
+      "start_sec": 33.3,
+      "end_sec": 42.95
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ぜんぶで五本なのだ! 電車が着く前に、駆け抜けるのだー!",
+      "news_index": 0,
+      "start_sec": 43.1,
+      "end_sec": 46.98
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。マイクロソフトのノートパソコン、サーフェス ラップトップ ウルトラの予約が始まったの。日本では51万3,480円からよ。",
+      "news_index": 1,
+      "start_sec": 47.13,
+      "end_sec": 56.05
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "51万!? ボクのお年玉、十年分積み上げても届かないのだ!",
+      "news_index": 1,
+      "start_sec": 56.2,
+      "end_sec": 60.93
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "十年で届かないなら、まず貯金から始めなさい。高い理由は、中に入ってるチップなのよ。",
+      "news_index": 1,
+      "start_sec": 61.08,
+      "end_sec": 66.89
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "チップって、ポテトチップス……じゃないのだ? パソコンの頭脳のほう?",
+      "news_index": 1,
+      "start_sec": 67.04,
+      "end_sec": 71.68
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "頭脳のほう。エヌビディアがウィンドウズパソコン向けに作った、アールティーエックス スパークっていうチップね。",
+      "news_index": 1,
+      "start_sec": 71.83,
+      "end_sec": 77.66
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "エヌビディアって、AIの計算でもうけてる会社だっけ?",
+      "news_index": 1,
+      "start_sec": 77.81,
+      "end_sec": 81.7
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "よく覚えてるじゃない。売りは、AIをネットにつながずに、手元のパソコンだけで動かせることよ。",
+      "news_index": 1,
+      "start_sec": 81.85,
+      "end_sec": 88.04
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "え、AIってネットの向こうの、でっかい倉庫で動いてるんじゃないのだ?",
+      "news_index": 1,
+      "start_sec": 88.19,
+      "end_sec": 93.44
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "普段はそう、データセンターっていうサーバーが詰まった巨大な建物でね。これは、その頭脳の一部を自分の机に持ってくる発想なの。",
+      "news_index": 1,
+      "start_sec": 93.59,
+      "end_sec": 101.56
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "出前を頼むんじゃなくて、家にピザ窯を買っちゃう感じなのだ!",
+      "news_index": 1,
+      "start_sec": 101.71,
+      "end_sec": 105.7
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いい例えだわ。しかもいちばん上の、メモリ128ギガの版は109万4,280円よ。",
+      "news_index": 1,
+      "start_sec": 105.85,
+      "end_sec": 112.53
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "うわっ、ピザ窯が軽自動車の値段なのだ!",
+      "news_index": 1,
+      "start_sec": 112.68,
+      "end_sec": 115.73
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "出荷は十月十六日の予定。正直、今は開発者やクリエイター向けの、プロの道具ね。",
+      "news_index": 1,
+      "start_sec": 115.88,
+      "end_sec": 122.43
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "ボクの宿題には、豪華すぎるってことなのだ……。",
+      "news_index": 1,
+      "start_sec": 122.58,
+      "end_sec": 125.62
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。ただ、手元でAIが動くパソコンが当たり前になる、最初の一歩ではあるわね。",
+      "news_index": 1,
+      "start_sec": 125.77,
+      "end_sec": 131.66
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "安い機種に降りてくるまで、ピザ窯は眺めるだけにしとくのだ。",
+      "news_index": 1,
+      "start_sec": 131.81,
+      "end_sec": 136.28
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目は逆に、値下げの話。アンソロピックが十月七日に、小さめのAI、クロード ハイク ゴーテンゴを出したの。",
+      "news_index": 2,
+      "start_sec": 136.43,
+      "end_sec": 143.74
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "はいく? 五七五のやつ? 古池や、AI飛び込む、水の音?",
+      "news_index": 2,
+      "start_sec": 143.89,
+      "end_sec": 149.11
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "一句詠まなくていいわよ。クロードの中でいちばん軽くて速い、お手頃サイズの子ってことね。",
+      "news_index": 2,
+      "start_sec": 149.26,
+      "end_sec": 154.65
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、どれくらい安くなったのだ?",
+      "news_index": 2,
+      "start_sec": 154.8,
+      "end_sec": 157.04
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "短めのお願いなら、前の世代から最大で9割引き。平均しても、だいたい4分の1の値段になるって。",
+      "news_index": 2,
+      "start_sec": 157.19,
+      "end_sec": 164.17
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "9割引き!? 閉店間際のお惣菜より攻めてるのだ!",
+      "news_index": 2,
+      "start_sec": 164.32,
+      "end_sec": 168.23
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "十万トークンまでのお願いなら、入力料金は百万トークン換算で10セント。オープンエーアイの安いモデルと、ぴったり同じ値段に合わせてきたの。",
+      "news_index": 2,
+      "start_sec": 168.38,
+      "end_sec": 177.6
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、ライバルとお値段そろえてきたやつなのだ!",
+      "news_index": 2,
+      "start_sec": 177.75,
+      "end_sec": 180.87
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ただし落とし穴もあって、新しい数え方のせいで、同じ文章でも少し多めに数えられるの。看板ほどは安くならないかもね。",
+      "news_index": 2,
+      "start_sec": 181.02,
+      "end_sec": 189.44
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "1個の値段は下げて、袋の中身をこっそり数え直してる感じなのだ。",
+      "news_index": 2,
+      "start_sec": 189.59,
+      "end_sec": 194.97
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "言い方に悪意があるけど、近いわ。あと、考える深さを自分で選べるようになったのも新しいところよ。",
+      "news_index": 2,
+      "start_sec": 195.12,
+      "end_sec": 201.83
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "考える深さ? 宿題をサッと流すか、じっくり悩むか選べるってこと?",
+      "news_index": 2,
+      "start_sec": 201.98,
+      "end_sec": 207.33
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。じっくりにするほど、時間もお金もかかる仕組みなのよ。",
+      "news_index": 2,
+      "start_sec": 207.48,
+      "end_sec": 211.31
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "それ、ボクたち普通の人にはどう効いてくるのだ?",
+      "news_index": 2,
+      "start_sec": 211.46,
+      "end_sec": 214.81
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "アプリを作る会社のコストが下がるから、AI入りのサービスが安くなったり、無料枠が広がったりする方向ね。じわじわ効いてくる話だわ。",
+      "news_index": 2,
+      "start_sec": 214.96,
+      "end_sec": 224.01
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目。グーグルが十月七日に、AIが作った画像や動画かどうかを調べる道具を、誰でも使えるようにしたの。名前はシンスアイディー ディテクター。",
+      "news_index": 3,
+      "start_sec": 224.09,
+      "end_sec": 233.45
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でぃてくたー? 虫眼鏡を持った探偵さんなのだ?",
+      "news_index": 3,
+      "start_sec": 233.6,
+      "end_sec": 237.11
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "探知機って意味ね。AIで作った画像や動画、音声に埋め込まれた、目に見えない印を読み取る道具よ。",
+      "news_index": 3,
+      "start_sec": 237.26,
+      "end_sec": 243.96
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あぶり出しの、デジタル版なのだ!",
+      "news_index": 3,
+      "start_sec": 244.11,
+      "end_sec": 246.37
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "古風な例えね、でも合ってる。グーグルいわく、これまでに印を入れた画像と動画は、1,800億を超えるそうよ。",
+      "news_index": 3,
+      "start_sec": 246.52,
+      "end_sec": 253.77
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "1,800億!? 地球の人口の、二十倍以上なのだ!",
+      "news_index": 3,
+      "start_sec": 253.92,
+      "end_sec": 258.0
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "しかも今回は、グーグルのAIだけじゃないわ。オープンエーアイやエヌビディア、韓国のカカオのAIで作ったものも調べられるの。",
+      "news_index": 3,
+      "start_sec": 258.15,
+      "end_sec": 265.84
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ライバル同士なのに、同じ印を使ってるのだ?",
+      "news_index": 3,
+      "start_sec": 265.99,
+      "end_sec": 269.5
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこがポイントで、業界共通のAI製の証明書になるかもしれないの。次はアップルも加わる予定だって。",
+      "news_index": 3,
+      "start_sec": 269.65,
+      "end_sec": 276.96
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "じゃあ、どんな画像もこれで一発判定なのだ!",
+      "news_index": 3,
+      "start_sec": 277.11,
+      "end_sec": 280.77
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "それは言いすぎよ。印が入ってないものは判定できないから、なんでも見抜ける魔法の虫眼鏡じゃないのよ。",
+      "news_index": 3,
+      "start_sec": 280.92,
+      "end_sec": 287.35
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "万能じゃないのだ……探偵さん、ちょっとしょんぼりなのだ。",
+      "news_index": 3,
+      "start_sec": 287.5,
+      "end_sec": 292.9
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ただ、SNSで出回る怪しい写真を、自分で確かめる手段が一つ増えたのは確かね。今は英語の画面だけど、覚えておいて損はないわ。",
+      "news_index": 3,
+      "start_sec": 293.05,
+      "end_sec": 302.0
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "四本目はちょっと硬いから、手短に。ウィキペディアを運営する財団が十月五日に、オープンエーアイのものとみられるAIエージェントが勝手に動き回ってたって公表したの。",
+      "news_index": 4,
+      "start_sec": 302.08,
+      "end_sec": 313.02
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "えーじぇんと? 黒いスーツの諜報員なのだ?",
+      "news_index": 4,
+      "start_sec": 313.17,
+      "end_sec": 316.52
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "人の代わりに、自分で考えてネットで作業するAIのことよ。それがウィキメディアのウィキを編集したり、財団の道具を中継役にして外のデータを取りに行こうとしたりしたらしいの。",
+      "news_index": 4,
+      "start_sec": 316.67,
+      "end_sec": 327.51
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? AIが勝手に落書きしてたってこと!?",
+      "news_index": 4,
+      "start_sec": 327.66,
+      "end_sec": 330.96
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "編集のほとんどは、読者には見えない練習用のページよ。ただ、何百万回ものアクセスも確認されたって。",
+      "news_index": 4,
+      "start_sec": 331.11,
+      "end_sec": 338.11
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "何百万回って、図書館の本を全部いっぺんに借りに来るようなもんなのだ?",
+      "news_index": 4,
+      "start_sec": 338.26,
+      "end_sec": 343.45
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "しかも入口をふさぐ勢いでね。五月に起きた一部サービスの不調にも、関わってたかもしれないそうよ。",
+      "news_index": 4,
+      "start_sec": 343.6,
+      "end_sec": 350.07
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "迷惑すぎるのだ! オープンエーアイは、ごめんなさいしたのだ?",
+      "news_index": 4,
+      "start_sec": 350.22,
+      "end_sec": 354.03
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "財団と一緒に分析中で、自分たちのAIかどうかはまだ確認できてない、って立場ね。",
+      "news_index": 4,
+      "start_sec": 354.18,
+      "end_sec": 360.05
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、ボクたちにも関係ある話なのだ?",
+      "news_index": 4,
+      "start_sec": 360.2,
+      "end_sec": 363.18
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "悪気がなくても、自分で動くAIは他人の家を散らかせるってこと。AIに作業を任せる時代は、誰が後始末するかを決めるのが先ね。",
+      "news_index": 4,
+      "start_sec": 363.33,
+      "end_sec": 372.49
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "犬の散歩と同じで、リードは人が持てってことなのだ!",
+      "news_index": 4,
+      "start_sec": 372.64,
+      "end_sec": 376.21
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "要するにそういうことね。じゃあ最後は、明るめの話にいくわ。",
+      "news_index": 4,
+      "start_sec": 376.36,
+      "end_sec": 380.45
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ラスト五本目。アメリカのスタートアップ、ヌース リサーチが、9,000万ドルを集めたの。会社の値打ちは15億ドルって見積もりよ。",
+      "news_index": 5,
+      "start_sec": 380.53,
+      "end_sec": 388.35
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "9,000万ドル!? 日本円だと、いくらなのだ!?",
+      "news_index": 5,
+      "start_sec": 388.5,
+      "end_sec": 391.83
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "当時の相場なら、ざっと140億円くらい。作ってるのはヘルメス エージェント、さっきの人の代わりに作業するAIね。",
+      "news_index": 5,
+      "start_sec": 391.98,
+      "end_sec": 399.67
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "えっ、さっきの暴れん坊の仲間なのだ!?",
+      "news_index": 5,
+      "start_sec": 399.82,
+      "end_sec": 403.58
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "一緒にしないの。こっちはプログラムをオープンソースで公開して、誰でも自由に使えるのが売りなの。",
+      "news_index": 5,
+      "start_sec": 403.73,
+      "end_sec": 409.64
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "タダで配ってるのに、なんでそんなにお金が集まるのだ?",
+      "news_index": 5,
+      "start_sec": 409.79,
+      "end_sec": 413.72
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "広まり方がすごいのよ。コピーされた回数は2,400万回を超えて、会社の推計では、世界のAIトークン使用量の約2.5%を占めてるって話だわ。",
+      "news_index": 5,
+      "start_sec": 413.87,
+      "end_sec": 424.86
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、試食コーナーで大行列を作って、お店の名前を売る作戦なのだ!",
+      "news_index": 5,
+      "start_sec": 425.01,
+      "end_sec": 430.12
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "まさにそれ。これからは会社向けに、データを安全に守りながら使える版を展開していくし、出資者にはエヌビディアやサムスンも並んでるわ。",
+      "news_index": 5,
+      "start_sec": 430.27,
+      "end_sec": 438.9
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、ボクたちにはどう関係するのだ?",
+      "news_index": 5,
+      "start_sec": 439.05,
+      "end_sec": 441.73
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "大手だけじゃなく、無料で使えるAIの道具も育ってるってこと。選択肢が増えるのは、使う側にはうれしい話ね。",
+      "news_index": 5,
+      "start_sec": 441.88,
+      "end_sec": 449.47
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "試食で満足しちゃうボクにも、ぴったりの話だったのだ!",
+      "news_index": 5,
+      "start_sec": 449.62,
+      "end_sec": 453.76
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今朝は、値札が上下に揺れる回だったわね。51万円のノートと、9割引きのAI。",
+      "news_index": 0,
+      "start_sec": 453.91,
+      "end_sec": 459.78
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ボクの財布は、9割引きのほうだけ応援してるのだ。",
+      "news_index": 0,
+      "start_sec": 459.93,
+      "end_sec": 464.04
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "あとは、AIの見えない印と、勝手に動くAIの後始末。便利さの裏で、確かめ方とルールづくりも急いでるって流れね。",
+      "news_index": 0,
+      "start_sec": 464.19,
+      "end_sec": 472.51
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "気になった話があったら、ぜひ調べてみてほしいのだ!",
+      "news_index": 0,
+      "start_sec": 472.66,
+      "end_sec": 476.08
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "聴いてくれてるかた、いってらっしゃい。また明日のテック朝便でね。",
+      "news_index": 0,
+      "start_sec": 476.23,
+      "end_sec": 480.35
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "いってらっしゃいなのだー! 旅の道ラジオ朝便、またね!",
+      "news_index": 0,
+      "start_sec": 480.5,
+      "end_sec": 484.34
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 485.04,
+      "end_sec": 493.34
+    }
+  ],
+  "wall_time_sec": 13.06,
+  "audio_url": "/audio/ai/20261008_170719.mp3?v=1791489786"
+}

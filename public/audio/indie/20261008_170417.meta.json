@@ -1,0 +1,706 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-10-08T17:04:17+09:00",
+  "title": "実名の殺意 〜ファミコンに芸人が全員集合した1987年〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 336.71,
+  "script_hash": "sha256:cffe0e89b84459d97a9a1f0517884a4bd05e42e7752bbbd28681ad5761bef8bb",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 9.59
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "旅の道ラジオへようこそなのだ！ パーソナリティのずんだもんなのだー！",
+      "news_index": 0,
+      "start_sec": 9.59,
+      "end_sec": 14.06
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "今回はレトロゲーム回なのだ！",
+      "news_index": 0,
+      "start_sec": 14.14,
+      "end_sec": 16.48
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "またまた、あーしが担当するっすよー！ 今回のテーマは、ファミコンの推理アドベンチャー『さんまの名探偵』っす！",
+      "news_index": 0,
+      "start_sec": 16.63,
+      "end_sec": 23.79
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "さんまの名探偵って、魚が事件を解決するゲームなのだ？",
+      "news_index": 0,
+      "start_sec": 23.94,
+      "end_sec": 28.29
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "先輩それガチ違うっす。明石家さんまが探偵役の、実名芸人まみれのアドベンチャーっすよ。",
+      "news_index": 0,
+      "start_sec": 28.44,
+      "end_sec": 34.27
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "実名！？ それ事件より先に権利のほうがヤバそうなのだ。",
+      "news_index": 0,
+      "start_sec": 34.42,
+      "end_sec": 38.29
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "先輩、その勘、後半でめちゃくちゃ効いてくるっす。まずは基本情報からいくっすよ。",
+      "news_index": 0,
+      "start_sec": 38.44,
+      "end_sec": 43.85
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "発売はナムコで、1987年のファミコンソフトっす。定価は4,900円っすね。",
+      "news_index": 1,
+      "start_sec": 43.93,
+      "end_sec": 50.12
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "4,900円！ ボクのおやつ換算だと、ずんだ餅を半年我慢するレベルなのだ。",
+      "news_index": 1,
+      "start_sec": 50.27,
+      "end_sec": 56.66
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "あーし中古屋で発掘したクチなんすけど、当時の4,900円はガチで一大決心の値段っす。",
+      "news_index": 1,
+      "start_sec": 56.81,
+      "end_sec": 62.85
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに、子供が一本に全財産ぶっ込む時代のソフトってことっす。",
+      "news_index": 1,
+      "start_sec": 62.93,
+      "end_sec": 67.19
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "それで中身はどんなゲームなのだ？",
+      "news_index": 1,
+      "start_sec": 67.34,
+      "end_sec": 69.62
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "コマンド選択式のアドベンチャーっす。吉本興業の芸人が実名でぞろぞろ出てくるっすよ。",
+      "news_index": 1,
+      "start_sec": 69.77,
+      "end_sec": 75.31
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "つまり画面の向こうに全員実在してるってことなのだ……。",
+      "news_index": 1,
+      "start_sec": 75.46,
+      "end_sec": 79.47
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そうなんすよ！ 被害者が桂文珍で、事件と一緒にアフリカの星ってデカいダイヤが消えるっす。",
+      "news_index": 1,
+      "start_sec": 79.62,
+      "end_sec": 85.63
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "被害者も実名！？ もう情報量で頭がぐるぐるなのだ。",
+      "news_index": 1,
+      "start_sec": 85.78,
+      "end_sec": 90.5
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに、当時の吉本オールスターがそのまま事件現場に立ってるって話っす。",
+      "news_index": 1,
+      "start_sec": 90.65,
+      "end_sec": 95.44
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "他にはどんなかたが出てるのだ？",
+      "news_index": 1,
+      "start_sec": 95.59,
+      "end_sec": 97.78
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "西川のりお、島田紳助、オール阪神・巨人、今いくよ・くるよ、横山やすし……ガチの人気者だらけっす。",
+      "news_index": 1,
+      "start_sec": 97.93,
+      "end_sec": 106.0
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "つむぎ、早口すぎなのだ。目が完全にオタクになってるのだ。",
+      "news_index": 1,
+      "start_sec": 106.15,
+      "end_sec": 110.52
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "あーし今めっちゃキモいっすね、さーせんっす。",
+      "news_index": 1,
+      "start_sec": 110.67,
+      "end_sec": 113.53
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "でもすごい面子なのだ。テレビ見てる感覚で遊べるじゃん。",
+      "news_index": 1,
+      "start_sec": 113.68,
+      "end_sec": 117.32
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "それなっす。要するに、テレビの中の人に直接聞き込みできる異常事態っす。",
+      "news_index": 1,
+      "start_sec": 117.47,
+      "end_sec": 122.44
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ここからガチで語らせてもらうっすけど、このゲームの発明は画面の見せ方っす。",
+      "news_index": 1,
+      "start_sec": 122.52,
+      "end_sec": 127.15
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "見せ方？ さんまが顔芸で犯人を当てるってことなのだ？",
+      "news_index": 1,
+      "start_sec": 127.3,
+      "end_sec": 131.17
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "顔芸じゃないっす先輩。捜査コマンドが全部アイコンで並んでる、あの画面のことっす。",
+      "news_index": 1,
+      "start_sec": 131.32,
+      "end_sec": 136.51
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "先を走ってた『ポートピア連続殺人事件』は文字が主役だったっす。こっちは全体マップとアイコンで見せるっす。",
+      "news_index": 1,
+      "start_sec": 136.59,
+      "end_sec": 143.78
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "文字だらけの画面が、絵で分かるようになったってことなのだ？",
+      "news_index": 1,
+      "start_sec": 143.93,
+      "end_sec": 147.69
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そうっす！ アイテムも人名もシンボル表示で、子供でも迷子になりにくいっす。",
+      "news_index": 1,
+      "start_sec": 147.84,
+      "end_sec": 152.66
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに、アドベンチャーを読む物から見る物に寄せた一本っす。",
+      "news_index": 1,
+      "start_sec": 152.74,
+      "end_sec": 156.61
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "あと、このゲームのコマンドに「どつく」があるんすよ。",
+      "news_index": 1,
+      "start_sec": 156.69,
+      "end_sec": 160.22
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "どつく！？ 推理そっちのけで殴りにいけるのだ！？",
+      "news_index": 1,
+      "start_sec": 160.37,
+      "end_sec": 163.99
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "説明書でも、たたくでも、なぐるでもなく「どつく」表記っす。どつき漫才の文化っすね。",
+      "news_index": 1,
+      "start_sec": 164.14,
+      "end_sec": 170.61
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "関西の魂がコマンド欄に侵入してるのだ！",
+      "news_index": 1,
+      "start_sec": 170.76,
+      "end_sec": 174.0
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "しかも「さんま」コマンドもあって、迷ったらさんまに丸投げできるっす。",
+      "news_index": 1,
+      "start_sec": 174.15,
+      "end_sec": 178.61
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "それ、ボクが探偵じゃなくて、ただの付き添いなのだ……。",
+      "news_index": 1,
+      "start_sec": 178.76,
+      "end_sec": 183.97
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに、プレイヤーは名探偵さんまの相棒ポジっす。困った時の保険つきっすね。",
+      "news_index": 1,
+      "start_sec": 184.12,
+      "end_sec": 189.47
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "あとゲームセンターに行くとミニゲームが遊べるんすよ、オタクくん。",
+      "news_index": 1,
+      "start_sec": 189.55,
+      "end_sec": 193.2
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "捜査中にゲームセンターで遊んでる探偵、聞いたことないのだ。",
+      "news_index": 1,
+      "start_sec": 193.35,
+      "end_sec": 197.42
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "それがクリアすると捜査のヒントもらえるっす。ボートレースとか追跡ゲームとかシューティングとか入ってるっす。",
+      "news_index": 1,
+      "start_sec": 197.57,
+      "end_sec": 203.58
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "遊びがそのまま仕事になるやつなのだ。ボクの理想の職場じゃん。",
+      "news_index": 1,
+      "start_sec": 203.73,
+      "end_sec": 208.32
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "しかも「ギャラクシガニ」ってミニゲーム、ナムコの『ギャラクシアン』のセルフパロディっす。",
+      "news_index": 1,
+      "start_sec": 208.47,
+      "end_sec": 214.0
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "ギャラクシアンがカニになってるのだ……宇宙が海産物になってるのだ。",
+      "news_index": 1,
+      "start_sec": 214.15,
+      "end_sec": 219.48
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "先輩、そこだけは今回ガチで正しい感想っす。",
+      "news_index": 1,
+      "start_sec": 219.63,
+      "end_sec": 223.23
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに、本編の合間に自社ネタを詰め込んだサービス満点の構成っす。",
+      "news_index": 1,
+      "start_sec": 223.31,
+      "end_sec": 227.95
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "評価もちゃんと高くて、ファミコン通信のクロスレビューでゴールド殿堂入りっす。",
+      "news_index": 1,
+      "start_sec": 228.03,
+      "end_sec": 232.61
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "殿堂入り！ ずんだもん殿堂もいつか作ってほしいのだ。",
+      "news_index": 1,
+      "start_sec": 232.76,
+      "end_sec": 236.94
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "アドベンチャーゲームに新風を吹き込んだ、って評されたっす。ガチの評価枠っすよ。",
+      "news_index": 1,
+      "start_sec": 237.09,
+      "end_sec": 242.12
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "難易度は高いのだ？ ボク、詰まると三日で投げるのだ。",
+      "news_index": 1,
+      "start_sec": 242.27,
+      "end_sec": 246.03
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "難易度は低めで、クリアしやすい調整になってるっす。先輩でも大丈夫っすよ。",
+      "news_index": 1,
+      "start_sec": 246.18,
+      "end_sec": 251.35
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "「先輩でも」に、地味に失礼が混ざってるのだ。",
+      "news_index": 1,
+      "start_sec": 251.5,
+      "end_sec": 254.79
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "で、さっきの先輩の勘の話に戻るっす。このゲーム、移植もリメイクも一度もされてないっす。",
+      "news_index": 1,
+      "start_sec": 254.94,
+      "end_sec": 260.96
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "えっ、こんなに評価されてるのに一本も出てないのだ？",
+      "news_index": 1,
+      "start_sec": 261.11,
+      "end_sec": 264.74
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "出てないっす。権利まわり、特に肖像権の事情が大きいって言われてるっす。",
+      "news_index": 1,
+      "start_sec": 264.89,
+      "end_sec": 269.72
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "実名で出るって、そういう重さもあるのだね。",
+      "news_index": 1,
+      "start_sec": 269.87,
+      "end_sec": 272.92
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに、当時だから成立した、二度と作れない一本ってことっす。",
+      "news_index": 1,
+      "start_sec": 273.07,
+      "end_sec": 277.49
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "遊べないと聞くと、余計に遊びたくなるのだ……ボク、ガチで探したくなってきたのだ。",
+      "news_index": 1,
+      "start_sec": 277.64,
+      "end_sec": 283.77
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "実機とカセットさえあれば今でも動くっす。あーしのは元気に起動するっすよ。",
+      "news_index": 1,
+      "start_sec": 283.92,
+      "end_sec": 288.41
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "つむぎ、ファミコン持ちとかギャルの持ち物じゃないのだ。友達に引かれないのだ？",
+      "news_index": 1,
+      "start_sec": 288.56,
+      "end_sec": 293.91
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "shirake",
+      "text": "……先輩。",
+      "news_index": 1,
+      "start_sec": 294.06,
+      "end_sec": 294.88
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "な、なんでもないのだ……ごめんなさいなのだ……",
+      "news_index": 1,
+      "start_sec": 295.03,
+      "end_sec": 298.97
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "コホン。ギャル友達には言えない趣味っすけど、オタクくんには通じると信じてるっす。",
+      "news_index": 1,
+      "start_sec": 299.12,
+      "end_sec": 304.14
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ということで、今回は『さんまの名探偵』を掘ってきたのだ！",
+      "news_index": 1,
+      "start_sec": 304.29,
+      "end_sec": 308.51
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "犯人もトリックも一切言ってないんで、そこは自分の目で確かめてほしいっす。",
+      "news_index": 1,
+      "start_sec": 308.66,
+      "end_sec": 313.24
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "最初にボク、魚が事件を解決するって言ったのだ。あれ、半分合ってた気がするのだ。",
+      "news_index": 1,
+      "start_sec": 313.39,
+      "end_sec": 320.26
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "一ミリも合ってないっす先輩 w",
+      "news_index": 1,
+      "start_sec": 320.41,
+      "end_sec": 322.27
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "それじゃ、また旅の道ラジオで会いましょうなのだー！",
+      "news_index": 1,
+      "start_sec": 322.42,
+      "end_sec": 325.93
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "オタクくん、またっすよー！",
+      "news_index": 1,
+      "start_sec": 326.08,
+      "end_sec": 327.71
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 328.41,
+      "end_sec": 336.71
+    }
+  ],
+  "wall_time_sec": 14.23,
+  "audio_url": "/audio/indie/20261008_170417.mp3?v=1791489791"
+}
