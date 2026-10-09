@@ -1,0 +1,1336 @@
+{
+  "profile": "zatsugaku",
+  "generated_at": "2026-10-09T21:05:40+09:00",
+  "title": "エレベーターはモーターだけで持ち上げているのではない 〜反対側のおもりと綱引きする箱〜",
+  "audio_path": "zatsugaku_latest.wav",
+  "duration_sec": 628.01,
+  "script_hash": "sha256:8e29ed3f392cdd02cf6209943d9f88ff4c2e2bfd6457061a5e4ef8322de25228",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 4.64
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "mic",
+      "text": "旅の道ラジオ、雑学チャンネル。あんこもんだもん。",
+      "news_index": 0,
+      "start_sec": 4.64,
+      "end_sec": 8.09
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ずんだもんなのだ! 今日はどんなネタを持ってきたのだ?",
+      "news_index": 0,
+      "start_sec": 8.24,
+      "end_sec": 11.54
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "今日こそずんだもんに負けを認めさせるネタだもん。毎日乗ってるのに、誰も中身を知らない乗り物の話。",
+      "news_index": 0,
+      "start_sec": 11.69,
+      "end_sec": 18.12
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "毎日乗ってる乗り物? 電車とかバスなのだ?",
+      "news_index": 0,
+      "start_sec": 18.27,
+      "end_sec": 21.74
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "エレベーターだもん。今日のお題は、エレベーターの箱を持ち上げてるのは誰なのか。",
+      "news_index": 0,
+      "start_sec": 21.89,
+      "end_sec": 26.71
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shirake",
+      "text": "えー、そんなのモーターに決まってるのだ。",
+      "news_index": 0,
+      "start_sec": 26.86,
+      "end_sec": 29.63
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "ほら、もう引っかかったもん。",
+      "news_index": 0,
+      "start_sec": 29.78,
+      "end_sec": 31.56
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ひ、引っかかったってどういうことなのだ!",
+      "news_index": 0,
+      "start_sec": 31.71,
+      "end_sec": 34.36
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "それを今から10分かけて崩していくんだもん。",
+      "news_index": 0,
+      "start_sec": 34.51,
+      "end_sec": 37.18
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "まずは、ずんだもんが思ってるエレベーターの絵を説明してほしいもん。",
+      "news_index": 1,
+      "start_sec": 37.26,
+      "end_sec": 41.38
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "うーん、屋上に大きなモーターがあって、ロープを巻き取って箱を引っ張り上げるのだ。",
+      "news_index": 1,
+      "start_sec": 41.53,
+      "end_sec": 47.18
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "下りるときは、ロープを少しずつ出していくのだ。",
+      "news_index": 1,
+      "start_sec": 47.26,
+      "end_sec": 50.23
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "釣り竿のリールみたいな感じだもんね。",
+      "news_index": 1,
+      "start_sec": 50.38,
+      "end_sec": 52.75
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "そうそう、それなのだ! 普通みんなそう思ってるのだ。",
+      "news_index": 1,
+      "start_sec": 52.9,
+      "end_sec": 56.25
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "それ、間違いとまでは言わないけど、主役を見落としてるもん。",
+      "news_index": 1,
+      "start_sec": 56.4,
+      "end_sec": 60.26
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "主役を見落としてる? モーター以外に誰がいるのだ?",
+      "news_index": 1,
+      "start_sec": 60.41,
+      "end_sec": 64.27
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "じゃあ、ひとつクイズだもん。満員で上がるときと、空っぽで上がるとき、モーターがきついのはどっち?",
+      "news_index": 1,
+      "start_sec": 64.42,
+      "end_sec": 70.93
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "そんなの満員に決まってるのだ。重いんだから。",
+      "news_index": 1,
+      "start_sec": 71.08,
+      "end_sec": 74.08
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "じゃあ、空っぽで下りるときは?",
+      "news_index": 1,
+      "start_sec": 74.23,
+      "end_sec": 76.54
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "下りるのは重力にまかせればいいから、ほぼ楽ちんなのだ。",
+      "news_index": 1,
+      "start_sec": 76.69,
+      "end_sec": 80.52
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "ふふん。実はそれ、両方ともそこまで単純じゃないんだもん。",
+      "news_index": 1,
+      "start_sec": 80.67,
+      "end_sec": 84.65
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "えっ、重い方がきついのは当たり前じゃないのだ?",
+      "news_index": 1,
+      "start_sec": 84.8,
+      "end_sec": 88.81
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "もうひとつヒント。ビルのエレベーターの箱って、それだけで何百キロもあるもん。",
+      "news_index": 1,
+      "start_sec": 88.96,
+      "end_sec": 93.86
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "箱だけで何百キロ! ボクなんて、ずんだ餅何個分かも分からないのだ。",
+      "news_index": 1,
+      "start_sec": 94.01,
+      "end_sec": 98.83
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "そこに人が10人以上乗ったら、さらに何百キロも足されるでしょ。",
+      "news_index": 1,
+      "start_sec": 98.98,
+      "end_sec": 103.28
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "それを毎回まるごと引っ張り上げてたら、モーターも電気代も大変そうなのだ。",
+      "news_index": 1,
+      "start_sec": 103.43,
+      "end_sec": 108.58
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "そこ! 実はね、まるごとは引っ張ってないんだもん。",
+      "news_index": 1,
+      "start_sec": 108.73,
+      "end_sec": 112.06
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "まるごと引っ張ってないのに、なんで上に行けるのだ?",
+      "news_index": 1,
+      "start_sec": 112.21,
+      "end_sec": 115.76
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "エレベーターの縦穴には、箱がもうひとつ隠れてるからだもん。",
+      "news_index": 1,
+      "start_sec": 115.91,
+      "end_sec": 119.6
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "隠れた箱? お化けの話になってきたのだ!",
+      "news_index": 1,
+      "start_sec": 119.75,
+      "end_sec": 122.8
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "shirake",
+      "text": "お化けじゃないもん。ちゃんと国の資料にも載ってる部品だもん。",
+      "news_index": 1,
+      "start_sec": 122.95,
+      "end_sec": 127.71
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "正体は、つり合いおもり。英語だとカウンターウェイトだもん。",
+      "news_index": 2,
+      "start_sec": 127.79,
+      "end_sec": 131.63
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "つり合いおもり? それ何なのだ?",
+      "news_index": 2,
+      "start_sec": 131.78,
+      "end_sec": 134.25
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "ロープの片方の端に人が乗る箱、反対の端に重たいおもりがぶら下がってるんだもん。",
+      "news_index": 2,
+      "start_sec": 134.4,
+      "end_sec": 139.78
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "そのロープを、てっぺんの滑車みたいな車輪に引っかけてるんだもん。井戸のつるべと同じ形だもん。",
+      "news_index": 2,
+      "start_sec": 139.86,
+      "end_sec": 145.97
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "つるべ? 片方の桶が下がると、もう片方が上がるやつなのだ?",
+      "news_index": 2,
+      "start_sec": 146.12,
+      "end_sec": 150.77
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "そう。だから箱が上がるとき、おもりは下がってるんだもん。",
+      "news_index": 2,
+      "start_sec": 150.92,
+      "end_sec": 154.65
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "マジかよ! じゃあボクが上の階に行くたびに、壁の向こうでおもりがすれ違ってたのだ?",
+      "news_index": 2,
+      "start_sec": 154.8,
+      "end_sec": 160.29
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "そういうことだもん。ちょうど真ん中の階あたりで、すれ違ってるんだもん。",
+      "news_index": 2,
+      "start_sec": 160.44,
+      "end_sec": 164.91
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも、おもりがあるなら、そのぶん全体は重くなるのだ。逆に大変じゃないのだ?",
+      "news_index": 2,
+      "start_sec": 165.06,
+      "end_sec": 170.7
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "重くはなるけど、モーターの仕事は軽くなるんだもん。シーソーを思い出してほしいもん。",
+      "news_index": 2,
+      "start_sec": 170.85,
+      "end_sec": 175.96
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "両側に同じ重さの人が乗ってたら、指1本でも動かせるでしょ。",
+      "news_index": 2,
+      "start_sec": 176.04,
+      "end_sec": 180.33
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "確かに! 片方だけ乗ってたら、持ち上げるのに力がいるのだ。",
+      "news_index": 2,
+      "start_sec": 180.48,
+      "end_sec": 184.55
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "エレベーターもそれ。モーターが動かすのは、両側の重さの差の分だけなんだもん。",
+      "news_index": 2,
+      "start_sec": 184.7,
+      "end_sec": 189.52
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、おもりは箱とぴったり同じ重さなのだ?",
+      "news_index": 2,
+      "start_sec": 189.67,
+      "end_sec": 193.16
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "そこがうまいところだもん。箱の重さに、定員いっぱいの重さの4割から5割くらいを足すのが普通なんだもん。",
+      "news_index": 2,
+      "start_sec": 193.31,
+      "end_sec": 200.17
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "4割から5割? なんでそんな中途半端な重さにするのだ?",
+      "news_index": 2,
+      "start_sec": 200.32,
+      "end_sec": 205.53
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "エレベーターって、空っぽの時もあれば満員の時もあるでしょ。そのちょうど真ん中に合わせてるんだもん。",
+      "news_index": 2,
+      "start_sec": 205.68,
+      "end_sec": 212.07
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "たとえば5割で合わせると、半分くらい乗ってる時に両側がぴったりつり合うんだもん。",
+      "news_index": 2,
+      "start_sec": 212.15,
+      "end_sec": 217.28
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "そうすると、満員でも空っぽでも、差は定員の半分くらいまでで済むのだ?",
+      "news_index": 2,
+      "start_sec": 217.43,
+      "end_sec": 222.82
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "そういうことだもん。何百キロの箱を丸ごと持ち上げる必要はないんだもん。",
+      "news_index": 2,
+      "start_sec": 222.97,
+      "end_sec": 227.47
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ということは、空っぽで上がるときは、おもりの方が重いのだ。",
+      "news_index": 2,
+      "start_sec": 227.62,
+      "end_sec": 232.18
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "じゃあモーターは引っ張るんじゃなくて、勝手に上がりすぎないように押さえてるのだ?",
+      "news_index": 2,
+      "start_sec": 232.26,
+      "end_sec": 237.04
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "hazukashi",
+      "text": "うっ……それ、今から言おうとしてたやつだもん。",
+      "news_index": 2,
+      "start_sec": 237.19,
+      "end_sec": 240.6
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "やったのだ! ボクの勝ちなのだ!",
+      "news_index": 2,
+      "start_sec": 240.75,
+      "end_sec": 243.01
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "shirake",
+      "text": "たまたまだもん。でも、言ってることは合ってるもん。",
+      "news_index": 2,
+      "start_sec": 243.16,
+      "end_sec": 247.58
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "だから最初のクイズ。空っぽで下りるのも、実はおもりを持ち上げてる仕事なんだもん。",
+      "news_index": 2,
+      "start_sec": 247.66,
+      "end_sec": 252.92
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "うわ、楽ちんだと思ってたのに、逆だったのだ!",
+      "news_index": 2,
+      "start_sec": 253.07,
+      "end_sec": 256.38
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "要するに、エレベーターはおもりとの綱引きで、モーターは差の分の審判みたいなものだもん。",
+      "news_index": 2,
+      "start_sec": 256.53,
+      "end_sec": 261.94
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "2段目。ずんだもんの絵には、もうひとつ思い込みがあるもん。",
+      "news_index": 2,
+      "start_sec": 262.02,
+      "end_sec": 265.83
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "まだあるのだ? ロープを巻き取るところなのだ?",
+      "news_index": 2,
+      "start_sec": 265.98,
+      "end_sec": 269.18
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "そう。今のビルのエレベーターの多くは、ロープを巻き取らないんだもん。",
+      "news_index": 2,
+      "start_sec": 269.33,
+      "end_sec": 273.98
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "巻き取らないのに、どうやってロープを動かすのだ?",
+      "news_index": 2,
+      "start_sec": 274.13,
+      "end_sec": 278.03
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "てっぺんの車輪にロープを引っかけて、車輪を回すんだもん。ロープは車輪との摩擦で引きずられて動くんだもん。",
+      "news_index": 2,
+      "start_sec": 278.18,
+      "end_sec": 284.84
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "この、滑らない力で動かす方式を、トラクション式って呼ぶんだもん。",
+      "news_index": 2,
+      "start_sec": 284.92,
+      "end_sec": 289.72
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "トラクション式……ボクには難しすぎるのだ。",
+      "news_index": 2,
+      "start_sec": 289.87,
+      "end_sec": 292.89
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "nagomi",
+      "text": "物干し竿にタオルを掛けて、竿をくるっと回すと、タオルも一緒にずれるでしょ。あれだもん。",
+      "news_index": 2,
+      "start_sec": 293.04,
+      "end_sec": 299.05
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あー! タオルが竿にくっついて動くやつなのだ。",
+      "news_index": 2,
+      "start_sec": 299.2,
+      "end_sec": 302.31
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "で、国の資料だと、つり合いおもりには、この摩擦を生み出す役目もあるって書いてあるもん。",
+      "news_index": 2,
+      "start_sec": 302.46,
+      "end_sec": 308.21
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "おもりが摩擦を作る? どういうことなのだ?",
+      "news_index": 2,
+      "start_sec": 308.36,
+      "end_sec": 311.54
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "タオルの両端が軽いと、竿を回してもつるっと滑るでしょ。両端がぎゅっと引っ張られてるから、車輪にしっかり食いつくんだもん。",
+      "news_index": 2,
+      "start_sec": 311.69,
+      "end_sec": 319.86
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "マジかよ! おもりは綱引きの相手でもあり、滑り止めでもあったのだ。",
+      "news_index": 2,
+      "start_sec": 320.01,
+      "end_sec": 324.42
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "昔ながらの、ドラムで巻き取る巻胴式っていうのもちゃんとあるもん。でも一般的なのはトラクション式なんだもん。",
+      "news_index": 2,
+      "start_sec": 324.57,
+      "end_sec": 331.27
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "じゃあボクの絵は、昔のやり方の方だったのだ。",
+      "news_index": 2,
+      "start_sec": 331.42,
+      "end_sec": 334.58
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "要するに、ロープは巻き取るんじゃなくて、車輪の摩擦で送り出してるんだもん。",
+      "news_index": 2,
+      "start_sec": 334.73,
+      "end_sec": 339.36
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "3段目。おもりがあると、エレベーターは電気を作ることもできるんだもん。",
+      "news_index": 2,
+      "start_sec": 339.44,
+      "end_sec": 344.36
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "エレベーターが発電? 乗り物が電気を作るのだ?",
+      "news_index": 2,
+      "start_sec": 344.51,
+      "end_sec": 348.14
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "重い方が下に落ちようとする時、モーターはブレーキ役になるでしょ。その時にモーターを発電機として回すんだもん。",
+      "news_index": 2,
+      "start_sec": 348.29,
+      "end_sec": 355.26
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "重い方が下りる時……満員の箱が下りる時なのだ?",
+      "news_index": 2,
+      "start_sec": 355.41,
+      "end_sec": 359.3
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "それと、さっきの空っぽで上がる時。この場合は、重いおもりが下りてるもん。",
+      "news_index": 2,
+      "start_sec": 359.45,
+      "end_sec": 364.44
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "空っぽで上がると発電するのだ? 直感と真逆なのだ。",
+      "news_index": 2,
+      "start_sec": 364.59,
+      "end_sec": 368.56
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "これを回生って呼ぶんだもん。作った電気をビルの中で使えば、そのぶん電気代を減らせるもん。",
+      "news_index": 2,
+      "start_sec": 368.71,
+      "end_sec": 374.7
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "じゃあボクが空っぽのエレベーターを呼び上げたら、ちょっとだけ発電に協力してるのだ。",
+      "news_index": 2,
+      "start_sec": 374.85,
+      "end_sec": 380.77
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "shirake",
+      "text": "全部のエレベーターに付いてるわけじゃないもん。でも、付いてたらそうなるもん。",
+      "news_index": 2,
+      "start_sec": 380.92,
+      "end_sec": 387.22
+    },
+    {
+      "index": 84,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "最後の段は、みんなが一番気になるやつ。ロープが切れたらどうなるか、だもん。",
+      "news_index": 2,
+      "start_sec": 387.3,
+      "end_sec": 392.47
+    },
+    {
+      "index": 85,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "それ、怖くて考えないようにしてたのだ。箱ごと真っ逆さまなのだ?",
+      "news_index": 2,
+      "start_sec": 392.62,
+      "end_sec": 398.67
+    },
+    {
+      "index": 86,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "そうはならないように、何重にもなってるんだもん。まずロープは1本じゃなくて、何本もで箱を吊ってるもん。",
+      "news_index": 2,
+      "start_sec": 398.82,
+      "end_sec": 405.37
+    },
+    {
+      "index": 87,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "何本もで分担してるのだ。それでも全部切れたら?",
+      "news_index": 2,
+      "start_sec": 405.52,
+      "end_sec": 409.17
+    },
+    {
+      "index": 88,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "そこで出てくるのが、調速機と非常止め装置だもん。",
+      "news_index": 2,
+      "start_sec": 409.32,
+      "end_sec": 412.78
+    },
+    {
+      "index": 89,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "ちょうそくき? また難しい言葉なのだ。",
+      "news_index": 2,
+      "start_sec": 412.93,
+      "end_sec": 416.49
+    },
+    {
+      "index": 90,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "箱のスピードを、ずっと見張ってる係だもん。決められた速さを超えたら、非常止めに合図を出すんだもん。",
+      "news_index": 2,
+      "start_sec": 416.64,
+      "end_sec": 423.36
+    },
+    {
+      "index": 91,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "非常止めは、箱の横にあるレールを、ブレーキでぎゅっとつかんで止める装置だもん。",
+      "news_index": 2,
+      "start_sec": 423.44,
+      "end_sec": 428.66
+    },
+    {
+      "index": 92,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ロープじゃなくて、レールをつかんで止まるのだ!",
+      "news_index": 2,
+      "start_sec": 428.81,
+      "end_sec": 431.62
+    },
+    {
+      "index": 93,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "日本の決まりだと、普段の速さの1.4倍を超えないうちに止めることになってるもん。",
+      "news_index": 2,
+      "start_sec": 431.77,
+      "end_sec": 437.01
+    },
+    {
+      "index": 94,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "1854年。ニューヨークの博覧会で、オーチスっていう人が自分で台に乗って、ロープを斧で切らせたんだもん。",
+      "news_index": 2,
+      "start_sec": 437.09,
+      "end_sec": 444.53
+    },
+    {
+      "index": 95,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "自分で乗って切らせたのだ? 度胸ありすぎなのだ!",
+      "news_index": 2,
+      "start_sec": 444.68,
+      "end_sec": 447.9
+    },
+    {
+      "index": 96,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "台は少し落ちたけど、ばねで飛び出すつめが、ギザギザのレールに引っかかって止まったんだもん。",
+      "news_index": 2,
+      "start_sec": 448.05,
+      "end_sec": 453.59
+    },
+    {
+      "index": 97,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "斧で切られても止まったのだ! それなら安心して乗れるのだ。",
+      "news_index": 2,
+      "start_sec": 453.74,
+      "end_sec": 457.34
+    },
+    {
+      "index": 98,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "要するに、エレベーターの本当の発明は、持ち上げることより、落ちないことだったんだもん。",
+      "news_index": 2,
+      "start_sec": 457.49,
+      "end_sec": 463.07
+    },
+    {
+      "index": 99,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "ここからは広がりの話。ずんだもん、エレベーターって何メートルでも上がれると思う?",
+      "news_index": 3,
+      "start_sec": 463.15,
+      "end_sec": 468.59
+    },
+    {
+      "index": 100,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ロープを長くすれば、どこまでも行けるのだ。",
+      "news_index": 3,
+      "start_sec": 468.74,
+      "end_sec": 471.91
+    },
+    {
+      "index": 101,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "それが、1台で一気に上がれる高さには限界があるんだもん。",
+      "news_index": 3,
+      "start_sec": 472.06,
+      "end_sec": 475.77
+    },
+    {
+      "index": 102,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "限界? モーターが弱いからなのだ?",
+      "news_index": 3,
+      "start_sec": 475.92,
+      "end_sec": 478.78
+    },
+    {
+      "index": 103,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "モーターじゃないもん。犯人は、ロープ自身の重さだもん。",
+      "news_index": 3,
+      "start_sec": 478.93,
+      "end_sec": 482.58
+    },
+    {
+      "index": 104,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "ロープの重さ? そんなの細いから軽いのだ。",
+      "news_index": 3,
+      "start_sec": 482.73,
+      "end_sec": 486.4
+    },
+    {
+      "index": 105,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "鉄のロープは丈夫だけど重いもん。何百メートルも垂らすと、ロープが自分の重さを支えるのに力を使っちゃうんだもん。",
+      "news_index": 3,
+      "start_sec": 486.55,
+      "end_sec": 493.86
+    },
+    {
+      "index": 106,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "箱を吊るためのロープが、自分を吊るので精一杯になるのだ?",
+      "news_index": 3,
+      "start_sec": 494.01,
+      "end_sec": 498.33
+    },
+    {
+      "index": 107,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "そういうこと。鉄のロープだと、1回で上がれる高さは500メートルくらいが限界って言われてるもん。",
+      "news_index": 3,
+      "start_sec": 498.48,
+      "end_sec": 504.48
+    },
+    {
+      "index": 108,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "マジかよ! つり合いおもりでも、ロープの重さまではごまかせないのだ。",
+      "news_index": 3,
+      "start_sec": 504.63,
+      "end_sec": 508.96
+    },
+    {
+      "index": 109,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "そこでフィンランドのコネって会社が2013年に、炭素繊維でできたテープみたいなロープを発表したんだもん。",
+      "news_index": 3,
+      "start_sec": 509.11,
+      "end_sec": 515.59
+    },
+    {
+      "index": 110,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "炭素繊維? それ何なのだ?",
+      "news_index": 3,
+      "start_sec": 515.74,
+      "end_sec": 518.19
+    },
+    {
+      "index": 111,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "釣り竿とか自転車にも使われてる、軽くて強い黒い糸だもん。",
+      "news_index": 3,
+      "start_sec": 518.34,
+      "end_sec": 522.62
+    },
+    {
+      "index": 112,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "会社の発表だと、500メートル、24人乗りくらいの場合、鉄なら全体で29,000キロのところが12,800キロになるんだもん。",
+      "news_index": 3,
+      "start_sec": 522.7,
+      "end_sec": 531.63
+    },
+    {
+      "index": 113,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "半分以下なのだ! ずんだ餅に換算したら、ボクには一生かかっても食べきれないのだ。",
+      "news_index": 3,
+      "start_sec": 531.78,
+      "end_sec": 537.22
+    },
+    {
+      "index": 114,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "それで、1,000メートルまで1回で上がれるようにするのが目標なんだもん。",
+      "news_index": 3,
+      "start_sec": 537.37,
+      "end_sec": 541.58
+    },
+    {
+      "index": 115,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "下のほうも気になるのだ。もし止まりきれなかったら、底にぶつかるのだ?",
+      "news_index": 3,
+      "start_sec": 541.73,
+      "end_sec": 546.48
+    },
+    {
+      "index": 116,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "縦穴の一番下には、緩衝器っていう大きなクッションがあるんだもん。箱の真下にも、おもりの真下にも置いてあるもん。",
+      "news_index": 3,
+      "start_sec": 546.63,
+      "end_sec": 554.02
+    },
+    {
+      "index": 117,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "クッションって、どれくらいの大きさなのだ?",
+      "news_index": 3,
+      "start_sec": 554.17,
+      "end_sec": 556.99
+    },
+    {
+      "index": 118,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "三菱電機が作った超高速エレベーター向けだと、縮む長さだけで7,300ミリあるもん。",
+      "news_index": 3,
+      "start_sec": 557.14,
+      "end_sec": 563.02
+    },
+    {
+      "index": 119,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "7メートル以上も縮むクッション! 家より高いのだ!",
+      "news_index": 3,
+      "start_sec": 563.17,
+      "end_sec": 566.7
+    },
+    {
+      "index": 120,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "普通に1段で作ったら全体で約20メートルになっちゃうから、3段の伸び縮み式にして、約25%小さくしたんだって。",
+      "news_index": 3,
+      "start_sec": 566.85,
+      "end_sec": 575.49
+    },
+    {
+      "index": 121,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "望遠鏡みたいに、筒が重なって縮むのだ?",
+      "news_index": 3,
+      "start_sec": 575.64,
+      "end_sec": 579.16
+    },
+    {
+      "index": 122,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "hazukashi",
+      "text": "……ずんだもんにしては、いいたとえだもん。",
+      "news_index": 3,
+      "start_sec": 579.31,
+      "end_sec": 581.95
+    },
+    {
+      "index": 123,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "次に乗るときは、上がりながら、壁の向こうでおもりが下りてくるのを想像してみるといいもん。",
+      "news_index": 3,
+      "start_sec": 582.03,
+      "end_sec": 587.61
+    },
+    {
+      "index": 124,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "真ん中の階あたりで、こんにちはってすれ違ってるのだ。",
+      "news_index": 3,
+      "start_sec": 587.76,
+      "end_sec": 591.42
+    },
+    {
+      "index": 125,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "要するに、エレベーターは重さを消す機械じゃなくて、重さを両側で打ち消し合う機械なんだもん。",
+      "news_index": 3,
+      "start_sec": 591.57,
+      "end_sec": 597.26
+    },
+    {
+      "index": 126,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "今日はモーターが主役だと思ってたのに、主役は反対側のおもりだったのだ。",
+      "news_index": 0,
+      "start_sec": 597.41,
+      "end_sec": 602.64
+    },
+    {
+      "index": 127,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "どう? 負けを認める気になった?",
+      "news_index": 0,
+      "start_sec": 602.79,
+      "end_sec": 605.14
+    },
+    {
+      "index": 128,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "空っぽで上がるところは、ボクが先に当てたから引き分けなのだ!",
+      "news_index": 0,
+      "start_sec": 605.29,
+      "end_sec": 608.98
+    },
+    {
+      "index": 129,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "shirake",
+      "text": "……次こそ負けを認めさせるもん。聴いてくれてるかた、ありがとうだもん。",
+      "news_index": 0,
+      "start_sec": 609.13,
+      "end_sec": 614.86
+    },
+    {
+      "index": 130,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "旅の道ラジオ、雑学チャンネルだったのだ! またね、なのだ!",
+      "news_index": 0,
+      "start_sec": 615.01,
+      "end_sec": 619.01
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 619.71,
+      "end_sec": 628.01
+    }
+  ],
+  "wall_time_sec": 10.29,
+  "audio_url": "/audio/zatsugaku/20261009_210540.mp3?v=1791547975"
+}
