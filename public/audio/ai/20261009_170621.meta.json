@@ -1,0 +1,906 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-10-09T17:06:21+09:00",
+  "title": "AIのルールブックが増える朝 〜パソコンの中の細胞と、いじめ禁止の規約〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 545.56,
+  "script_hash": "sha256:404500392fc8bdeb25bf02487a8a595ad69b46f889a31eb0137b1211ec0c99aa",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 8.19
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "welcome",
+      "text": "おはようございます、旅の道ラジオ朝便、テックの話題をサクッと流す回よ。四国めたんです。",
+      "news_index": 0,
+      "start_sec": 8.19,
+      "end_sec": 14.45
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝も眠い目をこすって、テックの話を浴びるのだ!",
+      "news_index": 0,
+      "start_sec": 14.6,
+      "end_sec": 19.78
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "浴びるほどの量じゃないわよ。今日は五本、通勤のお供にちょうどいい感じね。",
+      "news_index": 0,
+      "start_sec": 19.93,
+      "end_sec": 24.74
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "五本かー。今日はテーマみたいなの、あるのだ?",
+      "news_index": 0,
+      "start_sec": 24.89,
+      "end_sec": 28.18
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "しいて言えば、AIのルールブックが増えた朝ってところ。いじめ禁止の規約まで出てくるわ。",
+      "news_index": 0,
+      "start_sec": 28.33,
+      "end_sec": 34.06
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "AIをいじめちゃダメなのだ!? それ、気になりすぎるのだ!",
+      "news_index": 0,
+      "start_sec": 34.21,
+      "end_sec": 37.92
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それは三本目。まずは、細胞の話から行くわね。",
+      "news_index": 0,
+      "start_sec": 38.07,
+      "end_sec": 41.51
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。アメリカの非営利の研究機関、バイオハブが十月七日に、生き物のデータを集める計画を大きく広げたって発表したの。",
+      "news_index": 1,
+      "start_sec": 41.59,
+      "end_sec": 50.17
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ばいおはぶ? 生き物の、ハブ空港みたいなところなのだ?",
+      "news_index": 1,
+      "start_sec": 50.32,
+      "end_sec": 54.43
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "意外といい線ね。ザッカーバーグさん夫妻がお金を出してる、生命科学の研究所よ。",
+      "news_index": 1,
+      "start_sec": 54.58,
+      "end_sec": 60.35
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、メタの社長さんなのだ! で、何を集めるのだ?",
+      "news_index": 1,
+      "start_sec": 60.5,
+      "end_sec": 64.47
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "細胞や分子を測ったデータで、AIに勉強させる教材をまとめて作る計画なの。名前はバーチャル バイオロジー イニシアチブよ。",
+      "news_index": 1,
+      "start_sec": 64.62,
+      "end_sec": 72.79
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "教材なら、ネットにいっぱい落ちてるのだ?",
+      "news_index": 1,
+      "start_sec": 72.94,
+      "end_sec": 76.23
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "文章ならね。でも細胞の動きは、実験で測らないとデータ自体がこの世にないのよ。",
+      "news_index": 1,
+      "start_sec": 76.38,
+      "end_sec": 81.99
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "教科書が白紙のまま、テストだけ先に配られてる感じなのだ。",
+      "news_index": 1,
+      "start_sec": 82.14,
+      "end_sec": 86.37
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "うまいこと言うじゃない。で、集まったお金や設備をまとめると、18億ドル分。",
+      "news_index": 1,
+      "start_sec": 86.52,
+      "end_sec": 91.97
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "18億ドル!? ボクのお小遣いを、何万年貯めたら届くのだ!?",
+      "news_index": 1,
+      "start_sec": 92.12,
+      "end_sec": 96.72
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "何万年でも全然足りないわね。日本円でざっと2,800億円くらいよ。",
+      "news_index": 1,
+      "start_sec": 96.87,
+      "end_sec": 101.81
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "うわっ……誰がそんな大金を出したのだ?",
+      "news_index": 1,
+      "start_sec": 101.96,
+      "end_sec": 104.79
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "アメリカのエネルギー省が、五年で5億ドル以上。グーグル・ディープマインドやメタ、アイソモーフィック ラボっていう会社も名前を連ねてるわ。",
+      "news_index": 1,
+      "start_sec": 104.94,
+      "end_sec": 113.08
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ライバル同士が同じお財布にお金を入れてるのだ? ケンカしないのだ?",
+      "news_index": 1,
+      "start_sec": 113.23,
+      "end_sec": 118.02
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "最終的には研究者向けに公開する計画だけど、企業パートナーが作ったデータは、公開前に一年間その企業が先に使えるの。その上で各社がモデル開発を競う構図ね。ゴールはバーチャル セル、つまりコンピューターの中の細胞よ。",
+      "news_index": 1,
+      "start_sec": 118.17,
+      "end_sec": 133.01
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、ゲームみたいに、画面の中で薬を試せる細胞ってことなのだ!",
+      "news_index": 1,
+      "start_sec": 133.16,
+      "end_sec": 138.01
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そういうこと。実験の前にパソコンで当たりをつけられれば、薬づくりが速くなるかもしれないの。",
+      "news_index": 1,
+      "start_sec": 138.16,
+      "end_sec": 144.36
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "新しい薬が早く届くなら、おばあちゃんも喜ぶのだ。",
+      "news_index": 1,
+      "start_sec": 144.51,
+      "end_sec": 148.81
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ただ、すぐに新薬ができる話じゃないわ。まずは細胞の反応を予測するモデルに必要な、データの土台を作る計画よ。",
+      "news_index": 1,
+      "start_sec": 148.96,
+      "end_sec": 157.11
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "気長に待つのだ。次、行くのだ!",
+      "news_index": 1,
+      "start_sec": 157.26,
+      "end_sec": 159.67
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目は、仕事で使う人向け。アンソロピックのAI、クロードに、十月八日から二つの新機能が試験版で入ったの。",
+      "news_index": 2,
+      "start_sec": 159.82,
+      "end_sec": 167.61
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "また新機能? 今度は何を覚えたのだ?",
+      "news_index": 2,
+      "start_sec": 167.76,
+      "end_sec": 170.93
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一つ目はモーション。文章やグラフを渡すと、説明用のアニメ動画にしてくれるのよ。",
+      "news_index": 2,
+      "start_sec": 171.08,
+      "end_sec": 176.54
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "え、ボクたちの立ち絵を、勝手に踊らせてくれるのだ!?",
+      "news_index": 2,
+      "start_sec": 176.69,
+      "end_sec": 180.52
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "踊らないわよ。会社の報告書を、図や文字がスッと動く短い解説動画にする感じね。",
+      "news_index": 2,
+      "start_sec": 180.67,
+      "end_sec": 186.41
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でもAIの動画って、たまに指が六本になったりしないのだ?",
+      "news_index": 2,
+      "start_sec": 186.56,
+      "end_sec": 190.98
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "絵を一から描くんじゃなくて、文字や図の動きをプログラムで組み立てるの。だから変な人間は出てこないし、後から手直しもできるわ。",
+      "news_index": 2,
+      "start_sec": 191.13,
+      "end_sec": 199.05
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "紙芝居を、動く紙芝居にしてくれるってことなのだ。",
+      "news_index": 2,
+      "start_sec": 199.2,
+      "end_sec": 202.72
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "いい例えね。二つ目はダッシュボード。会社のデータにつないで、言葉で頼むだけで、自動で更新されるグラフの画面を作ってくれるの。",
+      "news_index": 2,
+      "start_sec": 202.87,
+      "end_sec": 210.95
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "だっしゅぼーど? 車の運転席の前の、あの板なのだ?",
+      "news_index": 2,
+      "start_sec": 211.1,
+      "end_sec": 215.26
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "由来はそれ。車のメーターみたいに、売上や数字をひと目で見られる画面のことよ。",
+      "news_index": 2,
+      "start_sec": 215.41,
+      "end_sec": 220.93
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "数字が勝手に動き続けるのだ!? 毎朝エクセルを手でいじってる人、ひまになっちゃうのだ!",
+      "news_index": 2,
+      "start_sec": 221.08,
+      "end_sec": 226.87
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ひまにはならないわ、見る側に回るだけ。ダッシュボードは有料プラン全部、モーションはチームや企業向けのプランだけね。",
+      "news_index": 2,
+      "start_sec": 227.02,
+      "end_sec": 234.47
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "つまり、ボクの無料アカウントにはまだ来ないのだ……。",
+      "news_index": 2,
+      "start_sec": 234.62,
+      "end_sec": 239.29
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そのかわり、資料やスライドを作る機能は、無料プランでも正式に使えるようになったらしいわ。",
+      "news_index": 2,
+      "start_sec": 239.44,
+      "end_sec": 245.22
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "要するに、AIが答えるだけじゃなくて、資料係にもなってきたってことなのだ!",
+      "news_index": 2,
+      "start_sec": 245.37,
+      "end_sec": 250.6
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今の一言が正解。会社員の人は、資料作りの時間がぐっと減るかもしれないわね。",
+      "news_index": 2,
+      "start_sec": 250.75,
+      "end_sec": 256.3
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目は、冒頭で言ったいじめ禁止の話。そのアンソロピックが、利用規約を一年以上ぶりに改めたの。",
+      "news_index": 3,
+      "start_sec": 256.38,
+      "end_sec": 263.35
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "りようきやく? アプリを入れるとき、読まずに同意ボタンを押すやつなのだ?",
+      "news_index": 3,
+      "start_sec": 263.5,
+      "end_sec": 268.83
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "読みなさいよ。中身は、クロードへのしつこくて無意味な虐待や、残酷なふるまいを禁止するってルールなの。",
+      "news_index": 3,
+      "start_sec": 268.98,
+      "end_sec": 275.47
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? AIにも心があるってことなのだ!?",
+      "news_index": 3,
+      "start_sec": 275.62,
+      "end_sec": 278.75
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこはまだ誰にも分からない。ただアンソロピックは、AIの内側にも何かあるかもしれないって可能性を、真面目に考えてる会社なのよ。",
+      "news_index": 3,
+      "start_sec": 278.9,
+      "end_sec": 287.79
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "じゃあ宿題の答えを間違えられて、ポンコツって言ったら、アカウント消されちゃうのだ……?",
+      "news_index": 3,
+      "start_sec": 287.94,
+      "end_sec": 294.9
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "安心しなさい、普通のイライラや言い返し、暗いテーマの創作、性能のテストは対象外よ。理由もなく何度も残酷にするような、極端な場合だけね。",
+      "news_index": 3,
+      "start_sec": 295.05,
+      "end_sec": 305.54
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "ふぅ、一回ポンコツって言うくらいはセーフなのだ。",
+      "news_index": 3,
+      "start_sec": 305.69,
+      "end_sec": 309.16
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "言わないのが一番だけどね。違反したら警告から、利用の制限や停止までありえるわ。",
+      "news_index": 3,
+      "start_sec": 309.31,
+      "end_sec": 314.87
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ほかにも何か変わったのだ?",
+      "news_index": 3,
+      "start_sec": 315.02,
+      "end_sec": 317.04
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "有権者をだましたり選挙を妨害したりする行為や、兵器づくり、無断の監視へのルールも、より具体的に書き直されたの。新しい規約は十一月十二日からよ。",
+      "news_index": 3,
+      "start_sec": 317.19,
+      "end_sec": 327.6
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "AIを守るルールと、人を守るルールが、同じ紙に並んだってことなのだ!",
+      "news_index": 3,
+      "start_sec": 327.75,
+      "end_sec": 332.7
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "きれいにまとめたわね。私たちにとっては、AIへの態度がマナーの話になり始めた、って変化だと思うわ。",
+      "news_index": 3,
+      "start_sec": 332.85,
+      "end_sec": 339.87
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "四本目は硬めだから手短に。オープンエーアイを解雇された安全担当の研究者三人が、十月八日に公開の手紙を出したの。",
+      "news_index": 4,
+      "start_sec": 339.95,
+      "end_sec": 348.65
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "クビになった人が、手紙で反撃!?",
+      "news_index": 4,
+      "start_sec": 348.8,
+      "end_sec": 351.38
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "会社側は、機密の研究情報を不適切に扱う不正行為があった、って立場。三人は、外部の専門家との連携は仕事の範囲内で、当時の社内ルールにも従っていたって反論してるわ。",
+      "news_index": 4,
+      "start_sec": 351.53,
+      "end_sec": 363.89
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "外の人と話すのが仕事なのに、話したらクビってことなのだ?",
+      "news_index": 4,
+      "start_sec": 364.04,
+      "end_sec": 368.39
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "少なくとも本人たちはそう訴えてるわね。で、いちばん心配してるのが、萎縮効果。",
+      "news_index": 4,
+      "start_sec": 368.54,
+      "end_sec": 374.53
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "いしゅく? 洗濯したセーターが縮むやつなのだ?",
+      "news_index": 4,
+      "start_sec": 374.68,
+      "end_sec": 378.48
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "それはただの縮み。萎縮効果は、私も切られるかもって怖くなって、社内で誰も心配ごとを言わなくなることよ。",
+      "news_index": 4,
+      "start_sec": 378.63,
+      "end_sec": 385.65
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、クラスで一人が怒られたら、みんな手を挙げなくなるやつなのだ!",
+      "news_index": 4,
+      "start_sec": 385.8,
+      "end_sec": 390.24
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "まさにそれ。手紙では、外部の安全チェック役を社内に置くことなんかを、会社に求めてるわ。",
+      "news_index": 4,
+      "start_sec": 390.39,
+      "end_sec": 396.31
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "どっちが正しいかは、まだ分からないってことなのだ?",
+      "news_index": 4,
+      "start_sec": 396.46,
+      "end_sec": 399.94
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、会社と三人の言い分が食い違ってる段階ね。ただ、AIのブレーキ役が声を上げにくくなると、しわ寄せは結局、使う私たちに来るかもって話。",
+      "news_index": 4,
+      "start_sec": 400.09,
+      "end_sec": 410.22
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "ブレーキ役が黙ってる車には、乗りたくないのだ。次は軽いのでお願いなのだ。",
+      "news_index": 4,
+      "start_sec": 410.37,
+      "end_sec": 418.15
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあラスト五本目。アメリカのスタートアップ、リフレクションが十月五日に、ビームっていう新しいAIを発表したの。",
+      "news_index": 5,
+      "start_sec": 418.3,
+      "end_sec": 425.57
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ビーム! 目から出るやつなのだー!",
+      "news_index": 5,
+      "start_sec": 425.72,
+      "end_sec": 427.87
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "出ないわよ。売りは、中身を誰でもダウンロードして使える、オープンウェイトってところ。",
+      "news_index": 5,
+      "start_sec": 428.02,
+      "end_sec": 433.08
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "おーぷんうぇいと? 体重を公開しちゃうってことなのだ?",
+      "news_index": 5,
+      "start_sec": 433.23,
+      "end_sec": 437.06
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ウェイトは、AIが学習で身につけた数値のまとまりよ。料理で言えば、レシピを公開するんじゃなくて、できあがった秘伝のタレを配って、家の台所でも使えるようにする感じね。",
+      "news_index": 5,
+      "start_sec": 437.21,
+      "end_sec": 448.36
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "秘伝のタレを配っちゃうのだ。太っ腹なのだ。",
+      "news_index": 5,
+      "start_sec": 448.51,
+      "end_sec": 451.5
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "しかもこの分野、最近は中国の会社が先頭を走ってたの。そこにアメリカ勢が追いつこうとしてる構図ね。",
+      "news_index": 5,
+      "start_sec": 451.65,
+      "end_sec": 458.85
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、ビームは強いのだ?",
+      "news_index": 5,
+      "start_sec": 459.0,
+      "end_sec": 461.02
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一番強いわけじゃないけど、燃費のよさが自慢よ。高度な推論のベンチマークでは、ジーエルエム5.2と同じくらいの成績を、3分の1から4分の1ほどの推論計算量で出せるって、本人たちは言ってるわ。",
+      "news_index": 5,
+      "start_sec": 461.17,
+      "end_sec": 474.45
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "4分の1!? 電気代も4分の1になるってことなのだ!?",
+      "news_index": 5,
+      "start_sec": 474.6,
+      "end_sec": 478.67
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そうとは限らないわ。発表の数字は推論計算量の概算で、実際の電気代には、使う機械や処理のしかた、それに運用全体の負荷も関わるのよ。中身の公開は、今月中の予定よ。",
+      "news_index": 5,
+      "start_sec": 478.82,
+      "end_sec": 491.85
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "要するに、大きな計算機は必要だけど、会社がモデルを自分の環境に置いて動かせる選択肢が増えるってことなのだ!",
+      "news_index": 5,
+      "start_sec": 492.0,
+      "end_sec": 499.76
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "正解。私たちが使うアプリの裏で、こういう燃費のいいAIがこっそり働く日も近いわね。",
+      "news_index": 5,
+      "start_sec": 499.91,
+      "end_sec": 506.09
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "はい、今朝は五本。細胞のデータ集め、クロードの動画とグラフ、いじめ禁止の規約、解雇された研究者の手紙、それに燃費のいいビームね。",
+      "news_index": 0,
+      "start_sec": 506.17,
+      "end_sec": 515.21
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ボクは、いじめ禁止の話が一番刺さったのだ。今日からAIには優しくするのだ。",
+      "news_index": 0,
+      "start_sec": 515.36,
+      "end_sec": 521.56
+    },
+    {
+      "index": 84,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "人間にも優しくしなさいよ。",
+      "news_index": 0,
+      "start_sec": 521.71,
+      "end_sec": 523.66
+    },
+    {
+      "index": 85,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "めたんには、どうしようかなー。",
+      "news_index": 0,
+      "start_sec": 523.81,
+      "end_sec": 526.07
+    },
+    {
+      "index": 86,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "そこは迷わないで。聴いてくれてるかた、気になった話があったら、各社の発表をのぞいてみてね。",
+      "news_index": 0,
+      "start_sec": 526.22,
+      "end_sec": 532.01
+    },
+    {
+      "index": 87,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "それじゃあ、いってらっしゃいなのだ! また次のテック朝便で会うのだー!",
+      "news_index": 0,
+      "start_sec": 532.16,
+      "end_sec": 536.56
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 537.26,
+      "end_sec": 545.56
+    }
+  ],
+  "wall_time_sec": 14.79,
+  "audio_url": "/audio/ai/20261009_170621.mp3?v=1791576173"
+}

@@ -1,0 +1,966 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-10-09T17:03:40+09:00",
+  "title": "無限回廊の470円 〜異変を見つけたら、引き返せ〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 428.49,
+  "script_hash": "sha256:8b2575050a707a0b73fbfefc0a591730f821c589d6768858171712232dd8b5ab",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 5.05
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "welcome",
+      "text": "旅の道ラジオへようこそ。パーソナリティの四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 5.05,
+      "end_sec": 8.88
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだ！今回はなんの話なのだ？",
+      "news_index": 0,
+      "start_sec": 9.03,
+      "end_sec": 12.67
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今回は新作ニュースはお休み。発売から時間が経って、評価が完全に固まった一本を掘る回よ。",
+      "news_index": 0,
+      "start_sec": 12.82,
+      "end_sec": 19.3
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "つまり「今さら？」って言われるやつなのだ？",
+      "news_index": 0,
+      "start_sec": 19.45,
+      "end_sec": 22.98
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "「今からでも遅くない」の側ね。題材は『8番出口』。",
+      "news_index": 0,
+      "start_sec": 23.13,
+      "end_sec": 26.95
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "うわー、それ名前は知ってるのだ！地下通路をぐるぐるするやつなのだ！",
+      "news_index": 0,
+      "start_sec": 27.1,
+      "end_sec": 32.2
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、そのぐるぐる。なんでここまで化けたのかを追いかけるわよ。",
+      "news_index": 0,
+      "start_sec": 32.35,
+      "end_sec": 36.17
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "まず基本から。スチームで2023年11月29日に出た短編で、値段は470円。",
+      "news_index": 1,
+      "start_sec": 36.25,
+      "end_sec": 43.05
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "470円！？ ボクの好きなずんだ餅なら3個分くらいなのだ！",
+      "news_index": 1,
+      "start_sec": 43.2,
+      "end_sec": 47.81
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "単位がずんだ餅なのやめなさい。要するにワンコインで買える短編って話ね。",
+      "news_index": 1,
+      "start_sec": 47.96,
+      "end_sec": 52.69
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、中身はどんな感じなのだ？",
+      "news_index": 1,
+      "start_sec": 52.84,
+      "end_sec": 55.2
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "地下通路を歩く。角を曲がるとまた同じ通路。これが延々ループするの。",
+      "news_index": 1,
+      "start_sec": 55.35,
+      "end_sec": 59.88
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ループ……ボクの日常なのだ。起きて、食べて、寝るのだ。",
+      "news_index": 1,
+      "start_sec": 60.03,
+      "end_sec": 64.1
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "生活習慣の話じゃないの。ルールは「異変を見つけたら引き返す」「異変がなければ進む」、これだけよ。",
+      "news_index": 1,
+      "start_sec": 64.25,
+      "end_sec": 70.85
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "つまり間違い探しなのだ？ 歩ける間違い探し？",
+      "news_index": 1,
+      "start_sec": 71.0,
+      "end_sec": 75.01
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そう、それが一番近いわ。正解すると案内板の番号が1つ増えるの。",
+      "news_index": 1,
+      "start_sec": 75.16,
+      "end_sec": 80.37
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ゼロ番から始まって、8番まで行けたら脱出なのだね。",
+      "news_index": 1,
+      "start_sec": 80.52,
+      "end_sec": 84.34
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ええ。でも一回でも判断をミスると、番号はゼロ番に逆戻り。",
+      "news_index": 1,
+      "start_sec": 84.49,
+      "end_sec": 89.08
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "ええっ、7番まで来てゼロなのだ！？ 心が折れるやつなのだー！",
+      "news_index": 1,
+      "start_sec": 89.23,
+      "end_sec": 94.68
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "その折れる音が配信で一番おいしいのよ。要するに、緊張感が全部プレイヤーの目にかかってるゲームね。",
+      "news_index": 1,
+      "start_sec": 94.83,
+      "end_sec": 101.56
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "あ、通路でおじさんとすれ違うって聞いたのだ。",
+      "news_index": 1,
+      "start_sec": 101.71,
+      "end_sec": 104.9
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "中年男性がどこからともなく歩いてくるの。その人の様子も観察対象よ。",
+      "news_index": 1,
+      "start_sec": 105.05,
+      "end_sec": 110.02
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "おじさんは何番出口から来たのだ？ ずっと歩いてて疲れないのだ？",
+      "news_index": 1,
+      "start_sec": 110.17,
+      "end_sec": 115.01
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "おじさんの疲労を心配してるのあなただけよ。もうファンアートで愛されるマスコット枠なの。",
+      "news_index": 1,
+      "start_sec": 115.16,
+      "end_sec": 120.29
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "そういうの好きなのだー。ボクもすれ違いたいのだ。",
+      "news_index": 1,
+      "start_sec": 120.44,
+      "end_sec": 123.87
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、これを作ったのがコタケクリエイト。基本ひとりでやってる個人開発よ。",
+      "news_index": 2,
+      "start_sec": 124.02,
+      "end_sec": 128.72
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ひとり！？ あの通路のリアルさでひとりなのだ！？",
+      "news_index": 2,
+      "start_sec": 128.87,
+      "end_sec": 131.87
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "エンジンはアンリアルエンジン5ね。今どきは個人でもあの画が出せるのよ。",
+      "news_index": 2,
+      "start_sec": 132.02,
+      "end_sec": 136.41
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "つまり才能さえあればボクでも作れるのだ！",
+      "news_index": 2,
+      "start_sec": 136.56,
+      "end_sec": 139.36
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "shirake",
+      "text": "……前半の条件、ちゃんと聞こえてた？",
+      "news_index": 2,
+      "start_sec": 139.51,
+      "end_sec": 142.1
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "……聞こえてたのだ。ごめんなさいなのだ……",
+      "news_index": 2,
+      "start_sec": 142.25,
+      "end_sec": 144.53
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "しかも狙いが渋くてね。「数か月で作れるゲーム」を目標にした企画だったの。",
+      "news_index": 2,
+      "start_sec": 144.68,
+      "end_sec": 149.57
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "小さく作って当てたってことなのだ。かっこいいのだ。",
+      "news_index": 2,
+      "start_sec": 149.72,
+      "end_sec": 153.02
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "元ネタも今っぽいわよ。バックルームズとか、リミナルスペースね。",
+      "news_index": 2,
+      "start_sec": 153.17,
+      "end_sec": 157.23
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "リミナルスペース……なんかリンパみたいな響きなのだ。",
+      "news_index": 2,
+      "start_sec": 157.38,
+      "end_sec": 160.8
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "全然違うわ。誰もいない廊下とか無人の駅みたいな、居心地の悪い空間の写真ジャンルよ。",
+      "news_index": 2,
+      "start_sec": 160.95,
+      "end_sec": 166.9
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "居心地の悪い空間……それはボクもわかる気がするのだ。",
+      "news_index": 2,
+      "start_sec": 167.05,
+      "end_sec": 170.65
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "chuuni",
+      "text": "無人の回廊。終わらない蛍光灯。そこに立つ者は、世界の裏側に触れてしまうのよ……",
+      "news_index": 2,
+      "start_sec": 170.8,
+      "end_sec": 176.77
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "出たのだー！！ 急に発病したのだ！！",
+      "news_index": 2,
+      "start_sec": 176.92,
+      "end_sec": 179.26
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ふふ、ごめんなさい。ああいう空間の話をすると出ちゃうのよ。",
+      "news_index": 2,
+      "start_sec": 179.41,
+      "end_sec": 183.26
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "でも今ので怖さの種類は伝わったのだ。おばけが出るタイプじゃなくて、空間が変なのだね。",
+      "news_index": 2,
+      "start_sec": 183.41,
+      "end_sec": 189.22
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そこが正解。要するに「怖い場所」じゃなくて「間違ってる場所」の怖さなの。",
+      "news_index": 2,
+      "start_sec": 189.37,
+      "end_sec": 194.98
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ数字いくわよ。発売から1日で3万本を超えたの。",
+      "news_index": 3,
+      "start_sec": 195.06,
+      "end_sec": 198.93
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "1日で3万！？ ずんだ餅に換算すると……もう計算が追いつかないのだ。",
+      "news_index": 3,
+      "start_sec": 199.08,
+      "end_sec": 205.26
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "電卓は置いときなさい。そこから2024年8月に、スチームとスイッチ合わせて100万本ね。",
+      "news_index": 3,
+      "start_sec": 205.41,
+      "end_sec": 211.72
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "100万！ 大台なのだー！",
+      "news_index": 3,
+      "start_sec": 211.87,
+      "end_sec": 213.9
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "2025年1月には140万本、映画公開の少し前に累計200万本を超えたわ。",
+      "news_index": 3,
+      "start_sec": 214.05,
+      "end_sec": 220.47
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "リスナーのみなさん、470円のゲームが200万本なのだ。桁がおかしいのだ。",
+      "news_index": 3,
+      "start_sec": 220.62,
+      "end_sec": 226.19
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "移植も次々でね。スイッチ、プレイステーション、エックスボックス、スマホまで来たの。",
+      "news_index": 3,
+      "start_sec": 226.34,
+      "end_sec": 231.87
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "スマホでもあの通路を歩けるのだ？",
+      "news_index": 3,
+      "start_sec": 232.02,
+      "end_sec": 234.4
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "歩けるわよ。2025年の春にアイオーエスとアンドロイドが出てる。",
+      "news_index": 3,
+      "start_sec": 234.55,
+      "end_sec": 238.81
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "あと、似たようなゲームがいっぱい出てるって聞いたのだ。",
+      "news_index": 3,
+      "start_sec": 238.96,
+      "end_sec": 242.76
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "hisohiso",
+      "text": "それね……一時期、新作の一覧が「8番出口ライク」で埋まってたのよ。",
+      "news_index": 3,
+      "start_sec": 242.91,
+      "end_sec": 248.91
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "ジャンル名になってるのだ！？ 個人開発がジャンルを産んだのだー！",
+      "news_index": 3,
+      "start_sec": 249.06,
+      "end_sec": 254.04
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "賞も獲ってるしね。エスエヌエス流行語大賞の2024年で4位、グーグルプレイのベストオブ2025ではインディー部門の大賞よ。",
+      "news_index": 3,
+      "start_sec": 254.19,
+      "end_sec": 262.54
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "流行語！？ ゲームなのに言葉として流行ったのだ？",
+      "news_index": 3,
+      "start_sec": 262.69,
+      "end_sec": 265.93
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "「異変」ってフレーズが一人歩きしたのよ。要するにゲームがミームになったの。",
+      "news_index": 3,
+      "start_sec": 266.08,
+      "end_sec": 270.89
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、続編もあるわよ。『8番のりば』、2024年5月31日にいきなり出たの。",
+      "news_index": 4,
+      "start_sec": 270.97,
+      "end_sec": 276.91
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "いきなり！？ 予告なしなのだ？",
+      "news_index": 4,
+      "start_sec": 277.06,
+      "end_sec": 279.24
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ゲリラ発売ね。今度の舞台は、永遠に走り続ける電車の中よ。",
+      "news_index": 4,
+      "start_sec": 279.39,
+      "end_sec": 283.96
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "地下通路の次は電車なのだ！ 次は絶対バスなのだ！",
+      "news_index": 4,
+      "start_sec": 284.11,
+      "end_sec": 288.18
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "勝手に路線を増やさないの。家庭用機版は同じ年の11月28日に出てるわ。",
+      "news_index": 4,
+      "start_sec": 288.33,
+      "end_sec": 293.96
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "そして、ここからが例の映画の話なのだね。",
+      "news_index": 4,
+      "start_sec": 294.11,
+      "end_sec": 297.11
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、実写映画になったの。公開は2025年8月29日。",
+      "news_index": 4,
+      "start_sec": 297.26,
+      "end_sec": 302.07
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "個人が作ったインディーゲームが実写映画なのだ。すごい出世なのだ。",
+      "news_index": 4,
+      "start_sec": 302.22,
+      "end_sec": 306.58
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "監督は川村元気、主演は二宮和也。",
+      "news_index": 4,
+      "start_sec": 306.73,
+      "end_sec": 310.08
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、あの二宮和也なのだ！？",
+      "news_index": 4,
+      "start_sec": 310.23,
+      "end_sec": 312.75
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "しかもね、カンヌ国際映画祭のミッドナイト・スクリーニングでワールドプレミアなのよ。",
+      "news_index": 4,
+      "start_sec": 312.9,
+      "end_sec": 318.09
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "カンヌ！？ 470円の間違い探しがカンヌなのだ！？",
+      "news_index": 4,
+      "start_sec": 318.24,
+      "end_sec": 323.23
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "その並べ方だと事故みたいだけど事実よ。上映後は8分間のスタンディングオベーションだったって。",
+      "news_index": 4,
+      "start_sec": 323.38,
+      "end_sec": 329.33
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "8分！ ……あっ、8番出口だから8分なのだ？",
+      "news_index": 4,
+      "start_sec": 329.48,
+      "end_sec": 333.67
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "shirake",
+      "text": "偶然よ。",
+      "news_index": 4,
+      "start_sec": 333.82,
+      "end_sec": 334.73
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "……偶然なのだ。",
+      "news_index": 4,
+      "start_sec": 334.88,
+      "end_sec": 335.86
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "興行収入は51.7億円。2026年3月の時点の数字ね。",
+      "news_index": 4,
+      "start_sec": 336.01,
+      "end_sec": 341.36
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "元は個人が数か月で作った470円のゲームなのだ。改めてすごいのだ。",
+      "news_index": 4,
+      "start_sec": 341.51,
+      "end_sec": 347.13
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに、アイデア一本で世界まで転がっていったってこと。",
+      "news_index": 4,
+      "start_sec": 347.28,
+      "end_sec": 350.84
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、今回のテーマは「今から遊んでも価値があるか」よ。私の答えははっきり「ある」。",
+      "news_index": 5,
+      "start_sec": 350.92,
+      "end_sec": 356.9
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "映画を先に観ちゃった人でもなのだ？",
+      "news_index": 5,
+      "start_sec": 357.05,
+      "end_sec": 359.5
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "むしろ順番は逆でもいいの。自分の目で異変を見つける体験だから、話を知ってても別物よ。",
+      "news_index": 5,
+      "start_sec": 359.65,
+      "end_sec": 365.63
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ふむ。ネタバレって「答え」じゃなくて「見え方」の話なのだね。",
+      "news_index": 5,
+      "start_sec": 365.78,
+      "end_sec": 370.58
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "いい要約じゃない。あと単純に、一周が短いのが偉いのよ。",
+      "news_index": 5,
+      "start_sec": 370.73,
+      "end_sec": 375.04
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "短いのが偉いのだ？",
+      "news_index": 5,
+      "start_sec": 375.19,
+      "end_sec": 376.89
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "積みゲーの山があっても手が出るでしょ。友達に「はい、やって」って渡せる長さなの。",
+      "news_index": 5,
+      "start_sec": 377.04,
+      "end_sec": 382.67
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "みんなでワイワイ見るのが楽しいやつなのだ。ボクの好きなタイプなのだ。",
+      "news_index": 5,
+      "start_sec": 382.82,
+      "end_sec": 387.52
+    },
+    {
+      "index": 84,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "見てる側が先に異変に気づいて叫ぶ、あれが構造的におもしろいのよね。",
+      "news_index": 5,
+      "start_sec": 387.67,
+      "end_sec": 392.19
+    },
+    {
+      "index": 85,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "つまり買うしかないのだ！ 470円なのだ！",
+      "news_index": 5,
+      "start_sec": 392.34,
+      "end_sec": 395.56
+    },
+    {
+      "index": 86,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ずんだ餅3個分、だったかしら。",
+      "news_index": 5,
+      "start_sec": 395.71,
+      "end_sec": 397.94
+    },
+    {
+      "index": 87,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "覚えててくれたのだー！うれしいのだ！",
+      "news_index": 5,
+      "start_sec": 398.09,
+      "end_sec": 400.87
+    },
+    {
+      "index": 88,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kamera",
+      "text": "というわけで今回は『8番出口』でした。未プレイのかたは、壁をよーく見ながら歩いてみて。",
+      "news_index": 5,
+      "start_sec": 401.02,
+      "end_sec": 406.92
+    },
+    {
+      "index": 89,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "異変を見つけたら引き返すのだ。見つからなかったら進むのだ！",
+      "news_index": 5,
+      "start_sec": 407.07,
+      "end_sec": 410.96
+    },
+    {
+      "index": 90,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それだけ守れば大丈夫よ。……たぶん。",
+      "news_index": 5,
+      "start_sec": 411.11,
+      "end_sec": 413.46
+    },
+    {
+      "index": 91,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "たぶんってなんなのだー！ 怖いのだー！",
+      "news_index": 5,
+      "start_sec": 413.61,
+      "end_sec": 416.8
+    },
+    {
+      "index": 92,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "welcome",
+      "text": "ふふ。それじゃ、また旅の道ラジオで会いましょう。",
+      "news_index": 5,
+      "start_sec": 416.95,
+      "end_sec": 419.99
+    },
+    {
+      "index": 93,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "またなのだー！",
+      "news_index": 5,
+      "start_sec": 420.14,
+      "end_sec": 421.15
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 421.85,
+      "end_sec": 428.49
+    }
+  ],
+  "wall_time_sec": 20.92,
+  "audio_url": "/audio/indie/20261009_170340.mp3?v=1791576179"
+}
