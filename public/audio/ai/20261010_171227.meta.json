@@ -1,0 +1,736 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-10-10T17:12:27+09:00",
+  "title": "黙る係としゃべる係の朝 〜録音を読むAIと、横取りされたグラボのおかず〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 407.84,
+  "script_hash": "sha256:1d95a661ef70d311268ddec79ca19430b344a51ab2d01df8824d9e2ccdf653e0",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 9.59
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "welcome",
+      "text": "おはようございます、旅の道ラジオ朝便。四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 9.59,
+      "end_sec": 13.66
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝もテックの話、サクッといくのだ!",
+      "news_index": 0,
+      "start_sec": 13.81,
+      "end_sec": 18.2
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今朝は四本。録音を丸ごと読むAI、品薄になる安いグラボ、文章を書かないAI、それから千人で手分けするAIね。",
+      "news_index": 0,
+      "start_sec": 18.35,
+      "end_sec": 26.65
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "千人!? 朝からAIが大運動会してるのだ!?",
+      "news_index": 0,
+      "start_sec": 26.8,
+      "end_sec": 30.48
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "運動会はしないけど、走り回りはするわね。通勤のお供に、気楽に聴いてって。",
+      "news_index": 0,
+      "start_sec": 30.63,
+      "end_sec": 36.05
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "じゃあ一本目、いってみるのだ!",
+      "news_index": 0,
+      "start_sec": 36.2,
+      "end_sec": 38.36
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。チャットジーピーティーに、音声ファイルをそのまま渡せる機能が入ったの。",
+      "news_index": 1,
+      "start_sec": 38.51,
+      "end_sec": 43.52
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "音声ファイル? ボクの鼻歌を聴かせたら、曲名を当ててくれるってこと?",
+      "news_index": 1,
+      "start_sec": 43.67,
+      "end_sec": 48.72
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "鼻歌クイズじゃないわよ。会議や授業の録音を渡すと、文字に起こしたり、要点をまとめたりしてくれるの。",
+      "news_index": 1,
+      "start_sec": 48.87,
+      "end_sec": 55.38
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、文字起こし! 録音を聞き直しながら、ひたすら手で打つやつなのだ!",
+      "news_index": 1,
+      "start_sec": 55.53,
+      "end_sec": 60.24
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そう、あの地獄の作業ね。中身に質問もできるから、結局だれが何をやるんだっけ、って聞けば答えてくれるわ。",
+      "news_index": 1,
+      "start_sec": 60.39,
+      "end_sec": 67.92
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "会議で寝てても、あとで聞けばバレないのだ……!",
+      "news_index": 1,
+      "start_sec": 68.07,
+      "end_sec": 71.22
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "寝る前提で話さないの。それに、使えるのはお金を払ってる有料プランの人だけよ。",
+      "news_index": 1,
+      "start_sec": 71.37,
+      "end_sec": 76.74
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、無料のボクは門前払いなのだ!?",
+      "news_index": 1,
+      "start_sec": 76.89,
+      "end_sec": 79.75
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今のところはね。オープンエーアイ自身も、文字起こしには間違いが混じるし、言語によって精度が変わるって注意してるの。",
+      "news_index": 1,
+      "start_sec": 79.9,
+      "end_sec": 87.14
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ早口の日本語だと、空耳だらけの議事録になるかもってこと?",
+      "news_index": 1,
+      "start_sec": 87.29,
+      "end_sec": 92.07
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ありえるわね。要するに、録音から議事録までがチャット一つで済む時代の入口って話。",
+      "news_index": 1,
+      "start_sec": 92.22,
+      "end_sec": 97.96
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "授業の録音を投げて、ノートを作ってもらうのもアリなのだ。",
+      "news_index": 1,
+      "start_sec": 98.11,
+      "end_sec": 101.97
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "大事なところは、自分の耳で確かめてからにしなさいね。",
+      "news_index": 1,
+      "start_sec": 102.12,
+      "end_sec": 105.71
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目は、パソコン好きには痛い話。安いグラボが、これからもっと手に入りにくくなるかもって話よ。",
+      "news_index": 2,
+      "start_sec": 105.79,
+      "end_sec": 112.13
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "グラボって、パソコンで映像を描く専用の部品だっけ?",
+      "news_index": 2,
+      "start_sec": 112.28,
+      "end_sec": 116.43
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "正解。ゲームの絵をなめらかに動かす、映像担当の板ね。警告を出したのは、ゾタックなどのブランドを持つ、ピーシー パートナーって会社よ。",
+      "news_index": 2,
+      "start_sec": 116.58,
+      "end_sec": 125.46
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ブランドの親分が、自分で品薄宣言しちゃったのだ!",
+      "news_index": 2,
+      "start_sec": 125.61,
+      "end_sec": 129.28
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "決算の資料で、今年の後半は手ごろなグラボの品不足がもっとひどくなるって書いたの。原因はメモリ。",
+      "news_index": 2,
+      "start_sec": 129.43,
+      "end_sec": 136.14
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "メモリ? グラボの話なのに、なんでメモリが出てくるのだ?",
+      "news_index": 2,
+      "start_sec": 136.29,
+      "end_sec": 140.45
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "グラボにも、映像用のメモリが載ってるの。メモリメーカーがAI向けの高収益な製品を優先してて、グラボ向けのメモリが後回しになってるのよ。",
+      "news_index": 2,
+      "start_sec": 140.6,
+      "end_sec": 149.75
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "またAIなのだ!? AIがボクのグラボのおかずを横取りしてるのだ!",
+      "news_index": 2,
+      "start_sec": 149.9,
+      "end_sec": 154.38
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "言い方は雑だけど、だいたい合ってるわ。安いグラボは儲けが薄いから、部品の値上がりを吸収しきれないの。",
+      "news_index": 2,
+      "start_sec": 154.53,
+      "end_sec": 161.31
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "高いグラボは平気で、安いほうから先に苦しくなるってこと?",
+      "news_index": 2,
+      "start_sec": 161.46,
+      "end_sec": 165.89
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そういうこと。PCパートナーは、入門向けほど品不足が深刻になって、価格も上がりやすいと見てるの。",
+      "news_index": 2,
+      "start_sec": 166.04,
+      "end_sec": 173.06
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "初めての自作パソコン、一番安いグラボで組もうと思ってたのだ……。",
+      "news_index": 2,
+      "start_sec": 173.21,
+      "end_sec": 178.75
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "要するに、入門用のゲームパソコンほど予算は多めに見ておけってこと。欲しい型があるなら、値段を見ながら早めに決めるのも手ね。",
+      "news_index": 2,
+      "start_sec": 178.9,
+      "end_sec": 187.43
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "お年玉貯金、もうちょっとだけ太らせておくのだ。",
+      "news_index": 2,
+      "start_sec": 187.58,
+      "end_sec": 190.85
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目。アメリカのスタートアップ、タイプセーフ エーアイが作った、ジェヴっていうAIが話題なの。",
+      "news_index": 3,
+      "start_sec": 191.0,
+      "end_sec": 197.02
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ジェヴ? 新しいゆるキャラの名前なのだ?",
+      "news_index": 3,
+      "start_sec": 197.17,
+      "end_sec": 200.24
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "キャラじゃないわよ。売りは、文章を書かないAIってところ。",
+      "news_index": 3,
+      "start_sec": 200.39,
+      "end_sec": 204.05
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? AIって、しゃべってナンボじゃないのだ!?",
+      "news_index": 3,
+      "start_sec": 204.2,
+      "end_sec": 207.59
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "チャットのAIは、答えを文章で返すでしょ。ジェヴは文章を省いて、これは通す、これは怪しい、みたいな判断だけを返すの。",
+      "news_index": 3,
+      "start_sec": 207.74,
+      "end_sec": 216.4
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、作文じゃなくて、マルかバツだけ書くテストなのだ!",
+      "news_index": 3,
+      "start_sec": 216.55,
+      "end_sec": 220.2
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いい例えじゃない。余計な文章を書かないぶん、速くてずっと安く動くって、本人たちは言ってるわ。",
+      "news_index": 3,
+      "start_sec": 220.35,
+      "end_sec": 226.66
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、作ったのはどんな人たちなのだ?",
+      "news_index": 3,
+      "start_sec": 226.81,
+      "end_sec": 229.42
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "オープンエーアイ出身の研究者が立ち上げた会社。九月十五日に表に出てきたばかりで、そのときの値打ちは2億ドルくらいだったの。",
+      "news_index": 3,
+      "start_sec": 229.57,
+      "end_sec": 237.59
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "2億ドルでも、十分すごいのだ。",
+      "news_index": 3,
+      "start_sec": 237.74,
+      "end_sec": 240.09
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "それがね、十月九日に8億7千万ドルを調達して、評価額は75億ドルになったと正式発表したの。",
+      "news_index": 3,
+      "start_sec": 240.24,
+      "end_sec": 247.9
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "一か月足らずで37倍以上!? ボクのお小遣いが37倍になるまで、何十年待てばいいのだ!?",
+      "news_index": 3,
+      "start_sec": 248.05,
+      "end_sec": 255.12
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "お小遣いは待っても50倍にはならないわよ。ただし、九月の2億ドルという数字のほうは報道ベースで、会社が正式に発表した評価額じゃない点は覚えておいてね。",
+      "news_index": 3,
+      "start_sec": 255.27,
+      "end_sec": 265.49
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクたちの生活には、関係あるのだ?",
+      "news_index": 3,
+      "start_sec": 265.64,
+      "end_sec": 268.61
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "直接さわることは少なそう。会社の中で、大量の判断を黙々とさばく裏方向けね。",
+      "news_index": 3,
+      "start_sec": 268.76,
+      "end_sec": 274.8
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "無口な職人タイプのAIだね。ちょっとかっこいいのだ。",
+      "news_index": 3,
+      "start_sec": 274.95,
+      "end_sec": 279.08
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "要するに、AIがおしゃべり係と、黙って判断する係に分かれ始めたって話。",
+      "news_index": 3,
+      "start_sec": 279.23,
+      "end_sec": 285.06
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ラスト四本目。アンソロピックのクロードコードで、ダイナミック ワークフローっていう仕組みが使えるの。",
+      "news_index": 4,
+      "start_sec": 285.14,
+      "end_sec": 290.82
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "だいなみっく? 動きの激しいダンスの名前なのだ?",
+      "news_index": 4,
+      "start_sec": 290.97,
+      "end_sec": 294.69
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "踊らないってば。大きな仕事をクロードコードが細かく分けて、たくさんの分身AIに配る仕組みよ。",
+      "news_index": 4,
+      "start_sec": 294.84,
+      "end_sec": 300.77
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "分身! それが冒頭の千人なのだ!",
+      "news_index": 4,
+      "start_sec": 300.92,
+      "end_sec": 303.56
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう、一回の作業で最大千体まで呼び出せるの。同時に動くのは標準で最大十六体だけど、設定を変えれば最大二百五十六体まで増やせるわ。",
+      "news_index": 4,
+      "start_sec": 303.71,
+      "end_sec": 313.88
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "千人いても、教室に入れるのは十六人ずつってことなのだ。",
+      "news_index": 4,
+      "start_sec": 314.03,
+      "end_sec": 318.68
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "分かりやすいわね。分身が出した答えを、別の分身に疑わせて確かめ直す流れも組み込めるのがポイントなの。",
+      "news_index": 4,
+      "start_sec": 318.83,
+      "end_sec": 326.16
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、テストの答え合わせを、友達同士で交換してやるやつなのだ!",
+      "news_index": 4,
+      "start_sec": 326.31,
+      "end_sec": 330.95
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "まさにそれ。一人で全部読むより、手分けして読んだほうが見落としが減るって考え方ね。",
+      "news_index": 4,
+      "start_sec": 331.1,
+      "end_sec": 336.36
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも千人も動かしたら、お代がすごいことになりそうなのだ。",
+      "news_index": 4,
+      "start_sec": 336.51,
+      "end_sec": 340.54
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "鋭いわ。分身を増やすほどトークン消費が増えて、有料プランの利用枠を早く使い切ったり、API料金が高くなったりするの。",
+      "news_index": 4,
+      "start_sec": 340.69,
+      "end_sec": 349.62
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "千人雇ったら、お給料も千人分ってことなのだ。",
+      "news_index": 4,
+      "start_sec": 349.77,
+      "end_sec": 353.46
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに、AIが一人の助手から、チームの現場監督になってきたって話。今はクロードコードの全有料プランやAPIなどで使える、主に開発者向けの道具ね。",
+      "news_index": 4,
+      "start_sec": 353.61,
+      "end_sec": 364.09
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "いつかボクの夏休みの宿題も、分身千人で片付けたいのだー!",
+      "news_index": 4,
+      "start_sec": 364.24,
+      "end_sec": 369.17
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "宿題は一人でやりなさい。",
+      "news_index": 4,
+      "start_sec": 369.32,
+      "end_sec": 371.01
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "さて、今朝は四本。録音を読むチャットジーピーティー、品薄になる安いグラボ、黙って判断するジェヴ、千体の分身を動かすクロードコードだったわね。",
+      "news_index": 0,
+      "start_sec": 371.09,
+      "end_sec": 380.58
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "ボクは、グラボのおかず横取り事件が一番こたえたのだ……。",
+      "news_index": 0,
+      "start_sec": 380.73,
+      "end_sec": 385.6
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "自作派には、しばらく我慢の季節ね。",
+      "news_index": 0,
+      "start_sec": 385.75,
+      "end_sec": 388.28
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "AIが賢くなるほど、ボクのパソコン代が上がる仕組みってこと?",
+      "news_index": 0,
+      "start_sec": 388.43,
+      "end_sec": 392.97
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "それが今のテック業界の縮図かもね。聴いてくれてるかた、今日もいってらっしゃい。",
+      "news_index": 0,
+      "start_sec": 393.12,
+      "end_sec": 397.97
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "また明日のテック朝便で会うのだー!",
+      "news_index": 0,
+      "start_sec": 398.12,
+      "end_sec": 400.5
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 401.2,
+      "end_sec": 407.84
+    }
+  ],
+  "wall_time_sec": 11.16,
+  "audio_url": "/audio/ai/20261010_171227.mp3?v=1791662589"
+}
