@@ -169,8 +169,10 @@ type FeaturedGame = {
 type Profile = 'indie' | 'ai' | 'zatsugaku'
 const VALID_PROFILES: readonly string[] = ['indie', 'ai', 'zatsugaku']
 
-// タブ付きホームへの戻り先 (既定タブ = まとめ はクエリなし)
-const homeHref = (p: Profile): string => `/?profile=${p}`
+// 「← 戻る」の戻り先。2026-10-11 user 要望で、番組のジャンル別タブ (?profile=xxx)
+// ではなく常に「まとめ」一覧 (/) へ戻す。ジャンル別に戻るより全部混在の一覧の方が
+// 便利とのこと。引数は呼び出し側の互換のため残している。
+const homeHref = (_p: Profile): string => '/'
 
 type ProgramMeta = {
   profile: Profile
