@@ -1,0 +1,896 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-10-12T05:01:40+09:00",
+  "title": "見えない村から始まる旅 〜星をみるひと、伝説のクソゲーが見上げた空〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 489.16,
+  "script_hash": "sha256:74eb9263175888619a6fe487df3a11d1e875e0e22cdb2f846a3a18eb6b44c7e0",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 8.19
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "旅の道ラジオへようこそなのだー！ パーソナリティのずんだもんなのだ！",
+      "news_index": 0,
+      "start_sec": 8.19,
+      "end_sec": 12.34
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "今回はレトロゲーム回なのだ！",
+      "news_index": 0,
+      "start_sec": 12.42,
+      "end_sec": 14.56
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "またまた、あーしが担当するっすよー！ 今回のテーマは『星をみるひと』、1987年のファミコンRPGっす！",
+      "news_index": 0,
+      "start_sec": 14.71,
+      "end_sec": 22.43
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "星をみるひとって、天体観測のゲームなのだ？ 望遠鏡のコントローラーが付いてくるやつなのだ？",
+      "news_index": 0,
+      "start_sec": 22.58,
+      "end_sec": 29.93
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "先輩それガチ違うっす。天体観測のゲームじゃないし、望遠鏡も付いてこないっす。",
+      "news_index": 0,
+      "start_sec": 30.08,
+      "end_sec": 35.62
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "要するに、ファミコン史に残る伝説のクソゲーとして有名な一本っすね。",
+      "news_index": 0,
+      "start_sec": 35.7,
+      "end_sec": 40.11
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "えっ、いきなりクソゲー宣言なのだ!? 番組的に大丈夫なのだ？",
+      "news_index": 0,
+      "start_sec": 40.26,
+      "end_sec": 46.13
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "大丈夫っす！ クソゲーって言われつつ、世界観とBGMはガチで評価されてる愛され枠っすから！",
+      "news_index": 0,
+      "start_sec": 46.28,
+      "end_sec": 52.28
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "発売はホット・ビィっていうパブリッシャーで、開発はアナザーって会社っす。発売日は1987年10月27日とされていて、11月18日説もあるっす。",
+      "news_index": 1,
+      "start_sec": 52.36,
+      "end_sec": 63.25
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "発売日が二つあるのだ？ 誕生日を二回祝ってもらえるタイプのゲームなのだ。",
+      "news_index": 1,
+      "start_sec": 63.4,
+      "end_sec": 69.15
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "お祝いじゃないっす先輩。日付がはっきりしないっていう話っす。",
+      "news_index": 1,
+      "start_sec": 69.3,
+      "end_sec": 73.16
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "つまり発売日からしてミステリアスってことっす。",
+      "news_index": 1,
+      "start_sec": 73.24,
+      "end_sec": 76.02
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "値段は、ずんだ餅十個分くらいなのだ？ ボクのずんだ餅貯金で買えるのだ？",
+      "news_index": 1,
+      "start_sec": 76.17,
+      "end_sec": 82.23
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "定価は5300円っす。あーしの小学生時代のお年玉換算でも、ガチで無理なやつっす。",
+      "news_index": 1,
+      "start_sec": 82.38,
+      "end_sec": 88.34
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "ずんだ餅に換算したら、ボクのお腹が先に限界なのだ…",
+      "news_index": 1,
+      "start_sec": 88.49,
+      "end_sec": 94.3
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに、子どもにはなかなか大きな買い物だったってことっす。",
+      "news_index": 1,
+      "start_sec": 94.45,
+      "end_sec": 98.16
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "舞台は未来で、コンピュータに管理された巨大都市アークシティがあるっす。主人公は記憶を失ったサイキックの少年、みなみっす。",
+      "news_index": 1,
+      "start_sec": 98.24,
+      "end_sec": 106.15
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "みなみって、方角の名前なのだ。じゃあ仲間は、きたと、ひがしと、にしなのだ？",
+      "news_index": 1,
+      "start_sec": 106.3,
+      "end_sec": 112.43
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "先輩それ違うっす。仲間は、しば、みさ、あいねっす。",
+      "news_index": 1,
+      "start_sec": 112.58,
+      "end_sec": 116.76
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "東西南北パーティーじゃなかったのだ…",
+      "news_index": 1,
+      "start_sec": 116.91,
+      "end_sec": 119.41
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "つまり、超能力者の少年少女が管理都市の謎に挑むサイバーパンクRPGってことっす。1987年でこれはガチで攻めてるっす。",
+      "news_index": 1,
+      "start_sec": 119.56,
+      "end_sec": 128.38
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ファミコンでサイバーパンクって、ネオンの色が足りなそうなのだ！",
+      "news_index": 1,
+      "start_sec": 128.53,
+      "end_sec": 132.36
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "色数は少ないっすけど、その分だけ雰囲気が妙に刺さるんすよ。元は1984年にパソコンで出た『サイキックシティ』で、その続編にあたる作品っす。",
+      "news_index": 1,
+      "start_sec": 132.51,
+      "end_sec": 142.72
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "要するに、パソコン時代の超能力ワールドの流れをくむ作品ってことなのだ。",
+      "news_index": 1,
+      "start_sec": 142.87,
+      "end_sec": 147.98
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "hisohiso",
+      "text": "ここからガチで語らせてもらうっすけど…このゲーム、オープニング無しでいきなりフィールドに放り出されるっす。",
+      "news_index": 1,
+      "start_sec": 148.13,
+      "end_sec": 154.79
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "説明無しでいきなり本番なのだ？ ボクの苦手な抜き打ちテストと同じなのだ。",
+      "news_index": 1,
+      "start_sec": 154.94,
+      "end_sec": 159.91
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "抜き打ちテストより酷いっす。最初の村、まむすの村が画面に見えないっす。",
+      "news_index": 1,
+      "start_sec": 160.06,
+      "end_sec": 164.8
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "村が見えないって、どういうことなのだ!? 透明な村なのだ？",
+      "news_index": 1,
+      "start_sec": 164.95,
+      "end_sec": 170.25
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "スタート地点のすぐ左にあるのに、周りの森と見分けがつかないっす。超能力で外から見えないようにしてる、って設定らしいっす。",
+      "news_index": 1,
+      "start_sec": 170.4,
+      "end_sec": 178.34
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "要するに、プレイヤーからも見つからないくらい、隠れるのが上手すぎた村ってことっす。",
+      "news_index": 1,
+      "start_sec": 178.42,
+      "end_sec": 183.37
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "かくれんぼの世界チャンピオンなのだ…",
+      "news_index": 1,
+      "start_sec": 183.52,
+      "end_sec": 186.06
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "鬼が一生探しても見つからないレベルっす。ちなみに説明書に場所が書いてあるって説もあったんすけど、近年の検証では載ってないんじゃないかって話になってるっす。",
+      "news_index": 1,
+      "start_sec": 186.21,
+      "end_sec": 195.59
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "救いの手も無かったのだ!? 当時の子どもたち、どうやって見つけたのだ。",
+      "news_index": 1,
+      "start_sec": 195.74,
+      "end_sec": 199.98
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "そりゃもう、一歩ずつ歩き回るしかないっすよー。あーしも楽しかったっす、ぴーすぴーす！",
+      "news_index": 1,
+      "start_sec": 200.13,
+      "end_sec": 205.91
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "つむぎ、ちょっと様子が変なのだ…目が笑ってないのだ…",
+      "news_index": 1,
+      "start_sec": 206.06,
+      "end_sec": 209.62
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "そんなことないっすよ。あーしはいつも通りっすよー！",
+      "news_index": 1,
+      "start_sec": 209.77,
+      "end_sec": 212.97
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "次は移動速度っす。町の中の移動が、とにかくめっちゃ遅いんすよ。",
+      "news_index": 1,
+      "start_sec": 213.05,
+      "end_sec": 217.46
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "スローモーションなのだ？ 映画のクライマックスみたいでカッコいいのだ！",
+      "news_index": 1,
+      "start_sec": 217.61,
+      "end_sec": 222.26
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "カッコよくないっす、ただ遅いだけっす。動く歩道で一人だけ逆走してるみたいなノリっすね。",
+      "news_index": 1,
+      "start_sec": 222.41,
+      "end_sec": 228.1
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "要するに、主人公だけ重力が強い星に住んでるってことなのだ。",
+      "news_index": 1,
+      "start_sec": 228.25,
+      "end_sec": 232.65
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "で、戦闘には逃げるコマンドが無いっす。レベルアップで「てれぽーと」を覚えるまで、戦闘から抜け出せないっす。",
+      "news_index": 1,
+      "start_sec": 232.8,
+      "end_sec": 240.03
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "逃げないRPGなのだ！ 主人公、根性が座ってて立派なのだ！",
+      "news_index": 1,
+      "start_sec": 240.18,
+      "end_sec": 244.78
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "根性じゃなくて仕様っす、先輩。",
+      "news_index": 1,
+      "start_sec": 244.93,
+      "end_sec": 247.34
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "さらに素手だとダメージが毎回0から3のランダムで、レベルを上げても増えないっす。",
+      "news_index": 1,
+      "start_sec": 247.42,
+      "end_sec": 252.28
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "レベルを上げても強くならないのだ…？ ボクの三日坊主の筋トレと同じなのだ…",
+      "news_index": 1,
+      "start_sec": 252.43,
+      "end_sec": 259.54
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "先輩の筋トレは知らないっすけど、素手の攻撃に関してはそういう仕様ってことっす。",
+      "news_index": 1,
+      "start_sec": 259.69,
+      "end_sec": 264.85
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "リスナーの皆、素手でレベル上げは報われないのだ。覚えておくのだ。",
+      "news_index": 1,
+      "start_sec": 265.0,
+      "end_sec": 269.49
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "でもあーし、ゼロダメージ連発しながら戦うの、楽しかったっすよー。ぴーすぴーす！",
+      "news_index": 1,
+      "start_sec": 269.64,
+      "end_sec": 275.27
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "あと有名なのが「かりう」っす。敵が投げつけてきて、食らうと行動不能になるっす。",
+      "news_index": 1,
+      "start_sec": 275.35,
+      "end_sec": 281.07
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "かりうって、カレーうどんの略なのだ？ 服に飛んだら、たしかに行動不能なのだ。",
+      "news_index": 1,
+      "start_sec": 281.22,
+      "end_sec": 287.29
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "カレーうどんじゃないっす。正体ははっきりしなくて、ファンの間でいろんな説があるっす。",
+      "news_index": 1,
+      "start_sec": 287.44,
+      "end_sec": 292.45
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "つまり、正体不明なのに効き目だけはバッチリな謎の物体ってことっす。",
+      "news_index": 1,
+      "start_sec": 292.53,
+      "end_sec": 296.92
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "でも大丈夫なのだ、セーブしとけば何度でもやり直せるのだ！",
+      "news_index": 1,
+      "start_sec": 297.07,
+      "end_sec": 301.42
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "namidame",
+      "text": "先輩…セーブはパスワード式で、引き継がれない情報がけっこうあるっす。再開するとお金や経験値が減ることもあるっす。",
+      "news_index": 1,
+      "start_sec": 301.57,
+      "end_sec": 309.51
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "呪文を必死に書き写したのに、財布が軽くなるのだ!?",
+      "news_index": 1,
+      "start_sec": 309.66,
+      "end_sec": 314.28
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "さらに重要アイテムは地面に見えないっす。特定の場所を通ると手に入るんで、しらみつぶしに歩くしかないっす。",
+      "news_index": 1,
+      "start_sec": 314.43,
+      "end_sec": 321.11
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "遅い足で、見えない物を探して歩くのだ…これはもう修行なのだ…",
+      "news_index": 1,
+      "start_sec": 321.26,
+      "end_sec": 327.73
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "要するに、見えない村、見えないアイテム、見えない攻略法の三重苦っすね。",
+      "news_index": 1,
+      "start_sec": 327.88,
+      "end_sec": 333.02
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "つむぎ、また目が…",
+      "news_index": 1,
+      "start_sec": 333.17,
+      "end_sec": 334.72
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "あーしはいつも通りっすよー！ ピースっす！",
+      "news_index": 1,
+      "start_sec": 334.87,
+      "end_sec": 337.62
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ちなみに、こういう話でクラスのギャル友達と盛り上がったことは一度も無いっす。",
+      "news_index": 1,
+      "start_sec": 337.7,
+      "end_sec": 342.3
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "つむぎのギャル友達って、まむすの村みたいに見えない存在なのだ？",
+      "news_index": 1,
+      "start_sec": 342.45,
+      "end_sec": 347.48
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "shirake",
+      "text": "…先輩。",
+      "news_index": 1,
+      "start_sec": 347.63,
+      "end_sec": 348.45
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "な、なんでもないのだ…ごめんなさいなのだ…",
+      "news_index": 1,
+      "start_sec": 348.6,
+      "end_sec": 352.53
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "コホン。話戻すっすよ。",
+      "news_index": 1,
+      "start_sec": 352.68,
+      "end_sec": 354.56
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "ここからは愛の時間っす！ このゲーム、BGMと世界観はガチで評価が高いっす！",
+      "news_index": 1,
+      "start_sec": 354.64,
+      "end_sec": 360.04
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "クソゲーなのに音楽はいいのだ？ 料理は残念だけど、BGMだけおしゃれなお店みたいなのだ。",
+      "news_index": 1,
+      "start_sec": 360.19,
+      "end_sec": 366.44
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "それ、例えとしてはわりと正解っす。特にパスワード入力画面の曲が好きって人が多いっす。",
+      "news_index": 1,
+      "start_sec": 366.59,
+      "end_sec": 372.65
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "2013年にはホット・ビィ作品の音楽を集めたCDにも収録されてるっす。聴いたことないオタクくんは、ぜひ検索して聴いてみてほしいっす。",
+      "news_index": 1,
+      "start_sec": 372.73,
+      "end_sec": 381.43
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "パスワード画面の曲が人気なのだ！ 入力が遅いほど長く聴けてお得なのだ！",
+      "news_index": 1,
+      "start_sec": 381.58,
+      "end_sec": 387.29
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "ポジティブすぎっすよ先輩。でも要するに、遅さすら名曲を味わう時間に変わるってことっす。",
+      "news_index": 1,
+      "start_sec": 387.44,
+      "end_sec": 393.22
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "あと結末は最後の選択で分岐するマルチエンディングっす。中身はネタバレ厳禁なんで、自分の目で確かめてほしいっす。",
+      "news_index": 1,
+      "start_sec": 393.3,
+      "end_sec": 400.56
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "hisohiso",
+      "text": "見えない村の先に、ちゃんと結末が待ってるのだ…",
+      "news_index": 1,
+      "start_sec": 400.71,
+      "end_sec": 404.07
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そして朗報っす！ 2020年7月30日に、シティコネクションからスイッチ版が配信されたっす！",
+      "news_index": 1,
+      "start_sec": 404.22,
+      "end_sec": 410.62
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ついに村が見えるようになったのだ!?",
+      "news_index": 1,
+      "start_sec": 410.77,
+      "end_sec": 413.17
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "村の見えなさはそのままっす。でも移動速度2倍の「さいこうぉーく」とか、数秒間巻き戻せる「さいこりばーす」とか、助け舟が追加されてるっす。",
+      "news_index": 1,
+      "start_sec": 413.32,
+      "end_sec": 423.16
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "どこでもセーブ＆ロードできる「さいこめもりー」もあって、パスワード地獄からは解放されるっす。難易度は当時のまま、遊びやすさだけ足した感じっすね。",
+      "news_index": 1,
+      "start_sec": 423.24,
+      "end_sec": 432.82
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "要するに、ゲームは変えずに、プレイヤーの足腰だけ鍛えてくれたのだ。",
+      "news_index": 1,
+      "start_sec": 432.97,
+      "end_sec": 437.73
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "それなっす！ 990円で遊べるし、オタクくんの入門にちょうどいいっす！",
+      "news_index": 1,
+      "start_sec": 437.88,
+      "end_sec": 442.81
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "ボクも遊ぶのだ！ まずは村の場所を、ずんだ色のペンで地図に書き込むのだ！",
+      "news_index": 1,
+      "start_sec": 442.96,
+      "end_sec": 448.37
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "あーしはファミコン版で見えない村を探した日々、一生の思い出っすよー。ぴーすぴーす。",
+      "news_index": 1,
+      "start_sec": 448.52,
+      "end_sec": 454.1
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "その思い出、たぶんトラウマって呼ぶのだ…",
+      "news_index": 1,
+      "start_sec": 454.25,
+      "end_sec": 456.85
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "要するに、不親切さまで含めて語り継がれる、愛されたクソゲーってことっすね。",
+      "news_index": 1,
+      "start_sec": 457.0,
+      "end_sec": 461.92
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ボクも星をみるひとになるのだ。望遠鏡は付いてこないけど、見えない村を探す旅に出るのだ！",
+      "news_index": 1,
+      "start_sec": 462.07,
+      "end_sec": 469.08
+    },
+    {
+      "index": 84,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "先輩、まだ望遠鏡を引っ張ってるっす。オタクくん、気になったらスイッチ版から挑戦してみてほしいっす！",
+      "news_index": 1,
+      "start_sec": 469.23,
+      "end_sec": 475.78
+    },
+    {
+      "index": 85,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "また旅の道ラジオで会うのだー！",
+      "news_index": 1,
+      "start_sec": 475.93,
+      "end_sec": 478.04
+    },
+    {
+      "index": 86,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "また旅の道ラジオで会おうっす！",
+      "news_index": 1,
+      "start_sec": 478.19,
+      "end_sec": 480.16
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 480.86,
+      "end_sec": 489.16
+    }
+  ],
+  "wall_time_sec": 19.83,
+  "audio_url": "/audio/indie/20261012_050140.mp3?v=1791756163"
+}
