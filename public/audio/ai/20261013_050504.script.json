@@ -1,0 +1,575 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-10-12T20:05:04.970721+00:00",
+  "title": "信じすぎない朝 〜覚えてくれる有料AIと、テレビの箱に住む影〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "kamera",
+      "text": "おはようございます、旅の道ラジオ朝便、テックニュースの回。四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 通勤のお供に、今朝もサクッといくのだ!",
+      "news_index": 0,
+      "reading": "ボク、ずんだもんなのだー!つうきんのおともに、けさもサクッといくのだ!"
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今朝は五本。メタの新しいAIに、AIの値段と需要の話、論文サイトの投稿制限、それからテレビの箱とAIの話ね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "テレビの箱? リモコンの電池が切れた話なのだ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "電池の話なら一行で終わるわよ。最後は、マイクロソフトのトップの、AIを信じすぎるなって話で締めるわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "信じすぎるな! 朝からちょっとドキッとするテーマなのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。メタが十月十二日に、ミューズ ワンダーっていう新しいAIを出したの。メタにとって初めての、最前線クラスのAIって位置づけね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ワンダー? 不思議の国のアリスみたいな名前なのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "名前はファンタジーでも、中身はガチよ。売りの一つが、アクティブ メモリっていう記憶の仕組みなの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "きおく? AIって、話したことを覚えてないのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "これまでは会話が変わると、前の話を忘れがちだったの。アクティブ メモリは、会話をまたいで、こっちの事情を持ち越してくれるって。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "じゃあ、ボクの好きな枝豆の茹で時間も、ずっと覚えててくれるのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "覚えてくれるでしょうね。そのうち、茹ですぎ注意まで言ってくるかも。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、それってタダで使えるのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこが今回のポイント。ミューズでは、まず有料会員から使えるようになる予定なの。でもミューズ自体には無料枠もあって、有料プランは月20ドルと100ドルよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? メタって、インスタとかをタダで使わせてくれる会社じゃなかったのだ!?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "だから話題なのよ。ユーザーがお金を払ってくれるかの試金石、って見られてるわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "一番いいやつも、払えば使えるのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "上位版のワンダー フルは、ミューズ コードっていうサービスの有料会員だけ。外の開発者向けには提供しないそうよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "一番いいお肉は、会員制のお店でしか出さないってことなのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "うまいこと言うわね。要するに、無料枠を残しながら、高性能なAIを有料でも提供する戦略を強めてるって話よ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクたちには、どう関係あるのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "メタのアプリでAIを触ってる人は多いでしょ。これからは、無料と有料の線引きを、ちゃんと見ておいたほうがいいわね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "お財布と相談しながら、AIとお付き合いするのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目は、AIの値段と需要の話。エヌビディアのジェンスン・フアンさんが、ずっと推してる理屈があるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "エヌビディア! AIの計算を爆速でやるチップ、ジーピーユーの会社なのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "正解。フアンさんいわく、AIを使う値段が下がるほど、使う量がもっと増えるんだって。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "値段が下がったら、売上も下がるんじゃないのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "普通はそう思うわよね。AIの利用料は、トークンっていう文字のかたまりで数えるの。その単価が、どんどん安くなってるわけね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "安くなったら、エヌビディアは困っちゃうんじゃないのだ!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "逆なの。今まで高くて諦めてた使い道、たとえばずっと動き続けるAIや動画づくりまで回り始めて、チップがもっと要るって理屈ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、食べ放題が安くなったら、みんながおかわりしまくって、お店の仕入れが増えるやつなのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いい例えじゃない。経済学ではジェボンズのパラドックスって呼ぶの。昔、石炭を使う機械の効率が上がったら、石炭の消費がむしろ増えたって話ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "じぇぼんず……ぱらどっくす……朝から頭がぐるぐるするのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "名前は忘れていいわ。安くなると使う量はむしろ増える、これだけ覚えてね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも、そんなに使ったら、電気が足りなくならないのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこが弱点。データセンター、つまりAIを動かす巨大なコンピューター倉庫と電気が追いつかないと、頭打ちになるって見方もあるわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、ボクたちにはどう効くのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "AIの利用料は、これからも下がりやすいってこと。ただ、そのぶんチップや電気の取り合いは激しくなりそうね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "安くなるのは嬉しいのに、どこかで誰かが払ってる気がするのだ……。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目。研究者が論文を公開するサイト、アーカイブが、投稿の数に上限をかけたの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "アーカイブって、昔の番組をまとめて見られるやつだっけ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "録画じゃないわよ。専門家のチェック前の論文を、いち早く世界に公開できる場所。AIの新しい研究も、だいたいここに最初に出てくるの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、上限ってどれくらいなのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "十月一日から、一人あたり月2本まで。審査待ちにできるのも、同時に3本までね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "月2本!? ボクなんて、読書感想文を年に1本書くのも泣きそうなのに!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "普通の研究者なら、月2本でも十分多いのよ。問題は、AIで論文を量産する人たちね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "そんなに増えてるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今年の九月の投稿は4万363本。二年前の九月は2万569本だったから、ほぼ倍ね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "倍!? 研究者が急に二倍に増えたわけじゃないのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そう、増加にはAIツールも影響してるの。運営は、一部の人による大量投稿や、薄く細切れだったり、AIで読みにくく書かれたりした論文が、審査の負担を重くしてると説明してるわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "わかった! 図書館の新刊コーナーが、中身スカスカの本で埋まっちゃうやつなのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "まさにそれ。要するに、AIの洪水を前に、研究の入り口に柵を立てたって話ね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクたちには、どう関係あるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "ネットで見る、論文で証明されたって話の元ネタは、ここだったりするの。これからは、誰がちゃんと書いたかが、ますます大事になるわね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "論文って書いてあっても、一回深呼吸してから信じるのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四本目は、冒頭のテレビの箱。クロードを作ってるアンソロピックのダリオ・アモデイCEOが、九月にAIエージェント群とボットネットの将来リスクを警告したの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "テレビの箱って、テレビにつないで動画を見る、あの小さい箱のことだっけ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、ノーブランドの安いやつね。ただし警告の内容は、安いテレビ用の箱で小型AIが自己複製するという話じゃないの。六か月から十二か月後には、AIエージェント群が持続的なボットネットを作れるほど強くなるかもしれない、という見通しよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? 今あるテレビ用の箱のボットネットと、将来のAIの警告は別の話なのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "落ち着いて。実際に確認されているのは、安いテレビ用の箱がマルウェアに感染し、ボットネットの一部として悪用された事例なの。パラメータは、AIの頭の大きさの目安ね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "そのボットネットでは、テレビ用の箱がどんな悪用をされたのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "通信の中継や広告詐欺、それに大規模なサービス妨害攻撃なんかに使われたと報告されてるわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "カメさんより遅いAIなのだ。なら安心だね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "そこが油断ポイント。今あるボットネットの悪用と、将来AIエージェントが攻撃を自動化するリスクは、分けて考える必要があるのよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "乗っ取られた機械って、そんなにあるのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "別のセキュリティ調査では、ノーブランドのテレビ用の箱を多く含む、二百万台以上のキムウルフというボットネットが報告されてるわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "二百万台!? それ、どこに止めるボタンがあるのだ!?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "それが怖いところ。指令サーバーを止める対策はできるけど、感染源や代わりのインフラが残ると、また立て直されることがあるの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、雑草みたいに、抜いても抜いても別の場所から生えてくるやつなのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いい例えね。要するに、今ある機器のボットネット対策と、将来のAIエージェントのリスクを、それぞれ正確に見ておくことが大事って話よ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクたちは、何をすればいいのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "地味だけど、よく分からない激安の箱をネットにつなぎっぱなしにしないこと。家の機械の初期パスワードも、ちゃんと変えておいてね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "家の機械の戸締まり、今日帰ったらチェックするのだー!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ラスト五本目は硬めだから手短に。マイクロソフトのサティア・ナデラさんが十月十日に、エックスに長い文章を投稿したの。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ナデラさんって、マイクロソフトの一番偉い人だっけ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、最高経営責任者ね。中身は、すごく賢いAIは、会社の中の内部リスクとして扱え、っていう提言よ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "内部リスク!? AIをスパイ扱いするってこと!?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "悪者扱いじゃないわ。大事なシステムに触れる有能な存在は、人でもAIでも、ミスしたり乗っ取られたりしうるから、って理屈よ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、どうするのだ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "見張る仕組みは、AIの中じゃなくて外に置け、って。できることと、やっていい許可も、切り分けて管理しろって話ね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、新人さんが優秀でも、金庫の鍵は渡さないやつなのだ!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そういうこと。締めの言葉は、最も信頼できる超知能システムは、最も信頼しているモデルを載せたものではない、ってことね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ちょっと、かっこいい言い回しなのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "私たちに置き換えると、AIの答えは便利に使っても、最後の確認ボタンは自分で押す、ってことね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "信じすぎず、頼りすぎず、仲良くするのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今朝は五本。覚えてくれるメタの有料AI、安くなるほど増えるAIの需要、論文サイトの柵、テレビ用の箱を狙うボットネットと、将来のAIエージェントへの警告、そしてAIを信じすぎない仕組みの話だったわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ボクの持ち帰りは、家の機械の戸締まりなのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "一番実用的なところを拾ったわね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "気になった話があったら、各社の発表や記事をのぞいてみてほしいのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "聴いてくれてるかた、いってらっしゃい。また明日のテック朝便で会いましょう。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "いってらっしゃいなのだー!",
+      "news_index": 0
+    }
+  ],
+  "program_description": "旅の道ラジオ朝便、テックニュースの回。メタが初の最前線クラスAI『ミューズ ワンダー』を出し、会話をまたいで覚えてくれる記憶の仕組みと、有料プラン前提の売り方が話題に。エヌビディアのフアンさんが推す、AIの値段が下がるほど使う量が増えるという理屈を食べ放題で噛み砕き、論文公開サイトのアーカイブが投稿を月2本までに絞った理由も紹介。さらにアンソロピックの研究チームが警告した、安いテレビ用の箱の上でAIが広がるかもしれない話と、マイクロソフトのナデラさんの『AIは内部リスクとして扱え』という提言まで、通勤の合間に気軽に聴けるようにサクッとまとめた回です。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20261013_050504_chars.webp",
+    "hero_rel": "/images/topics/tech_20261013_050504.webp",
+    "title": "信じすぎない朝 〜覚えてくれる有料AIと、テレビの箱に住む影〜",
+    "companies": [
+      "Meta",
+      "NVIDIA",
+      "Microsoft",
+      "Claude"
+    ],
+    "thumbnail_ready": true
+  },
+  "summary_short": "メタが記憶を持つ有料AI「ミューズ ワンダー」を発表。AIは安くなるほど使われるというエヌビディアの理屈、安いテレビ箱へのAI拡散への警告、ナデラ氏の「内部リスク」提言までテック朝ニュースを一気に整理。",
+  "published_at": "2026-10-13T07:01:33+09:00"
+}
