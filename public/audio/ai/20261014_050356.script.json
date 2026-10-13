@@ -1,0 +1,502 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-10-13T20:03:56.671375+00:00",
+  "title": "店じまいの朝 〜売られる社内チャットと、毎日測られるAIの体調〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "welcome",
+      "text": "おはようございます、旅の道ラジオ朝便、テックニュースの回。四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝もテックの話題、サクッといくのだ!",
+      "news_index": 0,
+      "reading": "ボク、ずんだもんなのだー!けさもテックのわだい、サクッといくのだ!"
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今朝のキーワードは、店じまい。老舗の写真屋さんの再建と、潰れた会社の遺品セールの話があるわ。",
+      "news_index": 0,
+      "reading": "けさのキーワードは、みせじまい。しにせのしゃしんやさんのさいけんと、つぶれたかいしゃのいひんセールのはなしがあるわ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "遺品セール!? 朝から重すぎじゃん!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "安心して、湿っぽくはしないから。AIの体調チェックと、イギリス議会の話も入れて5本ね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "AIにも体調があるのだ? そこ気になるから、早く行くのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。写真素材の大手、ゲッティ イメージズが十月十二日に、破産手続きを使って会社を立て直す計画を発表したの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "げってぃ? 写真素材って、なんなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ニュースサイトや広告で使う写真を、お金を払って借りられる巨大な倉庫ね。記事の横にある、握手してるスーツの人の写真とか。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、やたら笑顔で会議してる、あの人たちの家なのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "その人たちの実家ね。で、その実家の売り上げを、AIが静かに削ってきたって見られてるの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "AIで好きな絵を作れるなら、わざわざ借りなくていいってことじゃん?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そういうこと。しかもライバルのシャッターストックとの、約37億ドルの合併も、イギリス当局の条件を受けて六月末に進めないと決め、七月に正式に流れちゃったのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "37億ドル!? ボクのお年玉を何万年貯めても届かない結婚話が、破談なのだ!?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "会社の合併を結婚って言わないの。九月末には、ニューヨーク証券取引所での売買も止められたわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "じゃあ、ゲッティはもう店じまいなのだ……?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そこは違うわ。創業家と投資会社が最大5億3,300万ドルの出資を約束してて、株式市場から降りて立て直すって話。営業もふだん通り続けるそうよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "閉店じゃなくて、一回シャッター半分おろして改装中ってことなのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いい例えね。要するに、AIが本当に古い商売の財布を直撃し始めた、分かりやすい一例って話。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクたちが見るネット記事の写真も、そのうちAIで作った絵ばっかりになるのかもなのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目は、冒頭で言った遺品セール。潰れたスタートアップの社内チャットやメールが、AIの会社に売られてるって話なの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? 社内チャットって、上司の悪口とかも入ってるやつなのだ!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "悪口前提で話さないの。スラックっていう仕事用チャットや、仕事の進み具合を管理する道具の記録ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "そんなの買って、AIは何に使うのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "AIエージェント、つまり人の代わりに作業するAIの練習台よ。本物の会社のやり取りを再現した、職場シミュレーターみたいなのを作るの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "わかった! AIの新人研修に、昔の会社の日報を読ませるってことじゃん!",
+      "news_index": 2,
+      "reading": "わかった!AIのしんじんけんしゅうに、むかしのかいしゃのにっぽうをよませるってことじゃん!"
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "かなり近いわ。ネットに公開されてる文章は、もうAIがほとんど読み尽くしちゃったから、生々しい仕事の記録が貴重になってるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、いくらで売れるのだ? 中古の古本くらいなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "会社の店じまいを手伝うシンプルクロージャーって会社が、この一年で約100件仲介して、1件あたり1万から10万ドルくらいって報じられてるわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "10万ドル!? ボクのスマホのトーク履歴も、売ったら豪遊できるのだ!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "個人のスタンプ連打には値段つかないわよ。それに、働いてた人や取引先の個人情報が、本人の知らないうちに使われるって批判も出てるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "仲介の会社は、そこどうしてるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "売る前に個人情報を消してるって説明ね。ただ、同意をどう取るかの線引きはまだこれから、って段階だわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "つまり、会社で書いた何気ない一言が、いつかAIの教科書になるかもってことなのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そういうこと。仕事のチャットは、未来の誰かに読まれる前提で書いとくのが無難ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目はハードの話。マイクロソフトが、自分で設計したAIチップ、マイアを大量に作ろうとしてるって報じられたの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "マイア? マイクロソフトの、新しいマスコットキャラなのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "キャラじゃなくてチップよ。AIの計算を専門にやる、頭脳の部品ね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "AIのチップって、エヌビディアが作ってるんじゃなかったのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今はほぼそうね。でも高いし足りないから、大手は自前で作りたいの。新型マイア スリーハンドレッドを30万個以上作れる枠を、台湾のティーエスエムシーと話し合ってるそうよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ティーエスエムシー? それも聞いたことあるけど、何屋さんなのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "設計図を受け取って、チップを実際に作る工場の最大手よ。マイクロソフトは設計だけして、製造はお任せなの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "30万個!? ボクの消しゴムコレクションの何万倍なのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "比べる相手が小さすぎるわ。しかも最終的には、電気をギガワット単位で食う規模まで作りたいらしいの。大型の原子炉なら数基ぶんに近い電力ね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "チップのために発電所一個!? AIって大食いすぎるのだ!",
+      "news_index": 3,
+      "reading": "チップのためにはつでんしょいっこ!?AIっておおぐいすぎるのだ!"
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "グーグルやアマゾンも自前チップを作ってるし、要するに、エヌビディア一社に頼りきりは怖いって話。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクたちには、どう関係あるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "AIを動かす原価が下がれば、普段使うAIサービスの値上げを抑える方向に効くかもね。ただし効いてくるのは数年単位よ。",
+      "news_index": 3,
+      "reading": "AIをうごかすげんかがさがれば、ふだんつかうAIサービスのねあげをおさえるほうこうにきくかもね。ただしこういてくるのはすうねんたんいよ。"
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四本目は軽めよ。冒頭で言った、AIの体調チェックの話。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "待ってたのだ! AIも朝、体温を測るのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ある意味そうね。発売後のAIが、こっそり弱くなってないかを毎日測る、個人のオープンソースプロジェクトがあるの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "弱くなる? AIって、勝手に疲れるのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "疲れはしないわ。でも、出たばかりの頃は賢かったのに最近おバカになった、って声は前からよくあるのよ。ゲームで強いキャラが弱く調整される、ナーフって言葉から来てるの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "あー、推しキャラが修正パッチで弱くなる、あの悲しいやつなのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。このプロジェクトは九月二十四日から、クロード オーパス ごーてんごに、毎日同じ問題セットを解かせて点数を記録してるの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "毎日おんなじ小テスト! 抜き打ちの体力測定なのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "まさに体力測定。今までは感覚の話だったのが、グラフで見えるようになるのがポイントね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも点が下がったら、会社がわざと弱くしたってバレるのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこまでは言い切れないわ。下がったっていう合図は出せても、理由までは外からだと分からないの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "健康診断でも、数値が悪いのは分かっても原因は再検査なのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "その通り。最近AIの調子悪いかも、って感じた時に、自分の気のせいか確かめる材料が増えるのは、使う側にはうれしい話ね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ラスト五本目は硬めだから手短に。十月十三日、イギリス議会の委員会に、大手AI企業4社が呼ばれたの。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "呼び出し!? 職員室に行くやつなのだ!?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "お説教じゃなくて公聴会よ。議員さんが、強すぎるAIをどう見張るか質問する場ね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、AIの会社はなんて答えたのだ? 自由にさせて、って?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "それが逆なの。オープンエーアイとアンソロピックは、いちばん強いAIには法律で縛るルールが必要だって、支持する側に回ったの。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? 自分から校則を増やしてって言う生徒なのだ!?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "いい例えね。ただ4社の間には温度差があって、どこまで縛るかでは意見が割れたって報じられてるわ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "先にルールを作る側に回れば、自分に有利にできるかもってことなのだ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "鋭いじゃない。そういう見方もあるわね。各社は、公開前のAIをイギリスの安全研究所に見せることにも、法的に問題ない範囲でおおむね前向きだったそうよ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクたちの毎日には、どう効くのだ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "すぐには変わらないわ。でも、新しいAIが出る前に国が試験する流れが固まれば、ボクたちの手元に届くAIの安心感は上がるかもね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "あ、めたん今、ボクって言ったのだ!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "あなたの口癖がうつったのよ。私たちの手元、に訂正しとくわ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "今朝は、店じまいと、売られるチャットと、AIの体調チェックの朝だったのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "まとめるわね。AIが写真の老舗を揺らして、潰れた会社のチャットが教科書になって、自前チップ競争と、ルール作りも同時に進んでるって話。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ボクは今日から、仕事のチャットは丁寧に書くことにするのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "それが一番の収穫かもね。聴いてくれてるかた、いってらっしゃい。気になった話は、各社の発表や報道をのぞいてみてね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "また次のテック朝便で会うのだー!",
+      "news_index": 0
+    }
+  ],
+  "program_description": "朝のテック話題をサクッと5本。写真素材の老舗ゲッティ イメージズが、破産手続きを使った再建と非公開化の計画を発表した話。廃業したスタートアップの社内チャットやメールが、AIの練習用データとして売り買いされている話。マイクロソフトが自社設計のAIチップ、マイア スリーハンドレッドの生産を大きく増やそうとしているという報道。AIが発売後にこっそり弱くなっていないかを、毎日同じ問題で測り続ける個人プロジェクト。そしてイギリス議会の公聴会で、オープンエーアイとアンソロピックが拘束力のあるルールを支持した話まで。AIが古い商売を揺らし、新しい商売を生み、その手綱をどう握るかが見えてくる回です。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20261014_050356_chars.webp",
+    "hero_rel": "/images/topics/tech_20261014_050356.webp",
+    "title": "店じまいの朝 〜売られる社内チャットと、毎日測られるAIの体調〜",
+    "companies": [
+      "Microsoft",
+      "Claude",
+      "OpenAI",
+      "NVIDIA",
+      "TSMC",
+      "Amazon"
+    ]
+  },
+  "summary_short": "ゲッティの破産再建、売られる廃業企業の社内チャット、毎日測られるAIの体調、英国公聴会でのAI大手のルール支持まで。AIが古い商売を揺らし新しい商売を生む today の動きと、その手綱の握り方が見える朝のテック5本です。",
+  "published_at": "2026-10-14T07:01:57+09:00"
+}
