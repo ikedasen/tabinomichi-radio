@@ -1,0 +1,796 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-10-15T05:04:22+09:00",
+  "title": "自炊するAIの朝 〜ノートに住む頭脳と、抜け殻になった友だちアプリ〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 450.35,
+  "script_hash": "sha256:07d1ae7bd5cc0f3c79a5cf542e0668a074f6e98353ac7502755cf9287e54abcf",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 9.59
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便、テックの話題をサクッと回す回よ。四国めたんです。",
+      "news_index": 0,
+      "start_sec": 9.59,
+      "end_sec": 15.85
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝も通勤のおともに、軽くいくのだ!",
+      "news_index": 0,
+      "start_sec": 16.0,
+      "end_sec": 20.51
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今朝は四本。ノートパソコンに住むAI、自分の言葉で育てるフェイスブック、売り先を探すAIの友だちアプリ、それからAIの答えの丸写し対策ね。",
+      "news_index": 0,
+      "start_sec": 20.66,
+      "end_sec": 30.71
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "AIの友だちが売り先探し? 友だちって、閉店するものなのだ?",
+      "news_index": 0,
+      "start_sec": 30.86,
+      "end_sec": 36.04
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "今回は、会社が売り先を探してるのよ。順番に行くわ。",
+      "news_index": 0,
+      "start_sec": 36.19,
+      "end_sec": 40.26
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "了解! 一本目からどうぞなのだ!",
+      "news_index": 0,
+      "start_sec": 40.41,
+      "end_sec": 42.92
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。アメリカのリキッド エーアイって会社が十月十三日に、ノートパソコンで動かせる新しいAIを公開したの。",
+      "news_index": 1,
+      "start_sec": 43.07,
+      "end_sec": 50.73
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ノートパソコンで? AIって、遠くの巨大なコンピューターで動いてるんじゃないのだ?",
+      "news_index": 1,
+      "start_sec": 50.88,
+      "end_sec": 56.68
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "普段はね。チャットのAIは、データセンターっていうサーバーの巨大倉庫に質問を飛ばして、答えを返してもらってるの。",
+      "news_index": 1,
+      "start_sec": 56.83,
+      "end_sec": 63.97
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "出前みたいなものじゃん! 注文して、届くのを待つやつ!",
+      "news_index": 1,
+      "start_sec": 64.12,
+      "end_sec": 67.77
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いい例えじゃない。今回のは、自宅のキッチンで作れる自炊版のAIって感じ。",
+      "news_index": 1,
+      "start_sec": 67.92,
+      "end_sec": 73.07
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも、そんな大きい頭脳、ノートパソコンに入りきるってこと?",
+      "news_index": 1,
+      "start_sec": 73.22,
+      "end_sec": 77.45
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこが工夫。中には二百四十億個の部品があるけど、一回に働くのは二十億個くらいだけなの。",
+      "news_index": 1,
+      "start_sec": 77.6,
+      "end_sec": 84.36
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "残りの二百二十億個は、サボってるのだ!?",
+      "news_index": 1,
+      "start_sec": 84.51,
+      "end_sec": 87.62
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "サボりじゃなくて待機よ。処理の各段階に六十四の専門部分があって、言葉の切れ端ごとに四つだけ選んで動かす仕組みね。",
+      "news_index": 1,
+      "start_sec": 87.77,
+      "end_sec": 95.51
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "全員集合じゃなくて、担当だけ呼ぶのだ。掃除当番より効率いいのだ。",
+      "news_index": 1,
+      "start_sec": 95.66,
+      "end_sec": 101.53
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "速さも売りで、最新の高性能マックブックなら一秒に百八十四トークン。トークンは、文章を細かく刻んだ切れ端のことね。",
+      "news_index": 1,
+      "start_sec": 101.68,
+      "end_sec": 109.99
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "一秒で百八十四切れ!? ボクの早口言葉より速いじゃん!",
+      "news_index": 1,
+      "start_sec": 110.14,
+      "end_sec": 114.44
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "しかも、ネットにつながず手元で動くから、会話の中身が外に出ないらしいわ。",
+      "news_index": 1,
+      "start_sec": 114.59,
+      "end_sec": 119.34
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ナイショの相談も、パソコンの中だけで済むのだね。",
+      "news_index": 1,
+      "start_sec": 119.49,
+      "end_sec": 123.17
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ただ、その速さは会社が測った数字で、高いマシンでの話。普通のノートだと、まだ厳しいかな。",
+      "news_index": 1,
+      "start_sec": 123.32,
+      "end_sec": 130.2
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "ボクの古いノートパソコンじゃ、自炊どころかお湯も沸かないのだ……。",
+      "news_index": 1,
+      "start_sec": 130.35,
+      "end_sec": 136.04
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに、AIは出前から自炊にも広がり始めたってこと。数年後のパソコン選びは、AIが動くかどうかが基準になりそうね。",
+      "news_index": 1,
+      "start_sec": 136.19,
+      "end_sec": 144.71
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "次のパソコンは、メモリ多めで選ぶのだ! じゃあ次!",
+      "news_index": 1,
+      "start_sec": 144.86,
+      "end_sec": 148.48
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目は軽めよ。メタが十月十三日に、フェイスブックにユア アルゴリズムっていう機能を入れたの。",
+      "news_index": 2,
+      "start_sec": 148.63,
+      "end_sec": 154.75
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "あるごりずむ? 魔法使いの呪文なのだ?",
+      "news_index": 2,
+      "start_sec": 154.9,
+      "end_sec": 158.06
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "呪文じゃないわ。どの投稿をあなたに見せるか決める、並べ方のルールのことよ。",
+      "news_index": 2,
+      "start_sec": 158.21,
+      "end_sec": 162.93
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、気づいたら猫動画ばっかり流れてくる、あれの犯人なのだ!",
+      "news_index": 2,
+      "start_sec": 163.08,
+      "end_sec": 167.46
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "犯人呼ばわりはともかく、そう。今までは、何を見たか、何を押したかで勝手に決めてたの。",
+      "news_index": 2,
+      "start_sec": 167.61,
+      "end_sec": 173.61
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "今度は何が変わるのだ?",
+      "news_index": 2,
+      "start_sec": 173.76,
+      "end_sec": 175.69
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "見たい話題を、自分の言葉で伝えられるの。料理の動画をもっと、みたいにね。",
+      "news_index": 2,
+      "start_sec": 175.84,
+      "end_sec": 180.79
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? アルゴリズムに直接お願いできちゃうのだ!?",
+      "news_index": 2,
+      "start_sec": 180.94,
+      "end_sec": 184.34
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。興味なしを押すと、どうして? って聞き返されることもあって、文章で理由を答えられるわ。",
+      "news_index": 2,
+      "start_sec": 184.49,
+      "end_sec": 190.67
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "猫は好き、でも毎日百匹はいらない、って書けるのだ。",
+      "news_index": 2,
+      "start_sec": 190.82,
+      "end_sec": 195.37
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "その文章を読み取るのが、エルエルエム。ようは、言葉を扱うAIの頭脳ね。",
+      "news_index": 2,
+      "start_sec": 195.52,
+      "end_sec": 200.74
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "AIが、ボクの気分を聞いてくれる時代なのだ……。",
+      "news_index": 2,
+      "start_sec": 200.89,
+      "end_sec": 204.41
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "しかも、使ってるその場ですぐ反映されるらしいわ。インスタグラムでは、去年の十二月に先に始まってた機能よ。",
+      "news_index": 2,
+      "start_sec": 204.56,
+      "end_sec": 211.97
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "いいことずくめじゃん。",
+      "news_index": 2,
+      "start_sec": 212.12,
+      "end_sec": 213.45
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "書いた文章がどう扱われるかは、まだはっきりしてないの。自分の好みを、自分から差し出してるのは忘れないで。",
+      "news_index": 2,
+      "start_sec": 213.6,
+      "end_sec": 220.37
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "要するに、おすすめのハンドルを少し返してもらえるけど、メモは見られてるってことなのだ。",
+      "news_index": 2,
+      "start_sec": 220.52,
+      "end_sec": 226.1
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "完璧な要約ね。疲れる投稿が多い人は、一度いじってみる価値ありだわ。",
+      "news_index": 2,
+      "start_sec": 226.25,
+      "end_sec": 231.33
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目。AIのキャラとおしゃべりできるアプリ、キャラクター エーアイの運営会社が、十月十二日にアメリカで破産手続きを申し立てたの。",
+      "news_index": 3,
+      "start_sec": 231.41,
+      "end_sec": 239.94
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? 好きなキャラとチャットできる、あのアプリなのだ!?",
+      "news_index": 3,
+      "start_sec": 240.09,
+      "end_sec": 243.57
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それ。チャプター イレブンっていう、会社を動かしながら売り先を探す仕組みね。",
+      "news_index": 3,
+      "start_sec": 243.72,
+      "end_sec": 248.32
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "動かしながら? 閉店セール中なのに、お店は開いてるってこと?",
+      "news_index": 3,
+      "start_sec": 248.47,
+      "end_sec": 253.25
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "近いわね。当面サービスは続くけど、引き取り手が見つからなければ、最後は閉じる可能性もあるらしいわ。",
+      "news_index": 3,
+      "start_sec": 253.4,
+      "end_sec": 260.04
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "推しキャラとの思い出が、消えちゃうかもなのだ……。",
+      "news_index": 3,
+      "start_sec": 260.19,
+      "end_sec": 263.94
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "最初に手を挙げたのはディズニーで、2,000万ドル。ただ、対象は一部の知的財産を使う非独占の永久ライセンスなどで、ユーザーのデータやアプリそのものは含まれないって報道よ。",
+      "news_index": 3,
+      "start_sec": 264.09,
+      "end_sec": 275.82
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "2,000万ドル!? ボクのお年玉を何千年ためたら届くのだ!",
+      "news_index": 3,
+      "start_sec": 275.97,
+      "end_sec": 280.03
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "計算しなくていいわ。むしろ注目は、2024年にグーグルが約27億ドルの契約で、創業者たちを迎え入れてたことね。",
+      "news_index": 3,
+      "start_sec": 280.18,
+      "end_sec": 288.46
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "27億ドルも動いたのに、なんで潰れちゃうのだ?",
+      "news_index": 3,
+      "start_sec": 288.61,
+      "end_sec": 292.33
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "会社ごと買ったんじゃなくて、創業者たちの移籍と技術ライセンスの契約だったの。その後もサービスは続いたけど、高い開発費や訴訟などが重荷になったわけ。",
+      "news_index": 3,
+      "start_sec": 292.48,
+      "end_sec": 302.66
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "屋台の大将だけ引き抜かれて、屋台だけ道に残された感じなのだ……。",
+      "news_index": 3,
+      "start_sec": 302.81,
+      "end_sec": 309.56
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "比喩としては満点。売却は、十一月末から十二月の頭にかけて決める見込みらしいわ。",
+      "news_index": 3,
+      "start_sec": 309.71,
+      "end_sec": 315.72
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、ボクたちに関係あるのは、どこなのだ?",
+      "news_index": 3,
+      "start_sec": 315.87,
+      "end_sec": 319.09
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "AIの友だちアプリは、会社が消えたら会話も消えるかもってこと。大事なやり取りは、自分で控えておくのが安全ね。",
+      "news_index": 3,
+      "start_sec": 319.24,
+      "end_sec": 326.72
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "推しとの思い出は、自分でバックアップなのだ!",
+      "news_index": 3,
+      "start_sec": 326.87,
+      "end_sec": 329.79
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ラスト四本目は硬めだから手短に。アンソロピックが十月十二日に、クロードから蒸留攻撃で抜き取られるデータ量が、初期の分析では九割から九割九分ほど減ったって発表したの。",
+      "news_index": 4,
+      "start_sec": 329.94,
+      "end_sec": 341.54
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "抜き取る? AIの答えって、聞けば誰でももらえるんじゃないのだ?",
+      "news_index": 4,
+      "start_sec": 341.69,
+      "end_sec": 346.37
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "一回ならね。問題は蒸留っていうやり方。他社のAIに大量に質問して、その答えで自分のAIを鍛えて、能力をコピーするのよ。",
+      "news_index": 4,
+      "start_sec": 346.52,
+      "end_sec": 355.86
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、優等生のノートを丸写しして、テストに挑むやつじゃん!",
+      "news_index": 4,
+      "start_sec": 356.01,
+      "end_sec": 360.29
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "まさにそれ。特に狙われてたのが、答えにたどり着くまでの、考えてる途中の部分。",
+      "news_index": 4,
+      "start_sec": 360.44,
+      "end_sec": 365.68
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "答えだけじゃなくて、途中式まで写してたのだ!?",
+      "news_index": 4,
+      "start_sec": 365.83,
+      "end_sec": 369.05
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "アンソロピックは九月の報告で、中国のAI企業などが偽アカウントを大量に作ってたって指摘してたわ。",
+      "news_index": 4,
+      "start_sec": 369.2,
+      "end_sec": 375.95
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "どうやって止めたのだ?",
+      "news_index": 4,
+      "start_sec": 376.1,
+      "end_sec": 377.74
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "途中の考えを持ち出しにくくして、怪しい使い方を見抜く仕組みも入れたの。関係するアカウントは、数万単位で止めたらしいわ。",
+      "news_index": 4,
+      "start_sec": 377.89,
+      "end_sec": 385.76
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "数万!? クラス全員どころか、町ひとつ分の偽者じゃん!",
+      "news_index": 4,
+      "start_sec": 385.91,
+      "end_sec": 390.1
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ただ、まともな開発者にも手間が増えたことは認めてるわ。九割って数字も、会社自身の見積もりね。",
+      "news_index": 4,
+      "start_sec": 390.25,
+      "end_sec": 397.02
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "要するに、AIの頭の中身が、盗まれる宝物になってきたってことなのだ。",
+      "news_index": 4,
+      "start_sec": 397.17,
+      "end_sec": 402.5
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "その通り。普段使いへの影響は小さいけど、守りが固くなるほど、使いやすさとの綱引きは続きそうね。",
+      "news_index": 4,
+      "start_sec": 402.65,
+      "end_sec": 409.89
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "今朝はここまでなのだ!",
+      "news_index": 0,
+      "start_sec": 410.04,
+      "end_sec": 411.55
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ノートで動く自炊AI、自分の言葉で育てるフェイスブック、売り先を探しているAI友だちアプリ、それから答えの丸写し対策。四本だったわね。",
+      "news_index": 0,
+      "start_sec": 411.7,
+      "end_sec": 421.82
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ボクは自炊AIが一番気になったのだ。パソコン貯金、始めるのだ!",
+      "news_index": 0,
+      "start_sec": 421.97,
+      "end_sec": 427.35
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "その前に、お年玉で何千年って計算するのをやめなさい。",
+      "news_index": 0,
+      "start_sec": 427.5,
+      "end_sec": 431.32
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "えへへ、気をつけるのだ。",
+      "news_index": 0,
+      "start_sec": 431.47,
+      "end_sec": 433.26
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "聴いてくれてるかた、いってらっしゃい。気になった話は、各社の発表をのぞいてみてね。",
+      "news_index": 0,
+      "start_sec": 433.41,
+      "end_sec": 438.82
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "また明日のテック朝便で会うのだー!",
+      "news_index": 0,
+      "start_sec": 438.97,
+      "end_sec": 441.35
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 442.05,
+      "end_sec": 450.35
+    }
+  ],
+  "wall_time_sec": 12.64,
+  "audio_url": "/audio/ai/20261015_050422.mp3?v=1792015387"
+}
