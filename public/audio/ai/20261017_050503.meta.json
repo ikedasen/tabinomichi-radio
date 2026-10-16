@@ -1,0 +1,916 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-10-17T05:05:03+09:00",
+  "title": "AIの手が伸びる朝 〜ブラウザの合鍵と、先生に赤ペンを入れた物理AI〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 574.85,
+  "script_hash": "sha256:730f42061e5659525c6ccf7e6806f4f260b90111120e4e2d127c3dc5f4954632",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 8.19
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kamera",
+      "text": "おはようございます、旅の道ラジオ朝便。四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 8.19,
+      "end_sec": 12.26
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝もテックの話、サクッと五本いくのだ!",
+      "news_index": 0,
+      "start_sec": 12.41,
+      "end_sec": 17.13
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今朝のテーマは、AIの手が伸びてくる朝。ブラウザの中にも、物理の宿題にも、ニュースサイトにも入り込んでくるの。",
+      "news_index": 0,
+      "start_sec": 17.28,
+      "end_sec": 24.77
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "手が伸びる? AIに腕なんか生えてたっけ?",
+      "news_index": 0,
+      "start_sec": 24.92,
+      "end_sec": 28.31
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "生えてないわよ。でも勝手にクリックしたり、記事を持っていったりはできるようになってきたって話。",
+      "news_index": 0,
+      "start_sec": 28.46,
+      "end_sec": 34.04
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "腕なしでクリック!? それ、ちょっとホラーじゃん!",
+      "news_index": 0,
+      "start_sec": 34.19,
+      "end_sec": 37.2
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "あと一本、財布に痛い話もあるわ。じゃあ順番にいくわね。",
+      "news_index": 0,
+      "start_sec": 37.35,
+      "end_sec": 41.43
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。オープンエーアイが十月十五日に、チャットジーピーティーのクローム用の拡張機能を大きく更新したの。",
+      "news_index": 1,
+      "start_sec": 41.51,
+      "end_sec": 48.66
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "かくちょうきのう? ブラウザに付ける、おまけアプリみたいなやつだっけ?",
+      "news_index": 1,
+      "start_sec": 48.81,
+      "end_sec": 53.48
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そう、それ。グーグルのクロームに後から足す、小さな追加パーツね。",
+      "news_index": 1,
+      "start_sec": 53.63,
+      "end_sec": 58.3
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、その追加パーツの何が変わったのだ?",
+      "news_index": 1,
+      "start_sec": 58.45,
+      "end_sec": 61.35
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "開いてるタブを、チャットジーピーティーがまとめて読めるようになったの。商品ページを三つ開いて、どれが安いか比べて、って頼めるわけ。",
+      "news_index": 1,
+      "start_sec": 61.5,
+      "end_sec": 69.7
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ! いちいちコピペして貼り付けてた、あの作業がいらなくなるのだ!",
+      "news_index": 1,
+      "start_sec": 69.85,
+      "end_sec": 74.35
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "それだけじゃないわ。ワークっていう作業モードだと、タブを操作して、フォームを埋めたりメッセージを送ったりまでするのよ。",
+      "news_index": 1,
+      "start_sec": 74.5,
+      "end_sec": 81.47
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? ボクの代わりに、勝手にボタンを押しちゃうのだ!?",
+      "news_index": 1,
+      "start_sec": 81.62,
+      "end_sec": 85.21
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "勝手じゃなくて、頼んだらね。ただ、ログイン済みのサイトでも動けるから、メールや仕事の画面も触れちゃうの。",
+      "news_index": 1,
+      "start_sec": 85.36,
+      "end_sec": 92.24
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "じゃあボクの宿題の提出フォームも、AIが出してくれるってことじゃん?",
+      "news_index": 1,
+      "start_sec": 92.39,
+      "end_sec": 97.54
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "提出はできても、中身は自分で書きなさい。それに怖いのは、ページの中に悪い命令文が仕込まれてるケースね。",
+      "news_index": 1,
+      "start_sec": 97.69,
+      "end_sec": 104.7
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "悪い命令文? 看板に、この人の財布を開けろって書いてあるみたいな?",
+      "news_index": 1,
+      "start_sec": 104.85,
+      "end_sec": 110.16
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "まさにそれ。人間は読み流すけど、AIは真に受けちゃうかもしれない。オープンエーアイ自身も、ページの中身は信用しすぎないでって注意してるわ。",
+      "news_index": 1,
+      "start_sec": 110.31,
+      "end_sec": 119.5
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "便利な執事を雇ったけど、知らない人の手紙も素直に読んじゃう執事なのだ。",
+      "news_index": 1,
+      "start_sec": 119.65,
+      "end_sec": 124.56
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに、AIにブラウザの合鍵を渡す時代が来たって話。使える範囲はプランや地域、職場の設定で変わるわ。サイトごとの許可を絞って、大事な操作の前には確認画面をよく見てね。",
+      "news_index": 1,
+      "start_sec": 124.71,
+      "end_sec": 137.25
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "合鍵は渡しても、金庫の鍵は自分で持つのだ!",
+      "news_index": 1,
+      "start_sec": 137.4,
+      "end_sec": 140.82
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "上手いじゃない。次いくわ。",
+      "news_index": 1,
+      "start_sec": 140.97,
+      "end_sec": 142.75
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "二本目は、さっき言った財布の話。パソコンのエスエスディーの値段が、まだ高いままなの。",
+      "news_index": 2,
+      "start_sec": 142.83,
+      "end_sec": 148.7
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "エスエスディー? 新しいアイドルグループの名前なのだ?",
+      "news_index": 2,
+      "start_sec": 148.85,
+      "end_sec": 152.71
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "違うわよ。写真やゲームのデータをしまっておく、パソコンの中の記憶装置。昔のハードディスクより、ずっと速いやつね。",
+      "news_index": 2,
+      "start_sec": 152.86,
+      "end_sec": 160.51
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "あ、パソコンの押し入れってことなのだ。",
+      "news_index": 2,
+      "start_sec": 160.66,
+      "end_sec": 163.43
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "いい例え。日経の報道だと、メーカー同士でまとめ買いする時の値段が、七月から九月で前の三か月より約2割上がって、一年でほぼ4倍になったって。",
+      "news_index": 2,
+      "start_sec": 163.58,
+      "end_sec": 173.6
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "4倍!? 一年前はお年玉一回で買えたやつが、今はお年玉四年分なのだ!?",
+      "news_index": 2,
+      "start_sec": 173.75,
+      "end_sec": 179.58
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "計算は合ってるけど、悲しい計算ね。原因は、AIのデータセンターが記憶装置を優先して買っていくからなの。",
+      "news_index": 2,
+      "start_sec": 179.73,
+      "end_sec": 187.32
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "データセンターって、AIを動かす巨大なサーバー倉庫だっけ?",
+      "news_index": 2,
+      "start_sec": 187.47,
+      "end_sec": 191.93
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "正解。その倉庫がものすごい量を買うから、普通のパソコン向けが後回しになってるのよ。",
+      "news_index": 2,
+      "start_sec": 192.08,
+      "end_sec": 197.89
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "巨人がお菓子売り場を丸ごと買い占めて、ボクの分が残ってないやつなのだ……。",
+      "news_index": 2,
+      "start_sec": 198.04,
+      "end_sec": 204.12
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "お店では、型番によって少し下がるものもあるけど、全体は高止まり。来年の後半まで続くって見方もあるわ。",
+      "news_index": 2,
+      "start_sec": 204.27,
+      "end_sec": 211.85
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、今パソコンを買う人はどうすればいいのだ?",
+      "news_index": 2,
+      "start_sec": 212.0,
+      "end_sec": 215.62
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "容量は欲張らず、本当に必要なぶんだけ。今のパソコンはデータを整理して長持ちさせるのが、今年の正解ね。",
+      "news_index": 2,
+      "start_sec": 215.77,
+      "end_sec": 222.96
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "押し入れの大掃除、ボクもやるのだ!",
+      "news_index": 2,
+      "start_sec": 223.11,
+      "end_sec": 225.85
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目は、ちょっと夢のある話。オープンエーアイの最新AI、ジーピーティー シックス アストラが、物理学の研究問題を五十問中四十九問解いたの。",
+      "news_index": 3,
+      "start_sec": 226.0,
+      "end_sec": 235.91
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "四十九問!? ほぼ満点じゃん! ボクの小テスト、半分いったら奇跡なのだ!",
+      "news_index": 3,
+      "start_sec": 236.06,
+      "end_sec": 241.34
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "比べる相手がおかしいわ。これ、専門家でも一問に丸一日かかるような、まだ論文になってない問題なのよ。",
+      "news_index": 3,
+      "start_sec": 241.49,
+      "end_sec": 248.37
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "論文になってない? じゃあ、どこから持ってきた問題なのだ?",
+      "news_index": 3,
+      "start_sec": 248.52,
+      "end_sec": 252.92
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三十五人の研究者が、現在の研究に結びついた未発表問題を集めたの。答えそのものは文献に出てないけど、AIはネット検索や計算ツールを使える条件で挑んだのよ。",
+      "news_index": 3,
+      "start_sec": 253.07,
+      "end_sec": 264.75
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、過去問の丸暗記が通用しないやつなのだ!",
+      "news_index": 3,
+      "start_sec": 264.9,
+      "end_sec": 268.36
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "で、面白いのはここから。最初の採点は、もっと低かったのよ。",
+      "news_index": 3,
+      "start_sec": 268.51,
+      "end_sec": 272.84
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "えっ、じゃあなんで上がったのだ? 先生に泣きついたとか?",
+      "news_index": 3,
+      "start_sec": 272.99,
+      "end_sec": 277.15
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ある意味そう。AIが、模範解答の方が間違ってるって言い張ったの。専門家が計算し直したら、本当に答え側にミスが見つかったって。",
+      "news_index": 3,
+      "start_sec": 277.3,
+      "end_sec": 286.25
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "先生の答案に赤ペン入れちゃったのだ!? 生意気すぎるでしょ!",
+      "news_index": 3,
+      "start_sec": 286.4,
+      "end_sec": 290.45
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "しかも費用は一問あたり2.4ドルくらい、全部で116ドルほどよ。",
+      "news_index": 3,
+      "start_sec": 290.6,
+      "end_sec": 295.57
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "一日がかりの問題が、ランチ一回分のお値段なのだ……。",
+      "news_index": 3,
+      "start_sec": 295.72,
+      "end_sec": 300.0
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ただ研究者たちは、AIにはまだ、どの問題が面白いかを見抜くセンスがないとも言ってるわ。解くのはAI、問いを立てるのは人間って段階ね。",
+      "news_index": 3,
+      "start_sec": 300.15,
+      "end_sec": 309.58
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "つまり、計算係としてはめちゃくちゃ優秀ってこと?",
+      "news_index": 3,
+      "start_sec": 309.73,
+      "end_sec": 313.62
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。私たちにとっては、AIの答えも人の答えも、鵜呑みにせず確かめる習慣がもっと大事になるって話。専門家の模範解答すら間違うんだもの。",
+      "news_index": 3,
+      "start_sec": 313.77,
+      "end_sec": 323.94
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "AIも先生も、ちょっとずつ疑ってかかるのだ。",
+      "news_index": 3,
+      "start_sec": 324.09,
+      "end_sec": 327.97
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四本目。メタが、企業向けの新しい利用規約を十月三十日から始めるの。これが揉めてるのよ。",
+      "news_index": 4,
+      "start_sec": 328.12,
+      "end_sec": 334.74
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "企業向けの規約? ボクには関係なさそうなのだ。",
+      "news_index": 4,
+      "start_sec": 334.89,
+      "end_sec": 338.44
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そうでもないわ。フェイスブックやインスタグラムで宣伝してる会社が対象で、その会社のサイトをメタの自動プログラムが見に行っていい、って書いてあるの。",
+      "news_index": 4,
+      "start_sec": 338.59,
+      "end_sec": 348.0
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "自動プログラムが見に行く? お店に偵察に来るのだ?",
+      "news_index": 4,
+      "start_sec": 348.15,
+      "end_sec": 352.07
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "偵察というか、記事や文章を集めていくロボットね。しかも集めたものを、AIを鍛えるのに使っていいって読める書き方なの。",
+      "news_index": 4,
+      "start_sec": 352.22,
+      "end_sec": 360.13
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? ニュースサイトも、インスタで宣伝してたら対象になっちゃうのだ!?",
+      "news_index": 4,
+      "start_sec": 360.28,
+      "end_sec": 364.87
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "法律の専門家は、そう読めるって指摘してるわ。メタ側は、今までどおりサイト側の立入禁止の設定で管理できる、って言ってるけど。",
+      "news_index": 4,
+      "start_sec": 365.02,
+      "end_sec": 373.9
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "立入禁止の設定って、どんなのだ?",
+      "news_index": 4,
+      "start_sec": 374.05,
+      "end_sec": 376.92
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "ロボッツ テキストっていう、ロボット向けの立入禁止の張り紙ね。サイトの入口に貼っておくの。",
+      "news_index": 4,
+      "start_sec": 377.07,
+      "end_sec": 383.06
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "張り紙より規約の方が強いって言われたら、張り紙が負けちゃうじゃん?",
+      "news_index": 4,
+      "start_sec": 383.21,
+      "end_sec": 388.26
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこが心配されてるポイント。しかも規約を断ると、メタの広告ツールが使えなくなるかもしれないの。",
+      "news_index": 4,
+      "start_sec": 388.41,
+      "end_sec": 394.97
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "宣伝はしたい、でも記事はタダで持ってかれる……究極の二択なのだ。",
+      "news_index": 4,
+      "start_sec": 395.12,
+      "end_sec": 401.25
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "メタは、一部の大手ニュースとは、最新記事をメタエーアイの回答に使う有料契約も結んでるの。ただ、その契約が学習用だとは発表されてないわ。",
+      "news_index": 4,
+      "start_sec": 401.4,
+      "end_sec": 411.14
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "お金を払う契約と、今回の規約じゃ、記事の使い道が同じとは限らないのだ?",
+      "news_index": 4,
+      "start_sec": 411.29,
+      "end_sec": 417.27
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "例えは雑だけど、構図はそれ。そのとおり。今回は、企業サイトの内容まで学習などに使える広い許可を、利用規約で得ることが妥当なのか、その線引きが問われてるって話。",
+      "news_index": 4,
+      "start_sec": 417.42,
+      "end_sec": 428.42
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ボクたちが読んでるニュースも、どこかでAIの栄養になってるかもってことなのだ!",
+      "news_index": 4,
+      "start_sec": 428.57,
+      "end_sec": 433.47
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そうね。記事を作る側にお金が回らなくなると、記事そのものが減るかもしれない。三十日までに文言が変わるか、見ておきたいわ。",
+      "news_index": 4,
+      "start_sec": 433.62,
+      "end_sec": 441.8
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ラスト五本目は硬めだから手短に。中国政府が十月十六日に、AIの技術二十三項目を、輸出の規制リストに加える案を出したの。",
+      "news_index": 5,
+      "start_sec": 441.88,
+      "end_sec": 451.86
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "輸出の規制? AIって、箱に入れて船で送るものだっけ?",
+      "news_index": 5,
+      "start_sec": 452.01,
+      "end_sec": 456.78
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "送らないわよ。ここでの輸出は、技術を国の外に渡すこと全般。中身は大きなAIや、人の代わりに作業するAI、計算機の集まり、チップの設計なんかね。",
+      "news_index": 5,
+      "start_sec": 456.93,
+      "end_sec": 467.77
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "二十三って、多いのか少ないのか分からないのだ。",
+      "news_index": 5,
+      "start_sec": 467.92,
+      "end_sec": 471.15
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "全体では四十項目の案で、そのうち二十三がAI。残りは医療系のバイオ技術と、太陽光発電の技術よ。",
+      "news_index": 5,
+      "start_sec": 471.3,
+      "end_sec": 479.07
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、中国のAIって、無料でダウンロードできるのが強みじゃなかったっけ?",
+      "news_index": 5,
+      "start_sec": 479.22,
+      "end_sec": 484.44
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "公開済みのオープンソース技術や論文で公知になった技術は、管理対象に含めない案よ。新しくオープンソース公開する場合にも、自動許可などの簡易な手続きを用意する方針で、意見の募集は十一月十五日までね。",
+      "news_index": 5,
+      "start_sec": 484.59,
+      "end_sec": 499.51
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "じゃあ、無料公開を全部止める案ではないのだ?",
+      "news_index": 5,
+      "start_sec": 499.66,
+      "end_sec": 503.11
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう、無料公開を一律に止める案ではないわ。機密データを使った大規模モデルや、高度なエージェント、チップ設計など、重要技術の海外移転に線を引く内容よ。",
+      "news_index": 5,
+      "start_sec": 503.26,
+      "end_sec": 514.3
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクのスマホのAIにも、何か起きるのだ?",
+      "news_index": 5,
+      "start_sec": 514.45,
+      "end_sec": 517.64
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今日明日は何も変わらないわ。公開済みの技術は対象外で、新しいオープンソース公開にも簡易手続きが示されてるから、無料AIがすぐ使えなくなる話ではないの。",
+      "news_index": 5,
+      "start_sec": 517.79,
+      "end_sec": 528.29
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "無料AIが全部止まるんじゃなくて、最先端技術を海外へ渡すルールが増えるってことなのだ。",
+      "news_index": 5,
+      "start_sec": 528.44,
+      "end_sec": 534.55
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "というわけで、今朝はここまで。タブを操るチャットジーピーティー、4倍のエスエスディー、先生に赤ペンを入れた物理AI、メタの新しい規約、中国の輸出規制案だったわ。",
+      "news_index": 0,
+      "start_sec": 534.7,
+      "end_sec": 546.47
+    },
+    {
+      "index": 84,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "AIの手は伸びてくるけど、合鍵と金庫の鍵は分けておくのだ!",
+      "news_index": 0,
+      "start_sec": 546.62,
+      "end_sec": 550.96
+    },
+    {
+      "index": 85,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "天丼にしては上出来ね。気になった話があったら、各社の発表や報道ものぞいてみて。",
+      "news_index": 0,
+      "start_sec": 551.11,
+      "end_sec": 556.65
+    },
+    {
+      "index": 86,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "聴いてくれてるかた、いってらっしゃいなのだ!",
+      "news_index": 0,
+      "start_sec": 556.8,
+      "end_sec": 559.43
+    },
+    {
+      "index": 87,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kamera",
+      "text": "また次のテック朝便で。旅の道ラジオ朝便、四国めたんと。",
+      "news_index": 0,
+      "start_sec": 559.58,
+      "end_sec": 564.16
+    },
+    {
+      "index": 88,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ずんだもんだったのだー!",
+      "news_index": 0,
+      "start_sec": 564.31,
+      "end_sec": 565.85
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 566.55,
+      "end_sec": 574.85
+    }
+  ],
+  "wall_time_sec": 14.89,
+  "audio_url": "/audio/ai/20261017_050503.mp3?v=1792188187"
+}
