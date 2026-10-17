@@ -1,0 +1,451 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-10-17T20:04:53.329552+00:00",
+  "title": "折りたたむ朝 〜36万円の二つ折りと、作っても足りない工場〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "intro",
+      "text": "おはようございます、旅の道ラジオ朝便。四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝もテックの話、サクッといくのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今日は四本立て。36万円の折りたたみスマホに、絶好調の半導体工場、AI業界の別れ話と、安全チェックの話ね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "36万円!? 朝から財布が悲鳴あげてるのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "まだ買ってないでしょ。通勤のお供に、軽く聴いていってね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "じゃあ一本目、いってみるのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。アップル初の折りたたみスマホ、アイフォーン デュオの予約が、十月十六日の夜九時に始まったの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "折りたたみ? 半分に折って、ポケットに入れやすくなるやつだっけ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、画面ごとパタンと折れるスマホね。閉じれば普通のスマホ、開けば小さめのタブレット。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "二つ折りの財布みたいなものじゃん。中身はたぶん空っぽなのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "自分の財布の話にしないの。問題はお値段で、一番安い256ギガのモデルで36万4,800円からよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "36万!? ボクのお小遣い、三十年貯めてやっと届く額なのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "しかも一番容量の大きい2テラのモデルは、57万4,800円よ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "57万……もう中古の軽自動車の世界なのだ……。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "比べる相手は合ってるわ。ただ、記事掲載時点の米国では、高い関心と初期供給の少なさが重なったとみられ、全容量と二色の出荷予定が2027年1月まで延びていたの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、お正月越しなのだ!? 予約っていうか、もはや来年の話なのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "発売日は十月二十三日。予約は続いてるけど、すぐ届く分はかなり限られてる状態ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "結局ボクたちには、どう関係するのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "今すぐ買う人は少数派でも、アップルが出すと周りも本気になるの。数年後には、折りたたみがもっと手の届く選択肢になるかもね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "じゃあボクは、値段が折りたたまれるのを待つのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "うまいこと言ったつもりでしょ。次いくわよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目は半導体の話。台湾のティーエスエムシーが十月十五日に、七月から九月の決算を出したの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ティーエスエムシー? 新しいテレビ局の名前なのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "違うわよ。ほかの会社の注文を受けて、半導体を実際に作る工場の会社。ファウンドリっていうの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、設計はよそ、作るのは自分ってことなのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、半導体の巨大な仕出し屋さん。エヌビディアのAI用チップも、アイフォーンの頭脳も、ここで作られてるのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、決算はどうだったのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "純利益が7,630億台湾ドル。前の年の同じ時期より、68.7%増えたそうよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "7,630億!? 台湾ドルって、日本円にしたらいくらなのだ!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ざっくり3兆円を軽く超える額ね。しかも四半期の最高益は、これで六回連続。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "六連続!? ボクなんか、自己最高記録を一回も更新したことないのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "それは勉強しなさい。会長いわく、AI向けの需要が、まだ作れる量を上回ってるんだって。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "作っても作っても足りないってこと?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。人気ラーメン屋が鍋を増やしても、行列が消えない状態ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "それ、ボクたちのお財布にも響くのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "響くわ。ただ、ティーエスエムシーは、部品価格の上昇でスマホなど価格に敏感な市場が厳しくなっているとも見てるの。値段への影響は、製品や部品ごとに違うわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "値下がり待ちのパソコン貯金、まだまだ寝かせとくのだ……。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目は、AI業界の別れ話。アプリ作りのサービス、レプリットの社長が、アンソロピックとはもう組んでないって言い出したの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "レプリット? 何をしてる会社なのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ブラウザの中で、AIに頼んでアプリを作れるサービスね。こんなアプリ欲しいって話しかけると、AIが組み立ててくれるの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、ボクでもゲームのアプリ作れちゃうやつなのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "作れるかは、あなたの根気しだい。で、裏で動くAIの頭脳を、どの会社から借りるかが大事なのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "頭脳を借りる? 自分で作ってないのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "多くの会社は、オープンエーアイやアンソロピックのAIを、使った分だけ払って借りてるの。電気を電力会社から買うのと同じね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、社長はなんで別れたのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "十月十五日のイベントで、理由はコストと提携の条件と性能だって。今はオープンエーアイの方がいい相手だ、って話したの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、公開の場で元カレの話なのだ!? 気まずすぎるのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "元カレって言わないの。それに、提携はまだ続いてるって反論する関係者もいて、話が食い違ってるのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "別れたのか、別れてないのか、ボクにはもう分からないのだ……。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "その後、社長は、アンソロピックのモデルも利用者が選べるけれど、レプリット エージェントの標準はオープンエーアイで、優先パートナーも同社だと説明したの。つまり、完全な決別ではなかったってことね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクたちの生活には、どう効いてくるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "アプリで標準になっているAIが切り替わると、同じサービスでも答えのクセが変わることがあるの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "中の人が変わった、ってやつなのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ラスト四本目は硬めだから手短に。アンソロピックが十月十五日に、外部のAI検査団体、メーターのスタッフ六人を社内に迎え入れたの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "メーター? 電気のメーターを検針しに来る人なのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "惜しいわね、調べる係って点は同じ。強いAIが危ないことをしないか確かめてる、非営利の団体よ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "社内に迎え入れるって、どこまで見せちゃうのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "社員とほぼ同じ扱いで、会社のパソコンや社内の道具まで使えるの。ただ、お客さんのデータやAIの設計の細かいところは見せないそうよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、身内のノートを、よその人に見せちゃうのだ!?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "しかも調べた結果は、アンソロピックの許可なしで公表できるの。会社が黒塗りにできるのは決まった種類の情報だけで、その黒塗りが妥当かまで言えちゃうのよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "家庭訪問の先生が、通信簿まで勝手に配っちゃうってことなのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "たとえは雑だけど、方向は合ってるわ。自分で安全ですって言うより、外の目に確かめてもらう方が信用されるってこと。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクたちには、どう関係するのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "普段使うAIが安全かどうか、会社の自己申告じゃなくて、第三者の報告で確かめられる日が近づくって話ね。",
+      "news_index": 4,
+      "reading": "ふだんつかうAIがあんぜんかどうか、かいしゃのじこしんこくじゃなくて、だいさんしゃのほうこくでたしかめられるひがちかづくってはなしね。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "安心の答え合わせができるのは、うれしいのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで、今朝はここまで。",
+      "news_index": 0,
+      "reading": "というわけで、けさはここまで。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "36万円の折りたたみスマホ、作っても足りない半導体工場、AI業界の別れ話、外の目が入る安全チェック。四本、駆け足だったのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "通して見ると、AIの熱がお財布にも信用にも、じわじわ来てる朝だったわね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "ボクは、デュオの値段が折りたたまれる日まで気長に待つのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "聴いてくれてるかた、今日も通勤通学いってらっしゃい。気になる話があったら、ニュースをのぞいてみてね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "また次のテック朝便で会うのだー! いってらっしゃいなのだ!",
+      "news_index": 0
+    }
+  ],
+  "program_description": "朝のテックニュースを四本、サクッとまとめる回。アップル初の折りたたみスマホ、アイフォーン デュオの予約開始と36万4,800円からのお値段、早くも2027年1月表示の出荷待ち。台湾の半導体工場ティーエスエムシーが純利益68.7%増で六期連続の最高益、AI需要が作れる量を上回る話。アプリ作りサービスのレプリット社長が語ったアンソロピックとの決別発言と、それに食い違う関係者の反論。最後はアンソロピックが外部の検査団体メーターを社内に迎え入れた安全チェックの話。ずんだもんは値段が折りたたまれる日を夢見て、めたんは財布と信用への影響を整理していく、気軽に聴ける朝便です。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20261018_050453_chars.webp",
+    "hero_rel": "/images/topics/tech_20261018_050453.webp",
+    "title": "折りたたむ朝 〜36万円の二つ折りと、作っても足りない工場〜",
+    "companies": [
+      "Claude",
+      "TSMC",
+      "Apple",
+      "OpenAI",
+      "NVIDIA"
+    ],
+    "thumbnail_ready": true
+  },
+  "summary_short": "アップル初の折りたたみ「アイフォーン デュオ」は36万4,800円で予約開始、出荷は早くも2027年1月待ち。TSMCの6期連続最高益、レプリット社長のアンソロピック決別発言、メーター検査の話まで朝のテック四本。",
+  "published_at": "2026-10-18T07:01:56+09:00"
+}
