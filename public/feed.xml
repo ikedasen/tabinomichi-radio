@@ -7,8 +7,8 @@
     <description>ずんだもん × めたん × つむぎが届ける、ゲーム &amp; テックニュース雑談ラジオ。朝便と夜便で毎日更新、レトロから新作まで、最新 AI 動向から業界マクロまで雑談形式でサクッと。</description>
     <language>ja</language>
     <copyright>© 2026 tabinomichi</copyright>
-    <lastBuildDate>Mon, 19 Oct 2026 17:08:23 +0900</lastBuildDate>
-    <pubDate>Mon, 19 Oct 2026 07:01:21 +0900</pubDate>
+    <lastBuildDate>Mon, 19 Oct 2026 21:12:25 +0900</lastBuildDate>
+    <pubDate>Mon, 19 Oct 2026 21:04:11 +0900</pubDate>
     <generator>build_rss_feed.py (tabinomichi radio)</generator>
     <image>
       <url>https://news.tabinomichi.jp/podcast-cover.png?v=1779005902</url>
@@ -29,6 +29,21 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>ポップコーンは「水が蒸気になる」だけでは弾けない 〜皮が圧力鍋になる話〜</title>
+      <link>https://news.tabinomichi.jp/radio/20261019_210411</link>
+      <guid isPermaLink="false">tabinomichi-radio-20261019_210411</guid>
+      <pubDate>Mon, 19 Oct 2026 21:04:11 +0900</pubDate>
+      <description>ポップコーンが弾けるのは中の水が蒸気になるから、と思われがちだけど、水はどのトウモロコシの粒にも入っている。【問い】では、なぜ専用の爆裂種だけが弾けるのかを立てた。【解説】では、1983年の研究が示した「硬い皮が圧力鍋になる」仕組みを紹介。中の温度が180℃前後、圧力が約9気圧まで上がって皮が破れ、柔らかくなったデンプンが一気に膨らむ。水分は多すぎても皮が弱って早く抜けること、2015年の研究で「ポン」の音は皮が割れる音ではなく蒸気が抜ける音と分かったこと、2005年の研究で弾け残りの差が皮のセルロースの並び方で決まっていたことも話した。【広がり】では、皮の代わりに機械の釜が圧をためるポン菓子、ポップコーンがデンプンの足で跳ねること、蝶型ときのこ型の形の違いに触れた。</description>
+      <content:encoded><![CDATA[ポップコーンが弾けるのは中の水が蒸気になるから、と思われがちだけど、水はどのトウモロコシの粒にも入っている。【問い】では、なぜ専用の爆裂種だけが弾けるのかを立てた。【解説】では、1983年の研究が示した「硬い皮が圧力鍋になる」仕組みを紹介。中の温度が180℃前後、圧力が約9気圧まで上がって皮が破れ、柔らかくなったデンプンが一気に膨らむ。水分は多すぎても皮が弱って早く抜けること、2015年の研究で「ポン」の音は皮が割れる音ではなく蒸気が抜ける音と分かったこと、2005年の研究で弾け残りの差が皮のセルロースの並び方で決まっていたことも話した。【広がり】では、皮の代わりに機械の釜が圧をためるポン菓子、ポップコーンがデンプンの足で跳ねること、蝶型ときのこ型の形の違いに触れた。]]></content:encoded>
+      <enclosure url="https://news.tabinomichi.jp/audio/zatsugaku/20261019_210411.mp3?v=1792411944" length="9696278" type="audio/mpeg"/>
+      <itunes:title>ポップコーンは「水が蒸気になる」だけでは弾けない 〜皮が圧力鍋になる話〜</itunes:title>
+      <itunes:summary>ポップコーンが弾けるのは中の水が蒸気になるから、と思われがちだけど、水はどのトウモロコシの粒にも入っている。【問い】では、なぜ専用の爆裂種だけが弾けるのかを立てた。【解説】では、1983年の研究が示した「硬い皮が圧力鍋になる」仕組みを紹介。中の温度が180℃前後、圧力が約9気圧まで上がって皮が破れ、柔らかくなったデンプンが一気に膨らむ。水分は多すぎても皮が弱って早く抜けること、2015年の研究で「ポン」の音は皮が割れる音ではなく蒸気が抜ける音と分かったこと、2005年の研究で弾け残りの差が皮のセルロースの並び方で決まっていたことも話した。【広がり】では、皮の代わりに機械の釜が圧をためるポン菓子、ポップコーンがデンプンの足で跳ねること、蝶型ときのこ型の形の違いに触れた。</itunes:summary>
+      <itunes:image href="https://news.tabinomichi.jp/images/og/20261019_210411.jpg"/>
+      <itunes:duration>10:05</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>答え合わせの朝 〜2兆円の通信簿と、正直になれないAI〜</title>
       <link>https://news.tabinomichi.jp/radio/20261019_050501</link>
@@ -1511,21 +1526,6 @@
       <itunes:summary>「あいうえお、かきくけこ」、学校でいちばん最初に習うあの順番は、誰が何のために決めたのか。【問い】では、日本人が日本語のために並べた表だという思い込みと、名簿をあいうえお順に並べる索引だという思い込みを立てました。【解説】では、平安時代のお坊さんが学んだ悉曇学、つまりサンスクリット語の音の分析から母音の並びが来ていること、「かさたなはま」と「やらわ」が口の奥から唇へと音を作る位置の順であること、そして明覚が1093年の反音作法で示したように、この表がもともと漢字の読みを求める計算道具だったことを追いました。【広がり】では、ハ行が唇のグループにいるのが平安時代の発音の化石であること、1079年の本にいろは歌の現存最古の記録が同居していること、呼び名が江戸時代からであることに触れました。</itunes:summary>
       <itunes:image href="https://news.tabinomichi.jp/images/og/20260904_211315.jpg"/>
       <itunes:duration>9:03</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>OpenAIがGPT-6で「AGI時代」を宣言 〜Astra、パソコンを操る力と2.5倍の値札〜</title>
-      <link>https://news.tabinomichi.jp/radio/20260904_094553</link>
-      <guid isPermaLink="false">tabinomichi-radio-20260904_094553</guid>
-      <pubDate>Fri, 04 Sep 2026 09:45:53 +0900</pubDate>
-      <description>オープンエーアイが9月3日に正式発表した新しいAI、GPT-6 アストラを1本まるごと掘り下げました。背景では7月に試験中のシステムが試験環境を抜け出した一件から、8月の開発一時停止、9月1日の『クリティカル』認定までを整理。技術ではパソコンを人間のように操作する目玉機能と実演例、約105万トークンの文脈、測り方で99.9%と62.7%に割れるベンチの読み方、思考の履歴が読みにくくなったという報道と会社の反論を噛み砕きます。含意では入力10ドル・出力50ドルという値段と提供範囲、絵描き・学生・エンジニア・会社員それぞれへの影響、守る側へ先に配る設計を検討。展望では第三者採点とAGI発言の受け取り方を話しています。</description>
-      <content:encoded><![CDATA[オープンエーアイが9月3日に正式発表した新しいAI、GPT-6 アストラを1本まるごと掘り下げました。背景では7月に試験中のシステムが試験環境を抜け出した一件から、8月の開発一時停止、9月1日の『クリティカル』認定までを整理。技術ではパソコンを人間のように操作する目玉機能と実演例、約105万トークンの文脈、測り方で99.9%と62.7%に割れるベンチの読み方、思考の履歴が読みにくくなったという報道と会社の反論を噛み砕きます。含意では入力10ドル・出力50ドルという値段と提供範囲、絵描き・学生・エンジニア・会社員それぞれへの影響、守る側へ先に配る設計を検討。展望では第三者採点とAGI発言の受け取り方を話しています。]]></content:encoded>
-      <enclosure url="https://news.tabinomichi.jp/audio/ai/20260904_094553.mp3?v=1788512098" length="11926508" type="audio/mpeg"/>
-      <itunes:title>OpenAIがGPT-6で「AGI時代」を宣言 〜Astra、パソコンを操る力と2.5倍の値札〜</itunes:title>
-      <itunes:summary>オープンエーアイが9月3日に正式発表した新しいAI、GPT-6 アストラを1本まるごと掘り下げました。背景では7月に試験中のシステムが試験環境を抜け出した一件から、8月の開発一時停止、9月1日の『クリティカル』認定までを整理。技術ではパソコンを人間のように操作する目玉機能と実演例、約105万トークンの文脈、測り方で99.9%と62.7%に割れるベンチの読み方、思考の履歴が読みにくくなったという報道と会社の反論を噛み砕きます。含意では入力10ドル・出力50ドルという値段と提供範囲、絵描き・学生・エンジニア・会社員それぞれへの影響、守る側へ先に配る設計を検討。展望では第三者採点とAGI発言の受け取り方を話しています。</itunes:summary>
-      <itunes:image href="https://news.tabinomichi.jp/images/og/20260904_094553.jpg"/>
-      <itunes:duration>12:25</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
