@@ -1,0 +1,459 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-10-19T20:04:50.266718+00:00",
+  "title": "カードがスマホに引っ越す朝 〜止まった本棚と、百万円を超えたグラボ〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "おはようございます、旅の道ラジオ朝便。今朝もテックの話題をサクッと流していくわね、四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 眠い目をこすりながら、今日もついていくのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今朝は五本。スマホに入るマイナンバーカード、止まった漫画のサービス、三十秒しゃべる動画AI、それから百万円を超えたグラボの話。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ひゃ、百万円のグラボ!? 朝からお財布が気絶しそうなのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "最後は、会社の株を世の中のために差し出すっていう、ちょっと硬めの話で締めるわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "硬いのはラストね! じゃあ一本目、いってみよー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。今日、十月二十日から、アンドロイドのスマホにマイナンバーカードを入れられるようになったの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "スマホに入れる? カードを細く切って、スマホの隙間に差し込むのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "物理的に入れないで。グーグルウォレット、ようはスマホの中のお財布アプリに、カードの機能を登録するのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、電車のICカードをスマホに入れるのと同じノリじゃん!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そういうこと。で、今回の目玉は、属性証明っていう新しい機能。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ぞくせいしょうめい? 炎属性とか水属性とか、そういうやつなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ゲームじゃないわよ。窓口みたいな対面の場面で、自分がどんな人かをスマホで示せる仕組みのことね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "カードを財布から出さなくていいなら、ボクみたいな落とし物名人には助かるのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ただし落とし穴が一つ。属性証明が使えるのは、決まった強さの守りのチップを積んだ、一部の機種だけなの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、ボクのスマホは仲間外れかもってこと!?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "対応機種は限られていて、グーグル、サムスン、シャープ、ソニーなどの一部機種ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "じゃあまずは、自分のスマホが対応してるか、デジタル庁の一覧で確かめるのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "正解。要するに、カードを出さずに済む場面が増えたけど、使える機種や場所は限られるってことね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "二本目は、ちょっと心配な話。電子書籍のサービス、レンタが、十月十八日から止まってるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、漫画が読めないのだ!? 続きが気になって、夜しか眠れないのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "夜は寝てていいのよ。運営のパピレスは、サーバーに外から不正にアクセスされた可能性がある、って発表したわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ふせいあくせす? 泥棒さんが、お店の裏口から入ってきたってこと?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "たとえとしては近いわね。どこまで入られたかは調査中で、再開の時期も決まってないの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "借りてた漫画の期限、そのまま切れちゃったらどうするのだ……。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そこは会社も別に対応を考えるって。しかも同じ時期に、コミックシーモアでは不正アクセスと会員情報の流出が公表されてるのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "漫画のサービスで、立て続けにトラブルが起きてるのだ!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう。だから今気をつけたいのは、運営を名乗る怪しいメールやショートメッセージね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "お詫びはこちら、ってリンクが来ても、すぐ押さないのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "完璧。要するに、続きは待つしかないけど、リンクは開かずに公式のお知らせを見に行くのが正解よ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "三本目は気分を変えて、動画AIの話。中国のクリングが、新しいクリング よんてんぜろを、十月半ばに一般向けに出したの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "クリング? クリスマスに玄関に飾る、輪っかの名前だっけ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "それはリース。文章や画像を渡すと、AIが動画を作ってくれるサービスよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "え、ボクの立ち絵も、動かしてもらえちゃうのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "できるわね。今回の目玉は、一回で最長三十秒の動画を作れるようになったこと。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "三十秒って、短くない? カップ麺もできあがらないじゃん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "AI動画の世界だと長いほうなの。数秒でキャラの顔や服が変わっちゃうのが、よくある弱点だったから。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、途中で別人になるやつ! 長いほど、ごまかしがきかないのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。しかも大事な場面の絵を最大十枚まで指定できて、音も左右に分かれた立体的な音になったわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "しゃべる口の動きも、ちゃんと合うのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "日本語の会話の場面でも、口の動きがよく合うって、試した作り手の人たちが評価してるわね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "動画を作ってる人は、撮影なしで試しの映像を作れちゃうのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに、ネットで流れてくる三十秒の動画が、本物かAIか見分けにくい時代に一歩進んだってこと。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四本目は、自作パソコン好きから悲鳴が上がっている話よ。エヌビディアのグラボ、アールティーエックス ゴーマルキューマルの値段が、日本でとんでもないことになってるの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "グラボって、ゲームの絵を描く担当の部品だっけ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "正解。その中でもいちばん上のモデルね。エヌビディアが示した国内の目安は、39万3,800円。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "目安の時点で、もう高すぎるのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "驚くのはまだ早いわ。国内通販の最安値が、九月一日の約85万円から、十月四日には109万円台まで上がったの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "109万円!? ボクのお年玉を百年ためても、まだ届かないのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "九月に国内の在庫が一度ゼロになって、入荷のたびに約十万円ずつ上がってるらしいの。十月九日に入ったのは、約120万円だって。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "目安の三倍くらい……。もう工場が作るのをやめちゃったのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そんなウワサも出たけど、エヌビディアは製造終了を否定して、出荷を続けるって話よ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、ボクみたいな普通のゲーム好きはどうすればいいのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "いちばん上を追わなければ、まだ平気。もう少し下のクラスは、九月から値上がりが止まってるって集計もあるわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "背伸びしないのが、今いちばんの節約なのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに、最上位のグラボは、もう軽自動車が見えてくる値段の高級品ってこと。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ラスト五本目は硬めだから手短に。クロードを作ってるアンソロピックが十月十八日に、自分の会社の株の五パーセントを、新しく作る公益ファンドに出すって発表したの。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "こうえきファンド? 株を、募金箱に入れるってこと?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "近いわ。世の中のために使う、お金の箱ね。ただし、株主の承認が条件よ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "でも五パーセントって、ちょっと控えめじゃないのだ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこが面白いところ。会社の値打ちが基準から五割上がるたびに、取締役会の判断で二パーセントずつ足せる仕組みなの。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "会社が大きくなるほど、箱の中身も増えていくのだ!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "使い道は、AIで仕事が変わる影響への対策なんか。ロビー活動や政治献金には使わない、って縛りもつけてるわ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクたちの生活も、すぐ何か変わるのだ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "shitazuke",
+      "text": "今日明日は変わらないわね。具体的な運営方法は、これから数か月で出てくるそうよ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "AIで大きくなった会社が、世の中にどう返すのか、ボクも見張っておくのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そういうこと。要するに、AIの会社は稼ぎ方だけじゃなく、返し方も比べられる時代ってわけね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今朝は五本。スマホのマイナンバーカード、止まった漫画サービス、三十秒の動画AI、百万円を超えたグラボ、それとアンソロピックの公益ファンドだったわね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ボクの今朝の宿題は、スマホの対応確認と、怪しいリンクを押さないことなのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "優秀ね。グラボは、眺めるだけにしておきなさい。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "眺めるだけなら、タダなのだ……。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "聴いてくれてるかた、いってらっしゃい。気になった話は、各社の発表や報道をのぞいてみてね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "また明日のテック朝便で会うのだー!",
+      "news_index": 0
+    }
+  ],
+  "program_description": "今朝のテック朝便は五本をサクッと。十月二十日に始まったアンドロイドのマイナンバーカードは、グーグルウォレットに入れて使える一方、新しい属性証明が使えるのは一部の機種だけ。電子書籍のレンタが不正アクセスの可能性で止まり、コミックシーモアでも同様の公表があった件では、怪しいメールに注意という話に。三十秒の動画を一度に作れる動画AIのクリング よんてんぜろ、国内最安値が百九万円台まで上がった最上位グラボの値段、そしてアンソロピックが株の五パーセントを公益ファンドに出す発表まで、ずんだもんのボケとめたんのツッコミで流していく回です。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20261020_050450_chars.webp",
+    "hero_rel": "/images/topics/tech_20261020_050450.webp",
+    "title": "カードがスマホに引っ越す朝 〜止まった本棚と、百万円を超えたグラボ〜",
+    "companies": [
+      "Claude",
+      "NVIDIA",
+      "Google"
+    ],
+    "thumbnail_ready": true
+  },
+  "summary_short": "十月二十日開始のAndroidマイナンバーカードはGoogleウォレットで使えるが、新属性証明は一部機種のみ。レンタ停止やシーモア公表への注意、Kling 2.5、百九万円台のグラボ、Anthropicの株式寄付まで五本を一気に紹介。",
+  "published_at": "2026-10-20T07:02:05+09:00"
+}
