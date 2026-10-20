@@ -1,0 +1,846 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-10-21T05:05:14+09:00",
+  "title": "うっかり共有の朝 〜拡声器になったリンクと、チップの引っ越し業者〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 542.38,
+  "script_hash": "sha256:cb749ba789becf3888bb00a5f26e8f2651ba74803b0ed08bafda827238dad664",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 9.59
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "welcome",
+      "text": "おはようございます、旅の道ラジオ朝便。今朝もテックの話題を、サクッと五本まとめていくわ。四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 9.59,
+      "end_sec": 16.68
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 通勤のお供に、今朝もよろしくなのだ!",
+      "news_index": 0,
+      "start_sec": 16.83,
+      "end_sec": 21.32
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今日のキーワードは、うっかりと引っ越し。共有ボタンひとつで、秘密がこぼれた話もあるの。",
+      "news_index": 0,
+      "start_sec": 21.47,
+      "end_sec": 27.24
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、朝から怖い話なのだ!? ボクのスマホ、今すぐ握りしめておくのだ。",
+      "news_index": 0,
+      "start_sec": 27.39,
+      "end_sec": 32.63
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "落ち着いて。相づちが分かるAIや、ハードディスクの値段の話もあるからね。",
+      "news_index": 0,
+      "start_sec": 32.78,
+      "end_sec": 37.83
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ハードディスク! パソコンの押し入れ係じゃん! じゃあ一本目、いってみよう!",
+      "news_index": 0,
+      "start_sec": 37.98,
+      "end_sec": 42.85
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。メタのAIエージェント、ミューズで、共有した会話が外から見つかる問題が出たの。",
+      "news_index": 1,
+      "start_sec": 43.0,
+      "end_sec": 49.2
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "えーじぇんとって、前にも出てきた、代わりに作業してくれるAIだっけ?",
+      "news_index": 1,
+      "start_sec": 49.35,
+      "end_sec": 54.31
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、人の代わりに調べものや作業をしてくれるAIね。その会話をリンクにして、人に送れる機能があったのよ。",
+      "news_index": 1,
+      "start_sec": 54.46,
+      "end_sec": 61.48
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "写真アルバムのアドレスを、友だちに送るのと同じノリなのだ。",
+      "news_index": 1,
+      "start_sec": 61.63,
+      "end_sec": 65.66
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこまでは普通。問題は、そのアドレスの中に、会話のタイトルが丸ごと入ってたこと。",
+      "news_index": 1,
+      "start_sec": 65.81,
+      "end_sec": 71.49
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "タイトル入りの方が、分かりやすくて親切じゃん?",
+      "news_index": 1,
+      "start_sec": 71.64,
+      "end_sec": 75.58
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "サイトを開くとき、パソコンは住所録みたいな仕組みで行き先を調べるの。その問い合わせの記録を集めて検索できる業者がいて、タイトル入りのアドレスがそこに残っちゃったわけ。",
+      "news_index": 1,
+      "start_sec": 75.73,
+      "end_sec": 86.2
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? 封筒の表に中身を大きく書いて、郵便受けに並べてた感じなのだ!?",
+      "news_index": 1,
+      "start_sec": 86.35,
+      "end_sec": 91.64
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いい例えね。セキュリティ会社がそこから見つけたリンクは、およそ6,800件だって。",
+      "news_index": 1,
+      "start_sec": 91.79,
+      "end_sec": 97.16
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "6,800!? 学校中の連絡帳を集めても、そんなにないのだ!",
+      "news_index": 1,
+      "start_sec": 97.31,
+      "end_sec": 102.08
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "中には、小さな会社の融資の申込書や、社長向けの売上の資料、職場の休暇表まであったそうよ。",
+      "news_index": 1,
+      "start_sec": 102.23,
+      "end_sec": 109.45
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "うわぁ、休暇表まで……。誰がいつ旅行に行くか、丸見えなのだ。",
+      "news_index": 1,
+      "start_sec": 109.6,
+      "end_sec": 115.48
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "メタは、共有の機能をいったん止めたわ。調べた会社も、悪用された証拠は見つかってないって。",
+      "news_index": 1,
+      "start_sec": 115.63,
+      "end_sec": 121.48
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ふぅ。じゃあボクたちは、何に気をつければいいのだ?",
+      "news_index": 1,
+      "start_sec": 121.63,
+      "end_sec": 125.4
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "要するに、AIとの会話を共有するときは、公開の掲示板に貼るつもりで、ってこと。仕事の数字や個人情報は、入れたまま送らないの。",
+      "news_index": 1,
+      "start_sec": 125.55,
+      "end_sec": 134.65
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "共有ボタンは、拡声器のボタンだと思っておくのだ! 次いこ!",
+      "news_index": 1,
+      "start_sec": 134.8,
+      "end_sec": 139.09
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目は、AIの裏側の話。グーグルが十月二十日に、トーチ ティーピーユーっていう道具を、誰でも使えるオープンソースで出したの。",
+      "news_index": 2,
+      "start_sec": 139.24,
+      "end_sec": 147.58
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "トーチ? 聖火リレーで走る人が持ってる、あのたいまつなのだ?",
+      "news_index": 2,
+      "start_sec": 147.73,
+      "end_sec": 152.29
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "走らないわよ。AIを作る人の定番の道具に、パイトーチっていうのがあって、それをグーグル専用のチップで動かすためのものね。",
+      "news_index": 2,
+      "start_sec": 152.44,
+      "end_sec": 160.4
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "パイトーチって、AIを作るためのお料理セットみたいなものってこと?",
+      "news_index": 2,
+      "start_sec": 160.55,
+      "end_sec": 165.13
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "いい線ね。AIの設計図を書く、定番の文房具セット。AIの研究者や開発者の85%が、これでコードを書いてるってアマゾンは説明してるの。",
+      "news_index": 2,
+      "start_sec": 165.28,
+      "end_sec": 176.08
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、その文房具が、グーグルのチップでもそのまま使えるようになったのだ!",
+      "news_index": 2,
+      "start_sec": 176.23,
+      "end_sec": 181.08
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "正解。グーグルにはティーピーユーっていう、AIの計算専用の自社チップがあるの。でも、パイトーチで書いたAIは、エヌビディアのジーピーユーで動かすのが当たり前だったのよ。",
+      "news_index": 2,
+      "start_sec": 181.23,
+      "end_sec": 192.05
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ジーピーユーって、AIの計算を爆速でやるチップだよね。なんでそっちが当たり前だったのだ?",
+      "news_index": 2,
+      "start_sec": 192.2,
+      "end_sec": 198.74
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "道具がもともと、エヌビディア向けに磨かれてきたから。ほかのチップに移るのが、引っ越しみたいに大変だったわけ。",
+      "news_index": 2,
+      "start_sec": 198.89,
+      "end_sec": 205.84
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "家具が全部、エヌビディアの部屋のサイズで作られちゃってる感じなのだ。",
+      "news_index": 2,
+      "start_sec": 205.99,
+      "end_sec": 211.1
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "うまいじゃない。トーチ ティーピーユーは、設定を少し変えるだけで、その家具ごとグーグルの部屋に運べるのが売り。アマゾンも、自社チップ向けに似た道具を出してきてるわ。",
+      "news_index": 2,
+      "start_sec": 211.25,
+      "end_sec": 221.05
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、グーグルとアマゾンが、そろってエヌビディアの家に引っ越し業者を送り込んでるのだ!?",
+      "news_index": 2,
+      "start_sec": 221.2,
+      "end_sec": 226.91
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "まさにそれ。エヌビディアの強さは、チップの速さだけじゃなく、この道具の囲い込みにもあったって話。",
+      "news_index": 2,
+      "start_sec": 227.06,
+      "end_sec": 233.09
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、ボクたちの生活には、関係あるのだ?",
+      "news_index": 2,
+      "start_sec": 233.24,
+      "end_sec": 236.61
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "すぐには変わらないわ。でもチップの選択肢が増えれば、AIを動かす値段が下がって、アプリの料金にじわっと効いてくるかもね。",
+      "news_index": 2,
+      "start_sec": 236.76,
+      "end_sec": 244.91
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "AIのサブスク代がちょっとでも安くなったら、最高すぎるでしょ!",
+      "news_index": 2,
+      "start_sec": 245.06,
+      "end_sec": 249.87
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目は軽めよ。声のAIで有名なイレブンラボが、十月二十日に、イレブン リアルタイムっていう会話用のAIを出したの。",
+      "news_index": 3,
+      "start_sec": 250.02,
+      "end_sec": 257.96
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "イレブン……十一人? サッカーのチームなのだ?",
+      "news_index": 3,
+      "start_sec": 258.11,
+      "end_sec": 261.83
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "ボールは蹴らないわよ。しゃべりかけると、声でそのまま返事してくれるAIね。お店の電話受付や、AIの先生役なんかを想定してるって。",
+      "news_index": 3,
+      "start_sec": 261.98,
+      "end_sec": 270.91
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、お店に電話したら、AIが出てくるやつじゃん!",
+      "news_index": 3,
+      "start_sec": 271.06,
+      "end_sec": 274.68
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それ。上位版のマックスは、独立系の評価会社によるテストで、しゃべり始めるまで平均およそ0.57秒。音声で出された千問の推論問題には98.8%正解したの。",
+      "news_index": 3,
+      "start_sec": 274.83,
+      "end_sec": 287.08
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "0.57秒!? ボク、朝ごはん何がいいって聞かれたら、三分は悩むのだ!",
+      "news_index": 3,
+      "start_sec": 287.23,
+      "end_sec": 292.73
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "あなたは悩みすぎ。面白いのは小さい方のミニで、相手が話し終わったのか、うんうんって相づちを打っただけなのかを聞き分けられるの。",
+      "news_index": 3,
+      "start_sec": 292.88,
+      "end_sec": 300.96
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "相づちを聞き分けるって、そんなに大事なのだ?",
+      "news_index": 3,
+      "start_sec": 301.11,
+      "end_sec": 304.43
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "大事よ。今までの声のAIは、うんって言っただけで遮られたと思って、黙っちゃうことがあったの。",
+      "news_index": 3,
+      "start_sec": 304.58,
+      "end_sec": 310.98
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "あー、先生の話にうなずいたら、急に止まって、何か質問?って聞かれるやつなのだ。",
+      "news_index": 3,
+      "start_sec": 311.13,
+      "end_sec": 318.29
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "あれ、ちょっと気まずいわね。要するに、AIの勝負が賢さだけじゃなく、会話の間の取り方に来てるって話。",
+      "news_index": 3,
+      "start_sec": 318.44,
+      "end_sec": 326.03
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "これからの電話のAIは、ボクのうんうんにも、ちゃんと付き合ってくれるのだ。",
+      "news_index": 3,
+      "start_sec": 326.18,
+      "end_sec": 330.98
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。窓口に電話して、AI相手にイライラする場面は、少しずつ減っていきそうね。",
+      "news_index": 3,
+      "start_sec": 331.13,
+      "end_sec": 337.04
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "四本目は、お財布の話。ハードディスクの値段が、この半年でぐっと上がってるの。",
+      "news_index": 4,
+      "start_sec": 337.12,
+      "end_sec": 342.5
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ハードディスクって、写真や動画をしまう押し入れだよね。速いエスエスディーとは別物だっけ?",
+      "news_index": 4,
+      "start_sec": 342.65,
+      "end_sec": 348.59
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。エスエスディーより遅いけど、たくさん安くしまえるのが取り柄。家のナスにもよく入ってるわ。",
+      "news_index": 4,
+      "start_sec": 348.74,
+      "end_sec": 354.76
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "ナス!? 押し入れの中で、野菜を育ててるのだ!?",
+      "news_index": 4,
+      "start_sec": 354.91,
+      "end_sec": 359.37
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "育てないで。家のネットにつないで、家族みんなで使うデータの保管箱のことよ。",
+      "news_index": 4,
+      "start_sec": 359.52,
+      "end_sec": 364.55
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "なるほど、みんなの共有押し入れなのだ。で、どれくらい上がったのだ?",
+      "news_index": 4,
+      "start_sec": 364.7,
+      "end_sec": 369.55
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ある調べだと、ウエスタンデジタルのナス向け、ダブリューディー・レッド・プラスの4テラモデルが、秋葉原の最安値で四月は23,980円。それが九月には31,080円になってたの。",
+      "news_index": 4,
+      "start_sec": 369.7,
+      "end_sec": 381.67
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "七千円以上も上がってるのだ!? ボクのお小遣い、二か月ぶんが消えちゃうのだ!",
+      "news_index": 4,
+      "start_sec": 381.82,
+      "end_sec": 386.95
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "大きな要因は、AIデータセンター向けに大容量ハードディスクの需要が増えて、メーカーの生産配分がそっちに移ったこと。中国のパソコン需要や円安も重なってるのよ。",
+      "news_index": 4,
+      "start_sec": 387.1,
+      "end_sec": 397.94
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "またAIじゃん。メモリにエスエスディーに、今度はハードディスクまで、全部食べちゃうのだ。",
+      "news_index": 4,
+      "start_sec": 398.09,
+      "end_sec": 404.6
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "食いしん坊よね。ただ、一本調子の値上がりは七月の終わりごろに止まって、今は横ばいみたい。",
+      "news_index": 4,
+      "start_sec": 404.75,
+      "end_sec": 411.0
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、下がるまで待てばいいってこと?",
+      "news_index": 4,
+      "start_sec": 411.15,
+      "end_sec": 413.87
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこは見方が割れてるわ。データセンター向けの品不足が2028年まで続くって予測はあるけど、家庭向けの店頭価格がそこまで下がらないって意味じゃないの。必要なら最新の在庫と価格を確かめて、待てるなら様子見ね。",
+      "news_index": 4,
+      "start_sec": 414.02,
+      "end_sec": 428.51
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "写真のバックアップ用は、今あるやつを大事に使うのだ!",
+      "news_index": 4,
+      "start_sec": 428.66,
+      "end_sec": 432.47
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ラスト五本目は硬めだから手短に。AI向けのクラウド、コアウィーブの借金が、業界全体の心配の種になってるって話。",
+      "news_index": 5,
+      "start_sec": 432.62,
+      "end_sec": 440.73
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "コアウィーブ? 何をしてる会社なのだ?",
+      "news_index": 5,
+      "start_sec": 440.88,
+      "end_sec": 443.75
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "エヌビディアのジーピーユーを大量に買い込んで、AIの会社に時間貸ししてる会社よ。こういう貸し出し専門の新しい会社を、ネオクラウドって呼ぶの。",
+      "news_index": 5,
+      "start_sec": 443.9,
+      "end_sec": 452.99
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、レンタカー屋さんのジーピーユー版なのだ!",
+      "news_index": 5,
+      "start_sec": 453.14,
+      "end_sec": 456.31
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "まさにね。ただ、その車を借金で買ってるの。報道だと、借金はおよそ500億ドル。",
+      "news_index": 5,
+      "start_sec": 456.46,
+      "end_sec": 462.59
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "500億ドル!? ボクがお小遣いをためて届かせるには、何万回生まれ変わればいいのだ!?",
+      "news_index": 5,
+      "start_sec": 462.74,
+      "end_sec": 468.64
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "十月半ばには、金利が上がるかもって心配が広がって、株が一週間で二割以上下がったって報じられたわ。",
+      "news_index": 5,
+      "start_sec": 468.79,
+      "end_sec": 475.67
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "金利が上がると、なんで困るのだ?",
+      "news_index": 5,
+      "start_sec": 475.82,
+      "end_sec": 478.46
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "借金の利息が重くなるからよ。しかもジーピーユーは、新しい世代が出るたびに値打ちが下がっちゃうの。",
+      "news_index": 5,
+      "start_sec": 478.61,
+      "end_sec": 485.05
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "うわぁ、ローンで買った車が、毎年どんどん型落ちしていくやつなのだ……。",
+      "news_index": 5,
+      "start_sec": 485.2,
+      "end_sec": 491.24
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに、AIブームの一部は借金で回ってるって話。すぐ生活は変わらないけど、AIの値段や株のニュースが揺れたら、この層を思い出して。",
+      "news_index": 5,
+      "start_sec": 491.39,
+      "end_sec": 500.86
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "AIの景気は、レンタカー屋さんの財布もチェックするのだ。",
+      "news_index": 5,
+      "start_sec": 501.01,
+      "end_sec": 504.88
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今朝はこの五本。ミューズの共有リンク、グーグルのトーチ ティーピーユー、相づちが分かる声のAI、ハードディスクの値上がり、それとコアウィーブの借金だったわ。",
+      "news_index": 0,
+      "start_sec": 505.03,
+      "end_sec": 514.84
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "共有ボタンは拡声器、ハードディスクは大事に使う。今日のボクのメモなのだ!",
+      "news_index": 0,
+      "start_sec": 514.99,
+      "end_sec": 520.76
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "完璧ね。聴いてくれてるかた、気になった話があったら、各社の発表や報道をのぞいてみて。",
+      "news_index": 0,
+      "start_sec": 520.91,
+      "end_sec": 526.97
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "また明日のテック朝便で会うのだ! いってらっしゃいなのだー!",
+      "news_index": 0,
+      "start_sec": 527.12,
+      "end_sec": 530.82
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いってらっしゃい。旅の道ラジオ朝便、四国めたんでした。",
+      "news_index": 0,
+      "start_sec": 530.97,
+      "end_sec": 535.04
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 535.74,
+      "end_sec": 542.38
+    }
+  ],
+  "wall_time_sec": 15.07,
+  "audio_url": "/audio/ai/20261021_050514.mp3?v=1792533762"
+}
