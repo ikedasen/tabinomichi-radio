@@ -1,0 +1,434 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-10-21T20:04:17.686161+00:00",
+  "title": "AIが入り込む朝 〜裏口を見つける探偵と、門前払いのおつかいロボ〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "おはようございます、旅の道ラジオ朝便、テックニュースの回。四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝もテックの話、サクッといくのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今日は四本。AIが見つけた大きな穴、車の中のAI、買い物AIの通せんぼ、それからクラウドの品ぞろえの話ね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "穴に車に通せんぼって、まるで工事現場みたいな並びじゃん!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ある意味そうね。今朝のテーマは、AIがどこまで入り込んでくるか、って話。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "通勤のお供にちょうどいいのだ! 一本目、いくのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。ウェブサイトを作る定番の言語、ピーエイチピーで、緊急レベルの穴が見つかったの。見つけたのは、AIの力を借りた研究者たち。オープンエーアイ側の研究者とセキュリティ企業のウィズがそれぞれ発見に関わり、ウィズはグーグルのジェミニなど複数のAIも使ったんだって。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ぴーえいちぴー? 新しいスマホゲームのタイトルなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "ゲームじゃないわよ。ネットのお店やブログの裏側で動いてる、プログラムの言葉のひとつ。世界中の何百万ものサイトが使ってるって。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "何百万!? そんなにたくさんのお店の裏口が、一斉に開いてたってことなのだ!?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "全部のサイトで裏口が開いていたわけじゃないけど、放っておけない深刻さね。今回見つかった二つの穴は、条件がそろうと悪い人にシステムを乗っ取られるおそれがある設計ミスなの。修正版が出る前後で、有名なサービスがいくつも緊急メンテに入ったらしいの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "緊急メンテって、ゲームが急に止まって、お詫びの石が配られるやつなのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "お詫びの石が出たかは知らないけどね。ポイントは、研究者がAIを活用して、攻撃者に悪用された形跡が見つかるより先に、重大なバグを掘り当てたとされるところ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、AIが宝探しの名人になったってことじゃん!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "問題は、その宝探しの道具を、守る側も攻める側も使えること。同じような発見が、これから数か月で一気に増えるって警告も出てるわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、泥棒さんもAIの地図を持てちゃうのだ!?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そう。要するに、穴を見つけるのも、ふさぐのも、AI同士のスピード勝負になってきたって話。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあボクたちは、何をしておけばいいのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "サイトを運営している人は、修正版のピーエイチピーへ急いで更新すること。ボクたちも普段からスマホやパソコンの更新を後回しにしないのが大切よ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "更新ボタン、今日から朝ごはんの前に押すのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目は軽めよ。グーグルのAI、ジェミニが、アップルのカープレイでも、会話しながら道案内してくれるようになったの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "かーぷれい? 車でカラオケする遊びなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "歌わないの。アイフォーンを車につなぐと、カーナビの画面にアプリが出てくる仕組みのことよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、スマホの地図が、車の大きい画面に映るやつなのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それ。このへんで駐車場がありそうなお店は、みたいに普通に話しかけると、グーグルマップの情報で答えてくれるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "運転中に地図アプリをいじらなくていいのは、めちゃくちゃ助かるのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "面白いのは場所よ。アップルの車の画面に、ライバルのグーグルのAIが入り込んだ形なの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、アイフォーンにはシリがいるのに、車の中ではジェミニが運転席に座っちゃうのだ!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "座るのは助手席ね。アップルが今年の更新で、よその会社の会話AIもカープレイに入れるようにしたのが、きっかけって見られてるわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "シリ、自分の家に親戚の子が上がり込んできた気分なのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに、AIの取り合いが、スマホの画面から車の中まで広がったって話ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクたちの生活だと、どう変わるってこと?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "運転中に画面を触る回数が減るのは、安全面でも大きいわ。ただ、AIの答えをうのみにせず、最後は標識と自分の目で確かめてね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "AIは助手席、ハンドルはボク。覚えたのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目は買い物の話。アマゾンとウォルマートで、買い物AIへの態度が真っ二つに割れてるの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ウォルマートって、アメリカの巨大スーパーだっけ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "正解。ここで言う買い物AIは、エージェントっていって、人の代わりに商品を探して注文までしてくれるAIのことよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、おつかいロボットじゃん! ボクの代わりに牛乳を買ってきてくれるやつ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そのおつかいロボットを、アマゾンは玄関で止めてるの。九月には、メタの買い物AIもアマゾンのサイトから締め出されたって報じられたわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、お客さんの代わりに来たのに、門前払いなのだ!?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "アマゾン自身は、許可なく顧客アカウントや購入処理にアクセスすることへの安全性と使い勝手の懸念を理由にしてるの。ただ、広告事業を守りたい思惑もあるんじゃないか、と見る専門家もいるわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "チラシを一切見ないで、牛乳だけ買って帰るお客さんは困るってことなのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "たとえは庶民的だけど、それは専門家が示した見立ての一つね。逆にウォルマートは、グーグルのジェミニの中から買い物できるようにして、AIのお客さんを歓迎してるわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "片方は門を閉めて、片方は全開って、真逆じゃん!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。要するに、ネット通販の入り口をお店のサイトが握るか、AIが握るかの綱引きね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクたち日本の買い物にも、関係あるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "すぐには変わらないわ。でも将来、どのAIを使うかで、買えるお店や値段の比べ方が変わってくるかもね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "お気に入りのお店がAIに対応してるか、ちょっと気にしてみるのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ラスト四本目は、ちょっと硬めだから手短に。オープンエーアイのAIが、グーグルのクラウドで一部企業向けの試験提供を始めたの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "くらうど? 空に浮かんでる、あのモクモクなのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "雲から離れて。クラウドは、ネットの向こうの巨大なサーバー倉庫を、会社がレンタルして使うサービスのことよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "自分でパソコンを山ほど買わずに、借りて済ませる感じなのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そういうこと。これでグーグルのクラウドは、自社のジェミニやアンソロピックのクロードに加えて、オープンエーアイのモデルも一部企業向けに並べ始めたわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、ライバルの商品まで、自分のお店の棚に並べちゃうのだ!?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "コンビニに、よそのメーカーの飲み物も並んでるのと同じよ。お客さんがよそのお店に行かなくて済むなら、それでいいの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、オープンエーアイって、前はマイクロソフトとべったりだったんじゃないのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "よく覚えてたわね。だから、一社だけで抱え込むやり方がゆるんできた象徴、って見られてるの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "AIの賢さだけじゃなくて、どのクラウドの棚に並ぶかも勝負になってきたってこと?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今の一言が正解。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、ボクたちのお財布にはどう響くの?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "会社はデータを別の場所へ移したり、新しいクラウド契約を結んだりせずに、使えるAIの選択肢を増やせるの。まずは企業にとって導入しやすくなる効果が大きいわね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "競争してくれたほうが、ボクたちはうれしいのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで、今朝はこの四本だったわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "AIが穴を見つけて、車に乗り込んで、買い物で門前払いされて、よそのお店の棚にも並んだのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "まとめ方が雑だけど、合ってるのがくやしいわね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "今日のボクの宿題は、アプリの更新ボタンなのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "完璧ね。聴いてくれてるかた、いってらっしゃい。気になる話があったら、各社の報道ものぞいてみてね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "また明日のテック朝便で会うのだー!",
+      "news_index": 0
+    }
+  ],
+  "program_description": "旅の道ラジオ朝便のテックニュース回。一本目は、ウェブサイトの裏側で動くピーエイチピーの緊急レベルの穴を、オープンエーアイ側の研究者と、グーグルのAIなどを使ったセキュリティ企業が見つけた話と、サイト運営者にはPHP更新が急務で、ふだんの機器更新も大切だという話。二本目は、グーグルのジェミニがアップルのカープレイで会話しながら道案内してくれるようになった話。三本目は、買い物を代行するAIをアマゾンは締め出し、ウォルマートは歓迎するという真逆の作戦。四本目は、オープンエーアイのAIがグーグルのクラウドにも並び、AIの勝負が棚の取り合いになってきた話。通勤のお供にサクッと聴ける回です。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20261022_050417_chars.webp",
+    "hero_rel": "/images/topics/tech_20261022_050417.webp",
+    "title": "AIが入り込む朝 〜裏口を見つける探偵と、門前払いのおつかいロボ〜",
+    "companies": [
+      "OpenAI",
+      "Google",
+      "Gemini",
+      "Amazon",
+      "Apple",
+      "Claude",
+      "Microsoft",
+      "Meta"
+    ],
+    "thumbnail_ready": true
+  },
+  "summary_short": "AIが朝の暮らしに入り込む四本立て。PHPの緊急級の穴をAIが見つけた話、ジェミニのカープレイ対応、買い物代行AIを締め出すアマゾンと歓迎するウォルマート、クラウドの棚取り合戦まで。",
+  "published_at": "2026-10-22T07:02:22+09:00"
+}
