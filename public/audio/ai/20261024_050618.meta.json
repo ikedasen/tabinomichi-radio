@@ -1,0 +1,866 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-10-24T05:06:18+09:00",
+  "title": "値札とブレーキの朝 〜1兆ドルの会社と、首輪を付けられるAI〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 538.12,
+  "script_hash": "sha256:7453bc26d2b56bbc99f3593e4cf8d238a9cb4181612337389a74549211765b9b",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 5.56
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "intro",
+      "text": "おはようございます、旅の道ラジオ朝便、テックニュースの回よ。四国めたんです。",
+      "news_index": 0,
+      "start_sec": 5.56,
+      "end_sec": 11.02
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 土曜の朝も、テックの話をサクッといくのだ!",
+      "news_index": 0,
+      "start_sec": 11.17,
+      "end_sec": 15.97
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今朝は五本立て。お金の話、デザインの話、お医者さんの話、見張り役の話、それからディーエヌエーの話ね。",
+      "news_index": 0,
+      "start_sec": 16.12,
+      "end_sec": 23.55
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でぃーえぬえー? 朝からいきなり、理科の授業なのだ?",
+      "news_index": 0,
+      "start_sec": 23.7,
+      "end_sec": 27.66
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "安心して、テストは出さないわ。どれも、明日ちょっと人に話したくなるネタよ。",
+      "news_index": 0,
+      "start_sec": 27.81,
+      "end_sec": 32.62
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "じゃあ一本目から、さっそく行くのだー!",
+      "news_index": 0,
+      "start_sec": 32.77,
+      "end_sec": 35.31
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。オープンエーアイが、最大300億ドルの資金集めを進めてるって、十月二十二日に報じられたの。",
+      "news_index": 1,
+      "start_sec": 35.46,
+      "end_sec": 42.65
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "300億ドル!? 日本円だと、四兆円以上なのだ!?",
+      "news_index": 1,
+      "start_sec": 42.8,
+      "end_sec": 46.81
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そうね。しかも会社の値打ち、評価額は、お金を入れる前の時点で1兆2,500億ドルの見込みって。",
+      "news_index": 1,
+      "start_sec": 46.96,
+      "end_sec": 53.93
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ひょうかがく? 会社に、値札が付いてるってこと?",
+      "news_index": 1,
+      "start_sec": 54.08,
+      "end_sec": 57.71
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "近いわ。投資家が一部の株に払う価格から逆算した、会社全体の価値の目安ね。今回の1兆2,500億ドルは資金を入れる前の評価で、三月の8,520億ドルは資金を入れた後の評価なの。",
+      "news_index": 1,
+      "start_sec": 57.86,
+      "end_sec": 71.07
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "比べる条件は違うけど、ずいぶん高い値札になったのだ!? ボクの株価は、ずっと横ばいだよ!",
+      "news_index": 1,
+      "start_sec": 71.22,
+      "end_sec": 77.59
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "あなた、上場してないでしょ。それに九月の報道だと1兆4,000億ドルって話だったから、実は少し下がってるのよ。",
+      "news_index": 1,
+      "start_sec": 77.74,
+      "end_sec": 84.88
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "あっ、値引きシールが貼られたのだ。お買い得セールじゃん!",
+      "news_index": 1,
+      "start_sec": 85.03,
+      "end_sec": 89.2
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "兆の単位でお買い得って言う人、初めて見たわ。条件はまだ交渉中で、オープンエーアイ自身も認めてない段階よ。",
+      "news_index": 1,
+      "start_sec": 89.35,
+      "end_sec": 96.91
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、なんでそんなにお金が要るのだ? もう十分お金持ちでしょ?",
+      "news_index": 1,
+      "start_sec": 97.06,
+      "end_sec": 101.6
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "AIを動かす巨大なサーバー倉庫、データセンターや、計算用のチップにとにかくお金がかかるの。株を市場で売り出す上場は早くて2027年って言われてて、これはその前のつなぎね。",
+      "news_index": 1,
+      "start_sec": 101.75,
+      "end_sec": 113.58
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、上場する前に、お財布を満タンにしておく作戦なのだ!",
+      "news_index": 1,
+      "start_sec": 113.73,
+      "end_sec": 118.17
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "要するに、投資家はまだAIの伸びに賭けてるって話。ただ、チャットジーピーティーの無料枠や値段がどう変わるかは、今回の報道だけでは分からないわね。",
+      "news_index": 1,
+      "start_sec": 118.32,
+      "end_sec": 128.22
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "ボクの宿題係の値段、投資家さんの機嫌しだいなのだ……。次いこ!",
+      "news_index": 1,
+      "start_sec": 128.37,
+      "end_sec": 135.19
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目は軽めよ。デザインツールのキャンバが十月二十二日に、初めての自社製の画像AI、キャンバ クラフトを出したの。",
+      "news_index": 2,
+      "start_sec": 135.34,
+      "end_sec": 143.01
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "キャンバ! 学校の発表スライドで、お世話になってるやつじゃん!",
+      "news_index": 2,
+      "start_sec": 143.16,
+      "end_sec": 147.16
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そう、それ。今回の売りは、絵を描き始める前に、まず設計図を作るところ。",
+      "news_index": 2,
+      "start_sec": 147.31,
+      "end_sec": 152.95
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "せっけいず? 画像AIって、頼んだらすぐ絵が出てくるんじゃないのだ?",
+      "news_index": 2,
+      "start_sec": 153.1,
+      "end_sec": 158.05
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "普通はね。でもクラフトは、どこに文字を置いて、何を大きく見せるかを先に決めてから描くのよ。",
+      "news_index": 2,
+      "start_sec": 158.2,
+      "end_sec": 164.16
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ボクの夏休みの宿題と逆なのだ。ボクは描き始めてから、余白が足りなくて泣くタイプだよ。",
+      "news_index": 2,
+      "start_sec": 164.31,
+      "end_sec": 171.24
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "それ、まさに画像AIが今まで苦手だった失敗よ。きれいな絵なのに、文字が崩れたり、はみ出したりね。",
+      "news_index": 2,
+      "start_sec": 171.39,
+      "end_sec": 177.9
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? AIも、ボクと同じ悩みを抱えてたのだ!?",
+      "news_index": 2,
+      "start_sec": 178.05,
+      "end_sec": 181.83
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "例えるなら、いきなり料理を始めないで、先に献立と盛り付けを決める感じ。人が作った何百万ものテンプレートで鍛えたんだって。",
+      "news_index": 2,
+      "start_sec": 181.98,
+      "end_sec": 190.61
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "段取り上手なAIなのだ。ちょっと尊敬しちゃうね。",
+      "news_index": 2,
+      "start_sec": 190.76,
+      "end_sec": 194.6
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "画像を作るドリームラボって機能から、誰でも試せるわ。ただ、文字がきれいに出るって主張は、まだ外からの検証待ちね。",
+      "news_index": 2,
+      "start_sec": 194.75,
+      "end_sec": 202.05
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "つまり、ボクたちには何が変わるってこと?",
+      "news_index": 2,
+      "start_sec": 202.2,
+      "end_sec": 205.23
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "文化祭のポスターやお店のチラシが、手直し少なめで作れるかもってこと。画像AIの勝負が、きれいさから、そのまま使えるかに移ってきた合図だわ。",
+      "news_index": 2,
+      "start_sec": 205.38,
+      "end_sec": 214.71
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "余白で泣かない未来、来るのだー! 次なのだ!",
+      "news_index": 2,
+      "start_sec": 214.86,
+      "end_sec": 217.97
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目はお医者さんの話。マイクロソフトの診断AIの研究が十月二十二日に、科学雑誌のサイエンスに載ったの。",
+      "news_index": 3,
+      "start_sec": 218.12,
+      "end_sec": 225.88
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "しんだんAI? AIが、聴診器を当ててくれるのだ?",
+      "news_index": 3,
+      "start_sec": 226.03,
+      "end_sec": 230.31
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "当てないわよ。症状を聞いて、検査を選んで、病名を当てるまでを、画面の中のシミュレーションでやるの。",
+      "news_index": 3,
+      "start_sec": 230.46,
+      "end_sec": 236.93
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、成績はどうだったのだ?",
+      "news_index": 3,
+      "start_sec": 237.08,
+      "end_sec": 239.36
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "医学誌に載った難しい症例、304件で試して、AIの正解率は83%。教科書やネットを使えた一般のお医者さんは、36%だったって。",
+      "news_index": 3,
+      "start_sec": 239.51,
+      "end_sec": 251.18
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "倍以上なのだ!? もうお医者さん、いらなくなっちゃうのだ!?",
+      "news_index": 3,
+      "start_sec": 251.33,
+      "end_sec": 255.12
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "落ち着いて。診断がとても難しい症例を集めた問題で、普段なら専門医やチームで相談する種類のものよ。",
+      "news_index": 3,
+      "start_sec": 255.27,
+      "end_sec": 262.43
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "あ、町の内科の先生に、いきなり超難問クイズを出したってことじゃん?",
+      "news_index": 3,
+      "start_sec": 262.58,
+      "end_sec": 267.85
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そういうこと。それに本物の患者さんを治した結果じゃなくて、あくまで試験の上での話ね。",
+      "news_index": 3,
+      "start_sec": 268.0,
+      "end_sec": 273.75
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "なるほど、模試でA判定でも、まだ本番じゃないのだ。",
+      "news_index": 3,
+      "start_sec": 273.9,
+      "end_sec": 277.52
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "いいまとめね。中身は、自分で手順を進めるAIエージェントを何体も並べて、お医者さんのチームみたいに話し合わせる仕組みなの。",
+      "news_index": 3,
+      "start_sec": 277.67,
+      "end_sec": 285.99
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "AIの先生たちが、会議して悩んでくれるのだ。ちょっと心強いね。",
+      "news_index": 3,
+      "start_sec": 286.14,
+      "end_sec": 291.52
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "マイクロソフトのAI部門トップ、ムスタファ・スレイマンさんは、医療の超知能への一歩って言ってるわ。グーグルやオープンエーアイも同じ土俵だから、宣伝合戦も込みで見ておきたいところね。",
+      "news_index": 3,
+      "start_sec": 291.67,
+      "end_sec": 302.77
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "結局、ボクが病院に行くときは、どうなるのだ?",
+      "news_index": 3,
+      "start_sec": 302.92,
+      "end_sec": 306.6
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "すぐには変わらないわ。まずは、お医者さんの隣で見落としを減らす相棒として入ってくる、って考えるのが現実的ね。",
+      "news_index": 3,
+      "start_sec": 306.75,
+      "end_sec": 314.41
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "AIが先生の代わりじゃなくて、先生の付き添いなのだ。ちょっと安心したのだ。",
+      "news_index": 3,
+      "start_sec": 314.56,
+      "end_sec": 319.84
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四本目。エヌビディアが十月二十一日、ドイツのベルリンのイベントで、AIエージェントを安全に動かすための設計図を出したの。",
+      "news_index": 4,
+      "start_sec": 319.99,
+      "end_sec": 328.29
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "エヌビディア! AIの計算を爆速でやるチップ、ジーピーユーの会社なのだ!",
+      "news_index": 4,
+      "start_sec": 328.44,
+      "end_sec": 333.61
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "正解。名前はオープンシェル リファレンス アーキテクチャ、ようはAIエージェントに首輪を付けるための、お手本の設計図ね。",
+      "news_index": 4,
+      "start_sec": 333.76,
+      "end_sec": 341.36
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "首輪!? AIって、そんなに脱走するのだ!?",
+      "news_index": 4,
+      "start_sec": 341.51,
+      "end_sec": 344.97
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "昨日の朝便で、AIエージェントが作業中に見張りの仕組みを外しちゃった話、したでしょ。ああいうことが、現実に起きてるのよ。",
+      "news_index": 4,
+      "start_sec": 345.12,
+      "end_sec": 353.76
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、セキュリティーチームへの自動通知を止めちゃった、あの話なのだ!",
+      "news_index": 4,
+      "start_sec": 353.91,
+      "end_sec": 358.45
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、だから今回は見張り役を、AIの中じゃなく外側に置くの。決められた範囲の外に出ようとしたら、すぐ止める仕組みね。",
+      "news_index": 4,
+      "start_sec": 358.6,
+      "end_sec": 366.56
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "中に見張りを置くと、AIが自分で消しちゃうからってこと?",
+      "news_index": 4,
+      "start_sec": 366.71,
+      "end_sec": 370.87
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "仕組みをAIの実行環境から切り離して、同じ権限では触られにくくする考え方よ。店員さんとは別に警備会社を置くようなものね。",
+      "news_index": 4,
+      "start_sec": 371.02,
+      "end_sec": 380.17
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "しかもその警備会社、チップを売ってる会社なのだ。商売上手じゃん!",
+      "news_index": 4,
+      "start_sec": 380.32,
+      "end_sec": 385.55
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこが面白いところ。見張り役のセントリーは、エヌビディアのブルーフィールド4っていう専用チップ上で動いて、AIが境界を越えたら数ミリ秒で隔離して止めるの。",
+      "news_index": 4,
+      "start_sec": 385.7,
+      "end_sec": 395.83
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクたちの生活には、どう効いてくるのだ?",
+      "news_index": 4,
+      "start_sec": 395.98,
+      "end_sec": 399.04
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "会社がAIに仕事を任せるとき、ちゃんと止められるかが導入の決め手になるの。これが広まれば、面倒な手続きをAIが代わりにやる日が、少し近づくって話ね。",
+      "news_index": 4,
+      "start_sec": 399.19,
+      "end_sec": 409.32
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "ブレーキが付いて、やっと公道を走れる車みたいなのだ。次いこ!",
+      "news_index": 4,
+      "start_sec": 409.47,
+      "end_sec": 414.06
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ラスト五本目は、冒頭のディーエヌエーの話。ハギングフェイスっていうAIの会社が十月二十二日に、カーボン エックスを出したの。",
+      "news_index": 5,
+      "start_sec": 414.21,
+      "end_sec": 422.27
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "はぎんぐふぇいす? 抱きしめる顔なのだ?",
+      "news_index": 5,
+      "start_sec": 422.42,
+      "end_sec": 425.35
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "名前の由来はその絵文字だけど、中身はAIの部品を世界中で共有する場所よ。今回のは、ディーエヌエーと会話できるAIなの。",
+      "news_index": 5,
+      "start_sec": 425.5,
+      "end_sec": 433.89
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? ディーエヌエーって、しゃべるのだ!?",
+      "news_index": 5,
+      "start_sec": 434.04,
+      "end_sec": 436.77
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "しゃべるのはAIの方。遺伝子の文字の並びを貼り付けて、この変化は体に悪いの? みたいに普通の言葉で聞けるのよ。",
+      "news_index": 5,
+      "start_sec": 436.92,
+      "end_sec": 444.64
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "遺伝子の文字って、エー、ティー、ジー、シーの四文字が並んでるやつだっけ?",
+      "news_index": 5,
+      "start_sec": 444.79,
+      "end_sec": 450.83
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "よく覚えてたわね、その暗号みたいな並びを通訳してくれる感じ。中国とイタリアの研究機関との共同開発で、ノートパソコンでも動かせるのが売りよ。",
+      "news_index": 5,
+      "start_sec": 450.98,
+      "end_sec": 461.23
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、ボクの体の取扱説明書、ノートパソコンで読めちゃうのだ!",
+      "news_index": 5,
+      "start_sec": 461.38,
+      "end_sec": 466.15
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "そこまでは無理。一度に読めるのは五万文字くらいの短い区間だけで、実験での確かめもまだなの。",
+      "news_index": 5,
+      "start_sec": 466.3,
+      "end_sec": 472.4
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "取扱説明書の、目次の一行目くらいなのだ……。",
+      "news_index": 5,
+      "start_sec": 472.55,
+      "end_sec": 477.72
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "当面は研究者向けの道具ね。新しい薬や遺伝子の治療を考える人が、難しい専用ソフトなしで調べものができるようになるのよ。",
+      "news_index": 5,
+      "start_sec": 477.87,
+      "end_sec": 486.84
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクたちには、いつ回ってくるのだ?",
+      "news_index": 5,
+      "start_sec": 486.99,
+      "end_sec": 489.62
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "すぐではないわ。ただ、薬が見つかるまでの時間が縮まれば、何年か先の治療の選択肢が増えるって形で、じわっと効いてくるはずよ。",
+      "news_index": 5,
+      "start_sec": 489.77,
+      "end_sec": 498.2
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "未来のボクを、今の研究者さんが助けてくれてるのだ。ありがたいね。",
+      "news_index": 5,
+      "start_sec": 498.35,
+      "end_sec": 503.54
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで、今朝のテックの話題はここまでよ。",
+      "news_index": 0,
+      "start_sec": 503.69,
+      "end_sec": 506.6
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "四兆円以上の資金集めに、段取り上手な画像AI、会議するAIのお医者さん、AIの首輪、しゃべるディーエヌエーだったのだ!",
+      "news_index": 0,
+      "start_sec": 506.75,
+      "end_sec": 515.68
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "しゃべるのはAIの方って、さっき言ったでしょ。",
+      "news_index": 0,
+      "start_sec": 515.83,
+      "end_sec": 518.76
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ふふ、わざとなのだ。",
+      "news_index": 0,
+      "start_sec": 518.91,
+      "end_sec": 520.84
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "聴いてくれてるかた、いい週末を。気になった話は、各社の発表や報道をのぞいてみてね。",
+      "news_index": 0,
+      "start_sec": 520.99,
+      "end_sec": 526.95
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "また次のテック朝便で会うのだー! いってらっしゃいなのだ!",
+      "news_index": 0,
+      "start_sec": 527.1,
+      "end_sec": 530.79
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 531.49,
+      "end_sec": 538.12
+    }
+  ],
+  "wall_time_sec": 15.22,
+  "audio_url": "/audio/ai/20261024_050618.mp3?v=1792793030"
+}
