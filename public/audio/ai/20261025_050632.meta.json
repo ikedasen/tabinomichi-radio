@@ -1,0 +1,846 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-10-25T05:06:32+09:00",
+  "title": "約束の例外と二日もつ電池の朝 〜広告になるかもしれないメールと、3点差まで迫ったキミ〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 484.5,
+  "script_hash": "sha256:d226190e2904b77d8d9658a640fd47020d9bc1eb047dc41fa3aa0599a1b042bb",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 6.47
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "welcome",
+      "text": "おはようございます、旅の道ラジオ朝便、テックニュースの回よ。四国めたんです。",
+      "news_index": 0,
+      "start_sec": 6.47,
+      "end_sec": 11.93
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 日曜の朝も、テックの話をサクッといくのだ!",
+      "news_index": 0,
+      "start_sec": 12.08,
+      "end_sec": 17.04
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今日は五本。メールが広告の燃料になるかもって話から、二日もつスマホまで、ざっと流すわ。",
+      "news_index": 0,
+      "start_sec": 17.19,
+      "end_sec": 23.45
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "メールが燃料? 燃やしたら、部屋が暖かくなるのだ?",
+      "news_index": 0,
+      "start_sec": 23.6,
+      "end_sec": 27.56
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "物理的に燃やさないの。中身を読むのは、AIと広告の仕組みって話ね。",
+      "news_index": 0,
+      "start_sec": 27.71,
+      "end_sec": 32.5
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "じゃあ一本目から、さっそくいくのだ!",
+      "news_index": 0,
+      "start_sec": 32.65,
+      "end_sec": 35.1
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。グーグルが十月十六日付で、プライバシーポリシー、ようは個人データの扱い方の約束事を書き換えたの。",
+      "news_index": 1,
+      "start_sec": 35.25,
+      "end_sec": 43.13
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ぷらいばしーぽりしー? アプリを入れるとき、読まずに同意ボタンを押すやつだっけ?",
+      "news_index": 1,
+      "start_sec": 43.28,
+      "end_sec": 48.74
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "正解、その誰も読まないやつ。ジーメールやグーグルフォトの中身は広告に使わない、っていう約束に、例外が足されたのよ。",
+      "news_index": 1,
+      "start_sec": 48.89,
+      "end_sec": 57.16
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ! ボクの写真フォルダが、広告に使われちゃうのだ?",
+      "news_index": 1,
+      "start_sec": 57.31,
+      "end_sec": 61.14
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "条件付きね。パーソナル インテリジェンスっていう機能を、自分でオンにした場合だけ。",
+      "news_index": 1,
+      "start_sec": 61.29,
+      "end_sec": 66.57
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "ぱーそなる……個人の知能? ボクの頭の良さを測る機能なのだ?",
+      "news_index": 1,
+      "start_sec": 66.72,
+      "end_sec": 72.51
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "測らないわよ。メールや写真をAIに読ませて、検索の答えを自分向けにしてくれる機能なの。",
+      "news_index": 1,
+      "start_sec": 72.66,
+      "end_sec": 78.64
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、ホテルの予約メールを見て、近くのお店を勧めてくれる、みたいなやつじゃん!",
+      "news_index": 1,
+      "start_sec": 78.79,
+      "end_sec": 84.01
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "まさにグーグル自身が出してる例ね。で、その便利機能を使うと、広告の材料にもなりうるって話。",
+      "news_index": 1,
+      "start_sec": 84.16,
+      "end_sec": 90.84
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "受信箱を、そのまま広告屋さんに見せちゃうってこと?",
+      "news_index": 1,
+      "start_sec": 90.99,
+      "end_sec": 94.73
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "受信箱そのものを直接使うわけじゃない、健康みたいな繊細な分野では広告を出さない、っていうのがグーグルの説明だわ。",
+      "news_index": 1,
+      "start_sec": 94.88,
+      "end_sec": 102.73
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "でも、メールから読み取ったまとめは使うかも、ってことでしょ? 抜け道っぽいのだ。",
+      "news_index": 1,
+      "start_sec": 102.88,
+      "end_sec": 108.92
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "いい勘してる。日記そのものじゃなくて、日記からAIが作った要約や気づきが、グーグルの広告選びにも影響するかも、って感じ。",
+      "news_index": 1,
+      "start_sec": 109.07,
+      "end_sec": 117.76
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "感想文でも、ボクの秘密がバレバレなのだ!",
+      "news_index": 1,
+      "start_sec": 117.91,
+      "end_sec": 120.95
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "安心して、この機能は自分で選んでオンにする仕組み。検索の設定から、オフにもできるのよ。",
+      "news_index": 1,
+      "start_sec": 121.1,
+      "end_sec": 127.37
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "要するに、便利ボタンを押す前に、説明文を一回読むってことなのだ。",
+      "news_index": 1,
+      "start_sec": 127.52,
+      "end_sec": 132.5
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今の一言が正解。AIを便利にするデータは、広告の燃料にもなる時代ってわけ。次いこ。",
+      "news_index": 1,
+      "start_sec": 132.65,
+      "end_sec": 139.07
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目。中国のムーンショット エーアイが、キミ ケースリー テンイチ プロっていうAIを出したの。",
+      "news_index": 2,
+      "start_sec": 139.15,
+      "end_sec": 144.58
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "キミ!? ボクのこと呼んだのだ? 照れるのだー。",
+      "news_index": 2,
+      "start_sec": 144.73,
+      "end_sec": 148.2
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "呼んでないわよ。創業者の英語のニックネームから付いた、チャットのAIの名前ね。",
+      "news_index": 2,
+      "start_sec": 148.35,
+      "end_sec": 153.45
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、そのキミちゃんは何がすごいのだ?",
+      "news_index": 2,
+      "start_sec": 153.6,
+      "end_sec": 156.33
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "第三者の採点で、アンソロピックの最上位、オーパス ゴーテンゴにかなり迫ったの。総合点はキミが55点、オーパスが58点。",
+      "news_index": 2,
+      "start_sec": 156.48,
+      "end_sec": 164.84
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "3点差!? ボクの小テストなら、誤差の範囲なのだ!",
+      "news_index": 2,
+      "start_sec": 164.99,
+      "end_sec": 168.63
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "でしょ。しかもお値段は、読ませる文章100万トークンで2ドル。トークンは、文章を細かく刻んだ切れ端のことね。",
+      "news_index": 2,
+      "start_sec": 168.78,
+      "end_sec": 176.06
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "2ドルって三百円くらい? 高いのか安いのか、さっぱりなのだ。",
+      "news_index": 2,
+      "start_sec": 176.21,
+      "end_sec": 180.89
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "最上位クラスの中では、安い部類。しかも十一月四日までに、モデルの重みを公開する予定だって。",
+      "news_index": 2,
+      "start_sec": 181.04,
+      "end_sec": 188.04
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、総合点が近くて安いなら、そっちを選ぶ人も増えそうなのだ!",
+      "news_index": 2,
+      "start_sec": 188.19,
+      "end_sec": 192.85
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ただ、3点差はひとつの総合指標での話。使い道ごとの得意不得意は別だから、この数字だけで決めるのは禁物よ。",
+      "news_index": 2,
+      "start_sec": 193.0,
+      "end_sec": 200.75
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "通知表の自己採点ってことなのだ。",
+      "news_index": 2,
+      "start_sec": 200.9,
+      "end_sec": 203.7
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "うまいこと言うわね。それでも中国勢の追い上げで、アメリカの各社も値札を見直すかもしれないわ。",
+      "news_index": 2,
+      "start_sec": 203.85,
+      "end_sec": 210.05
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "つまり、ボクたちが払うAIの月額も、そのうち安くなるかもってことなのだ!",
+      "news_index": 2,
+      "start_sec": 210.2,
+      "end_sec": 215.97
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そういうこと。勝負は性能だけじゃなく、いくらで出せるかも大事になってきてる。次は軽めよ。",
+      "news_index": 2,
+      "start_sec": 216.12,
+      "end_sec": 221.95
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目。モトローラが十月二十三日に、エッジ ナナジュウ フュージョンっていうスマホを日本で発売したの。",
+      "news_index": 3,
+      "start_sec": 222.03,
+      "end_sec": 228.55
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ふゅーじょん? 二人が合体して、強くなるあれなのだ?",
+      "news_index": 3,
+      "start_sec": 228.7,
+      "end_sec": 232.76
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "合体はしないわよ。売りは電池で、容量は7,000ミリアンペアアワー。",
+      "news_index": 3,
+      "start_sec": 232.91,
+      "end_sec": 237.36
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "みりあんぺあ……あわー? 呪文が長すぎるのだ!",
+      "news_index": 3,
+      "start_sec": 237.51,
+      "end_sec": 241.53
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "電池にためられる電気の量、ようは電池のタンクの大きさね。メーカーいわく、一回の充電で二日使えるって。",
+      "news_index": 3,
+      "start_sec": 241.68,
+      "end_sec": 249.11
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "二日も!? ボク、毎日夕方には電池が真っ赤なのだ!",
+      "news_index": 3,
+      "start_sec": 249.26,
+      "end_sec": 253.17
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "それは使いすぎ。しかも水やほこりに強くて、おサイフケータイにも対応してるわ。",
+      "news_index": 3,
+      "start_sec": 253.32,
+      "end_sec": 258.43
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "おサイフケータイ! 電車もコンビニも、ピッてできるやつなのだ!",
+      "news_index": 3,
+      "start_sec": 258.58,
+      "end_sec": 262.55
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。直販の値段は7万9,800円よ。",
+      "news_index": 3,
+      "start_sec": 262.7,
+      "end_sec": 266.09
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "八万円弱……。最近のスマホにしては、控えめなのだ?",
+      "news_index": 3,
+      "start_sec": 266.24,
+      "end_sec": 270.48
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "折りたたみみたいな高級機が増える中だと、真ん中あたりの価格帯ね。",
+      "news_index": 3,
+      "start_sec": 270.63,
+      "end_sec": 275.15
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "充電器を持ち歩かなくていいなら、カバンが軽くなるのだ。",
+      "news_index": 3,
+      "start_sec": 275.3,
+      "end_sec": 279.21
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "スマホ選びは、カメラだけじゃなく電池の持ちで選ぶのもアリって話。次いこ。",
+      "news_index": 3,
+      "start_sec": 279.36,
+      "end_sec": 284.51
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四本目は、ちょっと未来っぽい話。アンソロピックのクロードが、プログラムの正しさを数学で証明する作業を、大量にやってのけたの。",
+      "news_index": 4,
+      "start_sec": 284.59,
+      "end_sec": 292.87
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "数学で証明? 動かしてテストすれば、分かるんじゃないのだ?",
+      "news_index": 4,
+      "start_sec": 293.02,
+      "end_sec": 297.54
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "テストは、いくつか試して大丈夫そう、まで。証明は、決めた条件の範囲なら、どんな入力でも性質が成り立つって言い切るのよ。",
+      "news_index": 4,
+      "start_sec": 297.69,
+      "end_sec": 306.23
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、味見するのと、レシピの理論で証明するくらい違うってことなのだ!",
+      "news_index": 4,
+      "start_sec": 306.38,
+      "end_sec": 311.35
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いい例えね。ただ大変で、たとえば小さなOSの中核、エスイーエルフォーは、作るのに二人年、数学で検証するのに二十人年かかったの。",
+      "news_index": 4,
+      "start_sec": 311.5,
+      "end_sec": 320.86
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "二十年!? 人間が生まれてから、大人になるまでなのだ!",
+      "news_index": 4,
+      "start_sec": 321.01,
+      "end_sec": 324.89
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今回は別の対象だけど、グーグルのオーエスエス ファズに参加する123個の公開ライブラリで、239個の検査入口について、数週間で証明を作ったの。証明は約1億8,000万行。",
+      "news_index": 4,
+      "start_sec": 325.04,
+      "end_sec": 338.12
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "1億8,000万行!? 全部読むには、人生が何回あっても足りないのだ!",
+      "news_index": 4,
+      "start_sec": 338.27,
+      "end_sec": 343.45
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "人間は読まないわよ。証明が正しいかは、別の専用ソフトが機械的にチェックするの。",
+      "news_index": 4,
+      "start_sec": 343.6,
+      "end_sec": 349.14
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、それで何か見つかったのだ?",
+      "news_index": 4,
+      "start_sec": 349.29,
+      "end_sec": 351.72
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "証明を作ろうとする過程で、バグが数百件見つかったの。別の検証実験では、十年以上潜んでいたミスも見つけたって。",
+      "news_index": 4,
+      "start_sec": 351.87,
+      "end_sec": 359.81
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "でも、絶対バグらない、までは言えないんでしょ? ボクにはお見通しなのだ。",
+      "news_index": 4,
+      "start_sec": 359.96,
+      "end_sec": 365.69
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "鋭いじゃない。条件付きの証明だから、アンソロピック自身も、検証済みはバグゼロって意味じゃないって言ってるわ。",
+      "news_index": 4,
+      "start_sec": 365.84,
+      "end_sec": 373.02
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "それでも、ボクが使ってるアプリの部品が、こっそり丈夫になっていくのだ。",
+      "news_index": 4,
+      "start_sec": 373.17,
+      "end_sec": 377.88
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そういうこと。AIがコードを書く時代に、正しさの確認もAIがやる流れね。最後は硬めだから手短に。",
+      "news_index": 4,
+      "start_sec": 378.03,
+      "end_sec": 385.38
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ラスト五本目。オープンエーアイを解雇された安全性の研究者三人が、どの情報を不適切に扱ったとされるのか、書面では一度も説明されていないってウォール ストリート ジャーナルに話したの。",
+      "news_index": 5,
+      "start_sec": 385.46,
+      "end_sec": 397.16
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ! 理由をちゃんと言われずにクビって、ひどくないのだ?",
+      "news_index": 5,
+      "start_sec": 397.31,
+      "end_sec": 401.15
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "会社側は、機密情報の扱いのルール違反を調べた結果で、安全性の主張とは関係ないって説明してるわ。",
+      "news_index": 5,
+      "start_sec": 401.3,
+      "end_sec": 408.98
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "その研究者さんたちは、何を主張してたのだ?",
+      "news_index": 5,
+      "start_sec": 409.13,
+      "end_sec": 412.63
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "外部の安全性評価を続けて、AIの考え途中を監視できる性質も損なわないでほしい、って話。",
+      "news_index": 5,
+      "start_sec": 412.78,
+      "end_sec": 419.79
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、テストの途中式を消さずに残しなさい、ってやつじゃん!",
+      "news_index": 5,
+      "start_sec": 419.94,
+      "end_sec": 424.02
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "まさにそれ。途中式が見えると、AIが変なことを考えてないか確かめやすいの。",
+      "news_index": 5,
+      "start_sec": 424.17,
+      "end_sec": 429.6
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "でも、言いたいことを言った人がいなくなったら、みんな黙っちゃうのだ……。",
+      "news_index": 5,
+      "start_sec": 429.75,
+      "end_sec": 435.4
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "研究者側も、社内で心配を口にしにくくなったって言ってるわ。どっちの言い分が正しいかは、まだ分からない話ね。",
+      "news_index": 5,
+      "start_sec": 435.55,
+      "end_sec": 443.18
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクたち使う側には、どう関係あるのだ?",
+      "news_index": 5,
+      "start_sec": 443.33,
+      "end_sec": 446.5
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "AIを外から見張れるかは、安心して使えるかに直結するの。会社の説明だけじゃなく、外の目が入るかを見ておきたいわね。",
+      "news_index": 5,
+      "start_sec": 446.65,
+      "end_sec": 454.59
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "今朝はここまでなのだ! ジーメールの約束の例外に、3点差のキミちゃん、二日もつスマホ!",
+      "news_index": 0,
+      "start_sec": 454.74,
+      "end_sec": 460.89
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "1億8,000万行の証明と、途中式を守りたい研究者の話もね。",
+      "news_index": 0,
+      "start_sec": 461.04,
+      "end_sec": 465.82
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "気になったやつがあったら、元の記事をのぞいてみてほしいのだ!",
+      "news_index": 0,
+      "start_sec": 465.97,
+      "end_sec": 470.2
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "聴いてくれてるかた、いってらっしゃい。日曜日も、いい一日をね。",
+      "news_index": 0,
+      "start_sec": 470.35,
+      "end_sec": 474.64
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "また明日のテック朝便で会うのだー!",
+      "news_index": 0,
+      "start_sec": 474.79,
+      "end_sec": 477.16
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 477.86,
+      "end_sec": 484.5
+    }
+  ],
+  "wall_time_sec": 13.68,
+  "audio_url": "/audio/ai/20261025_050632.mp3?v=1792879372"
+}

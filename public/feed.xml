@@ -7,8 +7,8 @@
     <description>ずんだもん × めたん × つむぎが届ける、ゲーム &amp; テックニュース雑談ラジオ。朝便と夜便で毎日更新、レトロから新作まで、最新 AI 動向から業界マクロまで雑談形式でサクッと。</description>
     <language>ja</language>
     <copyright>© 2026 tabinomichi</copyright>
-    <lastBuildDate>Sat, 24 Oct 2026 17:11:09 +0900</lastBuildDate>
-    <pubDate>Sat, 24 Oct 2026 07:02:42 +0900</pubDate>
+    <lastBuildDate>Sun, 25 Oct 2026 07:02:55 +0900</lastBuildDate>
+    <pubDate>Sun, 25 Oct 2026 07:01:43 +0900</pubDate>
     <generator>build_rss_feed.py (tabinomichi radio)</generator>
     <image>
       <url>https://news.tabinomichi.jp/podcast-cover.png?v=1779005902</url>
@@ -29,6 +29,21 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>約束の例外と二日もつ電池の朝 〜広告になるかもしれないメールと、3点差まで迫ったキミ〜</title>
+      <link>https://news.tabinomichi.jp/radio/20261025_050632</link>
+      <guid isPermaLink="false">tabinomichi-radio-20261025_050632</guid>
+      <pubDate>Sun, 25 Oct 2026 07:01:43 +0900</pubDate>
+      <description>日曜の朝に、テックの話題を五本サクッとまとめる回。グーグルがプライバシーポリシーを書き換えて、ジーメールや写真の中身を広告に使わないという約束に例外が付いた話から始まり、中国のムーンショット エーアイが出したキミ ケースリー テンイチ プロがオーパス ゴーテンゴに3点差まで迫った話、二日もつ電池のスマホ、モトローラ エッジ ナナジュウ フュージョンの日本発売、クロードが1億8,000万行の証明でプログラムの正しさを確かめた研究、そしてオープンエーアイを解雇された安全性の研究者三人の訴えまで。ずんだもんのボケとめたんのツッコミで、暮らしにどう関わるかまで噛み砕いていく。</description>
+      <content:encoded><![CDATA[日曜の朝に、テックの話題を五本サクッとまとめる回。グーグルがプライバシーポリシーを書き換えて、ジーメールや写真の中身を広告に使わないという約束に例外が付いた話から始まり、中国のムーンショット エーアイが出したキミ ケースリー テンイチ プロがオーパス ゴーテンゴに3点差まで迫った話、二日もつ電池のスマホ、モトローラ エッジ ナナジュウ フュージョンの日本発売、クロードが1億8,000万行の証明でプログラムの正しさを確かめた研究、そしてオープンエーアイを解雇された安全性の研究者三人の訴えまで。ずんだもんのボケとめたんのツッコミで、暮らしにどう関わるかまで噛み砕いていく。]]></content:encoded>
+      <enclosure url="https://news.tabinomichi.jp/audio/ai/20261025_050632.mp3?v=1792879372" length="7753185" type="audio/mpeg"/>
+      <itunes:title>約束の例外と二日もつ電池の朝 〜広告になるかもしれないメールと、3点差まで迫ったキミ〜</itunes:title>
+      <itunes:summary>日曜の朝に、テックの話題を五本サクッとまとめる回。グーグルがプライバシーポリシーを書き換えて、ジーメールや写真の中身を広告に使わないという約束に例外が付いた話から始まり、中国のムーンショット エーアイが出したキミ ケースリー テンイチ プロがオーパス ゴーテンゴに3点差まで迫った話、二日もつ電池のスマホ、モトローラ エッジ ナナジュウ フュージョンの日本発売、クロードが1億8,000万行の証明でプログラムの正しさを確かめた研究、そしてオープンエーアイを解雇された安全性の研究者三人の訴えまで。ずんだもんのボケとめたんのツッコミで、暮らしにどう関わるかまで噛み砕いていく。</itunes:summary>
+      <itunes:image href="https://news.tabinomichi.jp/images/og/20261025_050632.jpg"/>
+      <itunes:duration>8:04</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>値札とブレーキの朝 〜1兆ドルの会社と、首輪を付けられるAI〜</title>
       <link>https://news.tabinomichi.jp/radio/20261024_050618</link>
@@ -1511,21 +1526,6 @@
       <itunes:summary>蒸留していないのに、日本酒のアルコール分は20%近くまで上がります。【問い】では、お米は甘くないのに糖はどこから来るのか、酵母は作るアルコールの約2倍の糖を必要とするので20%を狙うと糖40%の水飴になってしまうこと、そして濃い糖が細胞から水を奪うことを確かめ、約11%のワイン、約5%のビールと並べました。【解説】では答えである並行複発酵を先に出し、麹の2種類の酵素がブドウ糖を1粒ずつ小出しにすること、初添え・踊り・仲添え・留添えの三段仕込みが酵母と酸の濃さを守ること、清酒酵母はワインやパンの酵母と同じ種なのに休む号令をかける遺伝子が欠けていることをたどりました。【広がり】では原酒を割水して15%前後で出すこと、酒税法の22度未満という線、焼酎や紹興酒も同じ型であることに触れました。</itunes:summary>
       <itunes:image href="https://news.tabinomichi.jp/images/og/20260908_211139.jpg"/>
       <itunes:duration>9:17</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>1時間おきの空 〜賢くなった天気と、ランウェイを歩くロボット〜</title>
-      <link>https://news.tabinomichi.jp/radio/20260907_052023</link>
-      <guid isPermaLink="false">tabinomichi-radio-20260907_052023</guid>
-      <pubDate>Mon, 07 Sep 2026 05:20:23 +0900</pubDate>
-      <description>テック朝便、今朝は五本立て。まずグーグルが九月三日に出した天気予報AI、物理計算をやめて衛星データから直接学ぶ方式に変わり、一時間おき・五キロ四方まで細かくなった話。次にエヌビディアの新しい描画技術で、肌の透け方や髪への光までAIが描き足すようになったけれど、当面は新しいカード限定という話。三本目はノートパソコンの頭脳がエスオーシーに置き換わって、電池持ちが各社の主戦場になった件。四本目はベルリンで開催中のヨーロッパ最大の家電見本市から、冷蔵庫や洗濯機に入るAIと、厚さ十ミリのノートまで。締めは同じ会場でロボットがランウェイを歩いてバク転していった話です。</description>
-      <content:encoded><![CDATA[テック朝便、今朝は五本立て。まずグーグルが九月三日に出した天気予報AI、物理計算をやめて衛星データから直接学ぶ方式に変わり、一時間おき・五キロ四方まで細かくなった話。次にエヌビディアの新しい描画技術で、肌の透け方や髪への光までAIが描き足すようになったけれど、当面は新しいカード限定という話。三本目はノートパソコンの頭脳がエスオーシーに置き換わって、電池持ちが各社の主戦場になった件。四本目はベルリンで開催中のヨーロッパ最大の家電見本市から、冷蔵庫や洗濯機に入るAIと、厚さ十ミリのノートまで。締めは同じ会場でロボットがランウェイを歩いてバク転していった話です。]]></content:encoded>
-      <enclosure url="https://news.tabinomichi.jp/audio/ai/20260907_052023.mp3?v=1788726674" length="7269189" type="audio/mpeg"/>
-      <itunes:title>1時間おきの空 〜賢くなった天気と、ランウェイを歩くロボット〜</itunes:title>
-      <itunes:summary>テック朝便、今朝は五本立て。まずグーグルが九月三日に出した天気予報AI、物理計算をやめて衛星データから直接学ぶ方式に変わり、一時間おき・五キロ四方まで細かくなった話。次にエヌビディアの新しい描画技術で、肌の透け方や髪への光までAIが描き足すようになったけれど、当面は新しいカード限定という話。三本目はノートパソコンの頭脳がエスオーシーに置き換わって、電池持ちが各社の主戦場になった件。四本目はベルリンで開催中のヨーロッパ最大の家電見本市から、冷蔵庫や洗濯機に入るAIと、厚さ十ミリのノートまで。締めは同じ会場でロボットがランウェイを歩いてバク転していった話です。</itunes:summary>
-      <itunes:image href="https://news.tabinomichi.jp/images/og/20260907_052023.jpg"/>
-      <itunes:duration>7:34</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
