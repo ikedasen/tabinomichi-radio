@@ -1,0 +1,803 @@
+{
+  "profile": "zatsugaku",
+  "generated_at": "2026-10-25T17:35:07.143399+00:00",
+  "title": "自転車が倒れないのはジャイロ効果のおかげではない 〜ハンドルが勝手に「倒れる方」へ切れる話〜",
+  "segments": [
+    {
+      "speaker": "ankomon",
+      "tone": "mic",
+      "text": "旅の道ラジオ、雑学チャンネル。あんこもんだもん。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ずんだもんなのだ! 今日はどんなネタを持ってきたのだ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "今日は自転車だもん。走ってる自転車って、なんで倒れないと思う?",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "止まってると倒れるのに、走ってると倒れないのだ。言われてみると不思議なのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "ずんだもんには分からないと思うけど、一応聞いてあげるもん。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "分かるのだ! 車輪がぐるぐる回ってると、コマみたいに倒れにくくなるからなのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "出たね、ジャイロ効果。それ、主役じゃないんだもん。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、理科の実験動画でよく見るやつなのだ! 違うのだ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "今日こそ、ずんだもんに負けを認めさせるんだもん。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあまず、そのジャイロ効果ってのを、ちゃんと教えてほしいのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "回ってる物は、回る向きを変えられるのを嫌がるんだもん。コマが回ってる間は立ってるのと同じ理屈だもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "自転車の車輪も、回ってるコマが2個並んでるようなものなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "そう見えるでしょ。だから「車輪のコマ効果で倒れない」って説明は、本当によく言われてるもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ほら、やっぱりボクが合ってるのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "shirake",
+      "text": "まだ早いもん。もう1つ、よく出てくる答えがあるんだもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "スーパーのカートの車輪、押すと勝手に進む向きにくるっと揃うでしょ。あれと同じで、自転車の前輪も真っすぐに戻りやすい、って説明だもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "あー、カートの前の車輪なのだ。ふらふらしてても、押すとちゃんと前を向くのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "これをキャスター効果って言うんだもん。キャスターは、あのくるくる回る車輪のことだもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "コマ効果か、カート効果か。どっちかが答えってことなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "研究者の間でも長いこと、どっちか、または両方が必要だって考えられてたんだもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあ、どっちかが正解なのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "ところが、そう簡単じゃないんだもん。まず変な事実を1つ出すもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "誰も乗ってない自転車を、ある程度の速さで押し出すとね。横から軽く押されても、自分で立ち直って走り続けることがあるんだもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "誰も乗ってないのに!? 幽霊が運転してるのだ!?",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "shirake",
+      "text": "幽霊はいないもん。1949年のフランスのコメディ映画「のんき大将脱線の巻」にも、乗り手のいない自転車が長い距離を走っていく場面があるんだもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも、それこそ車輪のコマ効果で立ってるだけじゃないのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "そこがポイントだもん。立ち直る時の自転車をよく見ると、ハンドルが動いてるんだもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "ハンドルが? 誰も握ってないのに?",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "そう。自転車は、コマみたいに踏ん張って立ってるんじゃないんだもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "踏ん張ってないなら、どうやって立ってるのだ? ボク、頭がぐるぐるしてきたのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "要するに、倒れないんじゃなくて、倒れかけるたびに直してるんだもん。答えはその「直し方」にあるもん。",
+      "news_index": 1
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "先に答えを言うもん。自転車は、倒れかけた方向にハンドルが切れて、車輪を体の真下に戻してるんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "倒れる方にハンドルを切るのだ? 倒れる方に曲がったら、もっと倒れそうなのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "ほうきを手のひらに立てて遊んだことある? 倒れそうになったら、倒れる方へ手を動かすでしょ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "あ、手を棒の下に追いかけさせるのだ。そうしないと落ちるのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "自転車も同じだもん。右に傾いたら右にハンドルが切れて、車輪が右へ回り込んで、下から支え直すんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "それに、右に曲がると外向きに振られる力が出るのだ。それが体を起こしてくれるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "hazukashi",
+      "text": "……そ、それも言おうとしてたもん。曲がる時の遠心力が、傾いた自転車を起こす側に働くんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "たまたまだもん。人が乗ってる時も、手でハンドルを倒れる方に切って、車輪を下に戻してるんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "マジかよ! ボクはバランスを体で取ってると思ってたのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "要するに、自転車のバランスはハンドルで取るものなんだもん。ここまでがタネ明かしだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも、乗ってない自転車は手が無いのだ。誰がハンドルを切ってるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "そこが今日の本題だもん。ずんだもん、どう思う?",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "そこでコマ効果なのだ! 回ってる前輪が傾くと、ハンドルがひねられるのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "それ、半分は合ってるもん。傾いた瞬間に、回ってる前輪がハンドルを傾いた側へひねる力は、確かに出るんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "ただ、それだけが理由じゃないんだもん。前輪は自転車と人に比べて軽いから、車体の傾きを直接起こす力としては小さいんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあコマ効果は、ハンドルを切るきっかけ係ってことなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "いい言い方だもん。コマの研究で有名なドイツの学者2人も、ジャイロは引き金の役で、本当に起こす力は遠心力だって書いてるんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "なら、引き金係がいないと、やっぱり倒れちゃうのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "それを本当に試した人がいるんだもん。1970年、イギリスの化学者デビッド・ジョーンズだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "前輪の横に、地面に着かない車輪をもう1つ付けて、逆向きに回したんだもん。そうすると、コマ効果がお互いに打ち消し合うんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "コマを2個、逆回しでくっつけたのだ! それで乗れなくなったのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "普通に乗れたもん。手放しでも、ぎりぎり乗れたんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "マジじゃん! じゃあコマ効果は無くても平気だったのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "ジョーンズはこの研究を、物理学の雑誌に「乗れない自転車探し」として書いてるんだもん。乗れない自転車を作ろうとして、なかなか作れなかったんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "要するに、ジャイロはあれば手伝うけど、無くても自転車は乗れるんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、もう1個のカートの車輪の方が本命なのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "ジョーンズもそう考えたんだもん。注目したのは、トレールっていう長さだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、トレールってそれ何なのだ? ボクには難しすぎるのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "自転車のハンドルの軸って、斜めに傾いてるでしょ。その軸をまっすぐ地面まで伸ばした点より、タイヤが地面に着いてる点の方が少し後ろにあるんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "そのずれの長さがトレールだもん。今の自転車だと、だいたい2センチから10センチだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "タイヤが、ハンドルの軸に引きずられて後ろからついてくる感じなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "nagomi",
+      "text": "そう、それがさっきのカートの車輪と同じ形なんだもん。後ろからついてくるから、向きが揃いやすいんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあ、そのずれを無くしたら乗れなくなるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "ジョーンズは、接地点を軸より前に出して、トレールをマイナスにした自転車も作ったんだもん。そしたら、手放しでは乗れなかったんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ほら、カートの車輪が答えなのだ! 今度こそボクの勝ちなのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "それで決まりなら、この話は1970年で終わってたもん。続きがあるんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shirake",
+      "text": "むむ、まだ終わらないのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "要するに、トレールも「効いてそう」とは分かったけど、それが必要かどうかは、まだ確かめられてなかったんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "2011年、オランダのデルフト工科大学やアメリカのコーネル大学などのチームが、科学雑誌サイエンスに論文を出したんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "2011年って、ジョーンズの実験から40年以上もあとなのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "kamera",
+      "text": "題名を訳すと「自転車は、ジャイロ効果もキャスター効果も無しで、自分で安定できる」だもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "どっちも無し!? さっきの2つの答え、両方いらないってことなのだ!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "まず計算で、両方無くても安定しそうな形を探して、それから本当に作ったんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "車輪はうんと小さくして、さらに逆回転する円盤を付けて、コマ効果をほぼ消したんだもん。トレールはマイナス4ミリにしたんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "マイナス4ミリって、ジョーンズが手放しで乗れなかった向きなのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "そうだもん。見た目は折りたたみのキックボードみたいだけど、車輪2つ、前後2つの部品、つなぎ目3つで、ちゃんと自転車の仲間なんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "で、誰も乗せずに押し出したらどうなったのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "秒速2.3メートルより速い間は、横から叩いても、自分で立ち直って真っすぐ走ったんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "マジかよ! コマも無い、カートの形も逆なのに、立ち直ったのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "秒速2メートルくらいまで遅くなると、倒れ始めたんだもん。時速にすると7キロくらいだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "要するに、ジャイロもトレールも、自転車が自分で立つために絶対必要なものじゃなかったんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、その小さい自転車は、何でハンドルを倒れる方に切ったのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "大事だったのは重さの置き場所だもん。ハンドル側の重りを、軸より前で、しかも後ろの車体より低い位置に付けたんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "重りの場所で、ハンドルが動くのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "短い鉛筆と、長いほうき。手のひらに立てたら、どっちが早く倒れる?",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "短い鉛筆なのだ。ほうきは、ゆっくり倒れるからまだ何とかなるのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "それと同じで、低いところにあるハンドル側の重りは、高い車体より先に倒れようとするんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "でも前と後ろはつながってるから、前が先に倒れようとすると、ハンドルが倒れる方へくるっと切れるんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "重りが先にこけるから、ハンドルが引っぱられるのだ! そういうことなのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "要するに、ハンドルを切らせる仕組みは1つじゃなくて、コマ効果も、トレールも、重さの置き場所も、全部その候補なんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、その3つがそろえば、絶対に倒れない自転車になるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "それが違うんだもん。コマ効果もトレールもちゃんとあるのに、どんな速さでも安定しない形も、計算では見つかってるんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "あっても安定しないし、無くても安定するのだ? もう訳が分からないのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "nagomi",
+      "text": "実は、研究チーム自身も、なぜちょうどいい量とタイミングでハンドルが切れるのか、簡単な説明はまだ見つかってないって書いてるんだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、こんなに毎日みんな乗ってるのに、まだ分かってないのだ!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "計算すれば、安定するかどうかは分かるんだもん。でもひと言で言える理由はまだ無いのが、自転車の面白いところだもん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ねえ、普通の自転車も、乗ってないのに立ち直れるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "できるけど、速さの範囲が決まってるんだもん。研究者が基準にしてる標準的な自転車のモデルだと、秒速4.3メートルから6.0メートルの間だけだもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "時速にすると、どのくらいなのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "だいたい時速15キロから22キロだもん。乗る人は人形みたいに固まってる、っていう計算上の話だもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "なら、それより遅いと倒れて、速いほど安定するのだ! 速ければ速いほどコマ効果も強いのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "遅いと不安定、は合ってるもん。でも、速すぎても安定しなくなるんだもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "速すぎてもダメなのだ!?",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "遅いと、左右にふらふら揺れるのがだんだん大きくなるんだもん。速すぎると、今度はゆっくり傾いていって、そのまま倒れるんだもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "しかもその「速すぎると倒れる」原因が、ジャイロの項だって論文に書いてあるんだもん。今知られてる自転車もオートバイも、高速ではこれで自己安定を失うんだもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "コマ効果が、倒れない理由どころか、倒れる側に回ってるのだ! 話が逆転しすぎなのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "ただ、この倒れ方はとてもゆっくりで、論文でも「少しだけ不安定」って書かれてる程度なんだもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、ゆっくり走るとふらつくのは、ボクが下手だからじゃないのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "遅いと、曲がった時の遠心力が弱いんだもん。だから同じだけ起こすには、ハンドルを大きく切らないといけないんだもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "止まりかけの時にハンドルがぐらぐらするの、そういうことだったのだ。ちょっと安心したのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "もう1つ、変な話を出すもん。ずんだもん、自転車で左に曲がる時、最初にハンドルをどっちに切る?",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "そんなの左に決まってるのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "最後は左に切るけど、最初の一瞬は右なんだもん。これを逆操舵、カウンターステアって言うんだもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、逆に切るのだ!? 曲がりたい方と反対に?",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "一瞬右に切ると、車輪が右に逃げて、体は左に倒れ始めるでしょ。倒れ始めたら、今度は左に切って、傾いたまま左へ曲がるんだもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "あ、ほうきの逆なのだ。手を先に右へ逃がすと、棒は左に倒れるのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "hazukashi",
+      "text": "……今日のずんだもん、例えがうまいもん。ちょっとだけ認めてあげるもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "やったのだ! でも、ボクそんなの考えて乗ってる気がしないのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "乗れる人は、ほとんど無意識でやってるんだもん。小さく一瞬だから、本人も気づきにくいんだもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "この研究って、何かの役に立つのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "デルフト工科大学は、寝そべって乗る自転車や折りたたみ自転車、荷物を運ぶ自転車みたいな変わった形でも、安定性を調整できるようになるって言ってるんだもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "形が普通じゃないと、どこが効いてるか分からないと困るのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "そう。研究チームは計算で、後ろの車輪で曲がる自転車でも、自分で安定する形が見つかったって書いてるんだもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "後ろで曲がる自転車!? 普通は乗れないって聞いたことあるのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "「こうじゃなきゃ立たない」っていう思い込みが、計算でどんどん崩されてるんだもん。それが今日いちばん言いたかったことだもん。",
+      "news_index": 3
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "まとめるもん。自転車は踏ん張って立ってるんじゃなくて、倒れる方へハンドルを切って立ち直ってるんだもん。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "コマ効果はきっかけ係の1人で、主役じゃなかったのだ。なぜそうなるのか、ひと言の答えはまだ無いのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "ずんだもん、負けを認める?",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "今日のところは認めるのだ。でも例えはボクの勝ちだったのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "ankomon",
+      "tone": "welcome",
+      "text": "聴いてくれてるかた、次に自転車に乗る時、ハンドルが小さく動いてるのを感じてみてほしいもん。旅の道ラジオ、雑学チャンネルでした。",
+      "news_index": 0
+    }
+  ],
+  "program_description": "走る自転車はなぜ倒れないのか。【問い】では「車輪が回ると倒れにくいジャイロ効果」という定番の答えを立て、乗り手がいなくても押し出した自転車が自分で立ち直ることを紹介。【解説】では、倒れかけた方向へハンドルが切れて車輪を下に戻すのがバランスの正体で、前輪の回転は引き金の一つにすぎないと説明。1970年に逆回転の車輪でジャイロを打ち消しても乗れた実験、ハンドルの軸より後ろに接地点がくる「トレール」の役割、そして2011年にジャイロもトレールもほぼ消した自転車が自分で立ち直った研究を紹介し、前側の重りの位置が効くこと、完全な説明はまだ見つかっていないことまで話した。【広がり】では、普通の自転車が自分で安定するのは時速およそ15〜22キロの間だけで、速すぎるとジャイロの項がゆっくり倒す側に回ること、左に曲がるには一瞬右に切る逆操舵、後輪で曲がる自転車でも安定しうる設計の話へ広げた。",
+  "featured_game": {
+    "title": "自転車はなぜ倒れないのか",
+    "topic": "走る自転車が倒れないのはジャイロ効果だけのおかげではなく、倒れかけた方向へハンドルが切れて車輪を下に戻すからで、前輪の回転は引き金の一つにすぎない。1970年にジョーンズが逆回転の車輪でジャイロを打ち消しても乗れ、2011年のデルフト工科大学やコーネル大学などの研究(サイエンス誌)はジャイロをほぼ消しトレールをマイナス4ミリにした自転車でも秒速2.3m以上で自分で立ち直ることを示した。前側の重りがハンドル軸より前で低いことが効くが単純な説明は未解明。標準的な自転車モデルの自己安定は秒速4.3〜6.0m、高速側はジャイロの項で崩れる。逆操舵、後輪操舵の安定設計",
+    "category": "seikatsu",
+    "dedup_verified": true,
+    "image_rel": "/images/topics/zatsugaku_20261026_023507_chars.webp",
+    "hero_rel": "/images/topics/zatsugaku_20261026_023507.webp",
+    "thumbnail_ready": true
+  }
+}
