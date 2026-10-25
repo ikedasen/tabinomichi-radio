@@ -1,0 +1,726 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-10-26T05:05:07+09:00",
+  "title": "下ごしらえの朝 〜百分の一のラベル係と、玄関を減らすAI〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 431.55,
+  "script_hash": "sha256:365b3a8e91e875e1def2f7c2560a319f091f79e41cc923936aa7f9c774118d4f",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 9.59
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便、テックニュースの回よ。四国めたんです。",
+      "news_index": 0,
+      "start_sec": 9.59,
+      "end_sec": 15.05
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだ! 月曜の朝、眠い目をこすって出発中なのだー!",
+      "news_index": 0,
+      "start_sec": 15.2,
+      "end_sec": 20.35
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "目はこすってもいいけど、ハンドルからは手を離さないでね。今朝は四本、軽めに流していくわ。",
+      "news_index": 0,
+      "start_sec": 20.5,
+      "end_sec": 26.33
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "今日のテーマは何なのだ? また、桁の多いお金の話?",
+      "news_index": 0,
+      "start_sec": 26.48,
+      "end_sec": 30.75
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "今朝はAIの下ごしらえの話。表に出ない裏方の仕事を、AIが引き受け始めてるって四本よ。",
+      "news_index": 0,
+      "start_sec": 30.9,
+      "end_sec": 37.71
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "裏方! 給食当番みたいな、地味なお仕事なのだ!",
+      "news_index": 0,
+      "start_sec": 37.86,
+      "end_sec": 41.59
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "地味だけど、ないと誰も食べられない仕事ね。じゃ、一本目。",
+      "news_index": 0,
+      "start_sec": 41.74,
+      "end_sec": 45.76
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。エヌビディアの研究チームが、ロボットの動画に説明を付けるAI、フローラを公開したの。",
+      "news_index": 1,
+      "start_sec": 45.84,
+      "end_sec": 52.44
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "動画に説明? 字幕職人さんのAI版ってこと?",
+      "news_index": 1,
+      "start_sec": 52.59,
+      "end_sec": 56.62
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いい線ね。ロボットにお手本動画で動きを覚えさせるには、今どの動作か、どこまで進んだか、うまくいったか、って注釈が要るのよ。",
+      "news_index": 1,
+      "start_sec": 56.77,
+      "end_sec": 65.25
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、それ全部人間が書いてたのだ!? 動画を一コマずつ見ながら!?",
+      "news_index": 1,
+      "start_sec": 65.4,
+      "end_sec": 70.01
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "人の手か、値段の高いAIに任せるかだったの。そこをフローラ一つで、三種類まとめてこなすのが売りよ。",
+      "news_index": 1,
+      "start_sec": 70.16,
+      "end_sec": 77.09
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "エヌビディアって、AIの計算を爆速でやるチップ、ジーピーユーの会社だよね。",
+      "news_index": 1,
+      "start_sec": 77.24,
+      "end_sec": 82.65
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。自分たちのロボット用AI、グルートを鍛えるのに、もう一日20万時間ぶんの動画をこれで処理してるって。",
+      "news_index": 1,
+      "start_sec": 82.8,
+      "end_sec": 90.08
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "20万時間!? ボクが一生かけても見きれない量を、一日で片づけてるのだ!",
+      "news_index": 1,
+      "start_sec": 90.23,
+      "end_sec": 95.49
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "しかもお値段。エヌビディアの試算だと、オープンエーアイの最新AIに頼むより、百分の一以下で済むんだって。",
+      "news_index": 1,
+      "start_sec": 95.64,
+      "end_sec": 102.76
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "百分の一! 高級レストランのシェフに皮むきを頼むのをやめて、ピーラーを買った感じなのだ!",
+      "news_index": 1,
+      "start_sec": 102.91,
+      "end_sec": 109.03
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "上手い例えじゃない。ただ数字は自社の試算だし、今は研究用だけで、商売には使えない決まりよ。",
+      "news_index": 1,
+      "start_sec": 109.18,
+      "end_sec": 115.93
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、ボクの家にロボットが来るのは、まだ先なのだ?",
+      "news_index": 1,
+      "start_sec": 116.08,
+      "end_sec": 119.98
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "すぐではないわ。でもお手本動画の下ごしらえが安くなれば、家事ロボットの練習量は一気に増やせるの。",
+      "news_index": 1,
+      "start_sec": 120.13,
+      "end_sec": 126.41
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "洗濯物たたみロボ、早く来てほしいのだー。",
+      "news_index": 1,
+      "start_sec": 126.56,
+      "end_sec": 130.03
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに、ロボットの家庭教師代が激安になったって話。次いくわ。",
+      "news_index": 1,
+      "start_sec": 130.18,
+      "end_sec": 134.98
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目はパソコンの心臓部の話。エーエムディーとインテルが、十月二十日に手を組むって発表したの。",
+      "news_index": 2,
+      "start_sec": 135.06,
+      "end_sec": 141.42
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? その二社って、パソコンの頭脳でずっとケンカしてるライバルなのだ!",
+      "news_index": 2,
+      "start_sec": 141.57,
+      "end_sec": 146.11
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そう、頭脳のシーピーユーで競ってる宿敵同士ね。そこが、AIを動かすソフトの部分だけ足並みをそろえるのよ。",
+      "news_index": 2,
+      "start_sec": 146.26,
+      "end_sec": 153.82
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ソフトの部分? どこを一緒にするのだ?",
+      "news_index": 2,
+      "start_sec": 153.97,
+      "end_sec": 156.9
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "AIを作る人の定番の道具に、パイトーチってあるの。それを各社のシーピーユーで速く動かす仕掛けを、ワンディーエヌエヌっていう一つの部品にまとめるって。",
+      "news_index": 2,
+      "start_sec": 157.05,
+      "end_sec": 166.58
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、パイトーチは前にも出た、AI作りのお料理セットなのだ!",
+      "news_index": 2,
+      "start_sec": 166.73,
+      "end_sec": 171.27
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "よく覚えてたわね。今まではエーエムディー用とインテル用で、別々の調味料を用意しなきゃいけなかったの。",
+      "news_index": 2,
+      "start_sec": 171.42,
+      "end_sec": 178.08
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "醤油の種類が二社で違うから、レシピも二冊いる、みたいな?",
+      "news_index": 2,
+      "start_sec": 178.23,
+      "end_sec": 182.4
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "まさにそれ。エーエムディーのゼンディーエヌエヌの最適化を、共同の棚になるワンディーエヌエヌへ合流させる形ね。",
+      "news_index": 2,
+      "start_sec": 182.55,
+      "end_sec": 189.58
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも、AIってジーピーユーで動かすものじゃないのだ? シーピーユーの出番、あるの?",
+      "news_index": 2,
+      "start_sec": 189.73,
+      "end_sec": 195.76
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "大きいAIを鍛えるのはジーピーユーよ。でも答えを出すだけなら、普通のシーピーユーで回せる場面も増えてるの。",
+      "news_index": 2,
+      "start_sec": 195.91,
+      "end_sec": 203.22
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ジーピーユーが高すぎるから、シーピーユーにも働いてもらおう作戦なのだ。",
+      "news_index": 2,
+      "start_sec": 203.37,
+      "end_sec": 208.79
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "身もふたもないわね。それに、いつ完成するか、どれだけ速くなるかは、まだ発表されてないわ。",
+      "news_index": 2,
+      "start_sec": 208.94,
+      "end_sec": 214.81
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "じゃあ、ボクのノートパソコンでもAIがサクサク動く日が、いつか来るかもなのだ。",
+      "news_index": 2,
+      "start_sec": 214.96,
+      "end_sec": 220.24
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。すぐじゃないけど、高いグラボがなくても、手元のパソコンでAIを動かしやすくなる方向の話ね。",
+      "news_index": 2,
+      "start_sec": 220.39,
+      "end_sec": 227.42
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目は夢のある話。オープンエーアイが研究所と組んで、マウスの脳のデータを32分で読み解いたの。",
+      "news_index": 3,
+      "start_sec": 227.5,
+      "end_sec": 234.29
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "32分!? カップラーメン十個ぶんの待ち時間で、脳を解き明かしたのだ!?",
+      "news_index": 3,
+      "start_sec": 234.44,
+      "end_sec": 239.67
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "脳まるごとじゃないわよ。遺伝子を一つずつ働かなくして、脳の細胞がどう変わるかを記録した、巨大なデータの読み解きね。",
+      "news_index": 3,
+      "start_sec": 239.82,
+      "end_sec": 247.47
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "巨大って、どのくらいなのだ?",
+      "news_index": 3,
+      "start_sec": 247.62,
+      "end_sec": 249.8
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "細胞の数で800万個ぶん。それを、ジーピーティー ロザリンドっていう研究向けAIのエージェント、約2,000体で手分けしたの。",
+      "news_index": 3,
+      "start_sec": 249.95,
+      "end_sec": 257.83
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "エージェントって、人の代わりに作業してくれるAIのことなのだ。それが2,000体!",
+      "news_index": 3,
+      "start_sec": 257.98,
+      "end_sec": 263.11
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そう、一体が遺伝子を一つ担当して、過去の論文と照らし合わせるの。最後に、その報告を一冊にまとめたのよ。",
+      "news_index": 3,
+      "start_sec": 263.26,
+      "end_sec": 271.19
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "夏休みの宿題を、クラス全員で一問ずつ分けて写すやつなのだ!",
+      "news_index": 3,
+      "start_sec": 271.34,
+      "end_sec": 276.55
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "写してないから。人間の専門家なら、数か月から一年はかかる量だったって。",
+      "news_index": 3,
+      "start_sec": 276.7,
+      "end_sec": 281.67
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "一年がかりの宿題が、朝の通勤時間で終わっちゃうのだ!?",
+      "news_index": 3,
+      "start_sec": 281.82,
+      "end_sec": 285.95
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "しかも専門家が、どっちが書いたか伏せて読み比べたら、四回に三回は、一体のAIに全部任せた報告より、手分けしたAIたちの報告を選んだの。",
+      "news_index": 3,
+      "start_sec": 286.1,
+      "end_sec": 296.36
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "じゃあ、脳の病気の新しい薬も、すぐできちゃうのだ?",
+      "news_index": 3,
+      "start_sec": 296.51,
+      "end_sec": 300.89
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこは慎重に。出てきたのは、遺伝子と脳の働きの関係についての仮説で、まだ実験で確かめてない段階よ。",
+      "news_index": 3,
+      "start_sec": 301.04,
+      "end_sec": 308.21
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "答えの候補が山ほど出ても、確かめるのは人間なのだ。",
+      "news_index": 3,
+      "start_sec": 308.36,
+      "end_sec": 312.2
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今の一言が正解。研究の下調べは爆速になるけど、出てきた仮説を選び、実験で確かめる中心は人間だって話ね。",
+      "news_index": 3,
+      "start_sec": 312.35,
+      "end_sec": 320.81
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ラスト四本目は、守りの話だから手短に。アンソロピックのクロードに、25個のオープンソースのプログラムを読ませた研究が出たの。",
+      "news_index": 4,
+      "start_sec": 320.89,
+      "end_sec": 329.01
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "オープンソースって、設計図を誰でも見られるプログラムだよね? どのくらいの量なのだ?",
+      "news_index": 4,
+      "start_sec": 329.16,
+      "end_sec": 335.05
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "合わせて500万行以上。そこから、外から触れなくていいのに触れちゃう場所なんかを、493件見つけたって。",
+      "news_index": 4,
+      "start_sec": 335.2,
+      "end_sec": 342.45
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "493件も!? 穴だらけなのだ!",
+      "news_index": 4,
+      "start_sec": 342.6,
+      "end_sec": 345.65
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "穴とはちょっと違うわ。壊れた鍵を探すより、そもそも玄関の数を減らそうって発想なの。",
+      "news_index": 4,
+      "start_sec": 345.8,
+      "end_sec": 351.53
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、泥棒が入れそうなドアを、最初から壁にしちゃうのだ!",
+      "news_index": 4,
+      "start_sec": 351.68,
+      "end_sec": 355.62
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そういうこと。目立った例がオープンエスエスエイチ、遠くのサーバーに安全にログインするための定番の道具ね。",
+      "news_index": 4,
+      "start_sec": 355.77,
+      "end_sec": 362.55
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "まさか、ログインする前から中に入れちゃったのだ?",
+      "news_index": 4,
+      "start_sec": 362.7,
+      "end_sec": 366.13
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "入れはしないわ。ただ、ログイン前の相手でも動かせるコードが、試験的な機能の部分に約4,500行あったって。",
+      "news_index": 4,
+      "start_sec": 366.28,
+      "end_sec": 373.73
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "受付を通る前に、奥の部屋のドアノブを回せちゃう感じなのだ……。",
+      "news_index": 4,
+      "start_sec": 373.88,
+      "end_sec": 378.11
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "まさに。修正が入って、ログイン前に届くコードは約五分の一減ったわ。数字はアンソロピックの発表ベースだけどね。",
+      "news_index": 4,
+      "start_sec": 378.26,
+      "end_sec": 385.7
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "それって、ボクたちにはどう関係あるのだ?",
+      "news_index": 4,
+      "start_sec": 385.85,
+      "end_sec": 388.82
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "ネットのサービスで外から届く余計なコードが減るほど、未知の弱点を突かれる危険も抑えやすくなるわ。地味だけど、ありがたい話よ。",
+      "news_index": 4,
+      "start_sec": 388.97,
+      "end_sec": 397.65
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "今朝は、AIが裏方仕事を引き受け始めた四本だったのだ!",
+      "news_index": 0,
+      "start_sec": 397.8,
+      "end_sec": 402.0
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ロボットの注釈係、宿敵二社の調味料合流、2,000体の研究チーム、玄関を減らすクロード。どれも表には出ない仕事ね。",
+      "news_index": 0,
+      "start_sec": 402.15,
+      "end_sec": 410.4
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "給食当番も、そのうちAIに代わってもらえるかもなのだ。",
+      "news_index": 0,
+      "start_sec": 410.55,
+      "end_sec": 414.62
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "それは自分でやりなさい。聴いてくれてるかた、今日もいってらっしゃい。",
+      "news_index": 0,
+      "start_sec": 414.77,
+      "end_sec": 418.67
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "また明日のテック朝便で会うのだー! いってらっしゃいなのだ!",
+      "news_index": 0,
+      "start_sec": 418.82,
+      "end_sec": 422.55
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 423.25,
+      "end_sec": 431.55
+    }
+  ],
+  "wall_time_sec": 12.81,
+  "audio_url": "/audio/ai/20261026_050507.mp3?v=1792965760"
+}
