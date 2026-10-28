@@ -1,0 +1,483 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-10-28T20:06:31.729420+00:00",
+  "title": "入れ替わる一位と値上がる部品 〜二週間で王座交代のAIと、22万円の魔法のメガネ〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "intro",
+      "text": "おはようございます、旅の道ラジオ朝便、テックニュースの回よ。四国めたんです。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝もテックの話、サクッといくのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今日は五本。新しいAIの首位交代に、メガネ型の未来の画面、それからグラボの値上げもあるわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、グラボまた値上がりなのだ!? 朝からお財布が震えてるのだ……。",
+      "news_index": 0,
+      "reading": "えっ、グラボまたねあがりなのだ!?あさからおさいふがふるえてるのだ……。"
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "震えるのは最後にとっておいて。まずは明るい話からね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "了解なのだ! 一本目、いっちゃうのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。グーグル ディープマインドが、ジェミニ フォー カーボンっていう新しいAIを出したの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "カーボン? 炭のことだっけ? バーベキュー係のAIなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "焼かないわよ。前のモデルがアルゴンで、今度はカーボン、元素の名前を並べてるだけ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "理科の元素記号の暗記みたいじゃん。で、何がすごいのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "前のアルゴンから、たった二週間で出てきたこと。しかもAIの賢さを比べる成績表で、一位に立ったのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "二週間!? ボクがお昼寝一回してる間に、新しい頭脳が生まれてるじゃん!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "成績表はアーティフィシャル アナリシスっていう調査会社のもの。カーボンが59点、アンソロピックのオーパス ごーてんごが58点、オープンエーアイのジーピーティー シックス アストラが57点ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "一点差? それって、ほぼ同着ってこと?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "鋭いわね。しかもプログラムを書かせる成績だと、まだクロードの方が上って結果も出てるの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、総合一位でも、得意科目は別ってことなのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。もう一つ変わってるのが、今は一部のサイバー防御の専門家しか使えないって点。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "さいばーぼうぎょ? ネットの警備員さんだっけ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そう、会社のシステムを悪い人から守るプロたちね。力が強すぎるから、まず守る側に先に渡してるって話。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "強すぎて封印されてる、勇者の剣じゃん!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに今回は、前作の登場からわずか二週間で、新モデルが首位に立ったの。私たちが普段使うAIも、気づいたら中身が新しくなってるくらいの速さなのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "アプリの更新ボタン、毎朝押す係になるのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目もグーグル。十月二十八日に、スマホアプリを作る人向けの発表会があったの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "スマホアプリって、どうやって作るのだ? 粘土をこねるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "こねないわよ。アンドロイド スタジオっていう、アプリを作るための専用の作業場ソフトがあるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "作業場! 図工室みたいなやつなのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "その図工室に、よその会社のAIアシスタントを呼び込めるようになったの。クロードやコーデックスなど、40種類以上ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、ライバル会社のAIを、自分の家に上げちゃうのだ!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこが面白いところ。自社のAIだけじゃなく、使う人が好みのAIを選べるようにしたわけ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、コンビニの棚に、よそのお店のお弁当も並べちゃう感じじゃん!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "いい例えね。作る人は、使い慣れたAIのままアプリ作りができるってこと。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でもボク、アプリ作らないのだ。関係あるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "直接関係はないわ。ただ作る手間が減れば、新しいアプリや不具合の修正が早く届くかもね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "バグ直しが早くなるなら、ボクは大歓迎なのだー!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目はガジェットよ。エックスリアルっていう会社のメガネ型の機械、エックスリアル オーラの日本の値段が出たの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "オーラ? かけると、強そうな気配が出るメガネなのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "気配は出ないわ。かけると、目の前に大きな画面が浮かんで見えるメガネね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "空中に画面!? 映画の未来人じゃん、やばっ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "グーグルのアンドロイド エックスアールっていう、メガネやゴーグル向けの仕組みで動くの。一本目と同じ一家のAI、ジェミニも入ってるわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ジェミニちゃん、メガネにまで出張してるのだ。働き者なのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "重さは約95グラム。卵二個ぶんくらいね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "顔に卵二個……。で、お値段はおいくらなのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "日本だと税込み22万9,800円から。上のモデルは26万9,800円よ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "22万!? メガネ一本で、ボクのお小遣い何十年分なのだ!?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "高めのノートパソコンくらいね。年内に出荷する予定らしいわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあボクのスマホも、いつかメガネになっちゃうってこと?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "すぐにスマホが置き換わるとは言えないわね。今はメガネと、ケーブルでつないだ演算ユニットを一緒に使う製品よ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "ボクは値下がりを、のんびり待つのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四本目はウィンドウズ。マイクロソフトが、プロジェクト パンテオンっていう新しいAI機能をこっそり試してるって報じられたの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "パンテオン? パンの天ぷらなのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "揚げないで。昔のローマの神殿の名前で、これは開発中の呼び名よ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "神殿! パソコンに、AIの神様が住みつくのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "中身はもっと地味。気になったウェブページやファイル、画面の写真を自分で選んで保存して、あとでAIに質問できる道具なの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "自分で選んで保存? それ、普通のことじゃん。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこがポイント。ウィンドウズにはリコールっていう、画面を自動で定期的に記録する機能があって、プライバシーの面で大反発を受けたのよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、有効にすると自動で撮るのだ!? ボクの夜中のネットサーフィンまで!?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "だから今回は、自分で保存したものだけ。有効にすると自動で残す記録帳から、自分で選んで貼るスクラップ帳に変えた感じね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "スクラップ帳なら、ボクも安心なのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ただ、まだ正式な発表はないの。試した人からは、いちいち手で保存するのが面倒って声も出てるらしいわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "勝手にやると怒られて、手でやると面倒って言われる。マイクロソフトさん、板挟みなのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "今の一言が正解。パソコンのAIは、便利さと安心のちょうどいい線を、まだ探してる途中ってこと。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ラスト五本目はお財布の話。エーエムディーのグラボ、ラデオンの一部モデルで、中国向けの希望価格が十月一日から上がったって報じられたの。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "やっぱり来たのだ……。グラボって、ゲームの絵を描く担当の部品だよね?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "正解。エーエムディーはエヌビディアのライバルで、八月にも値上げしてるから、これで二回目らしいわ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "なんでそんなに上がるのだ? 部品が金でできてるのだ?",
+      "news_index": 5,
+      "reading": "なんでそんなにあがるのだ?ぶひんがきんでできてるのだ?"
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "金じゃないわ。グラボに載ってるメモリのチップが、また一割くらい高くなったのが理由の一つらしいの。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、メモリ! AIのデータセンターに、メモリが吸い込まれてるやつなのだ!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "よく覚えてたわね。中国での希望価格だと、モデルによっては一割以上の値上げらしいわ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "ボクの自作パソコン貯金、ゴールがまた遠ざかったのだ……。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "要するに、メモリの供給減や製造コストの上昇が、ゲーム用パソコンの値段にも響いてるってこと。買うなら、しばらく値段の動きを見張っておくのが良さそうだわ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで、今朝のテック朝便は五本だったわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "二週間で一位が替わるAIに、よそのAIを呼べる図工室、22万円のメガネ、スクラップ帳、グラボの値上げ。盛りだくさんだったのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "新しいものは速いのに、お財布だけ追いつかない朝だったわね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "気になったやつがあったら、ぜひチェックしてほしいのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "聴いてくれてるかた、今日もいってらっしゃい。また明日のテック朝便で会いましょう。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "いってらっしゃいなのだー!",
+      "news_index": 0
+    }
+  ],
+  "program_description": "旅の道ラジオ朝便のテックニュース回。一本目は、グーグル ディープマインドが前作からわずか二週間で出した新AI、ジェミニ フォー カーボンが賢さの成績表で一位に立った話。二本目は、アプリ作りの作業場アンドロイド スタジオに、クロードやコーデックスなどよその会社のAIを呼び込めるようになった話。三本目は、目の前に画面が浮かぶメガネ、エックスリアル オーラの日本の値段。四本目は、マイクロソフトがこっそり試しているという、自分で選んで保存する方式のAI機能プロジェクト パンテオン。ラストは、エーエムディーのグラボ、ラデオンの再値上げ。新しいものは速いのにお財布が追いつかない、そんな朝の業界をサクッとまとめる回です。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20261029_050631_chars.webp",
+    "hero_rel": "/images/topics/tech_20261029_050631.webp",
+    "title": "入れ替わる一位と値上がる部品 〜二週間で王座交代のAIと、22万円の魔法のメガネ〜",
+    "companies": [
+      "AMD",
+      "Gemini",
+      "Claude",
+      "Microsoft",
+      "Google",
+      "OpenAI",
+      "NVIDIA"
+    ],
+    "thumbnail_ready": true
+  },
+  "summary_short": "グーグルのジェミニ新作が二週間で王座に就き、アンドロイドスタジオは他社AIを招き入れる。22万円のARメガネやマイクロソフトの新機能、グラボ再値上げまで、速い新技術と財布の悲鳴を朝にサクッと総ざらい。",
+  "published_at": "2026-10-29T07:02:00+09:00"
+}
