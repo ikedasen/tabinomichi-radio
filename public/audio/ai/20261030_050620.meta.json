@@ -1,0 +1,906 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-10-30T05:06:20+09:00",
+  "title": "おまけ付きの朝 〜タダで話すアレクサと、1兆の頭脳の持ち帰り〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 502.94,
+  "script_hash": "sha256:c7e9f67c09b0663f68b4e53bf88328e5d41185bd545929464fdf694d72eebeb8",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 4.69
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "intro",
+      "text": "おはようございます、旅の道ラジオ朝便。テックニュースの回、四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 4.69,
+      "end_sec": 9.9
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 通勤電車の中のみんな、おはようなのだ!",
+      "news_index": 0,
+      "start_sec": 10.05,
+      "end_sec": 14.74
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今朝はテックの話題を五本、サクッと流していくわ。キーワードは、おまけ。",
+      "news_index": 0,
+      "start_sec": 14.89,
+      "end_sec": 19.78
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "おまけ? お菓子の箱に入ってる、シールみたいなやつだっけ?",
+      "news_index": 0,
+      "start_sec": 19.93,
+      "end_sec": 24.21
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、それ。月額料金に、AIがくっついてくる話が二つもあるの。",
+      "news_index": 0,
+      "start_sec": 24.36,
+      "end_sec": 29.23
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "くっついてくる! ボクの好きな言葉ランキング、堂々の一位じゃん!",
+      "news_index": 0,
+      "start_sec": 29.38,
+      "end_sec": 34.16
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "ただし、ちゃんと条件付き。じゃ、一本目いくわね。",
+      "news_index": 0,
+      "start_sec": 34.31,
+      "end_sec": 38.09
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。アマゾンの新しいアレクサ、アレクサ プラスの日本語版が、十月二十九日に早期アクセスを始めたの。",
+      "news_index": 1,
+      "start_sec": 38.17,
+      "end_sec": 45.93
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "アレクサって、台所で「タイマー三分」って言うと動くやつだっけ?",
+      "news_index": 1,
+      "start_sec": 46.08,
+      "end_sec": 51.19
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう、あの丸いスピーカーの中の人ね。今回は、その中身が生成AIに入れ替わったのよ。",
+      "news_index": 1,
+      "start_sec": 51.34,
+      "end_sec": 57.5
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "中の人が入れ替わると、何が変わるのだ?",
+      "news_index": 1,
+      "start_sec": 57.65,
+      "end_sec": 60.67
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "今までは、決まった命令だけ聞く音声のリモコン。プラスは話の流れを覚えてて、ややこしい頼み事もこなす方向ね。",
+      "news_index": 1,
+      "start_sec": 60.82,
+      "end_sec": 68.84
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、ボタンの決まったリモコンが、話の通じる執事さんに転職したってこと!",
+      "news_index": 1,
+      "start_sec": 68.99,
+      "end_sec": 74.17
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "いい例えね。食べログや出前館みたいなサービスとも、つながる予定だって。",
+      "news_index": 1,
+      "start_sec": 74.32,
+      "end_sec": 79.11
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? しゃべるだけで、晩ごはんの出前まで頼めちゃうのだ!?",
+      "news_index": 1,
+      "start_sec": 79.26,
+      "end_sec": 83.26
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういう方向。で、肝心のお値段だけど、今の早期アクセスの期間は誰でも無料。",
+      "news_index": 1,
+      "start_sec": 83.41,
+      "end_sec": 89.08
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ふっふっふ、じゃあ今のうちに使い倒すのだ。",
+      "news_index": 1,
+      "start_sec": 89.23,
+      "end_sec": 92.82
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "期間が終わったら、プライム会員は追加料金なし、それ以外は月3,000円よ。",
+      "news_index": 1,
+      "start_sec": 92.97,
+      "end_sec": 98.18
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "月3,000円!? ボクのお小遣いの半分が、執事さんのお給料になっちゃうじゃん!",
+      "news_index": 1,
+      "start_sec": 98.33,
+      "end_sec": 103.62
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "しかも全員一斉じゃなくて、対象の人に順番で案内が届く形なの。",
+      "news_index": 1,
+      "start_sec": 103.77,
+      "end_sec": 108.71
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "順番待ちなのだ。ボクの家にも、早めに来てほしいのだー。",
+      "news_index": 1,
+      "start_sec": 108.86,
+      "end_sec": 112.86
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに、対応する端末を持っていれば、案内を受け取って早期アクセスを始められるって話。プライム会員は、早期アクセス後も追加料金なしよ。",
+      "news_index": 1,
+      "start_sec": 113.01,
+      "end_sec": 122.68
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目もおまけの話。オープンエーアイが十月二十八日に、チャットジーピーティーの一部の有料プランに、エーピーアイの利用枠を付けるって発表したの。",
+      "news_index": 2,
+      "start_sec": 122.76,
+      "end_sec": 132.36
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "えーぴーあい? 新しいお米の品種なのだ?",
+      "news_index": 2,
+      "start_sec": 132.51,
+      "end_sec": 136.38
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "炊かないで。エーピーアイは、自分で作ったアプリからAIを呼び出すための窓口のことよ。",
+      "news_index": 2,
+      "start_sec": 136.53,
+      "end_sec": 141.93
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "窓口? いつものチャット画面とは別物ってこと?",
+      "news_index": 2,
+      "start_sec": 142.08,
+      "end_sec": 145.89
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "別物ね。今までは、チャットの月額と、アプリから使う分の料金が、別々の財布だったの。",
+      "news_index": 2,
+      "start_sec": 146.04,
+      "end_sec": 152.26
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、スマホの月額と、ゲームアプリの課金が別、みたいな感じじゃん!",
+      "news_index": 2,
+      "start_sec": 152.41,
+      "end_sec": 157.32
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "近いわ。それが対象のプロとビジネスの契約者なら、エーピーアイ用の無料クレジットを特典として受け取れるのよ。",
+      "news_index": 2,
+      "start_sec": 157.47,
+      "end_sec": 164.53
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、どのくらい付いてくるのだ?",
+      "news_index": 2,
+      "start_sec": 164.68,
+      "end_sec": 166.86
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "プロは月100ドル、200ドル、500ドルの三段階で、払った額と同じ分。会社向けのビジネスは、一人あたり月20ドルか100ドル分ね。",
+      "news_index": 2,
+      "start_sec": 167.01,
+      "end_sec": 175.92
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "プロなら、月額と同じ額のエーピーアイクレジットが付くのだ!? アプリ作りに使えるおまけなのだ!",
+      "news_index": 2,
+      "start_sec": 176.07,
+      "end_sec": 182.37
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "落ち着いて。使わなかった分は請求期間が終わると消えて、繰り越しなし。ビジネスの上限は、月払いならワークスペース全体で月500ドル、年払いなら年6,000ドルよ。",
+      "news_index": 2,
+      "start_sec": 182.52,
+      "end_sec": 193.32
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "待って、ボクが入ってるチャットジーピーティーのプラスは……?",
+      "news_index": 2,
+      "start_sec": 193.47,
+      "end_sec": 197.11
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "shock",
+      "text": "残念、プラスと無料のプランは対象外。",
+      "news_index": 2,
+      "start_sec": 197.26,
+      "end_sec": 200.1
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "ボクのプラン、おまけの袋が空っぽだったのだ……。",
+      "news_index": 2,
+      "start_sec": 200.25,
+      "end_sec": 204.27
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "よしよし。要するに、自分でAIの道具を作る人を、月額プランに呼び込む作戦ね。",
+      "news_index": 2,
+      "start_sec": 204.42,
+      "end_sec": 210.52
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "趣味でアプリを作ってる人には、かなりの追い風なのだ!",
+      "news_index": 2,
+      "start_sec": 210.67,
+      "end_sec": 214.26
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。受け取るには、対象プランを7日以上契約して、チャットとエーピーアイを同じメールで使い、両方のオーナー権限で連携する必要があるから、対象の人は確認してみて。",
+      "news_index": 2,
+      "start_sec": 214.41,
+      "end_sec": 225.43
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目はヨーロッパから。フランスのミストラルっていうAIの会社が十月二十九日に、大型のAIの中身を、誰でもダウンロードできる形で公開したの。",
+      "news_index": 3,
+      "start_sec": 225.51,
+      "end_sec": 235.25
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ミストラル? 駅前のおしゃれなパン屋さんみたいな響きなのだ。",
+      "news_index": 3,
+      "start_sec": 235.4,
+      "end_sec": 239.47
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "パンは焼かないわ。オープンエーアイやアンソロピックと張り合ってる、ヨーロッパ代表みたいな会社よ。",
+      "news_index": 3,
+      "start_sec": 239.62,
+      "end_sec": 245.29
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今回のミストラル ラージ フォーは、AIの頭の中の部品、パラメータが1兆を超えるの。",
+      "news_index": 3,
+      "start_sec": 245.37,
+      "end_sec": 251.03
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "1兆!? ボクの脳みそと比べて、どっちが多いのだ!?",
+      "news_index": 3,
+      "start_sec": 251.18,
+      "end_sec": 254.96
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "比べる勇気だけは褒めてあげる。ただ全部いっぺんには動かなくて、一回に動くのは520億くらいなの。",
+      "news_index": 3,
+      "start_sec": 255.11,
+      "end_sec": 261.87
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "え、残りの部品はサボってるってこと?",
+      "news_index": 3,
+      "start_sec": 262.02,
+      "end_sec": 265.0
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "得意な部分だけ呼び出す仕組み。大病院で、症状に合った専門の先生だけが診察に出てくる感じね。",
+      "news_index": 3,
+      "start_sec": 265.15,
+      "end_sec": 272.16
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、先生が全員出てきたら、診察室がパンクするのだ!",
+      "news_index": 3,
+      "start_sec": 272.31,
+      "end_sec": 276.62
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "中身が公開されたから、自分のサーバーでも動かせる。ただ圧縮した版でも、エヌビディアの最新のジーピーユーが四枚要るの。",
+      "news_index": 3,
+      "start_sec": 276.77,
+      "end_sec": 284.47
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じーぴーゆーって、グラボの親戚だっけ?",
+      "news_index": 3,
+      "start_sec": 284.62,
+      "end_sec": 287.54
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "親戚ね。AIの計算を爆速でこなす専用チップで、これはデータセンター向けの、とびきり高い最上位クラスよ。",
+      "news_index": 3,
+      "start_sec": 287.69,
+      "end_sec": 295.46
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ボクの自作パソコンのグラボ一枚じゃ、門前払いじゃん!",
+      "news_index": 3,
+      "start_sec": 295.61,
+      "end_sec": 299.32
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "門の前にも立てないわね。それに外部の評価だと、大手の最上位モデルにはまだ届かないって見方なの。",
+      "news_index": 3,
+      "start_sec": 299.47,
+      "end_sec": 305.86
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、何を売りにしてるのだ?",
+      "news_index": 3,
+      "start_sec": 306.01,
+      "end_sec": 308.34
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "プログラム作りと、サイバー攻撃から守る仕事。自分の建物の中で動かせば、データを外に出さずに済むのも強みね。",
+      "news_index": 3,
+      "start_sec": 308.49,
+      "end_sec": 316.04
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "秘密の書類を、よそに預けなくていいのだね。",
+      "news_index": 3,
+      "start_sec": 316.19,
+      "end_sec": 319.34
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "要するに、私たちが家で動かす話じゃないけど、ヨーロッパの会社や役所の選択肢が一つ増えたって話。",
+      "news_index": 3,
+      "start_sec": 319.49,
+      "end_sec": 326.69
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四本目は、会議の多い人に朗報。エヌビディアが十月二十八日に、ネモトロン サンテンゴ トランスクライブっていう、声を文字にするAIを無料で公開したの。",
+      "news_index": 4,
+      "start_sec": 326.77,
+      "end_sec": 336.69
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "トランスクライブ? 車に変形するロボットの仲間なのだ?",
+      "news_index": 4,
+      "start_sec": 336.84,
+      "end_sec": 341.05
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "それはトランスフォーマー。トランスクライブは、録音を文字に起こすって意味よ。",
+      "news_index": 4,
+      "start_sec": 341.2,
+      "end_sec": 345.59
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、文字起こし! 先生の授業を、そのままノートにしてくれるやつなのだ!",
+      "news_index": 4,
+      "start_sec": 345.74,
+      "end_sec": 350.68
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。40の言語を文字にできて、そのうち31の言語は英語との翻訳も一緒にこなすの。",
+      "news_index": 4,
+      "start_sec": 350.83,
+      "end_sec": 356.97
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "40言語!? ボク、日本語の聞き取りすら怪しいのに!",
+      "news_index": 4,
+      "start_sec": 357.12,
+      "end_sec": 361.02
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "自覚はあるのね。しかも13の言語なら、誰がしゃべったかまで見分けるわ。会議は最大8人、録音は1時間まで。",
+      "news_index": 4,
+      "start_sec": 361.17,
+      "end_sec": 368.98
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "声だけで犯人を当てる、名探偵AIってわけなのだ。",
+      "news_index": 4,
+      "start_sec": 369.13,
+      "end_sec": 373.54
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "犯人じゃなくて発言者。Aさんの発言、Bさんの発言って分けてくれるから、議事録づくりがぐっと楽になるの。",
+      "news_index": 4,
+      "start_sec": 373.69,
+      "end_sec": 380.63
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "議事録係の新人さん、泣いて喜ぶのだ。",
+      "news_index": 4,
+      "start_sec": 380.78,
+      "end_sec": 384.31
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ただ、日本語でどの機能まで使えるかは、試す前に確認した方が安心ね。",
+      "news_index": 4,
+      "start_sec": 384.46,
+      "end_sec": 389.65
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "了解なのだ。いきなり大事な会議で使うのは、やめとくのだ。",
+      "news_index": 4,
+      "start_sec": 389.8,
+      "end_sec": 393.88
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "賢明ね。要するに、会議の文字起こしアプリが、これから安く賢くなっていく流れってこと。",
+      "news_index": 4,
+      "start_sec": 394.03,
+      "end_sec": 400.3
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ラスト五本目は手短に。アンソロピックが十月二十八日に、弁護士さん向けのクロードに、すぐ使える道具を六つ足したの。",
+      "news_index": 5,
+      "start_sec": 400.38,
+      "end_sec": 408.24
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "クロードが弁護士バッジを付けて、法廷で異議ありって叫ぶのだ?",
+      "news_index": 5,
+      "start_sec": 408.39,
+      "end_sec": 413.17
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "叫ばないわ。注目は引用チェック。書類の中の引用が正しいか、ページ番号がズレてないかを確かめる道具よ。",
+      "news_index": 5,
+      "start_sec": 413.32,
+      "end_sec": 420.58
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "引用って、そんなに間違えるものだっけ?",
+      "news_index": 5,
+      "start_sec": 420.73,
+      "end_sec": 423.73
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "AIは、ありもしない判決をそれっぽく作っちゃうことがあるの。海外では、それで弁護士が怒られる事故もあったわ。",
+      "news_index": 5,
+      "start_sec": 423.88,
+      "end_sec": 431.05
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? 読書感想文で、存在しない本の感想を書くようなものじゃん!",
+      "news_index": 5,
+      "start_sec": 431.2,
+      "end_sec": 435.88
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いい例えね。だから出典に書いてないことを言ってないかまで、照らし合わせるのよ。",
+      "news_index": 5,
+      "start_sec": 436.03,
+      "end_sec": 440.96
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあもう、AIに丸投げで大丈夫ってこと?",
+      "news_index": 5,
+      "start_sec": 441.11,
+      "end_sec": 444.49
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "そこが大事。出てくるものは全部下書きで、最後は弁護士が確認して責任を持つ設計なの。",
+      "news_index": 5,
+      "start_sec": 444.64,
+      "end_sec": 450.7
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "AIは下書き係、ハンコを押すのは人間なのだ!",
+      "news_index": 5,
+      "start_sec": 450.85,
+      "end_sec": 454.46
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "完璧。私たちがAIで調べものする時も、出典を自分で確かめるクセは持っておきたいわね。",
+      "news_index": 5,
+      "start_sec": 454.61,
+      "end_sec": 461.14
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで今朝は五本。執事になるアレクサ、おまけ付きのチャットジーピーティー、1兆のミストラル、議事録のネモトロン、下書き係のクロードだったわ。",
+      "news_index": 0,
+      "start_sec": 461.22,
+      "end_sec": 470.32
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "おまけが付く話、付かない話、いろいろあったのだ!",
+      "news_index": 0,
+      "start_sec": 470.47,
+      "end_sec": 474.03
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "で、一番刺さったのはどれ?",
+      "news_index": 0,
+      "start_sec": 474.18,
+      "end_sec": 476.49
+    },
+    {
+      "index": 84,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "ボクのプラスのプランに、おまけが付かなかったことなのだ……。",
+      "news_index": 0,
+      "start_sec": 476.64,
+      "end_sec": 481.22
+    },
+    {
+      "index": 85,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "まだ根に持ってるのね。聴いてくれてるかた、気になったニュースがあったら、各社の発表をのぞいてみてね。",
+      "news_index": 0,
+      "start_sec": 481.37,
+      "end_sec": 487.6
+    },
+    {
+      "index": 86,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "また明日のテック朝便で会うのだー! いってらっしゃいなのだ!",
+      "news_index": 0,
+      "start_sec": 487.75,
+      "end_sec": 491.49
+    },
+    {
+      "index": 87,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "いってらっしゃい。今日もいい一日を。",
+      "news_index": 0,
+      "start_sec": 491.64,
+      "end_sec": 493.94
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 494.64,
+      "end_sec": 502.94
+    }
+  ],
+  "wall_time_sec": 13.02,
+  "audio_url": "/audio/ai/20261030_050620.mp3?v=1793311371"
+}

@@ -1,0 +1,553 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-10-29T20:06:20.826735+00:00",
+  "title": "おまけ付きの朝 〜タダで話すアレクサと、1兆の頭脳の持ち帰り〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "intro",
+      "text": "おはようございます、旅の道ラジオ朝便。テックニュースの回、四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 通勤電車の中のみんな、おはようなのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今朝はテックの話題を五本、サクッと流していくわ。キーワードは、おまけ。",
+      "news_index": 0,
+      "reading": "けさはテックのはなしだいをごほん、サクッとながしていくわ。キーワードは、おまけ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "おまけ? お菓子の箱に入ってる、シールみたいなやつだっけ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、それ。月額料金に、AIがくっついてくる話が二つもあるの。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "くっついてくる! ボクの好きな言葉ランキング、堂々の一位じゃん!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "ただし、ちゃんと条件付き。じゃ、一本目いくわね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。アマゾンの新しいアレクサ、アレクサ プラスの日本語版が、十月二十九日に早期アクセスを始めたの。",
+      "news_index": 1,
+      "reading": "いっぽんめいちほんめ。アマゾンのあたらしいアレクサ、アレクサプラスのにほんごばんが、じゅうがつにじゅうくにちにそうきアクセスをハジメタノ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "アレクサって、台所で「タイマー三分」って言うと動くやつだっけ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう、あの丸いスピーカーの中の人ね。今回は、その中身が生成AIに入れ替わったのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "中の人が入れ替わると、何が変わるのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "今までは、決まった命令だけ聞く音声のリモコン。プラスは話の流れを覚えてて、ややこしい頼み事もこなす方向ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、ボタンの決まったリモコンが、話の通じる執事さんに転職したってこと!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "いい例えね。食べログや出前館みたいなサービスとも、つながる予定だって。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? しゃべるだけで、晩ごはんの出前まで頼めちゃうのだ!?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういう方向。で、肝心のお値段だけど、今の早期アクセスの期間は誰でも無料。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ふっふっふ、じゃあ今のうちに使い倒すのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "期間が終わったら、プライム会員は追加料金なし、それ以外は月3,000円よ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "月3,000円!? ボクのお小遣いの半分が、執事さんのお給料になっちゃうじゃん!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "しかも全員一斉じゃなくて、対象の人に順番で案内が届く形なの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "順番待ちなのだ。ボクの家にも、早めに来てほしいのだー。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに、対応する端末を持っていれば、案内を受け取って早期アクセスを始められるって話。プライム会員は、早期アクセス後も追加料金なしよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目もおまけの話。オープンエーアイが十月二十八日に、チャットジーピーティーの一部の有料プランに、エーピーアイの利用枠を付けるって発表したの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "えーぴーあい? 新しいお米の品種なのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "炊かないで。エーピーアイは、自分で作ったアプリからAIを呼び出すための窓口のことよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "窓口? いつものチャット画面とは別物ってこと?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "別物ね。今までは、チャットの月額と、アプリから使う分の料金が、別々の財布だったの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、スマホの月額と、ゲームアプリの課金が別、みたいな感じじゃん!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "近いわ。それが対象のプロとビジネスの契約者なら、エーピーアイ用の無料クレジットを特典として受け取れるのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、どのくらい付いてくるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "プロは月100ドル、200ドル、500ドルの三段階で、払った額と同じ分。会社向けのビジネスは、一人あたり月20ドルか100ドル分ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "プロなら、月額と同じ額のエーピーアイクレジットが付くのだ!? アプリ作りに使えるおまけなのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "落ち着いて。使わなかった分は請求期間が終わると消えて、繰り越しなし。ビジネスの上限は、月払いならワークスペース全体で月500ドル、年払いなら年6,000ドルよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "待って、ボクが入ってるチャットジーピーティーのプラスは……?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "shock",
+      "text": "残念、プラスと無料のプランは対象外。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "ボクのプラン、おまけの袋が空っぽだったのだ……。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "よしよし。要するに、自分でAIの道具を作る人を、月額プランに呼び込む作戦ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "趣味でアプリを作ってる人には、かなりの追い風なのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。受け取るには、対象プランを7日以上契約して、チャットとエーピーアイを同じメールで使い、両方のオーナー権限で連携する必要があるから、対象の人は確認してみて。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目はヨーロッパから。フランスのミストラルっていうAIの会社が十月二十九日に、大型のAIの中身を、誰でもダウンロードできる形で公開したの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ミストラル? 駅前のおしゃれなパン屋さんみたいな響きなのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "パンは焼かないわ。オープンエーアイやアンソロピックと張り合ってる、ヨーロッパ代表みたいな会社よ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今回のミストラル ラージ フォーは、AIの頭の中の部品、パラメータが1兆を超えるの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "1兆!? ボクの脳みそと比べて、どっちが多いのだ!?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "比べる勇気だけは褒めてあげる。ただ全部いっぺんには動かなくて、一回に動くのは520億くらいなの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "え、残りの部品はサボってるってこと?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "得意な部分だけ呼び出す仕組み。大病院で、症状に合った専門の先生だけが診察に出てくる感じね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、先生が全員出てきたら、診察室がパンクするのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "中身が公開されたから、自分のサーバーでも動かせる。ただ圧縮した版でも、エヌビディアの最新のジーピーユーが四枚要るの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じーぴーゆーって、グラボの親戚だっけ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "親戚ね。AIの計算を爆速でこなす専用チップで、これはデータセンター向けの、とびきり高い最上位クラスよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ボクの自作パソコンのグラボ一枚じゃ、門前払いじゃん!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "門の前にも立てないわね。それに外部の評価だと、大手の最上位モデルにはまだ届かないって見方なの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、何を売りにしてるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "プログラム作りと、サイバー攻撃から守る仕事。自分の建物の中で動かせば、データを外に出さずに済むのも強みね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "秘密の書類を、よそに預けなくていいのだね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "要するに、私たちが家で動かす話じゃないけど、ヨーロッパの会社や役所の選択肢が一つ増えたって話。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四本目は、会議の多い人に朗報。エヌビディアが十月二十八日に、ネモトロン サンテンゴ トランスクライブっていう、声を文字にするAIを無料で公開したの。",
+      "news_index": 4,
+      "reading": "よんほんめは、かいぎのおおいひとにろうほう。エヌビディアがじゅうがつにじゅうはちにちに、ネモトロンサンテンゴトランスクライブっていう、こえをもじにするAIをむりょうでこうかいしたの。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "トランスクライブ? 車に変形するロボットの仲間なのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "それはトランスフォーマー。トランスクライブは、録音を文字に起こすって意味よ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、文字起こし! 先生の授業を、そのままノートにしてくれるやつなのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。40の言語を文字にできて、そのうち31の言語は英語との翻訳も一緒にこなすの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "40言語!? ボク、日本語の聞き取りすら怪しいのに!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "自覚はあるのね。しかも13の言語なら、誰がしゃべったかまで見分けるわ。会議は最大8人、録音は1時間まで。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "声だけで犯人を当てる、名探偵AIってわけなのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "犯人じゃなくて発言者。Aさんの発言、Bさんの発言って分けてくれるから、議事録づくりがぐっと楽になるの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "議事録係の新人さん、泣いて喜ぶのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ただ、日本語でどの機能まで使えるかは、試す前に確認した方が安心ね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "了解なのだ。いきなり大事な会議で使うのは、やめとくのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "賢明ね。要するに、会議の文字起こしアプリが、これから安く賢くなっていく流れってこと。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ラスト五本目は手短に。アンソロピックが十月二十八日に、弁護士さん向けのクロードに、すぐ使える道具を六つ足したの。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "クロードが弁護士バッジを付けて、法廷で異議ありって叫ぶのだ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "叫ばないわ。注目は引用チェック。書類の中の引用が正しいか、ページ番号がズレてないかを確かめる道具よ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "引用って、そんなに間違えるものだっけ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "AIは、ありもしない判決をそれっぽく作っちゃうことがあるの。海外では、それで弁護士が怒られる事故もあったわ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? 読書感想文で、存在しない本の感想を書くようなものじゃん!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いい例えね。だから出典に書いてないことを言ってないかまで、照らし合わせるのよ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあもう、AIに丸投げで大丈夫ってこと?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "そこが大事。出てくるものは全部下書きで、最後は弁護士が確認して責任を持つ設計なの。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "AIは下書き係、ハンコを押すのは人間なのだ!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "完璧。私たちがAIで調べものする時も、出典を自分で確かめるクセは持っておきたいわね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで今朝は五本。執事になるアレクサ、おまけ付きのチャットジーピーティー、1兆のミストラル、議事録のネモトロン、下書き係のクロードだったわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "おまけが付く話、付かない話、いろいろあったのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "で、一番刺さったのはどれ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "ボクのプラスのプランに、おまけが付かなかったことなのだ……。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "まだ根に持ってるのね。聴いてくれてるかた、気になったニュースがあったら、各社の発表をのぞいてみてね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "また明日のテック朝便で会うのだー! いってらっしゃいなのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "いってらっしゃい。今日もいい一日を。",
+      "news_index": 0
+    }
+  ],
+  "program_description": "通勤・通学の合間にサクッと聴ける、テックニュースの朝便。今朝のキーワードは「おまけ」。アマゾンの生成AI版アシスタント、アレクサ プラスの日本語版が早期アクセスを開始し、プライム会員なら追加料金なしで使える話。チャットジーピーティーの対象となるプロとビジネスのプランで、自作アプリからAIを呼べるエーピーアイ用クレジットを特典として受け取れる話。フランスのミストラルが、1兆を超える部品を持つ大型AIの中身を公開したけれど、動かすには超高性能チップが何枚も要る話。エヌビディアが、文字起こし・翻訳・話者の聞き分けを一本でこなす無料の音声AIを出した話。そしてアンソロピックが、弁護士向けクロードに引用チェックの道具を足して、AIは下書き係に徹する設計にした話まで。ずんだもんがおまけを取りこぼして涙目になる回です。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20261030_050620_chars.webp",
+    "hero_rel": "/images/topics/tech_20261030_050620.webp",
+    "title": "おまけ付きの朝 〜タダで話すアレクサと、1兆の頭脳の持ち帰り〜",
+    "companies": [
+      "Claude",
+      "Amazon",
+      "OpenAI",
+      "NVIDIA"
+    ],
+    "thumbnail_ready": true
+  },
+  "summary_short": "アレクサ プラス日本語版が早期開始、ChatGPT特典のAPIクレジット、ミストラルの1兆級AI公開、エヌビディアの無料音声AI、弁護士向けClaudeの引用チェックまで。ずんだもんがおまけを取りこぼして涙目になる朝便です。",
+  "published_at": "2026-10-30T07:01:43+09:00"
+}
