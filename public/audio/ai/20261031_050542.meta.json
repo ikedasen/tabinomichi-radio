@@ -1,0 +1,846 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-10-31T05:05:42+09:00",
+  "title": "宇宙からの一句と止まった針 〜94万円のノートと、おかわり2倍の作業枠〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 511.12,
+  "script_hash": "sha256:3a09ed86f0a51b6a53622583d17ce2a2691d0c36b99d87d6924ba0e6bd54b0b2",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 8.19
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便、四国めたんよ。今朝もテックの話題を五本、軽く流していくわ。",
+      "news_index": 0,
+      "start_sec": 8.19,
+      "end_sec": 15.25
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 通勤中も通学中も、耳だけ貸してほしいのだ!",
+      "news_index": 0,
+      "start_sec": 15.4,
+      "end_sec": 20.66
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今朝は、宇宙から俳句が届いた話から始めるわ。",
+      "news_index": 0,
+      "start_sec": 20.81,
+      "end_sec": 24.19
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "俳句!? 宇宙人が、五七五を覚えたのだ!?",
+      "news_index": 0,
+      "start_sec": 24.34,
+      "end_sec": 27.64
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "宇宙人じゃないわよ。送ってきたのはAIね。ほかにも、百万円近いノートパソコンと、途中で手を止めたAIの話もあるわ。",
+      "news_index": 0,
+      "start_sec": 27.79,
+      "end_sec": 35.88
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "朝から情報の温度差がすごすぎるのだ。",
+      "news_index": 0,
+      "start_sec": 36.03,
+      "end_sec": 38.82
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。グーグルが十月三十日に、宇宙に打ち上げたAIサーバーから、初めての返事が届いたって発表したの。",
+      "news_index": 1,
+      "start_sec": 38.97,
+      "end_sec": 46.62
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "宇宙にサーバー!? 押し入れに置く場所がなくなったのだ?",
+      "news_index": 1,
+      "start_sec": 46.77,
+      "end_sec": 50.44
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "押し入れのスケールで考えないで。計画の名前はプロジェクト サンキャッチャー、ようは太陽の光でAIを動かせないか試す実験ね。",
+      "news_index": 1,
+      "start_sec": 50.59,
+      "end_sec": 58.58
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "太陽光発電の、宇宙支店ってことなのだ!",
+      "news_index": 1,
+      "start_sec": 58.73,
+      "end_sec": 61.98
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "いい線よ。AIを動かす巨大なサーバー倉庫、データセンターは、地上だと電気の確保と冷やすのが大変になってきてるの。",
+      "news_index": 1,
+      "start_sec": 62.13,
+      "end_sec": 70.26
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、宇宙からの第一声は何だったのだ? 地球のみなさん、こんにちは?",
+      "news_index": 1,
+      "start_sec": 70.41,
+      "end_sec": 75.78
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "それが俳句。宇宙の俳句を詠んでって頼んだら、下には青いビー玉、星の光が私の核を満たす、みたいな英語の詩が届いたの。",
+      "news_index": 1,
+      "start_sec": 75.93,
+      "end_sec": 84.27
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "ちょっとカッコつけてるのだ! ボクの国語の宿題より、ずっとうまいのだ……。",
+      "news_index": 1,
+      "start_sec": 84.42,
+      "end_sec": 90.25
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "動かしたのはグーグル製のAI用チップ、ティーピーユーよ。十月一日に打ち上げて、衛星がノルウェーのスバールバルの上空を通った時に、返事が届いたって。",
+      "news_index": 1,
+      "start_sec": 90.4,
+      "end_sec": 100.51
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "衛星が通るのを待って受け取るのだ? 宅配の再配達みたいなのだ。",
+      "news_index": 1,
+      "start_sec": 100.66,
+      "end_sec": 105.9
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "要するに、宇宙でも動いたよっていう第一歩ね。次は熱と放射線に耐えられるかを試して、2027年には衛星を二機つなぐ計画よ。",
+      "news_index": 1,
+      "start_sec": 106.05,
+      "end_sec": 115.54
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、明日からボクのチャットの返事が宇宙から来るのだ?",
+      "news_index": 1,
+      "start_sec": 115.69,
+      "end_sec": 119.72
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それはまだ先。今すぐ生活は変わらないけど、AIの電気不足をどう解くか、答えの候補が一つ増えたって話ね。",
+      "news_index": 1,
+      "start_sec": 119.87,
+      "end_sec": 127.34
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "次の俳句は、ボクのことを詠んでほしいのだ。",
+      "news_index": 1,
+      "start_sec": 127.49,
+      "end_sec": 130.82
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目はお財布の話。日本の半導体メーカー、キオクシアが十月三十日に、上場してから初めての配当を出すって発表したの。",
+      "news_index": 2,
+      "start_sec": 130.97,
+      "end_sec": 139.71
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "はいとう? 運動会の玉入れの配点なのだ?",
+      "news_index": 2,
+      "start_sec": 139.86,
+      "end_sec": 143.31
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "玉は入れないわ。会社が稼いだお金の一部を株主に配ることで、今回は九月末時点の、株式分割前の1株につき90円よ。",
+      "news_index": 2,
+      "start_sec": 143.46,
+      "end_sec": 152.37
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "そもそもキオクシアって、何を作ってる会社なのだ?",
+      "news_index": 2,
+      "start_sec": 152.52,
+      "end_sec": 156.08
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ナンド型フラッシュメモリ、ようはSSDやスマホの中で、写真やデータをしまっておく部品ね。",
+      "news_index": 2,
+      "start_sec": 156.23,
+      "end_sec": 162.02
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、ボクのパソコンの押し入れなのだ!",
+      "news_index": 2,
+      "start_sec": 162.17,
+      "end_sec": 164.76
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう、その押し入れの会社。四月から九月の純利益、ようは手元に残ったもうけが、約2.2兆円で過去最高だって。",
+      "news_index": 2,
+      "start_sec": 164.91,
+      "end_sec": 172.91
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "2.2兆円!? ボクのお小遣いを貯めても、届く前に恐竜の時代がもう一回来るのだ!",
+      "news_index": 2,
+      "start_sec": 173.06,
+      "end_sec": 179.22
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "恐竜はさておき、大きな追い風はAIね。データセンター向けの旺盛な需要で、売値の上昇や出荷量の増加につながったのよ。",
+      "news_index": 2,
+      "start_sec": 179.37,
+      "end_sec": 187.72
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "AIが、ボクの押し入れの部品まで持っていっちゃうのだ……。",
+      "news_index": 2,
+      "start_sec": 187.87,
+      "end_sec": 192.4
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "持っていかれてる感じは、あるかもね。副社長は長く好況が続く状態に入ったと言ってて、2027年の生産分も全部行き先が決まってるらしいわ。",
+      "news_index": 2,
+      "start_sec": 192.55,
+      "end_sec": 202.74
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "来年の分まで売約済み!? 人気ラーメン店の行列より長いのだ!",
+      "news_index": 2,
+      "start_sec": 202.89,
+      "end_sec": 207.53
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに、SSDやスマホの保存容量が安くなる話は、当面期待しにくいってこと。パソコンを買い替える予定なら、値段はこまめに見ておいた方がいいわ。",
+      "news_index": 2,
+      "start_sec": 207.68,
+      "end_sec": 217.59
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "ボクの押し入れ増築計画、延期なのだ……。",
+      "news_index": 2,
+      "start_sec": 217.74,
+      "end_sec": 221.94
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目はパソコン。エヌビディアの新チップ、アールティーエックス スパークを積んだエイスースのノートが、十月二十三日から順番に出始めたの。",
+      "news_index": 3,
+      "start_sec": 222.09,
+      "end_sec": 230.72
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "スパーク! 線香花火みたいに、パチパチ光るパソコンなのだ?",
+      "news_index": 3,
+      "start_sec": 230.87,
+      "end_sec": 235.87
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "光らないわ。売りはAIを、ネットの向こうじゃなく手元のパソコンの中で動かせること。",
+      "news_index": 3,
+      "start_sec": 236.02,
+      "end_sec": 241.25
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "いつものチャットのAIとは、何が違うのだ?",
+      "news_index": 3,
+      "start_sec": 241.4,
+      "end_sec": 244.69
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いつものは、質問をネットの向こうの巨大なサーバーに送ってるの。これは出前じゃなくて、自宅のキッチンで作る感じね。",
+      "news_index": 3,
+      "start_sec": 244.84,
+      "end_sec": 252.09
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "自炊AIなのだ! じゃあ、ナイショの話も外に出さずに済むのだ!",
+      "news_index": 3,
+      "start_sec": 252.24,
+      "end_sec": 256.65
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこが強みよ。しかもエージェント、ようは人の代わりに段取りを組んで作業するAIを動かす前提のパソコンなの。",
+      "news_index": 3,
+      "start_sec": 256.8,
+      "end_sec": 263.88
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "で、お値段は? 五万円くらいで、ボクの部屋にも来てくれるのだ?",
+      "news_index": 3,
+      "start_sec": 264.03,
+      "end_sec": 269.18
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "エイスースのプロアートで、一番安いのが94万9,800円。メモリを128ギガバイト積んだ16型だと、124万8,000円よ。",
+      "news_index": 3,
+      "start_sec": 269.33,
+      "end_sec": 279.12
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "94万!? ボクの自作パソコン貯金だと、定年まで貯めても届くかあやしいのだ!",
+      "news_index": 3,
+      "start_sec": 279.27,
+      "end_sec": 285.13
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "貯金の前に、まず就職しなさい。買うのは当面、AIを仕事で動かす人が中心でしょうね。",
+      "news_index": 3,
+      "start_sec": 285.28,
+      "end_sec": 291.72
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、ボクたちには関係ないのだ?",
+      "news_index": 3,
+      "start_sec": 291.87,
+      "end_sec": 294.62
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "今すぐはね。手元でAIを動かす流れが広がれば安いパソコンにも降りてくるかもしれないけど、今は眺めて楽しむ値段ってことよ。",
+      "news_index": 3,
+      "start_sec": 294.77,
+      "end_sec": 303.15
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "カタログをおかずに、ごはんを食べるのだ。",
+      "news_index": 3,
+      "start_sec": 303.3,
+      "end_sec": 305.96
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四本目はおかわりの話。オープンエーアイが十月二十九日に、チャットジーピーティーの高いプランの作業枠を2倍にしたの。",
+      "news_index": 4,
+      "start_sec": 306.11,
+      "end_sec": 313.76
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "作業枠? 給食のおかわり回数みたいなやつなのだ?",
+      "news_index": 4,
+      "start_sec": 313.91,
+      "end_sec": 317.82
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "今回はそれで合ってるわ。AIに作業やプログラム作りを頼める量の上限のことよ。",
+      "news_index": 4,
+      "start_sec": 317.97,
+      "end_sec": 323.62
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクのプランも増えるのだ?",
+      "news_index": 4,
+      "start_sec": 323.77,
+      "end_sec": 325.69
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "対象は月100ドル、200ドル、500ドルのプロと、会社向けの上位の席。普通のプラスのプランは据え置きね。",
+      "news_index": 4,
+      "start_sec": 325.84,
+      "end_sec": 332.88
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "高いところだけおかわり自由!? 世の中、厳しすぎるのだ!",
+      "news_index": 4,
+      "start_sec": 333.03,
+      "end_sec": 336.9
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "しかも200ドルのプランは、上限を半分にするって話があったのに、それも取りやめたの。",
+      "news_index": 4,
+      "start_sec": 337.05,
+      "end_sec": 342.58
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? 減らすはずが増えたのだ!? 急にどうしたのだ?",
+      "news_index": 4,
+      "start_sec": 342.73,
+      "end_sec": 346.32
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "200ドルプランの上限引き下げをやめた理由として、オープンエーアイが挙げたのは利用者からの反応よ。アンソロピックとの競争が背景にある可能性はあるけど、公式にそう説明したわけじゃないわ。",
+      "news_index": 4,
+      "start_sec": 346.47,
+      "end_sec": 358.87
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、隣に新しいラーメン屋ができて、急に大盛り無料になるやつなのだ!",
+      "news_index": 4,
+      "start_sec": 359.02,
+      "end_sec": 364.05
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "たとえとしては分かりやすいけど、ライバル対策だという部分は推測ね。ただチャットの週ごとの回数制限は別枠だから、全部が倍になったわけじゃないのよ。",
+      "news_index": 4,
+      "start_sec": 364.2,
+      "end_sec": 374.03
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "大盛りは麺だけで、チャーシューは増えないのだ。",
+      "news_index": 4,
+      "start_sec": 374.18,
+      "end_sec": 377.57
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "うまいこと言うじゃない。私たちにとっては、値札だけじゃなくどれだけ使えるかでプランを比べる時代ってことね。",
+      "news_index": 4,
+      "start_sec": 377.72,
+      "end_sec": 384.16
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ラスト五本目は硬めだから手短に。アンソロピックのクロードが、マウスの脳の手術で治療法選びと機械の操作までやった、って報告が出たの。",
+      "news_index": 5,
+      "start_sec": 384.24,
+      "end_sec": 392.97
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? クロードが白衣を着て、メスを握ったのだ!?",
+      "news_index": 5,
+      "start_sec": 393.12,
+      "end_sec": 396.55
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "握ってないわ、頭を開くのは人間の外科医よ。AIは十九個の遺伝子治療の候補から一つ選んで、注射する場所を決めて、機械に指示を出したの。",
+      "news_index": 5,
+      "start_sec": 396.7,
+      "end_sec": 406.16
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "いでんしちりょう? 体の設計図を、書き直しちゃうのだ?",
+      "news_index": 5,
+      "start_sec": 406.31,
+      "end_sec": 410.42
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ざっくりそんな感じ。細胞に遺伝子を届けて働きを変える治療で、今回は発作を抑えるのが狙いね。",
+      "news_index": 5,
+      "start_sec": 410.57,
+      "end_sec": 417.2
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "ボクは晩ごはんも決められないのに、AIは手術の作戦まで決めるのだ……。",
+      "news_index": 5,
+      "start_sec": 417.35,
+      "end_sec": 424.08
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "面白いのはここから。機械に出た座標が可動範囲を外れていると気付いたAIが、研究者の再試行の指示を断ったの。",
+      "news_index": 5,
+      "start_sec": 424.23,
+      "end_sec": 431.83
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "人間に逆らった!? ついにAIの反乱なのだ!?",
+      "news_index": 5,
+      "start_sec": 431.98,
+      "end_sec": 435.53
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "反乱じゃなくて、ブレーキよ。カーナビが、その先は崖ですって言って動かないようなものね。",
+      "news_index": 5,
+      "start_sec": 435.68,
+      "end_sec": 441.19
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、そのあとはどうなったのだ?",
+      "news_index": 5,
+      "start_sec": 441.34,
+      "end_sec": 443.6
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "人が制御コードを手で直してから再開したって。大事な操作は人間が承認して、獣医さんが非常停止のスイッチも握ってたらしいわ。",
+      "news_index": 5,
+      "start_sec": 443.75,
+      "end_sec": 452.05
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "マウスさんは、無事だったのだ?",
+      "news_index": 5,
+      "start_sec": 452.2,
+      "end_sec": 455.06
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "目を覚まして回復したそうよ。ただ一匹だけの話で元はエックスへの投稿だし、査読もまだで、治療が効いたかも分かってないの。",
+      "news_index": 5,
+      "start_sec": 455.21,
+      "end_sec": 463.54
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、まだ話半分で聞くのがいいってことなのだ。",
+      "news_index": 5,
+      "start_sec": 463.69,
+      "end_sec": 467.27
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうことよ。新薬の研究が早まる期待はあるけど、誰が責任を持つかのルール作りが先ね。私たちの病院に関わってくるのは、ずっと先の話よ。",
+      "news_index": 5,
+      "start_sec": 467.42,
+      "end_sec": 477.29
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今朝はここまで。宇宙の俳句、キオクシアの初配当、94万円のノート、2倍の作業枠、止まったAIの五本だったわ。",
+      "news_index": 0,
+      "start_sec": 477.37,
+      "end_sec": 485.75
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ボクのベストは俳句なのだ! 次は五七五で、ボクのお小遣いも増やしてほしいのだ!",
+      "news_index": 0,
+      "start_sec": 485.9,
+      "end_sec": 491.75
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "俳句で増えるなら苦労しないわよ。聴いてくれてるかた、今日も気を付けてね。",
+      "news_index": 0,
+      "start_sec": 491.9,
+      "end_sec": 496.23
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "気になった話は、ニュースものぞいてみてほしいのだ!",
+      "news_index": 0,
+      "start_sec": 496.38,
+      "end_sec": 499.69
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "また次のテック朝便で会いましょう。",
+      "news_index": 0,
+      "start_sec": 499.84,
+      "end_sec": 502.12
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "いってらっしゃいなのだー!",
+      "news_index": 0,
+      "start_sec": 502.27,
+      "end_sec": 503.78
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 504.48,
+      "end_sec": 511.12
+    }
+  ],
+  "wall_time_sec": 12.43,
+  "audio_url": "/audio/ai/20261031_050542.mp3?v=1793397798"
+}
