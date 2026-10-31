@@ -1,0 +1,548 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-10-31T20:05:41.209500+00:00",
+  "title": "誰のものかの朝 〜机の上のメモリと、共通設定で断るAIの学習〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便、テックの話題をお届けする四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝は五本、サクッといくのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今朝の裏テーマは、それって誰のもの?って話ね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "誰のもの? 給食のプリンの、おかわり争奪戦なのだ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "プリンは出ないわ。パソコンのメモリに、ネットの文章、あと借金の保証人まで出てくるの。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "最後だけ急に重いじゃん! 朝から保証人はキツいのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そこは手短にするから安心して。じゃあ一本目ね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "オープンエーアイのサム・アルトマンさんが、十月二十九日に公開されたポッドキャストでの発言で、炎上してるの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "また何か、すごいAIの自慢をしたのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今回はメモリの話よ。数に限りがあるメモリをみんなのパソコンに配っておくのは、かなりひどいって言ったの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "メモリって、パソコンの作業机じゃん! ボクの机を没収するのだ!?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "没収はされないわ。理屈としては、パソコンのメモリが使われてるのは時間にして5パーセントほどで、あとは遊んでるって話ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ボクが寝てる間は、机も寝てるのだ。お互いさまじゃん?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "でもデータセンター、ようはAIを動かす巨大なサーバー倉庫なら、同じメモリをほぼ休みなく回せるって言い分なの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ! 家で眠ってるマイカーより、レンタカーの方が無駄がないってやつなのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "いい例えね。しかも聞かれてたのは、自分のパソコンでAIを動かす話についてよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "でも待って、メモリが高いのって、AIの会社が買いまくってるせいじゃないのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこが燃料なの。オープンエーアイ絡みの需要は、最大で月に90万枚のウェハーになるかもって話があるの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ウェハー? チョコが挟まってる、あのお菓子なのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "かじらないで。半導体を切り出す丸い板のことで、ある試算だと、世界のDRAM用ウェハー生産の最大四割にあたるのよ。",
+      "news_index": 1,
+      "reading": "かじらないで。はんどうたいをきりだすまるいいたのことで、あるしさんだと、セカイノでぃーあーるえーえむようddらむよううぇはーせいさんのさいだいよんわりにあたるのよ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "四割!? クラス全員のプリンの半分近くを、一人で抱えてるのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに、将来の大量確保を計画してる側が、君の机はもったいないって言ったわけ。そりゃ燃えるわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、ボクのパソコンはこれからどうなるのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "すぐ机が消える話じゃないわ。ただ手元で動かせば、中身を外に出さずに済むし月額もかからないから、そこを手放すかは考えどころね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "机はボクが守るのだ。増設するお金は、ないのだ……。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目はスマホ。アップルのAI機能、アップル インテリジェンスが、十二月にも中国で始まるって、ブルームバーグが報じたの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "えっ、中国のアイフォーンって、今まで使えなかったのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "中国で生成AIを出すには当局の許可が要るから、ずっと止まってたのよ。アップルは十月三十一日に正式発表して、十一月四日からベータ版、十二月に一般提供するとしてるわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "アメリカから、箱いっぱいのAIを船で送るのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "船便じゃないわ。基盤はアップルの生成モデルで、現地向けにはアリババと組み、一部の機能でクウェンも使うの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "アイフォーンの中身が、アリババになるのだ!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "中身まるごとじゃなくて、AIの一部で連携するの。お店の看板は同じで、厨房だけ現地のシェフに任せるようなものよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、世界チェーンのお店が、国によってメニューの味が違うやつなのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "近いわね。最初は通知のまとめや、文章の手直し、写真の写り込みを消す機能あたりで、賢くなった新しいシリは入らないって話ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "シェフが来たのに、看板メニューはお休みなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "しかもAIを更新するたびに、中国政府の承認が要るらしいわ。レシピを変えるたびに役所へ届ける感じね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "毎回届け出だと、シェフが書類で疲れちゃうのだ……。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "日本のアイフォーンがすぐ変わる話じゃないわ。ただ同じスマホでも、国によって中のAIが別物になる時代ってことは覚えておいて。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "海外で買ったスマホは、中の人まで違うかもしれないのだ。次いくのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目はネットの文章の話。AIの学習に使わないでっていう意思表示を、共通の設定で済ませられる仕組みが動き出したの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "がくしゅう? AIも、夜中に漢字ドリルをやるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "ドリルの代わりに、ネット中の文章を読み込むのよ。クローラーっていう自動巡回プログラムが、サイトを回って集めてくるの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、ボクのブログの、昨日の晩ごはん日記も読まれてるのだ!?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "読まれてるかもね、需要は置いといて。で、それを断るには、ロボッツ テキストっていう、サイトの玄関の張り紙を使うの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "分かった! セールスお断りのシールなのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "まさにそれ。今までは会社ごとに別々の名前で書く必要があって、シールを何枚も貼ってたのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "玄関がシールだらけなのだ! もう誰を断ったか分からないのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこで十月三十日に、オープンエーアイ、グーグル、マイクロソフト、アンソロピックの四社が、一つの書き方に従うって言ったの。AI学習はお断り、の一枚で済むわけね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "えらいのだ! これで明日から、ボクの晩ごはんは守られるのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "明日からは無理よ。アンソロピックは対応を始めたけど、マイクロソフトは来年の二月一日、グーグルは来年の早い時期、オープンエーアイはこの先数か月の話らしいわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、もう読まれちゃった日記は、返してもらえるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "返ってこないわね。対象になるのは、設定後に取得された内容の学習利用で、しかも正式な標準規格になる前の案の段階なの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "え、それじゃ、シールを貼らないと損じゃん? 全員貼ればいいのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこに落とし穴。グーグルでは、この共通設定で断ると、ジェミニの回答に自分のサイトが使われにくくなる可能性があるのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "セールスを断ったら、お客さんまで来なくなるのだ!?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "今の一言が正解。ブログやお店のサイトを持ってる人は、断るか載せるかを自分で選びやすくなった、ってことね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四本目は電話の話。ライムっていうアメリカの会社が十月二十八日に、プリズムっていう音声のAIを発表したの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ライムにプリズムって、おしゃれなカフェのメニューなのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "飲めないわよ。お店やサービスの電話窓口で、人の代わりに受け答えするためのAIね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも音声のAIって、もういっぱいあるのだ。何が違うのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "よくある形は、声を文字にして、考えて、また声に戻す三段階。これだと間や感情、後ろの物音がこぼれやすいの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、伝言ゲームなのだ! 人を挟むほど話が変わっちゃうやつ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "プリズムは声を直接聞き取るから、伝言の係を減らせるのよ。最初の声が出るまでは0.57秒、これは会社自身の測定ね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "0.57秒!? ボクなんて、電話に出てからもしもしって言うまでに三秒かかるのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "それは出るのが遅すぎ。で、面白いのはここからで、しゃべる前に返事を文字で出して、確認できるところなの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "文字を飛ばしたって話だったのに、結局書くのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "聞き取りは声のまま、口に出す前にだけメモを見せる感じね。全額返金しますなんて勝手に言う前に、会社のルールで止められるわけ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "口を開く前に深呼吸できるAIなのだ。ボクより落ち着いてるのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "これから企業の電話窓口にかけたら、相手がAIっていう場面は増えそうね。話が通じるのは助かるけど、大事な約束は書面でも確かめておきたいわね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ラスト五本目はお金の話だから手短に。エヌビディアが、エヌスケールって会社の借金の保証人になる交渉をしてるって報じられたの。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "来たのだ、朝の保証人! エヌビディアって、AIの計算用チップで大もうけしてる会社じゃん!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう、ジーピーユーっていう計算用チップの売り手ね。エヌスケールはそのチップを買って、AIの会社に計算の場所を貸すデータセンターの会社よ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "お店の人が、お客さんのローンの保証人になるのだ? そんなの聞いたことないのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ウェストバージニア州に建てる施設の、電気と建設のお金で、規模は数十億ドルらしいわ。まだ交渉の段階ね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "数十億ドル!? ボクのお小遣いを一生ためても、ぜんぜん届かないのだ!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "もし支払えなくなったら、エヌビディアが一時的に施設を引き取って、買い手や次の借り手を探すって仕組みみたい。ちなみに最初の建物の借り手はアンソロピックで、契約は446億ドルよ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "売った相手を支えて、また売って……お金がぐるぐるしてるのだ!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "いいとこ突くわね。こうした資金支援には循環取引じゃないかって批判があって、フアンCEOは以前、同じ批判をばかげてるって退けてるの。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、これはボクのお財布に関係あるのだ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "すぐにはないわ。ただ世界の株の積み立てにはエヌビディアも入ってることが多いから、AIブームのつまずきが広がりやすくなる点は知っておいて損はないわね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "ボクのつみたて、遠いアメリカの工事現場とつながってたのだ……。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "はい、今朝はこの五本。アルトマンさんのメモリ発言、中国のアップル、AI学習お断りの一枚、確認できる音声AI、そしてエヌビディアの保証人ね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ボクの机とボクのブログは、自分で守るのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "晩ごはん日記に守るほどの価値があるかは、さておきね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "あるのだ! 昨日はカレーだったのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "聴いてくれてるかた、いってらっしゃい。気になる話があったら、各社の発表や報道ものぞいてみてね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "また明日のテック朝便で会おうなのだー!",
+      "news_index": 0
+    }
+  ],
+  "program_description": "今朝のテック朝便は、それって誰のもの?がテーマの五本立て。サム・アルトマンさんの、パソコンのメモリはもったいない発言がなぜ炎上したのか。アップルのAI機能が十二月にも中国へ、一部機能でアリババのクウェンと連携する話。AIの学習利用をサイトが共通の設定で断れるルールに大手四社がそろった話。声を声のまま聞き取りつつ、しゃべる前に文字で確認できる音声AI、プリズム。最後は、エヌビディアがお客さんの借金の保証人になるかもしれないという話まで、一般の人の暮らしにどう関係するかを添えて、気軽に聴けるようにまとめた回です。 今の話題をつかみたい人にちょうどいい回です。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20261101_050541_chars.webp",
+    "hero_rel": "/images/topics/tech_20261101_050541.webp",
+    "title": "誰のものかの朝 〜机の上のメモリと、共通設定で断るAIの学習〜",
+    "companies": [
+      "OpenAI",
+      "NVIDIA",
+      "Apple",
+      "Claude",
+      "Google",
+      "Microsoft",
+      "Gemini"
+    ],
+    "thumbnail_ready": true
+  },
+  "summary_short": "メモリ高騰やAI規制の波の中で「それって誰のもの?」を問う五本立て。アルトマン氏のメモリ発言の炎上、アップルAIの中国展開、AI学習拒否ルールの統一、音声AIプリズム、エヌビディアの保証話を暮らし目線で解説します。",
+  "published_at": "2026-11-01T07:01:36+09:00"
+}
