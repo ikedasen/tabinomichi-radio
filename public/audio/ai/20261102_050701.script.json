@@ -1,0 +1,558 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-11-01T20:07:01.641369+00:00",
+  "title": "見えない目印と割れる値札 〜文章に潜む透かしと、公園を買うチップ屋さん〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便、四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 眠い目をこすって、テックの話を聴きに来たのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "しゃべる側が聴きに来てどうするのよ。今朝はテックの話題を五本、軽く流していくわ。",
+      "news_index": 0,
+      "reading": "しゃべるがわがききにきてどうするのよ。けさはテックのわだいをごほん、かるくながしていくわ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "五本も? 今日はどんなラインナップなのだ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "文章の見えない目印、エスエスディーの値札、四十万円を超える折りたたみスマホ。そのあとアマゾンの巨額投資と、エヌビディアの大きな買い物ね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "見えない目印! 忍者の暗号みたいで、朝からワクワクするのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "通勤や通学のおともにどうぞ。じゃあ、その忍者の話からいきましょ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。クロードを作ってるアンソロピックが、文章に見えない透かしを入れるモデルを広げるって、利用企業にメールで伝えたの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "透かしって、お札を光にかざすと見えるやつだっけ? 文章も光にかざすのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "スマホを太陽にかざしても何も出ないわよ。単語の選び方に、機械だけが気づけるクセを仕込むの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "単語のクセ? ボクが語尾に「のだ」を付けるみたいなやつなのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "発想は悪くないわね。ただ「のだ」は人間にも丸わかりで、こっちは人が読んでも気づかない統計のパターンなのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? ボクの読んでる文章にも、もう忍者が潜んでるってこと!?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "新しいオーパス ごーてんごなどには、もう入ってるわ。報道だと十一月三日から、少し前のモデル四つにも広がるって。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "なんで急に、目印を付け始めたのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "背景にあるのはEUのAI法、ようはヨーロッパのAIのルールで、十二月に期限が来るらしいの。AIが関わった文章を機械で見分けられるようにする流れね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "じゃあ設定でオフにして、こっそり使っちゃうのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "残念、利用者はオフにできないの。その代わり、目印に利用者の情報は入らないってアンソロピックは説明してるわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "待って、抜け道はないのだ? ボク、そういうの大好きなのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "それが今回の話題。オーパス よんてんろくとソネット よんてんろくは、文章のランダムさを決める設定を少し変えるだけで、透かしが入らなくなるって報じられたの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "玄関に鍵をかけたのに、窓が全開なのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに、開発者向けの設定に窓が二つ残ってるって話。自分の会社のルール確認を透かしに頼るなら、設定は初期値のままで、とメールでも注意してるわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクが作文をクロードに直してもらったら、どうなるのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこが生活に効くところ。校正や翻訳でも目印が残ることがあって、アンソロピックは「書いた」じゃなく「処理した」印だと説明してるのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "自分で書いたのに、AIの作文って疑われたら泣いちゃうのだ……。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "目印イコール丸ごとAI作、ではないってこと。仕事や学校の文章をAIに通すなら、どこまで使ったか説明できるようにしておくと安心ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目はお財布の話。アキバ ピーシー ホットラインっていう専門サイトが、秋葉原のエスエスディーの十月後半の値段をまとめたの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "エスエスディー! 写真やゲームをしまう、速い押し入れなのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "よく覚えてたじゃない。で、全体の感想は、比較的静かな値動きだって。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "静か! じゃあ今が買いどきなのだ! ボク、カートに入れてくるのだー!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "早とちりしないの。同じモデルの中でも、上下が真っ二つに割れてるんだから。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "同じモデルで? どういうことなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "サムスンの高速モデルを見ると、1テラバイトは8,000円下がって37,980円よ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "8,000円も安く! 浮いたお金で、焼肉に行けちゃうのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ところが同じモデルの2テラバイトは、8,180円上がって102,980円よ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ええっ!? 容量は二倍なのに、値段は三倍近くなのだ! やばいのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "大きい方が割安、っていう感覚が通用しない場面があるってことね。別の1テラバイトには、11,000円も上がって42,980円になったのもあったわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "下がったり上がったり、目が回るのだ……。じゃあ1テラバイトを二枚買う方が得ってこと?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "この値段なら計算上はそうなるわ。ただ、パソコン側に差し込む場所が二つあるか、確認してからね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "押し入れを増やす前に、部屋の広さを測るのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "その通り。今は高い安いを一言で言えない時期だから、買う人は1テラバイトあたりの値段で見比べるのがおすすめよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目はガジェット。サムスンが十月末に、中国でダブリュー ニジュウナナっていう折りたたみスマホを発表したの。",
+      "news_index": 3,
+      "reading": "サンボンメワガジェット。サムスンがじゅうがつまつに、ちゅうごくでダブリューニジュウナナっていうおりたたみスマホをはっぴょうしたの。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "折りたたみって、お財布みたいにパタンってなるやつだっけ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そうそう。開くと8インチ、小さめのタブレットくらいの画面になるわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "で、お値段は? ボク、今なら貯金箱を割る覚悟があるのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "割っても足りないわよ。一番安いモデルで18,999元、ドルだと約2,850ドルね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "2,850ドル!? 日本円だと四十万円を超えるのだ! ボクの貯金箱、千個は要るのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "あなたの貯金箱、一個四百円なの? ちなみに前のモデルより2,000元の値上げよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "そんなに高いなら、きっと金ぴかなのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "色は赤と青。中身は、サムスンの最上位の折りたたみがベースで、カメラは2億画素もあるって。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "2億画素! ボクの寝ぐせも、一本ずつ数えられちゃうのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "寝ぐせを高画質で残してどうするのよ。要するに、見せびらかしてなんぼの高級品ってこと。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクたちの生活には、関係あるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今は中国限定だから、日本で買える話じゃないわ。スマホ選びの目安としては、このダブリュー ニジュウナナは折りたたみの中でも特にぜいたくなモデル、くらいで覚えておけば十分かな。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "折りたたまれたのは、ボクの夢だったのだ……。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "うまいこと言わないの。四本目はアマゾンの決算で、エーダブリューエスの売上が前の年より39%増えて、三か月で約460億ドルになったの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "えーだぶりゅーえす? 新しいプロレス団体なのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "リングには上がらないわ。ネットの向こうのサーバー倉庫を、会社に貸し出す商売のことよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あれ、アマゾンって段ボールを届ける会社なのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "段ボールは表の顔。営業利益の半分以上は、このサーバー倉庫から来てるのよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、段ボールより倉庫の方が稼ぎ頭!? 本当なのだ!?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "しかも社長のアンディ・ジャシーさんは、この事業が五年から十年で、年間の売上1兆ドルに届くかもって話したの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "1兆ドル!? ボクのお小遣いを一生貯めても、届く気がしないのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "届かせなくていいの。問題は稼ぐ前に出ていくお金で、今年の設備投資は約2,200億ドルの見込みよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "せつびとうし? 段ボール工場を、宇宙に建てるのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "データセンターっていう巨大なサーバー倉庫の建物や、AI用のチップを買うお金ね。来年はさらに増やすって。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "そんなに部品を買い込むなら、もしかしてボクのメモリが高いのも……?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "無関係じゃなさそうよ。七月の決算では、メモリが高くなったせいで投資額の見込みを約200億ドル増やしたって説明してたもの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "巨人までメモリの値段で困ってるのだ……。ボクの財布なんて、ひとたまりもないのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "これは私の見立てだけど、巨人たちの爆買いが続く間は、パソコンの部品が急に安くなるとは期待しにくいわね。自作の予算は、少し多めに見ておくのが無難よ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ラスト五本目は硬めだから手短に。エヌビディアが九月に約129億ドルで買うと決めたハギングフェイスに、アメリカの司法省が関心を持ってるって、ロイターが報じたの。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ハギングフェイス! 抱きしめる顔の絵文字の会社なのだ!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "正解。世界中の開発者がAIの中身を持ち寄って、誰でも使えるように公開してる広場みたいな場所ね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "広場を丸ごと買うの? 公園を買っちゃう社長なのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "たとえとしては悪くないわ。買い手のエヌビディアは、AIの計算用チップ、ジーピーユーの大手よ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "チップ屋さんが公園を買うと、誰が困るのだ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "司法省が聞いてるのは、まさにそこ。AIが配られる大事な場所を押さえて、ライバルに不利なことをしないか、って質問らしいの。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、公園の入口で「うちのチップの人だけどうぞ」ってやらないか心配ってことなのだ!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そういう不利な扱いを含めて、競争への影響を聞いてるのね。エヌビディアは幅広いチップやクラウドの会社との協力を続けるとしていて、調査は不正の証拠ではないとロイターも補足してるわ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクたちの生活だと、どうなるのだ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今すぐ変わることはないわ。ただ、無料で使えるAIの配り場所の持ち主が変わる話だから、数年後の選択肢に効いてくるかもね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "朝の公園は、みんなで使えるのが一番なのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今朝はここまで。透かしにエスエスディー、折りたたみ、アマゾン、そして公園の話だったわね。",
+      "news_index": 0,
+      "reading": "けさはここまで。すかしにエスエスディー、おりたたみ、アマゾン、そしてこうえんのはなしだったわね。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "最後だけ急にのどかなのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "買収の話を公園にしたの、あなたでしょ。どれか一つ、今日の雑談に持っていってくれれば十分よ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ボクは、AIの目印はAIが書いた証拠じゃない、って話を持っていくのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "いい選択じゃない。聴いてくれてるかた、気になった話は、各社の発表や報道をのぞいてみてね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "また次のテック朝便で会うのだー! いってらっしゃいなのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "いってらっしゃい。今日もほどほどにね。",
+      "news_index": 0
+    }
+  ],
+  "program_description": "今朝のテック朝便は五本立て。クロードの文章に入る見えない透かしが旧モデルにも広がる話と、校正や翻訳でも目印が残るという注意点から出発。秋葉原のエスエスディーは同じモデルでも容量で値動きが真っ二つ、サムスンが中国で出した四十万円を超える折りたたみスマホも紹介します。後半はアマゾンの決算から、売上1兆ドルの構想と巨額の設備投資、メモリ高騰とのつながりを整理。ラストはエヌビディアによるハギングフェイス買収に、アメリカの司法省が関心を寄せている話を、公園のたとえで噛み砕きます。通勤や通学の合間に気軽に聴ける回です。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20261102_050701_chars.webp",
+    "hero_rel": "/images/topics/tech_20261102_050701.webp",
+    "title": "見えない目印と割れる値札 〜文章に潜む透かしと、公園を買うチップ屋さん〜",
+    "companies": [
+      "Claude",
+      "Amazon",
+      "NVIDIA"
+    ],
+    "thumbnail_ready": true
+  },
+  "summary_short": "クロードの文章に入る見えない透かしが旧モデルにも拡大。SSDは同じモデルでも容量次第で値札が真っ二つ、アマゾン決算の巨額投資とメモリ高騰の関係、エヌビディアのハギングフェイス買収に司法省が注目する理由を公園のたとえで解説します。",
+  "published_at": "2026-11-02T07:01:28+09:00"
+}
