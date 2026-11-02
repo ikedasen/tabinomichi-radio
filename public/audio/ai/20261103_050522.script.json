@@ -1,0 +1,447 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-11-02T20:05:22.265585+00:00",
+  "title": "線引きの朝 〜そっくりゲームお断りと、電気を譲るデータセンター〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便、テックニュースの回よ。四国めたんです。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝もテックの話、サクッといくのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今朝は四本。ゲームを作るAIの線引き、AIのお財布、電気を譲るデータセンター、それと首を振るアップル。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "首を振るアップル? リンゴが転がって、いやいやしてるのだ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "果物じゃないわ。家に置くロボットの話で、最後のお楽しみね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "寝ぼけた頭に効きそうなラインナップじゃん! じゃあ一本目いくのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。アンソロピックのプログラミング用のAI、クロード コードが、今あるゲームのそっくりさんを作るのを断るようになったの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "そっくりさん? ものまね番組みたいなやつだっけ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "近いわ。有名なゲームを名指しして、これと同じものを作って、って頼むと止められるのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? 名前を変えたり、ルールをちょっといじったらいけるんじゃないの?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "それも断られるらしいわ。使ってる人の報告だと、十月二十七日ごろから、設定で外せない形で入ったって。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "ずるいのだ! ボク、あの落ちものパズルを自分の部屋で遊びたかっただけなのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "動機はかわいいけど、作った会社からしたら無断コピーの量産機じゃない? ゲーム業界の専門サイト、ゲーム デベロッパーは、アンソロピックが他人のゲームの再現から遠ざける調整を認めた、って伝えてるわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、ゲーム作りそのものが禁止になったってこと?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこは安心して。オリジナルのゲームや、パズルやシューティングみたいなジャンルもの、自分で考えた設計なら手伝ってくれるの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、カレーは作っていいけど、お店の秘伝カレーの完コピはダメってことなのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "いいたとえね。要するに、真似じゃなくて自分の味で勝負しなさいって話。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "自分の味……ボクのずんだ味のゲーム、作るしかないのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "私たちへの影響でいうと、AIに何を頼めて何を断られるか、その線がこれからも少しずつ引かれていくってことね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "AIにお願いするときも、オリジナルで勝負なのだ。次いこ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目はお財布の話。オープンエーアイのチャットジーピーティーで、プラス、プロ、ビジネスでは、十二月からチャットジーピーティーとコーデックスの利用枠が共通になると、オープンエーアイが正式に案内したの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "使える量の上限? ご飯の大盛り無料、みたいなやつなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "大盛りから離れて。今回の案内では、プラス、プロ、ビジネスの対象機能に、共通の利用枠が設けられるのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "その天井が、どうまとまるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "チャットジーピーティーとコーデックスの対象機能で、十二月から利用枠が共通になるの。ただし、インスタントでの普通のおしゃべりは、その枠を使わないわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "二つの財布が、一つの財布になるのだ!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そういうこと。お小遣いを、おやつ用とゲーム用に分けてたのを、一本にまとめる感じね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、今月はおやつを我慢して、全部ゲームに回すとかできるじゃん!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そう、対象機能どうしでは配分の自由が増えるわ。逆に、コーデックスやチャットジーピーティーの作業機能をたくさん使うと、共通の枠は早く減るの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "使い切ったら、枠が戻るのを待つか、追加のクレジットが必要になるのだ……。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "もう正式に案内されていて、残りの量とリセット時刻は設定画面で確認できるようになるわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "普通のおしゃべりまで止まるわけじゃないのだ? それならちょっと安心なのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "まあ心の準備は悪くないわ。私たちへの影響は、コーデックスや作業機能では、共通枠の残りを見ながら使う感覚になるってことね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "スマホのギガの残りを見るみたいに、AIの残りも見る時代なのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "その一言が正解。次いくわよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目は電気の話。オープンエーアイが十一月二日に、グリッド プロテクターズっていう取り組みを発表したの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ぐりっど、ぷろてくたーず? 戦隊ヒーローの名前なのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "変身はしないわ。グリッドは電力網、ようは発電所から家まで電気を届ける網のことよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "その網を、オープンエーアイが守るってこと?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "データセンター、ようはAIを動かす巨大なサーバー倉庫は、電気をものすごく食うの。だから暑さや寒さで電気が足りない日は、倉庫側が使う量を減らす約束をするって話。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、自分のエアコンを弱めて、みんなに電気を譲るってことなのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そう、それでだいたい合ってるわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、どのくらい譲るのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "最初の場所はアメリカのジョージア州で、計画中の施設で最大100万キロワット分。家70万軒分の電気くらいね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "70万軒!? ボクの町内会を何千個集めても届かないのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "規模が段違いでしょ。ただ会社も、これだけで新しい発電所や送電線の代わりにはならない、って認めてるの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "譲るのは偉いけど、そもそもの食べすぎ問題は残るってことじゃん?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "鋭いわね。必要な電線の費用は自分で全部払うとも言ってて、近所の反発を和らげたい狙いが見えるわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクたちの生活には、関係あるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "日本でもデータセンターは増えてるから、AIと家庭の電気の取り合いは、電気代や停電の心配として身近な話になっていくわね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "AIも節電に協力する時代なのだ。次いくのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ラスト四本目はガジェット。アップルが作ってるとされる卓上のロボットの発売が、2027年か2028年にずれ込むかもって、アメリカのジ インフォメーションが報じたの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "アップルがロボット!? 空を飛んで悪者と戦うやつなのだ!?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "飛ばないわ。9インチの画面が、ロボットの腕の先で首を振るみたいに動く置き物よ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "首を振る画面? それ、何に使うのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一番の売りはフェイスタイム、ようはテレビ電話ね。話しながら部屋を歩くと、画面がこっちを追いかけて向きを変えるの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、ひまわりがお日さまを追いかけるみたいに、ボクを追いかけるのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "かわいく言えばそうね。値段は千ドル前後、ようは15万円くらいを目指してるって、前から報じられてたわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "15万円!? ボクのお年玉を十年ぶん貯めて、やっと届くのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "遅れの大きな理由は、ソフト開発の進みの遅さだと報じられてるの。機能を絞って、フェイスタイムと家の基本的な操作を中心にしようとしてるらしいわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "体はできてるのに、頭の方が追いついてないってことなのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに、ハードの大半はできてるけど、ソフトが追いついてないって話。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ボクの家に来たら、毎朝ボクを見つめてくれるのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "カメラ付きで家の中を見回す機械だから、私たちにとってはプライバシーをどう守るかが、買うかどうかの決め手になりそうね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "見つめられたいけど、見られすぎは困るのだ。複雑なのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで、今朝の四本、おさらいね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ゲームのそっくりさんお断り、AIのお財布ひとまとめ、電気を譲るデータセンター、首振りのアップルなのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "完璧。共通してたのは、AIに何を頼めて、どこまで使えるかの線引き。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "線引きの朝だったのだ。ボクも二度寝の線引き、がんばるのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "聴いてくれてるかた、いってらっしゃい。気になった話は、各社の発表や報道をのぞいてみてね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "また明日のテック朝便で会うのだー!",
+      "news_index": 0
+    }
+  ],
+  "program_description": "テック朝便は四本立て。アンソロピックのクロード コードが、有名ゲームのそっくりさん作りを断るようになった話から始まり、チャットジーピーティーとコーデックスの使える量が十二月からひとまとめになるかもという、AIのお財布の話へ。後半は、オープンエーアイが発表した、電気が足りない日にデータセンター側が使う量を減らすグリッド プロテクターズの取り組みと、アップルが作っているとされる首振り画面の卓上ロボットの発売がずれ込むかもという報道を紹介。AIに何を頼めて、どこまで使えるのか、線引きが少しずつ見えてきた朝の雑談回です。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20261103_050522_chars.webp",
+    "hero_rel": "/images/topics/tech_20261103_050522.webp",
+    "title": "線引きの朝 〜そっくりゲームお断りと、電気を譲るデータセンター〜",
+    "companies": [
+      "OpenAI",
+      "Claude",
+      "Apple"
+    ],
+    "thumbnail_ready": true
+  },
+  "summary_short": "クロード コードがそっくりゲーム作りを断り始め、ChatGPTとコーデックスの利用枠は十二月に統合かも。OpenAIの電力逼迫時にデータセンターが使用量を絞る新施策や、アップルの首振り卓上ロボット発売延期報道も。AIの線引きが見える朝の雑談回。",
+  "published_at": "2026-11-03T07:02:27+09:00"
+}

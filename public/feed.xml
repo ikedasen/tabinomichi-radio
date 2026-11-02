@@ -7,8 +7,8 @@
     <description>ずんだもん × めたん × つむぎが届ける、ゲーム &amp; テックニュース雑談ラジオ。朝便と夜便で毎日更新、レトロから新作まで、最新 AI 動向から業界マクロまで雑談形式でサクッと。</description>
     <language>ja</language>
     <copyright>© 2026 tabinomichi</copyright>
-    <lastBuildDate>Mon, 02 Nov 2026 17:03:22 +0900</lastBuildDate>
-    <pubDate>Mon, 02 Nov 2026 07:01:28 +0900</pubDate>
+    <lastBuildDate>Tue, 03 Nov 2026 07:03:37 +0900</lastBuildDate>
+    <pubDate>Tue, 03 Nov 2026 07:02:27 +0900</pubDate>
     <generator>build_rss_feed.py (tabinomichi radio)</generator>
     <image>
       <url>https://news.tabinomichi.jp/podcast-cover.png?v=1779005902</url>
@@ -29,6 +29,21 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>線引きの朝 〜そっくりゲームお断りと、電気を譲るデータセンター〜</title>
+      <link>https://news.tabinomichi.jp/radio/20261103_050522</link>
+      <guid isPermaLink="false">tabinomichi-radio-20261103_050522</guid>
+      <pubDate>Tue, 03 Nov 2026 07:02:27 +0900</pubDate>
+      <description>テック朝便は四本立て。アンソロピックのクロード コードが、有名ゲームのそっくりさん作りを断るようになった話から始まり、チャットジーピーティーとコーデックスの使える量が十二月からひとまとめになるかもという、AIのお財布の話へ。後半は、オープンエーアイが発表した、電気が足りない日にデータセンター側が使う量を減らすグリッド プロテクターズの取り組みと、アップルが作っているとされる首振り画面の卓上ロボットの発売がずれ込むかもという報道を紹介。AIに何を頼めて、どこまで使えるのか、線引きが少しずつ見えてきた朝の雑談回です。</description>
+      <content:encoded><![CDATA[テック朝便は四本立て。アンソロピックのクロード コードが、有名ゲームのそっくりさん作りを断るようになった話から始まり、チャットジーピーティーとコーデックスの使える量が十二月からひとまとめになるかもという、AIのお財布の話へ。後半は、オープンエーアイが発表した、電気が足りない日にデータセンター側が使う量を減らすグリッド プロテクターズの取り組みと、アップルが作っているとされる首振り画面の卓上ロボットの発売がずれ込むかもという報道を紹介。AIに何を頼めて、どこまで使えるのか、線引きが少しずつ見えてきた朝の雑談回です。]]></content:encoded>
+      <enclosure url="https://news.tabinomichi.jp/audio/ai/20261103_050522.mp3?v=1793657013" length="6844124" type="audio/mpeg"/>
+      <itunes:title>線引きの朝 〜そっくりゲームお断りと、電気を譲るデータセンター〜</itunes:title>
+      <itunes:summary>テック朝便は四本立て。アンソロピックのクロード コードが、有名ゲームのそっくりさん作りを断るようになった話から始まり、チャットジーピーティーとコーデックスの使える量が十二月からひとまとめになるかもという、AIのお財布の話へ。後半は、オープンエーアイが発表した、電気が足りない日にデータセンター側が使う量を減らすグリッド プロテクターズの取り組みと、アップルが作っているとされる首振り画面の卓上ロボットの発売がずれ込むかもという報道を紹介。AIに何を頼めて、どこまで使えるのか、線引きが少しずつ見えてきた朝の雑談回です。</itunes:summary>
+      <itunes:image href="https://news.tabinomichi.jp/images/og/20261103_050522.jpg"/>
+      <itunes:duration>7:07</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>見えない目印と割れる値札 〜文章に潜む透かしと、公園を買うチップ屋さん〜</title>
       <link>https://news.tabinomichi.jp/radio/20261102_050701</link>
@@ -1511,21 +1526,6 @@
       <itunes:summary>キーを二つ押すだけで呼べるAIから、平らな横長画面まで、今朝のテックの話題を五本サクッとまとめる回。グーグルがウィンドウズ向けに出したジェミニのアプリ、日本のサカナエーアイが出した『AIの司令塔』フグの新版と値下げ、オープンエーアイが投資銀行の下積み仕事を狙って出した金融機関向けのチャットジーピーティー、キオクシアとサンディスクによる国内約5兆円のメモリ工場投資、そしてイノクンの曲がらない49インチ横長モニターまで。ずんだもんがふぐ料理やお小遣いで脱線しつつ、四国めたんが専門用語を噛み砕いて、私たちの生活にどう効いてくるかを整理していく。</itunes:summary>
       <itunes:image href="https://news.tabinomichi.jp/images/og/20260913_051639.jpg"/>
       <itunes:duration>8:18</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>千年を渡る恋 〜久遠の絆という隠れた名作〜</title>
-      <link>https://news.tabinomichi.jp/radio/20260913_050840</link>
-      <guid isPermaLink="false">tabinomichi-radio-20260913_050840</guid>
-      <pubDate>Sun, 13 Sep 2026 05:08:40 +0900</pubDate>
-      <description>今回のテーマは1998年12月3日にプレイステーションで発売された『久遠の絆』。フォグが手がけた和風伝奇ノベルで、パッケージのジャンル表記は「シネマティック・ノベル」、歴史恋愛アドベンチャーとも呼ばれる一本です。平安・元禄・幕末・現代という4つの時代を輪廻転生でつなぐ構造、1990年代の高校から始まる現代パートの導入、そして千年前に結ばれた二人の魂という骨格を、ネタバレの手前で踏みとどまりながら紹介します。クリアまで49時間30分という区分のボリューム、初回出荷ぶんが早々に完売して増産がかかった話、ドリームキャスト版からスマートフォン版まで20年近く移植が続いた系譜まで追いかける回。ずんだもんが久遠を物理の量子と取り違えて何度も引き戻され、つむぎは中古屋で背表紙を発掘した実体験から「隠れた名作」の熱量を語ります。</description>
-      <content:encoded><![CDATA[今回のテーマは1998年12月3日にプレイステーションで発売された『久遠の絆』。フォグが手がけた和風伝奇ノベルで、パッケージのジャンル表記は「シネマティック・ノベル」、歴史恋愛アドベンチャーとも呼ばれる一本です。平安・元禄・幕末・現代という4つの時代を輪廻転生でつなぐ構造、1990年代の高校から始まる現代パートの導入、そして千年前に結ばれた二人の魂という骨格を、ネタバレの手前で踏みとどまりながら紹介します。クリアまで49時間30分という区分のボリューム、初回出荷ぶんが早々に完売して増産がかかった話、ドリームキャスト版からスマートフォン版まで20年近く移植が続いた系譜まで追いかける回。ずんだもんが久遠を物理の量子と取り違えて何度も引き戻され、つむぎは中古屋で背表紙を発掘した実体験から「隠れた名作」の熱量を語ります。]]></content:encoded>
-      <enclosure url="https://news.tabinomichi.jp/audio/indie/20260913_050840.mp3?v=1789245034" length="6773489" type="audio/mpeg"/>
-      <itunes:title>千年を渡る恋 〜久遠の絆という隠れた名作〜</itunes:title>
-      <itunes:summary>今回のテーマは1998年12月3日にプレイステーションで発売された『久遠の絆』。フォグが手がけた和風伝奇ノベルで、パッケージのジャンル表記は「シネマティック・ノベル」、歴史恋愛アドベンチャーとも呼ばれる一本です。平安・元禄・幕末・現代という4つの時代を輪廻転生でつなぐ構造、1990年代の高校から始まる現代パートの導入、そして千年前に結ばれた二人の魂という骨格を、ネタバレの手前で踏みとどまりながら紹介します。クリアまで49時間30分という区分のボリューム、初回出荷ぶんが早々に完売して増産がかかった話、ドリームキャスト版からスマートフォン版まで20年近く移植が続いた系譜まで追いかける回。ずんだもんが久遠を物理の量子と取り違えて何度も引き戻され、つむぎは中古屋で背表紙を発掘した実体験から「隠れた名作」の熱量を語ります。</itunes:summary>
-      <itunes:image href="https://news.tabinomichi.jp/images/og/20260913_050840.jpg"/>
-      <itunes:duration>7:03</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
