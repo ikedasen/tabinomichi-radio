@@ -1,0 +1,479 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-11-04T20:04:54.541439+00:00",
+  "title": "パラパラ漫画と合鍵の朝 〜動き出すAIの絵と、石油会社のAI投資〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "welcome",
+      "text": "おはようございます、旅の道ラジオ朝便、今朝はテックニュースの回。四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 通勤電車でも眠くならない話、持ってきたのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "持ってきたのは私でしょ。今朝は五本、サクッと流していくわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "五本って、朝ごはん前に食べきれる量なのだ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本ずつは軽めよ。動く絵の話から、石油会社のお金の話まで。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "振れ幅すごいね! じゃあ、いってみるのだ!",
+      "news_index": 0,
+      "reading": "ふれはばすごいね!じゃあ、いってみるのだ!"
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。チャットジーピーティーが、動くGIFを作れるようになったの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じふ? 鍋に入れるお豆腐みたいなやつだっけ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "それは湯豆腐。GIFは、SNSでよく見る数秒でループする短い動く絵のことよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、猫がずっと首をかしげてるやつなのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう、中身は絵を何枚も並べたパラパラ漫画ね。文章で頼むか、手持ちの写真を渡すと作ってくれるって。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "前から絵は描けたよね。動かすのって、そんなに難しいのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "コマごとに顔や服が微妙に変わると、すぐ別人になっちゃうのよ。新しい画像モデル、イメージズ ニーテンロクは、GIFを一回で直接作れるのが新しいところなの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "一コマずつ作って、あとでつなげる手間がいらなくなるのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。再生の速さを変えたり、一コマだけ直したりもできるらしいわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ちなみに画像づくりは、チャットとエーピーアイ合わせて週に40億枚以上。九月は30億枚だったって。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "週に40億枚!? ボクが一生かけて描く落書きを、何億人ぶんも一週間で追い越すのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "あなたの落書きは一枚で十分よ。生活目線だと、スタンプや短い動く素材を、自分で気軽に作る時代ってことね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "家族のグループに、うちの犬が踊るGIFを送りつけるのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "既読だけ付いて返事が来ないパターンね。次いくわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目はアップルの決算。新しいCEO、ジョン・ターナスさんにとって初めての決算だったの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "けっさん? 通信簿みたいなやつだっけ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、三か月ごとの会社の成績表。七月から九月の売上は1,145億ドルで、前の年より12%増えたって。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "1,145億ドル!? 日本円だと十数兆円なのだ!? 三か月で!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そうね。この時期の三か月としては、売上もアイフォーンの売上も過去最高だったの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "社長が替わったばっかりで最高記録って、引き継ぎの運がよすぎない?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "前のティム・クックさんが積み上げた土台も大きいわね。で、注目は新しいシリ、シリ エーアイへの自信。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "シリって、話しかけても、よく分かりませんって返してくるあの子なのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "言い方。でも長年それで叩かれてきたから、中身をAIで作り直したのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ついに、よく分かりませんを卒業するのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それを決めるのは数字じゃなくて、実際に使う人。要するに、今は好調だけど、シリが本当に頼れるかが次の宿題って話。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "ボクのアイフォーンが、やっと話の通じる相棒になるかもってことなのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "期待しすぎずに待ちましょ。次はクロードの料金プランの話よ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目。アンソロピックが十月三十日に、クロードの有料プランの名前を整理したの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "名前が変わると、何かいいことあるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "月200ドルのマックス ニジュウバイが、ウルトラになったわ。月100ドルの方は、ただのマックスね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ウルトラ! 胸のランプが三分で点滅するやつなのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "点滅どころか、逆に時間の縛りが外れたのよ。今までは5時間ごとに使える上限があったの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "5時間ごとの上限って、どういうことなのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "食べ放題で、五時間ごとに一回お皿を下げられるイメージね。ウルトラは、アンソロピック側の確認が済んだアカウントから順に、その制限がなくなるの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? じゃあ無限に使えるのだ!?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "無限じゃないわ。週ごとの上限は今まで通りで、プロの10倍ぶんのまま。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "あれ? ニジュウバイって名前だったのに、週は10倍なのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "20倍は5時間枠で比べた数字だったの。新しいウルトラは週ごとだとプロの10倍で、名前も変わったって流れね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "名前と週ごとの上限が、前より分かりやすくなったってことなのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "値段は据え置きよ。私たちに効くのは、AIに長い作業を任せる人ほど、途中で止められずに済むってこと。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "月200ドル……ボクのお小遣い、何か月貯めればいいのだ……。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "四本目は守りの話だから手短に。エーアイ付きのプログラム作成ソフト、カーソルのお店で、クロード コードの偽物の拡張機能が配られてたの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "かくちょうきのう? スマホのケースみたいな、後付けパーツのことだっけ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "近いわ、ソフトに後から足す追加機能のことね。その中に、パソコンの合鍵を勝手に作る仕掛けが入ってたのよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "合鍵!? 知らない人がボクの部屋に入り放題なのだ!?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "狙いはまさにそれ。エスエスエイチっていう遠隔ログインの仕組みに、攻撃者の鍵を登録しようとしたの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "それ、アンソロピックが作ったものなのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "違うわ、アンソロピックは自分たちが作ったものじゃないって言ってる。配られたのは十月二十九日のおよそ半日で、カーソルは影響が最大5,000人って説明してるわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ただ、管理者権限がなくて、多くのマックやウィンドウズでは遠隔ログインの有効化に失敗したらしいの。ただ消しても残る部品があるから、入れた人は鍵の確認が要るわね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "泥棒さん、合鍵作りでつまずいたんだね。ドジっ子なのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "笑い話で済んだのは運がよかっただけよ。要するに、正規のマーケットから自動更新で入ることもあるから、カーソルの案内どおり、影響した版と不審な鍵を確認しようって話。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "正規のお店からの自動更新でも、安心しきれないってことなのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ラスト五本目。サウジアラビアの石油会社アラムコが、国のAI企業ヒューメインの株を49%取得したの。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "石油の会社が、AIの会社を? ガソリンでAIを動かすのだ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "給油はしないわ。ヒューメインは、サウジの政府系ファンドが作った、データセンターやAIを手がける会社よ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "せいふけいファンドって、何なのだ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "国のお金を運用する、巨大な財布ね。その財布が51%を持ったまま、アラムコが26億ドルの現金と、AIの設備を出す形なの。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "26億ドル!? 日本円で4,000億円くらいだよね! ボクのお年玉、何万年分なのだ!?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "数える前に寝ちゃうわね。取引は十一月一日に完了したって。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも、なんで石油の会社がAIなのだ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ヒューメインのAI基盤を工場や現場で使って、持っているAI資産からも収益を生みたいのよ。たとえるなら、お米屋さんが、炊飯器の工場の大株主になるみたいなもの。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、自分の工場にもAIを入れる気なのだ!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、本人たちも工場や現場でAIを使うって言ってるわ。要するに、AIの勢力図はアメリカと中国だけの話じゃなくなってきたってこと。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "ボクが使うAIの裏側にも、いつか砂漠のデータセンターがあるかもしれないのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今朝は、動くGIF、アップルの決算、クロードのウルトラ、偽物の拡張機能、そしてアラムコのAI投資だったわ。",
+      "news_index": 0,
+      "reading": "けさは、うごくGIF、アップルのけっさん、クロードのウルトラ、にせもののかくちょうきのう、そしてアラムコのAIとうしだったわ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "パラパラ漫画から石油王まで、ボクの頭もパラパラなのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "一個だけ持ち帰るなら、拡張機能の更新日は見ておくこと。それで十分よ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "了解なのだ! 今日も合鍵は自分だけで持っておくよ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "聴いてくれてるかた、いってらっしゃい。気になったニュースは、各社の発表もチェックしてみてね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "また明日のテック朝便で会うのだー!",
+      "news_index": 0
+    }
+  ],
+  "program_description": "テックの話題を軽く流す朝便。チャットジーピーティーが新しい画像モデルで動くGIFを作れるようになった話、アップルが新CEOのジョン・ターナスさん体制で初めての決算を出して、7〜9月期として過去最高を更新した話、クロードの月200ドルのプランがウルトラに改名されて5時間ごとの上限が外れた話、AIエディタのカーソルで配られたクロード コードの偽物の拡張機能に、パソコンの合鍵を仕込む仕掛けが入っていた話、そしてサウジの石油会社アラムコが、国のAI企業ヒューメインの株を49%取得した話をお届け。パラパラ漫画から石油マネーまで、今のテック業界の空気をつかめる回。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20261105_050454_chars.webp",
+    "hero_rel": "/images/topics/tech_20261105_050454.webp",
+    "title": "パラパラ漫画と合鍵の朝 〜動き出すAIの絵と、石油会社のAI投資〜",
+    "companies": [
+      "Claude",
+      "Apple",
+      "OpenAI"
+    ],
+    "thumbnail_ready": true
+  },
+  "summary_short": "ChatGPTの動くGIF、アップル過去最高決算、Claudeの新プラン名、偽拡張機能の罠、アラムコのAI企業株取得まで、今朝のテック5本をまとめてチェックできる回です。",
+  "published_at": "2026-11-05T07:01:54+09:00"
+}

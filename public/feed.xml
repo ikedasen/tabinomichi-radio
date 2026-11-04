@@ -7,8 +7,8 @@
     <description>ずんだもん × めたん × つむぎが届ける、ゲーム &amp; テックニュース雑談ラジオ。朝便と夜便で毎日更新、レトロから新作まで、最新 AI 動向から業界マクロまで雑談形式でサクッと。</description>
     <language>ja</language>
     <copyright>© 2026 tabinomichi</copyright>
-    <lastBuildDate>Tue, 03 Nov 2026 17:08:57 +0900</lastBuildDate>
-    <pubDate>Tue, 03 Nov 2026 07:02:27 +0900</pubDate>
+    <lastBuildDate>Thu, 05 Nov 2026 07:03:04 +0900</lastBuildDate>
+    <pubDate>Thu, 05 Nov 2026 07:01:54 +0900</pubDate>
     <generator>build_rss_feed.py (tabinomichi radio)</generator>
     <image>
       <url>https://news.tabinomichi.jp/podcast-cover.png?v=1779005902</url>
@@ -29,6 +29,21 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>パラパラ漫画と合鍵の朝 〜動き出すAIの絵と、石油会社のAI投資〜</title>
+      <link>https://news.tabinomichi.jp/radio/20261105_050454</link>
+      <guid isPermaLink="false">tabinomichi-radio-20261105_050454</guid>
+      <pubDate>Thu, 05 Nov 2026 07:01:54 +0900</pubDate>
+      <description>テックの話題を軽く流す朝便。チャットジーピーティーが新しい画像モデルで動くGIFを作れるようになった話、アップルが新CEOのジョン・ターナスさん体制で初めての決算を出して、7〜9月期として過去最高を更新した話、クロードの月200ドルのプランがウルトラに改名されて5時間ごとの上限が外れた話、AIエディタのカーソルで配られたクロード コードの偽物の拡張機能に、パソコンの合鍵を仕込む仕掛けが入っていた話、そしてサウジの石油会社アラムコが、国のAI企業ヒューメインの株を49%取得した話をお届け。パラパラ漫画から石油マネーまで、今のテック業界の空気をつかめる回。</description>
+      <content:encoded><![CDATA[テックの話題を軽く流す朝便。チャットジーピーティーが新しい画像モデルで動くGIFを作れるようになった話、アップルが新CEOのジョン・ターナスさん体制で初めての決算を出して、7〜9月期として過去最高を更新した話、クロードの月200ドルのプランがウルトラに改名されて5時間ごとの上限が外れた話、AIエディタのカーソルで配られたクロード コードの偽物の拡張機能に、パソコンの合鍵を仕込む仕掛けが入っていた話、そしてサウジの石油会社アラムコが、国のAI企業ヒューメインの株を49%取得した話をお届け。パラパラ漫画から石油マネーまで、今のテック業界の空気をつかめる回。]]></content:encoded>
+      <enclosure url="https://news.tabinomichi.jp/audio/ai/20261105_050454.mp3?v=1793829780" length="7198136" type="audio/mpeg"/>
+      <itunes:title>パラパラ漫画と合鍵の朝 〜動き出すAIの絵と、石油会社のAI投資〜</itunes:title>
+      <itunes:summary>テックの話題を軽く流す朝便。チャットジーピーティーが新しい画像モデルで動くGIFを作れるようになった話、アップルが新CEOのジョン・ターナスさん体制で初めての決算を出して、7〜9月期として過去最高を更新した話、クロードの月200ドルのプランがウルトラに改名されて5時間ごとの上限が外れた話、AIエディタのカーソルで配られたクロード コードの偽物の拡張機能に、パソコンの合鍵を仕込む仕掛けが入っていた話、そしてサウジの石油会社アラムコが、国のAI企業ヒューメインの株を49%取得した話をお届け。パラパラ漫画から石油マネーまで、今のテック業界の空気をつかめる回。</itunes:summary>
+      <itunes:image href="https://news.tabinomichi.jp/images/og/20261105_050454.jpg"/>
+      <itunes:duration>7:29</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>線引きの朝 〜そっくりゲームお断りと、電気を譲るデータセンター〜</title>
       <link>https://news.tabinomichi.jp/radio/20261103_050522</link>
@@ -1511,21 +1526,6 @@
       <itunes:summary>レトロゲーム回のお題は、1995年10月13日にPCエンジンで生まれた『リンダキューブ』。惑星ネオ・ケニアから脱出するために、8年という制限時間のなかで100種類以上の動物を集めて箱舟に乗せる、という一度聞いたら忘れられない設計のRPGです。開発はアルファ・システム、発売元はハードの本家であるNECホームエレクトロニクス。ゲームデザインとシナリオを手掛けた桝田省治が、直前の『天外魔境II 卍MARU』で王道な展開ばかり書いてストレスが溜まった反動として作った、という攻略本コメントを軸に、魔王のような脅威がそもそも存在しない王道アンチテーゼの構造を掘り下げます。シナリオがA・B・Cの三本立てという骨組み、18歳以上推奨指定で出たかなり攻めた表現、ファミ通クロスレビューがPCエンジン版28点からPS版31点のシルバー殿堂入りへと後から伸びていった経緯、初回出荷版のフリーズ不具合による店頭回収と交換対応、雑誌『電撃PCエンジン』でのモンスターデザイン公募、そしてリンダというキャラが企画初期には存在せず編集者のアドバイスで後から足されたという逸話まで。ずんだもんが「立方体を積むパズル」と勘違いしたまま最後まで引っ張る回でもあります。ネタバレは構造の話までに留めているので、これから触るかたも安心して聴けます。</itunes:summary>
       <itunes:image href="https://news.tabinomichi.jp/images/og/20260914_050757.jpg"/>
       <itunes:duration>6:42</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>キー二つで呼ぶ朝 〜司令塔のフグと、曲がらない49インチ〜</title>
-      <link>https://news.tabinomichi.jp/radio/20260913_051639</link>
-      <guid isPermaLink="false">tabinomichi-radio-20260913_051639</guid>
-      <pubDate>Sun, 13 Sep 2026 05:16:39 +0900</pubDate>
-      <description>キーを二つ押すだけで呼べるAIから、平らな横長画面まで、今朝のテックの話題を五本サクッとまとめる回。グーグルがウィンドウズ向けに出したジェミニのアプリ、日本のサカナエーアイが出した『AIの司令塔』フグの新版と値下げ、オープンエーアイが投資銀行の下積み仕事を狙って出した金融機関向けのチャットジーピーティー、キオクシアとサンディスクによる国内約5兆円のメモリ工場投資、そしてイノクンの曲がらない49インチ横長モニターまで。ずんだもんがふぐ料理やお小遣いで脱線しつつ、四国めたんが専門用語を噛み砕いて、私たちの生活にどう効いてくるかを整理していく。</description>
-      <content:encoded><![CDATA[キーを二つ押すだけで呼べるAIから、平らな横長画面まで、今朝のテックの話題を五本サクッとまとめる回。グーグルがウィンドウズ向けに出したジェミニのアプリ、日本のサカナエーアイが出した『AIの司令塔』フグの新版と値下げ、オープンエーアイが投資銀行の下積み仕事を狙って出した金融機関向けのチャットジーピーティー、キオクシアとサンディスクによる国内約5兆円のメモリ工場投資、そしてイノクンの曲がらない49インチ横長モニターまで。ずんだもんがふぐ料理やお小遣いで脱線しつつ、四国めたんが専門用語を噛み砕いて、私たちの生活にどう効いてくるかを整理していく。]]></content:encoded>
-      <enclosure url="https://news.tabinomichi.jp/audio/ai/20260913_051639.mp3?v=1789245028" length="7983481" type="audio/mpeg"/>
-      <itunes:title>キー二つで呼ぶ朝 〜司令塔のフグと、曲がらない49インチ〜</itunes:title>
-      <itunes:summary>キーを二つ押すだけで呼べるAIから、平らな横長画面まで、今朝のテックの話題を五本サクッとまとめる回。グーグルがウィンドウズ向けに出したジェミニのアプリ、日本のサカナエーアイが出した『AIの司令塔』フグの新版と値下げ、オープンエーアイが投資銀行の下積み仕事を狙って出した金融機関向けのチャットジーピーティー、キオクシアとサンディスクによる国内約5兆円のメモリ工場投資、そしてイノクンの曲がらない49インチ横長モニターまで。ずんだもんがふぐ料理やお小遣いで脱線しつつ、四国めたんが専門用語を噛み砕いて、私たちの生活にどう効いてくるかを整理していく。</itunes:summary>
-      <itunes:image href="https://news.tabinomichi.jp/images/og/20260913_051639.jpg"/>
-      <itunes:duration>8:18</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
