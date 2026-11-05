@@ -1,0 +1,521 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-11-05T20:05:00.403563+00:00",
+  "title": "読む係と仕舞う係の朝 〜家計簿を開くAIと、20年ぶりに巻き直すテープ〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便。テックの話題をサクッと流す回、四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝も電車の中で、テックのつまみ食いしていくのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "つまみ食いって言い方、嫌いじゃないわ。今日は五本、お財布とメモリの話が多めね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "お財布とメモリ? ボクの財布の中身の話じゃん?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "あなたの財布は覗かないわよ。でも一本目は、本当に財布を覗くAIの話なの。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、朝からホラーなのだ!?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。アンソロピックが十一月五日に、クロードの新しい機能、パーソナル ファイナンスを始めたの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ぱーそなる ふぁいなんす? 個人用の、ファイナルファンタジーってこと?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "冒険はしないわ。ようは家計簿の係ね、銀行口座やカードをつないで、お金の流れを読ませる機能よ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "口座をつなぐ!? クロードに、ボクの通帳を丸ごと見せるのだ!?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "つなぎ役はプラッドっていう、銀行とアプリの間を取り持つ会社。どの口座を見せるかは自分で選べて、クロードは銀行のパスワードも見ないって。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、合鍵を渡すんじゃなくて、窓越しに通帳を見せるだけってことじゃん!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いい例えね。読むだけ専用で、送金も投資もできない作りなのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあ、今月のお小遣いどこに消えたの、って聞けるのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういう使い方。使い道を種類ごとに分けたり、給料日までの支払いを並べたりできるらしいわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "ボクの場合、九割がずんだ餅って出るのだ……。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "分析する前から答えが出てるじゃない。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも、お金の中身を見せたら、広告がドバドバ出てこない?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そこは広告なし、おすすめ商品の宣伝もなしって言ってるわ。この画面での会話は、AIの学習にも使わないって。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、ボクも今日から使えるのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今はアメリカで、プロ、マックス、ウルトラの有料プランの人向けのベータ版から。チャットジーピーティーも五月に似た機能を出してて、追いかける形ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "AIが、相談相手から家計簿係に転職したのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "要するに、チャットのAIがお金の中身まで読む相手になったって話。日本に来たら、どこまで見せるかを自分で決める目が要るわね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目は日本から。プリファード ネットワークスが十一月五日に、翻訳専門のAI、プラモ スリー トランスレートを公開したの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "プラモ! ニッパーで切り離して組み立てるAIなのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "ニッパーは要らないわ。プラモは、この会社のAIシリーズの名前よ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "翻訳のAIなんて、もういっぱいあるじゃん。何が違うのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "大きさを四つから選べるの。AIの頭の中の部品、パラメータの数で言うと、8億、20億、80億、310億の四種類。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "310億!? ボクの脳みそを総動員しても勝てないやつなのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "勝負の土俵が違うわ。むしろ注目は一番小さい8億の方で、スマホの中で動くって紹介されてるのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "スマホの中で動くと、何がうれしいのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ネットの向こうに文章を送らずに、手元だけで翻訳できるの。会社の秘密の書類も、外に出さずに済むって話。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、恥ずかしい日記を誰にも見せずに英語にできるやつじゃん!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "使い道はともかく、そういうこと。対応は53の言語で、中身は誰でもダウンロードできる形よ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "タダで商売にも使えちゃうのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "売上が10億円以下の会社や個人なら、商売にも使えるライセンスね。世界最高水準ってうたってるけど、それは会社自身の測定って点は覚えておいて。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "国産のAIが、ポケットに入るサイズで出てきたのだね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "まとめると、旅行や仕事の翻訳が、電波が弱くても機密でも手元で済む時代が近づいてるってこと。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目は半導体の成績表。エーエムディーの七月から九月の決算が、過去最高だったの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "エーエムディーって、パソコンの頭脳やグラボを作ってる会社だよね?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "正解。売上は134億ドルで、前の年より45%増えたわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "134億ドル!? ボクのお小遣いを何億年貯めたら届くのだ!?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "数えるのはやめなさい。稼ぎ頭はデータセンター部門で、85億ドル、ほぼ倍になったの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でーたせんたー部門って、どこの売り場?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "AIやネットのサービスを動かす、巨大なサーバー倉庫向けね。AI向けの計算チップだけじゃなく、サーバー用のCPUも伸びて、部門全体を押し上げたのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "待ってたのだ! じゃあゲームの方も絶好調ってことじゃん!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこが逆。ゲーム部門は40%減って、8億ドルまで落ちたの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "うわっ、半分近く消えてるのだ!?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "理由は、ゲーム機向けの専用チップと、グラフィックス製品の売り上げがどちらも減ったからって説明よ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "ゲーマーが、主役の座から降ろされちゃったのだ……。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "主役交代は数字が物語ってるわね。会社の売上の六割以上が、もうデータセンター部門なの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "それって、ボクのグラボ選びにも響いてくる?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "今回の決算だけでは、ゲーム用パーツの値段がこれから上がるか下がるかまでは分からないわ。買うときは、その時の店頭価格を確かめるのが無難ね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四本目も、AIのしわ寄せっぽい話。台湾の半導体の会社マクロニクスが、ロムっていうチップの生産から手を引いていくって、決算で明かしたの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ろむ? ラムネの親戚なのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "飲めないわ。ロムは、一度書き込んだら中身を変えない記録用のチップよ。初代スイッチのゲームカードに使われてきたの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? ゲームカードが作れなくなっちゃう!?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "すぐにではないわ。段階的な撤退だから、ゲームカードがすぐ作れなくなると決まったわけじゃないわ。でも、スイッチ ツー向けも含め、影響がどこまで広がるかはまだ分からないの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、なんでやめちゃうのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ロムは会社の売上の5%しかなくて、前の年より39%も減ってたの。工場の場所を、もっと売れる別のメモリに回すって話ね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、売れない棚を畳んで、人気の棚を広げるコンビニ作戦なのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今日は例えが冴えてるじゃない。限られた生産設備の中で、需要が強いノアフラッシュやイーエムエムシーを優先するってことなのよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "初代スイッチのカード、ボク宝物にして取っとくのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "それもいいわね。要するに、ゲームカードがすぐ消える話ではないけど、今後の仕入れ先や価格への影響は見ていく必要があるってこと。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ラスト五本目は、意外な復活劇。富士フイルムが十月二十九日に、データ保存用の磁気テープを増産するって発表したの。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "磁気テープ!? おじいちゃん家の、ビデオテープのこと!?",
+      "news_index": 5,
+      "reading": "じきテープ!?おじいちゃんちの、ビデオテープのこと!?"
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "遠い親戚ってところね。今はエルティーオーっていう規格で、会社の大量のデータをしまうためのテープよ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "今どきテープって、エスエスディーの方が速いじゃん。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "速さでは負けるけど、たくさん入れても安くて、しまってる間は電気をほとんど使わないの。めったに見返さないデータの倉庫向けね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、押し入れの奥の段ボール係なのだ!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。神奈川の小田原の工場に約100億円かけて、2025年度と比べて約5倍にするって。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "5倍!? テープを5倍ぐるぐる巻きにするのだ!?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "巻き数の話じゃないわ。5倍は本数の話じゃなくて、出荷できるデータ容量で見た製造能力の数字よ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "いつまでに増やす計画なのだ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "2026年度から2028年度にかけて。テープの事業では、約20年ぶりの大きな増強って報じられてるわ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "古いと思ってたテープが、AIの時代に引っ張りだこなのだね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "要するに、AIブームはチップだけじゃなく、大量のデータを長くしまう仕組みの需要まで押し上げてるって話よ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今朝は、お金を読むクロード、ポケットの翻訳AI、エーエムディーの主役交代、ロムの撤退、テープの復活の五本だったわ。",
+      "news_index": 0,
+      "reading": "けさは、おおかねをよむクロード、ポケットのほんやくAI、エーエムディーのしゅやくこうたい、ロムのてったい、テープのふっかつのごほんだったわ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "AIが、ボクの家計簿から押し入れの段ボールまで、全部に首を突っ込んでる朝だったのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "まとめ方が雑だけど、だいたい合ってるわね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクは今日、ずんだ餅の出費を手書きで記録するところから始めるのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "偉いじゃない。聴いてくれてるかた、いってらっしゃい。気になった話は、各社の発表をのぞいてみてね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "また明日のテック朝便で会うのだー!",
+      "news_index": 0
+    }
+  ],
+  "program_description": "旅の道ラジオ朝便、テックの話題をサクッとまとめる回。一本目は、アンソロピックがクロードに銀行口座やカードを読み取り専用でつなぐ家計簿機能をアメリカで始めた話。二本目は、プリファード ネットワークスがスマホでも動く翻訳専門AIを四つのサイズで公開した国産AIの話。三本目は、エーエムディーが過去最高の決算を出した一方でゲーム部門が大きく落ち込んだ主役交代劇。四本目は、初代スイッチのゲームカードを支えてきた台湾のマクロニクスがロムの生産から手を引く話。ラストは、AIでデータが増えすぎて、富士フイルムが磁気テープの製造能力を大きく増やす意外な復活劇。お財布からパソコンパーツ、データの倉庫まで、AIがどこに首を突っ込んでいるかを気軽に聴ける回です。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20261106_050500_chars.webp",
+    "hero_rel": "/images/topics/tech_20261106_050500.webp",
+    "title": "読む係と仕舞う係の朝 〜家計簿を開くAIと、20年ぶりに巻き直すテープ〜",
+    "companies": [
+      "Claude",
+      "AMD",
+      "OpenAI"
+    ],
+    "thumbnail_ready": true
+  },
+  "summary_short": "AIが家計簿を開き、国産の翻訳AIがスマホで動き、AMDは最高益なのにゲーム部門が失速。switchのROM生産撤退や富士フイルムの磁気テープ復活まで、AIが顔を出す意外な現場を一気に聴けます。",
+  "published_at": "2026-11-06T07:01:44+09:00"
+}

@@ -7,8 +7,8 @@
     <description>ずんだもん × めたん × つむぎが届ける、ゲーム &amp; テックニュース雑談ラジオ。朝便と夜便で毎日更新、レトロから新作まで、最新 AI 動向から業界マクロまで雑談形式でサクッと。</description>
     <language>ja</language>
     <copyright>© 2026 tabinomichi</copyright>
-    <lastBuildDate>Fri, 06 Nov 2026 02:42:08 +0900</lastBuildDate>
-    <pubDate>Fri, 06 Nov 2026 02:35:15 +0900</pubDate>
+    <lastBuildDate>Fri, 06 Nov 2026 07:02:54 +0900</lastBuildDate>
+    <pubDate>Fri, 06 Nov 2026 07:01:44 +0900</pubDate>
     <generator>build_rss_feed.py (tabinomichi radio)</generator>
     <image>
       <url>https://news.tabinomichi.jp/podcast-cover.png?v=1779005902</url>
@@ -29,6 +29,21 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>読む係と仕舞う係の朝 〜家計簿を開くAIと、20年ぶりに巻き直すテープ〜</title>
+      <link>https://news.tabinomichi.jp/radio/20261106_050500</link>
+      <guid isPermaLink="false">tabinomichi-radio-20261106_050500</guid>
+      <pubDate>Fri, 06 Nov 2026 07:01:44 +0900</pubDate>
+      <description>旅の道ラジオ朝便、テックの話題をサクッとまとめる回。一本目は、アンソロピックがクロードに銀行口座やカードを読み取り専用でつなぐ家計簿機能をアメリカで始めた話。二本目は、プリファード ネットワークスがスマホでも動く翻訳専門AIを四つのサイズで公開した国産AIの話。三本目は、エーエムディーが過去最高の決算を出した一方でゲーム部門が大きく落ち込んだ主役交代劇。四本目は、初代スイッチのゲームカードを支えてきた台湾のマクロニクスがロムの生産から手を引く話。ラストは、AIでデータが増えすぎて、富士フイルムが磁気テープの製造能力を大きく増やす意外な復活劇。お財布からパソコンパーツ、データの倉庫まで、AIがどこに首を突っ込んでいるかを気軽に聴ける回です。</description>
+      <content:encoded><![CDATA[旅の道ラジオ朝便、テックの話題をサクッとまとめる回。一本目は、アンソロピックがクロードに銀行口座やカードを読み取り専用でつなぐ家計簿機能をアメリカで始めた話。二本目は、プリファード ネットワークスがスマホでも動く翻訳専門AIを四つのサイズで公開した国産AIの話。三本目は、エーエムディーが過去最高の決算を出した一方でゲーム部門が大きく落ち込んだ主役交代劇。四本目は、初代スイッチのゲームカードを支えてきた台湾のマクロニクスがロムの生産から手を引く話。ラストは、AIでデータが増えすぎて、富士フイルムが磁気テープの製造能力を大きく増やす意外な復活劇。お財布からパソコンパーツ、データの倉庫まで、AIがどこに首を突っ込んでいるかを気軽に聴ける回です。]]></content:encoded>
+      <enclosure url="https://news.tabinomichi.jp/audio/ai/20261106_050500.mp3?v=1793916171" length="7776591" type="audio/mpeg"/>
+      <itunes:title>読む係と仕舞う係の朝 〜家計簿を開くAIと、20年ぶりに巻き直すテープ〜</itunes:title>
+      <itunes:summary>旅の道ラジオ朝便、テックの話題をサクッとまとめる回。一本目は、アンソロピックがクロードに銀行口座やカードを読み取り専用でつなぐ家計簿機能をアメリカで始めた話。二本目は、プリファード ネットワークスがスマホでも動く翻訳専門AIを四つのサイズで公開した国産AIの話。三本目は、エーエムディーが過去最高の決算を出した一方でゲーム部門が大きく落ち込んだ主役交代劇。四本目は、初代スイッチのゲームカードを支えてきた台湾のマクロニクスがロムの生産から手を引く話。ラストは、AIでデータが増えすぎて、富士フイルムが磁気テープの製造能力を大きく増やす意外な復活劇。お財布からパソコンパーツ、データの倉庫まで、AIがどこに首を突っ込んでいるかを気軽に聴ける回です。</itunes:summary>
+      <itunes:image href="https://news.tabinomichi.jp/images/og/20261106_050500.jpg"/>
+      <itunes:duration>8:05</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>「ん」で始まる言葉が無いのは発音しにくいからではない 〜しっぽとして生まれた音の話〜</title>
       <link>https://news.tabinomichi.jp/radio/20261106_023515</link>
@@ -1511,21 +1526,6 @@
       <itunes:summary>キーボードの並びは、タイプライターが詰まらないようにわざと打ちにくくした、というよく聞く説明を掘り下げた回。【問い】では「遅くするため」説と「よく続く文字を機械の中で離した」説を整理し、最初の機械はアルファベット順に近かったことを紹介。【解説】では、初期の使い手が電信の受信係だったこと、印刷電信機ゆずりの鍵盤、1と0のキーが無かった機械、ZとSEの聞き分けにくさと並びの関係、よく続くEとRが機械の中で近かった資料、1882年に特許を避けてMやCとXが動いたこと、大手5社の統合で標準になった流れを紹介。【広がり】では、上の段だけでタイプライターと打てる話の真偽、ドヴォラック配列をめぐる実験と諸説、経路依存、フランスの規格、日本のかな配列の由来を取り上げた。</itunes:summary>
       <itunes:image href="https://news.tabinomichi.jp/images/og/20260914_211621.jpg"/>
       <itunes:duration>13:18</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>ブレーキを相談する朝 〜974個の穴と、10年目の土台〜</title>
-      <link>https://news.tabinomichi.jp/radio/20260914_051735</link>
-      <guid isPermaLink="false">tabinomichi-radio-20260914_051735</guid>
-      <pubDate>Mon, 14 Sep 2026 05:17:35 +0900</pubDate>
-      <description>旅の道ラジオ朝便のテックニュース回。アンソロピックのアモデイ社長が、AI開発のペースを落とそうと呼びかけ、サム・アルトマンとイーロン・マスクまで賛同した話と、みんなで減速すると独占禁止法に触れるかもしれない悩みから出発。続いて、中国のディープシークの新しい軽量版が上位版を追い越し、上位版宛ての依頼がそのまま回されることになった兄弟逆転の話。マイクロソフトの九月の更新で、AIが見つけたセキュリティの穴が過去最多の974個になった件と、更新をためない大切さ。最後は、10年目の古い土台に出たエーエムディーの安いシーピーユーと、大きいほうが安かったハードディスクの値札まで、四本をサクッと雑談した回です。</description>
-      <content:encoded><![CDATA[旅の道ラジオ朝便のテックニュース回。アンソロピックのアモデイ社長が、AI開発のペースを落とそうと呼びかけ、サム・アルトマンとイーロン・マスクまで賛同した話と、みんなで減速すると独占禁止法に触れるかもしれない悩みから出発。続いて、中国のディープシークの新しい軽量版が上位版を追い越し、上位版宛ての依頼がそのまま回されることになった兄弟逆転の話。マイクロソフトの九月の更新で、AIが見つけたセキュリティの穴が過去最多の974個になった件と、更新をためない大切さ。最後は、10年目の古い土台に出たエーエムディーの安いシーピーユーと、大きいほうが安かったハードディスクの値札まで、四本をサクッと雑談した回です。]]></content:encoded>
-      <enclosure url="https://news.tabinomichi.jp/audio/ai/20260914_051735.mp3?v=1789331413" length="7980973" type="audio/mpeg"/>
-      <itunes:title>ブレーキを相談する朝 〜974個の穴と、10年目の土台〜</itunes:title>
-      <itunes:summary>旅の道ラジオ朝便のテックニュース回。アンソロピックのアモデイ社長が、AI開発のペースを落とそうと呼びかけ、サム・アルトマンとイーロン・マスクまで賛同した話と、みんなで減速すると独占禁止法に触れるかもしれない悩みから出発。続いて、中国のディープシークの新しい軽量版が上位版を追い越し、上位版宛ての依頼がそのまま回されることになった兄弟逆転の話。マイクロソフトの九月の更新で、AIが見つけたセキュリティの穴が過去最多の974個になった件と、更新をためない大切さ。最後は、10年目の古い土台に出たエーエムディーの安いシーピーユーと、大きいほうが安かったハードディスクの値札まで、四本をサクッと雑談した回です。</itunes:summary>
-      <itunes:image href="https://news.tabinomichi.jp/images/og/20260914_051735.jpg"/>
-      <itunes:duration>8:18</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
