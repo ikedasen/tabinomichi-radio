@@ -1,0 +1,826 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-11-07T05:05:44+09:00",
+  "title": "任せる係と高い倉庫の朝 〜働き続けるAIの同僚と、値下がらないHDD〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 431.97,
+  "script_hash": "sha256:c33543d4b3252ad8bb4e78fb8754eb062dc8bea2e6daab66c34aed9691323159",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 6.34
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "welcome",
+      "text": "おはようございます、旅の道ラジオ朝便。四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 6.34,
+      "end_sec": 10.41
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだ! 土曜の朝も、テックの話をサクッといくのだー!",
+      "news_index": 0,
+      "start_sec": 10.56,
+      "end_sec": 15.33
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今朝は五本。働き続けるAIの同僚、プログラミング道具の買い物、エイチディーディーの値段、上場の話、それと硬めの守りの話ね。",
+      "news_index": 0,
+      "start_sec": 15.48,
+      "end_sec": 24.41
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "五本も!? 朝ごはんのおかずを、一品ずつ味わう作戦なのだ。",
+      "news_index": 0,
+      "start_sec": 24.56,
+      "end_sec": 29.06
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "よく噛んでね。じゃあ一本目から。",
+      "news_index": 0,
+      "start_sec": 29.21,
+      "end_sec": 31.36
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。検索のAIで知られるパープレキシティが、今週、チームメイツっていう新しいAIを出したの。",
+      "news_index": 1,
+      "start_sec": 31.44,
+      "end_sec": 38.08
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "チームメイツ? 部活の仲間を紹介してくれるアプリなのだ?",
+      "news_index": 1,
+      "start_sec": 38.23,
+      "end_sec": 42.51
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "部員募集じゃないわ。ずっと動き続けるAIエージェント、ようは人の代わりに自分で作業を進めるAIのことね。",
+      "news_index": 1,
+      "start_sec": 42.66,
+      "end_sec": 49.69
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ずっとって、どのくらいずっとなのだ?",
+      "news_index": 1,
+      "start_sec": 49.84,
+      "end_sec": 52.43
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一回頼んで終わりじゃないの。市場調査や宣伝キャンペーンみたいな仕事を、担当者として持ち続けるのよ。",
+      "news_index": 1,
+      "start_sec": 52.58,
+      "end_sec": 59.17
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、宿題を一枚渡すんじゃなくて、係を任せる感じなのだ!",
+      "news_index": 1,
+      "start_sec": 59.32,
+      "end_sec": 63.84
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "いいたとえ。役割や権限を決めておけて、スラックっていう仕事用のチャットで人間と連絡も取れるって。",
+      "news_index": 1,
+      "start_sec": 63.99,
+      "end_sec": 70.68
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "チャットで「進んでる?」って聞けるのだ。かわいい後輩じゃん!",
+      "news_index": 1,
+      "start_sec": 70.83,
+      "end_sec": 75.42
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ただし今は試験版で、使えるのは月200ドルのマックスっていう一番上のプランの人だけなの。",
+      "news_index": 1,
+      "start_sec": 75.57,
+      "end_sec": 81.77
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "月200ドル!? ボクのお小遣い、一年ぶん貯めてやっと一か月ぶんなのだ!",
+      "news_index": 1,
+      "start_sec": 81.92,
+      "end_sec": 86.98
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今は試験版だから、使える人をかなりしぼってるのね。",
+      "news_index": 1,
+      "start_sec": 87.13,
+      "end_sec": 90.59
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあボクたちには、まだ縁がないってこと?",
+      "news_index": 1,
+      "start_sec": 90.74,
+      "end_sec": 93.66
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "すぐにはね。でもAIに頼む時代から任せる時代へ、って流れは覚えておいて損はないわ。",
+      "news_index": 1,
+      "start_sec": 93.81,
+      "end_sec": 99.72
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "朝礼にAIの同僚が並ぶ日も近いのだ。次いくのだ!",
+      "news_index": 1,
+      "start_sec": 99.87,
+      "end_sec": 103.96
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目。メタが、コンダクターっていうAIのプログラミング道具の会社を買ったの。報道が出たのは十一月四日ね。",
+      "news_index": 2,
+      "start_sec": 104.11,
+      "end_sec": 111.19
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "コンダクター? 電車の車掌さんの会社なのだ?",
+      "news_index": 2,
+      "start_sec": 111.34,
+      "end_sec": 114.79
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "切符は切らないわ。オーケストラの指揮者の意味で、いくつものAIに同時にプログラムを書かせる道具よ。",
+      "news_index": 2,
+      "start_sec": 114.94,
+      "end_sec": 120.99
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、AIの楽団を一人で指揮するのだ!",
+      "news_index": 2,
+      "start_sec": 121.14,
+      "end_sec": 124.32
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "正解。クロード コードやコーデックスみたいな、別々の会社のAIもまとめて動かせたの。",
+      "news_index": 2,
+      "start_sec": 124.47,
+      "end_sec": 130.19
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "お値段はいくらだったのだ? 百億? 千億?",
+      "news_index": 2,
+      "start_sec": 130.34,
+      "end_sec": 134.1
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "金額は明かされてないわ。それより注目は、ネット上で動く版が十一月二十日で終わること。",
+      "news_index": 2,
+      "start_sec": 134.25,
+      "end_sec": 140.26
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? 買われたとたん、お店を閉めちゃうのだ!?",
+      "news_index": 2,
+      "start_sec": 140.41,
+      "end_sec": 143.6
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そう、道具ごと自分の家に取り込む買い方ね。今、大手はこういう開発道具の会社を取り合ってるの。",
+      "news_index": 2,
+      "start_sec": 143.75,
+      "end_sec": 150.55
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "腕のいい職人さんを、工房ごと引き抜く感じじゃん。",
+      "news_index": 2,
+      "start_sec": 150.7,
+      "end_sec": 154.68
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "うまいわね、まさにそれ。",
+      "news_index": 2,
+      "start_sec": 154.83,
+      "end_sec": 156.53
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "プログラマーじゃないボクにも、関係あるのだ?",
+      "news_index": 2,
+      "start_sec": 156.68,
+      "end_sec": 159.85
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "普段使うアプリを作る裏方の道具が、少数の大手に集まっていく話よ。便利になる一方で、使ってた道具が急に終わるリスクもあるってこと。",
+      "news_index": 2,
+      "start_sec": 160.0,
+      "end_sec": 168.95
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "お気に入りの文房具屋さんが、急に閉店する悲しさなのだ……。",
+      "news_index": 2,
+      "start_sec": 169.1,
+      "end_sec": 174.98
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目はお財布の話。エイチディーディーの値段が、まだ下がってこないの。",
+      "news_index": 3,
+      "start_sec": 175.13,
+      "end_sec": 179.65
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "エイチディーディー? エスエスディーの親戚だっけ?",
+      "news_index": 3,
+      "start_sec": 179.8,
+      "end_sec": 183.2
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "親戚ね。中で円盤がくるくる回ってデータを記録する、昔ながらの大容量の倉庫よ。",
+      "news_index": 3,
+      "start_sec": 183.35,
+      "end_sec": 189.15
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "レコードプレーヤーみたいなやつなのだ!",
+      "news_index": 3,
+      "start_sec": 189.3,
+      "end_sec": 191.64
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "音楽は流れないけどね。秋葉原の相場を毎月見てるサイトによると、ナス向けのエイチディーディーは値上がり前より約3割高い水準だって。",
+      "news_index": 3,
+      "start_sec": 191.79,
+      "end_sec": 200.55
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ナス? 焼きナスにかけるお醤油の話なのだ?",
+      "news_index": 3,
+      "start_sec": 200.7,
+      "end_sec": 204.12
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "食べられないわ。ナスは家のネットにつなぐファイル置き場、ようは家族みんなの共有本棚ね。",
+      "news_index": 3,
+      "start_sec": 204.27,
+      "end_sec": 209.83
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "3割高いって、1万円のが1万3,000円になってるのだ!?",
+      "news_index": 3,
+      "start_sec": 209.98,
+      "end_sec": 214.43
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そういう計算。値上がり前の四月と比べると、十月二十四日の6テラバイトモデルは約28%高かったって。",
+      "news_index": 3,
+      "start_sec": 214.58,
+      "end_sec": 222.65
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "なんでそんなに上がるのだ?",
+      "news_index": 3,
+      "start_sec": 222.8,
+      "end_sec": 224.69
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "AI向けのデータセンター、ようはAIを動かす巨大なサーバー倉庫が、記録装置を大量に買ってるのが大きいらしいわ。円安も重なってるのよ。",
+      "news_index": 3,
+      "start_sec": 224.84,
+      "end_sec": 233.88
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "また、AIにおやつを取られてるのだ……。",
+      "news_index": 3,
+      "start_sec": 234.03,
+      "end_sec": 237.46
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "写真や動画のバックアップ用に買い足す予定なら、急がない分は様子見にして、必要な分だけ買うのが無難じゃない? ここは私の考えだけど。",
+      "news_index": 3,
+      "start_sec": 237.61,
+      "end_sec": 246.86
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "まずはスマホの写真の整理からやるのだ。次なのだ!",
+      "news_index": 3,
+      "start_sec": 247.01,
+      "end_sec": 250.6
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四本目。オープンエーアイの社長、グレッグ・ブロックマンさんが、2027年には上場の準備ができてるかもって話したの。",
+      "news_index": 4,
+      "start_sec": 250.75,
+      "end_sec": 258.53
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じょうじょう? お寿司の、上の上のランクなのだ?",
+      "news_index": 4,
+      "start_sec": 258.68,
+      "end_sec": 262.09
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "特上じゃないわ。上場は、株式市場で誰でも会社の株を買えるようにすることよ。",
+      "news_index": 4,
+      "start_sec": 262.24,
+      "end_sec": 267.52
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "どこで言ったのだ?",
+      "news_index": 4,
+      "start_sec": 267.67,
+      "end_sec": 269.05
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "十一月四日の、ウォール ストリート ジャーナルのイベント。来年上場できる状態かって聞かれて、そう思う、はい、って答えたの。",
+      "news_index": 4,
+      "start_sec": 269.2,
+      "end_sec": 277.22
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "即答じゃん! 自信満々なのだ!",
+      "news_index": 4,
+      "start_sec": 277.37,
+      "end_sec": 279.71
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ただ、今年の第一・第二四半期は、会社向け事業ではかなり厳しかったって、本人も認めてるわ。",
+      "news_index": 4,
+      "start_sec": 279.86,
+      "end_sec": 286.67
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、社長が自分で、つらかったって言っちゃうのだ!?",
+      "news_index": 4,
+      "start_sec": 286.82,
+      "end_sec": 290.46
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "正直でしょ。その後は会社向けの商売が倍に伸びて、今は売上の大半が企業からなんだって。",
+      "news_index": 4,
+      "start_sec": 290.61,
+      "end_sec": 296.92
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "上場の日にちは、もう決まってるのだ?",
+      "news_index": 4,
+      "start_sec": 297.07,
+      "end_sec": 299.88
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "日付も値段も、まだ何も決まってないわ。あくまで準備ができそう、って段階の話ね。",
+      "news_index": 4,
+      "start_sec": 300.03,
+      "end_sec": 305.57
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、ボクたちにはどう関係するのだ?",
+      "news_index": 4,
+      "start_sec": 305.72,
+      "end_sec": 308.52
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "上場すると、三か月ごとに成績表を公開することになるの。AIって本当に儲かるの、っていう疑問に、数字で答えが出始めるってことね。",
+      "news_index": 4,
+      "start_sec": 308.67,
+      "end_sec": 318.59
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "AIの通信簿が毎学期配られるのだ。ちょっと楽しみなのだ。",
+      "news_index": 4,
+      "start_sec": 318.74,
+      "end_sec": 322.99
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ラスト五本目は硬めだから手短に。誰でもダウンロードできるAIの、ハッキングの腕前がかなり上がってるって評価が出たの。",
+      "news_index": 5,
+      "start_sec": 323.14,
+      "end_sec": 330.98
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ハッキング!? 映画みたいに、黒い画面に緑の文字なのだ!?",
+      "news_index": 5,
+      "start_sec": 331.13,
+      "end_sec": 335.34
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "中身は守る側のためのテストよ。アメリカのAI評価会社が、模擬の会社のネットワークに侵入させる試験をしたの。",
+      "news_index": 5,
+      "start_sec": 335.49,
+      "end_sec": 342.77
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "結果はどうだったのだ?",
+      "news_index": 5,
+      "start_sec": 342.92,
+      "end_sec": 344.68
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一位はオープンエーアイの、限られた相手にしか貸してないサイバー用のAI。でも中国のディープシークの公開モデルが、すぐ後ろに迫ったのよ。",
+      "news_index": 5,
+      "start_sec": 344.83,
+      "end_sec": 353.7
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "鍵付きのAIと、誰でももらえるAIが、ほぼ互角ってこと?",
+      "news_index": 5,
+      "start_sec": 353.85,
+      "end_sec": 358.56
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そういうこと。しかも一回の攻撃にかかる費用は、別のオープンエーアイ製モデルのジーピーティーシックス・ソルが17ドルから46ドルなのに対して、ディープシークは2ドルから3ドルなんですって。",
+      "news_index": 5,
+      "start_sec": 358.71,
+      "end_sec": 370.38
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "少なくとも5分の1以下!? ずいぶん安いのだ!",
+      "news_index": 5,
+      "start_sec": 370.53,
+      "end_sec": 373.87
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "危ないAIは配る相手をしぼる、っていう守り方が効きにくくなってきた、って話ね。",
+      "news_index": 5,
+      "start_sec": 374.02,
+      "end_sec": 379.81
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクたちは、何をすればいいのだ?",
+      "news_index": 5,
+      "start_sec": 379.96,
+      "end_sec": 382.46
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "今回わかったのは、模擬ネットワークへの侵入能力が安く使えるようになってきたこと。基本の備えとして、二段階認証は今日のうちにオンにしておいて。",
+      "news_index": 5,
+      "start_sec": 382.61,
+      "end_sec": 392.36
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "玄関の鍵を、二つ付けるのだ!",
+      "news_index": 5,
+      "start_sec": 392.51,
+      "end_sec": 394.88
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "今朝は五本、ぜんぶ回ったのだー!",
+      "news_index": 0,
+      "start_sec": 394.96,
+      "end_sec": 397.43
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "任せるAIの同僚、工房ごとの引き抜き、高いままのエイチディーディー、2027年の上場、それと安くなる攻撃の話だったわね。",
+      "news_index": 0,
+      "start_sec": 397.58,
+      "end_sec": 406.52
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ボクのおすすめは、焼きナスじゃない方のナスなのだ。",
+      "news_index": 0,
+      "start_sec": 406.67,
+      "end_sec": 410.24
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "まだ引っ張るの、それ。",
+      "news_index": 0,
+      "start_sec": 410.39,
+      "end_sec": 411.92
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "でも、二段階認証は本当に大事なのだ。",
+      "news_index": 0,
+      "start_sec": 412.07,
+      "end_sec": 415.5
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そうね。聴いてくれてるかた、いってらっしゃい。気になった話は、各社の発表や報道をのぞいてみてね。",
+      "news_index": 0,
+      "start_sec": 415.65,
+      "end_sec": 422.15
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "また次のテック朝便で会うのだー!",
+      "news_index": 0,
+      "start_sec": 422.3,
+      "end_sec": 424.63
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 425.33,
+      "end_sec": 431.97
+    }
+  ],
+  "wall_time_sec": 12.62,
+  "audio_url": "/audio/ai/20261107_050544.mp3?v=1794002581"
+}

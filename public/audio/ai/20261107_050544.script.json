@@ -1,0 +1,503 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-11-06T20:05:44.196215+00:00",
+  "title": "任せる係と高い倉庫の朝 〜働き続けるAIの同僚と、値下がらないHDD〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "welcome",
+      "text": "おはようございます、旅の道ラジオ朝便。四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだ! 土曜の朝も、テックの話をサクッといくのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今朝は五本。働き続けるAIの同僚、プログラミング道具の買い物、エイチディーディーの値段、上場の話、それと硬めの守りの話ね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "五本も!? 朝ごはんのおかずを、一品ずつ味わう作戦なのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "よく噛んでね。じゃあ一本目から。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。検索のAIで知られるパープレキシティが、今週、チームメイツっていう新しいAIを出したの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "チームメイツ? 部活の仲間を紹介してくれるアプリなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "部員募集じゃないわ。ずっと動き続けるAIエージェント、ようは人の代わりに自分で作業を進めるAIのことね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ずっとって、どのくらいずっとなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一回頼んで終わりじゃないの。市場調査や宣伝キャンペーンみたいな仕事を、担当者として持ち続けるのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、宿題を一枚渡すんじゃなくて、係を任せる感じなのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "いいたとえ。役割や権限を決めておけて、スラックっていう仕事用のチャットで人間と連絡も取れるって。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "チャットで「進んでる?」って聞けるのだ。かわいい後輩じゃん!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ただし今は試験版で、使えるのは月200ドルのマックスっていう一番上のプランの人だけなの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "月200ドル!? ボクのお小遣い、一年ぶん貯めてやっと一か月ぶんなのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今は試験版だから、使える人をかなりしぼってるのね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあボクたちには、まだ縁がないってこと?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "すぐにはね。でもAIに頼む時代から任せる時代へ、って流れは覚えておいて損はないわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "朝礼にAIの同僚が並ぶ日も近いのだ。次いくのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目。メタが、コンダクターっていうAIのプログラミング道具の会社を買ったの。報道が出たのは十一月四日ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "コンダクター? 電車の車掌さんの会社なのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "切符は切らないわ。オーケストラの指揮者の意味で、いくつものAIに同時にプログラムを書かせる道具よ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、AIの楽団を一人で指揮するのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "正解。クロード コードやコーデックスみたいな、別々の会社のAIもまとめて動かせたの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "お値段はいくらだったのだ? 百億? 千億?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "金額は明かされてないわ。それより注目は、ネット上で動く版が十一月二十日で終わること。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? 買われたとたん、お店を閉めちゃうのだ!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そう、道具ごと自分の家に取り込む買い方ね。今、大手はこういう開発道具の会社を取り合ってるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "腕のいい職人さんを、工房ごと引き抜く感じじゃん。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "うまいわね、まさにそれ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "プログラマーじゃないボクにも、関係あるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "普段使うアプリを作る裏方の道具が、少数の大手に集まっていく話よ。便利になる一方で、使ってた道具が急に終わるリスクもあるってこと。",
+      "news_index": 2,
+      "reading": "ふだんつかうアプリをつくるうらかたのどうぐが、しょうすうのおおてにあつまっていくはなしよ。ベンリニナルイッポウデ、つかってたどうぐがきゅうにおわるリスクもあるってこと。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "お気に入りの文房具屋さんが、急に閉店する悲しさなのだ……。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目はお財布の話。エイチディーディーの値段が、まだ下がってこないの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "エイチディーディー? エスエスディーの親戚だっけ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "親戚ね。中で円盤がくるくる回ってデータを記録する、昔ながらの大容量の倉庫よ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "レコードプレーヤーみたいなやつなのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "音楽は流れないけどね。秋葉原の相場を毎月見てるサイトによると、ナス向けのエイチディーディーは値上がり前より約3割高い水準だって。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ナス? 焼きナスにかけるお醤油の話なのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "食べられないわ。ナスは家のネットにつなぐファイル置き場、ようは家族みんなの共有本棚ね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "3割高いって、1万円のが1万3,000円になってるのだ!?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そういう計算。値上がり前の四月と比べると、十月二十四日の6テラバイトモデルは約28%高かったって。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "なんでそんなに上がるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "AI向けのデータセンター、ようはAIを動かす巨大なサーバー倉庫が、記録装置を大量に買ってるのが大きいらしいわ。円安も重なってるのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "また、AIにおやつを取られてるのだ……。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "写真や動画のバックアップ用に買い足す予定なら、急がない分は様子見にして、必要な分だけ買うのが無難じゃない? ここは私の考えだけど。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "まずはスマホの写真の整理からやるのだ。次なのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四本目。オープンエーアイの社長、グレッグ・ブロックマンさんが、2027年には上場の準備ができてるかもって話したの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じょうじょう? お寿司の、上の上のランクなのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "特上じゃないわ。上場は、株式市場で誰でも会社の株を買えるようにすることよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "どこで言ったのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "十一月四日の、ウォール ストリート ジャーナルのイベント。来年上場できる状態かって聞かれて、そう思う、はい、って答えたの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "即答じゃん! 自信満々なのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ただ、今年の第一・第二四半期は、会社向け事業ではかなり厳しかったって、本人も認めてるわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、社長が自分で、つらかったって言っちゃうのだ!?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "正直でしょ。その後は会社向けの商売が倍に伸びて、今は売上の大半が企業からなんだって。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "上場の日にちは、もう決まってるのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "日付も値段も、まだ何も決まってないわ。あくまで準備ができそう、って段階の話ね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、ボクたちにはどう関係するのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "上場すると、三か月ごとに成績表を公開することになるの。AIって本当に儲かるの、っていう疑問に、数字で答えが出始めるってことね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "AIの通信簿が毎学期配られるのだ。ちょっと楽しみなのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ラスト五本目は硬めだから手短に。誰でもダウンロードできるAIの、ハッキングの腕前がかなり上がってるって評価が出たの。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ハッキング!? 映画みたいに、黒い画面に緑の文字なのだ!?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "中身は守る側のためのテストよ。アメリカのAI評価会社が、模擬の会社のネットワークに侵入させる試験をしたの。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "結果はどうだったのだ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一位はオープンエーアイの、限られた相手にしか貸してないサイバー用のAI。でも中国のディープシークの公開モデルが、すぐ後ろに迫ったのよ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "鍵付きのAIと、誰でももらえるAIが、ほぼ互角ってこと?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そういうこと。しかも一回の攻撃にかかる費用は、別のオープンエーアイ製モデルのジーピーティーシックス・ソルが17ドルから46ドルなのに対して、ディープシークは2ドルから3ドルなんですって。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "少なくとも5分の1以下!? ずいぶん安いのだ!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "危ないAIは配る相手をしぼる、っていう守り方が効きにくくなってきた、って話ね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクたちは、何をすればいいのだ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "今回わかったのは、模擬ネットワークへの侵入能力が安く使えるようになってきたこと。基本の備えとして、二段階認証は今日のうちにオンにしておいて。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "玄関の鍵を、二つ付けるのだ!",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "今朝は五本、ぜんぶ回ったのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "任せるAIの同僚、工房ごとの引き抜き、高いままのエイチディーディー、2027年の上場、それと安くなる攻撃の話だったわね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ボクのおすすめは、焼きナスじゃない方のナスなのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "まだ引っ張るの、それ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "でも、二段階認証は本当に大事なのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そうね。聴いてくれてるかた、いってらっしゃい。気になった話は、各社の発表や報道をのぞいてみてね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "また次のテック朝便で会うのだー!",
+      "news_index": 0
+    }
+  ],
+  "program_description": "旅の道ラジオ朝便のテックニュース回。パープレキシティが出した、仕事を担当者として持ち続けるAIエージェント「チームメイツ」の話から始まり、メタによるAIプログラミング道具の会社コンダクターの買収と、すぐに終わるネット版の行方、秋葉原で値上がり前より約3割高いままのNAS向けHDDの相場、オープンエーアイ社長グレッグ・ブロックマンさんの「2027年には上場の準備ができているかも」発言、そして誰でもダウンロードできるAIのハッキング能力が鍵付きのAIに迫ったという評価まで、五本をサクッと雑談でまとめる回。最後は二段階認証のすすめで締めくくり。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20261107_050544_chars.webp",
+    "hero_rel": "/images/topics/tech_20261107_050544.webp",
+    "title": "任せる係と高い倉庫の朝 〜働き続けるAIの同僚と、値下がらないHDD〜",
+    "companies": [
+      "OpenAI",
+      "Meta",
+      "DeepSeek",
+      "Claude"
+    ],
+    "thumbnail_ready": true
+  },
+  "summary_short": "AIが「担当者」として仕事を持ち続ける時代へ。パープレキシティの新AI、メタの買収劇、高止まりのHDD相場、OpenAIの上場発言まで、朝のテックニュース五本をゆるっと雑談でお届けします。",
+  "published_at": "2026-11-07T07:01:55+09:00"
+}
