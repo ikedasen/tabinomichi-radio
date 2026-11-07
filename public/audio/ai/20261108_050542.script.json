@@ -1,0 +1,545 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-11-07T20:05:42.830050+00:00",
+  "title": "顔と値札と空き地の朝 〜しゃべり出すAIと、128万円のグラボ〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "welcome",
+      "text": "おはようございます、旅の道ラジオ朝便、テックニュースの回よ。四国めたんです。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 日曜の朝も、テックの話をサクッといくのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今朝は五本。しゃべるAIの顔、128万円のグラボ、売りに出された建設予定地、空っぽの会社、それに15秒の動画ね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "128万円!? 朝いちばんから、お財布に悪い数字が混ざってるじゃん!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこは二本目のお楽しみ。まずは軽いところから行くわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "了解なのだ! 一本目、どうぞなのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。メタのAIエージェント、ミューズに、声でしゃべる機能と表情の動くアバターが付いたの。発表はアメリカ時間の十一月五日よ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ミューズ? 美術館に飾ってある、女神さまの彫刻だっけ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "彫刻はしゃべらないわ。エージェント、ようは頼んだ作業を自分で進めてくれるAIのことね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "メタって、インスタやフェイスブックの会社じゃん? アバターって、どう動くのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "話してる最中に、画面の顔が表情や身ぶりを変えて反応するの。声だけ、チャットの横に顔、全画面で顔、の三つから選べるらしいわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "テレビ電話の相手がAIってことなのだ! ちょっと照れるのだー。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "照れる相手じゃないわよ。面白いのは、しゃべってる間も裏で作業を続けてくれるところ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、料理しながら、明日の予定まとめといて、って頼めるやつなのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "まさにそれ。手がふさがってても、声で仕事を振れるのね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、日本でももう使えるってことなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ミューズ自体は十月二十三日から日本でも使えるけど、声とアバターはまずアメリカだけ。日本の時期はまだ出てないわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "お預けなのだ……。ボクのしゃべり相手は、まだ台所の電子レンジだけなのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "電子レンジは返事しないでしょ。ちなみにアメリカとカナダでは、約六週間で1,000万人以上が使い始めたって、ザッカーバーグさんが決算で話してたの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "1,000万人!? ものすごい数の人が、六週間でAIとお友達なのだ!?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに、AIは文字を打つ道具から、顔のある話し相手に寄ってきてるって話ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクたちの生活には、どう効くのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "スマホに文字を打つのが苦手な人でも、話しかけるだけでAIを使えるようになる。日本に来たら、おじいちゃんおばあちゃんの入口になるかもね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "おばあちゃんがAIの顔とおしゃべりしてる朝、ちょっと見てみたいのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目はお財布の話。グラボの最上位、アールティーエックス ゴーゼロキューゼロが、秋葉原では120万円台が当たり前になったの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "グラボって、ゲームの絵を描く係の部品だっけ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "正解。ジーピーユー、ようは画像やAIの計算をものすごい速さでこなすチップを積んだ板ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "それが120万円台!? ボクのお年玉を毎年全部貯めても、届くのは何十年後なのだ!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "計算が切なすぎるわ。2025年の一月に出たときは、だいたい39万円から57万円だったのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、二倍か三倍じゃん! 金の延べ棒でできてるのだ!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "アイティメディアの十一月七日の記事だと、エムエスアイやパリットのモデルに128万8,000円の値札が付いてたって。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "そんな値段で、買う人いるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "それが、入荷すると一般の人がちゃんと買っていくらしいの。値段より、今手に入るかどうかが大事って空気だって。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、AIを自分のパソコンで動かしたい人たちも狙ってるのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういう需要もよく言われるわね。もうゲームだけの部品じゃないってこと。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに、最上位のグラボは、ものすごく値上がりしても、値段より入手できることが優先されてる、って話ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "ボクの自作パソコン計画、どうすればいいのだ……。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "最上位は無理に追わないで、一つ下のクラスで組むのが現実的よ。この値上がりが下のモデルや中古にどこまで来るかは、しばらく見ておきたいわ。",
+      "news_index": 2,
+      "reading": "さいじょういはむりにおわないで、ひとつしたのクラスでくむのがげんじつてきよ。このねあがりがしたのもでるやモデルやちゅうこにどこまでくるかは、しばらくみておきたいわ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "最上位は眺めるだけの展示品、ってことにしておくのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目。クルーソーっていうアメリカの会社が、ワイオミング州のデータセンターの建設予定地を、グーグルに売ったの。十一月六日に認めたわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "くるーそー? 無人島で暮らした、ロビンソンさんの親戚なのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "島暮らしはしてないわ。データセンター、ようはAIやネットのサービスを動かす巨大なサーバー倉庫を建てる会社よ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "自分で建てるはずだったのに、なんで手放しちゃったのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "下準備までは進めたけど、使ってくれるお客さんを捕まえられなかったって報じられてるの。そのお客さん候補には、グーグルも入ってたのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? お客さんになってくれなかった相手に、土地ごと渡したのだ!?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そういうこと。で、グーグルはここに170億ドルを注ぎ込んで開発する計画を出してるわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "170億ドル!? 日本円だと、2兆円を軽く超えちゃうじゃん!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ただ、それは建てるのに使う予定のお金。土地をいくらで買ったかは公表されてないの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "喫茶店を開こうとした人が、お客さんが来なくて、大手チェーンにお店ごと譲ったみたいな話なのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "いいたとえね。今のAIの勝負では、電気がたっぷり来る土地を持ってること自体が、すごく価値のある持ち物なの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクたちには、どう関係するのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "この件で見えるのは、巨大なデータセンターを予定どおり、予算どおりに作る難しさね。設備や電力を確保して、最後まで開発できる力が問われてるわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "結局、お財布の大きい会社が、地面ごと持っていくのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四本目は硬めだから手短に。アメリカ政府がエヌビディアのAIチップを扱っていいと許可した中国の会社に、中身のない会社が混ざってたって報道よ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "中身のない会社!? 看板だけの、お化け屋敷なのだ!?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ニューヨーク タイムズが十一月七日に報じたの。北京のニュー マトリックスって会社で、記者が住所を訪ねたら、がらんどうだったって。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "そもそも、何のチップの話だっけ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "エイチニヒャクっていう、AIを鍛えたり動かしたりする高性能なチップよ。この会社は、それをAIのサーバーに組み立てる許可をもらってたの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "誰がやってる会社なのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "できたのは十七か月前。主な持ち主の二人が、2024年十二月にアメリカの要注意リストに載った北京の投資ファンドとつながる会社と関係してるらしいわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "待って、それって、入っちゃダメな人が裏口から入ってるみたいな話なのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "専門家はそう疑ってるけど、本当に誰が動かしてるかまでは報じられてないわ。しかも、住所に実体がない会社はこれで二社目なの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクたちの生活には、関係あるのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "すぐにはないわ。ただ、アメリカの審査が本当に機能しているのか、輸出規制の抜け道になっていないかが問われる話ね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "遠い国の書類の話でも、回り回ってグラボ売り場に来るかもしれないのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "ラスト五本目は、明るめの話で締めるわ。グーグルが十一月五日に、動画を作るAI、ジェミニ オムニ イッテンニ フラッシュを出したの。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "おむに? オムライスとおにぎりの、合体メニューなのだ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "食べられないわ。グーグルの、文章や画像から動画を作るAIの名前よ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、何が新しくなったのだ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一回で作れる動画が、これまでの10秒から15秒に伸びたの。しかも作る値段が30%下がったわ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "五秒伸びて三割引き!? スーパーの閉店前セールじゃん!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "閉店はしないわよ。開発者向けだと、普通の画質で一秒あたり7セントね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "作ったあとに直すのは、また一からやり直しなのだ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこも変わったの。作り直さずに、背景を夜にして、みたいに話しかけて少しずつ直せるのよ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、美容院で、もうちょっと短く、って言うのと同じなのだ!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "まさにそれ。ただ、ジェミニのアプリで15秒が使えるのは、一番上のウルトラのプランの人だけね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "結局、15秒はお金持ちの特権なのだ……。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに、AI動画がお試しから、仕事で量産する道具に近づいてるって話ね。お店の広告やSNSの短い動画は、これからAI製がもっと増えるはずよ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "じゃあ、ボクが見てる動画も、AIかどうか分からなくなるってことなのだ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そうなっていくでしょうね。だからこそ、誰が作ったのかを確かめる目が、見る側にも要るの。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "猫動画を見るときも、ちょっとだけ名探偵になるのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今朝はここまで。声でしゃべるAI、120万円台のグラボ、売られた建設予定地、空っぽの会社、15秒の動画の五本だったわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "まとめると、AIの裏側で、お金と場所の取り合いが激しくなってるってことなのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "珍しくきれいにまとめたじゃない。気になったものがあったら、各社の発表や報道をのぞいてみてね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "聴いてくれてるかた、いってらっしゃいなのだ! また明日のテック朝便で会うのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "今日も気をつけてね。旅の道ラジオ朝便、四国めたんと。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "ずんだもんがお送りしたのだ!",
+      "news_index": 0
+    }
+  ],
+  "program_description": "日曜の朝に、テックの話題を五本サクッとまとめる回。メタのAIエージェント、ミューズに声でしゃべる機能と表情の動くアバターが付いた話、秋葉原でグラボの最上位が128万円台の値札になっても買い手が途絶えない話、データセンターの会社クルーソーがワイオミング州の建設予定地をグーグルに売った話、アメリカが許可した中国のチップ取引先に住所が空っぽの会社が混ざっていたという報道、そしてグーグルの動画AIが15秒に伸びて三割安くなった話。ずんだもんの勘違いと四国めたんのツッコミで、それぞれ暮らしにどう響くかまで軽く噛み砕きます。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20261108_050542_chars.webp",
+    "hero_rel": "/images/topics/tech_20261108_050542.webp",
+    "title": "顔と値札と空き地の朝 〜しゃべり出すAIと、128万円のグラボ〜",
+    "companies": [
+      "Google",
+      "Meta",
+      "Gemini",
+      "NVIDIA"
+    ],
+    "thumbnail_ready": true
+  },
+  "summary_short": "メタのAIが声と表情を得て、秋葉原では128万円のグラボにも買い手がつく。さらにクルーソーの建設予定地売却、中国チップ取引先の幽霊会社疑惑、Googleの動画AI値下げまで、日曜朝のテック五本を暮らし目線で。",
+  "published_at": "2026-11-08T07:01:59+09:00"
+}

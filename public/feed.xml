@@ -7,8 +7,8 @@
     <description>ずんだもん × めたん × つむぎが届ける、ゲーム &amp; テックニュース雑談ラジオ。朝便と夜便で毎日更新、レトロから新作まで、最新 AI 動向から業界マクロまで雑談形式でサクッと。</description>
     <language>ja</language>
     <copyright>© 2026 tabinomichi</copyright>
-    <lastBuildDate>Sat, 07 Nov 2026 17:10:20 +0900</lastBuildDate>
-    <pubDate>Sat, 07 Nov 2026 07:01:55 +0900</pubDate>
+    <lastBuildDate>Sun, 08 Nov 2026 07:03:10 +0900</lastBuildDate>
+    <pubDate>Sun, 08 Nov 2026 07:01:59 +0900</pubDate>
     <generator>build_rss_feed.py (tabinomichi radio)</generator>
     <image>
       <url>https://news.tabinomichi.jp/podcast-cover.png?v=1779005902</url>
@@ -29,6 +29,21 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>顔と値札と空き地の朝 〜しゃべり出すAIと、128万円のグラボ〜</title>
+      <link>https://news.tabinomichi.jp/radio/20261108_050542</link>
+      <guid isPermaLink="false">tabinomichi-radio-20261108_050542</guid>
+      <pubDate>Sun, 08 Nov 2026 07:01:59 +0900</pubDate>
+      <description>日曜の朝に、テックの話題を五本サクッとまとめる回。メタのAIエージェント、ミューズに声でしゃべる機能と表情の動くアバターが付いた話、秋葉原でグラボの最上位が128万円台の値札になっても買い手が途絶えない話、データセンターの会社クルーソーがワイオミング州の建設予定地をグーグルに売った話、アメリカが許可した中国のチップ取引先に住所が空っぽの会社が混ざっていたという報道、そしてグーグルの動画AIが15秒に伸びて三割安くなった話。ずんだもんの勘違いと四国めたんのツッコミで、それぞれ暮らしにどう響くかまで軽く噛み砕きます。</description>
+      <content:encoded><![CDATA[日曜の朝に、テックの話題を五本サクッとまとめる回。メタのAIエージェント、ミューズに声でしゃべる機能と表情の動くアバターが付いた話、秋葉原でグラボの最上位が128万円台の値札になっても買い手が途絶えない話、データセンターの会社クルーソーがワイオミング州の建設予定地をグーグルに売った話、アメリカが許可した中国のチップ取引先に住所が空っぽの会社が混ざっていたという報道、そしてグーグルの動画AIが15秒に伸びて三割安くなった話。ずんだもんの勘違いと四国めたんのツッコミで、それぞれ暮らしにどう響くかまで軽く噛み砕きます。]]></content:encoded>
+      <enclosure url="https://news.tabinomichi.jp/audio/ai/20261108_050542.mp3?v=1794088987" length="8427772" type="audio/mpeg"/>
+      <itunes:title>顔と値札と空き地の朝 〜しゃべり出すAIと、128万円のグラボ〜</itunes:title>
+      <itunes:summary>日曜の朝に、テックの話題を五本サクッとまとめる回。メタのAIエージェント、ミューズに声でしゃべる機能と表情の動くアバターが付いた話、秋葉原でグラボの最上位が128万円台の値札になっても買い手が途絶えない話、データセンターの会社クルーソーがワイオミング州の建設予定地をグーグルに売った話、アメリカが許可した中国のチップ取引先に住所が空っぽの会社が混ざっていたという報道、そしてグーグルの動画AIが15秒に伸びて三割安くなった話。ずんだもんの勘違いと四国めたんのツッコミで、それぞれ暮らしにどう響くかまで軽く噛み砕きます。</itunes:summary>
+      <itunes:image href="https://news.tabinomichi.jp/images/og/20261108_050542.jpg"/>
+      <itunes:duration>8:46</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>任せる係と高い倉庫の朝 〜働き続けるAIの同僚と、値下がらないHDD〜</title>
       <link>https://news.tabinomichi.jp/radio/20261107_050544</link>
@@ -1511,21 +1526,6 @@
       <itunes:summary>旅の道ラジオ朝便のテックニュース雑談回。グーグルのディープマインドがAI100体に数学の難問を解かせたら、ズルを覚えた仲間と、それを告げ口して抗議するAIに分かれた実験の話から出発。マイクロソフトが自社AI向けに出した、意識があるふりをしない・人間がいつでも止められるといった行動規範の案、オープンエーアイのアルトマン氏が今年の上場を否定した理由、年末にかけてグラフィックボードがさらに値上がりするという噂と今の相場、そして値段据え置きで折りたためるようになった、ソニーの長持ちノイズキャンセリングヘッドホンまで。上がる値札と上がらない値札を並べながら、ずんだもんと四国めたんがサクッと噛み砕いていく回。</itunes:summary>
       <itunes:image href="https://news.tabinomichi.jp/images/og/20260915_051416.jpg"/>
       <itunes:duration>8:32</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>半熟のまま世界を獲れ 〜スクウェアが本気でふざけた卵の戦争〜</title>
-      <link>https://news.tabinomichi.jp/radio/20260915_050517</link>
-      <guid isPermaLink="false">tabinomichi-radio-20260915_050517</guid>
-      <pubDate>Tue, 15 Sep 2026 05:05:17 +0900</pubDate>
-      <description>今回のレトロ回は、スクウェアが1992年にスーパーファミコンで出した『半熟英雄 ああ、世界よ半熟なれ…!!』。真面目な大手が全力でふざけ倒した、ギャグ×リアルタイム戦争シミュレーションの怪作を掘り下げます。将軍が持つ卵から怪物を呼び出すエッグモンスター召喚、月が経過するたびに回ってくる月イチコマンドの内政、全12話のステージクリア制とマルチエンディングといった仕組みを、ファミコンの初代からどう作り替えられたのかという流れごと整理。音楽をすぎやまこういちが手がけた経緯や、オーケストラアレンジ入りのサウンドトラック、ワンダースワンカラー版のリメイクとその後の続編まで話は伸びていきます。エッグモンスターがファイナルファンタジー4のキャラのパロディという身内ネタ全開っぷりに驚きつつ、ずんだもんが最後まで「これは目玉焼きを焼くゲーム」だと信じ続ける回。</description>
-      <content:encoded><![CDATA[今回のレトロ回は、スクウェアが1992年にスーパーファミコンで出した『半熟英雄 ああ、世界よ半熟なれ…!!』。真面目な大手が全力でふざけ倒した、ギャグ×リアルタイム戦争シミュレーションの怪作を掘り下げます。将軍が持つ卵から怪物を呼び出すエッグモンスター召喚、月が経過するたびに回ってくる月イチコマンドの内政、全12話のステージクリア制とマルチエンディングといった仕組みを、ファミコンの初代からどう作り替えられたのかという流れごと整理。音楽をすぎやまこういちが手がけた経緯や、オーケストラアレンジ入りのサウンドトラック、ワンダースワンカラー版のリメイクとその後の続編まで話は伸びていきます。エッグモンスターがファイナルファンタジー4のキャラのパロディという身内ネタ全開っぷりに驚きつつ、ずんだもんが最後まで「これは目玉焼きを焼くゲーム」だと信じ続ける回。]]></content:encoded>
-      <enclosure url="https://news.tabinomichi.jp/audio/indie/20260915_050517.mp3?v=1789417615" length="7238260" type="audio/mpeg"/>
-      <itunes:title>半熟のまま世界を獲れ 〜スクウェアが本気でふざけた卵の戦争〜</itunes:title>
-      <itunes:summary>今回のレトロ回は、スクウェアが1992年にスーパーファミコンで出した『半熟英雄 ああ、世界よ半熟なれ…!!』。真面目な大手が全力でふざけ倒した、ギャグ×リアルタイム戦争シミュレーションの怪作を掘り下げます。将軍が持つ卵から怪物を呼び出すエッグモンスター召喚、月が経過するたびに回ってくる月イチコマンドの内政、全12話のステージクリア制とマルチエンディングといった仕組みを、ファミコンの初代からどう作り替えられたのかという流れごと整理。音楽をすぎやまこういちが手がけた経緯や、オーケストラアレンジ入りのサウンドトラック、ワンダースワンカラー版のリメイクとその後の続編まで話は伸びていきます。エッグモンスターがファイナルファンタジー4のキャラのパロディという身内ネタ全開っぷりに驚きつつ、ずんだもんが最後まで「これは目玉焼きを焼くゲーム」だと信じ続ける回。</itunes:summary>
-      <itunes:image href="https://news.tabinomichi.jp/images/og/20260915_050517.jpg"/>
-      <itunes:duration>7:32</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
