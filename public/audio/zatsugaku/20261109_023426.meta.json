@@ -1,0 +1,1316 @@
+{
+  "profile": "zatsugaku",
+  "generated_at": "2026-11-09T02:34:26+09:00",
+  "title": "パンが固くなるのは乾燥だけのせいではない 〜袋に閉じ込めても進む、でんぷんの並び直し〜",
+  "audio_path": "zatsugaku_latest.wav",
+  "duration_sec": 597.97,
+  "script_hash": "sha256:7438b8a617e3ecccf0afae82de64f2a5d52ef38150b42d4f1ef64094c5da0b4c",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 5.05
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "mic",
+      "text": "旅の道ラジオ、雑学チャンネル。あんこもんだもん。",
+      "news_index": 0,
+      "start_sec": 5.05,
+      "end_sec": 8.51
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ずんだもんなのだ! 今日はどんなネタを持ってきたのだ?",
+      "news_index": 0,
+      "start_sec": 8.66,
+      "end_sec": 11.95
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "今日はパンの話だもん。買ってきた食パン、次の日には固くなってるでしょ。",
+      "news_index": 0,
+      "start_sec": 12.1,
+      "end_sec": 16.89
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "なるなる。パサパサのカチカチになるのだ。",
+      "news_index": 0,
+      "start_sec": 17.04,
+      "end_sec": 19.73
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "じゃあ聞くもん。パンはなんで固くなると思う?",
+      "news_index": 0,
+      "start_sec": 19.88,
+      "end_sec": 22.95
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "そんなの簡単なのだ。空気に当たって乾いちゃうからなのだ!",
+      "news_index": 0,
+      "start_sec": 23.1,
+      "end_sec": 26.81
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "それだけじゃないもん。乾くのは、主な理由じゃないんだもん。",
+      "news_index": 0,
+      "start_sec": 26.96,
+      "end_sec": 30.72
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、乾いてないのに固くなるのだ? そんなことあるのだ?",
+      "news_index": 0,
+      "start_sec": 30.87,
+      "end_sec": 34.92
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "あるんだもん。今日こそずんだもんに「知らなかった」って言わせるもん。",
+      "news_index": 0,
+      "start_sec": 35.07,
+      "end_sec": 39.47
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shirake",
+      "text": "また始まったのだ。受けて立つのだ。",
+      "news_index": 0,
+      "start_sec": 39.62,
+      "end_sec": 42.09
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "まず、普通の人がどう考えてるか整理するもん。",
+      "news_index": 1,
+      "start_sec": 42.24,
+      "end_sec": 45.53
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "パンって焼きたてはしっとりなのだ。中に水がいっぱいあるのだ。",
+      "news_index": 1,
+      "start_sec": 45.68,
+      "end_sec": 49.72
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "そうだもん。焼き上がったパンの中身は、けっこう水を含んでるんだもん。",
+      "news_index": 1,
+      "start_sec": 49.87,
+      "end_sec": 54.38
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、置いとくと水が逃げて、スポンジが乾いたみたいにカチカチになるのだ。",
+      "news_index": 1,
+      "start_sec": 54.53,
+      "end_sec": 59.2
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "うん、それが一番ありそうな答えだもんね。",
+      "news_index": 1,
+      "start_sec": 59.35,
+      "end_sec": 62.38
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "だから袋に入れて口をしばれば、固くならないのだ。完璧なのだ。",
+      "news_index": 1,
+      "start_sec": 62.53,
+      "end_sec": 67.66
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "ほんとに? 袋に入れたパン、3日後もふわふわだった?",
+      "news_index": 1,
+      "start_sec": 67.81,
+      "end_sec": 71.62
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "……言われてみると、袋に入れててもちょっと固くなってるのだ。",
+      "news_index": 1,
+      "start_sec": 71.77,
+      "end_sec": 75.62
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "でしょ。袋の口をしばっても、パンは固くなるんだもん。",
+      "news_index": 1,
+      "start_sec": 75.77,
+      "end_sec": 79.52
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "えっ、じゃあ袋の意味がないのだ? ボク、毎回しっかりしばってたのだ。",
+      "news_index": 1,
+      "start_sec": 79.67,
+      "end_sec": 85.75
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "nagomi",
+      "text": "意味はあるもん。外側の乾きや、外からの汚れは防げるんだもん。",
+      "news_index": 1,
+      "start_sec": 85.9,
+      "end_sec": 90.46
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "うーん、でも袋のすき間から少しずつ水が逃げてるんじゃないのだ?",
+      "news_index": 1,
+      "start_sec": 90.61,
+      "end_sec": 95.53
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "そう思うでしょ。それを本気で確かめた人がいるんだもん。",
+      "news_index": 1,
+      "start_sec": 95.68,
+      "end_sec": 99.22
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "誰なのだ?",
+      "news_index": 1,
+      "start_sec": 99.37,
+      "end_sec": 100.41
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "フランスの化学者、ブサンゴーだもん。1,852年に、パンが固くなる変化を調べたんだもん。",
+      "news_index": 1,
+      "start_sec": 100.56,
+      "end_sec": 107.12
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "170年以上前なのだ!? パンが固くなる問題、そんな昔から調べられてたのだ。",
+      "news_index": 1,
+      "start_sec": 107.27,
+      "end_sec": 113.11
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "ブサンゴーは、パンを水が逃げられない入れ物に閉じ込めて、置いておいたんだもん。",
+      "news_index": 1,
+      "start_sec": 113.26,
+      "end_sec": 118.15
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "それなら水は1滴も逃げられないのだ。ふわふわのままのはずなのだ。",
+      "news_index": 1,
+      "start_sec": 118.3,
+      "end_sec": 122.82
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "ところが、ちゃんと固くなったんだもん。",
+      "news_index": 1,
+      "start_sec": 122.97,
+      "end_sec": 125.1
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "マジかよ! 水が逃げてないのに固くなったのだ!?",
+      "news_index": 1,
+      "start_sec": 125.25,
+      "end_sec": 128.48
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "それだけじゃないもん。閉じ込めたまま温めると、また柔らかく戻ったんだもん。",
+      "news_index": 1,
+      "start_sec": 128.63,
+      "end_sec": 133.48
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "えっ、戻るのだ? 乾いたスポンジは温めても戻らないのだ。",
+      "news_index": 1,
+      "start_sec": 133.63,
+      "end_sec": 139.08
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "そうだもん。乾いたせいなら、温めただけで戻るのはおかしいんだもん。",
+      "news_index": 1,
+      "start_sec": 139.23,
+      "end_sec": 143.68
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "しかも、固くする・戻すを、同じパンで何度もくり返せたんだもん。",
+      "news_index": 1,
+      "start_sec": 143.76,
+      "end_sec": 148.26
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "何度も行ったり来たり……パンの中で、いったい何が起きてるのだ?",
+      "news_index": 1,
+      "start_sec": 148.41,
+      "end_sec": 153.08
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "つまり固くなるのは「水が抜けた」んじゃなくて、「中で何かが変わった」んだもん。",
+      "news_index": 1,
+      "start_sec": 153.23,
+      "end_sec": 158.83
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "答えを言うもん。パンが固くなる正体は、でんぷんの「老化」だもん。",
+      "news_index": 2,
+      "start_sec": 158.91,
+      "end_sec": 163.75
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "老化!? パンがおじいちゃんになるのだ?",
+      "news_index": 2,
+      "start_sec": 163.9,
+      "end_sec": 166.59
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "shirake",
+      "text": "年を取るって意味じゃないもん。でんぷんの並び方が変わることを、そう呼ぶんだもん。",
+      "news_index": 2,
+      "start_sec": 166.74,
+      "end_sec": 173.19
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でんぷんって、そもそも何なのだ? ボクには難しすぎるのだ。",
+      "news_index": 2,
+      "start_sec": 173.34,
+      "end_sec": 177.63
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "小麦やお米にたっぷり入ってる、ブドウ糖がたくさんつながったものだもん。",
+      "news_index": 2,
+      "start_sec": 177.78,
+      "end_sec": 182.08
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "生の粉の中では、でんぷんはぎゅっと整列して、固い粒になってるんだもん。",
+      "news_index": 2,
+      "start_sec": 182.16,
+      "end_sec": 187.11
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "整列してるのだ。おまんじゅうが箱にきっちり並んでるみたいなのだ。",
+      "news_index": 2,
+      "start_sec": 187.26,
+      "end_sec": 191.49
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "nagomi",
+      "text": "いい例えだもん。そこに水を入れて焼くと、熱で列がばらばらにほどけるんだもん。",
+      "news_index": 2,
+      "start_sec": 191.64,
+      "end_sec": 196.78
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "ほどけた隙間に水が入りこんで、ふくらんで柔らかくなる。日本の食品の世界では、これをアルファ化って呼ぶもん。",
+      "news_index": 2,
+      "start_sec": 196.86,
+      "end_sec": 204.04
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "アルファ化? なんだか必殺技みたいなのだ。",
+      "news_index": 2,
+      "start_sec": 204.19,
+      "end_sec": 207.33
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "shirake",
+      "text": "必殺技じゃないもん。でんぷんが水を抱えて、のりみたいにとろっとなった状態のことだもん。",
+      "news_index": 2,
+      "start_sec": 207.48,
+      "end_sec": 214.83
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ふわふわパンの正体は、ほどけて水を抱えたでんぷんなのだ。",
+      "news_index": 2,
+      "start_sec": 214.98,
+      "end_sec": 219.45
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "そうだもん。焼きたてが柔らかいのは、列がほどけてるからだもん。",
+      "news_index": 2,
+      "start_sec": 219.6,
+      "end_sec": 223.74
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ老化は……。",
+      "news_index": 2,
+      "start_sec": 223.89,
+      "end_sec": 224.91
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "わかったのだ! 冷めると、ほどけた列がまた並び直しちゃうのだ!",
+      "news_index": 2,
+      "start_sec": 224.99,
+      "end_sec": 229.12
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "hazukashi",
+      "text": "……先に言わないでほしいもん。",
+      "news_index": 2,
+      "start_sec": 229.27,
+      "end_sec": 231.23
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "まあ、そういうことだもん。ほどけたでんぷんが、時間をかけてまた整列して、小さな結晶になるんだもん。",
+      "news_index": 2,
+      "start_sec": 231.31,
+      "end_sec": 238.14
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ふふん、今日はボクの勝ちなのだ。",
+      "news_index": 2,
+      "start_sec": 238.29,
+      "end_sec": 240.86
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "まだ1問目だもん。ここからが本番なんだもん。",
+      "news_index": 2,
+      "start_sec": 241.01,
+      "end_sec": 243.96
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも、並び直したらなんで固くなるのだ? 結局、水が出ていくからなのだ?",
+      "news_index": 2,
+      "start_sec": 244.11,
+      "end_sec": 249.65
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "半分正解で、半分違うもん。水はパンの外には出ていかないんだもん。",
+      "news_index": 2,
+      "start_sec": 249.8,
+      "end_sec": 254.7
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "じゃあ、水はどこに行っちゃうのだ?",
+      "news_index": 2,
+      "start_sec": 254.85,
+      "end_sec": 257.41
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "有力な説では、でんぷんの結晶の中に取りこまれて、パンの中で居場所を変えるんだもん。",
+      "news_index": 2,
+      "start_sec": 257.56,
+      "end_sec": 263.08
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、結晶が水を抱えこむのだ?",
+      "news_index": 2,
+      "start_sec": 263.23,
+      "end_sec": 265.99
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "パンには、でんぷんのほかにグルテンっていう、もちもちの網があるもん。",
+      "news_index": 2,
+      "start_sec": 266.14,
+      "end_sec": 270.39
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "グルテンって何なのだ?",
+      "news_index": 2,
+      "start_sec": 270.54,
+      "end_sec": 272.26
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "小麦のたんぱく質が、水とこねられてできるゴムみたいな網だもん。パンのふくらみを支える骨組みだもん。",
+      "news_index": 2,
+      "start_sec": 272.41,
+      "end_sec": 278.81
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "骨組みなのだ。テントの骨みたいなものなのだ。",
+      "news_index": 2,
+      "start_sec": 278.96,
+      "end_sec": 282.01
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "その骨組みを柔らかくしてた水が、でんぷんの結晶の方に移っちゃうんだもん。",
+      "news_index": 2,
+      "start_sec": 282.16,
+      "end_sec": 287.16
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "網から水を取られちゃうのだ?",
+      "news_index": 2,
+      "start_sec": 287.31,
+      "end_sec": 289.78
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "結晶はかっちり固いし、網は水が減って硬くなるんだもん。パン全体の水は同じなのに、固く感じるんだもん。",
+      "news_index": 2,
+      "start_sec": 289.93,
+      "end_sec": 297.29
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "水が逃げたんじゃなくて、パンの中でお引っ越ししただけなのだ!",
+      "news_index": 2,
+      "start_sec": 297.44,
+      "end_sec": 301.29
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "要するに、乾燥だけじゃなくて「水の席替え」が大きいんだもん。",
+      "news_index": 2,
+      "start_sec": 301.44,
+      "end_sec": 306.07
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "ただ、固くなる仕組みの細かいところは、いまも研究者の間で諸説あるんだもん。",
+      "news_index": 2,
+      "start_sec": 306.15,
+      "end_sec": 311.35
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "こんなに身近なパンなのに、まだ全部はわかってないのだ?",
+      "news_index": 2,
+      "start_sec": 311.5,
+      "end_sec": 315.56
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "nagomi",
+      "text": "そうだもん。でんぷんの結晶化が中心、っていうところまでは、だいたい意見がそろってるんだもん。",
+      "news_index": 2,
+      "start_sec": 315.71,
+      "end_sec": 322.1
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "並び直すのって、どれくらいかかるのだ? 一瞬なのだ?",
+      "news_index": 2,
+      "start_sec": 322.25,
+      "end_sec": 326.34
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "でんぷんには2種類あって、速さがちがうんだもん。アミロースとアミロペクチンだもん。",
+      "news_index": 2,
+      "start_sec": 326.49,
+      "end_sec": 331.63
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "呪文なのだ! ボクの頭がパンクするのだ。",
+      "news_index": 2,
+      "start_sec": 331.78,
+      "end_sec": 334.58
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "nagomi",
+      "text": "噛み砕くもん。アミロースはまっすぐな1本のひも、アミロペクチンは枝がたくさんある、ほうきみたいな形だもん。",
+      "news_index": 2,
+      "start_sec": 334.73,
+      "end_sec": 341.76
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ひもと、ほうきなのだ。それならわかるのだ。",
+      "news_index": 2,
+      "start_sec": 341.91,
+      "end_sec": 344.73
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "まっすぐなひもは並びやすいから、焼いたパンが冷めていく間にさっさと固まるんだもん。冷めたばかりのパンの、最初のかたさになるもん。",
+      "news_index": 2,
+      "start_sec": 344.88,
+      "end_sec": 352.93
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、ほうきの方は?",
+      "news_index": 2,
+      "start_sec": 353.08,
+      "end_sec": 354.93
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "ほうきは枝がじゃまで、なかなか並べないんだもん。何日もかけて、ゆっくり結晶になるんだもん。",
+      "news_index": 2,
+      "start_sec": 355.08,
+      "end_sec": 361.03
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "次の日、その次の日って固くなっていくのは、ほうき組のしわざなのだ!",
+      "news_index": 2,
+      "start_sec": 361.18,
+      "end_sec": 365.84
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "そうだもん。日がたつにつれて固くなる主役は、アミロペクチンだもん。",
+      "news_index": 2,
+      "start_sec": 365.99,
+      "end_sec": 370.35
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "なら、冷蔵庫に入れれば遅くなるのだ。食べ物は冷やすと長持ちなのだ。",
+      "news_index": 2,
+      "start_sec": 370.5,
+      "end_sec": 375.9
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "それが落とし穴なんだもん。",
+      "news_index": 2,
+      "start_sec": 376.05,
+      "end_sec": 377.65
+    },
+    {
+      "index": 84,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、まさかなのだ。",
+      "news_index": 2,
+      "start_sec": 377.8,
+      "end_sec": 379.37
+    },
+    {
+      "index": 85,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "パンを、マイナス18℃と、4℃と、25℃で保存して比べた研究があるんだもん。",
+      "news_index": 2,
+      "start_sec": 379.52,
+      "end_sec": 385.75
+    },
+    {
+      "index": 86,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "でんぷんの老化がいちばん速かったのは、冷蔵庫と同じくらいの4℃だったんだもん。",
+      "news_index": 2,
+      "start_sec": 385.83,
+      "end_sec": 390.72
+    },
+    {
+      "index": 87,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "冷蔵庫が一番ダメなのだ!? ボク、パンを冷蔵庫に入れて守ってるつもりだったのだ。",
+      "news_index": 2,
+      "start_sec": 390.87,
+      "end_sec": 397.94
+    },
+    {
+      "index": 88,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "冷蔵庫くらいの冷たさは、でんぷんが並び直しやすい温度なんだもん。",
+      "news_index": 2,
+      "start_sec": 398.09,
+      "end_sec": 402.57
+    },
+    {
+      "index": 89,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、もっと冷たい冷凍庫ならどうなのだ?",
+      "news_index": 2,
+      "start_sec": 402.72,
+      "end_sec": 405.97
+    },
+    {
+      "index": 90,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "凍らせると、でんぷんも水も動けなくなって、老化はほとんど進まないもん。",
+      "news_index": 2,
+      "start_sec": 406.12,
+      "end_sec": 410.9
+    },
+    {
+      "index": 91,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "冷蔵庫はダメで、冷凍庫はいいのだ。逆だと思ってたのだ。",
+      "news_index": 2,
+      "start_sec": 411.05,
+      "end_sec": 415.75
+    },
+    {
+      "index": 92,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "要するに、パンにとって冷蔵庫は「固くなる特急」なんだもん。",
+      "news_index": 2,
+      "start_sec": 415.9,
+      "end_sec": 420.17
+    },
+    {
+      "index": 93,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも最初の話で、温めたら戻ったのだ。あれはなんでなのだ?",
+      "news_index": 3,
+      "start_sec": 420.32,
+      "end_sec": 424.84
+    },
+    {
+      "index": 94,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "わかったのだ。温めると、湯気で水分が戻るからなのだ!",
+      "news_index": 3,
+      "start_sec": 424.92,
+      "end_sec": 429.45
+    },
+    {
+      "index": 95,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "それだけじゃないもん。閉じ込めたまま温めたから、水は1滴も足してないんだもん。",
+      "news_index": 3,
+      "start_sec": 429.6,
+      "end_sec": 434.43
+    },
+    {
+      "index": 96,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "あ、そうだったのだ。じゃあ何なのだ?",
+      "news_index": 3,
+      "start_sec": 434.58,
+      "end_sec": 437.27
+    },
+    {
+      "index": 97,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "熱で、並び直したでんぷんの結晶が、またほどけるんだもん。だいたい60℃くらいまで温めると戻るんだもん。",
+      "news_index": 3,
+      "start_sec": 437.42,
+      "end_sec": 444.77
+    },
+    {
+      "index": 98,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "トースターで温めると、ふわっとするのはそのせいなのだ。",
+      "news_index": 3,
+      "start_sec": 444.92,
+      "end_sec": 449.0
+    },
+    {
+      "index": 99,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "shirake",
+      "text": "ただし、冷めたらまた並び直すもん。温めたら、熱いうちに食べるのが正解だもん。",
+      "news_index": 3,
+      "start_sec": 449.15,
+      "end_sec": 456.58
+    },
+    {
+      "index": 100,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "復活はひとときだけなのだ……はかないのだ。",
+      "news_index": 3,
+      "start_sec": 456.73,
+      "end_sec": 460.4
+    },
+    {
+      "index": 101,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "それに、何日もたった古いパンは、温めても元通りにはならないんだもん。",
+      "news_index": 3,
+      "start_sec": 460.55,
+      "end_sec": 465.43
+    },
+    {
+      "index": 102,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "外側の皮は逆に、次の日しなしなになるのだ。あれも老化なのだ?",
+      "news_index": 3,
+      "start_sec": 465.58,
+      "end_sec": 470.49
+    },
+    {
+      "index": 103,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "あれは別の話だもん。中身の水が、乾いた皮の方へ移って、パリパリが消えるんだもん。",
+      "news_index": 3,
+      "start_sec": 470.64,
+      "end_sec": 476.64
+    },
+    {
+      "index": 104,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "だからフランスパンの皮は、だんだんゴムみたいに噛みにくくなるんだもん。",
+      "news_index": 3,
+      "start_sec": 476.72,
+      "end_sec": 480.9
+    },
+    {
+      "index": 105,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "中身は固く、皮は柔らかく。パンの中で、みんな逆に動いてるのだ!",
+      "news_index": 3,
+      "start_sec": 481.05,
+      "end_sec": 486.02
+    },
+    {
+      "index": 106,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "nagomi",
+      "text": "そういうことだもん。それに、でんぷんの老化はパンだけの話じゃないもん。",
+      "news_index": 3,
+      "start_sec": 486.17,
+      "end_sec": 490.92
+    },
+    {
+      "index": 107,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "他にもあるのだ?",
+      "news_index": 3,
+      "start_sec": 491.07,
+      "end_sec": 492.5
+    },
+    {
+      "index": 108,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "冷やご飯が固くなるのも、お餅がカチカチになるのも、同じでんぷんの老化だもん。",
+      "news_index": 3,
+      "start_sec": 492.65,
+      "end_sec": 497.58
+    },
+    {
+      "index": 109,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "お餅もなのだ! ボクの仲間のずんだ餅も危ないのだ!",
+      "news_index": 3,
+      "start_sec": 497.73,
+      "end_sec": 501.2
+    },
+    {
+      "index": 110,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "heart",
+      "text": "お餅にはあんこをのせて、すぐ食べるのが一番だもん。",
+      "news_index": 3,
+      "start_sec": 501.35,
+      "end_sec": 504.6
+    },
+    {
+      "index": 111,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shirake",
+      "text": "いま、あんこの話をしたかっただけなのだ。",
+      "news_index": 3,
+      "start_sec": 504.75,
+      "end_sec": 507.65
+    },
+    {
+      "index": 112,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "餅のお米は、でんぷんのほとんどがほうき形のアミロペクチンだもん。それでも日がたつと固くなるんだもん。",
+      "news_index": 3,
+      "start_sec": 507.8,
+      "end_sec": 514.0
+    },
+    {
+      "index": 113,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも、柔らかいままの和菓子もあるのだ。ぎゅうひとか。",
+      "news_index": 3,
+      "start_sec": 514.15,
+      "end_sec": 517.87
+    },
+    {
+      "index": 114,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "ぎゅうひには砂糖がたっぷり入ってるもん。砂糖が水をつかまえて、でんぷんが並び直すのをじゃまするんだもん。",
+      "news_index": 3,
+      "start_sec": 518.02,
+      "end_sec": 524.66
+    },
+    {
+      "index": 115,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "砂糖が、でんぷんの整列を邪魔してるのだ。",
+      "news_index": 3,
+      "start_sec": 524.81,
+      "end_sec": 528.17
+    },
+    {
+      "index": 116,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "それに、枝の短いアミロペクチンを持つ品種で、固くなりにくい餅を作る研究もあるんだもん。",
+      "news_index": 3,
+      "start_sec": 528.32,
+      "end_sec": 534.47
+    },
+    {
+      "index": 117,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "お米の形から変えちゃうのだ。すごいのだ。",
+      "news_index": 3,
+      "start_sec": 534.62,
+      "end_sec": 537.65
+    },
+    {
+      "index": 118,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "逆に、非常食のアルファ米ってあるのだ。あれは何なのだ?",
+      "news_index": 3,
+      "start_sec": 537.73,
+      "end_sec": 541.98
+    },
+    {
+      "index": 119,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "いいところに気づいたもん。炊いてほどけたお米を、並び直す前に急いで乾かしたものだもん。",
+      "news_index": 3,
+      "start_sec": 542.13,
+      "end_sec": 547.68
+    },
+    {
+      "index": 120,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "ほどけた形のまま水だけ抜いてあるから、お湯や水を注げば食べられるんだもん。",
+      "news_index": 3,
+      "start_sec": 547.76,
+      "end_sec": 552.52
+    },
+    {
+      "index": 121,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "ほどけた瞬間を、乾かして閉じ込めてるのだ! 時間を止めてるみたいなのだ。",
+      "news_index": 3,
+      "start_sec": 552.67,
+      "end_sec": 558.85
+    },
+    {
+      "index": 122,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "要するに、でんぷんは「ほどける」と「並び直す」の行ったり来たりで、固さが決まってるんだもん。",
+      "news_index": 3,
+      "start_sec": 559.0,
+      "end_sec": 565.39
+    },
+    {
+      "index": 123,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "パンが固くなるのは乾いたからだけじゃなくて、でんぷんが並び直すのが大きかったのだ。",
+      "news_index": 0,
+      "start_sec": 565.54,
+      "end_sec": 570.92
+    },
+    {
+      "index": 124,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "nagomi",
+      "text": "あんこもんは、食べきれないパンはすぐ冷凍してるもん。",
+      "news_index": 0,
+      "start_sec": 571.07,
+      "end_sec": 574.36
+    },
+    {
+      "index": 125,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "今日はボクが先に答えを当てたのだ。引き分けなのだ。",
+      "news_index": 0,
+      "start_sec": 574.51,
+      "end_sec": 578.33
+    },
+    {
+      "index": 126,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "hazukashi",
+      "text": "……1回だけだもん。次こそずんだもんに負けを認めさせるもん。",
+      "news_index": 0,
+      "start_sec": 578.48,
+      "end_sec": 582.7
+    },
+    {
+      "index": 127,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "mic",
+      "text": "聴いてくれてるかた、ありがとうだもん。旅の道ラジオ、雑学チャンネルでした。",
+      "news_index": 0,
+      "start_sec": 582.78,
+      "end_sec": 587.91
+    },
+    {
+      "index": 128,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "またなのだ!",
+      "news_index": 0,
+      "start_sec": 588.06,
+      "end_sec": 588.97
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 589.67,
+      "end_sec": 597.97
+    }
+  ],
+  "wall_time_sec": 10.16,
+  "audio_url": "/audio/zatsugaku/20261109_023426.mp3?v=1794159540"
+}

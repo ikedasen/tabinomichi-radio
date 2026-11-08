@@ -7,8 +7,8 @@
     <description>ずんだもん × めたん × つむぎが届ける、ゲーム &amp; テックニュース雑談ラジオ。朝便と夜便で毎日更新、レトロから新作まで、最新 AI 動向から業界マクロまで雑談形式でサクッと。</description>
     <language>ja</language>
     <copyright>© 2026 tabinomichi</copyright>
-    <lastBuildDate>Sun, 08 Nov 2026 17:22:10 +0900</lastBuildDate>
-    <pubDate>Sun, 08 Nov 2026 17:05:28 +0900</pubDate>
+    <lastBuildDate>Mon, 09 Nov 2026 02:39:01 +0900</lastBuildDate>
+    <pubDate>Mon, 09 Nov 2026 02:34:26 +0900</pubDate>
     <generator>build_rss_feed.py (tabinomichi radio)</generator>
     <image>
       <url>https://news.tabinomichi.jp/podcast-cover.png?v=1779005902</url>
@@ -29,6 +29,21 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>パンが固くなるのは乾燥だけのせいではない 〜袋に閉じ込めても進む、でんぷんの並び直し〜</title>
+      <link>https://news.tabinomichi.jp/radio/20261109_023426</link>
+      <guid isPermaLink="false">tabinomichi-radio-20261109_023426</guid>
+      <pubDate>Mon, 09 Nov 2026 02:34:26 +0900</pubDate>
+      <description>パンが次の日に固くなるのは水分が飛んで乾くから、と思われがち。問いのパートでは、1,852年にフランスの化学者ブサンゴーが、水が逃げない入れ物に閉じ込めたパンでも固くなり、温めると柔らかく戻ることを何度もくり返せたと示した話から、乾燥説の矛盾を立てた。解説では、焼くとほどけて水を抱えたでんぷんが、冷めると再び整列して結晶になる老化の仕組みを、まっすぐなアミロースと枝分かれしたアミロペクチンの速さの違い、水がグルテンから結晶へ移る有力説(細部は諸説あり)、4℃で老化が最も速かった保存実験と冷凍で止まる話で掘り下げた。広がりでは、温め直しで結晶がほどける理由、皮がしなしなになる水の移動、冷やご飯や餅の硬化、砂糖の多いぎゅうひ、炊いてすぐ乾かすアルファ米まで話を広げた。</description>
+      <content:encoded><![CDATA[パンが次の日に固くなるのは水分が飛んで乾くから、と思われがち。問いのパートでは、1,852年にフランスの化学者ブサンゴーが、水が逃げない入れ物に閉じ込めたパンでも固くなり、温めると柔らかく戻ることを何度もくり返せたと示した話から、乾燥説の矛盾を立てた。解説では、焼くとほどけて水を抱えたでんぷんが、冷めると再び整列して結晶になる老化の仕組みを、まっすぐなアミロースと枝分かれしたアミロペクチンの速さの違い、水がグルテンから結晶へ移る有力説(細部は諸説あり)、4℃で老化が最も速かった保存実験と冷凍で止まる話で掘り下げた。広がりでは、温め直しで結晶がほどける理由、皮がしなしなになる水の移動、冷やご飯や餅の硬化、砂糖の多いぎゅうひ、炊いてすぐ乾かすアルファ米まで話を広げた。]]></content:encoded>
+      <enclosure url="https://news.tabinomichi.jp/audio/zatsugaku/20261109_023426.mp3?v=1794159540" length="9568800" type="audio/mpeg"/>
+      <itunes:title>パンが固くなるのは乾燥だけのせいではない 〜袋に閉じ込めても進む、でんぷんの並び直し〜</itunes:title>
+      <itunes:summary>パンが次の日に固くなるのは水分が飛んで乾くから、と思われがち。問いのパートでは、1,852年にフランスの化学者ブサンゴーが、水が逃げない入れ物に閉じ込めたパンでも固くなり、温めると柔らかく戻ることを何度もくり返せたと示した話から、乾燥説の矛盾を立てた。解説では、焼くとほどけて水を抱えたでんぷんが、冷めると再び整列して結晶になる老化の仕組みを、まっすぐなアミロースと枝分かれしたアミロペクチンの速さの違い、水がグルテンから結晶へ移る有力説(細部は諸説あり)、4℃で老化が最も速かった保存実験と冷凍で止まる話で掘り下げた。広がりでは、温め直しで結晶がほどける理由、皮がしなしなになる水の移動、冷やご飯や餅の硬化、砂糖の多いぎゅうひ、炊いてすぐ乾かすアルファ米まで話を広げた。</itunes:summary>
+      <itunes:image href="https://news.tabinomichi.jp/images/og/20261109_023426.jpg"/>
+      <itunes:duration>9:57</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Anthropicが株安の嵐でも上場へ突き進む 〜感謝祭前、最大1,000億ドル調達の値札勝負〜</title>
       <link>https://news.tabinomichi.jp/radio/20261108_170528</link>
@@ -1511,21 +1526,6 @@
       <itunes:summary>木はポンプも無いのに、なぜ100メートル以上の高さまで水を届けられるのかを掘り下げた回。【問い】では、ストローやポンプで吸い上げられるのは10メートルほどが限界だという話から、毛細管現象と根圧という2つのよくある答えを検討し、どちらも高い木の説明には足りないことを確かめた。【解説】では、葉っぱから水が蒸発すると、水分子どうしのつながりで下の水が引っ張られるという凝集力説を紹介。枝を圧力の容器に入れて引っ張りの強さを測る方法や、110メートルを超えるセコイアの枝で測った数字、泡が入ると水の柱が切れる弱点と、それを聞き取ったレコード針の実験、針葉樹の弁のしくみも取り上げた。【広がり】では、高さの限界が122から130メートルと見積もられている話、てっぺんの葉っぱが小さく硬くなる理由、霧の水の役割、世界一高い木ハイペリオンを紹介した。</itunes:summary>
       <itunes:image href="https://news.tabinomichi.jp/images/og/20260916_210422.jpg"/>
       <itunes:duration>13:37</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>ハンドルを手放す朝 〜無人のタクシーと、木目のパソコン〜</title>
-      <link>https://news.tabinomichi.jp/radio/20260916_051520</link>
-      <guid isPermaLink="false">tabinomichi-radio-20260916_051520</guid>
-      <pubDate>Wed, 16 Sep 2026 05:15:20 +0900</pubDate>
-      <description>旅の道ラジオ朝便のテックニュース回。一本目は、ゴーと日本交通とウェイモが合意した、東京の無人タクシー計画。2027年のうちに約100台を少しずつ走らせる話を、ずんだもんの忘れ物の心配と一緒に噛み砕きます。二本目はメタの有料プラン、メタ ワン。SNSのAIが無料のおまけから、お金を払う商品へ変わり始めた流れを追います。三本目はヤマハの自動耳コピアプリで、曲を読み込むと約3分でピアノの楽譜ができる話。四本目はイーロン・マスクさんが語ったグロックの今後と、エージーアイ宣言の受け止め方。ラストは、ギガバイトが発表した木目調のデスクトップパソコンと、その67万円の値札。通勤や通学の合間に気軽に聴ける回です。</description>
-      <content:encoded><![CDATA[旅の道ラジオ朝便のテックニュース回。一本目は、ゴーと日本交通とウェイモが合意した、東京の無人タクシー計画。2027年のうちに約100台を少しずつ走らせる話を、ずんだもんの忘れ物の心配と一緒に噛み砕きます。二本目はメタの有料プラン、メタ ワン。SNSのAIが無料のおまけから、お金を払う商品へ変わり始めた流れを追います。三本目はヤマハの自動耳コピアプリで、曲を読み込むと約3分でピアノの楽譜ができる話。四本目はイーロン・マスクさんが語ったグロックの今後と、エージーアイ宣言の受け止め方。ラストは、ギガバイトが発表した木目調のデスクトップパソコンと、その67万円の値札。通勤や通学の合間に気軽に聴ける回です。]]></content:encoded>
-      <enclosure url="https://news.tabinomichi.jp/audio/ai/20260916_051520.mp3?v=1789503991" length="7148398" type="audio/mpeg"/>
-      <itunes:title>ハンドルを手放す朝 〜無人のタクシーと、木目のパソコン〜</itunes:title>
-      <itunes:summary>旅の道ラジオ朝便のテックニュース回。一本目は、ゴーと日本交通とウェイモが合意した、東京の無人タクシー計画。2027年のうちに約100台を少しずつ走らせる話を、ずんだもんの忘れ物の心配と一緒に噛み砕きます。二本目はメタの有料プラン、メタ ワン。SNSのAIが無料のおまけから、お金を払う商品へ変わり始めた流れを追います。三本目はヤマハの自動耳コピアプリで、曲を読み込むと約3分でピアノの楽譜ができる話。四本目はイーロン・マスクさんが語ったグロックの今後と、エージーアイ宣言の受け止め方。ラストは、ギガバイトが発表した木目調のデスクトップパソコンと、その67万円の値札。通勤や通学の合間に気軽に聴ける回です。</itunes:summary>
-      <itunes:image href="https://news.tabinomichi.jp/images/og/20260916_051520.jpg"/>
-      <itunes:duration>7:26</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
