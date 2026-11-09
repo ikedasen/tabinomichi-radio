@@ -1,0 +1,486 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-11-09T20:05:38.449432+00:00",
+  "title": "金庫の神話と値上がる画面 〜同じ日に出た二つの新AIと、百回直してもにじまない絵〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "welcome",
+      "text": "おはようございます、旅の道ラジオ朝便。四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝もテックの話題を、通学のお供にサクッといくのだ!",
+      "news_index": 0,
+      "reading": "ボク、ずんだもんなのだー!けさもテックのわだいを、つうがくのおともにサクッといくのだ!"
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今朝は四本。新しいAIが二つに、画像を直すAI、それとお財布にひびくモニターの話ね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "モニターって、パソコンの画面だっけ? AIの話に混ざってていいのだ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "AIとは別の話だけど、テック機器のお財布事情として最後に見ていくわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "伏線回収の朝なのだ! じゃあ一本目、いってみよー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。アンソロピックが十一月九日に、クロード フェイブル ゴーテンニと、クロード ミトス ゴーテンニを同時に出したの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "フェイブルとミトス? 図書館の絵本コーナーにありそうな名前なのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いい線よ、フェイブルは寓話、ミトスは神話って意味。どっちも、クロードっていうAIの一番上のクラスの名前ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "双子なのに、なんで二つに分けてるのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "頭脳は同じ系統なの。フェイブルは誰でも使える一般向けで、ミトスは審査を通った生命科学やサイバー防御の組織だけの限定版よ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "限定版!? ゲームの初回特典みたいに、徹夜で並ぶやつなのだ!?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "並んでも無理よ。強すぎて悪用されると困るから、鍵付きの金庫にしまってあるの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、じゃあ一般向けのフェイブルは、危ない質問だけ断る見張り付きってことなのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "正解。今回はその見張りが、間違えて断っちゃう回数を、前の版より五割ちょっと減らしたって。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "普通の質問で門前払いされにくくなったのだ。地味にうれしいやつなのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "あとはお値段。AIを自分のアプリに組み込む開発者向けの料金が、二割下がったわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "新しくなって値下げ? 新作なのにセール品、お得感やばっ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "返事も最大で三割速くなったって。目玉の自慢話は、千体のフェイブルを一緒に働かせて、フェルマーの最終定理の証明を、三十時間で機械がチェックできる形に書き直したって話よ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "フェルマー!? 数学の本の、一番難しいページに出てくるやつなのだ!?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そう、人間が三百年以上かけて解いた難問よ。ただ、これは会社自身の発表だから、外からの検証待ちってことは覚えておいて。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、ボクたちの毎日には何が変わるのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに、AIを使ったアプリが少し安く速くなって、変な断られ方が減る方向ってこと。最初に実感するのは、AIで仕事をしてる人たちね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "神話は金庫に、寓話はみんなのポケットに、なのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目もAIの新顔。メタが同じ十一月九日に、ミューズ エンバーっていう小さいAIを出したの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "また同じ日だよ。AIの会社って、遠足の日をみんなで合わせてるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "遠足じゃなくて、同じ日に発表が重なったのよ。エンバーは、メタのミューズっていうシリーズで一番小さくて、燃費のいいモデルなの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "小さいAIって、つまり弱いAIってこと?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこがミソね。狙いはエージェント、ようは人の代わりに作業を進めるAIの、毎日の繰り返し作業なの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "繰り返し作業って、たとえばどんなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "道具を順番に呼び出したり、プログラムのテストを回して小さな直しを入れたりね。毎回でっかいAIを呼ぶと、お金も時間もかかるでしょ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、近所のコンビニに行くのに、リムジンは呼ばないってことなのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今の一言が正解。計画は大きいミューズ ワンダーが立てて、手を動かすのはエンバー、っていう分業ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "監督と選手、みたいな関係なのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "メタの言い分では、アンソロピックの小型モデルと同じくらいの賢さで、一回の作業代は約三分の一だって。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "三分の一!? 同じお小遣いで、おやつが三倍買える計算なのだ!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "おやつで換算しないの。それに、これはメタの自己申告で、中身も配ってないから自分のパソコンでは動かせないわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、ボクの生活とはどうつながるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "アプリの裏で動くAIが、安い小型に置き換わっていく流れね。私の見立てだけど、AIのおまけ機能が値上げなしで増えやすくなる方向よ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "小さい火でも、毎日コツコツ燃えるのだ。エンバーって、燃えさしって意味だっけ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "よく知ってるじゃない。次いくわよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目は画像のAI。ティックトックの親会社バイトダンスが、シードリーム ゴーテンゴを出したの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "シードリーム? 種の夢? 植木鉢で育てるゲームなのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "水やりは要らないわ。文字で頼むと絵を描いたり、写真を直したりしてくれるAIよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "そういうの、もういっぱいあるのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "売りは直しの安定感なの。画像のAIって、ここだけ直してって何度も頼むと、だんだん色がくすんで別物になりがちなのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、コピーのコピーを取り続けると、文字がにじんでくるやつなのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いい例えね。シードリームは、触ってない部分を百回の直しまでほぼそのまま保つって、会社が言ってるの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "百回!? ボクなら三回目で、最初の絵がどれか分からなくなるのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "あと、背景が透明な画像もそのまま作れるって。切り抜きの手間が要らないわけ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "透明な背景って、どこで使うのだ?",
+      "news_index": 3,
+      "reading": "とうめいなはいけいって、どこでつかうのだ?、どこでつかうのだ?"
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "チラシやスライドに、キャラや商品だけ貼りたい時ね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "文化祭のポスター係が、泣いて喜ぶやつなのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ただ、まずは中国のアプリから順に配る段階。百回の話も自己申告だから、本当に使えるかは現場の声待ちね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、ボクたちにはどう関係あるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに、AIが絵を描く係から、絵を直す係にも近づいてるって話。ちょっとした画像の手直しが、専門ソフトなしで済む日も近いかもね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "コピーのコピーでも、にじまない時代なのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ラスト四本目はお財布の話。メモリに続いて、パソコンのモニターにも値上げが広がってるの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? ボク、ゲーム用のモニター狙ってたのに!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ニュースサイトのアイティーメディアが各社に聞いたら、アイオーデータは十月一日に、液晶ディスプレイなど32の型番を値上げしてたわ。モニターの上がり幅は4.4%から15.4%ね。",
+      "news_index": 4,
+      "reading": "ニュースサイトのあいてぃめでぃあがかくしゃにきいたら、アイオーデータはじゅうがつついたちに、えきしょうディスプレイなど32のかたばんをねあげしてたわ。モニターのあがりはばは4.4%からじゅうごてんよんぱーせんとね。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "15%って、三万円のモニターだと、四千円以上も上がるってこと?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "計算は合ってるわ。それにエイゾーも、十二月以降に会社向けと個人向けの一部を上げる予定だって。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "なんで画面まで高くなるのだ? 液晶って、AIとは関係ないのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこで、値上げ理由の一つに挙がった部品の話よ。モニターの中には、スケーラーっていう半導体が入ってて、ようは届いた映像を画面の大きさに合わせて描き直す係ね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、その半導体まで高くなってるってことなのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "アイオーデータでは、主な原因はそのスケーラーICなどの半導体部品で、メモリや基板、電源の部品も上がり続けてるって。ほかに原材料や輸送費、燃料費の上昇も挙げているわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "AIが、ボクの画面のごはんまで横取りしに来たのだ!?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "そこまで直接の話じゃないわ。今回挙がったのは、部品や原材料、輸送費などの上昇よ。ほかにも、名前は伏せて値上げを検討中ってメーカーがあるそうよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、今すぐ買っちゃった方がいいのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "今のところ、駆け込みで売り場が混んでる様子はないみたい。要するに、値上げの動きはあるけど、対象の製品や時期を確かめて、慌てず比べるのがよさそうね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "AIだけじゃなく、画面のお財布事情まで分かったのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで、今朝のテックは四本だったわ。",
+      "news_index": 0,
+      "reading": "というわけで、けさのテックはよんほんだったわ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "金庫の神話と、現場係のエンバー、百回直してもにじまない絵、それに値上がりする画面なのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "きれいにまとめたわね。気になった話があったら、各社の発表をのぞいてみて。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ボクはモニターのお値段、こっそりメモしておくのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "聴いてくれてるかた、いってらっしゃい。また明日のテック朝便で。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "いってらっしゃいなのだー!",
+      "news_index": 0
+    }
+  ],
+  "program_description": "今朝のテック朝便は四本立て。アンソロピックが一般向けのクロード フェイブル 5.2 と限定版のミトス 5.2 を同時に出し、値下げと速度アップ、間違った門前払いの減少をアピールした話。同じ日にメタが出した小型AI、ミューズ エンバーと、大きいAIが計画して小さいAIが手を動かす分業の流れ。バイトダンスの画像AI、シードリーム 5.5 が掲げる、百回直しても色がくすまない編集と透明背景の素材づくり。そして最後は、アイオーデータやエイゾーに広がるモニターの値上げと、その裏にいる映像用の半導体。新しいAIの顔ぶれとお財布の話を、通勤・通学の合間に気軽に聴ける回です。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20261110_050538_chars.webp",
+    "hero_rel": "/images/topics/tech_20261110_050538.webp",
+    "title": "金庫の神話と値上がる画面 〜同じ日に出た二つの新AIと、百回直してもにじまない絵〜",
+    "companies": [
+      "Claude",
+      "Meta"
+    ],
+    "thumbnail_ready": true
+  },
+  "summary_short": "アンソロピックが新AI二種を同時公開し、メタも小型AIで分業を披露。バイトダンスの画像AIは百回直しても色がにじまず、モニター値上げの裏には映像用半導体が。新AIとお財布事情をまとめて聴ける朝の四本立てです。",
+  "published_at": "2026-11-10T07:01:50+09:00"
+}

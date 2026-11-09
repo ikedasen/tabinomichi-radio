@@ -1,0 +1,796 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-11-10T05:05:38+09:00",
+  "title": "金庫の神話と値上がる画面 〜同じ日に出た二つの新AIと、百回直してもにじまない絵〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 463.18,
+  "script_hash": "sha256:3763fa434f4335ed4e7f0e3570250ac1f7795a88b8008daafd16a2a3028f05a7",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 6.34
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "welcome",
+      "text": "おはようございます、旅の道ラジオ朝便。四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 6.34,
+      "end_sec": 10.41
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝もテックの話題を、通学のお供にサクッといくのだ!",
+      "news_index": 0,
+      "start_sec": 10.56,
+      "end_sec": 16.0
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今朝は四本。新しいAIが二つに、画像を直すAI、それとお財布にひびくモニターの話ね。",
+      "news_index": 0,
+      "start_sec": 16.15,
+      "end_sec": 22.72
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "モニターって、パソコンの画面だっけ? AIの話に混ざってていいのだ?",
+      "news_index": 0,
+      "start_sec": 22.87,
+      "end_sec": 28.15
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "AIとは別の話だけど、テック機器のお財布事情として最後に見ていくわ。",
+      "news_index": 0,
+      "start_sec": 28.3,
+      "end_sec": 33.17
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "伏線回収の朝なのだ! じゃあ一本目、いってみよー!",
+      "news_index": 0,
+      "start_sec": 33.32,
+      "end_sec": 37.12
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。アンソロピックが十一月九日に、クロード フェイブル ゴーテンニと、クロード ミトス ゴーテンニを同時に出したの。",
+      "news_index": 1,
+      "start_sec": 37.27,
+      "end_sec": 44.47
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "フェイブルとミトス? 図書館の絵本コーナーにありそうな名前なのだ。",
+      "news_index": 1,
+      "start_sec": 44.62,
+      "end_sec": 49.07
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いい線よ、フェイブルは寓話、ミトスは神話って意味。どっちも、クロードっていうAIの一番上のクラスの名前ね。",
+      "news_index": 1,
+      "start_sec": 49.22,
+      "end_sec": 56.34
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "双子なのに、なんで二つに分けてるのだ?",
+      "news_index": 1,
+      "start_sec": 56.49,
+      "end_sec": 59.39
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "頭脳は同じ系統なの。フェイブルは誰でも使える一般向けで、ミトスは審査を通った生命科学やサイバー防御の組織だけの限定版よ。",
+      "news_index": 1,
+      "start_sec": 59.54,
+      "end_sec": 68.61
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "限定版!? ゲームの初回特典みたいに、徹夜で並ぶやつなのだ!?",
+      "news_index": 1,
+      "start_sec": 68.76,
+      "end_sec": 73.66
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "並んでも無理よ。強すぎて悪用されると困るから、鍵付きの金庫にしまってあるの。",
+      "news_index": 1,
+      "start_sec": 73.81,
+      "end_sec": 79.04
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、じゃあ一般向けのフェイブルは、危ない質問だけ断る見張り付きってことなのだ!",
+      "news_index": 1,
+      "start_sec": 79.19,
+      "end_sec": 84.77
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "正解。今回はその見張りが、間違えて断っちゃう回数を、前の版より五割ちょっと減らしたって。",
+      "news_index": 1,
+      "start_sec": 84.92,
+      "end_sec": 91.2
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "普通の質問で門前払いされにくくなったのだ。地味にうれしいやつなのだ。",
+      "news_index": 1,
+      "start_sec": 91.35,
+      "end_sec": 96.62
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "あとはお値段。AIを自分のアプリに組み込む開発者向けの料金が、二割下がったわ。",
+      "news_index": 1,
+      "start_sec": 96.77,
+      "end_sec": 102.42
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "新しくなって値下げ? 新作なのにセール品、お得感やばっ!",
+      "news_index": 1,
+      "start_sec": 102.57,
+      "end_sec": 107.46
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "返事も最大で三割速くなったって。目玉の自慢話は、千体のフェイブルを一緒に働かせて、フェルマーの最終定理の証明を、三十時間で機械がチェックできる形に書き直したって話よ。",
+      "news_index": 1,
+      "start_sec": 107.61,
+      "end_sec": 119.85
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "フェルマー!? 数学の本の、一番難しいページに出てくるやつなのだ!?",
+      "news_index": 1,
+      "start_sec": 120.0,
+      "end_sec": 124.9
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そう、人間が三百年以上かけて解いた難問よ。ただ、これは会社自身の発表だから、外からの検証待ちってことは覚えておいて。",
+      "news_index": 1,
+      "start_sec": 125.05,
+      "end_sec": 133.96
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、ボクたちの毎日には何が変わるのだ?",
+      "news_index": 1,
+      "start_sec": 134.11,
+      "end_sec": 137.29
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに、AIを使ったアプリが少し安く速くなって、変な断られ方が減る方向ってこと。最初に実感するのは、AIで仕事をしてる人たちね。",
+      "news_index": 1,
+      "start_sec": 137.44,
+      "end_sec": 147.27
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "神話は金庫に、寓話はみんなのポケットに、なのだ。",
+      "news_index": 1,
+      "start_sec": 147.42,
+      "end_sec": 151.22
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目もAIの新顔。メタが同じ十一月九日に、ミューズ エンバーっていう小さいAIを出したの。",
+      "news_index": 2,
+      "start_sec": 151.37,
+      "end_sec": 158.03
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "また同じ日だよ。AIの会社って、遠足の日をみんなで合わせてるのだ?",
+      "news_index": 2,
+      "start_sec": 158.18,
+      "end_sec": 164.01
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "遠足じゃなくて、同じ日に発表が重なったのよ。エンバーは、メタのミューズっていうシリーズで一番小さくて、燃費のいいモデルなの。",
+      "news_index": 2,
+      "start_sec": 164.16,
+      "end_sec": 172.1
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "小さいAIって、つまり弱いAIってこと?",
+      "news_index": 2,
+      "start_sec": 172.25,
+      "end_sec": 175.77
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこがミソね。狙いはエージェント、ようは人の代わりに作業を進めるAIの、毎日の繰り返し作業なの。",
+      "news_index": 2,
+      "start_sec": 175.92,
+      "end_sec": 183.13
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "繰り返し作業って、たとえばどんなのだ?",
+      "news_index": 2,
+      "start_sec": 183.28,
+      "end_sec": 186.12
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "道具を順番に呼び出したり、プログラムのテストを回して小さな直しを入れたりね。毎回でっかいAIを呼ぶと、お金も時間もかかるでしょ。",
+      "news_index": 2,
+      "start_sec": 186.27,
+      "end_sec": 194.63
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、近所のコンビニに行くのに、リムジンは呼ばないってことなのだ!",
+      "news_index": 2,
+      "start_sec": 194.78,
+      "end_sec": 199.17
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今の一言が正解。計画は大きいミューズ ワンダーが立てて、手を動かすのはエンバー、っていう分業ね。",
+      "news_index": 2,
+      "start_sec": 199.32,
+      "end_sec": 206.09
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "監督と選手、みたいな関係なのだ。",
+      "news_index": 2,
+      "start_sec": 206.24,
+      "end_sec": 208.99
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "メタの言い分では、アンソロピックの小型モデルと同じくらいの賢さで、一回の作業代は約三分の一だって。",
+      "news_index": 2,
+      "start_sec": 209.14,
+      "end_sec": 216.02
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "三分の一!? 同じお小遣いで、おやつが三倍買える計算なのだ!?",
+      "news_index": 2,
+      "start_sec": 216.17,
+      "end_sec": 221.08
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "おやつで換算しないの。それに、これはメタの自己申告で、中身も配ってないから自分のパソコンでは動かせないわ。",
+      "news_index": 2,
+      "start_sec": 221.23,
+      "end_sec": 228.26
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、ボクの生活とはどうつながるのだ?",
+      "news_index": 2,
+      "start_sec": 228.41,
+      "end_sec": 231.52
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "アプリの裏で動くAIが、安い小型に置き換わっていく流れね。私の見立てだけど、AIのおまけ機能が値上げなしで増えやすくなる方向よ。",
+      "news_index": 2,
+      "start_sec": 231.67,
+      "end_sec": 240.94
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "小さい火でも、毎日コツコツ燃えるのだ。エンバーって、燃えさしって意味だっけ?",
+      "news_index": 2,
+      "start_sec": 241.09,
+      "end_sec": 246.43
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "よく知ってるじゃない。次いくわよ。",
+      "news_index": 2,
+      "start_sec": 246.58,
+      "end_sec": 248.87
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目は画像のAI。ティックトックの親会社バイトダンスが、シードリーム ゴーテンゴを出したの。",
+      "news_index": 3,
+      "start_sec": 248.95,
+      "end_sec": 254.75
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "シードリーム? 種の夢? 植木鉢で育てるゲームなのだ?",
+      "news_index": 3,
+      "start_sec": 254.9,
+      "end_sec": 259.44
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "水やりは要らないわ。文字で頼むと絵を描いたり、写真を直したりしてくれるAIよ。",
+      "news_index": 3,
+      "start_sec": 259.59,
+      "end_sec": 264.91
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "そういうの、もういっぱいあるのだ。",
+      "news_index": 3,
+      "start_sec": 265.06,
+      "end_sec": 267.53
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "売りは直しの安定感なの。画像のAIって、ここだけ直してって何度も頼むと、だんだん色がくすんで別物になりがちなのよ。",
+      "news_index": 3,
+      "start_sec": 267.68,
+      "end_sec": 275.91
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、コピーのコピーを取り続けると、文字がにじんでくるやつなのだ!",
+      "news_index": 3,
+      "start_sec": 276.06,
+      "end_sec": 280.49
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いい例えね。シードリームは、触ってない部分を百回の直しまでほぼそのまま保つって、会社が言ってるの。",
+      "news_index": 3,
+      "start_sec": 280.64,
+      "end_sec": 287.34
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "百回!? ボクなら三回目で、最初の絵がどれか分からなくなるのだ!",
+      "news_index": 3,
+      "start_sec": 287.49,
+      "end_sec": 292.07
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "あと、背景が透明な画像もそのまま作れるって。切り抜きの手間が要らないわけ。",
+      "news_index": 3,
+      "start_sec": 292.22,
+      "end_sec": 297.33
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "透明な背景って、どこで使うのだ?",
+      "news_index": 3,
+      "start_sec": 297.48,
+      "end_sec": 301.7
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "チラシやスライドに、キャラや商品だけ貼りたい時ね。",
+      "news_index": 3,
+      "start_sec": 301.85,
+      "end_sec": 305.01
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "文化祭のポスター係が、泣いて喜ぶやつなのだ!",
+      "news_index": 3,
+      "start_sec": 305.16,
+      "end_sec": 309.12
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ただ、まずは中国のアプリから順に配る段階。百回の話も自己申告だから、本当に使えるかは現場の声待ちね。",
+      "news_index": 3,
+      "start_sec": 309.27,
+      "end_sec": 317.47
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、ボクたちにはどう関係あるのだ?",
+      "news_index": 3,
+      "start_sec": 317.62,
+      "end_sec": 320.27
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに、AIが絵を描く係から、絵を直す係にも近づいてるって話。ちょっとした画像の手直しが、専門ソフトなしで済む日も近いかもね。",
+      "news_index": 3,
+      "start_sec": 320.42,
+      "end_sec": 329.37
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "コピーのコピーでも、にじまない時代なのだ。",
+      "news_index": 3,
+      "start_sec": 329.52,
+      "end_sec": 332.39
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ラスト四本目はお財布の話。メモリに続いて、パソコンのモニターにも値上げが広がってるの。",
+      "news_index": 4,
+      "start_sec": 332.54,
+      "end_sec": 338.38
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? ボク、ゲーム用のモニター狙ってたのに!",
+      "news_index": 4,
+      "start_sec": 338.53,
+      "end_sec": 341.81
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ニュースサイトのアイティーメディアが各社に聞いたら、アイオーデータは十月一日に、液晶ディスプレイなど32の型番を値上げしてたわ。モニターの上がり幅は4.4%から15.4%ね。",
+      "news_index": 4,
+      "start_sec": 341.96,
+      "end_sec": 354.12
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "15%って、三万円のモニターだと、四千円以上も上がるってこと?",
+      "news_index": 4,
+      "start_sec": 354.27,
+      "end_sec": 359.82
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "計算は合ってるわ。それにエイゾーも、十二月以降に会社向けと個人向けの一部を上げる予定だって。",
+      "news_index": 4,
+      "start_sec": 359.97,
+      "end_sec": 366.35
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "なんで画面まで高くなるのだ? 液晶って、AIとは関係ないのだ?",
+      "news_index": 4,
+      "start_sec": 366.5,
+      "end_sec": 371.64
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこで、値上げ理由の一つに挙がった部品の話よ。モニターの中には、スケーラーっていう半導体が入ってて、ようは届いた映像を画面の大きさに合わせて描き直す係ね。",
+      "news_index": 4,
+      "start_sec": 371.79,
+      "end_sec": 382.94
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、その半導体まで高くなってるってことなのだ!",
+      "news_index": 4,
+      "start_sec": 383.09,
+      "end_sec": 386.52
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "アイオーデータでは、主な原因はそのスケーラーICなどの半導体部品で、メモリや基板、電源の部品も上がり続けてるって。ほかに原材料や輸送費、燃料費の上昇も挙げているわ。",
+      "news_index": 4,
+      "start_sec": 386.67,
+      "end_sec": 398.41
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "AIが、ボクの画面のごはんまで横取りしに来たのだ!?",
+      "news_index": 4,
+      "start_sec": 398.56,
+      "end_sec": 402.27
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "そこまで直接の話じゃないわ。今回挙がったのは、部品や原材料、輸送費などの上昇よ。ほかにも、名前は伏せて値上げを検討中ってメーカーがあるそうよ。",
+      "news_index": 4,
+      "start_sec": 402.42,
+      "end_sec": 412.57
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、今すぐ買っちゃった方がいいのだ?",
+      "news_index": 4,
+      "start_sec": 412.72,
+      "end_sec": 415.74
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "今のところ、駆け込みで売り場が混んでる様子はないみたい。要するに、値上げの動きはあるけど、対象の製品や時期を確かめて、慌てず比べるのがよさそうね。",
+      "news_index": 4,
+      "start_sec": 415.89,
+      "end_sec": 426.11
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "AIだけじゃなく、画面のお財布事情まで分かったのだ。",
+      "news_index": 4,
+      "start_sec": 426.26,
+      "end_sec": 430.09
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで、今朝のテックは四本だったわ。",
+      "news_index": 0,
+      "start_sec": 430.24,
+      "end_sec": 433.0
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "金庫の神話と、現場係のエンバー、百回直してもにじまない絵、それに値上がりする画面なのだ!",
+      "news_index": 0,
+      "start_sec": 433.15,
+      "end_sec": 439.73
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "きれいにまとめたわね。気になった話があったら、各社の発表をのぞいてみて。",
+      "news_index": 0,
+      "start_sec": 439.88,
+      "end_sec": 444.6
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ボクはモニターのお値段、こっそりメモしておくのだ。",
+      "news_index": 0,
+      "start_sec": 444.75,
+      "end_sec": 448.37
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "聴いてくれてるかた、いってらっしゃい。また明日のテック朝便で。",
+      "news_index": 0,
+      "start_sec": 448.52,
+      "end_sec": 452.53
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "いってらっしゃいなのだー!",
+      "news_index": 0,
+      "start_sec": 452.68,
+      "end_sec": 454.18
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 454.88,
+      "end_sec": 463.18
+    }
+  ],
+  "wall_time_sec": 14.74,
+  "audio_url": "/audio/ai/20261110_050538.mp3?v=1794261776"
+}
