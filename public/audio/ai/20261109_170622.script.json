@@ -1,0 +1,707 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-11-09T08:06:22.229460+00:00",
+  "title": "NvidiaのCEOが中国スパイ工作の標的か、取締役会が独立調査へ 〜フアン氏の謝罪メモと、11月18日に要請された議会説明〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "intro",
+      "text": "こんばんは、旅の道ラジオ夜便。四国めたんよ。今夜はテックニュースの深掘り回ね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだ! 今夜は一本、がっつり掘るのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "今夜のテーマは、エヌビディアのトップ、ジェンスン・フアンさん。中国のスパイと疑われる人物との関係を本人が認めて、取締役会が独立調査を始めたの。",
+      "news_index": 0,
+      "reading": "こんやのテーマは、エヌビディアのトップ、ジェンスン・フアンさん。ちゅうごくのスパイとうたがわれるじんぶつとのかんけいをほんにんがみとめて、とりしまりやくかいがどくりつちょうさをはじめたの。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? エヌビディアって、AIの計算用チップでほぼ天下を取ってる、あのエヌビディアなのだ!?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、その会社よ。最初に言っておくと、スパイかどうかも、情報が漏れたかどうかも、まだ何も確定してないわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ今夜は、決めつけないで、分かってることと分かってないことを整理する回なのだ。",
+      "news_index": 0,
+      "reading": "じゃあこんやは、きめつけないで、わかってることとわかってないことをせいりするかいなのだ。"
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "正解。ご家族のプライベートには踏み込まず、会社と国の安全保障の話に絞るわね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "そもそも、フアンさんってどんな人なのだ? いつも革ジャンを着てる社長さんのイメージなのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "その人よ。台湾生まれで、子どもの頃にアメリカへ渡って、1993年に仲間とエヌビディアを立ち上げた創業者なの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "1993年って、三十年以上前なのだ。その間ずっと社長なのだ?",
+      "news_index": 1,
+      "reading": "せんきゅうひゃくきゅうじゅうさんねんって、さんじゅうねんいじょうまえなのだ。そのあいだずっとしゃちょうなのだ?"
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そう、創業からずっとトップよ。ゲームの絵を描くグラボの会社を、AIの頭脳を売る会社に育てたの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "グラボの会社が、なんでAIの頭脳になったのだ? お絵描きとAI、関係ないのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "グラボの中のチップ、ジーピーユーは、小さな計算を一度に大量にこなすのが得意なの。AIの学習は、まさにその掛け算の山なのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "つまり、お絵描き係が、実は計算ドリルの百人組手も得意だったのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "要するにそういうこと。今はAIの会社がみんな、エヌビディアのチップを奪い合ってる状態ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、今回の話の相手は、どんな人なのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "報道によると、シンガポールのデータセンター会社、メガスピードの幹部の女性よ。メガスピードは、エヌビディアのお客さんの会社なの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "取引先の人なのだ!? その人にスパイの疑いがかかってるのだ!?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "アメリカの情報当局が、中国の情報機関の協力者だと結論づけた、とニューヨーク タイムズが十月二十九日に報じたの。中国政府は、根拠のない中傷だと否定してるわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "言い分が真っ二つなのだ。で、メガスピードって会社は、何で目を付けられてたのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "輸出を規制されてる中国の会社に、エヌビディアのAIチップが流れるのを手伝った疑いが、前から報じられてたの。エヌビディア側は、製品が中国に密輸されてる証拠はないという立場よ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "ゆしゅつきせい? 海外に売るのを、止められてるってことなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "アメリカは2022年ごろから、最先端のAIチップを中国に売るのを規制してるの。軍事にも使える強力な道具だから、という理屈ね。",
+      "news_index": 1,
+      "reading": "アメリカはにせんにじゅうにねんごろから、さいせんたんのAIチップをちゅうごくにうるのをきせいしてるの。ぐんじにもつかえるきょうりょくなどうぐだから、というりくつね。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "要するに、強すぎる文房具は、国境の手前で持ち物検査なのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "文房具にしては物騒だけど、まあそういうこと。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でもフアンさん、最初は否定してたんじゃないのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。報道が出た十月二十九日には、メガスピード関連の付き合いで、まったく普通のことだったって、ブルームバーグに話してたの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "そこから、どうして話が変わったのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "十一月六日にフィナンシャル タイムズが、アメリカ政府の文書に恋愛関係が書かれてたと報じたの。そして八日の日曜日に、本人が社員宛てのメモを出したのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "そのメモには、何て書いてあったのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "妻を裏切った、言い訳の余地はない、深く反省してる、という謝罪ね。家族に責任はないから、そっとしておいてほしい、とも書いてたわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "スパイ疑惑のことは、メモで何か言ってたのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "そこは名指しで触れてないの。調査を支持して全面的に協力する、アメリカの安全保障を守ることに尽くす、という書き方ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "謝ったのは私生活の部分で、スパイの話は調査待ち、ってことなのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要約がうまいわね。そこを分けて聞くのが、この話で一番大事なところよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあ、取締役会の独立調査って何なのだ? 先生たちが職員会議を開くみたいなものなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "近いけど、もっと独立した形よ。取締役会は経営を見張る役員の集まりで、その中から社長と利害関係のない独立取締役たちが委員会を作るの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "どくりつとりしまりやく……呪文が長いのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ようは、社長の身内じゃない見張り役ね。そこに外部の弁護士が付いて、調べるのを手助けするのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "社長の友達じゃない人が、社長の宿題をチェックするのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そう。声明では、フアンさんが外国の情報工作の標的になってた、という報道を受けての調査だと書いてあるわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ひょうてき!? フアンさんは、狙われてた側かもしれないってことなのだ?",
+      "news_index": 2,
+      "reading": "ひょうてき!?フアンさんは、ねらわれてたがわかもしれないってことなのだ?"
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "声明の言葉どおりなら、そういう向きの書き方ね。それに、国の安全保障や会社の秘密が損なわれたと考える理由は今のところない、とも明言してるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "理由はないって言いながら調べるのだ? 矛盾してないのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "矛盾じゃないわ。今見えてる範囲では問題はないけど、手に入る情報は全部洗い直す、という意味よ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "健康診断で今は元気そうだけど、念のため精密検査もしとくのだ、みたいなことなのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いい例えね。調査の具体的な範囲は公表されてないから、ここからは報道から考えられる論点を三つに分けるわね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ノート開いたのだ! 三つ、どんとこいなのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一つ目は、会社の秘密や安全保障に関わる情報が渡っていないか。報道で挙がっている、会社の計画や中国向けチップをめぐる動きなどね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "出荷の計画って、そんなに大事な秘密なのだ? 宅配便の伝票みたいなものなのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "AIチップは今、世界中で取り合いでしょう。誰にどれだけ回すかが分かれば、よその国が作戦を立てる材料にもなるのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "伝票の束で、国の作戦が読めちゃうのだ!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二つ目は、輸出規制のすき間に関わる話がなかったか。報道では、中国に先端チップを回すよう働きかける狙いがあった可能性も指摘されてるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "うーん、でもそれ、本当にそうだったかは分からないのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そう、あくまで報道の段階よ。三つ目は、トップが取引先の人と親しくなったとき、それを会社に申告するルールが守られてたか、ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "学級委員が、テストを作る先生と仲良しなのを黙ってたら、まずいのと同じなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "立場は逆だけど、言いたいことは合ってるわ。利益相反、ようは立場と私情がぶつかる状態を、どう管理してたかってことね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "調査って、どのくらいで終わるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "期間は発表されてないわ。こういう社内調査は、数週間で終わることもあれば、何か月もかかることもあるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "その間、フアンさんは社長のままなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、会社は調査の間もフアンさんが中断なく経営を続けると言ってるわ。取締役会も、フアンさんと経営陣を信頼してるって。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "精密検査を受けながら、普段どおり出勤なのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "そういうこと。そのうえ外からの目もあって、アメリカ下院の三つの委員会の委員長が、十一月十八日に非公開の説明に来てほしいとフアンさんに求めてるのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "議会からも呼び出しなのだ!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "強制ではなく、任意で来てほしいという要請だと報じられてるわ。上院の民主党のクーンズ議員も、議会として調べて答えを得る、と話してるの。",
+      "news_index": 2,
+      "reading": "きょうせいではなく、にんいでむきてほしいというようせいだとほうじられてるわ。じょういんのみんしゅとうのくーんずぎいんも、ぎかいとしてしらべてこたえをえる、とはなしてるの。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "共和党も民主党も、両方が気にしてるってことなのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "要するに、党派を超えた国の安全保障の話になってるってことね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、ここからが本題なのだ。ボク、エヌビディアに知り合いはいないけど、生活に関係あるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "分けて考えましょう。まず、ゲーム用のグラボを買う人。今回の件で今すぐ値段が変わる、という話は出てないわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ふぅ、店頭の値札とは、ひとまず別の話なのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ただ、エヌビディアは中国向け製品の扱いで、ずっと政府と綱引きしてるの。今回の件で規制がもっと厳しい方向に動けば、長い目で製品の流れに響くかもしれない、というのが私の推測よ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "規制がきつくなると、ボクのグラボも高くなるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "そこまで直結はしないわ。世界のチップの需要と供給が揺れると、回り回って店頭に響くこともある、くらいの距離感ね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "次は、株とか、つみたてをしてる人なのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "世界の株にまとめて投資する商品なら、エヌビディアは大きな割合で入ってることが多いわ。だからトップの進退は、積立をしてる人にも間接的に関係するの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ボクのつみたても、フアンさんの調査とつながってるのだ!?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "間接的にね。報道では、投資家がAI相場全体への影響を警戒する声も出てるわ。ただ、製品需要への影響がどこまで広がるかは、まだ見通せないの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "市場は、ちょっとびっくりしたけど、まだ転んではいない感じなのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そういうこと。注目は十一月十七日の決算で、議会側が説明を求めた日の前日なのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "決算の次の日が、議会から要請された日なのだ!? 期末テストの翌日に、職員室へ来てほしいと言われてるのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "言い得て妙ね。決算の説明会で、アナリストがこの件をどう聞くかにも注目が集まると思うわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "次は、AIの会社なのだ。オープンエーアイとかアンソロピックも、エヌビディアのチップを大量に買ってるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、AIの会社にとってエヌビディアは一番大事な仕入れ先の一つよ。トップが替わったら供給計画や値段の交渉はどうなるか、気にはするでしょうね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "フアンさんがいなくなったら、チップが届かなくなっちゃうのだ!?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "それは飛躍しすぎ、製品の予定は組織で回ってるわ。ただ、大きな提携や値決めを社長自ら引っぱってきた会社だから、心配する声が出るのは自然ね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "一人のカリスマが看板の会社って、そこが強みでもあり弱みでもあるのだ。",
+      "news_index": 3,
+      "reading": "ひとりのカリスマがかんばんのかいしゃって、そこがつよみでもありよわみでもあるのだ。"
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "それがこの話の核心のひとつよ。経営の世界でいう、後継ぎ計画の問題ね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "最後に、ボクたち一般人の目線だと、何が大きいのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "AIチップが、もう国と国の安全保障の道具になってる、ってことね。社長の人間関係まで、情報戦の話として見られる時代なの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "社長さんは、人付き合いまで国家レベルなのだ……。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "元エフビーアイの捜査官も、敵対的な情報機関は親密な関係を利用することをためらわない、と話してるわ。これはフアンさんに限らず、重要な立場の人みんなに当てはまる話ね。",
+      "news_index": 3,
+      "reading": "もとエフビーアイのそうさかんも、てきたいてきなじょうほうきかんはしんみつなかんけいをりようすることをためらわない、とはなしてるわ。これはフアンさんにかぎらず、じゅうようなたちばのひとみんなにあてはまるはなしね。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "つまり、すぐボクの生活が変わる話じゃなくて、AI業界と国の関係が変わっていく、中長期の話なのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "完璧な仕分けね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあ、これから何を見ておけばいいのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三つあるわ。一つ目は、十一月十七日の決算で、会社がこの件をどう説明するか。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "二つ目は、十八日の議会なのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "正解。フアンさんが本当に説明に行くのか、行ったら議員がその後どう話すかね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "非公開なら、中身はボクたちには聞こえないのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そう、伝わってくるのは周りの発言だけかもしれないわ。そして三つ目が、独立調査の結論よ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "問題なしで終わるか、何か見つかるか、なのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "そう。もし何らかのルール違反が見つかれば、経営体制の見直しという話も出てくるかもしれないわね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "もしもの時の、次の社長は決まってるのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今のところ、後継者の名前は報道に出てないわ。会社はあくまで、フアンさんが経営を続けるという立場よ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "アメリカと中国の関係にも、影響あるのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "中国政府は根拠のない憶測だと反発してるし、アメリカ側がチップ規制の議論にこの件を持ち出す可能性もあるわ。規制の行方は、引き続き見ておきたいところね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ボク、これからニュースを見るとき、報道と確定を分けて聞くのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "それが一番大事な心構えよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "今夜は、エヌビディアのフアンさんが中国のスパイ工作の標的になった疑いを受けて、取締役会が独立調査を始めた話だったのだ。",
+      "news_index": 5,
+      "reading": "こんやは、エヌビディアのフアンさんがちゅうごくのすぱいこうさくのひょうてきになったうたがいをうけて、とりしまりやくかいがどくりつちょうさをはじめたはなしだったのだ。"
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "認めたのは私生活の部分で、スパイかどうかや秘密が漏れたかは調査待ち。決算と議会と調査、三つの関門がここから続くのよ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "謝罪と疑惑は別のお皿、これを明日の雑談で言うのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "聴いてくれてるかた、今夜もお疲れさま。気になる人は、各社の報道や会社の発表をのぞいてみてね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "また大きなニュースがあったら、夜便で掘るのだ。おやすみなさいなのだ!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "おやすみなさい。旅の道ラジオ夜便、四国めたんでした。",
+      "news_index": 5
+    }
+  ],
+  "program_description": "エヌビディアのジェンスン・フアンCEOが、アメリカの情報当局が中国の協力者と見ていると報じられた取引先幹部との関係を社員宛てメモで認め、取締役会が独立調査を始めた件をじっくり掘り下げました。背景では、創業者フアンさんの歩み、取引先メガスピードをめぐるチップ流出の疑い、当初の否定から謝罪に至る経緯を整理。技術詳細では、独立取締役と外部弁護士による調査の仕組みと、公表されていない調査範囲について報道から考えられる論点を解説。含意では、グラボ購入者、積立投資をしている人、AI企業の調達、安全保障の目線で影響を仕分けし、展望では十一月十七日の決算、十八日に要請された議会説明、調査の結論という三つの関門を確認しました。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20261109_170622_chars.webp",
+    "hero_rel": "/images/topics/tech_20261109_170622.webp",
+    "title": "NvidiaのCEOが中国スパイ工作の標的か、取締役会が独立調査へ 〜フアン氏の謝罪メモと、11月18日に要請された議会説明〜",
+    "companies": [
+      "NVIDIA",
+      "OpenAI",
+      "Claude"
+    ],
+    "thumbnail_ready": true
+  },
+  "summary_short": "フアンCEOが、米情報当局が中国の協力者と見る取引先幹部との関係を謝罪メモで認め、取締役会が独立調査を開始。チップ流出疑惑の経緯から、投資家や購入者への影響、17日の決算と18日の議会説明まで、注目の三つの関門を整理します。"
+}
