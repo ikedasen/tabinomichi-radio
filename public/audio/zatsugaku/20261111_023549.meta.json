@@ -1,0 +1,1296 @@
+{
+  "profile": "zatsugaku",
+  "generated_at": "2026-11-11T02:35:49+09:00",
+  "title": "ゴムが縮むのは分子がバネだからではない 〜温めると縮む、ふしぎな弾性の話〜",
+  "audio_path": "zatsugaku_latest.wav",
+  "duration_sec": 720.07,
+  "script_hash": "sha256:00d92d90593462f7bd04cdf58d0bab3cbf7c130518afd6f380b6004cd234ae5b",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 4.64
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "mic",
+      "text": "旅の道ラジオ、雑学チャンネル。あんこもんだもん。",
+      "news_index": 0,
+      "start_sec": 4.64,
+      "end_sec": 8.09
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ずんだもんなのだ! 今日はどんなネタを持ってきたのだ?",
+      "news_index": 0,
+      "start_sec": 8.24,
+      "end_sec": 11.54
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "今日はこれだもん。輪ゴム1本。",
+      "news_index": 0,
+      "start_sec": 11.69,
+      "end_sec": 13.88
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shirake",
+      "text": "輪ゴムなのだ? 引っぱったら戻る、それだけのものじゃん。",
+      "news_index": 0,
+      "start_sec": 14.03,
+      "end_sec": 17.74
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "じゃあ聞くもん。なんで戻るの?",
+      "news_index": 0,
+      "start_sec": 17.89,
+      "end_sec": 19.93
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "うーん、ゴムの中に、ちっちゃいバネみたいな分子が入ってるからなのだ?",
+      "news_index": 0,
+      "start_sec": 20.08,
+      "end_sec": 25.04
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "それが、ちがうんだもん。ゴムの分子は、バネみたいに伸び縮みしてるわけじゃないんだもん。",
+      "news_index": 0,
+      "start_sec": 25.19,
+      "end_sec": 30.71
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "マジかよ! じゃあ何が引っぱり戻してるのだ?",
+      "news_index": 0,
+      "start_sec": 30.86,
+      "end_sec": 33.86
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "今日こそ、ずんだもんに知らないって言わせるもん。最後まで聴いてもらうもん。",
+      "news_index": 0,
+      "start_sec": 34.01,
+      "end_sec": 38.54
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "まず、ふつうの考えを整理するもん。ずんだもんは、ゴムはバネと同じしくみだと思ったんだもんね。",
+      "news_index": 1,
+      "start_sec": 38.62,
+      "end_sec": 44.99
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "そうなのだ。バネもゴムも、引っぱったら戻るから同じに見えるのだ。",
+      "news_index": 1,
+      "start_sec": 45.14,
+      "end_sec": 49.42
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "見た目は同じだもん。でも、2つの実験をすると、ぜんぜん別物だって分かるんだもん。",
+      "news_index": 1,
+      "start_sec": 49.57,
+      "end_sec": 55.81
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "実験なのだ? ボクにもできるやつなのだ?",
+      "news_index": 1,
+      "start_sec": 55.96,
+      "end_sec": 59.11
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "nagomi",
+      "text": "1つめは簡単だもん。太めの輪ゴムを、ぐいっと一気に伸ばして、すぐ唇に当てるんだもん。",
+      "news_index": 1,
+      "start_sec": 59.26,
+      "end_sec": 65.61
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "唇に当てると、どうなるのだ?",
+      "news_index": 1,
+      "start_sec": 65.76,
+      "end_sec": 68.2
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "ほんのり温かいんだもん。で、伸ばしたまま少し待って、一気に戻して当てると、今度はひんやりするんだもん。",
+      "news_index": 1,
+      "start_sec": 68.35,
+      "end_sec": 75.16
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "伸ばすと温かくて、戻すと冷たいのだ!? ゴムが勝手に温度を変えてるのだ。",
+      "news_index": 1,
+      "start_sec": 75.31,
+      "end_sec": 80.29
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "分かったのだ。伸ばすときにゴムの中がこすれて、摩擦で熱くなるのだ?",
+      "news_index": 1,
+      "start_sec": 80.37,
+      "end_sec": 85.02
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "それだと、戻すときに冷たくなる説明がつかないもん。摩擦なら、戻すときも熱くなるはずだもん。",
+      "news_index": 1,
+      "start_sec": 85.17,
+      "end_sec": 91.23
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "た、たしかに。こすって冷えるものなんて、聞いたことないのだ。",
+      "news_index": 1,
+      "start_sec": 91.38,
+      "end_sec": 96.78
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "この現象は昔から知られてて、1,800年代のはじめに、イギリスのグーって人が書き残してるんだもん。",
+      "news_index": 1,
+      "start_sec": 96.93,
+      "end_sec": 103.52
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "それを1,859年に、ちゃんと温度を測って確かめたのが、物理学者のジュールだもん。",
+      "news_index": 1,
+      "start_sec": 103.6,
+      "end_sec": 109.58
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ジュールって、エネルギーの単位の人なのだ? そんな人が輪ゴムを測ってたのだ。",
+      "news_index": 1,
+      "start_sec": 109.73,
+      "end_sec": 114.92
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "で、2つめの実験がもっと変なんだもん。輪ゴムにおもりをつるして、伸ばしたままドライヤーで温めるもん。",
+      "news_index": 1,
+      "start_sec": 115.07,
+      "end_sec": 121.77
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "温めたら、ものはふくらむのだ。ゴムがだらんと伸びて、おもりが下がるのだ。",
+      "news_index": 1,
+      "start_sec": 121.92,
+      "end_sec": 126.68
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "逆だもん。ゴムがきゅっと縮んで、おもりを持ち上げるんだもん。",
+      "news_index": 1,
+      "start_sec": 126.83,
+      "end_sec": 130.72
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "マジじゃん! 温めたら縮むのだ!?",
+      "news_index": 1,
+      "start_sec": 130.87,
+      "end_sec": 133.28
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "金属のバネなら、温めると少し伸びるし、引っぱり返す力はちょっと弱くなるんだもん。",
+      "news_index": 1,
+      "start_sec": 133.43,
+      "end_sec": 138.96
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "ゴムは、温めるほど引っぱり返す力が強くなるんだもん。バネとは真逆だもん。",
+      "news_index": 1,
+      "start_sec": 139.04,
+      "end_sec": 144.28
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "伸ばすと温かくなって、温めると縮むのだ。ボクの頭の中のバネが、こんがらがってきたのだ。",
+      "news_index": 1,
+      "start_sec": 144.43,
+      "end_sec": 152.62
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "1つだけ注意だもん。ほんの少ししか伸ばしてないゴムだと、ふつうの熱膨張が勝って、逆に伸びることもあるんだもん。",
+      "news_index": 1,
+      "start_sec": 152.77,
+      "end_sec": 160.54
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ちゃんと伸ばしたときだけ、変なことが起きるのだ。",
+      "news_index": 1,
+      "start_sec": 160.69,
+      "end_sec": 163.9
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "要するに、ゴムを引っぱり戻してるのは、バネの力とは別の何かなんだもん。",
+      "news_index": 1,
+      "start_sec": 164.05,
+      "end_sec": 168.92
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "じゃあ答えだもん。ゴムが縮むのは、分子が散らかりたがってるからなんだもん。",
+      "news_index": 2,
+      "start_sec": 169.0,
+      "end_sec": 173.64
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shirake",
+      "text": "散らかりたがってる? 分子に、そんな気持ちがあるのだ?",
+      "news_index": 2,
+      "start_sec": 173.79,
+      "end_sec": 177.75
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "気持ちじゃないもん。順番に話すもん。",
+      "news_index": 2,
+      "start_sec": 177.9,
+      "end_sec": 180.31
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "ゴムの分子は、すごく長いひもなんだもん。天然ゴムなら、同じ形の小さな部品が何千個もつながってるんだもん。",
+      "news_index": 2,
+      "start_sec": 180.39,
+      "end_sec": 187.73
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ひもなのだ? バネのぐるぐるじゃなくて?",
+      "news_index": 2,
+      "start_sec": 187.88,
+      "end_sec": 190.65
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "ただのひもだもん。しかも部品のつなぎ目が、くるくる回れるんだもん。",
+      "news_index": 2,
+      "start_sec": 190.8,
+      "end_sec": 195.12
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "nagomi",
+      "text": "だからこのひもは、ふだんは毛糸玉みたいに、ぐちゃっと丸まってるんだもん。",
+      "news_index": 2,
+      "start_sec": 195.2,
+      "end_sec": 199.97
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ぐちゃっと丸まってるのだ。ボクの机の上のケーブルみたいなのだ。",
+      "news_index": 2,
+      "start_sec": 200.12,
+      "end_sec": 204.22
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "ここで問題だもん。1本のひもを置くとき、まっすぐな置き方とぐちゃぐちゃな置き方、どっちが多い?",
+      "news_index": 2,
+      "start_sec": 204.37,
+      "end_sec": 211.01
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "まっすぐは、ほぼ1通りなのだ。ぐちゃぐちゃは……数えきれないのだ。",
+      "news_index": 2,
+      "start_sec": 211.16,
+      "end_sec": 215.71
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "それだもん。ひもを箱に入れて振ったらぐちゃぐちゃになるのは、その置き方が圧倒的に多いからだもん。",
+      "news_index": 2,
+      "start_sec": 215.86,
+      "end_sec": 221.73
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "振っても、きれいにまっすぐ並ぶことは、まずないのだ。",
+      "news_index": 2,
+      "start_sec": 221.88,
+      "end_sec": 225.33
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "ゴムの中では、熱で分子がいつもぶるぶる揺れてて、ずっと箱を振ってるのと同じなんだもん。",
+      "news_index": 2,
+      "start_sec": 225.48,
+      "end_sec": 231.12
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "だから、ひもはいちばん多い置き方、つまりぐちゃぐちゃに落ち着くんだもん。これをエントロピー弾性って呼ぶもん。",
+      "news_index": 2,
+      "start_sec": 231.2,
+      "end_sec": 237.77
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "えっ、エントロピーって何なのだ? 急にむずかしいのだ。",
+      "news_index": 2,
+      "start_sec": 237.92,
+      "end_sec": 243.7
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "nagomi",
+      "text": "噛み砕くもん。エントロピーは散らかり具合のものさしで、置き方の数が多い状態ほど大きくなるんだもん。",
+      "news_index": 2,
+      "start_sec": 243.85,
+      "end_sec": 250.45
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "ものは放っておくと、置き方の数が多い方、つまり散らかった方へ進むんだもん。部屋が勝手に片づかないのと同じだもん。",
+      "news_index": 2,
+      "start_sec": 250.53,
+      "end_sec": 258.3
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "部屋のたとえは、ボクの胸に刺さるのだ……!",
+      "news_index": 2,
+      "start_sec": 258.45,
+      "end_sec": 261.08
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "で、ゴムを引っぱると、ひもがみんな同じ向きにそろうんだもん。置き方の数が、がくっと減るんだもん。",
+      "news_index": 2,
+      "start_sec": 261.23,
+      "end_sec": 267.76
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "そろえられたひもは、揺れてるうちに、またぐちゃぐちゃに戻ろうとするのだ?",
+      "news_index": 2,
+      "start_sec": 267.91,
+      "end_sec": 272.67
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "そうだもん。その戻ろうとする勢いが、手に感じる引っぱり返す力なんだもん。",
+      "news_index": 2,
+      "start_sec": 272.82,
+      "end_sec": 277.76
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "マジかよ! じゃあゴムの力って、分子のバネじゃなくて、散らかろうとする勢いなのだ!",
+      "news_index": 2,
+      "start_sec": 277.91,
+      "end_sec": 283.38
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "金属のバネは逆で、原子どうしの距離が無理に広げられて、元の距離に戻ろうとする力だもん。こっちはエネルギー弾性って呼ぶもん。",
+      "news_index": 2,
+      "start_sec": 283.53,
+      "end_sec": 291.93
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "金属は距離を戻したい、ゴムは散らかりたい。戻る理由がぜんぜん別なのだ。",
+      "news_index": 2,
+      "start_sec": 292.08,
+      "end_sec": 297.43
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "こういう説明を数式で組み立てたのは、1,930年代のヨーロッパの研究者たちだもん。クーンや、グースとマークって人たちだもん。",
+      "news_index": 2,
+      "start_sec": 297.58,
+      "end_sec": 306.19
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ジュールが測ってから、理由が分かるまで70年以上かかってるのだ。",
+      "news_index": 2,
+      "start_sec": 306.34,
+      "end_sec": 310.79
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "ここで、さっきの2つの実験に戻るもん。なんで伸ばすと温かくなるか、分かる?",
+      "news_index": 2,
+      "start_sec": 310.94,
+      "end_sec": 316.31
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "うーん……ひもを無理やりそろえるのに、ボクが手で力を使ってるのだ。その力が、どこかに行くのだ?",
+      "news_index": 2,
+      "start_sec": 316.46,
+      "end_sec": 323.44
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "hazukashi",
+      "text": "……そ、それで合ってるもん。正確には力じゃなくて手がした仕事の分で、それがゴムの温度を上げるんだもん。",
+      "news_index": 2,
+      "start_sec": 323.59,
+      "end_sec": 331.09
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ボク、今ちょっと核心を突いたのだ?",
+      "news_index": 2,
+      "start_sec": 331.24,
+      "end_sec": 334.3
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "戻すときはその逆で、ひもが散らかる分、ゴム自身の温度が下がるんだもん。冷えたゴムが唇から熱をもらうから、ひんやりするんだもん。",
+      "news_index": 2,
+      "start_sec": 334.45,
+      "end_sec": 343.17
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあ、温めると縮むのは?",
+      "news_index": 2,
+      "start_sec": 343.32,
+      "end_sec": 345.63
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "温めると揺れが激しくなって、箱を強く振るのと同じになるんだもん。散らかろうとする勢いが増して、引っぱる力が強くなるんだもん。",
+      "news_index": 2,
+      "start_sec": 345.78,
+      "end_sec": 353.92
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "理想的なゴムだと、引っぱり返す力は温度に比例するって考えられてるもん。ここでいう温度は、絶対温度っていう物理のものさしだもん。",
+      "news_index": 2,
+      "start_sec": 354.0,
+      "end_sec": 362.61
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "温かいほど強く縮むから、おもりが持ち上がったのだ。全部つながったのだ。",
+      "news_index": 2,
+      "start_sec": 362.76,
+      "end_sec": 367.9
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "要するに、ゴムは散らかりたいひもの集まりで、熱がその力の元なんだもん。",
+      "news_index": 2,
+      "start_sec": 368.05,
+      "end_sec": 372.95
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも待つのだ。ひもがぐちゃぐちゃなだけなら、引っぱったらずるずるほどけて、伸びっぱなしにならないのだ?",
+      "news_index": 2,
+      "start_sec": 373.1,
+      "end_sec": 379.56
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ゴムが元の形に戻るのは、ひもが絡まり合ってるからなのだ?",
+      "news_index": 2,
+      "start_sec": 379.64,
+      "end_sec": 383.79
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "絡まりも少しは効くけど、それだけじゃ足りないもん。絡まりだけだと、時間がたつとずるずる滑っちゃうんだもん。",
+      "news_index": 2,
+      "start_sec": 383.94,
+      "end_sec": 390.57
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "本当は、ひもとひもを、ところどころ硫黄の橋でつないでるんだもん。これを加硫って呼ぶもん。",
+      "news_index": 2,
+      "start_sec": 390.65,
+      "end_sec": 396.54
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "かりゅう? それも何なのだ?",
+      "news_index": 2,
+      "start_sec": 396.69,
+      "end_sec": 399.77
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "nagomi",
+      "text": "網で考えるもん。ばらばらのひもは引っぱると抜けるけど、結び目でつないだ網なら、伸ばしても形が残るでしょ。",
+      "news_index": 2,
+      "start_sec": 399.92,
+      "end_sec": 407.17
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "ゴムに硫黄をまぜて熱すると、ひもの間に硫黄の結び目ができて、全体が1枚の網になるんだもん。",
+      "news_index": 2,
+      "start_sec": 407.25,
+      "end_sec": 413.54
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "結び目と結び目の間は、自由にぐちゃぐちゃできるのだ。でも全体は抜けないのだ。",
+      "news_index": 2,
+      "start_sec": 413.69,
+      "end_sec": 419.31
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "そうだもん。散らかる自由と元に戻る形、その両方があって、はじめてよく伸びるゴムになるんだもん。",
+      "news_index": 2,
+      "start_sec": 419.46,
+      "end_sec": 425.97
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "加硫の前のゴムは、夏はべたべたでにおうし、冬はかちかちになるって、ずっと困られてたんだもん。",
+      "news_index": 2,
+      "start_sec": 426.05,
+      "end_sec": 432.17
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shirake",
+      "text": "夏べたべたで冬かちかちなんて、使いにくすぎるのだ。",
+      "news_index": 2,
+      "start_sec": 432.32,
+      "end_sec": 436.04
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "それを変えたのが、アメリカのチャールズ・グッドイヤーだもん。1,839年ごろ、硫黄をまぜたゴムを熱すると、べたつかないゴムになると気づいたんだもん。",
+      "news_index": 2,
+      "start_sec": 436.19,
+      "end_sec": 446.12
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "ストーブにうっかりゴムを落としたのがきっかけ、って話が有名だけど、細かいところは伝わり方がいろいろあるもん。",
+      "news_index": 2,
+      "start_sec": 446.2,
+      "end_sec": 453.67
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "うっかりが大発見になったかもしれないのだ。",
+      "news_index": 2,
+      "start_sec": 453.82,
+      "end_sec": 456.76
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "硫黄を使う考え自体はヘイワードって人から買ったもので、イギリスのハンコックも同じころ特許を取って、どっちが先かで揉めたんだもん。",
+      "news_index": 2,
+      "start_sec": 456.91,
+      "end_sec": 464.72
+    },
+    {
+      "index": 84,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "グッドイヤーのアメリカの特許は、1,844年だもん。今のタイヤも輪ゴムも、ほとんどがこの網のしくみを使ってるんだもん。",
+      "news_index": 2,
+      "start_sec": 464.8,
+      "end_sec": 472.85
+    },
+    {
+      "index": 85,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、冬にかちかちになるのは、ゴムが凍っちゃうからなのだ?",
+      "news_index": 2,
+      "start_sec": 473.0,
+      "end_sec": 477.33
+    },
+    {
+      "index": 86,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "凍るっていうのとは、ちょっとちがうもん。天然ゴムは寒いところに長く置くと、ひもの一部がきれいに並んで固まる結晶化が起きるんだもん。",
+      "news_index": 2,
+      "start_sec": 477.48,
+      "end_sec": 485.58
+    },
+    {
+      "index": 87,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "もっと冷やすと、ひもの揺れが止まって、ある温度でガラスみたいに固くなるんだもん。これは結晶化とは別の、ガラス転移って呼ぶ現象だもん。",
+      "news_index": 2,
+      "start_sec": 485.66,
+      "end_sec": 494.49
+    },
+    {
+      "index": 88,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "ガラス転移……ゴムがガラスになるのだ?",
+      "news_index": 2,
+      "start_sec": 494.64,
+      "end_sec": 498.51
+    },
+    {
+      "index": 89,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "nagomi",
+      "text": "見た目がガラスになるわけじゃないもん。ぐちゃぐちゃの並びのまま、カチッと固まるってことだもん。",
+      "news_index": 2,
+      "start_sec": 498.66,
+      "end_sec": 504.33
+    },
+    {
+      "index": 90,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "天然ゴムだと、その温度はマイナス70℃前後だもん。測り方で数℃ずれるけど、だいたいそのあたりだもん。",
+      "news_index": 2,
+      "start_sec": 504.41,
+      "end_sec": 511.9
+    },
+    {
+      "index": 91,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "マイナス70℃! ボクの冷凍庫よりずっと寒いのだ。",
+      "news_index": 2,
+      "start_sec": 512.05,
+      "end_sec": 515.91
+    },
+    {
+      "index": 92,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "でも、そこまで行かなくても、冷えるほど揺れはにぶくなるもん。だから寒いと、ゴムの戻りがのろくなるんだもん。",
+      "news_index": 2,
+      "start_sec": 516.06,
+      "end_sec": 522.98
+    },
+    {
+      "index": 93,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "要するに、ゴムが働くには、つないだ網と、ひもが揺れられる温度、その両方がいるんだもん。",
+      "news_index": 2,
+      "start_sec": 523.06,
+      "end_sec": 529.31
+    },
+    {
+      "index": 94,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "寒いと戻りがのろくなる。それって、困る場面がありそうなのだ。",
+      "news_index": 3,
+      "start_sec": 529.46,
+      "end_sec": 533.93
+    },
+    {
+      "index": 95,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "あるもん。1,986年1月28日、アメリカのスペースシャトル、チャレンジャー号の事故だもん。",
+      "news_index": 3,
+      "start_sec": 534.08,
+      "end_sec": 541.53
+    },
+    {
+      "index": 96,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kanashimi",
+      "text": "打ち上げのあとに壊れてしまった、あの事故なのだ。",
+      "news_index": 3,
+      "start_sec": 541.68,
+      "end_sec": 545.1
+    },
+    {
+      "index": 97,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "打ち上げから73秒後だったもん。その日の朝のフロリダは、すごく冷えてたんだもん。",
+      "news_index": 3,
+      "start_sec": 545.25,
+      "end_sec": 550.74
+    },
+    {
+      "index": 98,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "打ち上げのときの気温は約2℃で、それまででいちばん寒かった打ち上げより、8℃くらい低かったんだもん。",
+      "news_index": 3,
+      "start_sec": 550.82,
+      "end_sec": 557.59
+    },
+    {
+      "index": 99,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "寒さで、どこかのゴムが割れちゃったのだ?",
+      "news_index": 3,
+      "start_sec": 557.74,
+      "end_sec": 560.64
+    },
+    {
+      "index": 100,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "割れたんじゃないもん。戻るのが遅れたんだもん。",
+      "news_index": 3,
+      "start_sec": 560.79,
+      "end_sec": 563.55
+    },
+    {
+      "index": 101,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "ロケットのつなぎ目には、Oリングっていう輪っかのゴムが入ってて、すき間をふさいでたんだもん。",
+      "news_index": 3,
+      "start_sec": 563.63,
+      "end_sec": 569.12
+    },
+    {
+      "index": 102,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "Oリングって、何なのだ?",
+      "news_index": 3,
+      "start_sec": 569.27,
+      "end_sec": 572.21
+    },
+    {
+      "index": 103,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "nagomi",
+      "text": "水筒のふたの内側に入ってる、ゴムの輪っかと同じなかまだもん。押しつぶされて、すき間にぴったり広がることで、もれを止めるんだもん。",
+      "news_index": 3,
+      "start_sec": 572.36,
+      "end_sec": 581.01
+    },
+    {
+      "index": 104,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "打ち上げのとき、つなぎ目はほんの少し開くんだもん。そのすき間に、ゴムがすぐ広がって追いつかないといけないんだもん。",
+      "news_index": 3,
+      "start_sec": 581.09,
+      "end_sec": 588.45
+    },
+    {
+      "index": 105,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "でも寒いと、戻りがのろいのだ……!",
+      "news_index": 3,
+      "start_sec": 588.6,
+      "end_sec": 590.83
+    },
+    {
+      "index": 106,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "そうだもん。ゴムが追いつかなくて、熱いガスがもれたことが原因だと、事故の調査委員会がまとめたんだもん。",
+      "news_index": 3,
+      "start_sec": 590.98,
+      "end_sec": 597.83
+    },
+    {
+      "index": 107,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "このOリングは天然ゴムじゃなくて、別の種類の合成ゴムだもん。でも、冷えると弾力が落ちるのは同じだったんだもん。",
+      "news_index": 3,
+      "start_sec": 597.91,
+      "end_sec": 605.5
+    },
+    {
+      "index": 108,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "冷えると弱るのは、ゴムみんなの弱点なのだ。",
+      "news_index": 3,
+      "start_sec": 605.65,
+      "end_sec": 608.91
+    },
+    {
+      "index": 109,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "それをテレビの前で見せたのが、物理学者のファインマンだもん。1,986年2月11日の、調査委員会の公聴会だもん。",
+      "news_index": 3,
+      "start_sec": 609.06,
+      "end_sec": 618.4
+    },
+    {
+      "index": 110,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "どうやって見せたのだ?",
+      "news_index": 3,
+      "start_sec": 618.55,
+      "end_sec": 620.23
+    },
+    {
+      "index": 111,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "Oリングのゴムを、小さなクランプっていう道具で押さえたまま、氷水のコップに入れたんだもん。クランプは、ものを挟んで固定する道具だもん。",
+      "news_index": 3,
+      "start_sec": 620.38,
+      "end_sec": 629.16
+    },
+    {
+      "index": 112,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "取り出してはずしたら、ゴムがすぐには元の形に戻らなかったんだもん。",
+      "news_index": 3,
+      "start_sec": 629.24,
+      "end_sec": 633.31
+    },
+    {
+      "index": 113,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "コップ1杯の氷水で、それが分かっちゃうのだ!",
+      "news_index": 3,
+      "start_sec": 633.46,
+      "end_sec": 636.65
+    },
+    {
+      "index": 114,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "要するに、ゴムの弱点は寒さだもん。ひもの揺れがにぶると、戻る速さも落ちちゃうんだもん。",
+      "news_index": 3,
+      "start_sec": 636.8,
+      "end_sec": 642.75
+    },
+    {
+      "index": 115,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ちょっと話を軽くするのだ。ゴムって、英語でラバーって言うのだ。",
+      "news_index": 3,
+      "start_sec": 642.9,
+      "end_sec": 647.07
+    },
+    {
+      "index": 116,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "そうだもん。1,770年に、イギリスのプリーストリーって学者が、この樹脂で鉛筆の字をこすって消せるって書いてるんだもん。",
+      "news_index": 3,
+      "start_sec": 647.22,
+      "end_sec": 655.23
+    },
+    {
+      "index": 117,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "こすって消すもの、で、ラバーって呼ばれるようになったと言われてるもん。ただ、名前の始まりについては、はっきりしないところもあるもん。",
+      "news_index": 3,
+      "start_sec": 655.31,
+      "end_sec": 664.13
+    },
+    {
+      "index": 118,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "字を消す道具の呼び名が、ゴムそのものの名前になったのだ? 消しゴムがご先祖みたいなのだ。",
+      "news_index": 3,
+      "start_sec": 664.28,
+      "end_sec": 670.84
+    },
+    {
+      "index": 119,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "nagomi",
+      "text": "そういう説だもん。最後に、今日の実験はおうちでもできるもん。",
+      "news_index": 3,
+      "start_sec": 670.99,
+      "end_sec": 675.3
+    },
+    {
+      "index": 120,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "まずは唇の実験からやってみるのだ。伸ばして温かい、戻して冷たい、なのだ。",
+      "news_index": 3,
+      "start_sec": 675.45,
+      "end_sec": 681.12
+    },
+    {
+      "index": 121,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "輪ゴムが切れて顔に当たらないように、太めのを、ほどほどに伸ばすんだもん。",
+      "news_index": 3,
+      "start_sec": 681.27,
+      "end_sec": 685.89
+    },
+    {
+      "index": 122,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "今日のまとめだもん。ゴムが縮むのは分子がバネだからじゃなくて、長いひもが散らかりたがってるからなんだもん。",
+      "news_index": 0,
+      "start_sec": 685.97,
+      "end_sec": 692.23
+    },
+    {
+      "index": 123,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "だから伸ばすと温かくて、温めると縮んで、寒いとのろくなるのだ。輪ゴム1本で、こんなに話があったのだ。",
+      "news_index": 0,
+      "start_sec": 692.38,
+      "end_sec": 699.76
+    },
+    {
+      "index": 124,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "今日はあんこもんの勝ちだもんね。",
+      "news_index": 0,
+      "start_sec": 699.91,
+      "end_sec": 701.61
+    },
+    {
+      "index": 125,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "でも、熱になる話はボクが当てたのだ。引き分けなのだ。",
+      "news_index": 0,
+      "start_sec": 701.76,
+      "end_sec": 706.06
+    },
+    {
+      "index": 126,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "hazukashi",
+      "text": "……次こそ負けを認めさせるもん。聴いてくれてるかた、また次回だもん。",
+      "news_index": 0,
+      "start_sec": 706.21,
+      "end_sec": 711.07
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 711.77,
+      "end_sec": 720.07
+    }
+  ],
+  "wall_time_sec": 12.47,
+  "audio_url": "/audio/zatsugaku/20261111_023549.mp3?v=1794332524"
+}
