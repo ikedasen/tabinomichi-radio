@@ -1,0 +1,886 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-11-11T05:06:07+09:00",
+  "title": "同僚になるAIの朝 〜会議に出るクロードと、動画で自主練するロボット〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 527.33,
+  "script_hash": "sha256:09586c55795c7da4ad4c81a80fd8b3c6683c4e68c00b65b5280138024d1ef6a3",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 4.69
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "welcome",
+      "text": "おはようございます、旅の道ラジオ朝便、テックの話題の回よ。四国めたんです。",
+      "news_index": 0,
+      "start_sec": 4.69,
+      "end_sec": 10.2
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 通勤通学のお供に、今朝もサクッといくのだ!",
+      "news_index": 0,
+      "start_sec": 10.35,
+      "end_sec": 15.38
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今朝は五本。AIが会議に出席する話から、ロボットの自主練、ディズニー専用のAIまで並べたわ。",
+      "news_index": 0,
+      "start_sec": 15.53,
+      "end_sec": 22.49
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、AIが会議に出るのだ!? ボクの代わりに朝礼に立ってほしいのだ!",
+      "news_index": 0,
+      "start_sec": 22.64,
+      "end_sec": 27.63
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "朝礼の代返は、たぶん無理ね。じゃあ一本目から。",
+      "news_index": 0,
+      "start_sec": 27.78,
+      "end_sec": 31.12
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。アンソロピックがクロードに、表計算とホワイトボードと会議の、三つの新しい道具をベータ版で足したの。",
+      "news_index": 1,
+      "start_sec": 31.2,
+      "end_sec": 38.52
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "べーたばん? 金魚すくいのポイみたいに、すぐ破れるやつだっけ?",
+      "news_index": 1,
+      "start_sec": 38.67,
+      "end_sec": 43.28
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "破れはしないわ。試し運転中の版、ようは正式公開の前に使った人の声を集める段階のこと。",
+      "news_index": 1,
+      "start_sec": 43.43,
+      "end_sec": 50.19
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、表計算って、エクセルみたいなやつじゃん?",
+      "news_index": 1,
+      "start_sec": 50.34,
+      "end_sec": 53.54
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、名前はクロード シーツ。予算表や進み具合の一覧を、クロードと一緒に作って直せるのよ。",
+      "news_index": 1,
+      "start_sec": 53.69,
+      "end_sec": 60.03
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ただ担当者自身が、かなり基本的なもので、重いお金の計算向けじゃないって言ってるの。",
+      "news_index": 1,
+      "start_sec": 60.11,
+      "end_sec": 65.9
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "自分で基本的って言っちゃうの、正直すぎて好感度上がるのだ。",
+      "news_index": 1,
+      "start_sec": 66.05,
+      "end_sec": 70.85
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "目玉はクロード ミーティングス。ビデオ会議に、見える参加者として入ってくるの。最初はグーグル ミートからね。",
+      "news_index": 1,
+      "start_sec": 71.0,
+      "end_sec": 77.56
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "画面にクロードが並ぶのだ!? 隣の席に、知らない新入社員が座ってる感じじゃん!",
+      "news_index": 1,
+      "start_sec": 77.71,
+      "end_sec": 83.35
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "クロードだと分かる参加者として入るのよ。会話を聞きながら計画や予定表を作ったり、質問に答えたりして、議事録ややることの一覧も残してくれるの。",
+      "news_index": 1,
+      "start_sec": 83.5,
+      "end_sec": 92.85
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、それってつまり、会議の書記係をAIが引き受けるってことなのだ!",
+      "news_index": 1,
+      "start_sec": 93.0,
+      "end_sec": 97.86
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "正解。アドビやハブスポットのアプリも、プラグイン、ようは後付けの追加機能として、クロードの中で動くようになったわ。",
+      "news_index": 1,
+      "start_sec": 98.01,
+      "end_sec": 105.51
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクたちの生活だと、何が変わるのだ?",
+      "news_index": 1,
+      "start_sec": 105.66,
+      "end_sec": 108.71
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "要するに、チャットの相手から仕事場そのものになろうとしてる、って話。会社で使う人は、会議のメモ取りから解放されるかもね。",
+      "news_index": 1,
+      "start_sec": 108.86,
+      "end_sec": 117.41
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "でも会議中のボクのつぶやきまで、全部メモに残るのはちょっと怖いのだ……。",
+      "news_index": 1,
+      "start_sec": 117.56,
+      "end_sec": 123.6
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "AIが聞いてる前提で話す時代ね。口が滑らないように。じゃあ次。",
+      "news_index": 1,
+      "start_sec": 123.75,
+      "end_sec": 128.61
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目はオープンエーアイ。十一月十日に、チャットジーピーティーの中にお店の公式窓口を作れる仕組みを、ベータ版で始めたの。",
+      "news_index": 2,
+      "start_sec": 128.69,
+      "end_sec": 137.19
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "公式窓口? チャットの中に、デパートの案内所ができるってこと?",
+      "news_index": 2,
+      "start_sec": 137.34,
+      "end_sec": 142.36
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いい線ね。会社がビジネスハブっていう管理画面で名乗り出て、確認が済むと、店の情報や商品の値段、在庫を載せられるのよ。",
+      "news_index": 2,
+      "start_sec": 142.51,
+      "end_sec": 150.97
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "待ってたのだ! なりすましの偽ショップが、入れなくなるのだ!",
+      "news_index": 2,
+      "start_sec": 151.12,
+      "end_sec": 154.82
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこは半分正解。店が書いた細かい中身まで全部確かめるわけじゃないって、オープンエーアイ自身が言ってるわ。",
+      "news_index": 2,
+      "start_sec": 154.97,
+      "end_sec": 162.15
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? 看板は確認済みでも、値札は自己申告なのだ!?",
+      "news_index": 2,
+      "start_sec": 162.3,
+      "end_sec": 166.55
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。さらにビジネスエージェント、ようはその店専用の受付AIとチャットして、商品のことを聞けるの。",
+      "news_index": 2,
+      "start_sec": 166.7,
+      "end_sec": 173.77
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクが受付AIとしゃべった中身、お店の人に筒抜けだったりするのだ?",
+      "news_index": 2,
+      "start_sec": 173.92,
+      "end_sec": 179.08
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "会話の中身はお店には渡さない、って説明よ。始まりはアメリカのネット通販とオンラインサービスの会社から。",
+      "news_index": 2,
+      "start_sec": 179.23,
+      "end_sec": 186.74
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "でもお店がお金を払ったら、ボクのチャットに割り込んでくるんじゃないのだ?",
+      "news_index": 2,
+      "start_sec": 186.89,
+      "end_sec": 192.01
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "鋭いじゃない。受付AIを広告として出すこともできて、その時は広告だって表示が付くの。",
+      "news_index": 2,
+      "start_sec": 192.16,
+      "end_sec": 198.27
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "つまり、ボクたちの買い物はどう変わるのだ?",
+      "news_index": 2,
+      "start_sec": 198.42,
+      "end_sec": 201.58
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "検索して店のサイトに行く流れが、AIとの会話の中で終わるようになる方向ね。日本に来たら、広告の表示だけは見落とさないこと。",
+      "news_index": 2,
+      "start_sec": 201.73,
+      "end_sec": 210.29
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "会話だけでお買い物、楽ちんなのだ。財布のひもは、ボクがしっかり握っておくのだ。",
+      "news_index": 2,
+      "start_sec": 210.44,
+      "end_sec": 216.14
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "その手、もう緩んでるけど。次、行くわ。",
+      "news_index": 2,
+      "start_sec": 216.29,
+      "end_sec": 219.06
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目はロボット。エヌビディアが十一月九日、アメリカのオースティンであったロボット学習の学会で、グルート ツーっていうAIを発表したの。",
+      "news_index": 3,
+      "start_sec": 219.14,
+      "end_sec": 227.97
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "グルート? 映画に出てくる、木の姿のヒーローだっけ?",
+      "news_index": 3,
+      "start_sec": 228.12,
+      "end_sec": 232.18
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "木は関係ないわ。人型ロボットなんかに積む頭脳よ。エヌビディアは、AIの計算用チップ、ジーピーユーで有名な会社ね。",
+      "news_index": 3,
+      "start_sec": 232.33,
+      "end_sec": 240.26
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、その頭脳の何が新しいのだ?",
+      "news_index": 3,
+      "start_sec": 240.41,
+      "end_sec": 243.05
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "人間が作業してる動画を見て、自分がロボットだったらどう動くかを想像して学ぶの。",
+      "news_index": 3,
+      "start_sec": 243.2,
+      "end_sec": 248.45
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? ボクがゲーム実況を見て、うまくなった気になるのと同じやつじゃん!",
+      "news_index": 3,
+      "start_sec": 248.6,
+      "end_sec": 253.16
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "あなたは気になるだけでしょ。こっちは手足の動かし方まで、ちゃんと予測するのよ。",
+      "news_index": 3,
+      "start_sec": 253.31,
+      "end_sec": 258.32
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "これまでは、人がロボットを遠隔操作して手本を集めるのが大変だったの。動画なら世の中に山ほどあるわ。",
+      "news_index": 3,
+      "start_sec": 258.4,
+      "end_sec": 265.42
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、教科書が一冊から、図書館まるごとになったってことなのだ!",
+      "news_index": 3,
+      "start_sec": 265.57,
+      "end_sec": 269.92
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "いい比喩ね。学習用の人間の動画も、10万時間ぶんがデータとして公開されてるって。",
+      "news_index": 3,
+      "start_sec": 270.07,
+      "end_sec": 275.95
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "10万時間!? 毎日ぶっ続けで見ても、十年以上かかるのだ!",
+      "news_index": 3,
+      "start_sec": 276.1,
+      "end_sec": 280.6
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ただ、成績はエヌビディア自身のテストの数字。外からの評価はこれからね。",
+      "news_index": 3,
+      "start_sec": 280.75,
+      "end_sec": 285.94
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクの家に、お皿洗いロボットが来るのはいつなのだ?",
+      "news_index": 3,
+      "start_sec": 286.09,
+      "end_sec": 289.82
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今すぐじゃないわ。でも工場や倉庫のロボットが覚える速さが上がれば、何年か先、身近な所で見かける機会は増えるかもね。",
+      "news_index": 3,
+      "start_sec": 289.97,
+      "end_sec": 297.82
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "そのときは、ボクの動画を手本にしてほしいのだ。",
+      "news_index": 3,
+      "start_sec": 297.97,
+      "end_sec": 301.41
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "皿を割る動画しかないでしょ。次。",
+      "news_index": 3,
+      "start_sec": 301.56,
+      "end_sec": 303.85
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四本目は、グーグルの自前のAIチップ、ティーピーユーの話。十一月九日に、新しい二種類のTPUシステムを発表したの。",
+      "news_index": 4,
+      "start_sec": 303.93,
+      "end_sec": 312.69
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ティーピーユー? トイレットペーパーの、ユニットってこと?",
+      "news_index": 4,
+      "start_sec": 312.84,
+      "end_sec": 316.78
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "拭かないわよ。グーグルがAIの計算専用に作ってるチップで、エヌビディアのジーピーユーのライバル。",
+      "news_index": 4,
+      "start_sec": 316.93,
+      "end_sec": 323.0
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一つは、処理中もデータを守る秘密のお仕事向け。もう一つは、チップ二つを一つにまとめて、メモリを分厚くした版よ。",
+      "news_index": 4,
+      "start_sec": 323.08,
+      "end_sec": 330.7
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "どっちも、一から作り直したのだ?",
+      "news_index": 4,
+      "start_sec": 330.85,
+      "end_sec": 333.81
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこが面白くて、どっちも今あるチップの使い回しなの。カレーのトッピングを変えて、別メニューにしたようなものね。",
+      "news_index": 4,
+      "start_sec": 333.96,
+      "end_sec": 341.28
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "カレーなら、ボク毎日でもいけるのだ。",
+      "news_index": 4,
+      "start_sec": 341.43,
+      "end_sec": 343.98
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、効いてるのが数字。調査会社シナジー リサーチによると、七月から九月のクラウドのシェアで、首位のアマゾンは26%に下がって、グーグルは16%に上がったの。",
+      "news_index": 4,
+      "start_sec": 344.13,
+      "end_sec": 355.29
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "クラウドのシェアって、何の陣取り合戦なのだ?",
+      "news_index": 4,
+      "start_sec": 355.44,
+      "end_sec": 358.83
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "ネットの向こうのサーバーを、会社に貸す商売よ。市場全体は三か月で1,680億ドル、前の年より五割以上も伸びたって。",
+      "news_index": 4,
+      "start_sec": 358.98,
+      "end_sec": 367.95
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "1,680億ドル!? 日本円だと25兆円くらいなのだ!? 三か月で!?",
+      "news_index": 4,
+      "start_sec": 368.1,
+      "end_sec": 374.03
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう。要するに、グーグルは自前のTPUを武器の一つにしながら、クラウドのシェアも伸ばしてる、って話。",
+      "news_index": 4,
+      "start_sec": 374.18,
+      "end_sec": 381.16
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でもそれ、ボクのスマホには関係ないのだ?",
+      "news_index": 4,
+      "start_sec": 381.31,
+      "end_sec": 384.43
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "アプリの裏側だから、直接は見えないわ。ただエヌビディア以外の選択肢が増えれば、クラウド会社や利用企業が、用途に合う計算基盤を選びやすくなりそうね。",
+      "news_index": 4,
+      "start_sec": 384.58,
+      "end_sec": 394.42
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "チップの競争が、ボクの月額料金を守ってくれるかもってことなのだ!",
+      "news_index": 4,
+      "start_sec": 394.57,
+      "end_sec": 399.15
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ラスト五本目。ディズニーが十一月九日に、アドビを公式AIイノベーションパートナーにする、何年も続く提携を発表したの。",
+      "news_index": 5,
+      "start_sec": 399.3,
+      "end_sec": 407.56
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ディズニー! 夢の国の話なら、朝からテンション上がるのだー!",
+      "news_index": 5,
+      "start_sec": 407.71,
+      "end_sec": 412.34
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "中心はファイアフライ ファウンドリー。アドビの仕組みで、ディズニー専用のAIを、ディズニー自身の作品をもとに作るのよ。",
+      "news_index": 5,
+      "start_sec": 412.49,
+      "end_sec": 419.86
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ふぁうんどりー? 半導体を作る工場の、あれだっけ?",
+      "news_index": 5,
+      "start_sec": 420.01,
+      "end_sec": 424.13
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "よく覚えてたわね。英語で鋳物工場の意味で、ここでは会社ごとの専用AIを作る工房ってところね。",
+      "news_index": 5,
+      "start_sec": 424.28,
+      "end_sec": 431.06
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "誰でも使えるAIじゃ、ダメなのだ?",
+      "news_index": 5,
+      "start_sec": 431.21,
+      "end_sec": 433.96
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "アドビのファイアフライを土台に、ディズニーの作品やキャラクター設定、背景、絵柄で専用に調整すれば、ブランドらしさと権利に配慮した素材を作りやすいって狙い。",
+      "news_index": 5,
+      "start_sec": 434.11,
+      "end_sec": 444.79
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、権利に配慮したいつものだしに、自分ちの材料で味付けするってことなのだ!",
+      "news_index": 5,
+      "start_sec": 444.94,
+      "end_sec": 450.39
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "その通り。テーマパークの設計や、スポーツ放送のイーエスピーエヌの映像づくりまで対象に入ってるわ。",
+      "news_index": 5,
+      "start_sec": 450.54,
+      "end_sec": 457.53
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "お金は、いくら動いたのだ?",
+      "news_index": 5,
+      "start_sec": 457.68,
+      "end_sec": 459.85
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "金額は明かされてないの。提携とは別に、ブルームバーグは、ディズニーが一部の管理職に年間コストを最大二割減らす目標を示し、数千人規模の人員削減も検討していると報じてるわ。",
+      "news_index": 5,
+      "start_sec": 460.0,
+      "end_sec": 472.36
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "AIの提携が人員整理の原因とは限らないけど、同じ時期に聞くと、ちょっとしんみりするのだ……。",
+      "news_index": 5,
+      "start_sec": 472.51,
+      "end_sec": 480.7
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこは分けて考えないとね。私たちにとっては、テーマパーク開発やスタジオ、スポーツメディアの制作工程で、AIを使う場面が増えていくって話。",
+      "news_index": 5,
+      "start_sec": 480.85,
+      "end_sec": 490.96
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今朝は五本。会議に出るクロード、チャットの中のお店、動画で学ぶロボット、グーグルのチップ、ディズニー専用のAI。",
+      "news_index": 0,
+      "start_sec": 491.04,
+      "end_sec": 498.67
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "共通点は、AIがどんどん仕事場に住みつき始めてるってことなのだ!",
+      "news_index": 0,
+      "start_sec": 498.82,
+      "end_sec": 504.28
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "いいまとめじゃない。道具から同僚へ、って一週間だったわね。",
+      "news_index": 0,
+      "start_sec": 504.43,
+      "end_sec": 508.53
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "気になる話があったら、各社の発表をのぞいてみてほしいのだ!",
+      "news_index": 0,
+      "start_sec": 508.68,
+      "end_sec": 512.72
+    },
+    {
+      "index": 84,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "聴いてくれてるかた、いってらっしゃい。また明日のテック朝便で。",
+      "news_index": 0,
+      "start_sec": 512.87,
+      "end_sec": 516.67
+    },
+    {
+      "index": 85,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "いってらっしゃいなのだー!",
+      "news_index": 0,
+      "start_sec": 516.82,
+      "end_sec": 518.33
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 519.03,
+      "end_sec": 527.33
+    }
+  ],
+  "wall_time_sec": 15.59,
+  "audio_url": "/audio/ai/20261111_050607.mp3?v=1794434585"
+}

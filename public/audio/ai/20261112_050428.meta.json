@@ -1,0 +1,836 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-11-12T05:04:28+09:00",
+  "title": "黒子たちの朝 〜長考するAIと、両方に賭ける工場〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 519.02,
+  "script_hash": "sha256:7e92dd95cb54caa4a2e3ccf708b4c3e73fa06f06851d2da154166c307da399ac",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 5.56
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便。今朝もテックの話題を、通勤のお供にサクッと流していくわ。四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 5.56,
+      "end_sec": 13.23
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 眠い目こすって、マイクの前に座ったのだ!",
+      "news_index": 0,
+      "start_sec": 13.38,
+      "end_sec": 18.11
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "目より先に頭を起こしてね。今日は五本、テーマはぜんぶ、AIを支える裏方の話よ。",
+      "news_index": 0,
+      "start_sec": 18.26,
+      "end_sec": 24.42
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "裏方? 舞台の黒子さんみたいなやつなのだ?",
+      "news_index": 0,
+      "start_sec": 24.57,
+      "end_sec": 27.98
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "いい線ね。チップを作る工場、証明する係、AIの頭脳の作り手、そういう縁の下の人たち。",
+      "news_index": 0,
+      "start_sec": 28.13,
+      "end_sec": 35.09
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "よし、黒子さん総選挙、始めるのだ!",
+      "news_index": 0,
+      "start_sec": 35.24,
+      "end_sec": 38.24
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。グーグルが十一月十日に、一番賢いAI、ジェミニ フォー カーボンを、お金を払えば誰でも使える形にしたの。",
+      "news_index": 1,
+      "start_sec": 38.39,
+      "end_sec": 46.65
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "カーボン? 炭素? 鉛筆の芯でできたAIなのだ?",
+      "news_index": 1,
+      "start_sec": 46.8,
+      "end_sec": 51.08
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "書けないわよ。十月末に発表されてから、二週間は限られた相手だけの試し運転だったの。",
+      "news_index": 1,
+      "start_sec": 51.23,
+      "end_sec": 57.29
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあ、二週間の仮免期間が終わったってことなのだ。",
+      "news_index": 1,
+      "start_sec": 57.44,
+      "end_sec": 61.12
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "たとえが上手ね。開発者や会社向けの有料の窓口と、グーグルの一番高いプランの人から使えるようになったわ。",
+      "news_index": 1,
+      "start_sec": 61.27,
+      "end_sec": 68.71
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "前からジェミニ フォーって、あった気がするのだ。別人なのだ?",
+      "news_index": 1,
+      "start_sec": 68.86,
+      "end_sec": 73.05
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこがミソ。先に出てたアルゴンが大半のソフト開発や知識仕事向けで、カーボンは、複雑な開発や科学研究みたいな難問担当なのよ。",
+      "news_index": 1,
+      "start_sec": 73.2,
+      "end_sec": 82.7
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、町のお医者さんと、大学病院の先生みたいな分担なのだ!",
+      "news_index": 1,
+      "start_sec": 82.85,
+      "end_sec": 87.69
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "まさにそれ。カーボンは考える時間を長く取るから、そのぶん使う量も増えて、請求は高くなりがちなのよね。",
+      "news_index": 1,
+      "start_sec": 87.84,
+      "end_sec": 95.23
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、じっくり考えるほど、お会計が上がるのだ!? タクシーのメーターなのだ!",
+      "news_index": 1,
+      "start_sec": 95.38,
+      "end_sec": 100.61
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに、賢さは長考の時間で買う時代ってこと。私たちの身近だと、難しい調べものほど、AIの返事を待つ時間が延びるかもね。",
+      "news_index": 1,
+      "start_sec": 100.76,
+      "end_sec": 109.9
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "じゃあボクは、宿題の答えを待つ間に二度寝できるのだ。",
+      "news_index": 1,
+      "start_sec": 110.05,
+      "end_sec": 113.74
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "宿題は自分でやりなさい。次行くわよ。",
+      "news_index": 1,
+      "start_sec": 113.89,
+      "end_sec": 116.61
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目は半導体。台湾のティーエスエムシーが、アンソロピックとオープンエーアイに、合わせて最大10億ドルを出資するって決めたの。",
+      "news_index": 2,
+      "start_sec": 116.69,
+      "end_sec": 124.63
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ティーエスエムシーって、何の会社だっけ? 名前が長い呪文なのだ。",
+      "news_index": 2,
+      "start_sec": 124.78,
+      "end_sec": 129.64
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ファウンドリ、ようは他社が設計したチップを実際に作る工場ね。エヌビディアのAIチップも、ここで作ってるの。",
+      "news_index": 2,
+      "start_sec": 129.79,
+      "end_sec": 136.69
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "10億ドル!? 日本円で千五百億円くらいなのだ!? ボクのお年玉、百万年分でも届かないのだ!",
+      "news_index": 2,
+      "start_sec": 136.84,
+      "end_sec": 143.86
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "百万年じゃ足りないと思うわ。内訳は、片方に最大5億ドルずつ。十一月十日の取締役会で承認したのよ。",
+      "news_index": 2,
+      "start_sec": 144.01,
+      "end_sec": 151.86
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも工場の人が、お客さんの会社にお金を出すって、変じゃないのだ?",
+      "news_index": 2,
+      "start_sec": 152.01,
+      "end_sec": 157.16
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "変わった手なのは確かね。チップを作る側が、AIを大量に動かす会社の株を持つ形だもの。",
+      "news_index": 2,
+      "start_sec": 157.31,
+      "end_sec": 163.78
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、パン屋さんが、毎日パンを買ってくれる常連さんの会社に投資する感じなのだ!",
+      "news_index": 2,
+      "start_sec": 163.93,
+      "end_sec": 169.61
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう。しかも有力なAI企業二社の両方に出資するから、AI市場全体の成長を取り込みやすくする狙いがうかがえるわね。",
+      "news_index": 2,
+      "start_sec": 169.76,
+      "end_sec": 178.02
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ずるいくらい賢いのだ。じゃんけんで、グーとパーを両手で出してる感じなのだ。",
+      "news_index": 2,
+      "start_sec": 178.17,
+      "end_sec": 183.77
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "反則だけど、イメージは合ってるわ。ただ、チップを優先で回すみたいな約束があるかは、発表では明かしてないの。",
+      "news_index": 2,
+      "start_sec": 183.92,
+      "end_sec": 191.46
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、ボクたちには何が関係あるのだ?",
+      "news_index": 2,
+      "start_sec": 191.61,
+      "end_sec": 194.52
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今回の出資が、生産枠や部品の値段を直接変えると発表されたわけじゃないわ。ただ、TSMCがAI需要の長期的な成長に自信を示した話ではあるわね。",
+      "news_index": 2,
+      "start_sec": 194.67,
+      "end_sec": 205.5
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "グラボがまた遠のくのだ……ボクの貯金箱、冬眠に入るのだ。",
+      "news_index": 2,
+      "start_sec": 205.65,
+      "end_sec": 211.81
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目は守りの話。グーグル ディープマインドが十一月十日に、アルファプルーフ コードっていう仕組みを発表したの。",
+      "news_index": 3,
+      "start_sec": 211.96,
+      "end_sec": 219.01
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "アルファプルーフ? 防水の腕時計みたいな名前なのだ。",
+      "news_index": 3,
+      "start_sec": 219.16,
+      "end_sec": 223.08
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "水は弾かないわ。人とAIが協力して、プログラムが決められた安全要件を満たすことを数学で証明する仕組みよ。",
+      "news_index": 3,
+      "start_sec": 223.23,
+      "end_sec": 230.62
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "証明って、算数の授業でやる、ゆえにってやつなのだ?",
+      "news_index": 3,
+      "start_sec": 230.77,
+      "end_sec": 235.04
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そのゆえにを、プログラム相手にやるの。テストで見つからなかった、じゃなくて、決めた安全要件に反する欠陥がないことを証明するのよ。",
+      "news_index": 3,
+      "start_sec": 235.19,
+      "end_sec": 244.13
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、何を証明したのだ?",
+      "news_index": 3,
+      "start_sec": 244.28,
+      "end_sec": 246.36
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "シグナルの暗号プロトコルを実装するライブラリ、リブシグナルよ。しかも、機械が実際に読む形に変換した後のプログラムまで確かめたの。",
+      "news_index": 3,
+      "start_sec": 246.51,
+      "end_sec": 255.11
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "シグナルって、内緒話用のアプリなのだ!? その金庫の鍵を、AIが点検したのだ!?",
+      "news_index": 3,
+      "start_sec": 255.26,
+      "end_sec": 261.38
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。人とAIが協力して四週間、証明の長さは六百五十万行ほどになったらしいわ。",
+      "news_index": 3,
+      "start_sec": 261.53,
+      "end_sec": 268.14
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "六百万行!? 読書感想文なら、ボク一生かかっても書けないのだ!",
+      "news_index": 3,
+      "start_sec": 268.29,
+      "end_sec": 273.01
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "だから人間は全部読まない。人が見直すべき場所を、全体の1%くらいまで絞ったのがポイントね。",
+      "news_index": 3,
+      "start_sec": 273.16,
+      "end_sec": 280.07
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "でも、AIがウソの証明を書いてたら、どうするのだ?",
+      "news_index": 3,
+      "start_sec": 280.22,
+      "end_sec": 284.02
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いいところ突くじゃない。証明は別の検査役のソフトが一行ずつ判定するし、わざと昔のバグを戻したら、ちゃんと危ないって見抜いたそうよ。",
+      "news_index": 3,
+      "start_sec": 284.17,
+      "end_sec": 293.04
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "抜き打ちテストにも合格したのだ。えらいのだ。",
+      "news_index": 3,
+      "start_sec": 293.19,
+      "end_sec": 296.21
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに、AIが穴を探すだけじゃなく、決められた安全要件をコードが守っていると証明する側にも回り始めたってことね。毎日使うアプリの守りが、裏で底上げされていくかもね。",
+      "news_index": 3,
+      "start_sec": 296.36,
+      "end_sec": 307.79
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四本目は絵や動画を作る人向け。アドビが十一月十日のイベントで、クリエイティブ クラウドの2027年版を発表したの。",
+      "news_index": 4,
+      "start_sec": 307.87,
+      "end_sec": 315.83
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "クリエイティブ クラウド? 創作の雲? 雲の上でお絵かきするのだ?",
+      "news_index": 4,
+      "start_sec": 315.98,
+      "end_sec": 320.77
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "雲には乗らないわ。フォトショップやプレミアみたいな、アドビの道具一式を月額で使うセットのことよ。",
+      "news_index": 4,
+      "start_sec": 320.92,
+      "end_sec": 326.88
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "知ってるのだ、写真の加工と動画の編集のやつなのだ。で、何が新しいのだ?",
+      "news_index": 4,
+      "start_sec": 327.03,
+      "end_sec": 332.68
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "目玉はエージェント、ようは頼むと手順をまとめて進めてくれるAIの係。プレミアやイラストレーターなど、主なアプリにそういう係を広げているらしいわ。",
+      "news_index": 4,
+      "start_sec": 332.83,
+      "end_sec": 342.19
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "待ってたのだ! 背景消しといて、って言えば、勝手にやってくれるのだ!",
+      "news_index": 4,
+      "start_sec": 342.34,
+      "end_sec": 346.87
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そういう方向ね。フォトショップには、あとから光の当たり方を変える機能も入ったわ。",
+      "news_index": 4,
+      "start_sec": 347.02,
+      "end_sec": 352.38
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "夕焼けの写真に、後から夕日を足せるのだ? 夢のお絵かき帳なのだー!",
+      "news_index": 4,
+      "start_sec": 352.53,
+      "end_sec": 357.99
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "それと、外のAIからアドビの道具を直接動かせる仕組みも予告してる。ただ、こっちは2027年の初めに、限られた人向けの試験版からね。",
+      "news_index": 4,
+      "start_sec": 358.14,
+      "end_sec": 368.1
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "外のAIって、チャットのAIが、フォトショップを操縦するってことなのだ?",
+      "news_index": 4,
+      "start_sec": 368.25,
+      "end_sec": 373.43
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう。他社のAIからでも、使い慣れたアドビの道具を動かせるようにするってことね。",
+      "news_index": 4,
+      "start_sec": 373.58,
+      "end_sec": 378.78
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "つまり、絵や動画を作る人は、ボタンを押す時間が減って、何を作りたいか考える時間が増えるかもしれないわ。",
+      "news_index": 4,
+      "start_sec": 378.86,
+      "end_sec": 385.74
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "ボクの夏休みの絵日記も、雲の上の係に頼むのだ。",
+      "news_index": 4,
+      "start_sec": 385.89,
+      "end_sec": 389.78
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "雲から離れなさい。次、ラストよ。",
+      "news_index": 4,
+      "start_sec": 389.93,
+      "end_sec": 392.51
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ラスト五本目は手短に。イギリスのフラクタイルっていうAIチップの新しい会社で、7億ドルを超える規模の株式割当が登記資料から判明したの。",
+      "news_index": 5,
+      "start_sec": 392.59,
+      "end_sec": 402.0
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "フラクタイル? 床のタイルの、オシャレなやつなのだ?",
+      "news_index": 5,
+      "start_sec": 402.15,
+      "end_sec": 405.95
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "敷けないわ。作ってるのは、推論、ようはAIが答えを出す処理に特化したチップよ。",
+      "news_index": 5,
+      "start_sec": 406.1,
+      "end_sec": 411.4
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "すいろん? AIのお勉強とは違うのだ?",
+      "news_index": 5,
+      "start_sec": 411.55,
+      "end_sec": 414.95
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "別物ね。勉強は学習、テスト本番で答えるのが推論。いま世界中で増えてるのは、この本番の方なのよ。",
+      "news_index": 5,
+      "start_sec": 415.1,
+      "end_sec": 422.9
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、みんながチャットで質問するたびに、本番が起きてるのだ!",
+      "news_index": 5,
+      "start_sec": 423.05,
+      "end_sec": 427.22
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "正解。このチップは、計算する場所とメモリを同じチップの中に並べて、データを取りに行く往復を減らす作戦なの。",
+      "news_index": 5,
+      "start_sec": 427.37,
+      "end_sec": 434.86
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "冷蔵庫を台所の真横に置いて、料理を速くする感じなのだ。",
+      "news_index": 5,
+      "start_sec": 435.01,
+      "end_sec": 439.32
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "いいたとえね。報道では、アンソロピックから約2億5,000万ドル分の最初の注文が入ったそうよ。ただ、両社は詳しい条件を認めてないの。",
+      "news_index": 5,
+      "start_sec": 439.47,
+      "end_sec": 448.95
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあもう、データセンターで動いてるのだ?",
+      "news_index": 5,
+      "start_sec": 449.1,
+      "end_sec": 452.01
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "まだよ。製品はこれからで、データセンターに入るのは2027年の見込み。作れると言うのと実際に量産するのは別物だから、そこは冷静に見たいわね。",
+      "news_index": 5,
+      "start_sec": 452.16,
+      "end_sec": 462.7
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "エヌビディア以外の選択肢が増えれば、AIを動かす費用が下がって、私たちのサービス代にも優しくなるかも。効いてくるのは早くても来年以降ね。",
+      "news_index": 5,
+      "start_sec": 462.78,
+      "end_sec": 471.91
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "来年かぁ……ボクのお財布も、それまで省エネで耐えるのだ。",
+      "news_index": 5,
+      "start_sec": 472.06,
+      "end_sec": 477.83
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今朝は、長考するAI、工場の両賭け、暗号の証明、雲の上の係、そして答える専用のチップの五本だったわ。",
+      "news_index": 0,
+      "start_sec": 477.98,
+      "end_sec": 485.98
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "黒子さん総選挙、優勝はパンを両手で売るティーエスエムシーに決定なのだ!",
+      "news_index": 0,
+      "start_sec": 486.13,
+      "end_sec": 491.22
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "じゃんけんとパン屋が混ざってるけど、まあいいわ。要するに、主役のAIの裏で、工場や守りの係まで動いてる朝だったってことね。",
+      "news_index": 0,
+      "start_sec": 491.37,
+      "end_sec": 499.7
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "気になったニュースがあったら、各社の発表をのぞいてみてほしいのだ。",
+      "news_index": 0,
+      "start_sec": 499.85,
+      "end_sec": 504.0
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "聴いてくれてるかた、いってらっしゃい。また明日の朝便で会いましょう。",
+      "news_index": 0,
+      "start_sec": 504.15,
+      "end_sec": 508.36
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "いってらっしゃいなのだー!",
+      "news_index": 0,
+      "start_sec": 508.51,
+      "end_sec": 510.02
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 510.72,
+      "end_sec": 519.02
+    }
+  ],
+  "wall_time_sec": 15.6,
+  "audio_url": "/audio/ai/20261112_050428.mp3?v=1794434580"
+}
