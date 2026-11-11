@@ -7,8 +7,8 @@
     <description>ずんだもん × めたん × つむぎが届ける、ゲーム &amp; テックニュース雑談ラジオ。朝便と夜便で毎日更新、レトロから新作まで、最新 AI 動向から業界マクロまで雑談形式でサクッと。</description>
     <language>ja</language>
     <copyright>© 2026 tabinomichi</copyright>
-    <lastBuildDate>Wed, 11 Nov 2026 02:42:05 +0900</lastBuildDate>
-    <pubDate>Wed, 11 Nov 2026 02:35:49 +0900</pubDate>
+    <lastBuildDate>Wed, 11 Nov 2026 17:20:26 +0900</lastBuildDate>
+    <pubDate>Wed, 11 Nov 2026 17:08:03 +0900</pubDate>
     <generator>build_rss_feed.py (tabinomichi radio)</generator>
     <image>
       <url>https://news.tabinomichi.jp/podcast-cover.png?v=1779005902</url>
@@ -29,6 +29,21 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>ChatGPTの中にお店の公式窓口ができる 〜週12億人の入口と、青いチェックの店員AI〜</title>
+      <link>https://news.tabinomichi.jp/radio/20261111_170803</link>
+      <guid isPermaLink="false">tabinomichi-radio-20261111_170803</guid>
+      <pubDate>Wed, 11 Nov 2026 17:08:03 +0900</pubDate>
+      <description>オープンエーアイが十一月十日にベータ版で始めた、チャットジーピーティーの中に企業や店の公式窓口を作れる仕組みを深掘り。背景では、週12億人が買い物の相談にも使うようになった流れと、グーグル ビジネス プロフィールとの違い、二月に始まった広告事業を整理。技術編では、店の名乗り出と本人確認、青いチェック、値段と在庫つきの商品フィード、ショッピファイ連携、店ごとのAI店員、会話の中身を渡さない集計表を噛み砕いた。含意では、買い物客の安心と乗っ取りの心配、小さな店のチャンス、広告とグーグル・アマゾンの縄張りへの影響を考え、展望では日本展開、乗っ取り対策、AIの中立性を見どころに挙げた。</description>
+      <content:encoded><![CDATA[オープンエーアイが十一月十日にベータ版で始めた、チャットジーピーティーの中に企業や店の公式窓口を作れる仕組みを深掘り。背景では、週12億人が買い物の相談にも使うようになった流れと、グーグル ビジネス プロフィールとの違い、二月に始まった広告事業を整理。技術編では、店の名乗り出と本人確認、青いチェック、値段と在庫つきの商品フィード、ショッピファイ連携、店ごとのAI店員、会話の中身を渡さない集計表を噛み砕いた。含意では、買い物客の安心と乗っ取りの心配、小さな店のチャンス、広告とグーグル・アマゾンの縄張りへの影響を考え、展望では日本展開、乗っ取り対策、AIの中立性を見どころに挙げた。]]></content:encoded>
+      <enclosure url="https://news.tabinomichi.jp/audio/ai/20261111_170803.mp3?v=1794385221" length="10420601" type="audio/mpeg"/>
+      <itunes:title>ChatGPTの中にお店の公式窓口ができる 〜週12億人の入口と、青いチェックの店員AI〜</itunes:title>
+      <itunes:summary>オープンエーアイが十一月十日にベータ版で始めた、チャットジーピーティーの中に企業や店の公式窓口を作れる仕組みを深掘り。背景では、週12億人が買い物の相談にも使うようになった流れと、グーグル ビジネス プロフィールとの違い、二月に始まった広告事業を整理。技術編では、店の名乗り出と本人確認、青いチェック、値段と在庫つきの商品フィード、ショッピファイ連携、店ごとのAI店員、会話の中身を渡さない集計表を噛み砕いた。含意では、買い物客の安心と乗っ取りの心配、小さな店のチャンス、広告とグーグル・アマゾンの縄張りへの影響を考え、展望では日本展開、乗っ取り対策、AIの中立性を見どころに挙げた。</itunes:summary>
+      <itunes:image href="https://news.tabinomichi.jp/images/og/20261111_170803.jpg"/>
+      <itunes:duration>10:51</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>ゴムが縮むのは分子がバネだからではない 〜温めると縮む、ふしぎな弾性の話〜</title>
       <link>https://news.tabinomichi.jp/radio/20261111_023549</link>
@@ -1511,21 +1526,6 @@
       <itunes:summary>旅の道ラジオ朝便のテックニュース回。アンソロピックが公表した、社内のAI開発の26%をクロードが主導しているという数字（二月は1%未満）から始まり、オープンエーアイが作ったAIのやらかしを早めに公表するルールと6件の実例、データセンター企業クルーソーが39億ドルを集めて進める、トラックで運べる小型のAI工場の話へ。ラストは、メモリ高騰のあおりで1,750ドルからになったジーピーディーの携帯ゲーミングパソコンの値札まで。ずんだもんのボケと四国めたんのツッコミで、今朝のテック業界を通勤・通学の合間にサクッとつかめる回。</itunes:summary>
       <itunes:image href="https://news.tabinomichi.jp/images/og/20260918_194823.jpg"/>
       <itunes:duration>7:08</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>帰り道のひと月 〜会話で距離を詰めた恋愛ゲーム〜</title>
-      <link>https://news.tabinomichi.jp/radio/20260918_194403</link>
-      <guid isPermaLink="false">tabinomichi-radio-20260918_194403</guid>
-      <pubDate>Sat, 19 Sep 2026 05:01:51 +0900</pubDate>
-      <description>プレイステーションの恋愛ゲーム『トゥルー・ラブストーリー』を、ずんだもんと春日部つむぎのふたりで掘り下げる回。1996年12月13日にアスキーから発売され、開発を担当したのはビッツラボラトリー。ときメモのヒットを受けて似たジャンルの作品が一気に並んだ時期に出たため前評判は決して高くなかったものの、ヒロインとの会話や交流を重視した素朴でリアリティのある作風が発売後にじわじわ評価され、人気を獲得していった経緯を語ります。看板システムは、一緒に帰りながら話題を選ぶ「下校会話」。友好度と憧れ度という二種類のパラメータ、転校までの1ヶ月という期限、季節限定を含む9人のヒロインまで、システムの手触りを中心に紹介。翌年の続編やプレイステーション2以降の体制交代、オリジナルビデオアニメ化にも触れつつ、ずんだもんが「実話ベースの恋愛ドキュメンタリー」という勘違いを最後まで引きずる回です。</description>
-      <content:encoded><![CDATA[プレイステーションの恋愛ゲーム『トゥルー・ラブストーリー』を、ずんだもんと春日部つむぎのふたりで掘り下げる回。1996年12月13日にアスキーから発売され、開発を担当したのはビッツラボラトリー。ときメモのヒットを受けて似たジャンルの作品が一気に並んだ時期に出たため前評判は決して高くなかったものの、ヒロインとの会話や交流を重視した素朴でリアリティのある作風が発売後にじわじわ評価され、人気を獲得していった経緯を語ります。看板システムは、一緒に帰りながら話題を選ぶ「下校会話」。友好度と憧れ度という二種類のパラメータ、転校までの1ヶ月という期限、季節限定を含む9人のヒロインまで、システムの手触りを中心に紹介。翌年の続編やプレイステーション2以降の体制交代、オリジナルビデオアニメ化にも触れつつ、ずんだもんが「実話ベースの恋愛ドキュメンタリー」という勘違いを最後まで引きずる回です。]]></content:encoded>
-      <enclosure url="https://news.tabinomichi.jp/audio/indie/20260918_194403.mp3?v=1789761781" length="6117293" type="audio/mpeg"/>
-      <itunes:title>帰り道のひと月 〜会話で距離を詰めた恋愛ゲーム〜</itunes:title>
-      <itunes:summary>プレイステーションの恋愛ゲーム『トゥルー・ラブストーリー』を、ずんだもんと春日部つむぎのふたりで掘り下げる回。1996年12月13日にアスキーから発売され、開発を担当したのはビッツラボラトリー。ときメモのヒットを受けて似たジャンルの作品が一気に並んだ時期に出たため前評判は決して高くなかったものの、ヒロインとの会話や交流を重視した素朴でリアリティのある作風が発売後にじわじわ評価され、人気を獲得していった経緯を語ります。看板システムは、一緒に帰りながら話題を選ぶ「下校会話」。友好度と憧れ度という二種類のパラメータ、転校までの1ヶ月という期限、季節限定を含む9人のヒロインまで、システムの手触りを中心に紹介。翌年の続編やプレイステーション2以降の体制交代、オリジナルビデオアニメ化にも触れつつ、ずんだもんが「実話ベースの恋愛ドキュメンタリー」という勘違いを最後まで引きずる回です。</itunes:summary>
-      <itunes:image href="https://news.tabinomichi.jp/images/og/20260918_194403.jpg"/>
-      <itunes:duration>6:22</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>

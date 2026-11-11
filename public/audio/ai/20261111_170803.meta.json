@@ -1,0 +1,1106 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-11-11T17:08:03+09:00",
+  "title": "ChatGPTの中にお店の公式窓口ができる 〜週12億人の入口と、青いチェックの店員AI〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 651.22,
+  "script_hash": "sha256:d1bca62105feb32095b678fdc6617994b3707cf16dbffd4ac8d8f5aa2ec63f47",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 4.64
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "intro",
+      "text": "こんばんは、旅の道ラジオ夜便、テック深掘り回。四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 4.64,
+      "end_sec": 9.46
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだ! 今夜は一本、じっくりいくのだ!",
+      "news_index": 0,
+      "start_sec": 9.61,
+      "end_sec": 13.58
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今夜のテーマは、オープンエーアイが十一月十日に試し運転で始めた、チャットジーピーティーの中のお店の公式窓口よ。",
+      "news_index": 0,
+      "start_sec": 13.73,
+      "end_sec": 21.58
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "それ、今朝の朝便でちょっと聞いたのだ。本物のお店かどうか、青いチェックで見分けやすくなる、ってやつなのだ?",
+      "news_index": 0,
+      "start_sec": 21.73,
+      "end_sec": 29.25
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう、朝は数行だけだったわね。今夜は仕組みと、グーグルやアマゾンにとって何が痛いのかまで踏み込むわ。",
+      "news_index": 0,
+      "start_sec": 29.4,
+      "end_sec": 36.13
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "夜は時間があるのだ。お茶をいれて聴くのだ!",
+      "news_index": 0,
+      "start_sec": 36.28,
+      "end_sec": 39.53
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "まず背景から。チャットジーピーティーを使う人は、オープンエーアイの説明だと、一週間で12億人なの。",
+      "news_index": 1,
+      "start_sec": 39.68,
+      "end_sec": 46.75
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "12億人!? 日本の人口の、十倍くらいなのだ!",
+      "news_index": 1,
+      "start_sec": 46.9,
+      "end_sec": 50.68
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ほぼそうね。しかも最近は、調べものの入口として使う人が増えてるの。",
+      "news_index": 1,
+      "start_sec": 50.83,
+      "end_sec": 55.49
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "調べもの? 宿題の答えを聞くやつなのだ?",
+      "news_index": 1,
+      "start_sec": 55.64,
+      "end_sec": 58.8
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "宿題は自分でやりなさい。おすすめの店を聞いたり、どの掃除機がいいか比べたり、買い物の相談のことよ。",
+      "news_index": 1,
+      "start_sec": 58.95,
+      "end_sec": 65.59
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "そういう答えに出てくるお店は、自分で情報を直せたのだ?",
+      "news_index": 1,
+      "start_sec": 65.74,
+      "end_sec": 70.07
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "直せなかったの。営業時間が古かったり、値段が違ってたりしても、店側が手を出す窓口がなかったのよ。",
+      "news_index": 1,
+      "start_sec": 70.22,
+      "end_sec": 77.41
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "店長さん、泣いちゃうのだ。お休みの日に、お客さんが来ちゃうのだ。",
+      "news_index": 1,
+      "start_sec": 77.56,
+      "end_sec": 83.36
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "グーグルには昔から、検索や地図に店の情報を載せる無料の道具、グーグル ビジネス プロフィールがあるの。今回のは、ようはそのチャットジーピーティー版よ。",
+      "news_index": 1,
+      "start_sec": 83.51,
+      "end_sec": 92.9
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "つまり、グーグルの得意技を、まるっと真似したのだ?",
+      "news_index": 1,
+      "start_sec": 93.05,
+      "end_sec": 97.21
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "真似と言えばそうだけど、出てくる場所が違うの。検索結果の一覧じゃなくて、会話の途中に店が出てくるのよ。",
+      "news_index": 1,
+      "start_sec": 97.36,
+      "end_sec": 104.53
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "一覧と会話で、何が違うのだ?",
+      "news_index": 1,
+      "start_sec": 104.68,
+      "end_sec": 107.45
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "検索だと、十件並んだ中から自分で選ぶでしょ。会話だと、AIが候補を絞って勧めてくることがあるの。",
+      "news_index": 1,
+      "start_sec": 107.6,
+      "end_sec": 114.71
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、選ばれる枠が十個から三個に減るのだ!? 椅子取りゲームが激しくなるのだ!",
+      "news_index": 1,
+      "start_sec": 114.86,
+      "end_sec": 120.31
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "いいたとえね。だから店にとって、AIに正しく知ってもらう重みが一気に増したのよ。",
+      "news_index": 1,
+      "start_sec": 120.46,
+      "end_sec": 125.97
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "それと、オープンエーアイって、広告も始めてたのだ?",
+      "news_index": 1,
+      "start_sec": 126.12,
+      "end_sec": 129.8
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今年の二月に、アメリカの無料ユーザー向けに出し始めたの。八月末には、広告の売上が年に直して10億ドルのペースを超えたって、会社自身が言ってるわ。",
+      "news_index": 1,
+      "start_sec": 129.95,
+      "end_sec": 139.95
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "10億ドルって、1,500億円くらいなのだ!? ボクの自作パソコン貯金なら、一億年かけても貯まらないのだ!",
+      "news_index": 1,
+      "start_sec": 140.1,
+      "end_sec": 147.49
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "桁はさておき。要するに、会話の入口に人が集まって、広告も育ち始めた、そこへ店の公式窓口を作ったって流れなの。",
+      "news_index": 1,
+      "start_sec": 147.64,
+      "end_sec": 156.11
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ中身。部品は大きく二つ、ビジネスハブと、ビジネスエージェントよ。",
+      "news_index": 2,
+      "start_sec": 156.19,
+      "end_sec": 160.88
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "はぶ? 沖縄の毒ヘビなのだ?",
+      "news_index": 2,
+      "start_sec": 161.03,
+      "end_sec": 163.46
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "噛まないわよ。ハブは車輪の真ん中、ようは集まる中心のこと。ここでは店の管理画面ね。",
+      "news_index": 2,
+      "start_sec": 163.61,
+      "end_sec": 169.45
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "管理画面で、最初に何をするのだ?",
+      "news_index": 2,
+      "start_sec": 169.6,
+      "end_sec": 172.55
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "まず自分の店を名乗り出るの。英語ではクレームって呼ぶわ。",
+      "news_index": 2,
+      "start_sec": 172.7,
+      "end_sec": 176.33
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "クレーム!? 店長さんが、オープンエーアイに文句を言うのだ!?",
+      "news_index": 2,
+      "start_sec": 176.48,
+      "end_sec": 180.62
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "文句じゃないの、権利を主張するって意味よ。落とし物を、これ私のです、って取りに行く感じね。",
+      "news_index": 2,
+      "start_sec": 180.77,
+      "end_sec": 186.82
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "遺失物センターなのだ。でも偽物の人が、これ私のです、って言ったらどうするのだ?",
+      "news_index": 2,
+      "start_sec": 186.97,
+      "end_sec": 192.98
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこで本人確認。店の代表番号へのショートメッセージや電話のほか、ホームページの持ち主しか触れない場所に、決められた合言葉を書き込む方法もあるの。",
+      "news_index": 2,
+      "start_sec": 193.13,
+      "end_sec": 202.79
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "合言葉! 秘密基地の、山と川みたいなやつなのだ!",
+      "news_index": 2,
+      "start_sec": 202.94,
+      "end_sec": 207.13
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それに近いわ。さらに情報を書き換えたり、AIの店員を公開したりする前には、身分証の提出も求められるらしいの。",
+      "news_index": 2,
+      "start_sec": 207.28,
+      "end_sec": 215.21
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "二重三重の鍵なのだ。本物と認められたら、どうなるのだ?",
+      "news_index": 2,
+      "start_sec": 215.36,
+      "end_sec": 219.81
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "見本の画面では、店のページに青いチェックマークが付くの。本物の店が管理してます、っていう印ね。",
+      "news_index": 2,
+      "start_sec": 219.96,
+      "end_sec": 226.81
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "エスエヌエスの公式マークみたいなのだ! これで偽ショップよけなのだ!",
+      "news_index": 2,
+      "start_sec": 226.96,
+      "end_sec": 231.66
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこが売りの一つね。認められた店は、店の説明や配送、返品の条件を直したり、商品の一覧を載せたりできるの。",
+      "news_index": 2,
+      "start_sec": 231.81,
+      "end_sec": 239.77
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "商品の一覧って、スーパーのチラシみたいなものなのだ?",
+      "news_index": 2,
+      "start_sec": 239.92,
+      "end_sec": 243.68
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "もっと生きてるの。商品フィードっていって、値段と在庫つきのデータを、店側が最新に保てる仕組みよ。",
+      "news_index": 2,
+      "start_sec": 243.83,
+      "end_sec": 250.56
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ふぃーど? 牛さんのエサなのだ?",
+      "news_index": 2,
+      "start_sec": 250.71,
+      "end_sec": 253.18
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "半分正解。エサを流し込むみたいに、データを流し込み続けるイメージね。",
+      "news_index": 2,
+      "start_sec": 253.33,
+      "end_sec": 258.24
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それと、ネットのお店を作れるショッピファイを使ってる店は、店をそのままつなげるの。商品データが自動で流れ込んで、確認の手続きも楽になるって。",
+      "news_index": 2,
+      "start_sec": 258.32,
+      "end_sec": 267.67
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "手入力しなくていいの、最高なのだ。ボクなら三個目で寝ちゃうのだ。",
+      "news_index": 2,
+      "start_sec": 267.82,
+      "end_sec": 272.77
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "次はもう一つの部品、ビジネスエージェント。店ごとに置ける、AIの店員さんね。",
+      "news_index": 2,
+      "start_sec": 272.92,
+      "end_sec": 278.44
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "チャットジーピーティーの中に、店長ロボットが住みつくのだ!?",
+      "news_index": 2,
+      "start_sec": 278.59,
+      "end_sec": 282.41
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "体はないわよ。店が決めたルールと商品情報に沿って、質問に答えたり、商品探しを手伝ったりするAIなの。",
+      "news_index": 2,
+      "start_sec": 282.56,
+      "end_sec": 290.05
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "返品できますか、とか、どっちが静かですか、とか聞けるのだ?",
+      "news_index": 2,
+      "start_sec": 290.2,
+      "end_sec": 294.51
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。会話はいつものチャットと分けて、店のAIだって分かるように表示されるらしいわ。",
+      "news_index": 2,
+      "start_sec": 294.66,
+      "end_sec": 300.47
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "それは大事なのだ。中立のAIなのか、お店側のAIなのか、混ざったら困るのだ。",
+      "news_index": 2,
+      "start_sec": 300.62,
+      "end_sec": 306.93
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "鋭いわね。ちなみにAI店員を作れるのは、今はアメリカのネット通販と、オンラインサービスの会社だけよ。",
+      "news_index": 2,
+      "start_sec": 307.08,
+      "end_sec": 314.43
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "店長さんが見られる数字もあるのだ?",
+      "news_index": 2,
+      "start_sec": 314.58,
+      "end_sec": 317.17
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "あるわ。会話で店が何回話題に出たか、ホームページへ何回クリックされたか、それとどんな話題で出てきたか、ね。",
+      "news_index": 2,
+      "start_sec": 317.32,
+      "end_sec": 324.43
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "じゃあ、ボクが掃除機を聞いた会話も、お店に丸見えなのだ!?",
+      "news_index": 2,
+      "start_sec": 324.58,
+      "end_sec": 328.81
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこは見えないの。オープンエーアイは、会話そのものは店に渡さないって言ってるわ。",
+      "news_index": 2,
+      "start_sec": 328.96,
+      "end_sec": 333.87
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "ふぅ、ボクの静かな掃除機の悩みは守られたのだ。",
+      "news_index": 2,
+      "start_sec": 334.02,
+      "end_sec": 337.68
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "しかも、ある程度の数が集まらないと数字自体が出ない仕組みよ。要するに、店には集計表は渡すけど、会話の中身は渡さない、って線引きね。",
+      "news_index": 2,
+      "start_sec": 337.83,
+      "end_sec": 347.55
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ここからは、私たちにどう関係するかの話。まず、買い物をする側から。",
+      "news_index": 3,
+      "start_sec": 347.63,
+      "end_sec": 352.59
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ボクは何がうれしいのだ?",
+      "news_index": 3,
+      "start_sec": 352.74,
+      "end_sec": 354.58
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "一番は、正しい情報に当たりやすくなること。営業時間や値段が古いままの答えが減る、っていう期待ね。",
+      "news_index": 3,
+      "start_sec": 354.73,
+      "end_sec": 362.05
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "それと、青いチェックで偽ショップよけなのだ。",
+      "news_index": 3,
+      "start_sec": 362.2,
+      "end_sec": 365.42
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。ただグーグルですら、2025年に偽の店のページを1,300万件以上消したって報告してるの。",
+      "news_index": 3,
+      "start_sec": 365.57,
+      "end_sec": 372.46
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "1,300万件!? 偽物の店だけで、東京の人口くらいあるのだ!",
+      "news_index": 3,
+      "start_sec": 372.61,
+      "end_sec": 377.53
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "だから名乗り出の仕組みは、乗っ取りとの追いかけっこになりがちなの。実際、専門家からも乗っ取りが心配だって声が出てるわ。",
+      "news_index": 3,
+      "start_sec": 377.68,
+      "end_sec": 385.45
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "間違って他人に取られた時、取り返す方法はあるのだ?",
+      "news_index": 3,
+      "start_sec": 385.6,
+      "end_sec": 389.71
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "もう他人に名乗り出られている店には、所有権への異議申し立て手順があるの。ペルソナで権限を確認してもらう形ね。",
+      "news_index": 3,
+      "start_sec": 389.86,
+      "end_sec": 397.18
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "次はお店側なのだ。町の小さなお店は、得するのだ?",
+      "news_index": 3,
+      "start_sec": 397.33,
+      "end_sec": 401.53
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "名乗り出にお金がかかるという案内は、今のところ見当たらないわ。ショッピファイの店なら、手間も少ないの。",
+      "news_index": 3,
+      "start_sec": 401.68,
+      "end_sec": 407.94
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "じゃあ商店街のパン屋さんも、大きな会社と同じ土俵に立てるのだ!",
+      "news_index": 3,
+      "start_sec": 408.09,
+      "end_sec": 413.12
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "入口は開くわね。ただ、ここで広告の話が戻ってくるのよ。",
+      "news_index": 3,
+      "start_sec": 413.27,
+      "end_sec": 417.64
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "広告? 店の窓口と、関係あるのだ?",
+      "news_index": 3,
+      "start_sec": 417.79,
+      "end_sec": 421.24
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一部の対象広告主は、店の情報を使ったAI店員を、チャットジーピーティー広告の行き先にできるの。広告には、広告だって表示がちゃんと付くって。",
+      "news_index": 3,
+      "start_sec": 421.39,
+      "end_sec": 431.16
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、じゃあお金持ちの店ばっかり、AIのおすすめに出てくるのだ?",
+      "news_index": 3,
+      "start_sec": 431.31,
+      "end_sec": 436.04
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "広告は普通の答えと分けて出す、っていうのが会社の説明よ。ただ、無料で並ぶ場所とお金で目立つ場所が同じ画面にあるのは、グーグル検索と同じ構図ね。",
+      "news_index": 3,
+      "start_sec": 436.19,
+      "end_sec": 446.21
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "次はグーグルとアマゾン。ここがこの話の一番大きいところよ。",
+      "news_index": 3,
+      "start_sec": 446.29,
+      "end_sec": 450.55
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "グーグルって、検索の広告で稼いでるのだ?",
+      "news_index": 3,
+      "start_sec": 450.7,
+      "end_sec": 454.02
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、人がものを探す入口に広告を置くのが一番の稼ぎ頭。アマゾンも、商品検索の広告が大きな商売なの。",
+      "news_index": 3,
+      "start_sec": 454.17,
+      "end_sec": 462.05
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "その入口が、チャットに引っ越しちゃうのだ?",
+      "news_index": 3,
+      "start_sec": 462.2,
+      "end_sec": 465.16
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "一部はね。オープンエーアイの担当者の話では、検索っぽい質問の量は、まだグーグルの五分の一くらいらしいわ。",
+      "news_index": 3,
+      "start_sec": 465.31,
+      "end_sec": 472.84
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "広告の効き目は、どっちが上なのだ?",
+      "news_index": 3,
+      "start_sec": 472.99,
+      "end_sec": 475.68
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ある論文だと、アメリカの通販で、チャットジーピーティーの広告から来た一回の訪問は売上0.89ドル。グーグル検索の広告からだと2.45ドルだったって。",
+      "news_index": 3,
+      "start_sec": 475.83,
+      "end_sec": 486.26
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "グーグル広告から来た訪問の方が、通販サイトの売上は一回あたり三倍近いのだ! ただ、まだ初期の限られた調査なのだ。",
+      "news_index": 3,
+      "start_sec": 486.41,
+      "end_sec": 495.95
+    },
+    {
+      "index": 84,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "今はね。でも公式窓口と商品データがそろえば、AIのおすすめは買い物にぐっと近づく、そこを狙った一手だと私は見てるわ。",
+      "news_index": 3,
+      "start_sec": 496.1,
+      "end_sec": 504.79
+    },
+    {
+      "index": 85,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "グーグルも、黙って見てないのだ?",
+      "news_index": 3,
+      "start_sec": 504.94,
+      "end_sec": 507.4
+    },
+    {
+      "index": 86,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "グーグルもメタも、店向けのAI店員をもう始めてるって報じられてるわ。要するに、AIの中の店先をめぐる陣取り合戦ね。",
+      "news_index": 3,
+      "start_sec": 507.55,
+      "end_sec": 515.85
+    },
+    {
+      "index": 87,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "すぐ変わる話と、ゆっくりの話に分けると、どうなるのだ?",
+      "news_index": 3,
+      "start_sec": 516.0,
+      "end_sec": 520.16
+    },
+    {
+      "index": 88,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "すぐ変わるのは、アメリカでチャットの答えに店の公式情報やAI店員が出始めること。ゆっくりの話は、ものを探す場所が検索からAIの会話へ少しずつ移る流れね。",
+      "news_index": 3,
+      "start_sec": 520.31,
+      "end_sec": 531.17
+    },
+    {
+      "index": 89,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "最後に、これから見ておきたいのは三つよ。",
+      "news_index": 4,
+      "start_sec": 531.25,
+      "end_sec": 534.02
+    },
+    {
+      "index": 90,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "メモ帳、スタンバイ完了なのだ!",
+      "news_index": 4,
+      "start_sec": 534.17,
+      "end_sec": 536.5
+    },
+    {
+      "index": 91,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一つ目は、日本を含むほかの国や業種にいつ広がるか。広げるとは言ってるけど、時期は出てないの。",
+      "news_index": 4,
+      "start_sec": 536.65,
+      "end_sec": 542.82
+    },
+    {
+      "index": 92,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "商店街のお店に、青いチェックが付く日が来るのだ?",
+      "news_index": 4,
+      "start_sec": 542.97,
+      "end_sec": 546.97
+    },
+    {
+      "index": 93,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "二つ目は乗っ取り対策。間違った名乗り出をどう取り消すか、仕組みが出てくるかね。",
+      "news_index": 4,
+      "start_sec": 547.12,
+      "end_sec": 552.24
+    },
+    {
+      "index": 94,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三つ目は、名乗り出た店がAIの答えに出やすくなるのかどうか。今はそこがはっきりしてないの。",
+      "news_index": 4,
+      "start_sec": 552.32,
+      "end_sec": 558.09
+    },
+    {
+      "index": 95,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "出やすくなるなら、みんな大急ぎで名乗り出るのだ!",
+      "news_index": 4,
+      "start_sec": 558.24,
+      "end_sec": 561.44
+    },
+    {
+      "index": 96,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこに広告が絡むと、AIの答えは本当に中立なのか、っていう疑問も強くなるわね。",
+      "news_index": 4,
+      "start_sec": 561.59,
+      "end_sec": 568.0
+    },
+    {
+      "index": 97,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "中立のAIと商売のAI、線がどこに引かれるかなのだ。",
+      "news_index": 4,
+      "start_sec": 568.15,
+      "end_sec": 572.69
+    },
+    {
+      "index": 98,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。数字も気になるわ、初日に公開された例だと、28日間で690回話題に出て、クリックは24回だったの。",
+      "news_index": 4,
+      "start_sec": 572.84,
+      "end_sec": 581.7
+    },
+    {
+      "index": 99,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "3%ちょっとなのだ? 話題には出るのに、なかなか店まで来てくれないのだ。",
+      "news_index": 4,
+      "start_sec": 581.85,
+      "end_sec": 588.67
+    },
+    {
+      "index": 100,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "クリックは訪問や購入の保証じゃない、って画面にも書いてあるわ。要するに、この数字が売上にどうつながるかは、これから試される段階ね。",
+      "news_index": 4,
+      "start_sec": 588.82,
+      "end_sec": 597.81
+    },
+    {
+      "index": 101,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "今夜は、チャットジーピーティーの中に、お店の公式窓口ができた話だったのだ。",
+      "news_index": 5,
+      "start_sec": 597.96,
+      "end_sec": 603.34
+    },
+    {
+      "index": 102,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "まとめるわね。店が名乗り出て正しい情報を渡し、AIの店員も置ける。その先には広告があって、検索の入口をめぐるグーグルとの勝負につながってるの。",
+      "news_index": 5,
+      "start_sec": 603.49,
+      "end_sec": 613.55
+    },
+    {
+      "index": 103,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "名乗り出は遺失物センター、商品フィードは牛のエサ。明日の雑談で言うのだ。",
+      "news_index": 5,
+      "start_sec": 613.7,
+      "end_sec": 619.65
+    },
+    {
+      "index": 104,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "牛は余計だけど、まあいいわ。店の名乗り出は対象地域に広く開かれてるけど、AI店員が日本で使える時期はまだ出てないから、気長に待ちましょう。",
+      "news_index": 5,
+      "start_sec": 619.8,
+      "end_sec": 629.28
+    },
+    {
+      "index": 105,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "次もでっかいニュースがあったら、夜便でじっくり掘るのだ!",
+      "news_index": 5,
+      "start_sec": 629.43,
+      "end_sec": 633.06
+    },
+    {
+      "index": 106,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "sasayaki",
+      "text": "聴いてくれてるかた、今夜もお疲れさま。気になる人は、オープンエーアイの発表や各社の報道をのぞいてみてね。",
+      "news_index": 5,
+      "start_sec": 633.21,
+      "end_sec": 640.49
+    },
+    {
+      "index": 107,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "おやすみなさいなのだー!",
+      "news_index": 5,
+      "start_sec": 640.64,
+      "end_sec": 642.22
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 642.92,
+      "end_sec": 651.22
+    }
+  ],
+  "wall_time_sec": 18.83,
+  "audio_url": "/audio/ai/20261111_170803.mp3?v=1794385221"
+}
