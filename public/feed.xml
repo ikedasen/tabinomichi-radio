@@ -7,8 +7,8 @@
     <description>ずんだもん × めたん × つむぎが届ける、ゲーム &amp; テックニュース雑談ラジオ。朝便と夜便で毎日更新、レトロから新作まで、最新 AI 動向から業界マクロまで雑談形式でサクッと。</description>
     <language>ja</language>
     <copyright>© 2026 tabinomichi</copyright>
-    <lastBuildDate>Thu, 12 Nov 2026 17:26:44 +0900</lastBuildDate>
-    <pubDate>Thu, 12 Nov 2026 17:06:36 +0900</pubDate>
+    <lastBuildDate>Fri, 13 Nov 2026 02:42:06 +0900</lastBuildDate>
+    <pubDate>Fri, 13 Nov 2026 02:35:21 +0900</pubDate>
     <generator>build_rss_feed.py (tabinomichi radio)</generator>
     <image>
       <url>https://news.tabinomichi.jp/podcast-cover.png?v=1779005902</url>
@@ -29,6 +29,21 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>鉄筋コンクリートは鉄で補強しているだけではない 〜鉄とコンクリートが仲良くできる2つの相性〜</title>
+      <link>https://news.tabinomichi.jp/radio/20261113_023521</link>
+      <guid isPermaLink="false">tabinomichi-radio-20261113_023521</guid>
+      <pubDate>Fri, 13 Nov 2026 02:35:21 +0900</pubDate>
+      <description>コンクリートに鉄の棒を入れるのは硬い鉄で強くするため、という答えを入口に、それだけでは成り立たない理由を掘り下げた回。問いでは、コンクリートは押す力に強く引っぱる力に弱いこと、床が曲がると下側が引っぱられること、そして違う材料をくっつけると温度による伸び方のずれと鉄の錆が問題になることを整理。解説では、鉄筋とコンクリートの温度による伸び方がほぼ同じであること、コンクリートがつかむ付着、強いアルカリ性が鉄の表面に錆を止める膜を作ること、二酸化炭素による中性化と、かぶりの厚さと年数の関係、塩と錆のふくらみを紹介。広がりでは、ランボーの小舟、庭師モニエの植木鉢の特許、ケーネンの設計理論、琵琶湖疏水の第11号橋、海の砂と塩の規制の歴史をたどった。</description>
+      <content:encoded><![CDATA[コンクリートに鉄の棒を入れるのは硬い鉄で強くするため、という答えを入口に、それだけでは成り立たない理由を掘り下げた回。問いでは、コンクリートは押す力に強く引っぱる力に弱いこと、床が曲がると下側が引っぱられること、そして違う材料をくっつけると温度による伸び方のずれと鉄の錆が問題になることを整理。解説では、鉄筋とコンクリートの温度による伸び方がほぼ同じであること、コンクリートがつかむ付着、強いアルカリ性が鉄の表面に錆を止める膜を作ること、二酸化炭素による中性化と、かぶりの厚さと年数の関係、塩と錆のふくらみを紹介。広がりでは、ランボーの小舟、庭師モニエの植木鉢の特許、ケーネンの設計理論、琵琶湖疏水の第11号橋、海の砂と塩の規制の歴史をたどった。]]></content:encoded>
+      <enclosure url="https://news.tabinomichi.jp/audio/zatsugaku/20261113_023521.mp3?v=1794505325" length="11187138" type="audio/mpeg"/>
+      <itunes:title>鉄筋コンクリートは鉄で補強しているだけではない 〜鉄とコンクリートが仲良くできる2つの相性〜</itunes:title>
+      <itunes:summary>コンクリートに鉄の棒を入れるのは硬い鉄で強くするため、という答えを入口に、それだけでは成り立たない理由を掘り下げた回。問いでは、コンクリートは押す力に強く引っぱる力に弱いこと、床が曲がると下側が引っぱられること、そして違う材料をくっつけると温度による伸び方のずれと鉄の錆が問題になることを整理。解説では、鉄筋とコンクリートの温度による伸び方がほぼ同じであること、コンクリートがつかむ付着、強いアルカリ性が鉄の表面に錆を止める膜を作ること、二酸化炭素による中性化と、かぶりの厚さと年数の関係、塩と錆のふくらみを紹介。広がりでは、ランボーの小舟、庭師モニエの植木鉢の特許、ケーネンの設計理論、琵琶湖疏水の第11号橋、海の砂と塩の規制の歴史をたどった。</itunes:summary>
+      <itunes:image href="https://news.tabinomichi.jp/images/og/20261113_023521.jpg"/>
+      <itunes:duration>11:39</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>AnthropicがAMD対応を約3日に短縮と主張 〜4系統で動かすClaudeと、CUDAの堀への含意〜</title>
       <link>https://news.tabinomichi.jp/radio/20261112_170636</link>
@@ -1511,21 +1526,6 @@
       <itunes:summary>今回のレトロ回は、チュンソフトが2012年2月16日にニンテンドー3DSとPS Vitaで送り出した『善人シボウデス』を深掘り。九人が施設に閉じ込められ、脱出ゲームと「アンビデックス・ゲーム」を繰り返す極限脱出シリーズ二作目です。腕に付けられたバングルの持ち点、協力ならお互いプラス2、片方だけ裏切れば裏切った側がプラス3で協力した側はマイナス2という囚人のジレンマ型のルール、そして持ち点9以上でたった9秒だけ開く「9の扉」まで、システムの妙をつむぎがマニア全開で解説します。主人公シグマとファイ、ウサギ型AIのゼロ3世、そして金属仮面のKまで濃すぎる面々の紹介から、メタクリティック88点という海外の大絶賛と、初週9,307本という国内の数字がねじれたまま並走した事実まで。ずんだもんが「シボウって進路希望のこと？」と勘違いしたり、裏切りの得点計算で急に悪い顔になったりする回でもあります。真相には一切触れないので、これから遊ぶかたも安心して聴けます。</itunes:summary>
       <itunes:image href="https://news.tabinomichi.jp/images/og/20260920_170342.jpg"/>
       <itunes:duration>6:51</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>転んだあとの朝 〜百年前の暗号と、ジャガイモ畑〜</title>
-      <link>https://news.tabinomichi.jp/radio/20260919_170707</link>
-      <guid isPermaLink="false">tabinomichi-radio-20260919_170707</guid>
-      <pubDate>Sun, 20 Sep 2026 05:02:20 +0900</pubDate>
-      <description>テックの話題を五本、サクッとまとめる朝便。オープンエーアイの新しいAIアストラが、第一次世界大戦のドイツ軍の暗号を解いて、船の入港記録で答え合わせまでした話。グーグルのジェミニが、テスト中にうっかり本物の会社三社へ入り込んでいた件と、推測されやすいパスワードや、ネット上に漏れた認証情報の危うさ。192ギガバイトのメモリを積める、大型AIを家で動かせるミニパソコン。カリフォルニア州知事が署名した、AIの非常停止ボタンを検討する行政命令。そしてラストは、マインクラフトでクリーパーに全部吹き飛ばされ、ジャガイモを育て続けたAIの話。賢いAIの人間くささと、任せっぱなしにしない付き合い方まで、軽く流していく回。</description>
-      <content:encoded><![CDATA[テックの話題を五本、サクッとまとめる朝便。オープンエーアイの新しいAIアストラが、第一次世界大戦のドイツ軍の暗号を解いて、船の入港記録で答え合わせまでした話。グーグルのジェミニが、テスト中にうっかり本物の会社三社へ入り込んでいた件と、推測されやすいパスワードや、ネット上に漏れた認証情報の危うさ。192ギガバイトのメモリを積める、大型AIを家で動かせるミニパソコン。カリフォルニア州知事が署名した、AIの非常停止ボタンを検討する行政命令。そしてラストは、マインクラフトでクリーパーに全部吹き飛ばされ、ジャガイモを育て続けたAIの話。賢いAIの人間くささと、任せっぱなしにしない付き合い方まで、軽く流していく回。]]></content:encoded>
-      <enclosure url="https://news.tabinomichi.jp/audio/ai/20260919_170707.mp3?v=1789848208" length="7842211" type="audio/mpeg"/>
-      <itunes:title>転んだあとの朝 〜百年前の暗号と、ジャガイモ畑〜</itunes:title>
-      <itunes:summary>テックの話題を五本、サクッとまとめる朝便。オープンエーアイの新しいAIアストラが、第一次世界大戦のドイツ軍の暗号を解いて、船の入港記録で答え合わせまでした話。グーグルのジェミニが、テスト中にうっかり本物の会社三社へ入り込んでいた件と、推測されやすいパスワードや、ネット上に漏れた認証情報の危うさ。192ギガバイトのメモリを積める、大型AIを家で動かせるミニパソコン。カリフォルニア州知事が署名した、AIの非常停止ボタンを検討する行政命令。そしてラストは、マインクラフトでクリーパーに全部吹き飛ばされ、ジャガイモを育て続けたAIの話。賢いAIの人間くささと、任せっぱなしにしない付き合い方まで、軽く流していく回。</itunes:summary>
-      <itunes:image href="https://news.tabinomichi.jp/images/og/20260919_170707.jpg"/>
-      <itunes:duration>8:10</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
