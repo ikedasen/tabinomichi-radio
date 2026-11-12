@@ -1,0 +1,697 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-11-12T20:06:35.290509+00:00",
+  "title": "Googleの「速い方」のAIが上位モデルを追い抜く 〜Gemini 4 Hydrogen、3.8 Flashの現行価格比2倍で指数54〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "intro",
+      "text": "おはようございます、旅の道ラジオ朝便、テック深掘り回。四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝は1本がっつりいくのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今回のテーマは、グーグルのAI、ジェミニの新しいモデル、ジェミニ フォー ハイドロジェンよ。十一月十二日に出たばかりなの。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ハイドロジェンって、水素のことなのだ? 水素水みたいに、飲むと体にいいAIなのだ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "飲めないわよ。面白いのは、速さと安さが売りのモデルなのに、一つ上のクラスのアルゴンを、ある指数で追い抜いたってところね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "弟が兄ちゃんに、かけっこで勝っちゃったのだ!?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そんな感じ。価格は将来の標準料金なら前任と同じだけど、前任の今の記念価格と比べると倍なの。通勤・通学のお供にじっくりほどいていくわね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "まず、ジェミニって何なのだ? ボク、名前しか知らないのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "グーグルが作ってるAIのシリーズよ。チャットで質問に答えたり、検索の答えを書いたりする頭脳ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "チャットジーピーティーとか、クロードの、ライバルってことなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。で、今のジェミニ フォーには、元素の名前が付いた三兄弟がいるの。ハイドロジェン、カーボン、アルゴンよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "元素!? あのすいへーりーべーで有名なやつなのだ!?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "それそれ。水素は一番、炭素は六番、アルゴンは十八番ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "じゃあ番号が一番大きいアルゴンが、最強のお兄ちゃんなのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこがややこしいところで、番号の順じゃないのよ。グーグルの説明だと、上位のカーボンとアルゴンは、長くじっくり考える係なの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあハイドロジェンは、何係なのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "速く手を動かす係よ。グーグルは、AIエージェントの普段使いの相棒、って言い方をしてるわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "えーじぇんと? 映画のスパイなのだ? ボク、サングラス持ってないのだ……",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "サングラスは要らないわ。頼んだ作業を、自分で段取りして最後まで進めてくれるAIのことよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "宿題をやれって言ったら、調べて、書いて、提出までしてくれるやつなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "提出は自分でしなさい。でも、イメージはそれね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ハイドロジェンの前任は、ジェミニ サンテンハチ フラッシュ。フラッシュは、グーグルの速くて安い方のシリーズ名よ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "前任ってことは、フラッシュはもう引退なのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "新しいハイドロジェンが、その席を引き継ぐ形ね。番号もサンテンハチから、いきなりフォーに上がったの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "背番号が変わると、気合いも変わるのだ。で、アルゴンはいつ出たのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "アルゴンが使えるようになったのは十月。それから一か月ほどで、弟分に指数で抜かれたわけ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "デビューして一か月で抜かれるのだ!? ボクなら一週間は寝込むのだ……",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "しかも十月末には、一番上のカーボンも出てるわ。グーグルは、ここ一か月ちょっとで三兄弟をそろえたのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "新作ラッシュで、ボクの頭が追いつかないのだ……",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "要するに、上の兄二人は考える係、ハイドロジェンは速く動く係。その速い係が、ある物差しで上の兄に並んだって話よ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "じゃあ中身なのだ! どのくらい速くて、どのくらい賢いのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "まず速さ。グーグルによると、標準の設定で、前のサンテンハチ フラッシュより2.5倍速く作業を終えるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "2.5倍って、カップ麺が三分じゃなくて、一分ちょっとでできるってことなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "計算は合ってるわ。協力企業の仕事では、2倍から2.8倍速くなって、使う量も12%から23%減ったそうよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "使う量? AIって、ガソリンでも食べてるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "食べてるのはトークン。AIが文章を読み書きするときの、文字のかけらみたいな単位よ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "文字のかけら……おせんべいの割れたやつみたいなのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "たとえは可愛いけど、そう。AIの料金はこのかけらの数で決まるから、少なく済むとそのぶん安くなるのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "少食で働き者、理想のバイト仲間なのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "バイト仲間にするには優秀すぎるわね。次は賢さの話よ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "賢さって、テストの点数で測るのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。パソコンの黒い画面でAIに作業をさせる、ターミナルベンチっていうテストで57%、前のフラッシュは18.2%だったわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "18点から57点!? テスト前に一夜漬けしても、そんなに上がらないのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "三倍以上ね。で、話題の中心はこっち、アーティフィシャル アナリシスっていう外部の評価会社の、総合の賢さ指数よ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "しすう? 偏差値みたいなものなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "近いわ、いろんなテストをまとめて一つの点数にしたもの。グーグルの紹介だと、ハイドロジェンは51、アルゴンは50なの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "51対50!? それって、ほとんど引き分けなのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "鋭いわね、標準の設定だと僅差よ。でも、一番深く考える新しい設定だと54まで上がるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "設定って、エアコンの強弱みたいなやつなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。考える深さを、ロー、ミディアム、ハイ、新しく足されたエックスハイの四段階で選べて、標準はハイよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "エックスハイ……強の上の、激強なのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そんなところ。深く考えるほど賢くなるけど、そのぶん時間もかけらも使うから、自分で選ぶ仕組みね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ちなみに、一番上のカーボンは何点なのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "グーグルのトップが十月に示した数字だと59。だから、ハイドロジェンが兄を全員抜いたわけじゃないわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "次男は抜いたけど、長男にはまだ届かない。三兄弟のかけっこ、熱いのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "もう一つの売りが、でっちあげの減り方。グーグルによると、事実じゃない主張を作ってしまう量が、前のフラッシュの五分の一以下になったそうよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "でっちあげ!? AIって、嘘をつくのだ!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "わざとじゃないの。知らないことでも、それっぽい答えを作っちゃうクセがあって、ハルシネーションって呼ばれてるわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "知ったかぶりなのだ……ボクも急に話を振られたとき、たまにやるのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "自白しないの。それと、一回のやりとりで扱える入力と出力の合計は約百万トークンで、分厚い資料もまとめて渡せるわね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも、なんで速い係が、考える係のお兄ちゃんに並べちゃうのだ? 軽い力士が、相撲で勝つみたいな話なのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "グーグルは、作り方の細かい中身までは出してないの。ただ、なぜ指数でアルゴンを上回ったのかは、作り方の中身が公表されていない以上、今のところ断定できないわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "筋肉の量より、フォームがきれいな方が速く走れる、みたいな話なのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そうとはまだ言えないわ。今回わかるのは、速さ重視のモデルでも、総合指数では上位モデルに迫れるってことね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、この点数はもう信じていいのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこは注意点。ここまでの数字には、グーグル自身の測定と、アーティフィシャル アナリシスなど外部組織の独立評価が混ざってるわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "外部のテストと、自社で測った数字が混ざってるってことなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そういうこと。だから、数字ごとに誰が測ったのかを分けて見るのが大事ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、ボクたちの生活には、何が変わるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "分けて考えましょう。いちばん身近なのはグーグル検索で、ハイドロジェンは世界中の全ユーザー向けの検索に入ったって発表されてるの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、ボクが毎日使ってる検索にも、もう入ってるのだ!?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "発表ではそう。ただ、検索のどの答えをハイドロジェンが書いてるのか、細かい範囲までは書かれてないわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、ジェミニのアプリはどうなのだ? ボク、無料で使ってるのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "有料プランの人は、モデルの一覧から選べるの。無料の人は、AIが質問に合わせてモデルを自動で選ぶときに、ハイドロジェンが回ってくることがある形ね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "回転寿司で、たまに大トロが流れてくる感じなのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "言い得て妙ね。自分では選べないけど、当たる日はある。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "次、プログラムを作ってる人はどうなのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "開発者向けの値段は、百万トークンあたり入力1.5ドル、出力7.5ドル。これは前のサンテンハチ フラッシュの将来の標準価格と同じだけど、今の記念価格と比べると倍よ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "1.5ドルって、二百数十円なのだ。自販機のジュース一本ちょっとなのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そうね。今のフラッシュより料金は倍だけど、速度や性能がどこまで上乗せ分に見合うかがポイントね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "お兄ちゃんのアルゴンは、いくらなのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今は発売記念で、入力2ドル、出力10ドル。報道では、記念期間が終わると倍になる予定ね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "倍!? じゃあアルゴンを使ってた人は、みんなハイドロジェンに引っ越した方がお得なのだ?",
+      "news_index": 3,
+      "reading": "ばい!?じゃあアルゴンをつかってたひとは、みんなハイドロジェンにひっこしたほうがおとくなのだ?"
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "作業によるわ。グーグル自身も、長くじっくり考える難問や、気づきにくいバグ探しは、上の兄たちの方が向いてるって言ってるの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、どう使い分ければいいのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "普段の大量の作業はハイドロジェン、ここ一番の難問だけ上位に回す。グーグルのプログラム作りの道具、アンチグラビティには、それを自動でやるオーケストレーターって機能も入ったの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "おーけすとれーたー? オーケストラの指揮者なのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "正解。ハイドロジェンとカーボンを組ませて、カーボンに近い成功率を、24%少ない使用量と19%速い時間で出したそうよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "普段は弟が走って、困ったら兄ちゃんを呼ぶ。チームプレーなのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。仕事で使う人向けには、グーグルの表計算、シーツにも入るわ。対象の会社向けプランや上位の個人プランからね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ほかの会社のAIを使ってる人には、関係あるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "直接はないわ。でも速い係がここまで賢くなると、高い上位モデルの出番が減って、ライバルも値段か性能で応えざるをえない、というのが私の見立てよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "アンソロピックの一番上のフェイブルは、入力8ドルだったのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "よく覚えてたわね。ただ、あっちは最上位の考える係で、役割が違うから単純には比べられないわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "要するに、すぐ変わるのは検索と開発者のお財布、じわじわ変わるのは業界の値札、ってことなのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "完璧な要約ね、今日はキレてるじゃない。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあ、これから何を見ておけばいいのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三つあるわ。一つ目は追加の外部検証で、速度や事実性の改善が、実際のさまざまな仕事でも再現するかね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "グーグルが測った部分を、外でも確かめるのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二つ目はライバルの反応。オープンエーアイやアンソロピックが、速くて安い係のモデルを、値段か性能でどう打ち返してくるか。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "かけっこの第二レースなのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "三つ目はアルゴンの立ち位置。記念価格が終わって値段が上がったとき、それでもアルゴンを選ぶ理由が残るのかどうか、ね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "弟に並ばれて、値段だけ上がるお兄ちゃん……ちょっとかわいそうなのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "だからこそ、長く考える仕事での強みを、グーグルがどう見せるかが大事になるわね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "使う側の注意点も、ちゃんと言っとくのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そうね。でっちあげは減ってもゼロじゃないから、大事な調べものは元の情報も確かめる習慣を続けましょう。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "今朝は、グーグルの速い係のAI、ハイドロジェンが、上のアルゴンをある指数で追い抜いた話だったのだ。",
+      "news_index": 5,
+      "reading": "けさは、グーグルのはやいかかりのAI、ハイドロジェンが、うえのアルゴンをあるしすうでおいぬいたはなしだったのだ。"
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "まとめるわね。値段は据え置きで速くて賢いけれど、一番上のカーボンにはまだ届かない。速さ重視のモデルが、総合指数で上位モデルに迫ったニュースね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "水素とアルゴンと、回転寿司の大トロ。今日の雑談のネタにするのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "大トロは余計だけど、まあいいわ。聴いてくれてるかた、いってらっしゃい。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "気になる人は、グーグルの発表をのぞいてみるのだ! 次も大きいニュースがあったら、深掘り回でお届けするのだ!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それじゃあ、またね。",
+      "news_index": 5
+    }
+  ],
+  "program_description": "グーグルが十一月十二日に出したAI、Gemini 4 Hydrogenをじっくり掘り下げる深掘り回。背景では、元素の名前が付いたジェミニ フォー三兄弟の役割分担と、前任の3.8 Flashからの世代交代を整理。技術編では、2.5倍の速さ、ターミナルベンチ57%、外部の総合指数で上位のArgonの50に対して51、最も深い設定で54という数字を解説し、最上位のCarbonにはまだ届かない点や、数字ごとにグーグル側の測定と外部の独立評価が混在する注意点にも触れた。含意編では検索や無料アプリへの広がり、前モデルの現行価格から倍になる料金と、そのぶんの性能向上、上位モデルとの使い分けを語り、展望では第三者の検証、ライバルの反応、Argonの記念価格が終わった後の立ち位置を見どころに挙げた。",
+  "variant": "tech_deepdive",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20261113_050635_chars.webp",
+    "hero_rel": "/images/topics/tech_20261113_050635.webp",
+    "title": "Googleの「速い方」のAIが上位モデルを追い抜く 〜Gemini 4 Hydrogen、3.8 Flashの現行価格比2倍で指数54〜",
+    "companies": [
+      "Google",
+      "Gemini",
+      "Claude",
+      "OpenAI"
+    ],
+    "thumbnail_ready": true
+  },
+  "summary_short": "Googleが11月12日に出したGemini 4 Hydrogenは、前任3.8 Flashの2.5倍の速さで、外部総合指数は上位Argonの50を超え51、最深設定なら54。料金は現行の倍。最上位Carbonには届かない中での使い分けを探ります。",
+  "published_at": "2026-11-13T07:02:08+09:00"
+}
