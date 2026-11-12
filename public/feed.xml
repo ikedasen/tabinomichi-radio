@@ -7,8 +7,8 @@
     <description>ずんだもん × めたん × つむぎが届ける、ゲーム &amp; テックニュース雑談ラジオ。朝便と夜便で毎日更新、レトロから新作まで、最新 AI 動向から業界マクロまで雑談形式でサクッと。</description>
     <language>ja</language>
     <copyright>© 2026 tabinomichi</copyright>
-    <lastBuildDate>Thu, 12 Nov 2026 07:03:08 +0900</lastBuildDate>
-    <pubDate>Thu, 12 Nov 2026 07:01:52 +0900</pubDate>
+    <lastBuildDate>Thu, 12 Nov 2026 17:26:44 +0900</lastBuildDate>
+    <pubDate>Thu, 12 Nov 2026 17:06:36 +0900</pubDate>
     <generator>build_rss_feed.py (tabinomichi radio)</generator>
     <image>
       <url>https://news.tabinomichi.jp/podcast-cover.png?v=1779005902</url>
@@ -29,6 +29,21 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>AnthropicがAMD対応を約3日に短縮と主張 〜4系統で動かすClaudeと、CUDAの堀への含意〜</title>
+      <link>https://news.tabinomichi.jp/radio/20261112_170636</link>
+      <guid isPermaLink="false">tabinomichi-radio-20261112_170636</guid>
+      <pubDate>Thu, 12 Nov 2026 17:06:36 +0900</pubDate>
+      <description>今夜は、アンソロピックが上場前の投資家向け説明会で明かした、AIチップの裏側をじっくり掘り下げた。背景では、クロードをアマゾン、グーグル、エヌビディア、エーエムディーの四系統のチップで動かすという型破りな賭けと、七月のエーエムディー提携を整理。技術編では、エヌビディアの強さの源とされるクーダの堀と、移植の山場であるカーネルを噛み砕き、数十人で数か月かかっていた作業をクロード・ミュトス・プレビューが約三日でこなしたという主張と、その注意書きを紹介した。含意では、混雑への強さ、計算の効率、チップの値段交渉、ティーエスエムシーの出資やフラクタイルの台頭を語り、展望では検証用の数字、エヌビディアの決算、他社が真似できるかという三つの注目点を挙げた。</description>
+      <content:encoded><![CDATA[今夜は、アンソロピックが上場前の投資家向け説明会で明かした、AIチップの裏側をじっくり掘り下げた。背景では、クロードをアマゾン、グーグル、エヌビディア、エーエムディーの四系統のチップで動かすという型破りな賭けと、七月のエーエムディー提携を整理。技術編では、エヌビディアの強さの源とされるクーダの堀と、移植の山場であるカーネルを噛み砕き、数十人で数か月かかっていた作業をクロード・ミュトス・プレビューが約三日でこなしたという主張と、その注意書きを紹介した。含意では、混雑への強さ、計算の効率、チップの値段交渉、ティーエスエムシーの出資やフラクタイルの台頭を語り、展望では検証用の数字、エヌビディアの決算、他社が真似できるかという三つの注目点を挙げた。]]></content:encoded>
+      <enclosure url="https://news.tabinomichi.jp/audio/ai/20261112_170636.mp3?v=1794472000" length="11364771" type="audio/mpeg"/>
+      <itunes:title>AnthropicがAMD対応を約3日に短縮と主張 〜4系統で動かすClaudeと、CUDAの堀への含意〜</itunes:title>
+      <itunes:summary>今夜は、アンソロピックが上場前の投資家向け説明会で明かした、AIチップの裏側をじっくり掘り下げた。背景では、クロードをアマゾン、グーグル、エヌビディア、エーエムディーの四系統のチップで動かすという型破りな賭けと、七月のエーエムディー提携を整理。技術編では、エヌビディアの強さの源とされるクーダの堀と、移植の山場であるカーネルを噛み砕き、数十人で数か月かかっていた作業をクロード・ミュトス・プレビューが約三日でこなしたという主張と、その注意書きを紹介した。含意では、混雑への強さ、計算の効率、チップの値段交渉、ティーエスエムシーの出資やフラクタイルの台頭を語り、展望では検証用の数字、エヌビディアの決算、他社が真似できるかという三つの注目点を挙げた。</itunes:summary>
+      <itunes:image href="https://news.tabinomichi.jp/images/og/20261112_170636.jpg"/>
+      <itunes:duration>11:50</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>黒子たちの朝 〜長考するAIと、両方に賭ける工場〜</title>
       <link>https://news.tabinomichi.jp/radio/20261112_050428</link>
@@ -1511,21 +1526,6 @@
       <itunes:summary>テックの話題を五本、サクッとまとめる朝便。オープンエーアイの新しいAIアストラが、第一次世界大戦のドイツ軍の暗号を解いて、船の入港記録で答え合わせまでした話。グーグルのジェミニが、テスト中にうっかり本物の会社三社へ入り込んでいた件と、推測されやすいパスワードや、ネット上に漏れた認証情報の危うさ。192ギガバイトのメモリを積める、大型AIを家で動かせるミニパソコン。カリフォルニア州知事が署名した、AIの非常停止ボタンを検討する行政命令。そしてラストは、マインクラフトでクリーパーに全部吹き飛ばされ、ジャガイモを育て続けたAIの話。賢いAIの人間くささと、任せっぱなしにしない付き合い方まで、軽く流していく回。</itunes:summary>
       <itunes:image href="https://news.tabinomichi.jp/images/og/20260919_170707.jpg"/>
       <itunes:duration>8:10</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>開かない扉と一語の壁 〜1983年、埼玉に建った理不尽な遊園地〜</title>
-      <link>https://news.tabinomichi.jp/radio/20260919_170400</link>
-      <guid isPermaLink="false">tabinomichi-radio-20260919_170400</guid>
-      <pubDate>Sun, 20 Sep 2026 05:02:20 +0900</pubDate>
-      <description>今回のレトロ回は、ハドソンが1983年11月20日に出したコマンド入力式アドベンチャー『デゼニランド』。選択肢は一切なく、英単語を自分で打ち込んで進めるという時代の遊びかたを、つむぎの中古屋発掘トークから掘り起こしていきます。舞台は埼玉県に建てられた架空の遊園地で、インターナショナルバザールやジャングルクローズ、ホラマンション、スペースリバーといったアトラクションはパロディ仕立て。開発のきっかけが1983年4月に開園した東京ディズニーランドへの社員一同のおでかけだった話や、機械語による高速な彩色描画がウリだった一方でMSX版だけが線画だったことにも触れます。そして最大の名物が、SETでもPUTでも通らずATTACHでしか進めない理不尽な場面。理不尽なのに約5万本売れてハドソンの開発方針にまで影響したこと、PC-6001mkII版ではヒントが足されたこと、続編がデゼニワールドであることまで並べつつ、当時の値段すら資料に残っていない情報の薄さ自体をネタにして笑う回です。</description>
-      <content:encoded><![CDATA[今回のレトロ回は、ハドソンが1983年11月20日に出したコマンド入力式アドベンチャー『デゼニランド』。選択肢は一切なく、英単語を自分で打ち込んで進めるという時代の遊びかたを、つむぎの中古屋発掘トークから掘り起こしていきます。舞台は埼玉県に建てられた架空の遊園地で、インターナショナルバザールやジャングルクローズ、ホラマンション、スペースリバーといったアトラクションはパロディ仕立て。開発のきっかけが1983年4月に開園した東京ディズニーランドへの社員一同のおでかけだった話や、機械語による高速な彩色描画がウリだった一方でMSX版だけが線画だったことにも触れます。そして最大の名物が、SETでもPUTでも通らずATTACHでしか進めない理不尽な場面。理不尽なのに約5万本売れてハドソンの開発方針にまで影響したこと、PC-6001mkII版ではヒントが足されたこと、続編がデゼニワールドであることまで並べつつ、当時の値段すら資料に残っていない情報の薄さ自体をネタにして笑う回です。]]></content:encoded>
-      <enclosure url="https://news.tabinomichi.jp/audio/indie/20260919_170400.mp3?v=1789848213" length="6653535" type="audio/mpeg"/>
-      <itunes:title>開かない扉と一語の壁 〜1983年、埼玉に建った理不尽な遊園地〜</itunes:title>
-      <itunes:summary>今回のレトロ回は、ハドソンが1983年11月20日に出したコマンド入力式アドベンチャー『デゼニランド』。選択肢は一切なく、英単語を自分で打ち込んで進めるという時代の遊びかたを、つむぎの中古屋発掘トークから掘り起こしていきます。舞台は埼玉県に建てられた架空の遊園地で、インターナショナルバザールやジャングルクローズ、ホラマンション、スペースリバーといったアトラクションはパロディ仕立て。開発のきっかけが1983年4月に開園した東京ディズニーランドへの社員一同のおでかけだった話や、機械語による高速な彩色描画がウリだった一方でMSX版だけが線画だったことにも触れます。そして最大の名物が、SETでもPUTでも通らずATTACHでしか進めない理不尽な場面。理不尽なのに約5万本売れてハドソンの開発方針にまで影響したこと、PC-6001mkII版ではヒントが足されたこと、続編がデゼニワールドであることまで並べつつ、当時の値段すら資料に残っていない情報の薄さ自体をネタにして笑う回です。</itunes:summary>
-      <itunes:image href="https://news.tabinomichi.jp/images/og/20260919_170400.jpg"/>
-      <itunes:duration>6:55</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>

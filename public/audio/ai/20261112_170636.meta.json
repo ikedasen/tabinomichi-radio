@@ -1,0 +1,1166 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-11-12T17:06:36+09:00",
+  "title": "AnthropicがAMD対応を約3日に短縮と主張 〜4系統で動かすClaudeと、CUDAの堀への含意〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 710.23,
+  "script_hash": "sha256:a8969424e54e2387b60c8c7586709224634dffb131d18b7bc1aae8c6f113c4ff",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 5.56
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "intro",
+      "text": "こんばんは、旅の道ラジオ夜便、テックの深掘り回よ。四国めたんです。",
+      "news_index": 0,
+      "start_sec": 5.56,
+      "end_sec": 10.7
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだ! 今夜は一本だけ、じっくりいくのだ!",
+      "news_index": 0,
+      "start_sec": 10.85,
+      "end_sec": 15.05
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今夜のテーマは、AIのチップの引っ越し話。アンソロピックが、上場前の投資家向けの説明会で、社内の裏側を明かしたの。",
+      "news_index": 0,
+      "start_sec": 15.2,
+      "end_sec": 23.5
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "チップの引っ越し? パソコンの部品を、段ボールに詰めて運ぶのだ?",
+      "news_index": 0,
+      "start_sec": 23.65,
+      "end_sec": 28.51
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "運送屋さんは呼ばないわ。一つのモデルの入力を処理する部分を、エーエムディーのGPUで実用的な速さまで立ち上げるのに、約三日だったって話よ。",
+      "news_index": 0,
+      "start_sec": 28.66,
+      "end_sec": 38.35
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "三日!? 前は、どれくらいかかってたのだ?",
+      "news_index": 0,
+      "start_sec": 38.5,
+      "end_sec": 41.64
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "本人たちの比較だと、従来の新しいチップの立ち上げは、技術者数十人で半年から一年。今回は一つのモデルの入力処理を、AIが約三日で立ち上げたの。",
+      "news_index": 0,
+      "start_sec": 41.79,
+      "end_sec": 53.03
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "AIが、自分の引っ越しを自分でやったのだ! それは聞き逃せないのだ。",
+      "news_index": 0,
+      "start_sec": 53.18,
+      "end_sec": 58.59
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "これがエヌビディアの強さの秘密、クーダの堀を崩すのか。今夜は順番にほどいていくわ。",
+      "news_index": 0,
+      "start_sec": 58.74,
+      "end_sec": 64.23
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "まず背景から。説明会は十一月十日に始まって、四十二分の動画が公開されたの。",
+      "news_index": 1,
+      "start_sec": 64.31,
+      "end_sec": 70.49
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "四十二分の動画? 社長の自己紹介ビデオなのだ?",
+      "news_index": 1,
+      "start_sec": 70.64,
+      "end_sec": 74.66
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "近いわね。上場の前に、会社が投資家を回って、うちはこんなに強いって説明するの。ロードショーって呼ぶのよ。",
+      "news_index": 1,
+      "start_sec": 74.81,
+      "end_sec": 82.19
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "その中で、計算担当の役員をしてる共同創業者のトム・ブラウンさんが、計算資源の話をしたの。",
+      "news_index": 1,
+      "start_sec": 82.27,
+      "end_sec": 89.08
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "けいさんしげん? そろばんの在庫なのだ?",
+      "news_index": 1,
+      "start_sec": 89.23,
+      "end_sec": 92.09
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "AIを鍛えたり、答えを出したりするための、チップの計算パワーのことよ。AIの会社にとっては、ガソリンみたいなもの。",
+      "news_index": 1,
+      "start_sec": 92.24,
+      "end_sec": 100.24
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "で、トムさんは何て言ったのだ?",
+      "news_index": 1,
+      "start_sec": 100.39,
+      "end_sec": 102.65
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "クロードは今、主要な四つのチップの系統すべてで、学習も、答えを返す処理もしてる、って。",
+      "news_index": 1,
+      "start_sec": 102.8,
+      "end_sec": 109.04
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "四つ!? AIのチップって、エヌビディア一択じゃなかったのだ?",
+      "news_index": 1,
+      "start_sec": 109.19,
+      "end_sec": 114.69
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこがポイント。アマゾンのトレイニアム、グーグルのティーピーユー、エヌビディアのジーピーユー、エーエムディーのジーピーユーの四つよ。",
+      "news_index": 1,
+      "start_sec": 114.84,
+      "end_sec": 122.56
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "アマゾンとグーグルも、チップを作ってるのだ?",
+      "news_index": 1,
+      "start_sec": 122.71,
+      "end_sec": 125.89
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう、自分のデータセンター用に自前で設計してるの。通販と検索の会社が、半導体まで手作りしてる時代ね。",
+      "news_index": 1,
+      "start_sec": 126.04,
+      "end_sec": 133.6
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "で、トムさんいわく、四つ全部を使うのは、早い時期に張った型破りな賭けだったって。",
+      "news_index": 1,
+      "start_sec": 133.68,
+      "end_sec": 139.45
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "賭け? 四つ全部使えるなら、得しかないのだ。",
+      "news_index": 1,
+      "start_sec": 139.6,
+      "end_sec": 143.25
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "それが、そう簡単じゃないの。チップごとに専用のソフトの土台を一から作り込む必要があって、お金も手間もかかるのよ。",
+      "news_index": 1,
+      "start_sec": 143.4,
+      "end_sec": 150.76
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "一つのゲームを、四つの違うゲーム機向けに作り直す感じなのだ?",
+      "news_index": 1,
+      "start_sec": 150.91,
+      "end_sec": 155.66
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "いいたとえね。だから業界では、手間の割に合わないって見方も多かったの。それでもアンソロピックは、何年も前からそこに投資してきたわけ。",
+      "news_index": 1,
+      "start_sec": 155.81,
+      "end_sec": 164.31
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でもエーエムディーは、いつから仲間になったのだ?",
+      "news_index": 1,
+      "start_sec": 164.46,
+      "end_sec": 167.8
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今年の七月に、エーエムディーの新しいGPUを最大2ギガワット分使う提携を発表してるの。最初の1ギガワットは、2027年の前半から動き出す計画よ。",
+      "news_index": 1,
+      "start_sec": 167.95,
+      "end_sec": 179.14
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ギガワット!? ボクの部屋のドライヤー、何台分なのだ!?",
+      "news_index": 1,
+      "start_sec": 179.29,
+      "end_sec": 183.14
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "ドライヤーで数えないで。大きな発電所二つ分くらいの電気を使う規模、ってイメージでいいわ。",
+      "news_index": 1,
+      "start_sec": 183.29,
+      "end_sec": 189.07
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、そのエーエムディーのチップで、一つのモデルの入力処理を立ち上げたのが、今回の話なのだ。",
+      "news_index": 1,
+      "start_sec": 189.22,
+      "end_sec": 195.49
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。要するに、チップの好き嫌いをしない体質を、わざわざ時間をかけて作ってきた会社の話なのよ。",
+      "news_index": 1,
+      "start_sec": 195.64,
+      "end_sec": 202.55
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ここから中身。そもそも、なんでチップの乗り換えが大変なのかを先に話すわね。",
+      "news_index": 2,
+      "start_sec": 202.63,
+      "end_sec": 207.84
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "部品を差し替えるだけじゃないのだ?",
+      "news_index": 2,
+      "start_sec": 207.99,
+      "end_sec": 210.36
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "部品は差し替えられても、ソフトが動かないの。エヌビディアには、クーダっていう、GPUに仕事を頼むための専用の道具一式があるのよ。",
+      "news_index": 2,
+      "start_sec": 210.51,
+      "end_sec": 219.05
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "くーだ? どこかの方言で、くださいってことなのだ?",
+      "news_index": 2,
+      "start_sec": 219.2,
+      "end_sec": 223.8
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "方言じゃないわ。2006年ごろからエヌビディアが育ててきた、GPU向けにプログラムを書く仕組みのこと。",
+      "news_index": 2,
+      "start_sec": 223.95,
+      "end_sec": 230.34
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "二十年近く前なのだ!? ボクのランドセルより年上なのだ!",
+      "news_index": 2,
+      "start_sec": 230.49,
+      "end_sec": 234.48
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "その二十年の間に、世界中の研究者や会社が、クーダ前提でプログラムを書き溜めてきたの。",
+      "news_index": 2,
+      "start_sec": 234.63,
+      "end_sec": 240.67
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "書き溜めたって、どれくらいなのだ?",
+      "news_index": 2,
+      "start_sec": 240.82,
+      "end_sec": 243.27
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "数えきれないくらいよ。便利な部品集も、ノウハウも、ネットの質問と答えも、全部クーダ向けにそろってるの。",
+      "news_index": 2,
+      "start_sec": 243.42,
+      "end_sec": 250.44
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "それ、他のチップに乗り換えたら、全部ゼロからなのだ?",
+      "news_index": 2,
+      "start_sec": 250.59,
+      "end_sec": 255.63
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこが堀、ようはお城の周りの水の溝ね。チップの性能だけじゃなく、この乗り換えの面倒くささが、エヌビディアを守ってきたって言われてるの。",
+      "news_index": 2,
+      "start_sec": 255.78,
+      "end_sec": 264.73
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "お城に攻め込もうにも、お堀が深すぎて渡れないのだ。",
+      "news_index": 2,
+      "start_sec": 264.88,
+      "end_sec": 268.89
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "そういうこと。エーエムディーにもロックエムっていう似た仕組みはあるけど、部品集の厚みやなじみでは、まだ追いかける側なの。",
+      "news_index": 2,
+      "start_sec": 269.04,
+      "end_sec": 276.27
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ移植って、具体的に何を書き直すのだ?",
+      "news_index": 2,
+      "start_sec": 276.42,
+      "end_sec": 279.92
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "移植で重要になるのがカーネル。GPUの上で、実際に計算を回す小さなプログラムのことよ。",
+      "news_index": 2,
+      "start_sec": 280.07,
+      "end_sec": 286.57
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "カーネル? フライドチキンのお店の前に立ってる、白いスーツのおじさんなのだ?",
+      "news_index": 2,
+      "start_sec": 286.72,
+      "end_sec": 293.37
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "その人は関係ないわ。AIの計算の一番細かい手順書みたいなもので、チップのクセに合わせて書かないと速く動かないの。",
+      "news_index": 2,
+      "start_sec": 293.52,
+      "end_sec": 301.27
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "トムさんの話では、これまで新しいチップを使えるようにするには、技術者数十人が何か月もかかってたって。",
+      "news_index": 2,
+      "start_sec": 301.35,
+      "end_sec": 308.26
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "数十人で数か月!? クラス全員で、夏休みを丸ごとつぶす量なのだ!",
+      "news_index": 2,
+      "start_sec": 308.41,
+      "end_sec": 313.64
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "で、今回はクロード・ミュトス・プレビューに任せたら、一つのモデルの入力処理が、エーエムディーのGPUで約三日で実用水準まで動いた。ほとんど人の手なしで、だって。",
+      "news_index": 2,
+      "start_sec": 313.79,
+      "end_sec": 325.25
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ミュトスって、前に出てきた、一番上のクラスのクロードの仲間なのだ?",
+      "news_index": 2,
+      "start_sec": 325.4,
+      "end_sec": 330.78
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そうよ。しかもカーネルは、ほぼ100%を、クロードが移植するか新しく書いたって言ってるの。",
+      "news_index": 2,
+      "start_sec": 330.93,
+      "end_sec": 336.75
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "手順書をAIがほぼ全部書いたのだ!? 数十人の夏休みが、三日に圧縮なのだ!",
+      "news_index": 2,
+      "start_sec": 336.9,
+      "end_sec": 342.81
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "要するに、乗り換えに必要なカーネル作りの多くを、AIが背負ったって話ね。",
+      "news_index": 2,
+      "start_sec": 342.96,
+      "end_sec": 348.37
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "じゃあ、お堀はもう埋まったのだ!",
+      "news_index": 2,
+      "start_sec": 348.52,
+      "end_sec": 351.05
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "気が早いわ。ここで注意書きが大事なの。",
+      "news_index": 2,
+      "start_sec": 351.2,
+      "end_sec": 353.84
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "注意書き? 薬の箱の裏の、小さい文字みたいなやつなのだ?",
+      "news_index": 2,
+      "start_sec": 353.99,
+      "end_sec": 358.75
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "まさにそれ。報道によると、三日っていうのは、エーエムディーのGPUで、あるモデルの入力を読み込む処理を立ち上げた範囲の話らしいの。",
+      "news_index": 2,
+      "start_sec": 358.9,
+      "end_sec": 367.56
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "全部の作業じゃなくて、一部の作業なのだ?",
+      "news_index": 2,
+      "start_sec": 367.71,
+      "end_sec": 371.08
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そう読むのが自然ね。それに、これは会社自身の説明で、外の第三者が確かめたわけじゃないわ。",
+      "news_index": 2,
+      "start_sec": 371.23,
+      "end_sec": 377.86
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "投資家向けの説明会だから、ちょっと盛ってる可能性もあるのだ?",
+      "news_index": 2,
+      "start_sec": 378.01,
+      "end_sec": 382.47
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "盛ってるとまでは言えないけど、上場の書類の方は、もっと控えめな書き方なの。何年も積み上げた社内の仕組みのうえで、AIのおかげで立ち上げが速くなった、って感じね。",
+      "news_index": 2,
+      "start_sec": 382.62,
+      "end_sec": 393.76
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "三日の裏に、何年分もの下ごしらえがあったのだ。",
+      "news_index": 2,
+      "start_sec": 393.91,
+      "end_sec": 397.67
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "つまり、AIがいきなり魔法を使ったんじゃなくて、四つのチップに慣れた土台があったから、AIが一気に走れた、ってことよ。",
+      "news_index": 2,
+      "start_sec": 397.82,
+      "end_sec": 405.82
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ここからは、私たちにどう関係するかの話。まず、クロードを使ってる人から。",
+      "news_index": 3,
+      "start_sec": 405.9,
+      "end_sec": 411.02
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "チップが四種類でも、ボクの画面は何も変わらないのだ。",
+      "news_index": 3,
+      "start_sec": 411.17,
+      "end_sec": 415.05
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "見た目はね。でも、チップを一つの会社に頼り切ると、そこが品薄になった瞬間に、AIも混んで遅くなるの。",
+      "news_index": 3,
+      "start_sec": 415.2,
+      "end_sec": 422.84
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "ちょっと待ってね、って出るやつなのだ……",
+      "news_index": 3,
+      "start_sec": 422.99,
+      "end_sec": 426.23
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四つから選べれば、どれかが足りなくても他で埋められる。混雑に強くなる方向の話ね、ここは私の推測も入るけど。",
+      "news_index": 3,
+      "start_sec": 426.38,
+      "end_sec": 434.02
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "冷蔵庫が四台あれば、一台壊れても晩ごはんは無事なのだ。",
+      "news_index": 3,
+      "start_sec": 434.17,
+      "end_sec": 439.06
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "次はお金。報道によると上場の書類では、売上を計算や設備にかけたお金で割った効率が、去年の初めから今年の秋までで、4倍以上になったって。",
+      "news_index": 3,
+      "start_sec": 439.21,
+      "end_sec": 449.24
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "4倍!? 同じお小遣いで、お菓子が4倍買えるのだ!",
+      "news_index": 3,
+      "start_sec": 449.39,
+      "end_sec": 453.19
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "近いけど、全部がチップのおかげじゃないわ。AIそのものの改良も合わせた数字よ。",
+      "news_index": 3,
+      "start_sec": 453.34,
+      "end_sec": 458.67
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "それでも安く動かせるなら、ボクの月額も下がるのだ?",
+      "news_index": 3,
+      "start_sec": 458.82,
+      "end_sec": 462.72
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "値下げの約束はないわ。ただ、ここで効いてくるのが値段交渉なの。",
+      "news_index": 3,
+      "start_sec": 462.87,
+      "end_sec": 467.31
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "値段交渉? 八百屋さんで、おまけしてって言うやつなのだ?",
+      "news_index": 3,
+      "start_sec": 467.46,
+      "end_sec": 472.53
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "それよ。エヌビディアは、売上の七割以上が粗利、ようは原価を引いた儲けだと言われてるの。",
+      "news_index": 3,
+      "start_sec": 472.68,
+      "end_sec": 478.62
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "七割が儲け!? 千円のお弁当なら、七百円以上が利益なのだ!?",
+      "news_index": 3,
+      "start_sec": 478.77,
+      "end_sec": 483.79
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういう計算ね。ただ、三日は一つのモデルの入力処理を立ち上げた数字だから、すぐ全面的に乗り換えられるとは言えないわ。それでも選択肢を増やせるなら、将来の交渉材料にはなり得るのよ。",
+      "news_index": 3,
+      "start_sec": 483.94,
+      "end_sec": 496.17
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "まだ簡単に全部を引っ越せるとは限らないけど、選択肢が増える可能性はあるのだ。",
+      "news_index": 3,
+      "start_sec": 496.32,
+      "end_sec": 502.63
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "要するに、チップの選択肢が増えれば、AIの会社が調達の交渉力を強める可能性もある、って話ね。",
+      "news_index": 3,
+      "start_sec": 502.78,
+      "end_sec": 510.44
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "AIで何かを作ってる開発者の人には、何がうれしいのだ?",
+      "news_index": 3,
+      "start_sec": 510.59,
+      "end_sec": 515.23
+    },
+    {
+      "index": 84,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "AIが移植を手伝う流れが広がれば、小さな会社でも、安いチップや手に入りやすいチップを選びやすくなるわね。これはすぐの話じゃなく、中長期の話よ。",
+      "news_index": 3,
+      "start_sec": 515.38,
+      "end_sec": 525.39
+    },
+    {
+      "index": 85,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "チップを作る側にも、波は来てるのだ?",
+      "news_index": 3,
+      "start_sec": 525.54,
+      "end_sec": 528.63
+    },
+    {
+      "index": 86,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "来てるわ。台湾のティーエスエムシーが、アンソロピックとオープンエーアイに、合わせて最大10億ドルを出資すると報じられたの。",
+      "news_index": 3,
+      "start_sec": 528.78,
+      "end_sec": 536.21
+    },
+    {
+      "index": 87,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "それ、今朝もちょっと聞いた気がするのだ。",
+      "news_index": 3,
+      "start_sec": 536.36,
+      "end_sec": 539.01
+    },
+    {
+      "index": 88,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今朝の朝便ね。今夜の目線で見ると、ティーエスエムシーは多くのAIチップを受託生産する側。二社への出資は、AI需要の長期的な伸びに自信を示す動きと読めるわね。",
+      "news_index": 3,
+      "start_sec": 539.16,
+      "end_sec": 550.72
+    },
+    {
+      "index": 89,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "どの屋台が売れても、小麦粉屋さんは儲かるのだ。",
+      "news_index": 3,
+      "start_sec": 550.87,
+      "end_sec": 554.25
+    },
+    {
+      "index": 90,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "次は新顔。イギリスのフラクタイルが、5億4,000万ポンド、ドルにすると7億ドルを超える資金を集めたことが、登記資料から分かったの。",
+      "news_index": 3,
+      "start_sec": 554.4,
+      "end_sec": 562.9
+    },
+    {
+      "index": 91,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "床のタイルの会社、また出てきたのだ!",
+      "news_index": 3,
+      "start_sec": 563.05,
+      "end_sec": 565.8
+    },
+    {
+      "index": 92,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "敷かないってば。答えを出す処理、推論に特化したチップで、アンソロピックはもう、まず2億5,000万ドル分を注文してるのよ。",
+      "news_index": 3,
+      "start_sec": 565.95,
+      "end_sec": 573.67
+    },
+    {
+      "index": 93,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "四つでも多いのに、まだ増やすのだ!?",
+      "news_index": 3,
+      "start_sec": 573.82,
+      "end_sec": 576.43
+    },
+    {
+      "index": 94,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そう。チップの好き嫌いをしない体質だから、新顔も試せるの。ここが今回の話のつながりね。",
+      "news_index": 3,
+      "start_sec": 576.58,
+      "end_sec": 583.06
+    },
+    {
+      "index": 95,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "最後に、これから見ておきたいのは三つよ。",
+      "news_index": 4,
+      "start_sec": 583.14,
+      "end_sec": 585.77
+    },
+    {
+      "index": 96,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "メモ帳、スタンバイ完了なのだ!",
+      "news_index": 4,
+      "start_sec": 585.92,
+      "end_sec": 588.25
+    },
+    {
+      "index": 97,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一つ目は、三日の中身。アンソロピックかエーエムディーが、本番でどこまで速いのか、細かい数字を出すかどうかね。",
+      "news_index": 4,
+      "start_sec": 588.4,
+      "end_sec": 595.44
+    },
+    {
+      "index": 98,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "比較条件まで数字で出れば、どこまで再現できる主張なのか確かめやすくなるのだ。",
+      "news_index": 4,
+      "start_sec": 595.59,
+      "end_sec": 601.29
+    },
+    {
+      "index": 99,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "二つ目は、十一月十七日のエヌビディアの決算。トップをめぐる報道で株価が8%以上下がる場面もあった直後だから、業績や経営体制への説明に注目よ。",
+      "news_index": 4,
+      "start_sec": 601.44,
+      "end_sec": 613.13
+    },
+    {
+      "index": 100,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "エヌビディアって、アンソロピックにチップを売ってる仲間でもあるのだ?",
+      "news_index": 4,
+      "start_sec": 613.28,
+      "end_sec": 617.71
+    },
+    {
+      "index": 101,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そうなの。報道によると、上場に合わせて、エヌビディアとグーグルがそれぞれ約100億ドル、エーエムディーも約25億ドル分の株を引き受けるって。",
+      "news_index": 4,
+      "start_sec": 617.86,
+      "end_sec": 627.02
+    },
+    {
+      "index": 102,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "ライバル同士が、同じお店の株を買ってるのだ!? 頭がこんがらがるのだ!",
+      "news_index": 4,
+      "start_sec": 627.17,
+      "end_sec": 633.35
+    },
+    {
+      "index": 103,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "チップの供給先でありながら投資家でもある、複雑な関係なのよ。",
+      "news_index": 4,
+      "start_sec": 633.5,
+      "end_sec": 637.95
+    },
+    {
+      "index": 104,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "三つ目は何なのだ?",
+      "news_index": 4,
+      "start_sec": 638.1,
+      "end_sec": 639.76
+    },
+    {
+      "index": 105,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "他のAIの会社が真似できるか。ただ、それができるのは、とびきり賢いAIと何年分もの土台を持つ会社だけかもしれないわ。",
+      "news_index": 4,
+      "start_sec": 639.91,
+      "end_sec": 648.37
+    },
+    {
+      "index": 106,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "お堀を埋めるスコップを、誰でも買えるかどうかなのだ。",
+      "news_index": 4,
+      "start_sec": 648.52,
+      "end_sec": 651.95
+    },
+    {
+      "index": 107,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "いい要約ね。クーダには二十年分の部品と人の層があるから、堀が崩れたと言うのはまだ早い、って見方も根強いわ。",
+      "news_index": 4,
+      "start_sec": 652.1,
+      "end_sec": 659.66
+    },
+    {
+      "index": 108,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "今夜は、アンソロピックがAIの力で、一つのモデルの入力処理をエーエムディーのGPU上に約三日で立ち上げた話だったのだ。",
+      "news_index": 5,
+      "start_sec": 659.81,
+      "end_sec": 668.46
+    },
+    {
+      "index": 109,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "まとめるわね。エヌビディアの強さを支える一つがクーダっていうお堀で、今回はカーネル作りの多くをAIが担ったと説明された。ただ数字は自己申告で、検証はこれからよ。",
+      "news_index": 5,
+      "start_sec": 668.61,
+      "end_sec": 680.22
+    },
+    {
+      "index": 110,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "お堀とカーネルおじさんと小麦粉屋さん。明日の雑談で言うのだ。",
+      "news_index": 5,
+      "start_sec": 680.37,
+      "end_sec": 685.23
+    },
+    {
+      "index": 111,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "おじさんは余計だけど、まあいいわ。聴いてくれてるかた、今夜もお疲れさま。",
+      "news_index": 5,
+      "start_sec": 685.38,
+      "end_sec": 689.97
+    },
+    {
+      "index": 112,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "気になる人は、アンソロピックの発表や各社の報道をのぞいてみてほしいのだ。おやすみなのだ!",
+      "news_index": 5,
+      "start_sec": 690.12,
+      "end_sec": 696.88
+    },
+    {
+      "index": 113,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "おやすみなさい。また大きなニュースがあったら、夜便で会いましょう。",
+      "news_index": 5,
+      "start_sec": 697.03,
+      "end_sec": 701.23
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 701.93,
+      "end_sec": 710.23
+    }
+  ],
+  "wall_time_sec": 19.29,
+  "audio_url": "/audio/ai/20261112_170636.mp3?v=1794472000"
+}
