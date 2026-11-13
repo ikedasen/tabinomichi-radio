@@ -1,0 +1,528 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-11-13T20:06:16.634050+00:00",
+  "title": "お財布と砂場の朝 〜カードを預かるAIと、40万円のメモリ〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便、テックニュースの回よ。四国めたんです。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 土曜の朝も、テックの話をサクッといくのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今朝は五本。AIにお財布を預ける話から、メモリの値札、AIの砂場まで並べたわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "砂場? 公園の砂場で、AIがお城でも作るのだ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "スコップは持たないわよ。三本目で説明するから、それまで想像してて。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "じゃあ一本目、いくのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。オープンエーアイが十一月十三日に、チャットジーピーティー ウォレットっていう機能を発表したの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ウォレットって、お財布のことだっけ? チャットに小銭を入れておくのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "小銭じゃなくて、カードを登録しておく場所ね。エージェント、ようは頼んだ作業を自分で進めるAIが、そのカードで支払いまで済ませるのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? AIが勝手にボクのカードで買い物するのだ!?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "勝手にはしないわ。買うたびに本人の承認が要るし、お店にはカード番号そのものじゃなくて、トークンっていう身代わりの番号が渡る仕組みなの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "身代わりの番号! 本名を隠して、あだ名で呼ばれる感じなのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いいたとえね。ビザやマスターカード、アメリカン エキスプレスと組んで作ったらしいわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、ボクも今日から使えるのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "最初はアメリカの、一番高いプロプランの人だけ。日本でいつ使えるかは、まだ出てないわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "お小遣いプランのボクには、遠い国のお財布なのだ……",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "実はグーグルも、ジェミニを銀行口座やカードにつないで、支出を分析させる機能をアメリカで出してるの。こっちは読むだけで、支払いはしない作りね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "片方は払う係、片方は家計簿係なのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに、AI各社がお財布の入口を取り合い始めたって話。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "いずれネットの買い物は、AIに頼んで、最後に指でオッケーするだけになるってこと?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "その流れね。だからこそ、何にいくら払ったかを自分で見返す習慣は残しておきたいわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "了解なのだ。次、いくのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目もお財布の話。パソコンのメモリの値段が、まだ上がってるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "メモリって、パソコンの作業机だっけ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そう、アプリを同時に広げておく机ね。アキバ ピーシー ホットラインっていう専門サイトが、十月半ばの秋葉原の値段をまとめたの。",
+      "news_index": 2,
+      "reading": "そう、アプリをどうじにひろげておくつくえね。アキバぴーしーホットラインっていうせんもんサイトが、じゅうがつなかばのあきはばらのねだんをまとめたの。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "秋葉原の、定点観測なのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ディーディーアール ファイブっていう今の主流のメモリで、64ギガの2枚組が39万9,700円。前の調査より9万9,900円も上がってたわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "39万円!? メモリだけで、ゲーム機が五台くらい買えちゃうのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "机一つで、家具屋さんの棚ごと買える値段ね。しかも一回の調査で、三割以上の値上がりよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "なんでそんなに上がってるのだ? 机の材料が足りないのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "この記事は値動きの理由までは断定してないけど、業界全体では、AIサーバー向けの需要や、そっちへの生産能力の振り分けで、パソコン向けが品薄になってるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "AIに、ボクの机を横取りされてるのだ……",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ちなみに九月下旬は、16ギガの2枚組が4万9,980円だったわ。普通の人が買うのは、こっちのサイズね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "よく選ばれる32ギガのセットでも、五万円もするのだ……",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに、今年パソコンを組むなら、メモリ代を多めに見ておけって話。",
+      "news_index": 2,
+      "reading": "ようするに、ことしパソコンをくむなら、めもりだいをおおめにみておけってはなし。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "予算の紙に、メモリの行だけ太字で書いておくのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目が、さっきの砂場。アマゾンのクラウド部門、エーダブリューエスが、十一月九日にニトロ サンドボックスっていうのを始めたの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "クラウド部門って、アマゾンの段ボールを空に飛ばす部署なのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "飛ばさないわ。ネットの向こうのサーバー倉庫を、会社に貸し出す商売のことよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "あ、倉庫屋さんの話なのだ。で、サンドボックスは?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "英語で砂場。周りを囲った遊び場みたいに、外から切り離された作業部屋のことね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "AIを、その部屋に入れて遊ばせるのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "近いわ。最近のAIエージェントは、自分でプログラムを書いてそのまま動かすから、間違えて大事なデータを消したら困るじゃない?",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、暴れても砂場の外は壊れない仕組みなのだ!?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。作業ごとに、ハードの仕組みで隔てた軽い仮想のパソコンを一つずつ用意するの。対応するサーバーなら、追加料金なしって報じられてるわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "砂場がタダ。公園と同じなのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "公園は税金だけどね。要するに、AIに作業を任せる時の安全柵を、倉庫屋さんが標準で付け始めたって話。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクたちの生活には、どう関係あるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "会社が安心してAIに作業を任せられれば、問い合わせの返事や手続きが裏で早く回るようになるわ。目に見えて変わるのは、少し先ね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "柵ができてから放し飼い、なのだ。次!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四本目。グーグルが社内専用に作ったプログラミングのAI、ジーエフジーの論文が話題なの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "社内専用? 社員食堂の、裏メニューみたいなやつなのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "裏メニューは言い得て妙ね。ジェミニに、グーグルの長年の開発の記録を、1兆トークン分読ませたのよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "とーくん? 遊園地のメダルのこと?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "トークンは、AIが文章を読むときの小さな区切りのこと。ようは、ものすごい量の社内メモを読ませたってことね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "1兆!? ボクの夏休みの日記、何億年分なのだ!?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "三日坊主の日記で比べないの。2万9,000人の開発者で試したら、やり取りの回数が23%減って、書いたコードが残る割合は17%くらい上がったらしいわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "コードが残る割合って、どういうことなのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "AIが書いたコードが、人に消されずに使われ続ける率。ようは採用率みたいなものよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ボツにならない答えが増えたってことなのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。しかも社内のことを覚えさせても、普段の賢さを忘れないように、読ませる順番まで工夫したの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "会社のルールを覚えても、九九は忘れない新人さんなのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに、汎用のAIを自分の会社の色に染める技が、実用段階に来たって話。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクたちの職場にも来るのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "来そうね。社内の書類やルールを知ってるAIが先輩みたいに手伝う日は近いし、その分、会社のデータの扱い方はもっと問われるわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ラスト五本目は業界の陣取り。オランダに本社があるネビウスっていう会社が、今年だけでおよそ270億ドルを設備に注ぎ込む計画なの。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "250億ドル!? 日本円だと、三兆円を軽く超えるのだ!?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そうね。ジーピーユー、ようはAIの計算を爆速でこなすチップを大量に並べて、時間貸しする商売よ。ネオクラウドって呼ばれてるわ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ネオクラウド? さっきの倉庫屋さんとは違うのだ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "いい質問。エーダブリューエスみたいな何でも屋の大手と違って、AI向けの計算基盤からクラウドソフト、運用サービスまでに軸足を置く専門店なの。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "総合スーパーと、AI計算の専門店なのだ!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そのたとえ、採用。お客さんとの契約は、合わせて400億ドルを超えてるそうよ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "注文が先に積み上がってるなら、安泰なのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "甘いわ。借金も使って先に設備を建てるから、AIの需要が冷えたら一気に苦しくなる賭けでもあるの。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "屋台を先に百軒建てて、お祭りが中止になったら大変なのだ……",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに、AIブームの裏で、計算の場所を貸す専門店が巨額の勝負に出てるって話。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、ボクたちにはどう影響するのだ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "こういう専門店が増えると、AIの計算の取り合いが少し緩んで、サービスの混雑や値上げを抑える方向に効くかもしれないわ。ここは私の見立てね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで今朝は、AIのお財布、メモリの値札、AIの砂場、グーグルの裏メニュー、計算の専門店の五本だったわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "お財布はあだ名で払う、メモリは太字で予算。これを今日の雑談で言うのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "二つに絞ったのは偉いわね。気になったやつがあったら、各社の発表や報道をのぞいてみて。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "砂場と、お祭りの屋台の話も覚えておくのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "聴いてくれてるかた、いってらっしゃい。また次のテック朝便で。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "いってらっしゃいなのだー!",
+      "news_index": 0
+    }
+  ],
+  "program_description": "旅の道ラジオ朝便、テックニュースの回。一本目は、オープンエーアイが発表したチャットジーピーティー ウォレット。AIエージェントが承認つきで支払いまで済ませる仕組みと、読むだけの家計簿係として口座につながるグーグルのジェミニを比べます。二本目は秋葉原のメモリ相場で、64ギガの2枚組が40万円目前まで上がった話。三本目はエーダブリューエスのニトロ サンドボックス、AIを安全な砂場で働かせる仕組み。四本目はグーグル社内専用のプログラミングAIの論文、五本目はAI計算の専門店ネビウスの巨額投資。サクッと聴けるテックの朝ごはんです。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20261114_050616_chars.webp",
+    "hero_rel": "/images/topics/tech_20261114_050616.webp",
+    "title": "お財布と砂場の朝 〜カードを預かるAIと、40万円のメモリ〜",
+    "companies": [
+      "OpenAI",
+      "Google",
+      "Amazon",
+      "Gemini"
+    ],
+    "thumbnail_ready": true
+  },
+  "summary_short": "ChatGPTのウォレットでAIが支払いまで代行、秋葉原では64GBメモリが40万円目前に。AWSのAI用サンドボックス、グーグル社内専用のコーディングAI論文、ネビウスの巨額投資まで、テックの5本をサクッと朝にチェックできる回です。",
+  "published_at": "2026-11-14T07:01:49+09:00"
+}
