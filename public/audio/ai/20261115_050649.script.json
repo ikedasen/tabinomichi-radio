@@ -1,0 +1,542 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-11-14T20:06:49.997090+00:00",
+  "title": "下書きと判定係の朝 〜世界の棚を数えるアマゾンと、はい・いいえだけのAI〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便、テックニュースの回よ。四国めたんです。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 日曜の朝も、テックの話をサクッといくのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今朝は五本。世界中のお店の棚を数えたいアマゾンに、軽いノートパソコン、はいかいいえしか言わないAIまで並べたわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "はいかいいえしか言わないAI? それ、寝起きのボクみたいなのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "自分を棚に上げないの。あとは中国の新しいAIと、工場で働くクロードの話ね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "工場! 今日はものづくりの現場の話も入ってるじゃん!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。アマゾンが、ネットで売られてる商品の情報を世界まるごと索引にする構想を練ってたって、ロイターやザ ヴァージが報じたの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "さくいん? 辞書の後ろについてる、あいうえお順のページだっけ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "発想はそれで合ってるわ。社内資料での呼び名はワールド プロダクト グラフ、ようは世界の商品の地図ってところね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "世界の!? アマゾンで売ってない商品まで載せちゃうのだ!?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこがミソ。ブランドや他のお店のサイトから情報を集めて、よそで売ってる品物までまとめる案なのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ライバルのお店の値札まで、こっそりメモしに行くってことなのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "言い方は悪いけど、近いわね。狙いは、アマゾンの買い物係のAIが、よそのサイトに行かなくても答えられるようにすること。",
+      "news_index": 1,
+      "reading": "いいかたはわるいけど、ちかいわね。ねらいは、アマゾンのかいものがかりのAIが、よそのサイトにいかなくてもこたえられるようにすること。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "買い物係のAIって、どんな係なのだ?",
+      "news_index": 1,
+      "reading": "かいものがかりのAIって、どんなかかりなのだ?"
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "アプリの中で、どれがいいか相談に乗ってくれるAIのこと。答えが不正確だったり抜けてたりする弱点を、この地図で埋めたいって話。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、その地図はいつ完成するのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "社内資料には、2027年の十月一日という理想上の公開日が書かれてるわ。ただアマゾンは、アイデア出しの資料が今の計画を表すとは限らない、ってコメントしてるわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "ちぇっ、まだ下書きの段階なのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "でも方向は見えるわ。要するに、AIに買い物を相談する時代の入口を、アマゾンが握りにいってるって話ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ボクたちが何か買う時、検索より先にAIに聞くのが普通になるかもってことなのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そう。どのお店のAIに聞くかで、出てくるおすすめが変わる時代になるわね。次いこ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目は、軽いパソコンの話。マウスコンピューターが十一月十一日に、マウス エックスツーっていうノートの新しいモデルを出したの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "マウスの会社がノート? マウスに画面が付いたのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "付かないわよ。マウスコンピューターは社名で、パソコンを作ってる日本の会社なの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "なるほど。で、どんなノートなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "画面は12.2インチで、重さは約981グラム。天板は100キログラム分の重さに耐えるって、頑丈さも売りね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "100キロ!? お相撲さんが座っても平気なノートなのだ!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "座る前提で作ってないわ。天板に100キログラム重をかける試験に耐えたって意味よ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "今回の新しいモデルは、何が違うのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "頭脳の部分に、エーエムディーのライゼン ファイブっていう計算係のチップを載せたの。メモリは8ギガ、保存場所は256ギガのエスエスディーで、値段は19万9,800円。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "20万円近く!? ボクのお年玉を十年分つぎ込んで、やっと届く額じゃん!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "メモリ8ギガで、この値段。軽さや頑丈さをどこまで重視するかで、評価が分かれそうね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "作業机は小さいのに、お値段は大きいのだ……。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "でも、初めてのパソコンや事務作業向けって位置づけよ。要するに、軽さと頑丈さにお金を払うノートって話。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "通学カバンに入れて走り回る人には、ちょうどいいかもなのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そうね。今パソコンを選ぶなら、軽さとメモリの量のどっちを優先するか、先に決めておくと迷わないわ。次。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目は、さっき言った、はいかいいえのAI。グーグルが十一月十一日に、ジェミニ ディシジョン ワンっていうAIを出したの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "出たのだ、寝起きAI!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "だから違うってば。文章は書かずに、はいかいいえ、あるいは選択肢のどれかで答えるのに特化したAIよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "しゃべらないAIって、何の役に立つのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "仕分けね。このメールは迷惑メールか、この写真に猫は写ってるか、みたいな判定を大量にこなすの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "一度に何問くらいいけるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一回の頼みで最大1,000問。答えが返ってくるまで、0.15秒から0.25秒くらいだって。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "1,000問を一瞬!? ボクの漢字テスト、二十問で一時間かかるのに!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "それはあなたが遅いだけ。しかも答えごとに、どれくらい自信があるかの数字も付けてくれるのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "自信の数字? テストの答えの横に、たぶん、って書いておくやつ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "いい例えね。自信が低い問題だけ、人や大きいAIに回す、って使い方ができるの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、学級委員が、分からない問題だけ先生に持っていくのと同じなのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "まさにそれ。要するに、AIは何でも文章で答える係だけじゃなく、目立たない判定係にも分かれ始めてるって話。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ボクたちが使うアプリの裏で、こっそり働く脇役AIが増えるのだね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。迷惑メールの仕分けみたいな、普段気づかない場所が少しずつ賢くなるわけ。次。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四本目は中国から。アリババが十一月十一日に、クウェン フォー マックスのお試し版を出したの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "アリババって、四十人の盗賊のお話に出てくる人だっけ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "盗まないわよ。中国の大手ネット通販の会社で、AIも作ってるの。クウェンは、そのAIシリーズの名前ね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "中国版のチャットジーピーティーみたいなものなのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "近いわ。このシリーズには中身を公開したモデルもあって、世界中の開発者が土台に使ってきたの。今回のは、その次の世代の最上位モデルのお試し版よ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "お試しって、いつまで試せるのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこが珍しくて、十一月二十五日まで、たった二週間。終わったら、このお試し版は引退するって予告されてるの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "二週間で引退!? 夏休みの短期バイトより短いのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "しかも使えるのは、専用の定額プランに入ってる人だけ。一度に読める量は100万トークン、ようは本を何冊分もまとめて読める大きさね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、肝心の賢さはどれくらいなのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "それが、性能の成績表はまだ出してないの。腕前の判定は、今後の詳しい発表待ちってところ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "顔見せだけして、成績は秘密なのだ。逆に気になるじゃん。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに、中国勢もアメリカ勢と同じ時期に、次の世代をちゃんと用意してるっていう合図ね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "強いAIを作る会社が増えたら、ボクたちが払うAIの月額も下がるかもなのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "競争が増えれば、その流れは期待できるわね。今後どんな提供形態や値段になるかが見どころよ。次、ラスト。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ラスト五本目。アンソロピックが十一月十二日に、クロード フォー マニュファクチャリング、ようは工場向けのクロードを出したの。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "クロードが工場で働くのだ!? ロボットアームを振り回すのだ!?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "振り回さないわ。機械は動かさないってはっきりしてて、担当は工場の情報整理や業務支援よ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "工場の書類って、どんなのがあるのだ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "見積もりの下書き、不良品が出た時の原因調べ、故障の診断、部品の仕入れ先探しなんかね。そういう仕事向けの技能を、17個まとめたセットなの。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "17個も! 工場の何でも屋さんなのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "何でも屋だけど、決めるのは人間。故障なら、考えられる原因と根拠を並べて、技術者さんに確かめてもらう作りよ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "推理はクロードで、最後に犯人を決めるのは人間の探偵役ってことなのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いい例えじゃない。使えるのは、会社向けの有料プランね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボク、工場に知り合いはいないのだ。何か関係あるのだ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "直接はないわ。でも見積もりや故障対応が速くなれば、注文した物が届くまでの待ち時間が、いつか短くなるかもしれないわ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "待ち時間が減るなら、ボクにも関係大ありなのだ!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "要するに、AIの仕事場がオフィスから、ものづくりの現場の机にも広がってきたって話。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "はい、今朝の五本はここまで。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "まとめなのだ! 世界の棚を数えるアマゾン、お相撲さんが座れそうなノート、はい・いいえAI、二週間で引退するクウェン、工場の探偵クロード!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "お相撲さんは座らせないでって言ったでしょ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "ごめんなのだ。でも、はい・いいえAIの話は、あとで自分でも試してみるのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "喜ぶかは分からないわね。聴いてくれてるかた、気になった話があったら、各社の発表をのぞいてみてね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "また明日の朝便で会うのだー! いってらっしゃいなのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "いってらっしゃい、今日もいい一日を。",
+      "news_index": 0
+    }
+  ],
+  "program_description": "日曜の朝に、テックの話題を五本サクッとまとめる回。一本目は、ネットで売られている商品を世界まるごと索引にしようというアマゾンの社内構想。二本目は、マウスコンピューターの約981グラムの頑丈な12.2インチノートに、新しいモデルが加わった話。三本目は、文章を書かずに「はい・いいえ」で大量に判定するグーグルの新AI、ジェミニ ディシジョン ワン。四本目は、二週間だけ試せるアリババのクウェン フォー マックスのお試し版。ラストは、機械は動かさずに工場の情報整理や業務を手伝う、アンソロピックの工場向けクロード。ずんだもんのお父さんの寝起きネタと、お相撲さんが座れそうなノートを挟みつつ、それぞれ暮らしにどう関わるかまで話した回です。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20261115_050649_chars.webp",
+    "hero_rel": "/images/topics/tech_20261115_050649.webp",
+    "title": "下書きと判定係の朝 〜世界の棚を数えるアマゾンと、はい・いいえだけのAI〜",
+    "companies": [
+      "Claude",
+      "Amazon",
+      "Gemini",
+      "Google",
+      "AMD",
+      "OpenAI"
+    ],
+    "thumbnail_ready": true
+  },
+  "summary_short": "日曜の朝のテック五本立て。アマゾンの世界商品索引構想、頑丈な軽量ノートの新モデル、「はい・いいえ」で大量判定するグーグルの新AI、アリババの無料お試し版、アンソロピックの工場向けクロードまで、暮らしへの影響を添えてお届けします。",
+  "published_at": "2026-11-15T07:01:56+09:00"
+}
