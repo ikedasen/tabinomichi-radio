@@ -1,0 +1,716 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-11-16T05:06:21+09:00",
+  "title": "手を動かすAIの朝 〜未来を読むロボットと、読むだけの家計簿係〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 438.62,
+  "script_hash": "sha256:10241dcd815e7623331287f720baec1677982b036b1b416d83d665dae533cd73",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 4.69
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便、テックニュースの回よ。四国めたんです。",
+      "news_index": 0,
+      "start_sec": 4.69,
+      "end_sec": 10.15
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝も通学のお供に、テックの話をサクッといくのだ!",
+      "news_index": 0,
+      "start_sec": 10.3,
+      "end_sec": 15.81
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "今朝は四本。動画のAIがロボットを動かす話、AIに家計簿を見せる話、AIへのお願いのコツ、それからエスエスディーの値段ね。",
+      "news_index": 0,
+      "start_sec": 15.96,
+      "end_sec": 25.29
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ロボットと家計簿とお願いとエスエスディー……朝ごはんの献立くらいバラバラなのだ!",
+      "news_index": 0,
+      "start_sec": 25.44,
+      "end_sec": 31.27
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "献立なら栄養バランスはいいはずよ。共通点っていうより、今朝はAIからパソコンのお財布事情まで、暮らしに近いテックの話ね。",
+      "news_index": 0,
+      "start_sec": 31.42,
+      "end_sec": 39.91
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "手を動かすAI! じゃあ一本目、いってみるのだ!",
+      "news_index": 0,
+      "start_sec": 40.06,
+      "end_sec": 43.71
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。動画を作るAIで知られるランウェイって会社が、十一月十一日に、ロボットを動かすAI、プラクシス ワンを公開したの。",
+      "news_index": 1,
+      "start_sec": 43.86,
+      "end_sec": 52.76
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ランウェイ? ファッションショーで、モデルさんが歩くあの細長い道なのだ?",
+      "news_index": 1,
+      "start_sec": 52.91,
+      "end_sec": 57.86
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "歩くのはモデルじゃなくて、ロボットの方ね。もともとは、文章から動画を作るAIで有名な会社よ。",
+      "news_index": 1,
+      "start_sec": 58.01,
+      "end_sec": 64.36
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "動画屋さんが、なんでロボットに行くのだ。畑違いすぎるのだ。",
+      "news_index": 1,
+      "start_sec": 64.51,
+      "end_sec": 68.72
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "実は近いのよ。動画のAIって、次の場面で物がどう動くかを予想するのが得意じゃない?",
+      "news_index": 1,
+      "start_sec": 68.87,
+      "end_sec": 74.85
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、コップを押したら倒れる、みたいな予想のことなのだ?",
+      "news_index": 1,
+      "start_sec": 75.0,
+      "end_sec": 78.97
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そう。その予想から、ロボットの腕をどう動かせばいいかを逆算するの。ワールド アクション モデル、ようは世界の動きを先読みして行動を決めるAIって呼んでるわ。",
+      "news_index": 1,
+      "start_sec": 79.12,
+      "end_sec": 89.52
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "未来を読んでから動くって、将棋の名人みたいでかっこいいのだ!",
+      "news_index": 1,
+      "start_sec": 89.67,
+      "end_sec": 94.34
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "名人ほど深くは読まないけどね。しかも中身をまるごとダウンロードできて、商売に使ってもいい条件で配ってるの。",
+      "news_index": 1,
+      "start_sec": 94.49,
+      "end_sec": 101.43
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? ロボットの頭脳をタダで配っちゃうのだ? 太っ腹すぎるのだ!",
+      "news_index": 1,
+      "start_sec": 101.58,
+      "end_sec": 105.97
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "成績はランウェイ自身の測定で、本物のロボットアームのテストでは百回中八十八回成功だって。ただ、外部の検証はまだよ。",
+      "news_index": 1,
+      "start_sec": 106.12,
+      "end_sec": 115.13
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "自己申告の通信簿なのだ。ボクもテストは自分で採点したいのだ。",
+      "news_index": 1,
+      "start_sec": 115.28,
+      "end_sec": 120.35
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "それは許されないわ。で、私たちへの影響は、ロボットの頭脳がタダで手に入ると、小さな会社でもロボット作りに挑戦しやすくなることね。",
+      "news_index": 1,
+      "start_sec": 120.5,
+      "end_sec": 129.38
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "要するに、家にお手伝いロボットが来る日が、ちょっとだけ近づいたってことなのだ。",
+      "news_index": 1,
+      "start_sec": 129.53,
+      "end_sec": 134.75
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ちょっとだけ、ね。明日届くわけじゃないわよ。次いきましょ。",
+      "news_index": 1,
+      "start_sec": 134.9,
+      "end_sec": 138.97
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目はお財布の話。グーグルのAI、ジェミニが、グーグル ウォレットを通して銀行口座とつながるようになったの。アメリカで順番に広がってるところよ。",
+      "news_index": 2,
+      "start_sec": 139.05,
+      "end_sec": 148.5
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ウォレット……先週も聞いた気がするのだ。AIがボクの確認を取って、カードで買い物を手伝うやつ!?",
+      "news_index": 2,
+      "start_sec": 148.65,
+      "end_sec": 155.35
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "それはオープンエーアイの話。今回のグーグルは逆で、買い物はしないで、読むだけなのよ。",
+      "news_index": 2,
+      "start_sec": 155.5,
+      "end_sec": 161.2
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "読むだけ? 通帳を眺めて、ため息をつく係なのだ?",
+      "news_index": 2,
+      "start_sec": 161.35,
+      "end_sec": 165.54
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ため息はつかないわ。先月食費にいくら使った?って聞くと、取引の記録を分類して答えて、予算の組み立てまで提案してくれるの。",
+      "news_index": 2,
+      "start_sec": 165.69,
+      "end_sec": 174.26
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "家計簿をつけてくれる係なのだ! ボク、お小遣い帳を三日でやめたのだ……。",
+      "news_index": 2,
+      "start_sec": 174.41,
+      "end_sec": 180.81
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そういう人のための機能ね。お金を動かしたり、口座の設定を変えたりはできない作りよ。",
+      "news_index": 2,
+      "start_sec": 180.96,
+      "end_sec": 186.88
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも、お金の記録をAIに見せるのって、ちょっとドキドキするのだ。",
+      "news_index": 2,
+      "start_sec": 187.03,
+      "end_sec": 191.62
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこが肝。使えるのは十八歳以上で、ジェミニの利用履歴の設定をオンにする必要があるの。お金の質問も、記録に残るってことね。",
+      "news_index": 2,
+      "start_sec": 191.77,
+      "end_sec": 200.9
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "うわっ、ボクのお菓子の爆買いについて聞いた記録が、履歴に残っちゃうのだ!",
+      "news_index": 2,
+      "start_sec": 201.05,
+      "end_sec": 205.86
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "残したくないなら使わない、それも立派な選択肢。要するに、AIに財布を預ける前に、まず中身を見せるところから慣らしてる段階ね。",
+      "news_index": 2,
+      "start_sec": 206.01,
+      "end_sec": 214.95
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "日本で使えるのは、まだ先なのだ?",
+      "news_index": 2,
+      "start_sec": 215.1,
+      "end_sec": 217.68
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今はアメリカだけで、日本の時期は出てないわ。来たときは、便利さと見せる情報のバランスを自分で決めることになるわね。",
+      "news_index": 2,
+      "start_sec": 217.83,
+      "end_sec": 225.02
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "見せる前に、まずお小遣い帳を三日以上続けるところからなのだ!",
+      "news_index": 2,
+      "start_sec": 225.17,
+      "end_sec": 229.71
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目は、AIへのお願いのコツ。アンソロピックが、クロード オーパス ゴーテンゴへの指示のコツをまとめた案内を出してるの。",
+      "news_index": 3,
+      "start_sec": 229.86,
+      "end_sec": 237.23
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "お願いのコツ? お願いします、って丁寧に言えばいいのだ?",
+      "news_index": 3,
+      "start_sec": 237.38,
+      "end_sec": 241.7
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "礼儀の話じゃないの。最初に、何をしてほしいかと、どこまでやったら完成かを、まとめて伝えるのがいいって。",
+      "news_index": 3,
+      "start_sec": 241.85,
+      "end_sec": 248.75
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "一、二、三って細かく手順を書いてあげた方が、親切じゃないのだ?",
+      "news_index": 3,
+      "start_sec": 248.9,
+      "end_sec": 254.28
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "賢くなったAIには、それがかえって窮屈になることもあるって指摘も出てるのよ。新人さん向けのマニュアルを、ベテランに渡すようなものね。",
+      "news_index": 3,
+      "start_sec": 254.43,
+      "end_sec": 262.98
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ベテランに、あいうえおから教えちゃうやつなのだ!",
+      "news_index": 3,
+      "start_sec": 263.13,
+      "end_sec": 266.17
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。それと、エフォート、ようはAIがどれだけ頑張って考えるかのつまみは、まず真ん中から始めるのがおすすめだって。",
+      "news_index": 3,
+      "start_sec": 266.32,
+      "end_sec": 274.14
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "全力の方が、いいに決まってるのだ!",
+      "news_index": 3,
+      "start_sec": 274.29,
+      "end_sec": 276.72
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "それがね、前の世代と同じ強めの設定のままだと、考える量が増えて、返事が長く、使う量も多くなりがちなの。",
+      "news_index": 3,
+      "start_sec": 276.87,
+      "end_sec": 284.87
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "腹八分目ならぬ、頑張り八分目なのだ。",
+      "news_index": 3,
+      "start_sec": 285.02,
+      "end_sec": 288.14
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "いいこと言うじゃない。コーディングや知識作業のテストでは、真ん中の設定でも、前のモデルの強めの設定と同じか、それ以上の成績だったって。",
+      "news_index": 3,
+      "start_sec": 288.29,
+      "end_sec": 297.62
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ボクもテスト勉強、真ん中の頑張りで満点取りたいのだー!",
+      "news_index": 3,
+      "start_sec": 297.77,
+      "end_sec": 302.21
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "あなたは全力でやりなさい。私たちへの影響は、AIに長い呪文を書くより、目的と完成形をはっきり伝える人が得をする、ってことね。",
+      "news_index": 3,
+      "start_sec": 302.36,
+      "end_sec": 311.44
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "要するに、道具が新しくなったら、取説を読み直すのだ!",
+      "news_index": 3,
+      "start_sec": 311.59,
+      "end_sec": 315.67
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ラスト四本目は、自作パソコンのお財布事情。アキバ ピーシー ホットラインが、十一月前半の秋葉原のエスエスディーの値段をまとめたの。",
+      "news_index": 4,
+      "start_sec": 315.82,
+      "end_sec": 324.34
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "エスエスディーって、パソコンの中の、データをしまう倉庫だっけ?",
+      "news_index": 4,
+      "start_sec": 324.49,
+      "end_sec": 328.97
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "正解。前に話したエイチディーディーと違って、円盤が回らない、速い倉庫ね。",
+      "news_index": 4,
+      "start_sec": 329.12,
+      "end_sec": 334.66
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、値段は下がったのだ? 上がったのだ?",
+      "news_index": 4,
+      "start_sec": 334.81,
+      "end_sec": 337.84
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "両方よ。8テラバイトのクラスは、最安値が前回より17,020円も高くなってたわ。",
+      "news_index": 4,
+      "start_sec": 337.99,
+      "end_sec": 343.98
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "1万7,000円!? 新しいゲームが二本買えちゃうのだ!",
+      "news_index": 4,
+      "start_sec": 344.13,
+      "end_sec": 347.95
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "逆に、クルーシャルの4テラバイトの製品には、50,000円も下がって99,800円になったものもあったの。",
+      "news_index": 4,
+      "start_sec": 348.1,
+      "end_sec": 355.04
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "上がったり下がったり、ジェットコースターなのだ! 目が回るのだ!",
+      "news_index": 4,
+      "start_sec": 355.19,
+      "end_sec": 360.26
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "大きな背景は、AIのデータセンター、ようは巨大なサーバー倉庫が、記録用のチップを大量に買ってることね。",
+      "news_index": 4,
+      "start_sec": 360.41,
+      "end_sec": 367.77
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "また、倉庫屋さんに持っていかれてるのだ……。",
+      "news_index": 4,
+      "start_sec": 367.92,
+      "end_sec": 371.87
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "キオクシアの幹部も、今年の生産分はもう売り切れで、品薄は2027年まで続くかもって話してるわ。",
+      "news_index": 4,
+      "start_sec": 372.02,
+      "end_sec": 378.88
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "2027年!? ボクのパソコンの容量不足、まだまだ我慢なのだ?",
+      "news_index": 4,
+      "start_sec": 379.03,
+      "end_sec": 384.0
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに、値段は型番とタイミングでバラバラ。買う前に何店か見比べるのが、今の鉄則よ。",
+      "news_index": 4,
+      "start_sec": 384.15,
+      "end_sec": 390.21
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "秋葉原パトロール、今週末の予定に入れておくのだ!",
+      "news_index": 4,
+      "start_sec": 390.36,
+      "end_sec": 394.01
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "というわけで、今朝はロボットを動かす動画AI、家計簿を読むジェミニ、AIへのお願いのコツ、エスエスディーの値段の四本だったわ。",
+      "news_index": 0,
+      "start_sec": 394.16,
+      "end_sec": 402.51
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "未来を読むロボットに、ため息をつかない家計簿係、頑張り八分目に、ジェットコースターの倉庫なのだ!",
+      "news_index": 0,
+      "start_sec": 402.66,
+      "end_sec": 410.63
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "まとめが雑だけど、まあ合ってるわ。AIが手を動かす時代でも、使いこなしと財布のひもは自分で握っておきましょ。",
+      "news_index": 0,
+      "start_sec": 410.78,
+      "end_sec": 418.37
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "ボクはまず、お小遣い帳を四日目まで続けるのだ!",
+      "news_index": 0,
+      "start_sec": 418.52,
+      "end_sec": 422.01
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kamera",
+      "text": "一日延びただけじゃない。聴いてくれてるかた、いってらっしゃい。",
+      "news_index": 0,
+      "start_sec": 422.16,
+      "end_sec": 425.74
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "また明日のテック朝便で会うのだー! いってらっしゃいなのだ!",
+      "news_index": 0,
+      "start_sec": 425.89,
+      "end_sec": 429.62
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 430.32,
+      "end_sec": 438.62
+    }
+  ],
+  "wall_time_sec": 13.55,
+  "audio_url": "/audio/ai/20261116_050621.mp3?v=1794780173"
+}
