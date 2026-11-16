@@ -1,0 +1,490 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-11-16T20:05:33.025263+00:00",
+  "title": "勝手に動く手の朝 〜修正を読む泥棒AIと、整備済みの倉庫〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "welcome",
+      "text": "おはようございます、旅の道ラジオ朝便、テックニュースの回。四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝もテックの話題、サクッといくのだ!",
+      "news_index": 0,
+      "reading": "ボク、ずんだもんなのだー!けさもテックのわだい、サクッといくのだ!"
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今朝は四本。テーマは、人の手を離れて動き出すAIと、それを追いかける私たちのお財布ね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "手を離れる? 風船みたいに、空へ飛んでっちゃうのだ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "飛ばないわよ。悪い人のAIが勝手に働いたり、ロボットの頭が普段のAIに任されたり、って話。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あとお財布! それは聞き捨てならないのだ!",
+      "news_index": 0,
+      "reading": "あとおさいふ!それはききずてならないのだ!"
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "最後に秋葉原の倉庫の値段もあるから、楽しみにしてて。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目は守りの話だから手短に。グーグルの脅威分析チームが、十一月十六日にレポートを出したの。",
+      "news_index": 1,
+      "reading": "いっぽんめはまもりのはなしだからてみじかに。グーグルのきょういぶんせきチームが、じゅういちがつじゅうろくにちにレポートをだしたの。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "きょういぶんせき? 怖い話を集める、怪談クラブなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "怪談じゃないわ、ネットの攻撃を見張る専門部隊。そこが、人の手を借りずに弱点探しから攻撃まで進めるAIの仕組みを、初めて見つけたって。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? AIが一人で泥棒しちゃうのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "近いわね。名前はエクスプロイト エージェント、ソフトの修正前と修正後を見比べて、直された弱点を探し出すの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "直したところを見るのだ? 直したなら、もう安全なのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこが落とし穴。直す前の古い版を使い続けてる相手には、その弱点がそのまま刺さるのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ! 返された答案を見て、まだ出してない子の間違いを当てるみたいなやつなのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "たとえは雑だけど、向きは合ってる。修正の中身が、そのまま攻撃の地図になっちゃうわけ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、それを作ったのは誰なのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "グループや国の名前は、レポートでは出してないの。攻撃側が置いてた、外から見えるテスト用のサーバーで見つかったって。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "泥棒さん、道具箱を玄関に置きっぱなしだったのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "要するに、修正が出たらすぐ当てた人ほど安全、って話。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ボクたちにできるのは、スマホやパソコンの更新を後回しにしないことなのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "正解。更新のお知らせは、寝る前にポチっとね。次いくわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目はロボット。オープンエーアイが、ロボット専門のチームの研究者をほかのチームに移したって、フォーチュンが十一月十三日に報じたの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、ロボットやめちゃうのだ!? ボクのお手伝いロボの夢が!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "やめてないわよ。会社は、ロボットの仕事は続いてるし、人型ロボットの実演も2027年を目指してるって説明してるわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、何が変わったってことなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "考え方ね。ロボット専用の頭脳を別に作るより、普段のAIそのものにロボットを動かさせる方に賭けたの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "普段のAIって、チャットでしゃべってる、あれだっけ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。ジーピーティー シックス アストラみたいな汎用モデル、ようは何でもこなす万能型のAIで、もうロボットを動かせるって理由よ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、料理専門のシェフを雇うより、何でもできるお母さんに台所を任せる作戦なのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いいたとえじゃない。部屋ごとに専門家を置くより、一人の万能選手を育てる、ってこと。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも細かい作業は、専門家の方が上手そうなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこが勝負どころね。会社は、撤退じゃなくロボット開発を速めるための再編だと説明してるけど、どこまで変わるかはまだ見えてないの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "ふむふむ、まだ工事中の看板が立ってるのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに、ロボット専用の頭脳か、万能AIの使い回しか、って路線争い。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "いつかボクの家に来るロボットも、中身はチャットのAIかもしれないのだね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "その可能性はあるわ。ただ家に来るのはまだ先、今日すぐ何かが変わる話じゃないわね。次いくわよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目は中国から。出前の大手、メイトゥアンが、ロンキャット ニーテンゴっていうAIを出したの。",
+      "news_index": 3,
+      "reading": "さんぼんめはちゅうごくから。でまえのおおて、メイトゥアンが、ろんぐきゃっとニーテンゴっていうAIをだしたの。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "出前の会社がAI? ラーメンと一緒に、AIも届けてくれるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "届けないわ。中身を誰でもダウンロードできる形で配ってて、商売に使ってもいいゆるい条件なのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "えっ、出前の会社が、秘伝のレシピまで丸ごと公開しちゃったのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いい線ね。で、大きさがすごいの。パラメーター、ようはAIの頭の中の調整つまみが、1.6兆個。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "1.6兆個!? ボクの髪の毛を全部数えても、足元にも届かないのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ただ、一回の計算で動くのは、そのうち480億個くらい。必要な係だけを呼び出す仕組みね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "大きな会社でも、会議に出るのは数人だけ、みたいな感じなのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "本題はチップ。メイトゥアンは、中国製のAIチップで動かす前提で作り込んだって説明してるわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "チップって、エヌビディアのジーピーユーのことだっけ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "エヌビディアのジーピーユーも、その一つね。AIの計算を高速でこなすチップよ。アメリカの輸出規制で、中国は最新のものを自由に買えないの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、買えないなら自分たちで何とかする作戦なのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そういうこと。ただ成績は自己申告が多くて、難しめのテストでは、アメリカ勢がまだ上って言われてるわ。",
+      "news_index": 3,
+      "reading": "そういうこと。ただせいせきはじこしんこくがおおくて、むずかしめのテストでは、あめりかぜいがまだうえっていわれてるわ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "自分で採点した通信簿は、ちょっと割り引いて読むのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに、規制があっても、中国は自前のチップで大きなAIを回す道を作りつつある、って話。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、ボクたちの生活には、何か関係あるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "自分たちのサーバーでAIを動かしたい会社や開発者には、選択肢が一つ増えるのはうれしい面ね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ラスト四本目はお財布の話。アイティーメディアの十一月十六日の記事だと、秋葉原でリファービッシュのエイチディーディーが人気なの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "りふぁーびっしゅ? リフォームしたお風呂の、親戚なのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "遠くないわ。いったん使われた品を、点検してデータを消して、整え直した再生品のことよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "エイチディーディーって、前に話した、円盤がくるくる回る倉庫だっけ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "正解。ストレージ、ようはデータをしまう部品の値上がりが、もう一年以上続いてるの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "一年以上!? 終わりの見えない値上げマラソンなのだ……。",
+      "news_index": 4,
+      "reading": "いちねんいじょう!?おわりのみえないねあげマラソンなのだ……。"
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "それでも保存するデータは増えるから、容量単価を抑えてバックアップ用のドライブを確保したい需要が伸びてるのよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、整備品っておいくらなのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "記事で紹介されてた例だと、2テラバイトで1万円、1テラバイトで7,000円ね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、それならボクのお年玉でも手が届くのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "届くけど、取り合いよ。お店の人は、供給が需要に追いついてないって話してたらしいわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "整備品まで品薄なのだ……ボクの写真フォルダ、どこに引っ越せばいいのだ……。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "要するに、写真や動画の保管みたいに、速さより量が欲しい用途なら、整備品も選択肢って話。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも、大事なデータを入れても平気なのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "中古は中古。大事なものは、二か所に分けてしまっておくのが基本だわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "卵は一つのカゴに盛るな、ってやつなのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "よく知ってるじゃない。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今朝は、修正を読む攻撃AI、ロボットの頭を任される万能AI、出前の会社の巨大AI、そして整備済みのエイチディーディーの四本だったわ。",
+      "news_index": 0,
+      "reading": "けさは、しゅうせいをよむこうげきAI、ロボットのあたまをまかされるばんのうAI、でまえのかいしゃのきょだいえーあいAI、そしてせいびずみのエイチディーディーのよんほんだったわ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "更新はすぐ当てる、データは二か所。今日はこれだけ覚えて帰るのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "珍しく、まとめが上手ね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ボク、成長期なのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "聴いてくれてるかた、いってらっしゃい。気になる話は、各社の発表や報道をのぞいてみてね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "また明日のテック朝便で会うのだー!",
+      "news_index": 0
+    }
+  ],
+  "program_description": "旅の道ラジオ朝便のテックニュース雑談回。グーグルの脅威分析チームが、人の手を借りずにソフトの修正内容から弱点を見つけて攻撃まで進めるAIの仕組みを初めて見つけた話から始まり、オープンエーアイがロボット専門チームの研究者をほかのチームへ移し、万能型のAIにロボットを任せる路線に賭けているという報道、出前大手のメイトゥアンが中国製チップ前提で作り込んだ巨大AI、ロンキャット ニーテンゴを誰でも使える形で配った話、そして値上がりの続く秋葉原で整備済みのエイチディーディーが人気になっている話まで、四本をサクッとまとめた回。更新はすぐ当てる、データは二か所にしまう、という朝の小さな教訓つき。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20261117_050533_chars.webp",
+    "hero_rel": "/images/topics/tech_20261117_050533.webp",
+    "title": "勝手に動く手の朝 〜修正を読む泥棒AIと、整備済みの倉庫〜",
+    "companies": [
+      "OpenAI",
+      "NVIDIA",
+      "Google"
+    ],
+    "thumbnail_ready": true
+  },
+  "summary_short": "グーグルが「修正内容を読んで弱点を突く自律AI」を初確認。OpenAIのロボット路線転換、中国製チップで作った美団の巨大AI公開、秋葉原で整備済みHDDが人気な理由まで四本を一気に。更新は即適用、データは二か所保存という朝の教訓も。",
+  "published_at": "2026-11-17T07:01:42+09:00"
+}
