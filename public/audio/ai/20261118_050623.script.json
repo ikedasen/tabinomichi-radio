@@ -1,0 +1,685 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-11-17T20:06:23.755300+00:00",
+  "title": "米国が中国のAI計算力レンタルに鍵をかける 〜H100約750基分で許可制、東南アジアなど5か国も名指し〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "intro",
+      "text": "おはようございます、旅の道ラジオ朝便、テック深掘り回。四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝は 1 本がっつりいくのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今回のテーマは、アメリカが、中国の会社がAIの計算力を外国で借りる抜け道を塞ぎにきた話よ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "計算力を借りる? 電卓をレンタルするのだ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "電卓じゃないわ。AIを鍛える巨大なコンピューターの時間を、お金を払って使わせてもらうことよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、それを借りるのもダメになるのだ!?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "正確には、貸す場所にチップを送るのに、許可が要るようになるの。ややこしいから、今朝はそこをじっくりほどくわね。",
+      "news_index": 0,
+      "reading": "せいかくには、かすばしょにチップをおくるのに、きょかがいるようになるの。ややこしいから、けさはそこをじっくりほどくわね。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "通勤電車一本分で、ボクも規制通になるのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "まず背景から。アメリカは何年も前から、最先端のAIチップを中国に売らないようにしてきたの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "なんで売らないのだ? お客さんなのに。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "軍事や監視に使える強いAIを、ライバル国に作らせたくないからよ。輸出規制、ようは国がこれは外に出すなとリストで決めるルールね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "お店の、未成年にはお酒を売りません、みたいなやつなのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "近いわね。売る相手と品物を、国が細かく決めてるの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、そのチップって、どこの会社の話なのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "主役はエヌビディア。AIの計算に使うジーピーユーっていうチップで、世界のトップを走ってる会社よ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "グラボの会社なのだ! ゲームもAIも、あそこのチップなのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "で、問題は抜け道。チップを中国に持ち込まなくても、外国のデータセンターで使わせてもらえば済んじゃうの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ずるいのだ! 家に持ち込めないゲーム機を、友だちの家で遊ぶみたいなのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "たとえは悪くないわ。しかも今の法律だと、クラウドで使わせること自体は、輸出に当たらない扱いなのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "クラウドって、ネットの向こうのサーバー倉庫だったのだ。そこで使わせるのはセーフ扱いなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、ここが穴だったの。画面越しに使うだけなら、モノは国境を越えてないって理屈ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、その友だちの家って、どこにあるのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "よく名前が挙がるのが東南アジア。シンガポールやマレーシア、タイなんかのデータセンターね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "南の国の、AI合宿所なのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "合宿所ね。実際、ホワイトハウスで科学技術を担当するトップが七月に、中国のムーンショットっていうAI企業が、タイで最新のエヌビディアのサーバーを使ってたと非難してるの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "名指しなのだ!? 証拠はあるのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "公の証拠は示されてないし、ムーンショット側も取材に答えてないわ。だから、ここは疑いの段階として聞いてね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "疑いと事実は別のお皿、なのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それと、シンガポールのメガスピードっていうデータセンターの会社。アメリカの商務省と司法省が今週、刑事事件として捜査してるって認めたの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "しほうしょう? 何をするところなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "日本で言うと、法務省と検察を合わせたような役所ね。疑いは、輸出禁止のはずのエヌビディアのチップが、中国に流れたんじゃないかってこと。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "横流しなのだ!?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "まだ疑いの段階よ。メガスピードは違反の証拠はないと言ってて、エヌビディア自身も罪には問われてないわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、どこが怪しいって言われてるのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "エヌビディアは去年の六月に、この会社を売らない相手に指定してたの。それでもニューヨーク タイムズによると、マレーシアの子会社には何か月もチップが届き続けてたって。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "出入り禁止の人が、裏口から入ってたのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういう構図が疑われてるのね。この騒ぎの流れで、先週はエヌビディアのトップ交代まで起きて、業界は大揺れなの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "その騒ぎの話は、前に夜便でもやったやつなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、そっちはいったん置いておくわ。今回の主役は、国が作った新しいルールの中身よ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "じゃあ中身なのだ! 新しいルール、何が決まったのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "アメリカ商務省の中で輸出規制を担当する、ビーアイエスって部署が、十一月十六日に暫定のルールを出したの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ざんてい? とりあえずの、仮のやつなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、まず効力を持たせて、あとから意見を聞いて直していく形のルールね。このニュースで押さえたい柱は二本あるわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "一本目、どうぞなのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目は、世界のどこのデータセンターでも、中国を含む武器禁輸対象国やマカオに本社や最終親会社がある会社へ大きな計算力を貸すと分かっているなら、そこに送る対象チップに許可が要るってこと。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "世界のどこでもなのだ!? 南の国だけじゃないのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこがポイント。場所じゃなくて、誰に貸してるかで線を引いたのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも、ちょっとだけ貸すのもダメなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "線があるわ。ティーピーピーっていう、チップの計算の強さを足し合わせた数字で、1,200万を超えると許可が必要になるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "1,200万ティーピーピー……単位がもう呪文なのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "身近な形に直すと、エヌビディアの、エイチひゃくっていう数年前の主力ジーピーユー、およそ750基分ね。",
+      "news_index": 2,
+      "reading": "みぢかなかたちになおすと、エヌビディアの、エイチひゃくっていうすうねんまえのしゅりょくジーピーユー、およそななひゃくごじゅっきぶんね。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "750基!? ボクのパソコンはグラボ1枚で精一杯なのに、その750倍なのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "個人なら一生縁のない量だけど、AIを本気で鍛える会社にとっては、そこまで大きくない規模なの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、中くらいの会社でも引っかかるってことなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そうなりやすいわ。しかも一つのデータセンターだけじゃなく、連携して動くデータセンター同士の計算力も合計するから、拠点を分けても線を避けにくいのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "さらに、間に別の会社を挟む借り方も対象よ。中国の会社のために、仲介役がAIを鍛えるケースまで含めてるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "また貸しも、ちゃんと塞いだのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ここが工夫ね。ログインそのものは輸出じゃないから許可制にできない、だからチップを送る段階に鍵をかけたのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "部屋の鍵じゃなくて、ゲーム機を運ぶトラックを止めるのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "うまいわね。そういうことよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "で、二本目は?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目は国の名指し。シンガポール、マレーシア、タイ、インドネシア、ブラジルの五か国に先端チップを送るときは、許可が要るの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ブラジル!? 急に地球の裏側なのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "理由は、横流しの危険がふつうより高い国だから、って説明よ。審査は案件ごとに一つずつ見る形ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "アメリカの会社が、そこでデータセンターをやるのもダメなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "アメリカに本社がある相手なら、毎月きちんと報告を出すことで、この許可は要らない扱いになると報じられてるわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "毎月の報告書なのだ。夏休みの絵日記なのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "日記よりずっと厳しいわよ。いつから効くかの細かい日付は、報道によって食い違ってて、まだはっきりしないの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "要するに、誰に貸すかの線と、危ない国の名指しの、二段構えってことなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "その要約で合ってるわ。借りる側じゃなくて、貸す側の元栓を締めにいったルールね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ここからが本題なのだ。ボクたちの生活には、何が変わるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "分けて考えましょう。まず、日本でAIを使ってるだけの人は、チャットのAIが明日から使えなくなる、みたいな話ではないわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "ふぅ、ボクの宿題係は無事なのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "次に、投資をしてる人。発表のあった月曜は、半導体の会社をまとめた指数が、一時5.5%も下がったの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "5.5%!? クラスの平均点が、一日でどーんと落ちたみたいなのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "エヌビディア株も、報道では4%前後下げたわ。ただ、トップ交代や決算前の不安も重なってて、全部がルールのせいとは言い切れないの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "世界の株にまとめて積み立ててる人にも、ちょっと響くのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "間接的にはね。半導体は指数の中で大きな割合だから、ここが揺れると全体も揺れやすいの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "エヌビディアは、売り先が減って困るのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "報道だと、エヌビディア自身はこの種のルールに反対してたの。中国を締め出すと、かえって中国が自前のチップ作りに本腰を入れる、って理屈ね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "売れないうえに、ライバルまで育てちゃうのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "次に、東南アジアの国。マレーシアはデータセンター誘致に力を入れてて、七月には、クラウドや機械のリース経由の流れもチェック対象になりうる、って指示を出してたわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "先回りして、自分ちの戸締まりをしてたのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そうね。でも今回の五か国は、許可待ちの時間や手間が増えるから、データセンター建設の計画に影響が出るかもしれない、というのが私の見立てよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "AIで何か作ってる開発者の人は、どうなのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "日本の開発者が直接困る場面は少なそう。ただ、世界の計算力の取り合いが偏れば、借りる値段に波及する可能性はあるわね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "遠い国のルールが、回り回ってボクの財布なのだ……",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、ここが一番大事な論点。チップを止めて、本当に中国のAIは止まるのか。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "え、止まらないのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "蒸留っていう方法があるの。強いAIに大量に質問して、その答えを手本に、別のAIを安く育てるやり方よ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "優等生のノートを借りて、テスト勉強を済ませちゃうのだ!?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "イメージは近いわ。ホワイトハウス側は、さっきのムーンショットがアンソロピックのフェイブルを蒸留したとも非難してるけど、ここも証拠は公開されてないの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "チップの元栓を締めても、ノートのコピーは止まらないってことなのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこが今回の弱点ね。テックメディアのザ デコーダーも、中国は長い禁輸の間に、蒸留の産業ごと育ててきたって指摘してるわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "要するに、玄関の鍵は増えたけど、窓がまだ開いてるかもってことなのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "いいまとめね。チップの規制は効く部分もあるけど、それだけで全部は止められない、ってことよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "じゃあ、これから何を見ておけばいいのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三つあるわ。一つ目は、ルールがいつ正式に効くかと、許可の審査が実際どれくらい通るか。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "厳しすぎて誰も通らないと、南の国の合宿所が空っぽなのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういう心配もあるわね。二つ目は、メガスピードの捜査の行方で、本当に横流しがあったのか、起訴まで進むのかよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "三つ目は?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "蒸留への手当て。チップじゃなくて、AIの答えそのものの持ち出しを、各社や政府がどう防ぐかね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "AIの会社が、質問の仕方で怪しい相手を見抜くのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "対策を進めてると説明してる会社もあるわ。ただ、どこまで見抜けるかは、外からはまだ分からないの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "あと、中国が自前のチップをどこまで強くするかも、気になるのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "いい視点ね。締め付けが、かえって相手の自立を早めるかどうか、ここは数年単位で見る話よ。",
+      "news_index": 4,
+      "reading": "いいしstatenぇ。しめつけが、かえってあいてのじりつをはやめるかどうか、ここはすうねんたんいでみるはなしよ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "今朝は、アメリカが、中国のAI計算力レンタルの抜け道に鍵をかけた話だったのだ。",
+      "news_index": 5,
+      "reading": "けさは、アメリカが、ちゅうごくのAIけいさんりょくレンタルのぬけみちにかぎをかけたはなしだったのだ。"
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "まとめるわね。誰に貸すかで線を引き、五か国は名指しで許可制にした。ただ蒸留という窓は残ってて、効き目はこれから試されるわ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "友だちの家のゲーム機と、トラックの検問と、優等生のノート。今日の雑談で言うのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "盛り込みすぎだけど、まあいいわ。聴いてくれてるかた、いってらっしゃい、気になる人はアメリカ商務省の発表や各社の報道をのぞいてみてね。",
+      "news_index": 5
+    }
+  ],
+  "program_description": "アメリカ商務省が十一月十六日に出した、中国企業が外国のデータセンターでAIの計算力を借りる抜け道を塞ぐ暫定ルールを深掘り。背景では、クラウドで使わせることは輸出に当たらないという穴と、タイのサーバーをめぐるムーンショットへの非難、シンガポールのメガスピードへの刑事捜査を、疑いと事実を分けて整理。技術面では、貸す相手で線を引く計算量の基準と、シンガポールやマレーシアなど五か国の名指し許可制を噛み砕いた。含意では、半導体株の急落、東南アジアのデータセンター、そしてチップを止めても蒸留という窓が残る点を検討。展望では、正式な開始時期と審査の実態、捜査の行方、蒸留対策を見どころに挙げた。",
+  "variant": "tech_deepdive",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20261118_050623_chars.webp",
+    "hero_rel": "/images/topics/tech_20261118_050623.webp",
+    "title": "米国が中国のAI計算力レンタルに鍵をかける 〜H100約750基分で許可制、東南アジアなど5か国も名指し〜",
+    "companies": [
+      "NVIDIA",
+      "Claude"
+    ],
+    "thumbnail_ready": true
+  },
+  "summary_short": "米国商務省が中国企業による海外データセンターでのAI計算力レンタルを許可制に。クラウド利用は輸出でないという抜け道、タイ・シンガポールの疑惑、半導体株急落、そしてチップを止めても残る蒸留の穴まで整理します。",
+  "published_at": "2026-11-18T07:01:48+09:00"
+}
