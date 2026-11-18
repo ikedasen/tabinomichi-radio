@@ -1,0 +1,806 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-11-19T05:01:56+09:00",
+  "title": "陰と陽の迷宮都市 〜九龍城に風水を起こしに行く話〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 460.29,
+  "script_hash": "sha256:3e54ffed9f6cd7ab8c16add67ccdeeec58cbb6a89cf5729301bcbf257a497939",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 4.69
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "旅の道ラジオへようこそなのだ！ パーソナリティのずんだもんなのだー！ 今回はレトロゲーム回なのだ！",
+      "news_index": 0,
+      "start_sec": 4.69,
+      "end_sec": 10.81
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "またまた、あーしが担当するっすよー！ 今回のテーマは『クーロンズ・ゲート』っす！ 香港の九龍城を風水で救いに行く、プレステ屈指のカルト作っすよ！",
+      "news_index": 0,
+      "start_sec": 10.96,
+      "end_sec": 20.29
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "クーロンって、中華まんのおいしいお店の名前なのだ？ ボク、肉まん派なのだ。",
+      "news_index": 1,
+      "start_sec": 20.44,
+      "end_sec": 26.27
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "先輩それガチ違うっす。九龍は香港にあった巨大スラム、九龍城砦がモチーフっす。",
+      "news_index": 1,
+      "start_sec": 26.42,
+      "end_sec": 32.26
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "1993年に取り壊しが始まって、今はもう残ってない実在の街なんすよ。要するに、もう無い街をゲームの中で歩けるってことっす。",
+      "news_index": 1,
+      "start_sec": 32.34,
+      "end_sec": 41.31
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "無くなった街に入れるのは、ちょっとロマンなのだ…。",
+      "news_index": 1,
+      "start_sec": 41.46,
+      "end_sec": 44.64
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "発売は1997年2月28日、プレイステーション用っす。販売はソニー・ミュージックエンタテインメントっすね。",
+      "news_index": 1,
+      "start_sec": 44.79,
+      "end_sec": 52.4
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "1997年って、ボクがまだ枝豆だった頃なのだ。もはや古代文明なのだ。",
+      "news_index": 1,
+      "start_sec": 52.55,
+      "end_sec": 58.46
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "枝豆の頃を古代って言うのは盛りすぎっすよ先輩 w。ちなみにあのFF7が出た約1か月後に出てるっす。",
+      "news_index": 1,
+      "start_sec": 58.61,
+      "end_sec": 65.33
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "FF7の直後なのだ!? それ、隣でお祭りやってる日に屋台を出すみたいなものなのだ…。",
+      "news_index": 1,
+      "start_sec": 65.48,
+      "end_sec": 73.09
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kangae",
+      "text": "たとえは分かるっす。影響かどうかまでは分からないっすけど、発売当初の売上は振るわなかったって言われてるっす。",
+      "news_index": 1,
+      "start_sec": 73.24,
+      "end_sec": 80.33
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "つまり、当時は埋もれ気味で、後からじわじわ見つかった作品ってことっす。",
+      "news_index": 1,
+      "start_sec": 80.41,
+      "end_sec": 84.99
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、どんなお話なのだ？ 九龍で肉まん屋さんを開く経営シムなのだ？",
+      "news_index": 2,
+      "start_sec": 85.14,
+      "end_sec": 90.16
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "shirake",
+      "text": "…先輩、肉まんから離れてほしいっす。",
+      "news_index": 2,
+      "start_sec": 90.31,
+      "end_sec": 93.06
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "…はい、なのだ。",
+      "news_index": 2,
+      "start_sec": 93.21,
+      "end_sec": 94.5
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "コホン。舞台は1997年の香港っす。この世界には陽界と陰界があって、陰界の九龍城が丸ごと陽界に出てきちゃうっす。",
+      "news_index": 2,
+      "start_sec": 94.65,
+      "end_sec": 103.58
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "街が丸ごと引っ越してくるのだ!? ご近所トラブルどころじゃないのだ！",
+      "news_index": 2,
+      "start_sec": 103.73,
+      "end_sec": 108.96
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "ご近所トラブルの最上級っすね w。で、陰と陽のバランスが崩れて世界がヤバいことになるっす。",
+      "news_index": 2,
+      "start_sec": 109.11,
+      "end_sec": 115.41
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そこで主人公が超級風水師として九龍城に潜入して、四神獣の見立てで調和を取り戻すって話っす。",
+      "news_index": 2,
+      "start_sec": 115.49,
+      "end_sec": 122.16
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "風水なら知ってるのだ！ 黄色いものを西に置くとお金が貯まるやつなのだ！",
+      "news_index": 2,
+      "start_sec": 122.31,
+      "end_sec": 126.91
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "それ、だいぶ家庭向けの風水っすよ先輩。こっちは白虎、朱雀、玄武、青龍の四神獣を使う、世界規模の風水っす。",
+      "news_index": 2,
+      "start_sec": 127.06,
+      "end_sec": 135.72
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに、インテリア占いじゃなくて世界の模様替えっす。",
+      "news_index": 2,
+      "start_sec": 135.8,
+      "end_sec": 139.29
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "世界の模様替え…。ちょっと響きがかっこいいのだ。",
+      "news_index": 2,
+      "start_sec": 139.44,
+      "end_sec": 143.08
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "でしょでしょ！ しかも風水とか近未来とかが全部ごちゃ混ぜの、サイケな世界観っすよ！",
+      "news_index": 3,
+      "start_sec": 143.23,
+      "end_sec": 148.46
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "あーし、中古屋で限定版を発掘して実機で遊んだんすけど、最初の路地の時点でもう脳がやられたっす！",
+      "news_index": 3,
+      "start_sec": 148.54,
+      "end_sec": 155.0
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "探索はどんな感じなのだ？ 走り回るアクションなのだ？",
+      "news_index": 3,
+      "start_sec": 155.15,
+      "end_sec": 159.03
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "一人称視点で、描き込まれた一枚絵をつないで歩いていくタイプっす。",
+      "news_index": 3,
+      "start_sec": 159.18,
+      "end_sec": 163.35
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "なるほど、紙芝居をめくりながら散歩するのだ！ ボク紙芝居のおじさん得意なのだ！",
+      "news_index": 3,
+      "start_sec": 163.5,
+      "end_sec": 169.47
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "めくる速さがおじさんの比じゃないっす。画像を毎秒24コマで切り替えて、ぬるっと動いてる風に見せてるっす。",
+      "news_index": 3,
+      "start_sec": 169.62,
+      "end_sec": 176.37
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "つまり、紙芝居を全力でパラパラ漫画にした技術っす。",
+      "news_index": 3,
+      "start_sec": 176.45,
+      "end_sec": 180.01
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "パラパラ漫画の香港…。リスナーの皆も、ちょっと想像してみてほしいのだ。",
+      "news_index": 3,
+      "start_sec": 180.16,
+      "end_sec": 185.14
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "オタクくんなら分かるっすよね。看板、配管、湿った壁、ぜんぶがジメッとしてて、匂いまでしそうな街なんすよ。",
+      "news_index": 3,
+      "start_sec": 185.29,
+      "end_sec": 192.61
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "住人さんは普通の人なのだ？",
+      "news_index": 4,
+      "start_sec": 192.76,
+      "end_sec": 195.01
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そこが最高なんすよ！ 物に執着しすぎて体が変わっちゃった妄人って人たちがいて、水銀屋みたいな、ひと癖もふた癖もある住人がぞろぞろ出てくるっす！",
+      "news_index": 4,
+      "start_sec": 195.16,
+      "end_sec": 204.72
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "じゃあボクはずんだに執着しすぎて、ずんだ男になるのだ。",
+      "news_index": 4,
+      "start_sec": 204.87,
+      "end_sec": 209.07
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "先輩それ、たぶん今とあんまり変わんないっすよ w。",
+      "news_index": 4,
+      "start_sec": 209.22,
+      "end_sec": 212.42
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに、執着がそのまま見た目になる街ってことっす。ちょっと怖いけど、どこか憎めない人ばっかりっす。",
+      "news_index": 4,
+      "start_sec": 212.5,
+      "end_sec": 219.11
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ほかに目立つ住人はいないのだ？",
+      "news_index": 4,
+      "start_sec": 219.26,
+      "end_sec": 221.5
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ヒロイン枠の小黒っていう子がいるっす。この子の存在が、不気味な街の中でちょっと目を引くんすよ。",
+      "news_index": 4,
+      "start_sec": 221.65,
+      "end_sec": 227.71
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "ヒロインなら、ボクのずんだ餅を分けてあげたいのだ！",
+      "news_index": 4,
+      "start_sec": 227.86,
+      "end_sec": 231.42
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "hisohiso",
+      "text": "いきなり餌付けしないでほしいっす。あと序盤は説明が少ないまま、不思議な街に放り込まれるっす。",
+      "news_index": 4,
+      "start_sec": 231.57,
+      "end_sec": 238.1
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "説明なしで放り込まれるのだ!? ボクなら迷子センターを探すのだ！",
+      "news_index": 4,
+      "start_sec": 238.25,
+      "end_sec": 242.59
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "九龍に迷子センターは無いっすよ先輩。でも、その迷子感こそがこのゲームの空気そのものっす。",
+      "news_index": 4,
+      "start_sec": 242.74,
+      "end_sec": 248.65
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "戦うところもあるのだ？ アドベンチャーって聞いてたのだ。",
+      "news_index": 5,
+      "start_sec": 248.8,
+      "end_sec": 252.33
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ジャンルはアドベンチャーっすけど、3Dダンジョンと戦闘でRPG色もけっこう強いっす。",
+      "news_index": 5,
+      "start_sec": 252.48,
+      "end_sec": 257.91
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "バトルは木火土金水の五行属性っす。相手に勝つ属性をぶつけるか、邪気を吸わせて勝つっす。",
+      "news_index": 5,
+      "start_sec": 257.99,
+      "end_sec": 264.02
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "吸えば勝てるなら、全部吸い込めば最強なのだ！ 掃除機ずんだもん出動なのだ！",
+      "news_index": 5,
+      "start_sec": 264.17,
+      "end_sec": 270.0
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "shirake",
+      "text": "…先輩、五属性ぜんぶ吸わせると邪気が逆流してゲームオーバーっす。",
+      "news_index": 5,
+      "start_sec": 270.15,
+      "end_sec": 274.57
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "掃除機、壊れたのだ…ごめんなさいなのだ…。",
+      "news_index": 5,
+      "start_sec": 274.72,
+      "end_sec": 278.73
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "つまり、欲張ると負けるっていう、妄人の設定とちゃんと地続きのルールなんすよ。",
+      "news_index": 5,
+      "start_sec": 278.88,
+      "end_sec": 283.77
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "でも聞いてる限り、ずっと名作って感じなのだ。弱点はないのだ？",
+      "news_index": 6,
+      "start_sec": 283.92,
+      "end_sec": 288.58
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kangae",
+      "text": "そこは正直に言うと、評価は割れるっす。世界観は唯一無二なんすけど、ゲームとしての遊びやすさは人を選ぶって声も多いっす。",
+      "news_index": 6,
+      "start_sec": 288.73,
+      "end_sec": 297.42
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "特にセーブの自由度が低くて、好きなタイミングで記録しづらいって声もあるっす。",
+      "news_index": 6,
+      "start_sec": 297.5,
+      "end_sec": 302.19
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "ゲーム機の電源を切りたい時に切れないのだ!? それは帰りたいのに改札が開かないやつなのだ！",
+      "news_index": 6,
+      "start_sec": 302.34,
+      "end_sec": 308.02
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "それなっす。あーしも、セーブできる場所を探してる間に夕飯冷めたっす w。",
+      "news_index": 6,
+      "start_sec": 308.17,
+      "end_sec": 313.01
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに、システムより世界に浸るのを楽しむゲームっす。ハマる人には一生モノ、合わない人には迷路っすね。",
+      "news_index": 6,
+      "start_sec": 313.09,
+      "end_sec": 319.89
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "音楽はどうなのだ？ 街の雰囲気に合ってそうなのだ。",
+      "news_index": 7,
+      "start_sec": 320.04,
+      "end_sec": 323.53
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "音楽は蓜島邦明さんっす！ 『世にも奇妙な物語』とかで知られてる人っすよ！",
+      "news_index": 7,
+      "start_sec": 323.68,
+      "end_sec": 328.59
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "あの、テレビで聴くとゾワッとするやつの人なのだ!? そりゃ九龍が不気味になるに決まってるのだ…。",
+      "news_index": 7,
+      "start_sec": 328.74,
+      "end_sec": 336.04
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そうなんすよ。ちょっとエキゾチックで不穏で、あーしの脳にガチで焼き付いてるっす。気になる人は検索して聴いてみてほしいっす。",
+      "news_index": 7,
+      "start_sec": 336.19,
+      "end_sec": 343.62
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ちなみにディスクは4枚組なんすけど、当初は7枚組の予定で、ムービーを1時間ぶんくらい削ったって言われてるっす。",
+      "news_index": 8,
+      "start_sec": 343.7,
+      "end_sec": 350.74
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "7枚って、もうお皿の枚数なのだ！ プレステが食器棚になるのだ！",
+      "news_index": 8,
+      "start_sec": 350.89,
+      "end_sec": 356.79
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "食器棚にはならないっすよ w。7枚入るケースが無くて、4枚に収めたらしいっす。",
+      "news_index": 8,
+      "start_sec": 356.94,
+      "end_sec": 362.24
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "つまり、それでも入りきらないくらい作り込んでたってことっす。",
+      "news_index": 8,
+      "start_sec": 362.32,
+      "end_sec": 365.95
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "そんなに売れなかったのに、なんで今カルト扱いなのだ？",
+      "news_index": 9,
+      "start_sec": 366.1,
+      "end_sec": 369.82
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "のちに動画サイトが広まって、プレイ動画で知った人がじわじわ増えたっす。今やプレステを代表するカルト作の一本っすよ。",
+      "news_index": 9,
+      "start_sec": 369.97,
+      "end_sec": 377.48
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "肉まんの蒸し時間みたいに、ゆっくり蒸されて人気が出たのだ。",
+      "news_index": 9,
+      "start_sec": 377.63,
+      "end_sec": 382.21
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "そこで肉まん戻ってくるんすか先輩 w。でも例えとしては、まあ合ってるっす。",
+      "news_index": 9,
+      "start_sec": 382.36,
+      "end_sec": 387.17
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "2010年にゲームアーカイブスで配信されて、2017年にはPS VR向けの『クーロンズゲートVR 朱雀』も出たっす。",
+      "news_index": 9,
+      "start_sec": 387.25,
+      "end_sec": 394.85
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "VRなら、路地の湿気まで顔に当たりそうなのだ！",
+      "news_index": 9,
+      "start_sec": 395.0,
+      "end_sec": 398.8
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "湿気までは来ないっすよ w。しかも28年後を描く続編『クーロンズリゾーム』が、2024年に全8巻の完全版としてまとまったっす！",
+      "news_index": 9,
+      "start_sec": 398.95,
+      "end_sec": 407.62
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "28年後の九龍なのだ!? 待ってたファンの執着、もう妄人レベルなのだ！",
+      "news_index": 9,
+      "start_sec": 407.77,
+      "end_sec": 413.6
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kamera",
+      "text": "それ、ファンにとっては最高の褒め言葉っすね。要するに、執着が続編を呼んだ作品ってことっす。",
+      "news_index": 9,
+      "start_sec": 413.75,
+      "end_sec": 420.2
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "あと2007年には10周年記念で、セカンドライフの中に九龍の世界が再現されたりもしたっす。それくらい刺さる人には深く刺さる世界なんすよ。",
+      "news_index": 9,
+      "start_sec": 420.28,
+      "end_sec": 429.22
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ボクも九龍の路地を歩いてみたくなったのだ。迷子センターは自分で作るのだ。",
+      "news_index": 10,
+      "start_sec": 429.37,
+      "end_sec": 434.32
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そこまで馴染めたら、もう九龍の住人っすよ先輩！ オタクくんも、遊びやすさより街の空気に浸りたい気分の時にぜひっす！",
+      "news_index": 10,
+      "start_sec": 434.47,
+      "end_sec": 442.1
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "今回はクーロンズ・ゲートの回だったのだ！ また旅の道ラジオで会いましょうなのだー！",
+      "news_index": 10,
+      "start_sec": 442.25,
+      "end_sec": 447.31
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "会いましょうっす！ 次のレトロ回も、あーしが案内するっすよー！",
+      "news_index": 10,
+      "start_sec": 447.46,
+      "end_sec": 451.29
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 451.99,
+      "end_sec": 460.29
+    }
+  ],
+  "wall_time_sec": 18.1,
+  "audio_url": "/audio/indie/20261119_050156.mp3?v=1795039419"
+}

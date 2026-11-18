@@ -1,0 +1,682 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-11-18T20:06:47.594125+00:00",
+  "title": "OpenAIが最上位AIを2割値下げ 〜GPT-6.2 Astra、Claudeと同じ8ドルの値札で総合2位〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "intro",
+      "text": "おはようございます、旅の道ラジオ朝便、テック深掘り回。四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝は1本がっつりいくのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今朝のテーマは、オープンエーアイの新しいAI、ジーピーティー ロクテンニ。十一月十七日に、アストラとソルの二つが出たの。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ロクテンニ? 六点二点って、テストの点数にしては低すぎるのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "点数じゃなくて、版の番号よ。六の、二回目の改良版ってこと。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、なんでわざわざ一本まるごと深掘りするのだ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今回の目玉が、賢さより値段だからよ。最上位のアストラが、前より二割安くなったの。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、AIの会社が値下げ!? 最近は値上げのニュースばっかりだったのだ!",
+      "news_index": 0,
+      "reading": "えっ、AIのかいしゃがねさげ!?さいきんはねあげのニュースばっかりだったのだ!"
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこが面白いところ。値下げの理由と、ライバルとの位置取りを、通勤・通学のお供にじっくり見ていくわね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "まず背景から。ジーピーティーは、チャットジーピーティーの中で動いてる頭脳の名前よ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "チャットジーピーティーとジーピーティーって、別物なのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "お店と料理人みたいなものね。チャットジーピーティーがお店で、ジーピーティーが厨房にいる料理人。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "じゃあ今回は、厨房の料理人が入れ替わったのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。しかも今回出た料理人は二人いて、難しい仕事向けのアストラと、普段使い向けで効率のいいソルがいるの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "アストラとソル? どっちも星っぽい名前なのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "アストラは星、ソルは太陽を意味する言葉ね。名前より、上の係と普段使いの係、って覚えておけば十分よ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "松と竹なのだ! お寿司のランクなのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "朝からお寿司の話はやめなさい。でも、まあ合ってるわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、前の版はいつ出たのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "上の係の前の版、ジーピーティー ロク アストラは九月の初め。普段使いの前の版、ロクテンイチ ソルは九月二十九日よ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ソルは二か月足らずで次が出たのだ。アストラは?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "およそ二か月半ぶりね。その間に、ライバルが次々と強いAIを出してたの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "ライバルって、誰なのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "十一月九日にアンソロピックが最上位のクロード フェイブル ゴーテンニを出して、翌日にはグーグルが一番賢いジェミニ フォー カーボンを、有料の開発者や企業、ウルトラ会員向けに広げたの。",
+      "news_index": 1,
+      "reading": "じゅういちがつここのかにアンソロピックがさいじょういクロードフェイブルゴーテンニをだして、よくじつにはグーグルがイチバンカシコイジェミニフォーカーボンを、ゆうりょうのかいはつしゃやきぎょう、うるとらかいいんむけにひろげたの。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "二日連続で、ライバルの店に腕利きの料理人が立ったのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "しかもフェイブルは、AIの総合力をまとめた外部の指数で首位に立ってたの。オープンエーアイは、追いかける側だったわけね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ずっと一番だと思ってたのに、意外なのだ。発表の前に、噂とかリークはあったのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今回は、事前の大きなリークや延期の話は、私が調べた範囲では見当たらなかったわ。わりと静かに出てきた版ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、値段の話なのだ。前は値上げだったって、どういうことなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kamera",
+      "text": "今年の四月に出たジーピーティー ゴーテンゴは、前の版の二倍の値段だったの。読ませる文章も書かせる文章も、きっちり二倍よ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "二倍!? ボクのおやつ代が急に倍になったら、家出するのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "家出はやめなさい。当時は、賢いんだから高くて当然、っていう強気の値付けだったのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "それが今回は、逆に下げてきたのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう。四月には値上げもあったのに、今回は最上位モデルを二割下げた。この値付けの変化が、背景のポイントよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあ中身なのだ! 値段、いくらになったのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "その前に単位ね。AIの料金はトークン、ようは文章を細かく切った一切れごとに数えるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "とーくん? 文章の、薄切りハムなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "例えとしては悪くないわ。その百万切れごとの値段で比べるのが、業界の決まりなの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "百万切れで、いくらなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "アストラは、読ませる側が8ドル、書かせる側が40ドル。前のアストラは10ドルと50ドルだったから、ちょうど二割引きね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "スーパーの夕方の、お惣菜シールなのだ! ソルの方はいくらなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ソルは、読ませる側が2ドル、書かせる側が10ドル。前のロクテンイチ ソルから据え置きよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "アストラの四分の一なのだ! 安い方の料理人、太っ腹なのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kamera",
+      "text": "で、ここが大事なところ。アストラの8ドルと40ドルって、アンソロピックのフェイブル ゴーテンニと全く同じ値札なの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ぴったり同じ? 偶然なのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "意図までは発表されてないけど、両社の最上位モデルが、同じ値段で一番上の棚に並んだ形ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあ次は賢さなのだ。テストの点、上がったのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "オープンエーアイの発表だと、実際の仕事に近い作業をこなせるかを見る社内テストで、アストラは前のアストラより6.2ポイント上よ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "6.2ポイントって、すごいのだ? 微妙なのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "劇的ではないけど、しっかりした上がり幅ね。しかも答えを書く量は22%減ってて、そのぶん出力料金や利用枠を抑えやすいのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "それと、AIが自分で手順を踏んで作業を片付けるテストでも、前の版より5.2ポイント上で、費用は三分の一以下だそうよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ライバルと比べると、どうなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そのテストでは、フェイブル ゴーテンニより5.5ポイント上で、費用は5%だったとオープンエーアイは言ってるわ。ただ、これは自社発表の数字ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "自分で測った数字なのだ。外の人は、どう見てるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "アーティフィシャル アナリシスっていう評価会社が、九種類のテストをまとめた総合指数を出してるの。そこではフェイブルが65点で首位、アストラは62点で二位よ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "あっ、一番は取り返せなかったのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三位がジェミニ フォー カーボンの60点で、クロード オーパス ゴーテンゴが59点、ソルは57点ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "前の版から、何点上がったのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "アストラが5点、ソルは2点の上積み。ソルの方は、まさに性能微増ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "プログラミングはどうなのだ? AIに一番頼まれてる仕事なのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこは辛口よ。同じ評価会社のプログラミング用の指数だと、アストラは前の版から横ばいで、ソルは3点下がったの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "えっ、新しいのに下がっちゃったのだ……",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "コード作りの別のテストでも、最高点はフェイブルが握ってるわ。要するに、プログラミングではアンソロピックの背中がまだ前にある、ってこと。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあ、アストラが勝ってるのはどこなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "科学の作業や数学ね。有名な数学者エルデシュが提起したり研究したりした難問を68問集めたテストで、アストラは7問を解いたって。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "68問中の7問って、一割くらいなのだ。少なくないのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "それまでの記録は3問よ。しかも答えは、コンピューターで正しさを検証する仕組みで確かめられてるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "記録の倍以上なのだ! 数学オリンピックの金メダリストも、腰を抜かすのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "盛りすぎだけど、伸びたのは確かね。まとめると、総合では二番手、得意分野ははっきり、そして安い、これがロクテンニの顔よ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ここからが本題なのだ。ボクたちの生活には、何が変わるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kamera",
+      "text": "分けて考えてみるわね。まず、チャットジーピーティーを使ってるだけの人から。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "プラスやプロみたいな有料プランなら、仕事用のワークっていう画面や、プログラミング道具のコーデックスで、ロクテンニを使えるわ。無料プランでの扱いは、発表では触れられてないの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "値下げってことは、ボクの月額料金も下がるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "そこは別の話よ。今回下がったのは、アプリを作る会社向けの、使った分だけ払う料金で、月額プランの値段は変わってないわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "ボクのお小遣いは、救われないのだ……",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "直接はね。でも、AIを組み込んだアプリやサービスを作ってる会社や開発者には、かなり効くのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "なんでそんなに効くのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "AIの料金は、その会社にとって仕入れ値そのものだからよ。お客さんが一回質問するたびに、裏でトークン代がかかるの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ラーメン屋さんの、小麦粉の値段みたいなものなのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "いい例えね。小麦粉が二割安くなれば、ラーメンを値下げするか、そのぶん儲けを残すか、選べるようになるわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "しかも実際の差は、値札よりも大きいことがあるの。別の評価会社の集計だと、課題一つあたりの費用は、前のアストラが21ドルあまり、新しいアストラは10ドルあまりよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "半分なのだ! 値札は二割引きなのに、お会計は半額なのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "値下げに加えて、そのテストで使ったトークン量などが違うのも効いてるのね。要するに、値札より、一仕事あたりのお会計で見ると効き目が大きいってこと。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "で、ここが今の争点よ。マイクロソフトもちょうど同じころ、プログラミング用の自社AIを出して、前のソルの98%の性能を40%のコストで出せるって主張したの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "マイクロソフトって、オープンエーアイの大株主じゃなかったのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そうよ、一番の味方まで安さでぶつけてきてるの。グーグルも、ジェミニに作業を代わりに進めさせる機能を、無料で配り始めたわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "みんなで値下げ合戦なのだ! 家電量販店のチラシの、他店より一円でも高ければ、の世界なのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "近いわね。性能の一番争いに加えて、同じくらいの性能ならどこが安いかも、大事な勝負になってきてるの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "学生さんや、趣味でプログラムを作る人には、何かいいことあるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "安いソルが、上のアストラにかなり迫ってるのがポイントね。コード作りのテストでは、最高設定のソルがアストラの0.5ポイント差まで来て、費用は約五分の一よ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "竹のお寿司で、松とほぼ同じ味なのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "だから、たいていの作業はソルで十分、っていう使い分けが進みそう。ただこれはすぐ生活が変わる話というより、数か月かけてアプリの料金や機能に染み出してくる話ね。",
+      "news_index": 3,
+      "reading": "だから、たいていのさぎょうはソルでじゅうぶん、っていうつかいわけがすすみそう。ただこれはすぐせいかつがかわるはなしというより、すうかげつかけてアプリのりょうきんやきのうにしみだしてくるはなしね。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあ、これから何を見ておけばいいのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三つあるわ。一つ目は、アンソロピックとグーグルが、値段で打ち返してくるか。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "グーグルのカーボンは、もう安いんじゃないのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今は発売記念で2ドルと10ドルだけど、十二月一日から倍の4ドルと20ドルになる予定なの。予定どおり上げるのか、据え置くのかが見どころね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "二つ目は何なのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "安全面よ。オープンエーアイ自身の基準で、ロクテンニのサイバー能力は、一番上のクリティカル段階に達したと判断されたの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、危ないAIなのだ!?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "だから守りを厳しくしてて、そのせいで、まっとうなセキュリティ研究まで一部止められてるそうよ。そのさじ加減がどう落ち着くかね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "それとアストラは、AI研究を加速する力の面でも、外に出したモデルとして初めて、高い段階に達したと判断されたわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "三つ目は何なのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "外の検証よ。自社発表の数字が多いから、外の評価が出そろって、プログラミングで本当に追いつけるかを見ておきたいわね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "自作クイズじゃなくて、全国模試の結果待ちなのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "今朝は、オープンエーアイが最上位のAIを二割値下げして、ライバルと同じ値札で並べてきた話だったのだ。",
+      "news_index": 5,
+      "reading": "けさは、オープンエーアイがさいじょういAIをにわりねさげして、ライバルとおなじねふだでならべてきたはなしだったのだ。"
+    },
+    {
+      "speaker": "metan",
+      "tone": "kamera",
+      "text": "まとめるわね。総合ではフェイブルに次ぐ二位で、プログラミングはまだ追う側だけど、性能だけでなく、一仕事あたりの費用も競争の軸になってきたわ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "薄切りハムと、お惣菜シールと、竹のお寿司。今日の雑談のネタにするのだ!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "食べ物ばっかりだけど、まあいいわ。聴いてくれてるかた、いってらっしゃい! 気になる人はオープンエーアイの発表や各社の報道をのぞいてみてね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "いってらっしゃいなのだー!",
+      "news_index": 5
+    }
+  ],
+  "program_description": "オープンエーアイが十一月十七日に出したGPT-6.2のAstraとSolを、一本まるごと掘り下げた回。背景では、二つの料理人を置く今の体制と、四月のGPT-5.5で値段を倍にした強気路線、直前にアンソロピックのFable 5.2とグーグルのGemini 4 Carbonが相次いで出て追う側に回っていた事情を整理。技術パートでは、Astraが前版から二割引きでFable 5.2と同じ値札になったこと、外部の総合指数ではFableに次ぐ二位、プログラミングは横ばいで数学の難問では記録を更新したことを解説。含意では、月額プランは変わらず、得をするのはAIを組み込むアプリ事業者で、一仕事あたりの費用が半分近くになった例や、マイクロソフトやグーグルも安さで競う流れを紹介。展望では競合の値付け、サイバー面の安全対策、外部検証の三点を挙げた。",
+  "variant": "tech_deepdive",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20261119_050647_chars.webp",
+    "hero_rel": "/images/topics/tech_20261119_050647.webp",
+    "title": "OpenAIが最上位AIを2割値下げ 〜GPT-6.2 Astra、Claudeと同じ8ドルの値札で総合2位〜",
+    "companies": [
+      "OpenAI",
+      "Claude",
+      "Gemini",
+      "Google",
+      "Microsoft"
+    ],
+    "thumbnail_ready": true
+  },
+  "summary_short": "OpenAIがGPT-6.2のAstraを投入し、前版から2割値下げしてFable 5.2と同じ価格に。総合指数は2位で、数学の難問は記録更新。恩恵を受けるのはAI組み込みアプリ事業者で、競合の値付けや安全対策、外部検証が今後の焦点です。",
+  "published_at": "2026-11-19T07:02:17+09:00"
+}
