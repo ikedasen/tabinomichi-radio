@@ -1,0 +1,1186 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-11-19T17:06:20+09:00",
+  "title": "Googleが1か月で4つ目のAIを投入 〜Gemini 4 Neon、入力3ドルで看板のCarbonを外部指数で上回る〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 766.69,
+  "script_hash": "sha256:5579131281860c2608c0284a7ed92320a440589749f72d07d2883219d9300dd7",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 9.59
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "intro",
+      "text": "こんばんは、旅の道ラジオ夜便。今夜もテックの大ニュースを一本、じっくり掘り下げるわ。四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 9.59,
+      "end_sec": 16.59
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだ! お風呂上がりの人も、帰りの電車の人も、こんばんはなのだ!",
+      "news_index": 0,
+      "start_sec": 16.74,
+      "end_sec": 22.36
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今夜のテーマは、グーグルが十一月十八日に出した新しいAI、ジェミニ フォー ネオンよ。",
+      "news_index": 0,
+      "start_sec": 22.51,
+      "end_sec": 28.5
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ネオン? 夜の繁華街で、ピカピカ光ってる看板なのだ?",
+      "news_index": 0,
+      "start_sec": 28.65,
+      "end_sec": 33.13
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "光りはしないわ。ネオンは元素の名前で、ジェミニ フォーの兄弟はみんな元素の名前なの。",
+      "news_index": 0,
+      "start_sec": 33.28,
+      "end_sec": 38.82
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "で、なんでわざわざ夜便で一本まるごとなのだ?",
+      "news_index": 0,
+      "start_sec": 38.97,
+      "end_sec": 42.41
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ジェミニ フォーの新顔が、ほぼ一か月で四つ目なの。しかも看板モデルより安いのに、外部の総合点で上回ったのよ。",
+      "news_index": 0,
+      "start_sec": 42.56,
+      "end_sec": 50.41
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "弟が兄より安くて強いのだ!? 兄弟げんかの予感なのだ!",
+      "news_index": 0,
+      "start_sec": 50.56,
+      "end_sec": 54.78
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "まず背景から。ジェミニは、グーグルが作ってるAIのシリーズで、チャットで答えたり、検索の答えを書いたりする頭脳よ。",
+      "news_index": 1,
+      "start_sec": 54.93,
+      "end_sec": 62.45
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "チャットジーピーティーやクロードの、ライバルってことなのだ。",
+      "news_index": 1,
+      "start_sec": 62.6,
+      "end_sec": 65.99
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。で、ジェミニ フォーの一番手は、十月十三日に一般提供が始まったアルゴン。複雑で長い仕事向けの、考えるタイプのモデルね。",
+      "news_index": 1,
+      "start_sec": 66.14,
+      "end_sec": 75.32
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "考えるタイプ? AIって、全部考えてるんじゃないのだ?",
+      "news_index": 1,
+      "start_sec": 75.47,
+      "end_sec": 80.07
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "答える前に、頭の中で下書きをしてから話すタイプのことよ。即答型より遅いけど、難しい問題に強いの。",
+      "news_index": 1,
+      "start_sec": 80.22,
+      "end_sec": 87.55
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "テストで、いきなり答えを書かずに余白で計算するやつなのだ。",
+      "news_index": 1,
+      "start_sec": 87.7,
+      "end_sec": 91.85
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そのとおり。二番手が十月二十八日に発表されたカーボン。グーグルの最強モデルで、十一月十日から有料APIの開発者と企業、それにウルトラ会員へ提供が広がったわ。",
+      "news_index": 1,
+      "start_sec": 92.0,
+      "end_sec": 104.02
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "カーボンは前に朝便で聞いたのだ。鉛筆の芯のやつ!",
+      "news_index": 1,
+      "start_sec": 104.17,
+      "end_sec": 107.97
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "芯じゃないって言ったでしょ。三番手が十一月十二日のハイドロジェン、ようは速くて安い普段使いの係よ。",
+      "news_index": 1,
+      "start_sec": 108.12,
+      "end_sec": 114.98
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "そのハイドロジェンが、上のアルゴンを点数で追い抜いた話、夜便でやったのだ!",
+      "news_index": 1,
+      "start_sec": 115.13,
+      "end_sec": 121.09
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "よく覚えてたわね。そして四番手が、十一月十八日の今回のネオン。アルゴンから数えると、五週間ちょっとで四つよ。",
+      "news_index": 1,
+      "start_sec": 121.24,
+      "end_sec": 129.18
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "五週間で四つ!? 週刊の漫画雑誌より、新キャラの登場が速いのだ!",
+      "news_index": 1,
+      "start_sec": 129.33,
+      "end_sec": 134.52
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "普通、大きな会社の主力モデルは、何か月かに一度の大イベントなの。だから異例のペースね。",
+      "news_index": 1,
+      "start_sec": 134.67,
+      "end_sec": 140.89
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "そんなに急いで、グーグルは何を焦ってるのだ?",
+      "news_index": 1,
+      "start_sec": 141.04,
+      "end_sec": 144.43
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "この秋はライバルも次々に出してるの。アンソロピックは十一月九日にフェイブル ゴーテンニ、オープンエーアイは十一月十七日に、前の世代より二割安い最上位モデル、ジーピーティー ロクテンニ アストラを発表したわ。",
+      "news_index": 1,
+      "start_sec": 144.58,
+      "end_sec": 157.85
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "みんなで、新作の発売日をぶつけ合ってるのだ。ゲームの年末商戦みたいなのだ。",
+      "news_index": 1,
+      "start_sec": 158.0,
+      "end_sec": 164.7
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "いい例えね。ただ、グーグルの狙いは一番上の一本勝負だけじゃないの。値段と速さの段ごとに、モデルを一つずつ置いていく作戦に見えるわ。",
+      "news_index": 1,
+      "start_sec": 164.85,
+      "end_sec": 173.68
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "段ごと? 本棚に、上から下までぎっしり並べる感じなのだ?",
+      "news_index": 1,
+      "start_sec": 173.83,
+      "end_sec": 178.47
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そう、お寿司の松竹梅を、松・竹・梅だけじゃなく、間にも細かく足していく感じね。いろんな予算や用途に合う選択肢を、細かくそろえている形よ。",
+      "news_index": 1,
+      "start_sec": 178.62,
+      "end_sec": 188.91
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "竹と梅のあいだに、竹梅セットができたのだ。迷うけど、うれしいのだ!",
+      "news_index": 1,
+      "start_sec": 189.06,
+      "end_sec": 194.6
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "hisohiso",
+      "text": "ちなみに、発表の前から、ネオンの値段がグーグルのクラウドの料金表に先に載っていた、って報じられてたの。",
+      "news_index": 1,
+      "start_sec": 194.75,
+      "end_sec": 202.61
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "フライングなのだ……お店の値札が、商品より先に棚に並んじゃったのだ。",
+      "news_index": 1,
+      "start_sec": 202.76,
+      "end_sec": 207.35
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。要するに、ネオンはライバルとの殴り合いの中で、グーグルが値段の隙間を埋めに来た一手、って位置づけね。",
+      "news_index": 1,
+      "start_sec": 207.5,
+      "end_sec": 214.89
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "じゃあ中身なのだ! ネオンは、兄弟の中でどこに座るのだ?",
+      "news_index": 2,
+      "start_sec": 215.04,
+      "end_sec": 219.16
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "グーグルの説明だと、一番難しい長丁場の仕事はカーボン、速い普段の仕事はハイドロジェン。ネオンはその間で、深さと効率のバランス役よ。",
+      "news_index": 2,
+      "start_sec": 219.31,
+      "end_sec": 228.87
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "真ん中の子なのだ。なんだか地味なポジションなのだ。",
+      "news_index": 2,
+      "start_sec": 229.02,
+      "end_sec": 232.37
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "それが地味じゃないの。外部の採点で、兄のカーボンを上回ったんだから。",
+      "news_index": 2,
+      "start_sec": 232.52,
+      "end_sec": 237.08
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、真ん中の子が、お兄ちゃんに勝っちゃったのだ!?",
+      "news_index": 2,
+      "start_sec": 237.23,
+      "end_sec": 240.69
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "アーティフィシャル アナリシスっていう外部の評価会社がいて、いろんなテストをまとめた総合指数を出してるの。",
+      "news_index": 2,
+      "start_sec": 240.84,
+      "end_sec": 246.85
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "総合指数? 五教科の合計点みたいなものなのだ?",
+      "news_index": 2,
+      "start_sec": 247.0,
+      "end_sec": 251.01
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "近いわ。作業を自分で進める力や、知識、推論のテストを九つまとめた総合点よ。そこでネオンは一番深い設定で61点、カーボンは一番深い設定で60点。ちなみに、ネオンの標準設定も60点よ。",
+      "news_index": 2,
+      "start_sec": 251.16,
+      "end_sec": 265.71
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "1点差なのだ! ギリギリだけど勝ちは勝ちなのだ!",
+      "news_index": 2,
+      "start_sec": 265.86,
+      "end_sec": 269.01
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ライバルだと、クロード オーパス ゴーテンゴが59点、ジーピーティー ロクテンニ ソルが57点。この二つには勝ってるわ。",
+      "news_index": 2,
+      "start_sec": 269.16,
+      "end_sec": 276.38
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "じゃあ、ネオンが世界一なのだ!?",
+      "news_index": 2,
+      "start_sec": 276.53,
+      "end_sec": 279.21
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "そこまでじゃないわ。クロード フェイブル ゴーテンニは65点、アストラは62点で、ネオンより上なの。",
+      "news_index": 2,
+      "start_sec": 279.36,
+      "end_sec": 285.62
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "上には上がいたのだ……学年一位の夢が、三位あたりで止まったのだ。",
+      "news_index": 2,
+      "start_sec": 285.77,
+      "end_sec": 291.87
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "要するに、最上位の殿堂入り組のすぐ下、オーパスやソルと同じ階で、少し前に出た位置ね。",
+      "news_index": 2,
+      "start_sec": 292.02,
+      "end_sec": 298.37
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "得意科目と、苦手科目はあるのだ?",
+      "news_index": 2,
+      "start_sec": 298.52,
+      "end_sec": 301.42
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "グーグル自身が出した比べっこだと、一番差が付いたのはオートメーションベンチ。ようは、会社で使う業務ソフトの作業を、AIが自分で段取りしてこなせるかのテストよ。",
+      "news_index": 2,
+      "start_sec": 301.57,
+      "end_sec": 311.85
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "事務のお仕事テストなのだ。点数は?",
+      "news_index": 2,
+      "start_sec": 312.0,
+      "end_sec": 314.7
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ネオンが56.3%、オーパス ゴーテンゴが42.5%、ソルが41.3%。10ポイント以上の差よ。",
+      "news_index": 2,
+      "start_sec": 314.85,
+      "end_sec": 323.61
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "マジか! 事務のテストだけ、ぶっちぎりの優等生なのだ!",
+      "news_index": 2,
+      "start_sec": 323.76,
+      "end_sec": 327.61
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "もう一つ目立つのが、すごく長い文章の中から、つながりをたどるテスト。ネオンは95.2%で、オーパスは66.8%だったわ。",
+      "news_index": 2,
+      "start_sec": 327.76,
+      "end_sec": 337.21
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "長い文章って、どのくらい長いのだ?",
+      "news_index": 2,
+      "start_sec": 337.36,
+      "end_sec": 340.2
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ネオンは約100万トークンを一度に読めるの。トークンは、文章を細かく切った一切れのことで、ざっくり分厚い本を何冊もまとめて渡せる量ね。",
+      "news_index": 2,
+      "start_sec": 340.35,
+      "end_sec": 349.32
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "本を何冊も丸のみして、どのページに何が書いてあったか覚えてるのだ? ボク、一冊目の三ページで寝るのだ。",
+      "news_index": 2,
+      "start_sec": 349.47,
+      "end_sec": 358.64
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこは張り合わなくていいわ。それに、文章だけじゃなく、画像や動画、音声、PDFも読めて、パソコン画面の操作やプログラムの実行もできるのよ。",
+      "news_index": 2,
+      "start_sec": 358.79,
+      "end_sec": 368.64
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあ、負けた科目はどこなのだ?",
+      "news_index": 2,
+      "start_sec": 368.79,
+      "end_sec": 371.23
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ターミナルベンチっていう、黒い画面にコマンドを打ってパソコン作業をこなすテストね。ネオンが65.2%、オーパスが65.8%で、わずかに負けたの。",
+      "news_index": 2,
+      "start_sec": 371.38,
+      "end_sec": 381.98
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kanashimi",
+      "text": "0.6ポイント差なのだ……写真判定の負けなのだ。",
+      "news_index": 2,
+      "start_sec": 382.13,
+      "end_sec": 386.07
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "難しいプログラミングの別テストでも、オーパスがわずかに上。ただ、別のコーディング総合指数ではネオンが一位だから、プログラミング全体でクロードが上とは言い切れないわ。",
+      "news_index": 2,
+      "start_sec": 386.22,
+      "end_sec": 396.65
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "変わった科目はないのだ? 体育とか家庭科とか。",
+      "news_index": 2,
+      "start_sec": 396.8,
+      "end_sec": 400.65
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "あるわよ。AIに自動販売機の経営をまかせるシミュレーションで、ネオンは一位、複数回の平均で最後の銀行残高が1万6,843ドルだったって。",
+      "news_index": 2,
+      "start_sec": 400.8,
+      "end_sec": 411.74
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "自販機の店長テストなのだ!? 日本円で270万円くらいの残高なのだ! ボク、ジュース一本でも赤字にする自信があるのだ!",
+      "news_index": 2,
+      "start_sec": 411.89,
+      "end_sec": 421.13
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "自信を持つところじゃないわ。ただ、外部の公開ベンチとグーグルの自己計測が混ざってるの。テスト条件も違うから、実地での検証がもっと必要なのは覚えておいてね。",
+      "news_index": 2,
+      "start_sec": 421.28,
+      "end_sec": 431.45
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "自分で採点したテストは、ちょっと割り引いて聞くのだ。",
+      "news_index": 2,
+      "start_sec": 431.6,
+      "end_sec": 435.14
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。まとめると、事務作業と長い資料の読み取りは強く、プログラミングはテストによってクロードと勝ち負けが分かれる、ってところね。",
+      "news_index": 2,
+      "start_sec": 435.29,
+      "end_sec": 443.41
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ここからが本題なのだ。ボクたちの生活には、何が変わるのだ?",
+      "news_index": 3,
+      "start_sec": 443.56,
+      "end_sec": 447.99
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "まずは値段の話から。ネオンは、入力が百万トークンあたり3ドル、出力が15ドルよ。",
+      "news_index": 3,
+      "start_sec": 448.14,
+      "end_sec": 454.16
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "円にすると、どのくらいなのだ?",
+      "news_index": 3,
+      "start_sec": 454.31,
+      "end_sec": 456.65
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "入力でだいたい480円、出力で2,400円くらい。普段使いのハイドロジェンの、ちょうど二倍の値段ね。",
+      "news_index": 3,
+      "start_sec": 456.8,
+      "end_sec": 464.23
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "兄のカーボンと比べたら、どうなのだ?",
+      "news_index": 3,
+      "start_sec": 464.38,
+      "end_sec": 467.06
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこがややこしいの。カーボンは今、発売記念で入力2ドル、出力10ドルだけど、十二月一日から倍の4ドルと20ドルになる予定なのよ。",
+      "news_index": 3,
+      "start_sec": 467.21,
+      "end_sec": 476.95
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "えっと、今月はカーボンの方が安くて、来月からはネオンの方が安いのだ? 頭がこんがらがるのだ!",
+      "news_index": 3,
+      "start_sec": 477.1,
+      "end_sec": 485.74
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "正解よ。十二月以降の定価で比べると、ネオンはカーボンより二割五分安くて、外部の総合点は1点上なの。",
+      "news_index": 3,
+      "start_sec": 485.89,
+      "end_sec": 493.52
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "安くて強い弟、最強なのだ! みんなネオンに乗り換えるのだ!",
+      "news_index": 3,
+      "start_sec": 493.67,
+      "end_sec": 498.53
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "そう単純じゃないの。さっきの評価会社が、ネオンはおしゃべりで、遅いとも指摘してるのよ。",
+      "news_index": 3,
+      "start_sec": 498.68,
+      "end_sec": 504.34
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "おしゃべり? AIが世間話でもするのだ?",
+      "news_index": 3,
+      "start_sec": 504.49,
+      "end_sec": 507.86
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "考える下書きも含めて、出す文字の量がすごく多いの。テスト一式で使った量が、普通のモデルの四倍以上だったわ。",
+      "news_index": 3,
+      "start_sec": 508.01,
+      "end_sec": 515.44
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "四倍!? 一言で済む返事を、作文用紙四枚で書いてくるのだ!",
+      "news_index": 3,
+      "start_sec": 515.59,
+      "end_sec": 520.2
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "だから、一切れあたりは安くても、一仕事あたりの料金はそこまで安くならないの。評価会社のテストだと、一回あたり6.44ドル、千円くらいかかって、比べた中ではお高い方だったわ。",
+      "news_index": 3,
+      "start_sec": 520.35,
+      "end_sec": 532.45
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "グラム単価は安いのに、量が多いから、レジでびっくりするお肉なのだ。",
+      "news_index": 3,
+      "start_sec": 532.6,
+      "end_sec": 537.52
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "まさにそれ。しかもテスト一回に平均二十一分ちょっと、普通のモデルの倍近く時間がかかったの。",
+      "news_index": 3,
+      "start_sec": 537.67,
+      "end_sec": 543.94
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "じっくり型なのだ……待ってる間に、カップ麺が七個できるのだ。",
+      "news_index": 3,
+      "start_sec": 544.09,
+      "end_sec": 550.48
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ただ、考える深さは段階で選べるの。一番深い設定で61点、一つ下で60点、まん中だと55点で、時間もぐっと短くなるわ。",
+      "news_index": 3,
+      "start_sec": 550.63,
+      "end_sec": 560.39
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "エアコンの、強・中・弱みたいに選べるのだ。急ぐときは弱にするのだ。",
+      "news_index": 3,
+      "start_sec": 560.54,
+      "end_sec": 565.25
+    },
+    {
+      "index": 84,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。で、人ごとに分けて考えると、まずAIを組み込んだサービスを作ってる開発者の人。",
+      "news_index": 3,
+      "start_sec": 565.4,
+      "end_sec": 572.03
+    },
+    {
+      "index": 85,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "開発者さんは、何がうれしいのだ?",
+      "news_index": 3,
+      "start_sec": 572.18,
+      "end_sec": 574.84
+    },
+    {
+      "index": 86,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "値段と賢さの選択肢が細かく増えたこと。それに、同じ文章を何度も渡すときは、入力の料金が95%引きになる割引もあるの。",
+      "news_index": 3,
+      "start_sec": 574.99,
+      "end_sec": 584.31
+    },
+    {
+      "index": 87,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "同じ文章なのに、なんで安くなるのだ?",
+      "news_index": 3,
+      "start_sec": 584.46,
+      "end_sec": 587.52
+    },
+    {
+      "index": 88,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一度読んだ分を覚えておいて、読み直しを省けるからよ。毎回同じ説明書を渡すサービスほど得をするわ。",
+      "news_index": 3,
+      "start_sec": 587.67,
+      "end_sec": 594.47
+    },
+    {
+      "index": 89,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "二回目からは、顔パスで入れる常連さん割引なのだ。",
+      "news_index": 3,
+      "start_sec": 594.62,
+      "end_sec": 598.89
+    },
+    {
+      "index": 90,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "次に、グーグルのプログラミング道具、アンチグラビティを使ってる人。ネオンが現場監督になって、ハイドロジェンを手下として何人も動かす使い方が紹介されてるわ。",
+      "news_index": 3,
+      "start_sec": 599.04,
+      "end_sec": 609.03
+    },
+    {
+      "index": 91,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "兄弟で工事現場なのだ! 真ん中の子が親方で、末っ子たちが走り回るのだ!",
+      "news_index": 3,
+      "start_sec": 609.18,
+      "end_sec": 614.59
+    },
+    {
+      "index": 92,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そして、ジェミニのアプリを有料で使ってる人。プロやウルトラのプランでは、モデル一覧からネオンを選べるようになるって発表よ。",
+      "news_index": 3,
+      "start_sec": 614.74,
+      "end_sec": 622.37
+    },
+    {
+      "index": 93,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "無料のボクには、関係ないのだ?",
+      "news_index": 3,
+      "start_sec": 622.52,
+      "end_sec": 625.12
+    },
+    {
+      "index": 94,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "今回の発表は有料プラン向けが中心ね。日本の会員にいつ、どこまで届くかの細かい話は、私は確かめきれてないわ。",
+      "news_index": 3,
+      "start_sec": 625.27,
+      "end_sec": 633.8
+    },
+    {
+      "index": 95,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあ、すぐにボクの生活が変わる話じゃないのだ?",
+      "news_index": 3,
+      "start_sec": 633.95,
+      "end_sec": 637.57
+    },
+    {
+      "index": 96,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "すぐ効くのは、AIでサービスを作る人のお財布。長い目で効くのは、各社が値段の段を細かく刻んで、同じ予算で使える賢さがじわじわ上がっていく流れね。",
+      "news_index": 3,
+      "start_sec": 637.72,
+      "end_sec": 647.82
+    },
+    {
+      "index": 97,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "要するに、同じお小遣いで、だんだん良いお弁当が買えるようになる話なのだ。",
+      "news_index": 3,
+      "start_sec": 647.97,
+      "end_sec": 653.34
+    },
+    {
+      "index": 98,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "最後に、これから見ておきたいのは三つよ。",
+      "news_index": 4,
+      "start_sec": 653.49,
+      "end_sec": 656.12
+    },
+    {
+      "index": 99,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "メモ帳、スタンバイ完了なのだ!",
+      "news_index": 4,
+      "start_sec": 656.27,
+      "end_sec": 658.6
+    },
+    {
+      "index": 100,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一つ目は外の検証。グーグルは総合三位と言ってるけど、評価会社の一覧だと、順位はもう少し下に付けられてるの。",
+      "news_index": 4,
+      "start_sec": 658.75,
+      "end_sec": 666.38
+    },
+    {
+      "index": 101,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "自己採点と、全国模試の順位が違うのだ。どっちを信じればいいのだ?",
+      "news_index": 4,
+      "start_sec": 666.53,
+      "end_sec": 671.81
+    },
+    {
+      "index": 102,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "数え方の違いもあるから、いろんな外部の結果がそろうのを待つのが正解ね。",
+      "news_index": 4,
+      "start_sec": 671.96,
+      "end_sec": 676.64
+    },
+    {
+      "index": 103,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "二つ目は何なのだ?",
+      "news_index": 4,
+      "start_sec": 676.79,
+      "end_sec": 678.37
+    },
+    {
+      "index": 104,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "十二月一日の値上げ。カーボンとアルゴンが予定どおり倍になれば、ネオンが値段の真ん中で一番おいしい席になるわ。",
+      "news_index": 4,
+      "start_sec": 678.52,
+      "end_sec": 685.78
+    },
+    {
+      "index": 105,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "値上げの日に、お客さんが一気にネオンへ引っ越すか、見ものなのだ。",
+      "news_index": 4,
+      "start_sec": 685.93,
+      "end_sec": 690.76
+    },
+    {
+      "index": 106,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三つ目はライバルの反撃。とくにアンソロピックが、オーパスの値段か性能で打ち返してくるか、よ。",
+      "news_index": 4,
+      "start_sec": 690.91,
+      "end_sec": 697.1
+    },
+    {
+      "index": 107,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "あと、グーグルはまだ五つ目、六つ目を出してくるのだ? 元素はいっぱいあるのだ。",
+      "news_index": 4,
+      "start_sec": 697.25,
+      "end_sec": 702.83
+    },
+    {
+      "index": 108,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "元素表が尽きる前に、私たちの説明が追いつかなくなりそうね。ただ、このペースが続くかも見どころよ。",
+      "news_index": 4,
+      "start_sec": 702.98,
+      "end_sec": 709.75
+    },
+    {
+      "index": 109,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "注意する点はあるのだ?",
+      "news_index": 4,
+      "start_sec": 709.9,
+      "end_sec": 711.73
+    },
+    {
+      "index": 110,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "値札の安さだけで選ばないこと。一仕事でどれだけ文字を使って、どれだけ待つかまで含めて比べるのが、これからの選び方ね。",
+      "news_index": 4,
+      "start_sec": 711.88,
+      "end_sec": 719.88
+    },
+    {
+      "index": 111,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "今夜は、グーグルがほぼ一か月で四つ目のAI、ネオンを出して、看板のカーボンを外部の総合点で1点上回った話だったのだ。",
+      "news_index": 5,
+      "start_sec": 720.03,
+      "end_sec": 728.91
+    },
+    {
+      "index": 112,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "まとめるわね。値段の段を細かく刻む作戦の中で、ネオンは事務作業と長い資料に強い一方、プログラミングはクロードと互角で、おしゃべりで遅いという弱点もあるわ。",
+      "news_index": 5,
+      "start_sec": 729.06,
+      "end_sec": 739.68
+    },
+    {
+      "index": 113,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "竹梅セットと、グラム単価のお肉と、自販機の店長。明日の雑談で言うのだ!",
+      "news_index": 5,
+      "start_sec": 739.83,
+      "end_sec": 746.24
+    },
+    {
+      "index": 114,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "お肉は余計だけど、まあいいわ。聴いてくれてるかた、今夜もお疲れさま。気になる人は、グーグルの発表や各社の報道をのぞいてみてね。",
+      "news_index": 5,
+      "start_sec": 746.39,
+      "end_sec": 755.11
+    },
+    {
+      "index": 115,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "また大きなニュースがあったら、夜便で会うのだ。おやすみなのだ!",
+      "news_index": 5,
+      "start_sec": 755.26,
+      "end_sec": 759.35
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 760.05,
+      "end_sec": 766.69
+    }
+  ],
+  "wall_time_sec": 17.86,
+  "audio_url": "/audio/ai/20261119_170620.mp3?v=1795076936"
+}

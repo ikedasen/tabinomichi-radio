@@ -7,8 +7,8 @@
     <description>ずんだもん × めたん × つむぎが届ける、ゲーム &amp; テックニュース雑談ラジオ。朝便と夜便で毎日更新、レトロから新作まで、最新 AI 動向から業界マクロまで雑談形式でサクッと。</description>
     <language>ja</language>
     <copyright>© 2026 tabinomichi</copyright>
-    <lastBuildDate>Thu, 19 Nov 2026 07:03:41 +0900</lastBuildDate>
-    <pubDate>Thu, 19 Nov 2026 07:02:17 +0900</pubDate>
+    <lastBuildDate>Thu, 19 Nov 2026 17:29:02 +0900</lastBuildDate>
+    <pubDate>Thu, 19 Nov 2026 17:06:20 +0900</pubDate>
     <generator>build_rss_feed.py (tabinomichi radio)</generator>
     <image>
       <url>https://news.tabinomichi.jp/podcast-cover.png?v=1779005902</url>
@@ -29,6 +29,21 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Googleが1か月で4つ目のAIを投入 〜Gemini 4 Neon、入力3ドルで看板のCarbonを外部指数で上回る〜</title>
+      <link>https://news.tabinomichi.jp/radio/20261119_170620</link>
+      <guid isPermaLink="false">tabinomichi-radio-20261119_170620</guid>
+      <pubDate>Thu, 19 Nov 2026 17:06:20 +0900</pubDate>
+      <description>グーグルが十一月十八日に公開したジェミニ フォー ネオンを深掘り。背景では、十月十三日のアルゴンから数えて五週間ちょっとで四つ目という異例のペースと、カーボン、アルゴン、ハイドロジェンの兄弟の役割、発表前に値段がクラウドの料金表に出ていた話を整理。技術では、外部の総合指数で61点とカーボンを1点上回った一方、フェイブルやアストラには届かないこと、業務ソフトの自動化や長文の読み取りで大差を付け、黒い画面の作業ではオーパスに僅差で負けたことを紹介。含意では、入力3ドルという値段と、答えが長く遅いので一仕事あたりは安くないという外部の指摘、開発者と有料アプリ利用者それぞれへの影響を語り、展望では外部検証、十二月一日の値上げ、ライバルの反撃を見どころに挙げた。</description>
+      <content:encoded><![CDATA[グーグルが十一月十八日に公開したジェミニ フォー ネオンを深掘り。背景では、十月十三日のアルゴンから数えて五週間ちょっとで四つ目という異例のペースと、カーボン、アルゴン、ハイドロジェンの兄弟の役割、発表前に値段がクラウドの料金表に出ていた話を整理。技術では、外部の総合指数で61点とカーボンを1点上回った一方、フェイブルやアストラには届かないこと、業務ソフトの自動化や長文の読み取りで大差を付け、黒い画面の作業ではオーパスに僅差で負けたことを紹介。含意では、入力3ドルという値段と、答えが長く遅いので一仕事あたりは安くないという外部の指摘、開発者と有料アプリ利用者それぞれへの影響を語り、展望では外部検証、十二月一日の値上げ、ライバルの反撃を見どころに挙げた。]]></content:encoded>
+      <enclosure url="https://news.tabinomichi.jp/audio/ai/20261119_170620.mp3?v=1795076936" length="12267981" type="audio/mpeg"/>
+      <itunes:title>Googleが1か月で4つ目のAIを投入 〜Gemini 4 Neon、入力3ドルで看板のCarbonを外部指数で上回る〜</itunes:title>
+      <itunes:summary>グーグルが十一月十八日に公開したジェミニ フォー ネオンを深掘り。背景では、十月十三日のアルゴンから数えて五週間ちょっとで四つ目という異例のペースと、カーボン、アルゴン、ハイドロジェンの兄弟の役割、発表前に値段がクラウドの料金表に出ていた話を整理。技術では、外部の総合指数で61点とカーボンを1点上回った一方、フェイブルやアストラには届かないこと、業務ソフトの自動化や長文の読み取りで大差を付け、黒い画面の作業ではオーパスに僅差で負けたことを紹介。含意では、入力3ドルという値段と、答えが長く遅いので一仕事あたりは安くないという外部の指摘、開発者と有料アプリ利用者それぞれへの影響を語り、展望では外部検証、十二月一日の値上げ、ライバルの反撃を見どころに挙げた。</itunes:summary>
+      <itunes:image href="https://news.tabinomichi.jp/images/og/20261119_170620.jpg"/>
+      <itunes:duration>12:46</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>任せる係と家に置くAIの朝 〜タダになった秘書と、70万円近い小さな箱〜</title>
       <link>https://news.tabinomichi.jp/radio/20261119_050926</link>
@@ -1511,21 +1526,6 @@
       <itunes:summary>今回のレトロ回は、1998年にスクウェアから出たプレイステーションのRPG『ゼノギアス』。ディレクターと脚本を高橋哲哉、キャラクターデザインを田中久仁彦、音楽を光田康典が手がけた2枚組の大作で、記憶のない青年フェイと巨大人型兵器ギアをめぐる物語を、生身のバトルとロボット戦の二層構造で描いた一本です。番組では当時の定価や国内約90万本という数字、360度回せるマップの手触り、作詞を加藤正人が手がけたエンディングテーマの話題を挟みつつ、いちばんの語りどころとして今も賛否が割れる「ディスク2」に踏み込みます。語り主体に切り替わるあの構成について、高橋哲哉本人が後年「正しい選択だったと思う」と答えている事実まで拾いながら、ずんだもんが最後までギアを自転車の変速機だと言い張り、つむぎが中古屋で実機を発掘した思い出とともに静かにキレる回。核心のネタバレはなしなので、これから触るかたも安心して聴けます。</itunes:summary>
       <itunes:image href="https://news.tabinomichi.jp/images/og/20260927_171124.jpg"/>
       <itunes:duration>6:03</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>裏方を奪い合う朝 〜自動操縦のAIと、車の値段のグラボ〜</title>
-      <link>https://news.tabinomichi.jp/radio/20260926_171226</link>
-      <guid isPermaLink="false">tabinomichi-radio-20260926_171226</guid>
-      <pubDate>Sun, 27 Sep 2026 05:02:30 +0900</pubDate>
-      <description>旅の道ラジオ朝便、テックニュースをサクッとまとめる回。マイクロソフトがコパイロットを作り直し、頼まなくても自分で動くオートパイロットと、使った分だけ払う料金の形を打ち出した話。アンソロピックがアカマイと七年で116億ドルの契約を結び、ジーピーユーではなくシーピーユー、つまりAIの裏方の計算力を押さえにいった話。ソニーとユニバーサルが音楽AIのスーノを再び訴え、AIの作った曲でAIを育てる洗浄の理屈を問う裁判。グーグル・ディープマインドのトップがジェミニ フォーの早期公開をにおわせた噂。そして秋葉原でグラフィックボードが30万から40万円、最上位は200万円を超える想定という値札と、7割引の冷却パーツという、ちぐはぐな相場まで。気軽に聴ける五本立てです。</description>
-      <content:encoded><![CDATA[旅の道ラジオ朝便、テックニュースをサクッとまとめる回。マイクロソフトがコパイロットを作り直し、頼まなくても自分で動くオートパイロットと、使った分だけ払う料金の形を打ち出した話。アンソロピックがアカマイと七年で116億ドルの契約を結び、ジーピーユーではなくシーピーユー、つまりAIの裏方の計算力を押さえにいった話。ソニーとユニバーサルが音楽AIのスーノを再び訴え、AIの作った曲でAIを育てる洗浄の理屈を問う裁判。グーグル・ディープマインドのトップがジェミニ フォーの早期公開をにおわせた噂。そして秋葉原でグラフィックボードが30万から40万円、最上位は200万円を超える想定という値札と、7割引の冷却パーツという、ちぐはぐな相場まで。気軽に聴ける五本立てです。]]></content:encoded>
-      <enclosure url="https://news.tabinomichi.jp/audio/ai/20260926_171226.mp3?v=1790453018" length="7761127" type="audio/mpeg"/>
-      <itunes:title>裏方を奪い合う朝 〜自動操縦のAIと、車の値段のグラボ〜</itunes:title>
-      <itunes:summary>旅の道ラジオ朝便、テックニュースをサクッとまとめる回。マイクロソフトがコパイロットを作り直し、頼まなくても自分で動くオートパイロットと、使った分だけ払う料金の形を打ち出した話。アンソロピックがアカマイと七年で116億ドルの契約を結び、ジーピーユーではなくシーピーユー、つまりAIの裏方の計算力を押さえにいった話。ソニーとユニバーサルが音楽AIのスーノを再び訴え、AIの作った曲でAIを育てる洗浄の理屈を問う裁判。グーグル・ディープマインドのトップがジェミニ フォーの早期公開をにおわせた噂。そして秋葉原でグラフィックボードが30万から40万円、最上位は200万円を超える想定という値札と、7割引の冷却パーツという、ちぐはぐな相場まで。気軽に聴ける五本立てです。</itunes:summary>
-      <itunes:image href="https://news.tabinomichi.jp/images/og/20260926_171226.jpg"/>
-      <itunes:duration>8:05</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
