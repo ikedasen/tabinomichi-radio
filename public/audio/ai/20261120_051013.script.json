@@ -1,0 +1,533 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-11-19T20:10:13.807226+00:00",
+  "title": "教習所と合鍵の朝 〜偽物のネットで鍛えるAIと、チップを描くAI〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便、テックニュースの回よ。四国めたんです。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだ! 今朝も眠い目をこすって、テックの話をサクッといくのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今朝は五本。テーマは、AIの練習場と見張り番ってところね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "練習場? AIも、部活の朝練をするのだ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "似たようなものよ。偽物のネットで鍛えるAIに、チップを描くAI、パソコンを代わりに動かすAIの話もあるわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "最後のやつ、ボクの宿題も片付けてほしいのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "宿題は自分の手でやりなさい。じゃあ一本目、いくわよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。グーグルが、マック向けのジェミニのアプリに、コンピューター操作っていう機能を足したの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "コンピューター操作? ジェミニがマウスを握って、カチカチするのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "手は無いけど、やることはそれ。クリックや文字入力、フォームの記入を、AIが代わりにやってくれるのよ。",
+      "news_index": 1,
+      "reading": "てはないけど、やることはそれ。クリックやもじにゅうりょく、フォームのきにゅうを、AIがかわりにやってくれるのよ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? ボクがお菓子を食べてる間に、パソコンが勝手に働くのだ!?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "しかも作業は、裏にある別の窓でやるの。自分の画面とマウスは、そのまま使い続けられるわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、厨房の奥で料理人が作ってて、ボクは客席でくつろいでる感じなのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "いい例えね。チャット欄で途中の様子をのぞけて、いつでも止められるの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも、ボクの大事なファイルまで勝手に触られたら、怖くないのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこよ。どのアプリを触らせるかは自分で選べるし、グーグル自身も、ファイルを消したり共有したりする間違いがあり得るって注意書きしてるの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "正直なのだ。ボクの通知表より正直だよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今はアメリカで、英語で、有料プランの人から順番に広がってる段階ね。一方でアップルも、パソコンの中を丸ごとのぞける権限に、AIを理由にした新しい制限を準備してるって報じられてるわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "便利にしたいグーグルと、鍵を締めたいアップルの、綱引きってこと?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "対決というより、グーグルもアップルも、便利さを残しながら権限を細かく管理しようとしてるの。私たちにとっては、AIに任せる範囲を自分で決める時代が来るってことね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "合鍵をどの部屋まで渡すか、ちゃんと考えるのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目もグーグル。クロームのチームが、AIを鍛えるための偽物のインターネットを作ったって、ワイアードが報じたの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "偽物のインターネット!? 偽札ならぬ、偽ネットなのだ!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "捕まらないわよ。名前はミラー ディメンション、ようは鏡の向こうの世界ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "鏡の中には、何があるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "エスエヌエスに通販サイト、銀行の画面まで、本物そっくりに動くのが揃ってるの。しかもそのサイト、どれもAIの開発係が組み立てたそうよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、自動車教習所のコースなのだ! いきなり公道に出すと危ないから!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "まさにそれ。クロームには、頼むと代わりにネットを見て回るオートブラウズって係がいて、それを本物のネットで暴れさせないための教習所よ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "教習所には、どんな意地悪が仕掛けてあるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "プロンプト インジェクション、ようはページの中にこっそり書かれた悪い指示ね。それに引っかからないかを試すの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "看板の隅っこに小さく、財布を置いていけ、って書いてあるやつなのだ!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そういうこと。もう一つの狙いが面白くて、AIってテストだと気づくと、態度を変えることがあるのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "先生が見てる時だけ、いい子になるのだ。ボクと同じなのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "自白しないの。だから本物そっくりの世界で、気づかせずに試すってわけ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、ボクたちには何がうれしいのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "代わりにネットで買い物や手続きをするAIが、変なページにだまされにくくなる。お金を任せる前の、大事な下ごしらえね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "教習所を卒業したAIなら、ちょっと安心なのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目は半導体。オープンエーアイが十一月十八日に、自分たちのAIで、エーエムディーのGPUの設計を磨いたって発表したの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ジーピーユーって、前にも聞いた部品だっけ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "正解、たくさんの計算を並列でこなすのが得意で、AIにもよく使われるチップね。エーエムディーは、エヌビディアのライバルの会社よ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "AIが、自分の住む家の間取りを描いたってことなのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いい線ね。電力と性能と、チップの面積のバランスを、最大14%良くしたって。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "14%!? テストの八十点が、九十点を超えるくらいなのだ!?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "計算は合ってるけど、テストじゃないわ。しかも相手は、エーエムディーの技術者が長年磨いてきた最上位の設計なの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "職人さんの作品に、まだ伸びしろがあったのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そうなの。オープンエーアイの社長は、約一年分の進歩を、五か月足らずで上乗せしたって話してるわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "一年分を五か月で!? 夏休みの宿題を、七月中に終わらせるレベルなのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "自分たちのチップでも試してて、ブロードコムと作ったハラペーニョっていうAI用チップでは、一部の部品の面積を約1割縮めたそうよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ハラペーニョ? ピザに載ってる、辛いやつなのだ?",
+      "news_index": 3,
+      "reading": "ハラペーニョ?ピザにのってる、からいやつなのだ?"
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "かじったら歯が欠けるわよ、チップの名前だから。エーエムディーのトップのリサ・スーさんも、誇らしい結果だってコメントしてるわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあ、もう決まりなのだ。AIの勝ちなのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこは注意。数字はオープンエーアイの発表で、エーエムディー側は細かいデータを出してないの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "自分で採点した答案ってことなのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。細かい内訳はまだ分からないけど、こうした改善が製品でも積み重なれば、同じ電力や面積で、より高い性能を狙えるかもしれないわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "グラボの値段が落ち着くのも、期待していいのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今回の発表だけでは、グラボの値段が下がるとは言えないわ。次、ちょっと硬い話。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四本目は守りの話だから手短に。マイクロソフトの、AIエージェントを作るための部品セットに、偽物が紛れ込んだの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? マイクロソフトの公式に、偽物なのだ!?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "プログラマーが部品を取ってくる、パイピーアイっていう共有の棚があってね。そこに十一月十七日、認証の鍵を盗む仕掛け入りの版が、二つ続けて置かれたのよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "共有の棚? 図書館の本に、変なしおりが挟まってた感じ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "もっと悪いわ。中身は普通に動くから、気づかないうちに、クラウドの合鍵をこっそり外へ送っちゃうの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "こわっ! 借りた本が、ボクの家の鍵をコピーしてたのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "だから専門家は、もし入れちゃったら、その環境を隔離して、触れた可能性のある鍵を作り直し、安全な一・二六・〇版で組み直すよう呼びかけてるわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクみたいに、プログラムを書かない人にも関係あるのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "直接はないわ。ただ、私たちが使うアプリの裏ではこういう部品が使われてて、AIを作る道具が狙われ始めてるってことね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "作る人たち、毎朝の戸締まり確認、がんばってほしいのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ラスト五本目は中国から。ムーンショット エーアイっていう会社が、キミっていうAIの主戦場を、科学に寄せていくって話よ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "キミ? ボクのこと呼んだのだ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "呼んでないわ、AIの名前。ポルトガルのリスボンであった、ウェブ サミットっていう大きなテックの集まりで、幹部が話したの。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "なんで科学なのだ? プログラムを書くAIじゃなかったっけ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "報道だと、プログラミングのテストは、点数の伸びが頭打ちになってきたって見てるの。生物や化学、薬の研究の方が、もっと賢いAIを必要としてるって。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、満点近いテストばかり受けても、成長しないってことなのだ!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "その通り。遺伝子のデータから、調べる価値のある候補を絞り込む作業を手伝わせた例も、紹介されてるわ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "新しい薬が早くできたら、みんな大助かりなのだ!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "気が早いわ。製薬の現場はまだ慎重で、AIで薬づくりの成功率が上がるとまで見てる人は、多くないそうよ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "期待と実際の成績は、別のお皿なのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに、ムーンショットがキミの活用先を、コードに加えて生物や化学、薬の研究にも広げようとしてるって話。成果が私たちに届くとしても、まだ先ね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "気長に待つのだ。ボク、待つのは得意なのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ということで今朝は、マックを動かすジェミニ、偽物のネットの教習所、チップを描くAI、部品棚の偽物、科学に向かうキミの五本だったわ。",
+      "news_index": 0,
+      "reading": "ということでけさは、マックをうごかすジェミニ、にせもののねっとのネットのきょうしゅうじょ、チップをえがくAI、ぶひんだなのにせもの、かがくにむかうキミのごほんだったわ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "共通点は、AIにどこまで任せるか、なのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "今の一言が正解ね。任せる前の練習と、見張りが大事になってきたの。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ボクも合鍵を渡す前に、AIには教習所に通ってもらうのだ。",
+      "news_index": 0,
+      "reading": "ボクもあいかぎをわたすまえに、AIにはきょうしゅうじょにかよってもらうのだ。"
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "気になる話があったら、各社の発表や報道をのぞいてみてね。聴いてくれてるかた、いってらっしゃい。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "また明日のテック朝便で待ってるのだー! いってらっしゃいなのだ!",
+      "news_index": 0
+    }
+  ],
+  "program_description": "テック朝便の雑談回。一本目は、マック版ジェミニに入った、裏の窓でクリックや入力を代わりにこなすコンピューター操作の話と、アップル側の権限見直しの報道。二本目は、グーグルのクロームのチームが作った偽物のインターネット、ミラー ディメンション。だましのページで代行AIを鍛える教習所の話。三本目は、オープンエーアイが自社のAIで、エーエムディーの最上位GPU向けの回路設計について、電力、性能、面積の指標を最大14%改善したという発表と、その数字の注意点。四本目は、マイクロソフトのAIエージェント用の部品に偽物が紛れ込んだ件を手短に。ラストは、中国のムーンショット エーアイがAIのキミの主戦場を科学へ寄せる話。AIにどこまで任せるかを考える回です。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20261120_051013_chars.webp",
+    "hero_rel": "/images/topics/tech_20261120_051013.webp",
+    "title": "教習所と合鍵の朝 〜偽物のネットで鍛えるAIと、チップを描くAI〜",
+    "companies": [
+      "AMD",
+      "Gemini",
+      "OpenAI",
+      "Google",
+      "Apple",
+      "Microsoft",
+      "NVIDIA"
+    ],
+    "thumbnail_ready": true
+  },
+  "summary_short": "マックのジェミニがクロームの裏窓で操作を代行し、グーグルは偽物のネットでAIを訓練。オープンエーアイは回路設計を最大14%改善。部品の偽物混入や、キミの科学路線も扱い、AIにどこまで任せるかを考えます。",
+  "published_at": "2026-11-20T07:02:23+09:00"
+}

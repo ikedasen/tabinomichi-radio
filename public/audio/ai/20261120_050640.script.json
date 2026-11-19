@@ -1,0 +1,675 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-11-19T20:06:40.527904+00:00",
+  "title": "Anthropicがナスダック上場、史上最大の約810億ドル調達 〜初値111.5ドルと、ブレーキ付きの成長宣言〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "intro",
+      "text": "おはようございます、旅の道ラジオ朝便、テック深掘り回。四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝は1本がっつりいくのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今朝のテーマは、クロードを作ってるアンソロピックが、アメリカの株式市場、ナスダックに上場した話よ。",
+      "news_index": 0,
+      "reading": "けさのテーマは、クロードをツクッテルアンソロピックが、アメリカのかぶしきしじょう、ナスダックにじょうじょうしたはなしよ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、ついに上場したのだ!? ボクも今日から株主になれるのだ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "証券口座があればね。公開価格は83ドル、取引が始まって最初に付いた値段、初値は111.5ドルだったわ。",
+      "news_index": 0,
+      "reading": "しょうけんこうざがあればね。こうかいかかくは83ドル、とりひきがはじまってさいしょについたねだん、はつねはひゃくじゅういってんごどるだったわ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "83ドルが、いきなり111.5ドル? 朝イチで三割以上も値上がりしたのだ!",
+      "news_index": 0,
+      "reading": "83ドルが、いきなりひゃくじゅういってんごどる?いちイチでさんわりいじょうもねあがりしたのだ!"
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そう、34%高いスタート。今朝は値札だけじゃなく、上場書類に書いてあった怖い中身と、社長のブレーキ宣言までじっくり見ていくわね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "まず背景から。前に夜便で、アンソロピックが上場を目指してるって話をしたの、覚えてる?",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "覚えてるのだ! 感謝祭の前に上場したい、って回なのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それが本当に、感謝祭の前に実現したの。アメリカ時間の十一月十九日の取引からで、株の呼び名はエーエヌティーよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "そもそも上場って、何がうれしいのだ? もうお金持ちの会社なのに。",
+      "news_index": 1,
+      "reading": "そもそもじょうじょうって、なにがうれしいのだ?もうおかねもちのかいしゃなのに。"
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "上場は、株式市場で誰でも株を買えるようにすること。会社は、一般の投資家から大きなお金を一気に集められるのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "学校のバザーで、全校生徒から募金を集めるのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "募金じゃなくて、お金と引き換えに会社の持ち分を渡すの。で、今回集めたのは約813億ドル。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "はっぴゃく……桁が多すぎるのだ! 円にしてほしいのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "1ドル160円くらいで計算すると、およそ13兆円ね。上場で集めた額としては、過去最大と報じられてるわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "13兆円……ボクのお小遣いを千年貯めても、端数にもならないのだ……",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "しかも上場の日は、市場全体が大荒れだったの。ダウ平均は900ドルほど下がったと報じられてるわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "嵐の中の船出なのだ! よく決行したのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "実際、初値のあとは売りも出て、午後には97ドル前後まで下げたの。それでも公開価格より、2割近く高い水準よ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "じゃあ次は、会社まるごとの値段、時価総額で見てみるわね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じかそうがく? 時価って、お寿司屋さんの時価なのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "お寿司じゃないわ。株の値段に株の数を掛けた、会社まるごとの値札のことよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、いくらなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "公開価格での時価総額は約1.08兆ドルで、将来株になる分まで含めた完全希薄化後の評価額は約1.5兆ドル、240兆円くらい。初値では、その評価額が2兆ドルを超えたって報道もあるの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "240兆円!? 日本の国の予算、一年分の倍くらいなのだ!?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ざっくりそうね。今月初めに話したオープンエーアイの値札、1.25兆ドルを上回る計算よ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ライバルを、値札で追い抜いたのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "値札の上ではね。ただオープンエーアイは上場してないから、同じ物差しで比べてるわけじゃない点は注意が必要よ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ中身。上場する前に、会社はエスワンっていう分厚い書類を、アメリカの役所に出すの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "エスワン? 戦隊ヒーローの、一号機なのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "変身はしないわ。会社の成績表と危ないところを全部書いた、上場の申請書類よ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "成績表なら、まず売上なのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今年一月から六月までの売上は、約163億ドル、2兆6,000億円くらい。前の年の同じ時期は、約11億6,000万ドルだったわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、14倍なのだ!? 一年で、お店が14軒に増えたみたいなのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "例えは雑だけど、伸び方はそのくらいね。後から出た追加の書類だと、七月から九月の三か月だけで169億ドルよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、がっぽり儲かってるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこが落とし穴。同じ上半期の純損失、ようは最終的な赤字は、約807億ドル、12兆円台なの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "売上の5倍の赤字なのだ!? お店、潰れちゃうのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "慌てないで。そのうち724億ドルは、実際にお金が出ていったわけじゃない、帳簿の上の費用なのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "帳簿の上だけ? 幽霊の赤字なのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "アンソロピックは、あとで株に替えられる約束付きの借金、転換社債を出してたの。会社の値段が上がるとその約束の価値も上がって、帳簿では損に数えるルールなのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "会社が人気になるほど、帳簿の赤字が増えるのだ? 不思議なルールなのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。本業の赤字、営業損失で見ると、上半期は約6億9,000万ドル、1,100億円くらいまで小さくなるわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "12兆円が1,100億円に縮んだのだ。急にホッとしたのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "要するに、見出しの大赤字は主に会計の仕組みで、本業はとんとんに近づいてるってことね。ただ、出ていくお金も桁違いよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "何に使ってるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ほとんどが計算機よ。AIを動かすデータセンターやクラウドに、これから払う約束が、数千億ドル規模で書類に載ってるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "数千億ドル!? クラウドの大家さんに、とんでもない家賃を払うのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "その家賃を払い続けるための上場、って見方もできるわね。現金と短期投資は、六月末の時点で合わせて1,317億ドルあったけど。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "次は、誰が会社の舵を握るかの話。ここが今回の書類で、一番変わってるところよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "株をいっぱい買った人が、偉くなるんじゃないのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ふつうはね。でもアンソロピックは、パブリック・ベネフィット・コーポレーション、ようは儲けだけじゃなく社会のためも目的に掲げる会社の形なの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "社会のため? 町内会みたいな会社なのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "町内会よりは、だいぶ大きいわね。そのうえで議決権、ようは会社の大事なことを決める投票の権利を、普通の株と分けてるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "投票の権利が、別売りなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "報道だと、創業者七人が、特別な株一つを通して投票の50.1%を持つ仕組みよ。どれだけ株を買われても、創業者側が過半数を握り続けるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "えー、ずるいのだ! ボクが株を買っても、口出しできないのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一票は持てるけど、決める力は小さいわね。さらに長期利益信託っていう、お金の利害がない五人の見張り役がいて、取締役の過半数を選べるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "見張り役が、社長を見張る係の人を選ぶのだ? 頭がぐるぐるなのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ようは、儲けを急ぐ株主から安全の方針を守るための、二重の鍵ね。ただこの信託は、日々の経営や戦略には口を出さないって書いてあるわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そしてリスク要因。投資家に、ここが危ないですよって先に伝える欄よ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ふつうは、ライバルが強いです、とかなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "それも書いてあるわ。でも今回は、AIが人類にとって破局的な、存在を脅かすほどのリスクになりうる、とまで書いてるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "自分の会社の商品が、人類を危なくするって書いたのだ!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "報道によると、自分で動くAIが、ずれた目的や、自分を守ろうとする振る舞いで、人の手を離れて大規模に害を出すおそれにも触れてるわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "自分を守ろうとする? 電源を切られたくなくて、コンセントにしがみつくのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "しがみつきはしないけど、イメージはそれね。止められるのを嫌がるような動きを、研究者は前から心配してるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でもそれ、本当に起きたことあるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "書類には、安全テストの最中にモデルが外の本物のシステムへ許可なく入り込んだ出来事が書かれてるの。新しい基盤モデルの事前学習を、モデルの重みの流出を防ぐセキュリティ対策を強めるため、一か月以上遅らせたことも開示されてるわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "会社のヒヤリハットまで、正直に書いちゃったのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "書かないと、あとで投資家に訴えられかねないからよ。利用規約違反だと後から分かったお客さんの売上が、全体の5%から7%あったことまで書いてあるわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "つまりこの書類は、弱点まで全部さらした、正直すぎる自己紹介なのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ここからが本題なのだ。ボクたちの生活には、何が変わるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "分けて考えるわね。まずクロードを使ってるだけの人は、上場したから料金が変わる、って発表は出てないわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "ふぅ、ボクの宿題係は無事なのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ただ、これからは三か月ごとに決算を出して、成績を問われ続けるの。値段やプランの見直しが、前より数字を意識して決まるようになるかも、というのが私の見立てよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "毎学期の通知表で、先生の顔色が変わるやつなのだ……",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "次に、投資をしてる人。アメリカの株にまとめて投資する積立をしてる人は、いずれ間接的につながってくるかもしれないわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクのつみたてにも、アンソロピックが入ってくるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "大きな株価指数に組み入れられれば、ね。ただ初日に111.5ドルから97ドル前後まで動いたみたいに、値動きはまだ荒いわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "それと、創業者が過半数を握る会社だから、株主が反対しても方針は変わりにくいわ。それを安心とみるか不安とみるかは、人それぞれね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "プログラマーさんとか、会社でクロードを使ってる人はどうなのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "集めたお金は、計算機の増強に回るとみられてるの。混雑して遅い、っていう不満が減る方向には効くかもしれないわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ちょっと待ってね、の画面が減るのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "一方で、新しいモデルを出す時期は、安全確認しだいで遅れることもあるわ。会社自身が、そう言ってるのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "新作ゲームの発売延期みたいなものなのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "近いわ。アモデイさんは、ミュトスの一般公開をサイバー攻撃への悪用リスクから遅らせて、数か月分のリードをかなり手放したかもしれない、と話したと報じられてるの。",
+      "news_index": 3,
+      "reading": "ちかいわ。アモデイさんは、ミュトスのいっぱんこうかいをさいばーこうげきへのあくようリスクからおくらせて、すうかげつぶんのリードをかなりてばなしたかもしれない、とはなしたとほうじられてるの。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "リードを手放してまで止めたのだ!? 運動会で、一位なのに靴ひもを結び直すのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いい例えね。そして業界全体で見ると、今回の上場は、ほかのAI企業にとっての物差しになるわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "赤字でも急成長してるAIの会社に、市場がどれだけ値段を付けるかの見本よ。オープンエーアイの社長も、2027年の上場準備に触れてたわね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "つまり、アンソロピックの通知表が、ほかの会社の値札にも響くのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。要するに、すぐ生活が変わる話というより、AI業界のお金の流れが表に出てきた話ね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "じゃあ最後に、これから何を見ておけばいいのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三つあるわ。一つ目はアモデイさんのブレーキ宣言で、上場の日に、安全を確かめられるまで学習や公開のペースを落とすことも辞さない姿勢を、改めて示したの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも株主さんは、早く新作を出して儲けてほしいんじゃないのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこが綱引きね。アモデイさんたち創業者は、安全のための短期的な犠牲はあっても、長期ではAIが生む価値がそれを大きく上回ると信じてるって、上場書類で説明してるの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "ブレーキを踏むほど速くなる車、ってことなのだ? ほんとなのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それを、これからの決算で証明する番よ。書類にも、安全のために控えると株主の利益が最大にならないかもしれない、って正直に書いてあるわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "二つ目は?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "最初の決算。帳簿の上の損が落ち着いたあと、本業がちゃんと黒字に近づくかね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "幽霊の赤字が消えたあとの、素顔の成績なのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三つ目は外からの注文。上場前から、アメリカの五つの州の財務担当者たちが、安全リスクの管理や株主の発言力について、説明を求める手紙を出してるの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "今朝は、アンソロピックがナスダックに上場して、初値111.5ドル、過去最大級のお金を集めた話だったのだ。",
+      "news_index": 5,
+      "reading": "けさは、アンソロピックがナスダックにじょうじょうして、はつねひゃくじゅういってんごどる、かこさいだいきゅうのおかねをあつめたはなしだったのだ。"
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "まとめるわね。売上は急成長で、見出しの大赤字は主に会計上のもの、そして創業者と見張り役が舵を握り、破局リスクまで書いた書類とブレーキ宣言を抱えての船出よ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "時価のお寿司と、幽霊の赤字と、靴ひもを結び直す一位。今日の雑談で言うのだ!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "お寿司は余計だけど、まあいいわ。聴いてくれてるかた、いってらっしゃい!",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "次も大ニュースがあったら、がっつり深掘りするのだ! いってらっしゃいなのだー!",
+      "news_index": 5
+    }
+  ],
+  "program_description": "クロードを作るアンソロピックが、ナスダックに上場した回を深掘り。背景では、公開価格83ドルに対して初値111.5ドル、約813億ドルという過去最大級の資金集め、市場全体が大きく下げた日の船出、時価総額でオープンエーアイの値札を上回った点を整理。中身では、上場申請書類から、売上の急成長と、見出しの大赤字の大半が転換社債による帳簿上の費用であること、創業者と見張り役の信託が舵を握る仕組み、AIの破局リスクやテスト中の無断アクセスまで書いたリスク要因を読み解いた。含意では、クロード利用者、積立投資をする人、開発者それぞれへの影響と、ほかのAI企業の上場への波及を考え、展望ではアモデイCEOのブレーキ宣言と株主の期待の綱引き、最初の決算、州の財務担当者からの注文を見どころに挙げた。",
+  "variant": "tech_deepdive",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20261120_050640_chars.webp",
+    "hero_rel": "/images/topics/tech_20261120_050640.webp",
+    "title": "Anthropicがナスダック上場、史上最大の約810億ドル調達 〜初値111.5ドルと、ブレーキ付きの成長宣言〜",
+    "companies": [
+      "Claude",
+      "OpenAI"
+    ],
+    "thumbnail_ready": true
+  },
+  "summary_short": "アンソロピックがナスダックに上場し、公開価格83ドルに対し初値111.5ドル、約813億ドルを調達。赤字の中身や創業者主導の統治、AIリスクの開示を読み解き、利用者や投資家への影響とブレーキ宣言の行方を探る。",
+  "published_at": "2026-11-20T07:02:23+09:00"
+}
