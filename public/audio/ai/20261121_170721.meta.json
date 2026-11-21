@@ -1,0 +1,1126 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-11-21T17:07:21+09:00",
+  "title": "Nvidiaが『一気に書くAI』の会社を買収へ 〜Inceptionに5億ドル以上、秒速1,068トークンの賭け〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 666.11,
+  "script_hash": "sha256:86ae0b849614ba501a59eb5ff4d2ee5e1f5713b13ce3012be40e6befabe6a6fa",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 9.59
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "intro",
+      "text": "こんばんは、旅の道ラジオ夜便、テック深掘り回よ。四国めたんです。",
+      "news_index": 0,
+      "start_sec": 9.59,
+      "end_sec": 14.63
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだ! 今夜も一本、がっつり掘るのだ!",
+      "news_index": 0,
+      "start_sec": 14.78,
+      "end_sec": 18.79
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今夜のテーマは、エヌビディアが、インセプションっていうAIの新興企業を、5億ドル以上で買う交渉の最終段階に入った、って報道よ。",
+      "news_index": 0,
+      "start_sec": 18.94,
+      "end_sec": 27.7
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "5億ドル!? 円にすると、いくらなのだ?",
+      "news_index": 0,
+      "start_sec": 27.85,
+      "end_sec": 30.78
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "1ドル160円くらいで計算すると、800億円ほどね。ただ両社とも、まだ正式には認めてないわ。",
+      "news_index": 0,
+      "start_sec": 30.93,
+      "end_sec": 38.22
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でもエヌビディアって、AIの会社にしょっちゅうお金を出してる気がするのだ。今回は何が特別なのだ?",
+      "news_index": 0,
+      "start_sec": 38.37,
+      "end_sec": 45.33
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そこよ、この会社はAIが文章を書く書き方そのものが違うの。今夜は仕組みから私たちへの影響まで、じっくり掘るわね。",
+      "news_index": 0,
+      "start_sec": 45.48,
+      "end_sec": 53.64
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "書き方が違うAI! 気になるから、さっそく行くのだ!",
+      "news_index": 0,
+      "start_sec": 53.79,
+      "end_sec": 57.58
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "まず背景から。インセプションは、アメリカのパロアルトにある、社員30人ちょっとの小さな会社よ。",
+      "news_index": 1,
+      "start_sec": 57.73,
+      "end_sec": 63.91
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "作ったのは、スタンフォード大学のステファノ・エルモン教授と、その教え子だった二人の教授なの。",
+      "news_index": 1,
+      "start_sec": 63.99,
+      "end_sec": 70.22
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "教授が三人で会社? 職員室が、そのまま会社になったのだ?",
+      "news_index": 1,
+      "start_sec": 70.37,
+      "end_sec": 75.21
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "職員室は言い過ぎ。二人目はカリフォルニア大学ロサンゼルス校のアディティヤ・グローバーさん、三人目はコーネル大学のヴォロディミル・クレショフさんね。",
+      "news_index": 1,
+      "start_sec": 75.36,
+      "end_sec": 84.34
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、エルモン先生は、何がすごい人なのだ?",
+      "news_index": 1,
+      "start_sec": 84.49,
+      "end_sec": 87.82
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "画像を作るAIで使われてる、拡散モデルっていう方式の研究で、先駆けになった一人なの。",
+      "news_index": 1,
+      "start_sec": 87.97,
+      "end_sec": 94.09
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "かくさん? においが部屋じゅうに広がる、あれなのだ?",
+      "news_index": 1,
+      "start_sec": 94.24,
+      "end_sec": 97.86
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "発想は遠くないわ。写真に砂嵐みたいなノイズをどんどん混ぜて、逆に砂嵐から元の絵を取り戻す練習をさせる方式よ。",
+      "news_index": 1,
+      "start_sec": 98.01,
+      "end_sec": 106.34
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "砂嵐から絵が出てくるのだ!? テレビの砂嵐をじっと見てたら、アニメが浮かんでくる感じなのだ?",
+      "news_index": 1,
+      "start_sec": 106.49,
+      "end_sec": 112.72
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "例えとしては合ってるわ。それを文章に持ち込もう、っていうのが、この会社の出発点ね。",
+      "news_index": 1,
+      "start_sec": 112.87,
+      "end_sec": 118.49
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "会社ができたのは、いつなのだ?",
+      "news_index": 1,
+      "start_sec": 118.64,
+      "end_sec": 120.94
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "2024年の夏に立ち上げて、2025年の2月に表に出てきたの。その年の11月には、約5,000万ドル、80億円くらいを集めたわ。",
+      "news_index": 1,
+      "start_sec": 121.09,
+      "end_sec": 130.72
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "sexy",
+      "text": "そのときの出資者には、エヌビディアの投資部門のエヌベンチャーズと、マイクロソフトの投資ファンドも入ってたのよ。",
+      "news_index": 1,
+      "start_sec": 130.8,
+      "end_sec": 138.83
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、マイクロソフトも!? 両方の親戚から、お年玉をもらってたのだ!",
+      "news_index": 1,
+      "start_sec": 138.98,
+      "end_sec": 143.93
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。しかも報道だと、マイクロソフトも、買収に興味を示してたそうよ。",
+      "news_index": 1,
+      "start_sec": 144.08,
+      "end_sec": 148.96
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "取り合いなのだ! 人気の転校生なのだ!",
+      "news_index": 1,
+      "start_sec": 149.11,
+      "end_sec": 151.78
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "要するに、小さいけど、大手が奪い合うくらいの技術を持ってた会社、ってことね。",
+      "news_index": 1,
+      "start_sec": 151.93,
+      "end_sec": 157.44
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でもエヌビディアって、社長さんが辞めたばっかりじゃなかったのだ?",
+      "news_index": 1,
+      "start_sec": 157.59,
+      "end_sec": 161.75
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そうね。ただこの交渉は、フアンさんが辞める前から進んでた、って報じられてるの。",
+      "news_index": 1,
+      "start_sec": 161.9,
+      "end_sec": 167.18
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "トップが替わっても、話は止まらなかったのだ。",
+      "news_index": 1,
+      "start_sec": 167.33,
+      "end_sec": 170.43
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ中身。今のチャットのAIは、チャットジーピーティーもクロードも、ほとんどが一語ずつ順番に書いていく方式なの。",
+      "news_index": 2,
+      "start_sec": 170.58,
+      "end_sec": 177.59
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "一語ずつ? ボクの作文と同じなのだ。",
+      "news_index": 2,
+      "start_sec": 177.74,
+      "end_sec": 180.74
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "正確にはトークン、ようは文章を細かく切った一切れずつね。前の一切れを見てから、次の一切れを決めるのよ。",
+      "news_index": 2,
+      "start_sec": 180.89,
+      "end_sec": 188.36
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "それって、答えが長いほど時間がかかるのだ?",
+      "news_index": 2,
+      "start_sec": 188.51,
+      "end_sec": 193.19
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "その通り。千切れ書くなら、千回、順番に計算しないといけないの。",
+      "news_index": 2,
+      "start_sec": 193.34,
+      "end_sec": 197.93
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "千回!? 書き初めを、一文字ずつ乾かしながら書く感じなのだ!",
+      "news_index": 2,
+      "start_sec": 198.08,
+      "end_sec": 202.5
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "悪くない例えね。拡散型は逆で、まず答え全体の下書きを、ぼんやり一気に出すの。",
+      "news_index": 2,
+      "start_sec": 202.65,
+      "end_sec": 208.47
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ぼんやり? 薄目で書いた作文なのだ?",
+      "news_index": 2,
+      "start_sec": 208.62,
+      "end_sec": 211.6
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そんな感じ。そこから何回かに分けて全体を同時に磨いて、だんだんくっきりさせるのよ。",
+      "news_index": 2,
+      "start_sec": 211.75,
+      "end_sec": 217.33
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、塗り絵なのだ! 先に全体を薄く塗って、あとから濃くしていくのだ!",
+      "news_index": 2,
+      "start_sec": 217.48,
+      "end_sec": 222.33
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そう、それよ。一字ずつ書く人と、全体を何度も塗り重ねる人の違いね。",
+      "news_index": 2,
+      "start_sec": 222.48,
+      "end_sec": 227.89
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも、なんでそっちが速いのだ? 何回も塗り直すなら、遅そうなのだ。",
+      "news_index": 2,
+      "start_sec": 228.04,
+      "end_sec": 233.08
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "塗り直しの回数が、文字数よりずっと少なくて済むからよ。しかも一回の計算で、たくさんの文字をまとめて扱えるの。",
+      "news_index": 2,
+      "start_sec": 233.23,
+      "end_sec": 240.62
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "たくさんの計算を同時にこなすGPUと、すごく相性がいいの。そこがエヌビディアにとっての魅力の一つね。",
+      "news_index": 2,
+      "start_sec": 240.7,
+      "end_sec": 247.86
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、インセプションのAIは、なんて名前なのだ?",
+      "news_index": 2,
+      "start_sec": 248.01,
+      "end_sec": 251.46
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "マーキュリーよ。最新のマーキュリー スリーは、十月十九日に出たの。",
+      "news_index": 2,
+      "start_sec": 251.61,
+      "end_sec": 255.85
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "マーキュリー? 水星のことなのだ?",
+      "news_index": 2,
+      "start_sec": 256.0,
+      "end_sec": 258.76
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "sexy",
+      "text": "水星でもあるし、ローマ神話の、足の速い使いの神さまの名前でもあるわ。速さが売りだから、ぴったりね。",
+      "news_index": 2,
+      "start_sec": 258.91,
+      "end_sec": 267.54
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、どのくらい速いのだ?",
+      "news_index": 2,
+      "start_sec": 267.69,
+      "end_sec": 269.65
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "会社の発表だと、エヌビディアのGPUで1秒に1,068トークン。ふつうの速さ重視のAIより、4倍から8倍速いって言ってるわ。",
+      "news_index": 2,
+      "start_sec": 269.8,
+      "end_sec": 278.96
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "1秒で千切れ以上!? ボクの読書感想文、まばたきの間に終わるのだ!",
+      "news_index": 2,
+      "start_sec": 279.11,
+      "end_sec": 284.31
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "感想文は自分で書きなさい。それと、この数字は会社の自己申告よ。",
+      "news_index": 2,
+      "start_sec": 284.46,
+      "end_sec": 289.07
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "自己申告? 外で測ると違うのだ?",
+      "news_index": 2,
+      "start_sec": 289.22,
+      "end_sec": 292.3
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "AIの仲介サイトのオープンルーターが発売の翌日に測ったら、真ん中の値で1秒に160から254トークンくらいだったの。",
+      "news_index": 2,
+      "start_sec": 292.45,
+      "end_sec": 300.92
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "えっ、四分の一くらいなのだ!? 盛りすぎなのだ!",
+      "news_index": 2,
+      "start_sec": 301.07,
+      "end_sec": 305.49
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "測る条件が違うから、一概には言えないわ。混み具合や、間に入るサーバーの差もあるしね。",
+      "news_index": 2,
+      "start_sec": 305.64,
+      "end_sec": 311.94
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "賢さの方は、どうなのだ?",
+      "news_index": 2,
+      "start_sec": 312.09,
+      "end_sec": 314.21
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "会社は、オープンエーアイのジーピーティー シックス ルナや、アンソロピックのクロード ハイク ゴーテンゴを上回ったって主張してるの。どっちも、速くて安い係のモデルね。",
+      "news_index": 2,
+      "start_sec": 314.36,
+      "end_sec": 323.93
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "小さい会社が、大手の速い係に勝っちゃったのだ!?",
+      "news_index": 2,
+      "start_sec": 324.08,
+      "end_sec": 327.63
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "一部のテストでは、ね。指示どおりに書けるかを測るテストでルナより15点高かったけど、全体では差は見出しほど大きくない、って指摘もあるわ。",
+      "news_index": 2,
+      "start_sec": 327.78,
+      "end_sec": 337.21
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "一番上の、フェイブルとかとは比べてないのだ?",
+      "news_index": 2,
+      "start_sec": 337.36,
+      "end_sec": 340.6
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "比べる相手は、あくまで軽量級よ。一番賢いモデルと張り合う段階ではないわね。",
+      "news_index": 2,
+      "start_sec": 340.75,
+      "end_sec": 346.21
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "短距離走の選手で、マラソン選手とは別の土俵なのだ。",
+      "news_index": 2,
+      "start_sec": 346.36,
+      "end_sec": 350.25
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そういうこと。あと一度に読める量は百万トークンで、前の版の約四倍に広がったわ。",
+      "news_index": 2,
+      "start_sec": 350.4,
+      "end_sec": 356.31
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに、一気に塗る書き方で、軽い仕事をとにかく速くこなすAI、ってことね。",
+      "news_index": 2,
+      "start_sec": 356.39,
+      "end_sec": 362.05
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ここからが本題なのだ。ボクたちの生活には、何が変わるのだ?",
+      "news_index": 3,
+      "start_sec": 362.2,
+      "end_sec": 366.83
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "分けて考えましょう。まず、チャットのAIを使ってるだけの人は、明日から何かが変わる話ではないわ。",
+      "news_index": 3,
+      "start_sec": 366.98,
+      "end_sec": 373.39
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ただ長い目で見ると、返事を待つ時間が縮む方向の話よ。待ち時間が短いと、使い方そのものが変わるの。",
+      "news_index": 3,
+      "start_sec": 373.47,
+      "end_sec": 381.16
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "使い方が変わる? どういうことなのだ?",
+      "news_index": 3,
+      "start_sec": 381.31,
+      "end_sec": 384.22
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "たとえば声で話すアシスタント。会話の間がほとんど無くなれば、人と話してる感覚に近づくわ。",
+      "news_index": 3,
+      "start_sec": 384.37,
+      "end_sec": 390.58
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "電話の向こうで、えーっと、って黙り込まないAIなのだ!",
+      "news_index": 3,
+      "start_sec": 390.73,
+      "end_sec": 395.36
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "次にプログラマーの人。打つそばから続きを出す補完や、何十回も直しを繰り返すエージェントでは、速さがそのまま作業時間になるの。",
+      "news_index": 3,
+      "start_sec": 395.51,
+      "end_sec": 403.96
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "一回が一秒短くても、百回なら百秒も浮くのだ!",
+      "news_index": 3,
+      "start_sec": 404.11,
+      "end_sec": 408.05
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "計算は合ってるわ。インセプションも最初は、プログラム向けのモデルから始めた会社なのよ。",
+      "news_index": 3,
+      "start_sec": 408.2,
+      "end_sec": 413.84
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "学生とかは、どうなのだ?",
+      "news_index": 3,
+      "start_sec": 413.99,
+      "end_sec": 416.01
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "安くて速いAIの選択肢が増えることね。仲介サイトの掲示だと、入力百万トークンで10セントから20セントほどと、かなり安い値付けよ。",
+      "news_index": 3,
+      "start_sec": 416.16,
+      "end_sec": 425.31
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "十六円から三十円ちょっとなのだ!? 駄菓子より安いのだ!",
+      "news_index": 3,
+      "start_sec": 425.46,
+      "end_sec": 429.55
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ただ、エヌビディアが買ったあと、この値段や提供の形がどうなるかは、まだ分からないわ。",
+      "news_index": 3,
+      "start_sec": 429.7,
+      "end_sec": 435.37
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "そもそもエヌビディアは、チップが本業なのに、買って何に使うのだ?",
+      "news_index": 3,
+      "start_sec": 435.52,
+      "end_sec": 441.3
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "報道で挙がってる狙いは、ネモトロンの強化よ。エヌビディアが自分で作って、中身を無料で配ってるAIのシリーズね。",
+      "news_index": 3,
+      "start_sec": 441.45,
+      "end_sec": 448.63
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、チップ屋さんがAIを作って、タダで配ってるのだ!?",
+      "news_index": 3,
+      "start_sec": 448.78,
+      "end_sec": 452.95
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。中身を配ると、みんながそれを動かすために、エヌビディアのチップを買ってくれるの。",
+      "news_index": 3,
+      "start_sec": 453.1,
+      "end_sec": 458.49
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "試食コーナーで、お肉を焼くフライパンを売る作戦なのだ!",
+      "news_index": 3,
+      "start_sec": 458.64,
+      "end_sec": 462.83
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "うまいわね。しかもネモトロンは、パランティアやブーズ・アレン・ハミルトン、それにアメリカの政府機関でも使われてるの。",
+      "news_index": 3,
+      "start_sec": 462.98,
+      "end_sec": 470.67
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "政府? なんで政府が、エヌビディアのAIを使うのだ?",
+      "news_index": 3,
+      "start_sec": 470.82,
+      "end_sec": 475.96
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ネモトロンは、中国製のオープンソースや、重みを公開したモデルを使いたくない政府機関にとって、アメリカ企業が作る選択肢の一つなの。",
+      "news_index": 3,
+      "start_sec": 476.11,
+      "end_sec": 484.75
+    },
+    {
+      "index": 84,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "アメリカ産の、安心して使える代わりが欲しかったのだ。",
+      "news_index": 3,
+      "start_sec": 484.9,
+      "end_sec": 488.62
+    },
+    {
+      "index": 85,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そう。もう一つの狙いはロボット向けのモデルで、動きを素早く決めないといけない場面では、速さが効くからね。",
+      "news_index": 3,
+      "start_sec": 488.77,
+      "end_sec": 495.78
+    },
+    {
+      "index": 86,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それに、お客さんの動きもあるの。オープンエーアイやアンソロピックが、答えを出す処理用のチップを、自分で作り始めてるのよ。",
+      "news_index": 3,
+      "start_sec": 495.86,
+      "end_sec": 503.63
+    },
+    {
+      "index": 87,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、エヌビディアの大事なお客さんが、自分でチップを作っちゃうのだ!?",
+      "news_index": 3,
+      "start_sec": 503.78,
+      "end_sec": 508.54
+    },
+    {
+      "index": 88,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "オープンエーアイは、ブロードコムと組んだハラペーニョっていうチップを、六月に公開したわ。アンソロピックも、社内でチップ設計の人を集めてると報じられてるの。",
+      "news_index": 3,
+      "start_sec": 508.69,
+      "end_sec": 518.12
+    },
+    {
+      "index": 89,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ハラペーニョ? 辛いポテトチップスなのだ?",
+      "news_index": 3,
+      "start_sec": 518.27,
+      "end_sec": 521.33
+    },
+    {
+      "index": 90,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "食べられないわ。だからエヌビディアは、ネモトロンも強くして、自前のチップに動くオープンエーアイやアンソロピックに、モデルの分野でも対抗したいと見られてるのよ。",
+      "news_index": 3,
+      "start_sec": 521.48,
+      "end_sec": 530.7
+    },
+    {
+      "index": 91,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "要するに、GPU屋さんがAIの中身まで自分の陣地に引き込む流れが、本格化してるって話ね。",
+      "news_index": 3,
+      "start_sec": 530.78,
+      "end_sec": 537.63
+    },
+    {
+      "index": 92,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "エヌビディア、ほかにも似たような買い物をしてるのだ?",
+      "news_index": 3,
+      "start_sec": 537.78,
+      "end_sec": 541.12
+    },
+    {
+      "index": 93,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "去年の暮れには、推論チップの会社グロックと、約200億ドルで技術を使う権利と人材を引き取る契約を結んだわ。最近も、AIを作る会社プールサイドの仕組みに60億ドル払うと報じられてるの。",
+      "news_index": 3,
+      "start_sec": 541.27,
+      "end_sec": 554.22
+    },
+    {
+      "index": 94,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "200億ドルと60億ドル!? 今回の5億ドルが、お釣りに見えてくるのだ!",
+      "news_index": 3,
+      "start_sec": 554.37,
+      "end_sec": 559.46
+    },
+    {
+      "index": 95,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "金額だけ見ればね。ただ今回は会社ごと買う形で、創業した教授三人も正社員として移る見込みなのが違いよ。",
+      "news_index": 3,
+      "start_sec": 559.61,
+      "end_sec": 567.27
+    },
+    {
+      "index": 96,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあ、これから何を見ておけばいいのだ?",
+      "news_index": 4,
+      "start_sec": 567.42,
+      "end_sec": 570.23
+    },
+    {
+      "index": 97,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三つあるわ。一つ目は正式な発表と最終の金額で、買収額は少なくとも5億ドルで、新たに社員になる人たちには、目標達成に応じた追加報酬もあるそうよ。",
+      "news_index": 4,
+      "start_sec": 570.38,
+      "end_sec": 581.31
+    },
+    {
+      "index": 98,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "成果払いなのだ! テストの点で、お小遣いが増えるシステムなのだ!",
+      "news_index": 4,
+      "start_sec": 581.46,
+      "end_sec": 586.42
+    },
+    {
+      "index": 99,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そんな感じね。二つ目は、拡散型の速さが外の検証でも本物か、会社の数字と外の測定の差がどこまで縮むかよ。",
+      "news_index": 4,
+      "start_sec": 586.57,
+      "end_sec": 594.99
+    },
+    {
+      "index": 100,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "自己申告じゃなくて、身体測定の本番を待つのだ。",
+      "news_index": 4,
+      "start_sec": 595.14,
+      "end_sec": 599.01
+    },
+    {
+      "index": 101,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三つ目は、ライバルの動き。グーグルも拡散型の文章AIを試してるけど、まだ実験段階なの。",
+      "news_index": 4,
+      "start_sec": 599.16,
+      "end_sec": 605.61
+    },
+    {
+      "index": 102,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "大手が本気で乗っかったら、一字ずつ書く時代が終わっちゃうのだ?",
+      "news_index": 4,
+      "start_sec": 605.76,
+      "end_sec": 609.91
+    },
+    {
+      "index": 103,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこは慎重に見たいわね。今のところ得意なのは速くて軽い仕事で、一番賢いAIは、まだ一字ずつの方式が中心よ。",
+      "news_index": 4,
+      "start_sec": 610.06,
+      "end_sec": 618.7
+    },
+    {
+      "index": 104,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "今夜は、エヌビディアが、一気に書くAIの会社インセプションを、5億ドル以上で買おうとしてる話だったのだ。",
+      "news_index": 5,
+      "start_sec": 618.85,
+      "end_sec": 625.83
+    },
+    {
+      "index": 105,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "まとめるわね、塗り重ねる書き方で速さを売るマーキュリーを取り込んで、配るAIとロボットを強くし、チップの外にも陣地を広げる作戦よ。ただ交渉はまだ途中で、速さの数字も検証待ちね。",
+      "news_index": 5,
+      "start_sec": 625.98,
+      "end_sec": 638.3
+    },
+    {
+      "index": 106,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "塗り絵と、試食のフライパンと、食べられないハラペーニョ。明日の雑談で言うのだ!",
+      "news_index": 5,
+      "start_sec": 638.45,
+      "end_sec": 644.68
+    },
+    {
+      "index": 107,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "ハラペーニョは余計だけど、まあいいわ。聴いてくれてるかた、今夜もお疲れさま。",
+      "news_index": 5,
+      "start_sec": 644.83,
+      "end_sec": 649.88
+    },
+    {
+      "index": 108,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "気になる人は、各社の報道をのぞいてみてね。",
+      "news_index": 5,
+      "start_sec": 649.96,
+      "end_sec": 652.78
+    },
+    {
+      "index": 109,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "また大きなニュースがあったら、夜便で掘るのだ! おやすみなのだー!",
+      "news_index": 5,
+      "start_sec": 652.93,
+      "end_sec": 657.11
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 657.81,
+      "end_sec": 666.11
+    }
+  ],
+  "wall_time_sec": 20.75,
+  "audio_url": "/audio/ai/20261121_170721.mp3?v=1795249596"
+}
