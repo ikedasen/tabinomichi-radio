@@ -1,0 +1,1176 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-11-22T05:06:04+09:00",
+  "title": "AnthropicのAIでリーマン予想が解けた？ 〜167年の難問と、人間向け草稿は25万ページ超、証明本体はLeanコード〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 842.62,
+  "script_hash": "sha256:06bd985678a49ccc42960ff68655ebdb318d7b705977419441f685a85ef952ad",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 4.69
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "intro",
+      "text": "おはようございます、旅の道ラジオ朝便、テック深掘り回。四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 4.69,
+      "end_sec": 9.89
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝は1本がっつりいくのだ!",
+      "news_index": 0,
+      "start_sec": 10.04,
+      "end_sec": 13.77
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今朝のテーマは数学。アンソロピックで働く数学者が、クロードと一緒にリーマン予想を証明したって発表したの。",
+      "news_index": 0,
+      "start_sec": 13.92,
+      "end_sec": 20.99
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "リーマン予想? 名前はかっこいいけど、天気予報の親戚なのだ?",
+      "news_index": 0,
+      "start_sec": 21.14,
+      "end_sec": 26.0
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "明日の天気は当てないわ。百六十年以上、世界中の天才が挑んで解けなかった、数学で一番有名な未解決問題よ。",
+      "news_index": 0,
+      "start_sec": 26.15,
+      "end_sec": 34.38
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "そんなラスボスを、AIが倒しちゃったのだ!?",
+      "news_index": 0,
+      "start_sec": 34.53,
+      "end_sec": 37.61
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "倒したかもしれない、が正確ね。今日は、確かめられたことと、まだ確かめ中のことを分けて話すわ。",
+      "news_index": 0,
+      "start_sec": 37.76,
+      "end_sec": 44.36
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "まず背景から。リーマン予想は、1859年にドイツの数学者リーマンが、素数についての短い論文の中で書いたものなの。",
+      "news_index": 1,
+      "start_sec": 44.44,
+      "end_sec": 52.9
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "素数って、2とか3とか7みたいに、1と自分でしか割れない数だっけ?",
+      "news_index": 1,
+      "start_sec": 53.05,
+      "end_sec": 58.34
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "正解。素数は数の世界の原子みたいなもので、1より大きい整数は、どれも素数のかけ算でできてるの。",
+      "news_index": 1,
+      "start_sec": 58.49,
+      "end_sec": 65.69
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "原子なら、並び方にも法則があるはずなのだ。ボクなら一晩で見つけるのだ。",
+      "news_index": 1,
+      "start_sec": 65.84,
+      "end_sec": 71.7
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "それが見つからないのよ。素数は数が大きくなるほどまばらになるけど、出てくる場所はバラバラで、気まぐれに見えるの。",
+      "news_index": 1,
+      "start_sec": 71.85,
+      "end_sec": 78.72
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "気まぐれなら、もうどうしようもないのだ?",
+      "news_index": 1,
+      "start_sec": 78.87,
+      "end_sec": 81.62
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "全体の量は、だいたいこのくらいって予想式があるの。リーマン予想は、その予想式からのズレが、ずっと小さいままに収まるって主張よ。",
+      "news_index": 1,
+      "start_sec": 81.77,
+      "end_sec": 90.23
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ズレが小さいって、どうやって確かめるのだ?",
+      "news_index": 1,
+      "start_sec": 90.38,
+      "end_sec": 93.48
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ゼータ関数っていう、素数の情報を全部しまい込んだ特別な式があってね。その式の自明でないゼロが、全部一本の線の上に並ぶ、というのが中身なの。",
+      "news_index": 1,
+      "start_sec": 93.63,
+      "end_sec": 103.8
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "分かったのだ! 運動会で、全員がちゃんと白線の上に並んでるか確かめる話なのだ!",
+      "news_index": 1,
+      "start_sec": 103.95,
+      "end_sec": 109.8
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いい例えね。しかも生徒は無限にいるから、一人ずつ見ても終わらないの。要するに、全員が白線の上だと理屈で言い切れるか、って問題よ。",
+      "news_index": 1,
+      "start_sec": 109.95,
+      "end_sec": 119.16
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "無限の運動会、先生が倒れちゃうのだ!",
+      "news_index": 1,
+      "start_sec": 119.31,
+      "end_sec": 122.39
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "1900年には、ヒルベルトっていう大数学者が、次の世紀に解くべき問題の一覧に入れたわ。2000年には、クレイ数学研究所が7つのミレニアム問題の一つに選んで、100万ドルの懸賞をかけたの。",
+      "news_index": 1,
+      "start_sec": 122.54,
+      "end_sec": 135.48
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "100万ドル! 日本円だと1億5,000万円くらいなのだ? ボクのお小遣い、一万年貯めても届かないのだ!",
+      "news_index": 1,
+      "start_sec": 135.63,
+      "end_sec": 145.39
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "7つのうち、これまで解決と認められたのはポアンカレ予想の一つだけ。しかも解いたロシアの数学者は、賞金を断ったのよ。",
+      "news_index": 1,
+      "start_sec": 145.54,
+      "end_sec": 153.46
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "1億円以上を断ったのだ!? 数学の人の世界、深すぎるのだ。",
+      "news_index": 1,
+      "start_sec": 153.61,
+      "end_sec": 158.41
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "で、ここからが今年の流れ。実は8月に、アンソロピック自身が、未公開の研究用クロードでこの問題に挑んだ結果を出してたの。",
+      "news_index": 1,
+      "start_sec": 158.56,
+      "end_sec": 167.46
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "そのときは、解けなかったのだ?",
+      "news_index": 1,
+      "start_sec": 167.61,
+      "end_sec": 169.87
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "白線に並んでると証明できた生徒の割合を、それまでの約42%から、約67%まで引き上げたの。ただ、この方法では予想そのものの証明にはつながらないだろう、と会社は書いてたわ。",
+      "news_index": 1,
+      "start_sec": 170.02,
+      "end_sec": 183.09
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "三分の二近くが白線上だと示せても、全員が白線上だという証明とは別問題なのだ。",
+      "news_index": 1,
+      "start_sec": 183.24,
+      "end_sec": 189.99
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "十月には、オープンエーアイも、未解決問題について、解決や前進を主張する結果を数百件まとめて出したの。中には、先行研究の扱いをめぐって研究者から異論が出たものもあったわ。",
+      "news_index": 1,
+      "start_sec": 190.14,
+      "end_sec": 202.37
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "AIの会社同士で、数学の宿題の量を競ってるのだ。",
+      "news_index": 1,
+      "start_sec": 202.52,
+      "end_sec": 207.15
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "まさにそれ。数学は答えが合ってるか白黒つけやすいから、AIの賢さを見せる舞台になってるの。そこに、アメリカ時間の十一月二十日、本丸のリーマン予想そのものの証明が出てきた、という流れよ。",
+      "news_index": 1,
+      "start_sec": 207.3,
+      "end_sec": 220.4
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "じゃあ中身。発表したのはアンソロピックの数学者で、子どものころからこの問題が特別な存在だった、と語ってるわ。",
+      "news_index": 2,
+      "start_sec": 220.48,
+      "end_sec": 227.77
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "子どものころからの夢をかなえたのだ。ちょっとグッとくるのだ。",
+      "news_index": 2,
+      "start_sec": 227.92,
+      "end_sec": 232.08
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "報道だと、クロードと組んで約六週間。本人の言葉は、クロードと一緒に、証明を見つけたと信じている、よ。",
+      "news_index": 2,
+      "start_sec": 232.23,
+      "end_sec": 239.52
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "信じている? 自分で確かめたんじゃないのだ?",
+      "news_index": 2,
+      "start_sec": 239.67,
+      "end_sec": 243.02
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこがこの話の一番変わってるところ。出したのは、人間が読む普通の論文じゃなくて、リーンっていう検算ソフト用のコードだけなの。",
+      "news_index": 2,
+      "start_sec": 243.17,
+      "end_sec": 251.64
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "リーン? 痩せてる、みたいな意味なのだ? ダイエットのアプリなのだ?",
+      "news_index": 2,
+      "start_sec": 251.79,
+      "end_sec": 256.6
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "痩せないわ。証明を一行ずつ機械に読ませて、どの一歩も前の一歩から正しく出てくるかを全部チェックさせる道具よ。",
+      "news_index": 2,
+      "start_sec": 256.75,
+      "end_sec": 263.86
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "算数のテストで、途中式を一行ずつ赤ペンで見てくれる先生なのだ?",
+      "news_index": 2,
+      "start_sec": 264.01,
+      "end_sec": 269.1
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そう、しかも書かれた形式的な手順を、一つずつ機械的に確認する先生ね。マスリブっていう、数学の定理を何十万個も溜めた共有の本棚と一緒に使われてるの。",
+      "news_index": 2,
+      "start_sec": 269.25,
+      "end_sec": 280.59
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、なんで普通の論文も出さないのだ?",
+      "news_index": 2,
+      "start_sec": 280.74,
+      "end_sec": 283.88
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "量よ。本人によると、クロードに人間向けの説明文を作らせたら、25万ページを超えたの。巨大で読みにくい草稿だったから、それは公開せず、リーンのコードだけを出したのよ。",
+      "news_index": 2,
+      "start_sec": 284.03,
+      "end_sec": 295.33
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "25万ページ!? 一日100ページ読んでも、七年近くかかるのだ!",
+      "news_index": 2,
+      "start_sec": 295.48,
+      "end_sec": 300.45
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "計算は合ってるわ。中身は14個のデータの束に分けて公開されてて、ふつうのリーマン予想だけじゃなく、一般化リーマン予想っていう親戚まで含むと主張してるの。",
+      "news_index": 2,
+      "start_sec": 300.6,
+      "end_sec": 311.03
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "一般化って、何が一般になったのだ?",
+      "news_index": 2,
+      "start_sec": 311.18,
+      "end_sec": 314.19
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "さっきの運動会を、いろんな学校に広げた版ってところね。素数を、決まった数で割った余りごとに分けて数えるときにも、同じ白線の話が成り立つ、という主張よ。",
+      "news_index": 2,
+      "start_sec": 314.34,
+      "end_sec": 324.6
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "一校だけじゃなくて、全国大会で全員並ばせたのだ!",
+      "news_index": 2,
+      "start_sec": 324.75,
+      "end_sec": 328.59
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "で、クロードの役割。本人の説明だと、方向を決めたのは本人で、まず簡単にした練習用の問題で、二つの攻め方を組み合わせたの。",
+      "news_index": 2,
+      "start_sec": 328.74,
+      "end_sec": 338.49
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "練習問題で作戦を立てて、本番はどうしたのだ?",
+      "news_index": 2,
+      "start_sec": 338.64,
+      "end_sec": 342.48
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "本番の問題ではAIが引き継いで、決め手のひらめきもAIが出した、と本人は話してるわ。分野によっては、クロードが自分よりずっと先を行ってた、とまで認めてるの。",
+      "news_index": 2,
+      "start_sec": 342.63,
+      "end_sec": 353.15
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "人間が監督で、AIがエースのストライカーなのだ。",
+      "news_index": 2,
+      "start_sec": 353.3,
+      "end_sec": 358.5
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "例えとしてはそんな感じ。ただ、これは本人の説明で、外の人がやり取りを全部見て確かめたわけじゃないわ。",
+      "news_index": 2,
+      "start_sec": 358.65,
+      "end_sec": 365.99
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、肝心の答え合わせは、どうなってるのだ?",
+      "news_index": 2,
+      "start_sec": 366.14,
+      "end_sec": 369.57
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "数時間のうちに、マサチューセッツ工科大学のアンドリュー・サザーランドさんが、コードを自分の手元で検算し直したの。証明が最終的に依存するのは、リーンの標準的な三つの公理だけだと確認されたわ。",
+      "news_index": 2,
+      "start_sec": 369.72,
+      "end_sec": 382.44
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "前提が三つだけって、それはいいことなのだ?",
+      "news_index": 2,
+      "start_sec": 382.59,
+      "end_sec": 385.97
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "いいことよ。ズルして勝手な前提を足してない、って意味だから。サザーランドさんは、何か怪しい可能性はほぼゼロ、とまで言ってるわ。",
+      "news_index": 2,
+      "start_sec": 386.12,
+      "end_sec": 394.88
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "さらに、リーンとマスリブの開発者の集まりが共同声明を出して、問題の書き方も証明も正しいと認めたの。",
+      "news_index": 2,
+      "start_sec": 394.96,
+      "end_sec": 402.07
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "じゃあもう決まりなのだ! 100万ドル、山分けなのだ!",
+      "news_index": 2,
+      "start_sec": 402.22,
+      "end_sec": 406.07
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "あなたは何もしてないでしょ。それに、機械が保証できるのは、書かれた問題に対して、書かれた手順が正しいってところまでなの。",
+      "news_index": 2,
+      "start_sec": 406.22,
+      "end_sec": 413.88
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "書かれた問題? 問題は、リーマン予想に決まってるのだ。",
+      "news_index": 2,
+      "start_sec": 414.03,
+      "end_sec": 418.14
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこが落とし穴。もし問題文を機械の言葉に訳すときに一字でもズレたら、全然違う問題を正しく解いただけ、になっちゃうのよ。",
+      "news_index": 2,
+      "start_sec": 418.29,
+      "end_sec": 426.9
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "テストで、問題文を写し間違えて、完璧に違う問題を解いちゃうやつなのだ!",
+      "news_index": 2,
+      "start_sec": 427.05,
+      "end_sec": 432.3
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そういうこと。だから、イギリスの大学のケビン・バザードさんたちは、問題文が本物のリーマン予想と一致してるかを、別の点検ソフトで確かめる作業を進めてたの。",
+      "news_index": 2,
+      "start_sec": 432.45,
+      "end_sec": 442.98
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "そっちの結果は、出たのだ?",
+      "news_index": 2,
+      "start_sec": 443.13,
+      "end_sec": 445.27
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "その点検は完了した、と報じられてるわ。で、オックスフォード大学のジェームズ・メイナードさん、素数の研究で数学のノーベル賞と呼ばれるフィールズ賞を取った人が、ニューヨーク・タイムズに、98か99%は確かだと話してるの。",
+      "news_index": 2,
+      "start_sec": 445.42,
+      "end_sec": 460.58
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "素数のプロが99%なら、もう100%でいいんじゃないのだ?",
+      "news_index": 2,
+      "start_sec": 460.73,
+      "end_sec": 465.86
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこを1%残すのが専門家の誠実さね。それに、正しいと分かっても、なぜ正しいのかが分かるとは限らない、とも言ってるの。",
+      "news_index": 2,
+      "start_sec": 466.01,
+      "end_sec": 474.75
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "答えは合ってるのに、解き方が分からないのだ? 友達の宿題を写したときみたいなのだ。",
+      "news_index": 2,
+      "start_sec": 474.9,
+      "end_sec": 480.88
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "写しちゃだめよ。でも気持ちは近いわ。要するに、合ってるかは機械が確かめた、でも人類が理解できたかはまだ、ってこと。",
+      "news_index": 2,
+      "start_sec": 481.03,
+      "end_sec": 488.81
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "shock",
+      "text": "もう一つドラマがあってね。発表から数時間後、アメリカ数学会の会長でスタンフォード大学のラヴィ・ヴァキルさんが、アレッサンドロ・マズッロさんによる、AIを使っていない別の証明草稿を公開したの。",
+      "news_index": 2,
+      "start_sec": 488.89,
+      "end_sec": 501.69
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "人間チームも同じ日に参戦なのだ!? 少年漫画の展開なのだ!",
+      "news_index": 2,
+      "start_sec": 501.84,
+      "end_sec": 506.34
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ところが約八時間後、その下書きにいくつか問題があると指摘が来たの。しかも見つけるのに、いろんなAIが使われたそうよ。",
+      "news_index": 2,
+      "start_sec": 506.49,
+      "end_sec": 514.65
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "人間だけの証明を、AIが添削しちゃったのだ。ちょっと切ないのだ。",
+      "news_index": 2,
+      "start_sec": 514.8,
+      "end_sec": 521.17
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ヴァキルさんは、その証明の正しさは主張しない、と書き足してるわ。つまり今は、人間とAIが作って機械で確かめられた証明と、人が書いて問題点が報告された下書き、という対照的な二つが並んでるのよ。",
+      "news_index": 2,
+      "start_sec": 521.32,
+      "end_sec": 534.8
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ここからが本題なのだ。ボクたちの生活には、何が変わるのだ?",
+      "news_index": 3,
+      "start_sec": 534.95,
+      "end_sec": 539.58
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "まず、一番よく聞かれそうな心配から。素数の話だから、ネットの暗号が破られるんじゃないかって思う人もいるかもしれないわ。",
+      "news_index": 3,
+      "start_sec": 539.73,
+      "end_sec": 547.55
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "そうなのだ! ボクのゲームのパスワードも、ネットバンクも危ないのだ!?",
+      "news_index": 3,
+      "start_sec": 547.7,
+      "end_sec": 552.1
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "落ち着いて。RSAなど一部の暗号は、大きな数の素因数分解が難しいことに頼ってるけど、リーマン予想が証明されても、それだけで素因数分解が速くなるわけじゃないの。",
+      "news_index": 3,
+      "start_sec": 552.25,
+      "end_sec": 564.22
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "ふぅ、ボクの金庫は無事なのだ。",
+      "news_index": 3,
+      "start_sec": 564.37,
+      "end_sec": 566.74
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "次に、クロードを使ってる人。明日から料金や使い方が変わる、っていう発表は出てないわ。そもそも使われたモデルの名前も、報道では出てないの。",
+      "news_index": 3,
+      "start_sec": 566.89,
+      "end_sec": 576.09
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、ボクの宿題係が急に天才になるわけじゃないのだ?",
+      "news_index": 3,
+      "start_sec": 576.24,
+      "end_sec": 580.6
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "今すぐはね。ただ、AIが長い時間をかけて一つの難問を詰め切れる、っていう実例にはなったわ。そういう粘り強さが、普段使うAIにも少しずつ降りてくる、というのが私の見立てよ。",
+      "news_index": 3,
+      "start_sec": 580.75,
+      "end_sec": 593.29
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "数学者さんたちは、どうなるのだ? お仕事なくなっちゃうのだ?",
+      "news_index": 3,
+      "start_sec": 593.44,
+      "end_sec": 597.81
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "逆に仕事が増えるかもしれないわ。約千七百万行のリーン証明から、人間が分かる言葉の地図を描き直す仕事が待ってるもの。",
+      "news_index": 3,
+      "start_sec": 597.96,
+      "end_sec": 606.03
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "AIが山に登ったあとで、人間が登山道の看板を立てるのだ!",
+      "news_index": 3,
+      "start_sec": 606.18,
+      "end_sec": 610.77
+    },
+    {
+      "index": 84,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "うまいわね。それに、数学には、もしリーマン予想が正しければ、っていう前提つきの定理がたくさんあるの。本当に証明されたなら、それが前提なしで使えるようになるわ。",
+      "news_index": 3,
+      "start_sec": 610.92,
+      "end_sec": 621.91
+    },
+    {
+      "index": 85,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "前提つきって、どういうものがあるのだ?",
+      "news_index": 3,
+      "start_sec": 622.06,
+      "end_sec": 625.01
+    },
+    {
+      "index": 86,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "例えば、ある数が素数かどうかを速く確実に見分ける方法の一部は、一般化リーマン予想を前提にしてたの。そういう、条件つきの約束が本物の約束に変わるのよ。",
+      "news_index": 3,
+      "start_sec": 625.16,
+      "end_sec": 636.12
+    },
+    {
+      "index": 87,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "仮免の定理が、まとめて本免許をもらうのだ。",
+      "news_index": 3,
+      "start_sec": 636.27,
+      "end_sec": 639.88
+    },
+    {
+      "index": 88,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "次はエンジニアの人。今回の主役はAIだけじゃなく、リーンみたいな検算の仕組みでもあるの。",
+      "news_index": 3,
+      "start_sec": 640.03,
+      "end_sec": 646.0
+    },
+    {
+      "index": 89,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "数学の検算が、プログラムを書く人に関係あるのだ?",
+      "news_index": 3,
+      "start_sec": 646.15,
+      "end_sec": 650.31
+    },
+    {
+      "index": 90,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "大ありよ。AIが書いたものを人が全部読むのは無理、という悩みは、AIが書いたプログラムでも同じ。機械に正しさを確かめさせる流れは、ソフトの世界にも広がっていくと思うわ。",
+      "news_index": 3,
+      "start_sec": 650.46,
+      "end_sec": 662.54
+    },
+    {
+      "index": 91,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "AIが書いて、別の機械が採点して、人間は最後に問題文が合ってるかだけ見るのだ。",
+      "news_index": 3,
+      "start_sec": 662.69,
+      "end_sec": 669.09
+    },
+    {
+      "index": 92,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "要するにそれ。人間の仕事が、全部読む係から、何を確かめるか決める係に移るってことね。",
+      "news_index": 3,
+      "start_sec": 669.24,
+      "end_sec": 675.77
+    },
+    {
+      "index": 93,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "学生さんは、どうなのだ? ボクみたいな。",
+      "news_index": 3,
+      "start_sec": 675.92,
+      "end_sec": 678.96
+    },
+    {
+      "index": 94,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "数学を学ぶ意味が、計算を速くするより、何が問題なのかを正しく書けることに寄っていくかもね。さっきの問題文の写し間違いの話が、まさにそれよ。",
+      "news_index": 3,
+      "start_sec": 679.11,
+      "end_sec": 689.36
+    },
+    {
+      "index": 95,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "問題文を写すのが一番大事なんて、先生に言ったら笑われそうなのだ。",
+      "news_index": 3,
+      "start_sec": 689.51,
+      "end_sec": 694.3
+    },
+    {
+      "index": 96,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "笑われないわよ、今回それが世界最大の論点なんだから。整理すると、生活がすぐ変わる話ではなく、知識の確かめ方が変わり始めた、という中長期の話ね。",
+      "news_index": 3,
+      "start_sec": 694.45,
+      "end_sec": 705.26
+    },
+    {
+      "index": 97,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、これから何を見ておけばいいのだ?",
+      "news_index": 4,
+      "start_sec": 705.41,
+      "end_sec": 708.33
+    },
+    {
+      "index": 98,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三つあるわ。一つ目は、人間が読める版。本人は、証明をきちんと理解して伝え、正式に書き上げたいと言ってるの。",
+      "news_index": 4,
+      "start_sec": 708.48,
+      "end_sec": 716.14
+    },
+    {
+      "index": 99,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "25万ページを、人間サイズに縮めるのだ?",
+      "news_index": 4,
+      "start_sec": 716.29,
+      "end_sec": 719.87
+    },
+    {
+      "index": 100,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そう、そこで初めて、なぜ白線に並ぶのかが人に伝わるの。機械検証とは別に、数学界が証明の意味や新しいアイデアを理解するために大切な作業ね。",
+      "news_index": 4,
+      "start_sec": 720.02,
+      "end_sec": 730.87
+    },
+    {
+      "index": 101,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二つ目は、クレイ数学研究所の動き。懸賞のルールでは、ちゃんとした学術誌などに発表されて、そこから二年たって、数学界に受け入れられることが条件なの。",
+      "news_index": 4,
+      "start_sec": 730.95,
+      "end_sec": 741.13
+    },
+    {
+      "index": 102,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "二年も待つのだ!? それに、論文じゃなくてコードだけのときは、どうなるのだ?",
+      "news_index": 4,
+      "start_sec": 741.28,
+      "end_sec": 746.33
+    },
+    {
+      "index": 103,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこが前例のない所ね。クレイ数学研究所のマーティン・ブリドソン代表は、歴史的意義のある発表だとしつつ、評価には時間がかかると説明してるわ。賞については、正式な発表から二年以上たち、数学界に広く受け入れられてから判断されるの。",
+      "news_index": 4,
+      "start_sec": 746.48,
+      "end_sec": 763.2
+    },
+    {
+      "index": 104,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "三つ目は、何なのだ?",
+      "news_index": 4,
+      "start_sec": 763.35,
+      "end_sec": 765.25
+    },
+    {
+      "index": 105,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "AI各社の数学競争よ。オープンエーアイやグーグルが、ほかのミレニアム問題に同じやり方で挑んでくるかもしれないわ。",
+      "news_index": 4,
+      "start_sec": 765.4,
+      "end_sec": 772.89
+    },
+    {
+      "index": 106,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "残りの難問も、AIに次々と攻略されちゃうのだ?",
+      "news_index": 4,
+      "start_sec": 773.04,
+      "end_sec": 777.56
+    },
+    {
+      "index": 107,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこまでは分からないわ。ただ、次の焦点は、AIが証明を出す速さに、人間の確かめる速さが追いつけるかね。",
+      "news_index": 4,
+      "start_sec": 777.71,
+      "end_sec": 785.63
+    },
+    {
+      "index": 108,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "人間とAIが短期間で巨大な証明を作っても、その意味を人間が理解するには、ずっと長い時間がかかるかもしれないのだ。",
+      "news_index": 4,
+      "start_sec": 785.78,
+      "end_sec": 794.48
+    },
+    {
+      "index": 109,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "その差を埋めるのがリーンみたいな機械の検算で、今回はそれが初めて最大の舞台で試されたのよ。",
+      "news_index": 5,
+      "start_sec": 794.63,
+      "end_sec": 800.94
+    },
+    {
+      "index": 110,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "今朝は、アンソロピックの数学者が、クロードと一緒にリーマン予想を証明したと発表した話だったのだ。",
+      "news_index": 5,
+      "start_sec": 801.09,
+      "end_sec": 807.79
+    },
+    {
+      "index": 111,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "まとめるわね。機械の検算は通って、専門家もかなり前向き。でも人間が読める説明はまだ無くて、なぜ正しいのかを理解するのはこれからよ。",
+      "news_index": 5,
+      "start_sec": 807.94,
+      "end_sec": 817.13
+    },
+    {
+      "index": 112,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "無限の運動会と、25万ページの途中式と、写し間違えた問題文。今日の雑談で言うのだ!",
+      "news_index": 5,
+      "start_sec": 817.28,
+      "end_sec": 825.13
+    },
+    {
+      "index": 113,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "運動会は通じるか微妙だけど、まあいいわ。聴いてくれてるかた、いってらっしゃい! 気になる人は、各社の報道をのぞいてみてね。",
+      "news_index": 5,
+      "start_sec": 825.28,
+      "end_sec": 833.39
+    },
+    {
+      "index": 114,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "いってらっしゃいなのだー!",
+      "news_index": 5,
+      "start_sec": 833.54,
+      "end_sec": 835.28
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 835.98,
+      "end_sec": 842.62
+    }
+  ],
+  "wall_time_sec": 21.5,
+  "audio_url": "/audio/ai/20261122_050604.mp3?v=1795298607"
+}

@@ -1,0 +1,470 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-11-21T20:09:14.409649+00:00",
+  "title": "目隠しと絵筆の朝 〜AIに画面を見せないアプリと、70万筆で描くクロード〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便、テックの話題をサクッと流す回よ。四国めたんです。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 眠い目をこすって、今朝も耳だけ起こしていくのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今朝は四本。AIに画面をのぞかせないアプリ、絵筆を持ったAI、ウェブの新しい画用紙、それから守りの話ね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "絵筆を持ったAI? AIって、手が無いじゃん?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そこが面白いところ。順番にいくわよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "一本目、いってみるのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。秘密のやり取りで有名なメッセージアプリのシグナルが、十一月二十日に、スマホのAIに画面を読ませない対策を入れたの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "シグナル? 信号機のアプリなのだ? 青になったら通知が来るのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "信号は関係ないわ。中身を暗号化して、送った本人と相手しか読めないようにするチャットアプリよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "暗号化してるのに、AIに読まれちゃうのだ!?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこが盲点。暗号は通信中やサービス側から中身を守ってくれるけど、端末で復号されて画面に表示された文字までは守れないの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、手紙を金庫で届けても、開けて読んでる横から誰かがのぞいたら終わり、ってことなのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いい例えね。最近のスマホは、シリやジェミニみたいなAIが画面を見て代わりに操作するから、そののぞき役になりかねないのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、シグナルは何をしたのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "アイフォーンでは、アイオーエス 27向けに「ブロック シリ エーアイ」設定を足して、スクリーンショットとシリのAIによる画面読み取りをまとめて止めるの。アンドロイドでは、AIが画面を読もうとすると既存の画面保護が自動で入るらしいわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "画面に目隠しのカーテンを引いたのだ。AIさん、出禁なのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "しかも代表のメレディス・ウィテカーさんは、AIを組み込む流れがプライバシーに敵対的な環境を作ってる、とまで言ってるわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ケンカ腰じゃん……アップルやグーグルが相手なのに?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。シグナル自身もこの対策は不完全だと認めてて、アプリがAIを断れる正式な仕組みを、アップル、グーグル、マイクロソフトに求めてるの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクらの生活だと、どう変わるのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "AIに画面を任せるほど、見せたくない画面も一緒に渡しちゃう、ってこと。便利な設定をオンにする前に、どのアプリが見られるか一度確かめておくといいわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "推しへの長文メッセージは、AIにも見せたくないのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに、便利な目は秘密ものぞける目、って話。次いくわよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目は明るい話。アンソロピックの社員のジェイク・イートンさんが、クロード フェイブル ゴーテンニに絵を描かせた結果を、エックスで見せたの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "絵なら、文字を打ったら絵が出てくるAIが、もう山ほどあるじゃん?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこが違うの。よくある画像のAIは砂嵐みたいなノイズから絵を浮かび上がらせるけど、今回は絵の専用AIを使ってないのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? じゃあ、どうやって描くのだ!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "パイソンっていうプログラムの言葉で、筆のかすれや絵の具の乗り具合まで再現したキャンバスを作って、そこに一筆ずつ置いていくの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "パソコンの中に、お絵かき教室を開いたってことなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "教室ごと自作した感じね。写真みたいに描く実験では、だいたい70万筆を重ねたそうよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "70万筆!? ボクの夏休みの絵日記を一生分描いても、届かないのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "あなたの絵日記、三日で終わるじゃない。プログラムの長さは、1,000から2,000行くらいらしいわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "描き損じを見つけて、上から塗り直したりもするらしいのだ。人間の画家さんみたいで、かわいいのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ただ、これは社員の個人的な実演で、会社の正式な機能発表じゃないの。そこは分けて聞いてね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ボクらにとっては、何がうれしいのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "絵を出すAIと言葉のAIの境目が、ぼやけてきたってこと。いずれは完成品だけじゃなく、筆の順番ごと直せる絵が頼めるかも、というのが私の見立てよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "要するに、AIが印刷屋さんから画家さんに転職したのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今の一言が正解。次は、ウェブの画用紙の話。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目。グーグルが十月二十六日に発表した、エイチティーエムエル イン キャンバスっていう仕組みが、十一月三日に正式版になったクローム百五十七で使えるようになったの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "えいちてぃー……いん……呪文が長すぎて、目が回るのだ……。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "分解するわね。エイチティーエムエルはページの文字やボタンを作るいつもの材料で、キャンバスはページの中の自由なお絵かきスペースのことよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "お絵かきスペースなら、もう好きに描けるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "描けるけど、そこに描いたものはただの絵扱いだったの。文字を選んでコピーしたり、ボタンを押したりができなかったのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、ガラスケースの中の、食品サンプルみたいなものなのだ! 見えるけど食べられないやつ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "うまいわね。今回から、そのケースの中に本物のボタンや文字を置けて、3Dの画面の中でもちゃんと触れるようになったの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、立体のゲームっぽい画面の中で、普通に文字がコピーできるのだ!?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。グーグルは、検索の巡回ロボットやAIエージェントも、その中身を読めるって説明してるわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "さっきのシグナルとは真逆で、AIさんいらっしゃい、なのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "変なところでつなげないの。まあ、見せたい画面と隠したい画面、両方の流れがあるのは確かね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、ボクらは何が変わるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "見た目が凝ったサイトでも、文字のコピーや読み上げができるものが増えていくはずよ。クローム百五十七とエッジ百五十七では使えるけど、ファイアフォックスとサファリはまだ未対応ね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "おしゃれなサイトで、住所がコピーできなくてイライラする日が終わるのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに、食べられる食品サンプルの時代ってことね。じゃあ最後、守りの話を手短に。",
+      "news_index": 3,
+      "reading": "ようするに、たべられるしょくひんサンプルのじだいってことね。じゃあさいご、まもりのはなしをてみじかに。"
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四本目。オープンエーアイが十一月十七日に、ナトーの中心の組織に、守り用のAIを使ってもらってると発表したの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ナトーって、ネバネバの豆なのだ? 朝ごはんの話なのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "納豆じゃないわ。アメリカやヨーロッパの国々が組んでる、守りの同盟よ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "そんな大きいところに、AIが入っていくのだ!?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "使ってるのは、デイブレイクっていう仕組み。身元を確かめた守る側の人だけに、強いサイバーセキュリティ用のAIを貸すの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "サイバーセキュリティって、ネットの泥棒よけのことだっけ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、システムの穴を先に見つけて塞いだり、攻撃に気づいたりする仕事ね。ナトーでは、多い月で3,000億トークンまで使ったそうよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "3,000億!? トークンって、文章の一切れだっけ? 本、何冊分なのだ!?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ざっくり、文庫本で何百万冊分の読み書きね。それと、大きなサイバー演習でも、人が見張りながらAIエージェントを動かしたそうよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ほかの国も使ってるのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "欧州連合のサイバーセキュリティの機関や、フランス、ドイツ、ポーランドの国の機関にも提供してるわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "AIは攻める側にも使えるって考えると、ちょっと怖いのだ……。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "だからこそ守る側に先に渡す、って理屈ね。毎日使う銀行や役所のシステムも、裏ではAIを使った攻防になっていくってことよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "要するに、ネットの警備員さんにも、AIの相棒がついたのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そういうこと。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今朝は、AIに画面を見せないシグナル、筆で描くクロード、触れるキャンバス、ナトーの守りのAIの四本だったわ。",
+      "news_index": 0,
+      "reading": "けさは、AIにがめんをみせないシグナル、ふででかくクロード、さわれるキャンバス、ナトーのまもりのAIのよんほんだったわ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "目隠しのカーテンと、70万筆の画家さんと、食べられる食品サンプル。今日の雑談で言うのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "どうせ納豆も混ぜる気でしょ。それは言わなくていいわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "バレてたのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "聴いてくれてるかた、いってらっしゃい。気になった話は、各社の発表や報道をのぞいてみてね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "また明日の朝便で会うのだー! いってらっしゃいなのだ!",
+      "news_index": 0
+    }
+  ],
+  "program_description": "今朝のテック朝便は四本立て。暗号化チャットのシグナルが、スマホに入ったAIに画面を読ませないよう、スクリーンショット制限とシリのAI締め出し設定を入れた話。アンソロピックの社員が、クロード フェイブル ゴーテンニにプログラムで筆を一筆ずつ置かせ、約70万筆で写真のような絵を描かせた実演。グーグルのクロームで正式に使えるようになった、ページの中のお絵かきスペースに本物のボタンや文字を置ける仕組み。そして、オープンエーアイがナトーや欧州の機関に守り用のAIを提供している話まで。見せたい画面と隠したい画面、AIとの距離感をサクッと眺める回です。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20261122_050914_chars.webp",
+    "hero_rel": "/images/topics/tech_20261122_050914.webp",
+    "title": "目隠しと絵筆の朝 〜AIに画面を見せないアプリと、70万筆で描くクロード〜",
+    "companies": [
+      "Claude",
+      "Google",
+      "OpenAI",
+      "Apple",
+      "Gemini",
+      "Microsoft"
+    ],
+    "thumbnail_ready": true
+  },
+  "summary_short": "シグナルがAIに画面を読ませない設定を導入。アンソロピックの社員はクロードに約70万筆を一筆ずつ置かせて写真のような絵を描かせ、クロームには本物のボタンも置けるお絵かきスペースが登場。オープンエーアイはナトーに守りのAIを提供。AIとの距離感を探る朝便です。",
+  "published_at": "2026-11-22T07:02:10+09:00"
+}
