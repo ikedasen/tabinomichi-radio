@@ -1,0 +1,493 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-11-22T20:05:59.779394+00:00",
+  "title": "再起動と急ブレーキの朝 〜二百四の穴と、町の水を飲む倉庫〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "intro",
+      "text": "おはようございます、旅の道ラジオ朝便、テックニュースの回。四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだ! 月曜の朝から、テックの話をサクッといくのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今朝は四本。ブラウザの大型修理と、AIの急ブレーキ案と、データセンターのご近所トラブル、それに株価の話ね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ご近所トラブル? データセンターが、夜中に洗濯機を回してるのだ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "回してないわ。でも電気と水をめぐって、本当に住民ともめてるの。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "了解なのだ! 一本目、どうぞなのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。グーグルのブラウザ、クロームの新しい版の百五十八が、十一月十七日から配られ始めたの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ブラウザって、ネットを見るためのアプリだっけ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "正解。今回の目玉は新機能じゃなくて修理で、セキュリティの穴を二百四件もふさいだのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "二百四件!? ボクの靴下の穴より多いじゃん!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "靴下は自分で縫いなさい。中でも一番危ない、重大ランクの穴が六件あったって。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "穴があると、どうなるのだ? ネットのすきま風が吹き込むのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "風じゃなくて、悪い人が入ってくるの。変なページを開いただけでパソコンを乗っ取られる入口になっちゃう、玄関の鍵が壊れてるのと同じ状態ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? 急いで鍵を替えなきゃなのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ただ報道だと、実際に悪用されたって話は今のところ出てないわ。そこは落ち着いて。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "ふぅ、セーフなのだ……。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "面白いのが、重大な六件のうち二件は、アンソロピックの研究者がクロードと組んで見つけたってところ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "AIが泥棒より先に、壊れた鍵を探して回ってるのだ! 夜回りの警備員さんなのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "いい例えね。守る側もAIを使う時代ってこと。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、ボクは何をすればいいのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "クロームの右上の点が三つ並んだところから、設定、クロームについて、を開けば更新が入るわ。最後に再起動ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ボタン一つじゃん! 朝ごはんの前にやっておくのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに、今朝いちばん簡単な防犯は、ブラウザの再起動って話。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目は急ブレーキの話。オープンエーアイで研究のトップに立つ、チーフサイエンティストのヤクブ・パホツキさんが、業界みんなで同じ上限を決めようって言い出したの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "上限? ジェットコースターの、この線より大きい人は乗れません、みたいなやつ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "発想は近いわ。AIがある賢さを超えたら、見張る技術が追いつくまで、どの会社も先へ進まないっていう線よ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? 一番乗り競争してる会社が、自分から止まるのだ!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこがミソ。一社だけ止まってもほかが走ったら意味がないから、みんなで同時に止まろう、って話なの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、運動会の、全員で手をつないでゴールするやつなのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "美談みたいに言わないの。しかも今回、自分たちのAIの育ち具合を測る目盛りの数字まで、初めて外に見せたのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "それって、ライバルに手の内を見せちゃうってこと?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そうなるわね。それでも安全で足並みをそろえることを選んだ、っていうのが今回の重み。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも、みんなで止まろうって相談したら、誰かに怒られたりしないのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "鋭いじゃない。会社同士で示し合わせるのは、独占禁止法、ようは談合を禁じるルールに触れかねないの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "だからオープンエーアイは、それが許されるのかアメリカの議会に相談してる、って報道もあるわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "ブレーキを踏む相談だけで、法律の確認が要るのだ……大人の世界、めんどくさいのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "まだ合意も決まったルールも無くて、提案の段階ね。すぐ何かが変わるわけじゃないわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "もし話がまとまったら、ボクたちはどうなるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "新しいAIが出てくる速さが、今ほど速くなくなるかもしれない、ってこと。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "新作ラッシュに置いていかれがちなボクには、ちょっとありがたいのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目は、さっきのご近所トラブル。データセンターがアメリカで、大手IT企業への反発の中心になってる、ってテッククランチが書いたの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "データセンターって、そもそも何の建物なのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "AIやネットのサービスを動かしてる、巨大なサーバー倉庫よ。サーバーは熱くなるから、冷やすのに電気も水もたっぷり使うわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、だから電気と水でもめるのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そういうこと。アプリは目に見えないけど、倉庫は町に建つ。電気代も水も騒音も、住民の暮らしに直結するのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "どのくらい使ってるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "オレゴン州のザ・ダルズって町では、グーグルの使う水が町全体の二十九パーセントだったの。住民の疑問を受けた記者が情報を求めて、約一年後にやっと数字が出たのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "町の水の三割近く!? ボクの家のシャワーが、ちょろちょろになっちゃうのだ!",
+      "news_index": 3,
+      "reading": "まちのみずのさんわりちかく!?ボクのうちのシャワーが、ちょろちょろになっちゃうのだ!"
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "そこまで単純じゃないわ。怒りどころは、水を大量に使うことに加えて、その数字を隠そうとしたことね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "知らされないって、どういうことなのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "会社と町が、中身を外に言わない秘密の契約を結んでることが多かったの。マイクロソフトやアマゾン、オープンエーアイは、それをやめるって表明したわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ナイショの約束をやめるのだ。それで怒りは収まるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "記事の著者のパリス・マルクスさんは、効果は小さいって見てるわ。問題は秘密より、とにかく大きすぎることだって。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "巨大な倉庫が、町にどーんと来るのが問題ってことなのだ……。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "しかも反対の声は、共和党の人からも民主党の人からも出てるの。右も左も関係ない火種って話。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、AIの次の壁は、チップより電気と町の人のオッケーってことじゃん!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今の一言が正解。日本でもデータセンターは増えてるから、いずれ電気代の話として、私たちの家計にも回ってくるかもね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ラスト四本目はお財布の話。アメリカのハイテク株が、ここのところ大きく下がってるの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ハイテク株って、どれのことなのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ナスダックっていう、IT企業が多く集まる株の市場があってね。報道だと、そこの指数が十月の最高値から、一割以上も下がったのよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "一割!? ボクのお年玉が、気づいたら一割減ってたってことなのだ!?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "感覚はそれね。特にエヌビディアは、十月六日の最高値から三割以上も下がってるって。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、AIのチップで一番強い会社じゃないのだ!?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "その会社が揺れてるの。十一月十一日にトップのジェンスン・フアンさんが辞めて、そのあと、アメリカの証券の見張り役が、投資家への説明に問題がなかったか調べてるってウォール・ストリート・ジャーナルが報じたのよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "社長が辞めて、調べられて……ボク、頭がぐるぐるなのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "調査について会社はすぐにはコメントせず、役所もコメントを控えていて、全容はまだ分かってないわ。そこに、AIにこんなにお金を注いで回収できるのか、っていう疑いが重なった感じ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "お祭りの屋台に、みんなが急に、それ本当にもうかるの? って聞き始めたのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "うまいじゃない。期待だけで買われる時期から、ちゃんと稼げるかを問われる時期に入った、って見る人が多いの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボク、株は持ってないのだ。関係ないってこと?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "直接はね。でも積み立ての投資信託でアメリカの株をまとめて買ってる人は、残高が減って見えてるかも。慌てる前に、自分が何を買ってるか確かめるくらいがちょうどいいわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "朝から通帳とにらめっこは、やめておくのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに、AIブームが成績表を見せる時期に入ったって話。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今朝は四本。クロームの大型修理、AIの急ブレーキ案、データセンターのご近所トラブル、そしてハイテク株の下げだったわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ボクはまず再起動なのだ! 一番簡単で、一番大事なのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "えらいじゃない。気になったのがあったら、各社の発表や報道ものぞいてみてね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "株の話だけ、ちょっとしょんぼりしたのだ……。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "朝から涙目にならないの。聴いてくれてるかた、いってらっしゃい。また明日のテック朝便で。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "いってらっしゃいなのだー!",
+      "news_index": 0
+    }
+  ],
+  "program_description": "月曜朝のテック雑談回。グーグルのブラウザ、クローム百五十八がセキュリティの穴を二百四件ふさぎ、重大な六件のうち二件はクロードと組んだ研究者が見つけた話。オープンエーアイのチーフサイエンティストが、AIが一定の賢さを超えたら各社そろって立ち止まる共通の上限を提案した話と、その相談に独占禁止法の壁がある話。アメリカでデータセンターが電気と水と秘密の契約をめぐって住民の反発を集め、町の水の約三割をグーグルが使っていた例。そしてナスダックの下げとエヌビディアの揺れで、AIブームが成績表を問われる時期に入った話まで、生活目線でサクッとまとめる回。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20261123_050559_chars.webp",
+    "hero_rel": "/images/topics/tech_20261123_050559.webp",
+    "title": "再起動と急ブレーキの朝 〜二百四の穴と、町の水を飲む倉庫〜",
+    "companies": [
+      "OpenAI",
+      "NVIDIA",
+      "Claude",
+      "Google",
+      "Microsoft",
+      "Amazon"
+    ],
+    "thumbnail_ready": true
+  },
+  "summary_short": "クローム158が穴204件を修正、うち2件はクロードと組んだ研究者の発見。OpenAIの科学者が提案するAI共通の上限と独禁法の壁、データセンターが町の水の約3割を使う現実、ナスダック下落で問われるAIブームの成績表まで、月曜朝に生活目線で。",
+  "published_at": "2026-11-23T07:01:42+09:00"
+}

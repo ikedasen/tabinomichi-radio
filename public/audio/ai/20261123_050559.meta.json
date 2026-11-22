@@ -1,0 +1,806 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-11-23T05:05:59+09:00",
+  "title": "再起動と急ブレーキの朝 〜二百四の穴と、町の水を飲む倉庫〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 463.59,
+  "script_hash": "sha256:ad37f2cc18673db7e17b8930ece1688f379b50384dd612c35560464b496cf695",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 4.69
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "intro",
+      "text": "おはようございます、旅の道ラジオ朝便、テックニュースの回。四国めたんよ。",
+      "news_index": 0,
+      "start_sec": 4.69,
+      "end_sec": 9.9
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだ! 月曜の朝から、テックの話をサクッといくのだー!",
+      "news_index": 0,
+      "start_sec": 10.05,
+      "end_sec": 15.1
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今朝は四本。ブラウザの大型修理と、AIの急ブレーキ案と、データセンターのご近所トラブル、それに株価の話ね。",
+      "news_index": 0,
+      "start_sec": 15.25,
+      "end_sec": 23.17
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ご近所トラブル? データセンターが、夜中に洗濯機を回してるのだ?",
+      "news_index": 0,
+      "start_sec": 23.32,
+      "end_sec": 28.44
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "回してないわ。でも電気と水をめぐって、本当に住民ともめてるの。",
+      "news_index": 0,
+      "start_sec": 28.59,
+      "end_sec": 32.96
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "了解なのだ! 一本目、どうぞなのだ!",
+      "news_index": 0,
+      "start_sec": 33.11,
+      "end_sec": 35.91
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。グーグルのブラウザ、クロームの新しい版の百五十八が、十一月十七日から配られ始めたの。",
+      "news_index": 1,
+      "start_sec": 36.06,
+      "end_sec": 43.27
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ブラウザって、ネットを見るためのアプリだっけ?",
+      "news_index": 1,
+      "start_sec": 43.42,
+      "end_sec": 46.6
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "正解。今回の目玉は新機能じゃなくて修理で、セキュリティの穴を二百四件もふさいだのよ。",
+      "news_index": 1,
+      "start_sec": 46.75,
+      "end_sec": 52.78
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "二百四件!? ボクの靴下の穴より多いじゃん!",
+      "news_index": 1,
+      "start_sec": 52.93,
+      "end_sec": 56.21
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "靴下は自分で縫いなさい。中でも一番危ない、重大ランクの穴が六件あったって。",
+      "news_index": 1,
+      "start_sec": 56.36,
+      "end_sec": 61.83
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "穴があると、どうなるのだ? ネットのすきま風が吹き込むのだ?",
+      "news_index": 1,
+      "start_sec": 61.98,
+      "end_sec": 66.36
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "風じゃなくて、悪い人が入ってくるの。変なページを開いただけでパソコンを乗っ取られる入口になっちゃう、玄関の鍵が壊れてるのと同じ状態ね。",
+      "news_index": 1,
+      "start_sec": 66.51,
+      "end_sec": 75.83
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? 急いで鍵を替えなきゃなのだ!",
+      "news_index": 1,
+      "start_sec": 75.98,
+      "end_sec": 78.52
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ただ報道だと、実際に悪用されたって話は今のところ出てないわ。そこは落ち着いて。",
+      "news_index": 1,
+      "start_sec": 78.67,
+      "end_sec": 84.22
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "ふぅ、セーフなのだ……。",
+      "news_index": 1,
+      "start_sec": 84.37,
+      "end_sec": 86.11
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "面白いのが、重大な六件のうち二件は、アンソロピックの研究者がクロードと組んで見つけたってところ。",
+      "news_index": 1,
+      "start_sec": 86.26,
+      "end_sec": 92.53
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "AIが泥棒より先に、壊れた鍵を探して回ってるのだ! 夜回りの警備員さんなのだ!",
+      "news_index": 1,
+      "start_sec": 92.68,
+      "end_sec": 98.74
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "いい例えね。守る側もAIを使う時代ってこと。",
+      "news_index": 1,
+      "start_sec": 98.89,
+      "end_sec": 102.52
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、ボクは何をすればいいのだ?",
+      "news_index": 1,
+      "start_sec": 102.67,
+      "end_sec": 105.12
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "クロームの右上の点が三つ並んだところから、設定、クロームについて、を開けば更新が入るわ。最後に再起動ね。",
+      "news_index": 1,
+      "start_sec": 105.27,
+      "end_sec": 112.75
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ボタン一つじゃん! 朝ごはんの前にやっておくのだ。",
+      "news_index": 1,
+      "start_sec": 112.9,
+      "end_sec": 116.66
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに、今朝いちばん簡単な防犯は、ブラウザの再起動って話。",
+      "news_index": 1,
+      "start_sec": 116.81,
+      "end_sec": 121.43
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目は急ブレーキの話。オープンエーアイで研究のトップに立つ、チーフサイエンティストのヤクブ・パホツキさんが、業界みんなで同じ上限を決めようって言い出したの。",
+      "news_index": 2,
+      "start_sec": 121.51,
+      "end_sec": 131.53
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "上限? ジェットコースターの、この線より大きい人は乗れません、みたいなやつ?",
+      "news_index": 2,
+      "start_sec": 131.68,
+      "end_sec": 137.38
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "発想は近いわ。AIがある賢さを超えたら、見張る技術が追いつくまで、どの会社も先へ進まないっていう線よ。",
+      "news_index": 2,
+      "start_sec": 137.53,
+      "end_sec": 144.95
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? 一番乗り競争してる会社が、自分から止まるのだ!?",
+      "news_index": 2,
+      "start_sec": 145.1,
+      "end_sec": 149.45
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこがミソ。一社だけ止まってもほかが走ったら意味がないから、みんなで同時に止まろう、って話なの。",
+      "news_index": 2,
+      "start_sec": 149.6,
+      "end_sec": 156.06
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、運動会の、全員で手をつないでゴールするやつなのだ!",
+      "news_index": 2,
+      "start_sec": 156.21,
+      "end_sec": 160.53
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "美談みたいに言わないの。しかも今回、自分たちのAIの育ち具合を測る目盛りの数字まで、初めて外に見せたのよ。",
+      "news_index": 2,
+      "start_sec": 160.68,
+      "end_sec": 168.11
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "それって、ライバルに手の内を見せちゃうってこと?",
+      "news_index": 2,
+      "start_sec": 168.26,
+      "end_sec": 171.58
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そうなるわね。それでも安全で足並みをそろえることを選んだ、っていうのが今回の重み。",
+      "news_index": 2,
+      "start_sec": 171.73,
+      "end_sec": 177.25
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも、みんなで止まろうって相談したら、誰かに怒られたりしないのだ?",
+      "news_index": 2,
+      "start_sec": 177.4,
+      "end_sec": 182.19
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "鋭いじゃない。会社同士で示し合わせるのは、独占禁止法、ようは談合を禁じるルールに触れかねないの。",
+      "news_index": 2,
+      "start_sec": 182.34,
+      "end_sec": 189.42
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "だからオープンエーアイは、それが許されるのかアメリカの議会に相談してる、って報道もあるわ。",
+      "news_index": 2,
+      "start_sec": 189.5,
+      "end_sec": 195.27
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "ブレーキを踏む相談だけで、法律の確認が要るのだ……大人の世界、めんどくさいのだ。",
+      "news_index": 2,
+      "start_sec": 195.42,
+      "end_sec": 203.73
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "まだ合意も決まったルールも無くて、提案の段階ね。すぐ何かが変わるわけじゃないわ。",
+      "news_index": 2,
+      "start_sec": 203.88,
+      "end_sec": 209.45
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "もし話がまとまったら、ボクたちはどうなるのだ?",
+      "news_index": 2,
+      "start_sec": 209.6,
+      "end_sec": 212.99
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "新しいAIが出てくる速さが、今ほど速くなくなるかもしれない、ってこと。",
+      "news_index": 2,
+      "start_sec": 213.14,
+      "end_sec": 218.03
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "新作ラッシュに置いていかれがちなボクには、ちょっとありがたいのだ。",
+      "news_index": 2,
+      "start_sec": 218.18,
+      "end_sec": 222.28
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目は、さっきのご近所トラブル。データセンターがアメリカで、大手IT企業への反発の中心になってる、ってテッククランチが書いたの。",
+      "news_index": 3,
+      "start_sec": 222.43,
+      "end_sec": 231.13
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "データセンターって、そもそも何の建物なのだ?",
+      "news_index": 3,
+      "start_sec": 231.28,
+      "end_sec": 234.76
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "AIやネットのサービスを動かしてる、巨大なサーバー倉庫よ。サーバーは熱くなるから、冷やすのに電気も水もたっぷり使うわ。",
+      "news_index": 3,
+      "start_sec": 234.91,
+      "end_sec": 242.65
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、だから電気と水でもめるのだ!",
+      "news_index": 3,
+      "start_sec": 242.8,
+      "end_sec": 245.41
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そういうこと。アプリは目に見えないけど、倉庫は町に建つ。電気代も水も騒音も、住民の暮らしに直結するのよ。",
+      "news_index": 3,
+      "start_sec": 245.56,
+      "end_sec": 253.36
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "どのくらい使ってるのだ?",
+      "news_index": 3,
+      "start_sec": 253.51,
+      "end_sec": 255.35
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "オレゴン州のザ・ダルズって町では、グーグルの使う水が町全体の二十九パーセントだったの。住民の疑問を受けた記者が情報を求めて、約一年後にやっと数字が出たのよ。",
+      "news_index": 3,
+      "start_sec": 255.5,
+      "end_sec": 267.09
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "町の水の三割近く!? ボクの家のシャワーが、ちょろちょろになっちゃうのだ!",
+      "news_index": 3,
+      "start_sec": 267.24,
+      "end_sec": 272.05
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "そこまで単純じゃないわ。怒りどころは、水を大量に使うことに加えて、その数字を隠そうとしたことね。",
+      "news_index": 3,
+      "start_sec": 272.2,
+      "end_sec": 278.68
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "知らされないって、どういうことなのだ?",
+      "news_index": 3,
+      "start_sec": 278.83,
+      "end_sec": 281.49
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "会社と町が、中身を外に言わない秘密の契約を結んでることが多かったの。マイクロソフトやアマゾン、オープンエーアイは、それをやめるって表明したわ。",
+      "news_index": 3,
+      "start_sec": 281.64,
+      "end_sec": 290.92
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ナイショの約束をやめるのだ。それで怒りは収まるのだ?",
+      "news_index": 3,
+      "start_sec": 291.07,
+      "end_sec": 295.37
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "記事の著者のパリス・マルクスさんは、効果は小さいって見てるわ。問題は秘密より、とにかく大きすぎることだって。",
+      "news_index": 3,
+      "start_sec": 295.52,
+      "end_sec": 302.87
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "巨大な倉庫が、町にどーんと来るのが問題ってことなのだ……。",
+      "news_index": 3,
+      "start_sec": 303.02,
+      "end_sec": 306.99
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "しかも反対の声は、共和党の人からも民主党の人からも出てるの。右も左も関係ない火種って話。",
+      "news_index": 3,
+      "start_sec": 307.14,
+      "end_sec": 314.05
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、AIの次の壁は、チップより電気と町の人のオッケーってことじゃん!",
+      "news_index": 3,
+      "start_sec": 314.2,
+      "end_sec": 319.4
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今の一言が正解。日本でもデータセンターは増えてるから、いずれ電気代の話として、私たちの家計にも回ってくるかもね。",
+      "news_index": 3,
+      "start_sec": 319.55,
+      "end_sec": 327.45
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ラスト四本目はお財布の話。アメリカのハイテク株が、ここのところ大きく下がってるの。",
+      "news_index": 4,
+      "start_sec": 327.53,
+      "end_sec": 332.96
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ハイテク株って、どれのことなのだ?",
+      "news_index": 4,
+      "start_sec": 333.11,
+      "end_sec": 335.68
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ナスダックっていう、IT企業が多く集まる株の市場があってね。報道だと、そこの指数が十月の最高値から、一割以上も下がったのよ。",
+      "news_index": 4,
+      "start_sec": 335.83,
+      "end_sec": 344.78
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "一割!? ボクのお年玉が、気づいたら一割減ってたってことなのだ!?",
+      "news_index": 4,
+      "start_sec": 344.93,
+      "end_sec": 349.61
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "感覚はそれね。特にエヌビディアは、十月六日の最高値から三割以上も下がってるって。",
+      "news_index": 4,
+      "start_sec": 349.76,
+      "end_sec": 355.69
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、AIのチップで一番強い会社じゃないのだ!?",
+      "news_index": 4,
+      "start_sec": 355.84,
+      "end_sec": 359.57
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "その会社が揺れてるの。十一月十一日にトップのジェンスン・フアンさんが辞めて、そのあと、アメリカの証券の見張り役が、投資家への説明に問題がなかったか調べてるってウォール・ストリート・ジャーナルが報じたのよ。",
+      "news_index": 4,
+      "start_sec": 359.72,
+      "end_sec": 373.35
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "社長が辞めて、調べられて……ボク、頭がぐるぐるなのだ。",
+      "news_index": 4,
+      "start_sec": 373.5,
+      "end_sec": 378.7
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "調査について会社はすぐにはコメントせず、役所もコメントを控えていて、全容はまだ分かってないわ。そこに、AIにこんなにお金を注いで回収できるのか、っていう疑いが重なった感じ。",
+      "news_index": 4,
+      "start_sec": 378.85,
+      "end_sec": 390.73
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "お祭りの屋台に、みんなが急に、それ本当にもうかるの? って聞き始めたのだ?",
+      "news_index": 4,
+      "start_sec": 390.88,
+      "end_sec": 396.77
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "うまいじゃない。期待だけで買われる時期から、ちゃんと稼げるかを問われる時期に入った、って見る人が多いの。",
+      "news_index": 4,
+      "start_sec": 396.92,
+      "end_sec": 403.33
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボク、株は持ってないのだ。関係ないってこと?",
+      "news_index": 4,
+      "start_sec": 403.48,
+      "end_sec": 407.05
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "直接はね。でも積み立ての投資信託でアメリカの株をまとめて買ってる人は、残高が減って見えてるかも。慌てる前に、自分が何を買ってるか確かめるくらいがちょうどいいわ。",
+      "news_index": 4,
+      "start_sec": 407.2,
+      "end_sec": 417.63
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "朝から通帳とにらめっこは、やめておくのだ。",
+      "news_index": 4,
+      "start_sec": 417.78,
+      "end_sec": 420.88
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "要するに、AIブームが成績表を見せる時期に入ったって話。",
+      "news_index": 4,
+      "start_sec": 421.03,
+      "end_sec": 425.42
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今朝は四本。クロームの大型修理、AIの急ブレーキ案、データセンターのご近所トラブル、そしてハイテク株の下げだったわ。",
+      "news_index": 0,
+      "start_sec": 425.5,
+      "end_sec": 433.59
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ボクはまず再起動なのだ! 一番簡単で、一番大事なのだ!",
+      "news_index": 0,
+      "start_sec": 433.74,
+      "end_sec": 438.31
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "えらいじゃない。気になったのがあったら、各社の発表や報道ものぞいてみてね。",
+      "news_index": 0,
+      "start_sec": 438.46,
+      "end_sec": 443.33
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "株の話だけ、ちょっとしょんぼりしたのだ……。",
+      "news_index": 0,
+      "start_sec": 443.48,
+      "end_sec": 447.23
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "朝から涙目にならないの。聴いてくれてるかた、いってらっしゃい。また明日のテック朝便で。",
+      "news_index": 0,
+      "start_sec": 447.38,
+      "end_sec": 452.94
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "いってらっしゃいなのだー!",
+      "news_index": 0,
+      "start_sec": 453.09,
+      "end_sec": 454.59
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 455.29,
+      "end_sec": 463.59
+    }
+  ],
+  "wall_time_sec": 12.16,
+  "audio_url": "/audio/ai/20261123_050559.mp3?v=1795384969"
+}

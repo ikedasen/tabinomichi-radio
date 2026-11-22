@@ -7,8 +7,8 @@
     <description>ずんだもん × めたん × つむぎが届ける、ゲーム &amp; テックニュース雑談ラジオ。朝便と夜便で毎日更新、レトロから新作まで、最新 AI 動向から業界マクロまで雑談形式でサクッと。</description>
     <language>ja</language>
     <copyright>© 2026 tabinomichi</copyright>
-    <lastBuildDate>Mon, 23 Nov 2026 02:40:15 +0900</lastBuildDate>
-    <pubDate>Mon, 23 Nov 2026 02:36:42 +0900</pubDate>
+    <lastBuildDate>Mon, 23 Nov 2026 07:02:52 +0900</lastBuildDate>
+    <pubDate>Mon, 23 Nov 2026 07:01:42 +0900</pubDate>
     <generator>build_rss_feed.py (tabinomichi radio)</generator>
     <image>
       <url>https://news.tabinomichi.jp/podcast-cover.png?v=1779005902</url>
@@ -29,6 +29,21 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>再起動と急ブレーキの朝 〜二百四の穴と、町の水を飲む倉庫〜</title>
+      <link>https://news.tabinomichi.jp/radio/20261123_050559</link>
+      <guid isPermaLink="false">tabinomichi-radio-20261123_050559</guid>
+      <pubDate>Mon, 23 Nov 2026 07:01:42 +0900</pubDate>
+      <description>月曜朝のテック雑談回。グーグルのブラウザ、クローム百五十八がセキュリティの穴を二百四件ふさぎ、重大な六件のうち二件はクロードと組んだ研究者が見つけた話。オープンエーアイのチーフサイエンティストが、AIが一定の賢さを超えたら各社そろって立ち止まる共通の上限を提案した話と、その相談に独占禁止法の壁がある話。アメリカでデータセンターが電気と水と秘密の契約をめぐって住民の反発を集め、町の水の約三割をグーグルが使っていた例。そしてナスダックの下げとエヌビディアの揺れで、AIブームが成績表を問われる時期に入った話まで、生活目線でサクッとまとめる回。</description>
+      <content:encoded><![CDATA[月曜朝のテック雑談回。グーグルのブラウザ、クローム百五十八がセキュリティの穴を二百四件ふさぎ、重大な六件のうち二件はクロードと組んだ研究者が見つけた話。オープンエーアイのチーフサイエンティストが、AIが一定の賢さを超えたら各社そろって立ち止まる共通の上限を提案した話と、その相談に独占禁止法の壁がある話。アメリカでデータセンターが電気と水と秘密の契約をめぐって住民の反発を集め、町の水の約三割をグーグルが使っていた例。そしてナスダックの下げとエヌビディアの揺れで、AIブームが成績表を問われる時期に入った話まで、生活目線でサクッとまとめる回。]]></content:encoded>
+      <enclosure url="https://news.tabinomichi.jp/audio/ai/20261123_050559.mp3?v=1795384969" length="7418400" type="audio/mpeg"/>
+      <itunes:title>再起動と急ブレーキの朝 〜二百四の穴と、町の水を飲む倉庫〜</itunes:title>
+      <itunes:summary>月曜朝のテック雑談回。グーグルのブラウザ、クローム百五十八がセキュリティの穴を二百四件ふさぎ、重大な六件のうち二件はクロードと組んだ研究者が見つけた話。オープンエーアイのチーフサイエンティストが、AIが一定の賢さを超えたら各社そろって立ち止まる共通の上限を提案した話と、その相談に独占禁止法の壁がある話。アメリカでデータセンターが電気と水と秘密の契約をめぐって住民の反発を集め、町の水の約三割をグーグルが使っていた例。そしてナスダックの下げとエヌビディアの揺れで、AIブームが成績表を問われる時期に入った話まで、生活目線でサクッとまとめる回。</itunes:summary>
+      <itunes:image href="https://news.tabinomichi.jp/images/og/20261123_050559.jpg"/>
+      <itunes:duration>7:43</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>中華麺が黄色いのは卵のせいではない 〜かんすいが出す黄色の大半は、まだ正体不明〜</title>
       <link>https://news.tabinomichi.jp/radio/20261123_023642</link>
@@ -1511,21 +1526,6 @@
       <itunes:summary>深海魚が水圧で潰れないのは体の中も外も同じ圧だから、という説明は半分しか合っていない、という話。【問い】では水深8,336メートルで撮影されたスネイルフィッシュが、頑丈どころかぶよぶよの体だと確認。【解説】では、圧力で壊れるのは体ではなくタンパク質で、水の粒がすき間に押し込まれて形がゆがむこと、それを防ぐ物質トリメチルアミンオキシドが深さに比例して増えること、増やすほど体液が濃くなり、およそ8,200メートルで海水と同じ濃さになり、8,000メートルから8,500メートルあたりが魚の限界になるという仮説を追った。【広がり】では、もっと深くに住むエビの仲間、魚の生臭さの正体、圧力を逆手に取る食品の高圧処理まで話した。</itunes:summary>
       <itunes:image href="https://news.tabinomichi.jp/images/og/20260930_210600.jpg"/>
       <itunes:duration>13:30</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>席が用意される朝 〜机に座るAIと、月500ドルの特等席〜</title>
-      <link>https://news.tabinomichi.jp/radio/20260930_170730</link>
-      <guid isPermaLink="false">tabinomichi-radio-20260930_170730</guid>
-      <pubDate>Thu, 01 Oct 2026 05:01:39 +0900</pubDate>
-      <description>オープンエーアイが九月二十九日に開いた開発者向け発表会を中心に、今朝のテック話題を五本サクッとまとめる回。チャットジーピーティーにチームで使う共有の作業場と、人とAIが一緒に書ける文書やスライドが加わった話。十月に出す予定だった最上位のAIが社内の安全試験で基準に届かず見送られ、代わりにおよそ5分の1の値段の新型が出た話。寝ている間も働き続ける二十四時間稼働のAIエージェント、ドッツの登場。フロリダ州の司法長官が、第三者の安全チェックなしの開発を止めるよう裁判所に求めた動き。そして月500ドルの新プランと、月200ドルのプランで使える量が半分になる値札の話まで、ずんだもんと四国めたんが噛み砕いてお届けします。</description>
-      <content:encoded><![CDATA[オープンエーアイが九月二十九日に開いた開発者向け発表会を中心に、今朝のテック話題を五本サクッとまとめる回。チャットジーピーティーにチームで使う共有の作業場と、人とAIが一緒に書ける文書やスライドが加わった話。十月に出す予定だった最上位のAIが社内の安全試験で基準に届かず見送られ、代わりにおよそ5分の1の値段の新型が出た話。寝ている間も働き続ける二十四時間稼働のAIエージェント、ドッツの登場。フロリダ州の司法長官が、第三者の安全チェックなしの開発を止めるよう裁判所に求めた動き。そして月500ドルの新プランと、月200ドルのプランで使える量が半分になる値札の話まで、ずんだもんと四国めたんが噛み砕いてお届けします。]]></content:encoded>
-      <enclosure url="https://news.tabinomichi.jp/audio/ai/20260930_170730.mp3?v=1790798566" length="7783696" type="audio/mpeg"/>
-      <itunes:title>席が用意される朝 〜机に座るAIと、月500ドルの特等席〜</itunes:title>
-      <itunes:summary>オープンエーアイが九月二十九日に開いた開発者向け発表会を中心に、今朝のテック話題を五本サクッとまとめる回。チャットジーピーティーにチームで使う共有の作業場と、人とAIが一緒に書ける文書やスライドが加わった話。十月に出す予定だった最上位のAIが社内の安全試験で基準に届かず見送られ、代わりにおよそ5分の1の値段の新型が出た話。寝ている間も働き続ける二十四時間稼働のAIエージェント、ドッツの登場。フロリダ州の司法長官が、第三者の安全チェックなしの開発を止めるよう裁判所に求めた動き。そして月500ドルの新プランと、月200ドルのプランで使える量が半分になる値札の話まで、ずんだもんと四国めたんが噛み砕いてお届けします。</itunes:summary>
-      <itunes:image href="https://news.tabinomichi.jp/images/og/20260930_170730.jpg"/>
-      <itunes:duration>8:06</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
