@@ -1,0 +1,816 @@
+{
+  "profile": "indie",
+  "generated_at": "2026-11-24T05:01:57+09:00",
+  "title": "二年で燃える血の灯 〜俺の屍を越えてゆけ、継がれる一族の京〜",
+  "audio_path": "indie_latest.wav",
+  "duration_sec": 432.78,
+  "script_hash": "sha256:2631fe787acd7b52c0b4f35d8611a6387831d86202be5fb3afb91b4790440f19",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 4.64
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "旅の道ラジオへようこそなのだ！ 今回はレトロゲーム回なのだー！",
+      "news_index": 0,
+      "start_sec": 4.64,
+      "end_sec": 8.87
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "またまた、あーしが担当するっすよー！ 今回のテーマは『俺の屍を越えてゆけ』、一族を何世代もつないで鬼を討つ平安京のRPGっす！",
+      "news_index": 0,
+      "start_sec": 9.02,
+      "end_sec": 18.2
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "タイトルが物騒すぎるのだ。 ボクの屍を越えられたら、ずんだ餅がつぶれちゃうのだ。",
+      "news_index": 1,
+      "start_sec": 18.35,
+      "end_sec": 24.4
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "先輩を踏む話じゃないっす w 親の世代が倒れても、子どもが意志を継いで先へ進むって意味っすよ。",
+      "news_index": 1,
+      "start_sec": 24.55,
+      "end_sec": 30.63
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "要するに、タイトルそのものが世代交代の宣言ってことなのだ。",
+      "news_index": 1,
+      "start_sec": 30.78,
+      "end_sec": 34.95
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "それっす。 通称はオレシカっす、覚えて帰ってほしいっす。",
+      "news_index": 1,
+      "start_sec": 35.1,
+      "end_sec": 38.99
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "発売は1999年6月17日、初代プレステっす。 発売元はソニー・コンピュータエンタテインメント、開発はアルファ・システムっす。",
+      "news_index": 1,
+      "start_sec": 39.07,
+      "end_sec": 48.78
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "1999年って、ボクのずんだ餅が何万回カビたか分からない大昔なのだ…。",
+      "news_index": 1,
+      "start_sec": 48.93,
+      "end_sec": 55.71
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "餅で年代を測らないでほしいっす w 世紀末ギリギリの年っすよ。",
+      "news_index": 1,
+      "start_sec": 55.86,
+      "end_sec": 60.07
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "つまり、世紀末に滑り込んだゲームってことなのだ。",
+      "news_index": 1,
+      "start_sec": 60.22,
+      "end_sec": 63.67
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ゲームデザインは桝田省治さんっす。 あーし、この名前見ると背筋が伸びるっす。",
+      "news_index": 1,
+      "start_sec": 63.82,
+      "end_sec": 68.73
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "ますださん、きっと毎晩お酒を升で量って暮らしてるのだ。",
+      "news_index": 1,
+      "start_sec": 68.88,
+      "end_sec": 73.2
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "升は関係ないっす、字も違うっす w 要するにゲームの設計の中心にいた人ってことっす。",
+      "news_index": 1,
+      "start_sec": 73.35,
+      "end_sec": 79.02
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kangae",
+      "text": "当時の定価は税抜5,800円っす。 あーしのお年玉スケールだと、ガチで手が届かないやつっす。",
+      "news_index": 1,
+      "start_sec": 79.1,
+      "end_sec": 85.67
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "5,800円…ずんだ餅に換算すると、ええと、頭がぐるぐるするのだ。",
+      "news_index": 1,
+      "start_sec": 85.82,
+      "end_sec": 92.53
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "換算しなくていいっす。 当時のプレステ新作としては普通の値段ってことっす。",
+      "news_index": 1,
+      "start_sec": 92.68,
+      "end_sec": 97.35
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "で、ここからが本題っす。 主人公の一族は、朱点童子って鬼に二つの呪いをかけられてるっす。",
+      "news_index": 1,
+      "start_sec": 97.43,
+      "end_sec": 103.79
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "二つも? 呪いは一個でもお腹いっぱいなのだ。",
+      "news_index": 1,
+      "start_sec": 103.94,
+      "end_sec": 106.91
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "一つ目は短命の呪いで、だいたい二年しか生きられないっす。 二つ目は種絶の呪いで、人間との間に子どもを作れないっす。",
+      "news_index": 1,
+      "start_sec": 107.06,
+      "end_sec": 114.63
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "二年…ボクのスマホの機種変より短いのだ…。",
+      "news_index": 1,
+      "start_sec": 114.78,
+      "end_sec": 118.68
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "スマホと比べるのやめてほしいっす、泣けてくるっす。 でもその二年でキャラが育って、衰えて、次に託すっす。",
+      "news_index": 1,
+      "start_sec": 118.83,
+      "end_sec": 125.78
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "要するに、一人ひとりの人生がぎゅっと濃縮されてるってことなのだ。",
+      "news_index": 1,
+      "start_sec": 125.93,
+      "end_sec": 130.38
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "それっす先輩、さすがっす！",
+      "news_index": 1,
+      "start_sec": 130.53,
+      "end_sec": 132.55
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "でも人間と子どもが作れないなら、一族は終わっちゃうのだ?",
+      "news_index": 1,
+      "start_sec": 132.7,
+      "end_sec": 136.77
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そこで交神っす。 神様と結ばれて、次の世代を授かるっす。",
+      "news_index": 1,
+      "start_sec": 136.92,
+      "end_sec": 141.2
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "こうしん? アプリのアップデートみたいなものなのだ? 一族のバージョンが上がるのだ!",
+      "news_index": 1,
+      "start_sec": 141.35,
+      "end_sec": 147.22
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "アプリじゃないっす w でも選ぶ神様で子どもの見た目や能力が変わるから、ある意味アップデートかもっす。",
+      "news_index": 1,
+      "start_sec": 147.37,
+      "end_sec": 153.3
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ボク、今日初めて正解の近くに着地したのだ…。",
+      "news_index": 1,
+      "start_sec": 153.45,
+      "end_sec": 157.18
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "要するに、血筋を設計していく育成ゲームでもあるってことっす。",
+      "news_index": 1,
+      "start_sec": 157.33,
+      "end_sec": 161.36
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "あーしなんか、どの神様と組ませるか毎回ノートに家系図書いてたっす！ 能力の伸びとか見た目の遺伝とか、妄想が止まらなかったっす！",
+      "news_index": 1,
+      "start_sec": 161.44,
+      "end_sec": 169.51
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "つむぎ、目が完全にオタクなのだ。 リスナーの皆、今のは聞かなかったことにしてほしいのだ。",
+      "news_index": 1,
+      "start_sec": 169.66,
+      "end_sec": 175.75
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsukuriwarai",
+      "text": "あーし今めっちゃキモいっすね、すんません。",
+      "news_index": 1,
+      "start_sec": 175.9,
+      "end_sec": 178.62
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "でも家系図ノート、ちょっと見てみたいのだ…。",
+      "news_index": 1,
+      "start_sec": 178.77,
+      "end_sec": 181.4
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "ギャル友達には、家系図ノートの存在は絶対言えないっす。",
+      "news_index": 1,
+      "start_sec": 181.55,
+      "end_sec": 185.32
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "そもそも、つむぎにギャル友達っているのだ? 家系図の中の人たちのことなのだ?",
+      "news_index": 1,
+      "start_sec": 185.47,
+      "end_sec": 191.43
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "shirake",
+      "text": "…先輩。",
+      "news_index": 1,
+      "start_sec": 191.58,
+      "end_sec": 192.4
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "な、なんでもないのだ…ごめんなさいなのだ…。",
+      "news_index": 1,
+      "start_sec": 192.55,
+      "end_sec": 196.49
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "コホン、話戻すっす。 都を拠点に、迷宮へ出て鬼を倒して一族を鍛えていくっす。",
+      "news_index": 1,
+      "start_sec": 196.64,
+      "end_sec": 202.59
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "しかも、その間にも時間はどんどん進んでいくっす。",
+      "news_index": 1,
+      "start_sec": 202.67,
+      "end_sec": 205.97
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "鬼退治しながら子育てもして、時間も止まらないのだ? 情報量が多すぎてぐるぐるなのだ…。",
+      "news_index": 1,
+      "start_sec": 206.12,
+      "end_sec": 213.61
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "それがオレシカの忙しさっす。 戦闘RPGと家族経営シミュレーションを同時に回すノリっすね。",
+      "news_index": 1,
+      "start_sec": 213.76,
+      "end_sec": 219.89
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kangae",
+      "text": "あと健康度ってステータスもあって、それを気にしながら動かすっす。",
+      "news_index": 1,
+      "start_sec": 219.97,
+      "end_sec": 224.12
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "ボクの健康度はゼロ寄りなのだ。 昨日もずんだ餅を食べすぎたのだ。",
+      "news_index": 1,
+      "start_sec": 224.27,
+      "end_sec": 230.55
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "先輩の健康診断の話はしてないっす w 要するに、命の残り時間まで作戦に入ってくるゲームってことっす。",
+      "news_index": 1,
+      "start_sec": 230.7,
+      "end_sec": 237.84
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "sasayaki",
+      "text": "ここからガチで語らせてもらうっすけど…キャラとのお別れ、何回来ても慣れないっす。",
+      "news_index": 1,
+      "start_sec": 237.92,
+      "end_sec": 243.01
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "二年かけて育てて、二年でお別れなのだ…。",
+      "news_index": 1,
+      "start_sec": 243.16,
+      "end_sec": 246.09
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そうっす。 でも子どもや孫が同じ迷宮に挑むと、ちゃんと先代の背中を越えてる感じがするっす。",
+      "news_index": 1,
+      "start_sec": 246.24,
+      "end_sec": 252.31
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "それがタイトル回収ってことなのだ!",
+      "news_index": 1,
+      "start_sec": 252.46,
+      "end_sec": 254.76
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "先輩、今日冴えてるっす！ 要するに、仕組みそのものでタイトルを体験させる作りっす。",
+      "news_index": 1,
+      "start_sec": 254.91,
+      "end_sec": 260.38
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "当時の評判はどうだったのだ? ボクだったら泣きすぎて干からびるのだ。",
+      "news_index": 1,
+      "start_sec": 260.53,
+      "end_sec": 264.97
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "世代をまたいで家督が移っていく展開は、大河ドラマみたいって例えたくなるっす。 今でも名作として名前が挙がる一本っす。",
+      "news_index": 1,
+      "start_sec": 265.12,
+      "end_sec": 272.54
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "大河ドラマなら、毎週日曜に一族の主役が交代するのだ!",
+      "news_index": 1,
+      "start_sec": 272.69,
+      "end_sec": 277.56
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "毎週交代したら役者さんが大変っす w でも主役がどんどん替わっていく感じは、まさにそれっす。",
+      "news_index": 1,
+      "start_sec": 277.71,
+      "end_sec": 283.68
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "kangae",
+      "text": "ただ正直に言うと、世代交代をくり返すじっくり型の作りだから、好みは分かれるかもしれないっす。",
+      "news_index": 1,
+      "start_sec": 283.76,
+      "end_sec": 290.35
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "つまり、名作でも合う合わないはあるってことなのだ。",
+      "news_index": 1,
+      "start_sec": 290.5,
+      "end_sec": 294.35
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そうっす。 それでも、好きな人は一生好きなタイプの作品っす。",
+      "news_index": 1,
+      "start_sec": 294.5,
+      "end_sec": 298.61
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "あと主題歌の『花』っす！ 樹原涼子さんが歌った曲で、あーしの脳に焼き付いてるっす。",
+      "news_index": 1,
+      "start_sec": 298.69,
+      "end_sec": 304.59
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "花って、ずんだの花のことなのだ? 枝豆の花はかわいいのだ!",
+      "news_index": 1,
+      "start_sec": 304.74,
+      "end_sec": 309.73
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "先輩、なんでも枝豆に寄せないでほしいっす w 聴いたことない人は、検索して聴いてみてほしいっす。",
+      "news_index": 1,
+      "start_sec": 309.88,
+      "end_sec": 316.1
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "一族の物語にそっと寄り添う曲ってことなのだ。",
+      "news_index": 1,
+      "start_sec": 316.25,
+      "end_sec": 319.68
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "そのあとも息が長くて、2007年にゲームアーカイブスで配信、2011年にはPSPでリメイクされたっす。",
+      "news_index": 1,
+      "start_sec": 319.83,
+      "end_sec": 326.95
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "携帯機になって、一族を持ち歩けるようになったのだ!",
+      "news_index": 1,
+      "start_sec": 327.1,
+      "end_sec": 331.32
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "一族を持ち歩くって言い方、ちょっと怖いっす w でも布団の中で家系図を育てられるようになったのは大きいっす。",
+      "news_index": 1,
+      "start_sec": 331.47,
+      "end_sec": 338.17
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "2014年には、PS Vitaで続編の『俺の屍を越えてゆけ2』も出てるっす。",
+      "news_index": 1,
+      "start_sec": 338.25,
+      "end_sec": 343.97
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "続編まで! 一族の屍がどんどん積み上がってるのだ!",
+      "news_index": 1,
+      "start_sec": 344.12,
+      "end_sec": 348.46
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "言い方っす w 要するに、シリーズとしても世代をつないでるってことっす。",
+      "news_index": 1,
+      "start_sec": 348.61,
+      "end_sec": 353.04
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "そして2024年4月16日からは、プレステ5とプレステ4でも遊べるっす！ PlayStation Plusのクラシックスカタログで、PSP版ベースに巻き戻しやクイックセーブも付いてるっす！",
+      "news_index": 1,
+      "start_sec": 353.12,
+      "end_sec": 364.7
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "巻き戻し! それなら二年の寿命も巻き戻せるのだ!",
+      "news_index": 1,
+      "start_sec": 364.85,
+      "end_sec": 368.31
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "namidame",
+      "text": "そういう使い方じゃないっすよー…たぶん。 でも遊びやすさはガチで上がってるっす。",
+      "news_index": 1,
+      "start_sec": 368.46,
+      "end_sec": 373.46
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "つまり、今から始める人にも優しくなったってことなのだ。",
+      "news_index": 1,
+      "start_sec": 373.61,
+      "end_sec": 377.49
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "hisohiso",
+      "text": "オタクくんにだけ言っとくっすけど、後半の物語は、ぜひ自分でプレイして味わってほしいっす。 中身は絶対言わないっす。",
+      "news_index": 1,
+      "start_sec": 377.64,
+      "end_sec": 385.87
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "hisohiso",
+      "text": "ボクも聞かないのだ。 今、耳ふさいでるのだ。",
+      "news_index": 1,
+      "start_sec": 386.02,
+      "end_sec": 389.28
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "normal",
+      "text": "えらいっす先輩。 自分の一族で確かめてほしいっす。",
+      "news_index": 1,
+      "start_sec": 389.43,
+      "end_sec": 392.84
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "ボクも始めてみたいのだ! 交神で、一族のバージョンを上げまくるのだ!",
+      "news_index": 1,
+      "start_sec": 392.99,
+      "end_sec": 398.17
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "tsuntsun",
+      "text": "まだアップデート扱いしてるっす w でもその勢いで家系図ノート作ったら、立派な同志っす。",
+      "news_index": 1,
+      "start_sec": 398.32,
+      "end_sec": 403.9
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "二年の命をつないで、最後に誰が鬼の前に立つのか。 それを自分で見届けるゲームってことなのだ。",
+      "news_index": 1,
+      "start_sec": 404.05,
+      "end_sec": 410.72
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "完璧な要約っす、先輩！ 気になったオタクくんは、ぜひ自分の一族を立ち上げてみてほしいっす！",
+      "news_index": 1,
+      "start_sec": 410.87,
+      "end_sec": 417.2
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "今回の旅の道ラジオはここまでなのだ！ また旅の道ラジオで会いましょうなのだー！",
+      "news_index": 1,
+      "start_sec": 417.35,
+      "end_sec": 422.49
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "tsumugi",
+      "tone": "amaama",
+      "text": "会いましょうっすー！ ばいばいっす！",
+      "news_index": 1,
+      "start_sec": 422.64,
+      "end_sec": 424.62
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 425.32,
+      "end_sec": 432.78
+    }
+  ],
+  "wall_time_sec": 16.67,
+  "audio_url": "/audio/indie/20261124_050157.mp3?v=1795471389"
+}

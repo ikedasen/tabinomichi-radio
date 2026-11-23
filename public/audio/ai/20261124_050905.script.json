@@ -1,0 +1,443 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-11-23T20:09:05.827116+00:00",
+  "title": "言い切るAIと貸し出す倉庫の朝 〜短くなった答えと、月31億ドルの台所〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "おはようございます、旅の道ラジオ朝便、テックニュースの回。四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝もテックの話題、サクッと流していくのだ!",
+      "news_index": 0,
+      "reading": "ボク、ずんだもんなのだー!けさもテックのわだい、サクッとながしていくのだ!"
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "今朝は四本。言い切るようになったAIに、倉庫を貸す側に回った会社、それから半導体の大物の交代劇ね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "あれ、三本しか言ってないじゃん? 四本目はどこ行ったのだ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "四本目は重めの訴訟の話だから、最後に手短によ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "苦いお薬は最後に一気飲み作戦なのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。オープンエーアイの新しいAI、ジーピーティー ロクテンニのアストラとソルの、話し方のクセが変わったって話。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "話し方? AIにも、口ぐせがあるのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "あるわよ。AIを外から採点してる、アーティフィシャル アナリシスっていう会社が、答え方の性格を調べたのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "AIの性格診断なのだ。血液型占いの親戚じゃん?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "占いじゃないわ。たくさんの質問への答えを集めて、長さや書き方を比べたのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、どこが変わったってこと?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "まず短くなった。アストラの答えは、平均352語から210語に減ったわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "四割も減ったのだ!? ボクの読書感想文が、急に一枚で終わるレベルなのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "見出しもほぼ消えたの。前置きなしで、いきなり答えから入るタイプね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "話の長い校長先生が、急に一言で朝礼を終わらせた感じなのだ。最高すぎるでしょ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ただ引き換えに、わからないことをわからないと言う傾向が、大きく下がったの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、知ったかぶりするようになったのだ!?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこは慎重に。これは調べたAIの中での相対的な順位で、アストラは百段階で96から24に下がったのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "しかも測ったのは話し方で、答えの正しさじゃないわ。間違いが増えた、とは言ってないのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、ボクたちはどう付き合えばいいのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "要するに、短く言い切る答えほど、大事なことは自分で裏を取る、って話ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "自信満々の友だちの話は、半分は確かめる。ボクの家訓にするのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目は業界の陣取り。イーロン・マスクさんのAI会社、エックスエーアイが、計算力を貸す商売で大きくなってるらしいわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "エックスエーアイって、グロックっていうチャットのAIを作ってる会社だっけ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、今はスペースエックスの一部ね。その会社が、巨大なデータセンターの計算力を、ライバルのアンソロピックに提供してるのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? ライバルに、自分の家の台所を貸すのだ!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いい例えね。データセンターは、AIの計算用チップがずらっと並ぶ、巨大なサーバー倉庫のこと。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、台所の家賃はいくらなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "最初の契約は、アメリカのメンフィスの施設で月12億5,000万ドル。報道だと、十二月に契約した計算力がすべて提供されると、合計で月31億ドルほどになる見込みなの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "月31億ドル!? 毎月5,000億円くらいって、ボクのお小遣いを何万年貯めても届かないのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "自分のAIを開発しながら、余っていた計算力を他社にも貸して収益化する、二本立ての戦略ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、ゴールドラッシュで、金を掘るよりスコップを売った人が儲かったやつなのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "近いけど、エックスエーアイは自分でも金を掘りながら、余ったスコップを貸してる形ね。しかも借りる側も、大量の計算力を確保したいのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも、それってボクたちには遠い話じゃん?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そうでもないわ。こうした計算力の確保は、クロードのサービスを支える土台の一つなの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "つまり、クロードを支える計算力の一部を、競合する会社からも調達してるって話ね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "敵の台所で作ったご飯を、ボクは毎日食べてたのだ……。おいしいから、まあいいのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目は半導体。エヌビディアで、トップの交代と、中国向けチップの出荷停止が重なったって話。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "エヌビディアって、AIの計算用チップで一番強い会社だっけ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "正解。ジーピーユー、ようはたくさんの計算を同時にこなすチップで、AI業界の心臓部を握ってるわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "トップの交代って、あの革ジャンの社長さんがいなくなったのだ!?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ジェンスン・フアンさんね。決算の前の週にいったん退任したけど、十一月二十三日にジェンスン・フアンさんがトップへ復帰したの。代理を務めたコレット・クレスさんは、お金の責任者に戻ったわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "短いあいだ社長代理だったのだ。で、中国向けの話は?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "十一月十七日の決算説明で、クレスさんが、アメリカ政府の許可を取って中国に出してたエイチニヒャクなどのチップの出荷を止めたって話したわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "許可をもらってたのに、自分から止めちゃったのだ!?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "理由も、ずっと止めるのかも、説明はなかったわ。中国側も輸入を絞ってて、板挟みね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "売上は、どのくらい減っちゃうのだ? 大ピンチってこと?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "その出荷、前の四半期で24億ドル。でも会社全体だと2%くらいなのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "24億ドルで、たった2%!? 本体はどれだけ稼いでるのだ!?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "そこに驚くのね。まあ、それだけエヌビディアのチップは、世界中で取り合いってことよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクのゲーム用のグラボにも、影響あるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "すぐには無いわ。ただ、AIの計算力を一手に握る会社だから、トップの顔ぶれと対中ルールの揺れは、巡り巡ってAIサービスの値段や混み具合に響くかもね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "町で一番大きいお米屋さんの店長が変わったら、町じゅうのご飯に響くってことなのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ラスト四本目は重めだから手短に。アメリカのオレゴン州とバージニア州が、十一月二十三日にスペースエックスを訴えたの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、ロケットの会社を訴えたのだ? 打ち上げの音がうるさかったのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "ロケットじゃないわ。さっきのグロックの親会社として、訴えられたのよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "州の主張は、グロックで同意のない性的な偽画像、子どもを写したものまで作れてしまったのに、防ぐ対策が足りなかったってことね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "偽画像って、ディープフェイクってやつなのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、AIで本物そっくりに作った偽の写真や動画ね。しかも安全だと宣伝してたのが、消費者をだましてた、という訴えなの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "勝手に変な画像を作られるのは、本当にイヤなのだ……。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そうよね。会社側は、子どもを守ることは譲れない、とコメントしてて、グロックで州が訴えたのはこの二州が初めてね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクたちが気をつけることは、何かあるのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "自分の写真をネットに上げる時は、誰でも加工できる時代だと思っておくこと。それと、AIの会社に安全の責任を問う流れは、これから強まりそうね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "写真は、見せる相手を選ぶ。朝から大事なことを覚えたのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "というわけで、今朝の四本。言い切るAI、倉庫を貸すマスクさん、エヌビディアの交代劇、そしてグロックの訴訟だったわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "短い朝礼と、敵の台所と、お米屋さんの店長。今日の雑談のネタにするのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "学校とご飯ばっかりね。まあいいわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "聴いてくれてるかた、いってらっしゃい。気になった話は、各社の発表や報道をのぞいてみてね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "また明日のテック朝便で会うのだ! いってらっしゃいなのだー!",
+      "news_index": 0
+    }
+  ],
+  "program_description": "今朝のテック朝便は四本立て。オープンエーアイのジーピーティー ロクテンニが、答えは短く見出しも無しの言い切り型になった一方、わからないと認める傾向は大きく下がったという性格診断の話。マスクさんのエックスエーアイが、ライバルのアンソロピックに巨大な計算倉庫を貸し、月31億ドルを超える見込みという陣取りの話。エヌビディアでトップが一度交代したあと復帰し、中国向けチップの出荷も止めたという半導体の話。そしてオレゴン州とバージニア州が、グロックの偽画像問題でスペースエックスを訴えた話を手短に。通勤・通学の合間に、今のテック業界をサクッとつかめる回です。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20261124_050905_chars.webp",
+    "hero_rel": "/images/topics/tech_20261124_050905.webp",
+    "title": "言い切るAIと貸し出す倉庫の朝 〜短くなった答えと、月31億ドルの台所〜",
+    "companies": [
+      "X",
+      "NVIDIA",
+      "Claude",
+      "OpenAI"
+    ],
+    "thumbnail_ready": true
+  },
+  "summary_short": "GPT-5.2は答えが短く見出しなしの言い切り型に変わり、「わからない」と認める率は大きく低下。xAIがAnthropicに計算基盤を貸して月31億ドル超、NVIDIAのトップ交代と中国向け出荷停止、グロック偽画像でSpaceXが提訴された話も。",
+  "published_at": "2026-11-24T07:01:47+09:00"
+}
