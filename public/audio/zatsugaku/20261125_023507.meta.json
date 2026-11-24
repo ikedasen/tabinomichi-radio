@@ -1,0 +1,1306 @@
+{
+  "profile": "zatsugaku",
+  "generated_at": "2026-11-25T02:35:07+09:00",
+  "title": "雨は雲の水滴がそのまま落ちてきたものではない 〜夏の雨も、空の上では氷だった話〜",
+  "audio_path": "zatsugaku_latest.wav",
+  "duration_sec": 692.06,
+  "script_hash": "sha256:a3e7b09663b7dfbbe27ef728f35db24063f289fbe6e0b7ba4259f54e56c27ecc",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 4.69
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "mic",
+      "text": "旅の道ラジオ、雑学チャンネル。あんこもんだもん。",
+      "news_index": 0,
+      "start_sec": 4.69,
+      "end_sec": 8.14
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ずんだもんなのだ! 今日はどんなネタを持ってきたのだ?",
+      "news_index": 0,
+      "start_sec": 8.29,
+      "end_sec": 11.59
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "今日のお題は、雨だもん。雨って、どうやってできてると思う?",
+      "news_index": 0,
+      "start_sec": 11.74,
+      "end_sec": 16.1
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "空の水蒸気が冷えて水滴になって、重くなったら落ちてくるのだ!",
+      "news_index": 0,
+      "start_sec": 16.25,
+      "end_sec": 20.6
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "合ってはいるけど、それだけじゃ全然足りないもん。",
+      "news_index": 0,
+      "start_sec": 20.75,
+      "end_sec": 23.62
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "今日こそ、ずんだもんに負けを認めさせるんだもん。",
+      "news_index": 0,
+      "start_sec": 23.7,
+      "end_sec": 26.58
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shirake",
+      "text": "雨の話で負けるとか、ありえないのだ。",
+      "news_index": 0,
+      "start_sec": 26.73,
+      "end_sec": 29.58
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "じゃあ聞くけど、雲の水滴って、なんですぐ落ちてこないの?",
+      "news_index": 0,
+      "start_sec": 29.73,
+      "end_sec": 33.64
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "え、それは……まだ軽いからなのだ?",
+      "news_index": 1,
+      "start_sec": 33.79,
+      "end_sec": 36.62
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "そう、そこが最初の謎なんだもん。",
+      "news_index": 1,
+      "start_sec": 36.77,
+      "end_sec": 39.17
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "雲の粒の大きさは、半径でだいたい0.01ミリ。髪の毛の太さの5分の1くらいしかないんだもん。",
+      "news_index": 1,
+      "start_sec": 39.25,
+      "end_sec": 45.93
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ちっちゃ! ずんだ餅のつぶつぶより、ずっとちっちゃいのだ!",
+      "news_index": 1,
+      "start_sec": 46.08,
+      "end_sec": 49.82
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "一方で、雨粒は半径1ミリくらいのものが普通にあるもん。",
+      "news_index": 1,
+      "start_sec": 49.97,
+      "end_sec": 54.17
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "0.01ミリと1ミリってことは、100倍なのだ?",
+      "news_index": 1,
+      "start_sec": 54.32,
+      "end_sec": 58.16
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "半径は100倍。でも体積で比べると、100の3乗で100万倍なんだもん。",
+      "news_index": 1,
+      "start_sec": 58.31,
+      "end_sec": 63.35
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "100万倍!? じゃあ雨粒1つは、雲の粒100万個ぶんの水なのだ?",
+      "news_index": 1,
+      "start_sec": 63.5,
+      "end_sec": 69.68
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "nagomi",
+      "text": "そういう計算になるもん。雨粒1つ作るのに、雲の粒を100万個集めなきゃいけないんだもん。",
+      "news_index": 1,
+      "start_sec": 69.83,
+      "end_sec": 76.0
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "ボクがずんだ餅を100万個食べるより大変そうなのだ……。",
+      "news_index": 1,
+      "start_sec": 76.15,
+      "end_sec": 81.07
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "しかも、雲の粒はほとんど落ちないんだもん。落ちる速さは秒速1センチくらい。",
+      "news_index": 1,
+      "start_sec": 81.22,
+      "end_sec": 86.48
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "秒速1センチ!? カタツムリと競争できちゃうレベルなのだ!",
+      "news_index": 1,
+      "start_sec": 86.63,
+      "end_sec": 90.67
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "これくらい遅いと、雲の中のちょっとした上向きの風で、すぐ押し戻されちゃうもん。半径1ミリの雨粒なら、秒速6メートル以上で落ちるのにね。",
+      "news_index": 1,
+      "start_sec": 90.82,
+      "end_sec": 100.28
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "じゃあ分かったのだ! 雲の粒同士がぶつかって、くっついて大きくなればいいのだ!",
+      "news_index": 1,
+      "start_sec": 100.43,
+      "end_sec": 105.47
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "それも本当にある仕組みだもん。でも、それだけで説明しようとすると困るんだもん。",
+      "news_index": 1,
+      "start_sec": 105.62,
+      "end_sec": 110.79
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "なんで困るのだ?",
+      "news_index": 1,
+      "start_sec": 110.94,
+      "end_sec": 112.35
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "粒がみんな同じくらいの大きさだと、落ちる速さもほぼ同じでしょ。",
+      "news_index": 1,
+      "start_sec": 112.5,
+      "end_sec": 116.63
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "並んで落ちてる人同士は、なかなかぶつからないんだもん。",
+      "news_index": 1,
+      "start_sec": 116.71,
+      "end_sec": 120.19
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "あー、同じ速さで歩いてたら追いつかないのだ。",
+      "news_index": 1,
+      "start_sec": 120.34,
+      "end_sec": 123.75
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "そう。小さな粒がくっつき始める最初の一歩がどう進むのかは、今でも研究が続いてるテーマなんだもん。",
+      "news_index": 1,
+      "start_sec": 123.9,
+      "end_sec": 130.59
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "マジかよ! 雨なんて毎日のように降ってるのに、まだ分かってないとこがあるのだ!?",
+      "news_index": 1,
+      "start_sec": 130.74,
+      "end_sec": 135.96
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "でもね、空はもう1つ、ずるい近道を持ってるんだもん。",
+      "news_index": 1,
+      "start_sec": 136.11,
+      "end_sec": 139.96
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "近道? 雨の作り方に裏ワザがあるのだ?",
+      "news_index": 1,
+      "start_sec": 140.11,
+      "end_sec": 143.64
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "あるもん。ヒントは、雲の中の温度だもん。",
+      "news_index": 1,
+      "start_sec": 143.79,
+      "end_sec": 146.81
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "答えを言っちゃうもん。雨の多くは、空の上では氷なんだもん。",
+      "news_index": 2,
+      "start_sec": 146.89,
+      "end_sec": 151.15
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "氷!? 冬の雪ならともかく、夏の雨もなのだ?",
+      "news_index": 2,
+      "start_sec": 151.3,
+      "end_sec": 155.03
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "気象庁の子ども向けの解説でも、冬でも夏でも雲の中身は氷の粒であることが多い、って書いてあるもん。",
+      "news_index": 2,
+      "start_sec": 155.18,
+      "end_sec": 162.45
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "夏は、その氷が落ちてくる途中で溶けて、雨になって地面に届くんだもん。",
+      "news_index": 2,
+      "start_sec": 162.53,
+      "end_sec": 167.52
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "じゃあ真夏の夕立も、もとは雪とか氷だったのだ!?",
+      "news_index": 2,
+      "start_sec": 167.67,
+      "end_sec": 172.32
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "nagomi",
+      "text": "そういう雨が多いもん。氷を通ってできる雨を、冷たい雨って呼ぶんだもん。",
+      "news_index": 2,
+      "start_sec": 172.47,
+      "end_sec": 177.7
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "冷たい雨……。でも、なんで夏に氷があるのだ?",
+      "news_index": 2,
+      "start_sec": 177.85,
+      "end_sec": 181.49
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "空は高く上がるほど寒くなるでしょ。夏でも、雲のてっぺんの方は0度よりずっと冷たいことがあるんだもん。",
+      "news_index": 2,
+      "start_sec": 181.64,
+      "end_sec": 188.25
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "なるほどなのだ! 0度より寒いから、雲の水が凍って氷になるのだ!",
+      "news_index": 2,
+      "start_sec": 188.4,
+      "end_sec": 193.07
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "ところが、そう簡単には凍らないんだもん。",
+      "news_index": 2,
+      "start_sec": 193.22,
+      "end_sec": 195.82
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "雲の小さな水滴は、0度を下回っても水のまま浮いてることが多いんだもん。これを過冷却っていうもん。",
+      "news_index": 2,
+      "start_sec": 195.9,
+      "end_sec": 202.73
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "えっ、カレイキャク? それ何なのだ?",
+      "news_index": 2,
+      "start_sec": 202.88,
+      "end_sec": 205.7
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "凍るはずの温度なのに、凍るきっかけが無くて水のままでいる状態のことだもん。",
+      "news_index": 2,
+      "start_sec": 205.85,
+      "end_sec": 210.67
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "nagomi",
+      "text": "水が氷になるには、分子が並び始める最初の足場が要るんだもん。足場が無いと、冷えても並べないんだもん。",
+      "news_index": 2,
+      "start_sec": 210.75,
+      "end_sec": 217.98
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "うーん、イス取りゲームで、最初の1人が座らないとみんな立ったまま、みたいな感じなのだ?",
+      "news_index": 2,
+      "start_sec": 218.13,
+      "end_sec": 224.66
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "hazukashi",
+      "text": "……ちょっと分かりやすいのが悔しいもん。",
+      "news_index": 2,
+      "start_sec": 224.81,
+      "end_sec": 227.08
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ふふん、ボクだってやるときはやるのだ。",
+      "news_index": 2,
+      "start_sec": 227.23,
+      "end_sec": 230.2
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "雲や霧の小さな水滴だと、マイナス20度くらいまで水のまま見つかることがあるんだもん。",
+      "news_index": 2,
+      "start_sec": 230.35,
+      "end_sec": 235.78
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "混じりけの無い水滴なら、マイナス35度からマイナス40度くらいまで冷えて、やっと勝手に凍るんだもん。",
+      "news_index": 2,
+      "start_sec": 235.86,
+      "end_sec": 242.38
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "マイナス40度!? 冷凍庫よりずっと寒いのに、まだ水なのだ!?",
+      "news_index": 2,
+      "start_sec": 242.53,
+      "end_sec": 247.12
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "要するに、雲の中は0度より冷たい水と、少しの氷がまざってる場所なんだもん。",
+      "news_index": 2,
+      "start_sec": 247.27,
+      "end_sec": 252.74
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、その少しの氷はどうやってできたのだ? 氷の種は、やっぱり氷なのだ?",
+      "news_index": 2,
+      "start_sec": 252.89,
+      "end_sec": 258.9
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "それが違うんだもん。種になるのは、空に舞ってる細かいちりだもん。",
+      "news_index": 2,
+      "start_sec": 259.05,
+      "end_sec": 263.44
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "こういう凍るきっかけになる粒を、氷晶核っていうもん。",
+      "news_index": 2,
+      "start_sec": 263.52,
+      "end_sec": 266.92
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ヒョウショウカク……また難しい言葉が出てきたのだ。",
+      "news_index": 2,
+      "start_sec": 267.07,
+      "end_sec": 270.45
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "nagomi",
+      "text": "氷の結晶の、芯になる粒ってことだもん。さっきのイス取りゲームでいう、最初に座らせてくれるイスだもん。",
+      "news_index": 2,
+      "start_sec": 270.6,
+      "end_sec": 277.59
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "おお、それなら分かるのだ。どんなちりがイスになるのだ?",
+      "news_index": 2,
+      "start_sec": 277.74,
+      "end_sec": 281.36
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "よく効くのは、地面から舞い上がった鉱物のちりだもん。長石っていう石の粉は、特に氷を作るのが得意だと分かってるもん。",
+      "news_index": 2,
+      "start_sec": 281.51,
+      "end_sec": 289.43
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "石の粉が雪の芯……。もっと意外なやつはいないのだ?",
+      "news_index": 2,
+      "start_sec": 289.58,
+      "end_sec": 293.34
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "いるもん。細菌だもん。",
+      "news_index": 2,
+      "start_sec": 293.49,
+      "end_sec": 295.28
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "細菌!? バイキンが雪を作るのだ!?",
+      "news_index": 2,
+      "start_sec": 295.43,
+      "end_sec": 298.29
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "シュードモナス・シリンゲっていう、植物にくっついて暮らす細菌がいるんだもん。",
+      "news_index": 2,
+      "start_sec": 298.44,
+      "end_sec": 303.01
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "この細菌は体の表面に、水分子をきれいに並ばせるたんぱく質を持ってて、マイナス2度くらいでも水を凍らせちゃうもん。",
+      "news_index": 2,
+      "start_sec": 303.09,
+      "end_sec": 310.61
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "マイナス2度!? ちりよりずっと早く凍らせられるのだ!?",
+      "news_index": 2,
+      "start_sec": 310.76,
+      "end_sec": 315.17
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "2,008年にサイエンス誌に出た研究では、モンタナやフランス、南極などの新雪19回分を調べてるもん。そこから、生き物由来の氷の種がいろんな場所で見つかったんだもん。",
+      "news_index": 2,
+      "start_sec": 315.32,
+      "end_sec": 327.19
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "雪がちょっとだけ生き物っぽく見えてきたのだ……。",
+      "news_index": 2,
+      "start_sec": 327.34,
+      "end_sec": 331.47
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "要するに、雲の中の氷は、ちりや細菌みたいな粒を芯にして、ぽつぽつ生まれることが多いんだもん。",
+      "news_index": 2,
+      "start_sec": 331.62,
+      "end_sec": 338.15
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも、氷がぽつぽつあるだけじゃ雨にならないのだ。どうやって大きくなるのだ?",
+      "news_index": 2,
+      "start_sec": 338.3,
+      "end_sec": 343.53
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "ここからが、今日いちばんのずるい近道だもん。",
+      "news_index": 2,
+      "start_sec": 343.68,
+      "end_sec": 346.47
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "分かったのだ! 氷の粒が、まわりの水滴にぶつかってパクパク食べていくのだ!",
+      "news_index": 2,
+      "start_sec": 346.62,
+      "end_sec": 351.64
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "それも大事な育ち方で、夏の積乱雲ではよく起きてるもん。でももう1つ、ぶつからなくても氷が水滴から水を奪う方法があるんだもん。",
+      "news_index": 2,
+      "start_sec": 351.79,
+      "end_sec": 360.51
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ぶつからずに奪う!? 手品なのだ?",
+      "news_index": 2,
+      "start_sec": 360.66,
+      "end_sec": 363.18
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "鍵は、水蒸気の飽和っていう考え方だもん。",
+      "news_index": 2,
+      "start_sec": 363.33,
+      "end_sec": 366.48
+    },
+    {
+      "index": 75,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ホウワ? それ何なのだ?",
+      "news_index": 2,
+      "start_sec": 366.63,
+      "end_sec": 368.64
+    },
+    {
+      "index": 76,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "空気が水蒸気をもうこれ以上抱えきれない、満杯の状態のことだもん。その満杯ラインが、水の上より氷の上の方が低いんだもん。",
+      "news_index": 2,
+      "start_sec": 368.79,
+      "end_sec": 377.59
+    },
+    {
+      "index": 77,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "満杯ラインが低い……。どういうことなのだ?",
+      "news_index": 2,
+      "start_sec": 377.74,
+      "end_sec": 380.73
+    },
+    {
+      "index": 78,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "たとえばマイナス10度で、水滴にとってちょうど満杯の空気があるとするでしょ。その空気は氷にとっては、1割くらい水蒸気が多いあふれた状態なんだもん。",
+      "news_index": 2,
+      "start_sec": 380.88,
+      "end_sec": 391.13
+    },
+    {
+      "index": 79,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "同じ空気なのに、水滴は満足してて、氷はあふれてるって感じてるのだ?",
+      "news_index": 2,
+      "start_sec": 391.28,
+      "end_sec": 396.87
+    },
+    {
+      "index": 80,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "nagomi",
+      "text": "そう。だから、あふれた分の水蒸気が氷の表面にどんどんくっついて、氷が育つもん。",
+      "news_index": 2,
+      "start_sec": 397.02,
+      "end_sec": 403.29
+    },
+    {
+      "index": 81,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "すると空気の水蒸気が減って、今度は水滴にとって満杯未満になる。水滴は蒸発して、また水蒸気を出すんだもん。",
+      "news_index": 2,
+      "start_sec": 403.37,
+      "end_sec": 411.29
+    },
+    {
+      "index": 82,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "で、その水蒸気をまた氷が取るのだ!? 水滴、吸い取られ放題じゃん!",
+      "news_index": 2,
+      "start_sec": 411.44,
+      "end_sec": 416.47
+    },
+    {
+      "index": 83,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "そういうこと。水滴が蒸発して空気を通って氷にくっつくから、触らなくても水が氷へ引っ越していくんだもん。",
+      "news_index": 2,
+      "start_sec": 416.62,
+      "end_sec": 423.62
+    },
+    {
+      "index": 84,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクの隣にあんこもんがいたら、ずんだ餅の香りだけで吸い取られる感じなのだ?",
+      "news_index": 2,
+      "start_sec": 423.77,
+      "end_sec": 429.21
+    },
+    {
+      "index": 85,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "heart",
+      "text": "あんこの方がおいしいから、吸い取る必要は無いもん。",
+      "news_index": 2,
+      "start_sec": 429.36,
+      "end_sec": 432.68
+    },
+    {
+      "index": 86,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shirake",
+      "text": "そこはムキにならなくていいのだ。",
+      "news_index": 2,
+      "start_sec": 432.83,
+      "end_sec": 435.0
+    },
+    {
+      "index": 87,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "氷の粒は数が少ないから、たくさんの水滴の水を少ない氷が独り占めできるんだもん。だから、粒同士のぶつかり合いを待つより、ずっと早く大きくなれるんだもん。",
+      "news_index": 2,
+      "start_sec": 435.15,
+      "end_sec": 445.7
+    },
+    {
+      "index": 88,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "大きくなった氷は、さっきの秒速1センチじゃなくて、ちゃんと落ちてくるのだ?",
+      "news_index": 2,
+      "start_sec": 445.85,
+      "end_sec": 451.2
+    },
+    {
+      "index": 89,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "そう。重くなった氷は落ち始めて、途中でほかの粒も拾いながら雪になって、暖かい空気を通れば溶けて雨になるもん。",
+      "news_index": 2,
+      "start_sec": 451.35,
+      "end_sec": 459.23
+    },
+    {
+      "index": 90,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "この仕組み、誰が見つけたのだ?",
+      "news_index": 2,
+      "start_sec": 459.38,
+      "end_sec": 461.7
+    },
+    {
+      "index": 91,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "考え方を最初に出したのは、1,911年のヴェーゲナーっていう人だもん。大陸移動説で有名な、あの学者だもん。",
+      "news_index": 2,
+      "start_sec": 461.85,
+      "end_sec": 470.4
+    },
+    {
+      "index": 92,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "大陸が動く話の人が、雨の話もしてたのだ!?",
+      "news_index": 2,
+      "start_sec": 470.55,
+      "end_sec": 474.17
+    },
+    {
+      "index": 93,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "そのあと1,933年にスウェーデンのベルジェロンが雨の仕組みとして発表して、ドイツのフィンダイゼンが1,938年ごろに理屈を固めたもん。",
+      "news_index": 2,
+      "start_sec": 474.32,
+      "end_sec": 483.46
+    },
+    {
+      "index": 94,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "3人の名前を取って、ヴェーゲナー・ベルジェロン・フィンダイゼン過程って呼ばれてるもん。要するに、氷が水滴の水を横取りして育つ仕組みだもん。",
+      "news_index": 2,
+      "start_sec": 483.54,
+      "end_sec": 492.03
+    },
+    {
+      "index": 95,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でもちょっと待つのだ。暑い国の雨も、全部もとは氷なのだ?",
+      "news_index": 3,
+      "start_sec": 492.18,
+      "end_sec": 496.72
+    },
+    {
+      "index": 96,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "hazukashi",
+      "text": "……そこ、いいとこ突くんだもん。ベルジェロンは、まとまった雨はみんな氷を通ってできると考えてたけど、それだけじゃなかったんだもん。",
+      "news_index": 3,
+      "start_sec": 496.87,
+      "end_sec": 505.95
+    },
+    {
+      "index": 97,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "熱帯では、雲のてっぺんまで0度より暖かい雲からも雨が降るんだもん。ハワイの雨も、たいていこっちだもん。",
+      "news_index": 3,
+      "start_sec": 506.03,
+      "end_sec": 513.13
+    },
+    {
+      "index": 98,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "じゃあ、そこではさっきのぶつかってくっつく方が主役なのだ!",
+      "news_index": 3,
+      "start_sec": 513.28,
+      "end_sec": 517.05
+    },
+    {
+      "index": 99,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "shirake",
+      "text": "……正解だもん。氷を通らないから、暖かい雨って呼ぶもん。",
+      "news_index": 3,
+      "start_sec": 517.2,
+      "end_sec": 522.48
+    },
+    {
+      "index": 100,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ふふふ、今日はボクの勝ちが見えてきたのだ。",
+      "news_index": 3,
+      "start_sec": 522.63,
+      "end_sec": 525.87
+    },
+    {
+      "index": 101,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "まだ番組は終わってないもん。次は、この仕組みを人間が使った話だもん。",
+      "news_index": 3,
+      "start_sec": 526.02,
+      "end_sec": 530.84
+    },
+    {
+      "index": 102,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "人間が使う? 雨を降らせるってことなのだ?",
+      "news_index": 3,
+      "start_sec": 530.99,
+      "end_sec": 534.37
+    },
+    {
+      "index": 103,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "そう。1,946年に、アメリカのゼネラル・エレクトリックの研究所にいたシェーファーが、飛行機から雲にドライアイスをまいたんだもん。",
+      "news_index": 3,
+      "start_sec": 534.52,
+      "end_sec": 543.59
+    },
+    {
+      "index": 104,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ドライアイスで、雲を冷やしたのだ?",
+      "news_index": 3,
+      "start_sec": 543.74,
+      "end_sec": 546.28
+    },
+    {
+      "index": 105,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "狙ったのは、0度より冷たいのに凍れずにいる過冷却の雲だもん。ドライアイスで一気に氷のきっかけを作ったら、雲が氷の粒に変わって雪が落ちていったんだもん。",
+      "news_index": 3,
+      "start_sec": 546.43,
+      "end_sec": 556.81
+    },
+    {
+      "index": 106,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "マジかよ! 空に氷のイスを配ったら、ほんとに雪になったのだ!",
+      "news_index": 3,
+      "start_sec": 556.96,
+      "end_sec": 561.18
+    },
+    {
+      "index": 107,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "kangae",
+      "text": "同じ研究所のヴォネガットは、ヨウ化銀っていう物質が氷の種になることを見つけたもん。結晶の形が、氷とよく似てるんだもん。",
+      "news_index": 3,
+      "start_sec": 561.33,
+      "end_sec": 570.05
+    },
+    {
+      "index": 108,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "形が似てると、水分子が氷だと思って並んじゃうのだ?",
+      "news_index": 3,
+      "start_sec": 570.2,
+      "end_sec": 574.41
+    },
+    {
+      "index": 109,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "nagomi",
+      "text": "そういうイメージでいいもん。ヨウ化銀は今でも、冷たい雲の種まきにいちばんよく使われてるもん。",
+      "news_index": 3,
+      "start_sec": 574.56,
+      "end_sec": 580.7
+    },
+    {
+      "index": 110,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "日本でも、雪の研究ってあったのだ?",
+      "news_index": 3,
+      "start_sec": 580.85,
+      "end_sec": 583.58
+    },
+    {
+      "index": 111,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "1,936年に、北海道大学の中谷宇吉郎たちが、低温の実験室で人工の雪の結晶を作ってるもん。",
+      "news_index": 3,
+      "start_sec": 583.73,
+      "end_sec": 591.79
+    },
+    {
+      "index": 112,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "そのとき芯として役立ったのが、防寒服の襟から抜いたウサギの毛なんだもん。毛の小さなでこぼこが、結晶の足場になったと言われてるもん。",
+      "news_index": 3,
+      "start_sec": 591.87,
+      "end_sec": 600.39
+    },
+    {
+      "index": 113,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "ウサギの毛!? ちりに細菌にウサギの毛、雪の芯ってなんでもありなのだ!",
+      "news_index": 3,
+      "start_sec": 600.54,
+      "end_sec": 606.62
+    },
+    {
+      "index": 114,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "それくらい、氷は足場が無いと生まれにくいってことだもん。",
+      "news_index": 3,
+      "start_sec": 606.77,
+      "end_sec": 610.15
+    },
+    {
+      "index": 115,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "あと、雨になるか雪になるかは、どこで決まるのだ?",
+      "news_index": 3,
+      "start_sec": 610.3,
+      "end_sec": 613.98
+    },
+    {
+      "index": 116,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "決め手は、落ちてくる途中の空気の温度と湿り気だもん。上空1,500メートルあたりの気温が目安に使われるけど、雪になる数字は地域や天気の形でちがうんだもん。",
+      "news_index": 3,
+      "start_sec": 614.13,
+      "end_sec": 624.54
+    },
+    {
+      "index": 117,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "niyari",
+      "text": "変わった例もあるもん。雪が上空の暖かい層で溶けて雨になって、そのあと地面近くの冷たい層でまた冷やされることがあるんだもん。",
+      "news_index": 3,
+      "start_sec": 624.62,
+      "end_sec": 632.69
+    },
+    {
+      "index": 118,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "冷やされたら、また雪に戻るのだ?",
+      "news_index": 3,
+      "start_sec": 632.84,
+      "end_sec": 635.44
+    },
+    {
+      "index": 119,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "それが、0度より冷たいのに水のままの、過冷却の雨になっちゃうんだもん。",
+      "news_index": 3,
+      "start_sec": 635.59,
+      "end_sec": 640.55
+    },
+    {
+      "index": 120,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "そして木の枝や電線に当たった瞬間に凍りつくもん。これが雨氷だもん。",
+      "news_index": 3,
+      "start_sec": 640.63,
+      "end_sec": 645.19
+    },
+    {
+      "index": 121,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ぶつかったとたんに凍るのだ!? さっきのイス取りゲームの、イスが木の枝なのだ!",
+      "news_index": 3,
+      "start_sec": 645.34,
+      "end_sec": 650.36
+    },
+    {
+      "index": 122,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "yubisashi",
+      "text": "そういうこと。要するに、空の水は凍るきっかけと落ちる途中の温度しだいで、雨にも雪にも氷にもなるんだもん。",
+      "news_index": 3,
+      "start_sec": 650.51,
+      "end_sec": 657.61
+    },
+    {
+      "index": 123,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "今日の雨、上を見たら全然ちがって見えそうなのだ。",
+      "news_index": 0,
+      "start_sec": 657.76,
+      "end_sec": 661.24
+    },
+    {
+      "index": 124,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "normal",
+      "text": "雨の多くは、空の上で一度氷の粒になってから落ちてきたものだもん。夏の夕立もね。",
+      "news_index": 0,
+      "start_sec": 661.39,
+      "end_sec": 667.36
+    },
+    {
+      "index": 125,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "でも暖かい雨はボクが当てたのだ。今日は引き分けなのだ。",
+      "news_index": 0,
+      "start_sec": 667.51,
+      "end_sec": 671.74
+    },
+    {
+      "index": 126,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "tsuntsun",
+      "text": "引き分けなんて認めないもん。次こそ負けを認めさせるんだもん。",
+      "news_index": 0,
+      "start_sec": 671.89,
+      "end_sec": 675.66
+    },
+    {
+      "index": 127,
+      "type": "speech",
+      "speaker": "ankomon",
+      "tone": "mic",
+      "text": "聴いてくれてるかた、雨の日はちょっと空の上の氷を思い出してほしいもん。旅の道ラジオ、雑学チャンネルでした。",
+      "news_index": 0,
+      "start_sec": 675.74,
+      "end_sec": 683.06
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 683.76,
+      "end_sec": 692.06
+    }
+  ],
+  "wall_time_sec": 10.89,
+  "audio_url": "/audio/zatsugaku/20261125_023507.mp3?v=1795542239"
+}
