@@ -1,0 +1,776 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-11-25T05:06:14+09:00",
+  "title": "靴選びと二周目の朝 〜一兆円の調整係と、丸をつけるAI〜",
+  "audio_path": "ai_latest.wav",
+  "duration_sec": 474.13,
+  "script_hash": "sha256:33988f893dabe5dabbc7deee017167117f860c380f2836b3ab3f985378f23e61",
+  "segments": [
+    {
+      "index": -1,
+      "type": "intro",
+      "text": "🎵 ジングル + 旅の道ラジオ！",
+      "start_sec": 0.0,
+      "end_sec": 9.59
+    },
+    {
+      "index": 0,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "intro",
+      "text": "おはようございます、旅の道ラジオ朝便、テックニュースの回よ。四国めたんです。",
+      "news_index": 0,
+      "start_sec": 9.59,
+      "end_sec": 15.05
+    },
+    {
+      "index": 1,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝も通勤のお供に、テックの話をサクッといくのだ!",
+      "news_index": 0,
+      "start_sec": 15.2,
+      "end_sec": 20.72
+    },
+    {
+      "index": 2,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今朝は四本。一兆円規模の買い物、AIが動かすフォトショップ、AIが丸をつける宿題、それと中国の、同じ道を二周するAIね。",
+      "news_index": 0,
+      "start_sec": 20.87,
+      "end_sec": 30.2
+    },
+    {
+      "index": 3,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "同じ道を二周? 迷子になっちゃったのだ?",
+      "news_index": 0,
+      "start_sec": 30.35,
+      "end_sec": 33.59
+    },
+    {
+      "index": 4,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "迷子じゃないわ、わざとよ。最後に種明かしするから、とっておいて。",
+      "news_index": 0,
+      "start_sec": 33.74,
+      "end_sec": 37.94
+    },
+    {
+      "index": 5,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "気になるやつは後回し、デザート方式じゃん!",
+      "news_index": 0,
+      "start_sec": 38.09,
+      "end_sec": 41.2
+    },
+    {
+      "index": 6,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。アマゾンが、イスラエル発のデカートが持つAIチップ最適化技術を買う契約を結んだの。",
+      "news_index": 1,
+      "start_sec": 41.35,
+      "end_sec": 47.8
+    },
+    {
+      "index": 7,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "デカート? アマゾンの買い物かごの、特大サイズ?",
+      "news_index": 1,
+      "start_sec": 47.95,
+      "end_sec": 52.04
+    },
+    {
+      "index": 8,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "かごじゃないわ。金額は報道だと70億ドル前後、日本円で一兆円くらいの話よ。",
+      "news_index": 1,
+      "start_sec": 52.19,
+      "end_sec": 57.9
+    },
+    {
+      "index": 9,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "一兆円!? ボクがお年玉を縄文時代から毎年もらい続けても、届かないのだ!",
+      "news_index": 1,
+      "start_sec": 58.05,
+      "end_sec": 63.71
+    },
+    {
+      "index": 10,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "縄文時代からでも、全然足りないわね。で、欲しいのは、チップの性能を引き出すソフトなの。",
+      "news_index": 1,
+      "start_sec": 63.86,
+      "end_sec": 70.0
+    },
+    {
+      "index": 11,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "チップって、ポテトチップスじゃない方の?",
+      "news_index": 1,
+      "start_sec": 70.15,
+      "end_sec": 73.01
+    },
+    {
+      "index": 12,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そっちよ、AIの計算をする専用の半導体ね。アマゾンは自前のトレイニアムを持ってるけど、王者はエヌビディアなの。",
+      "news_index": 1,
+      "start_sec": 73.16,
+      "end_sec": 80.65
+    },
+    {
+      "index": 13,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、ゲームのグラボの会社なのだ!",
+      "news_index": 1,
+      "start_sec": 80.8,
+      "end_sec": 83.34
+    },
+    {
+      "index": 14,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そう、チップはAIとの間のソフトが噛み合わないと、本来の速さが出ないの。デカートのソフトは、チップごとのクセに合わせて処理を組み替えて、速くするんだって。",
+      "news_index": 1,
+      "start_sec": 83.49,
+      "end_sec": 93.93
+    },
+    {
+      "index": 15,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "足の速い選手に、ぴったりの靴を選んであげる係なのだ。",
+      "news_index": 1,
+      "start_sec": 94.08,
+      "end_sec": 98.73
+    },
+    {
+      "index": 16,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "いい例えね。エヌビディアやグーグルのチップにも対応してて、乗り換えもしやすくなるらしいわ。",
+      "news_index": 1,
+      "start_sec": 98.88,
+      "end_sec": 104.63
+    },
+    {
+      "index": 17,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも、もう買っちゃったわけじゃないってこと?",
+      "news_index": 1,
+      "start_sec": 104.78,
+      "end_sec": 107.57
+    },
+    {
+      "index": 18,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこが大事で、契約は結んだけど、買うのは会社全部じゃなくて最適化技術なの。取引の完了には当局の承認などが必要で、正式な金額も公表されてないわ。",
+      "news_index": 1,
+      "start_sec": 107.72,
+      "end_sec": 118.78
+    },
+    {
+      "index": 19,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあ一兆円は、契約の公式金額じゃなくて報道ベースなのだ。",
+      "news_index": 1,
+      "start_sec": 118.93,
+      "end_sec": 123.58
+    },
+    {
+      "index": 20,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "要するに、AIの戦いでは、チップの性能だけじゃなく、ソフトで使いこなす力もますます重要になってるって話。AIを動かす費用が下がれば、そのうち私たちが払う値段にも響くかもね。",
+      "news_index": 1,
+      "start_sec": 123.73,
+      "end_sec": 136.71
+    },
+    {
+      "index": 21,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "安くなるなら、ボクは大歓迎なのだ。次いくのだ!",
+      "news_index": 1,
+      "start_sec": 136.86,
+      "end_sec": 140.8
+    },
+    {
+      "index": 22,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目は、絵や動画を作る人向け。アドビが十一月十日のアドビ マックスっていうイベントで、外のAIが手元のフォトショップを直接動かす仕組みを見せたの。",
+      "news_index": 2,
+      "start_sec": 140.95,
+      "end_sec": 150.55
+    },
+    {
+      "index": 23,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? チャットジーピーティーが、ボクのパソコンのフォトショップを勝手にいじるのか!?",
+      "news_index": 2,
+      "start_sec": 150.7,
+      "end_sec": 155.77
+    },
+    {
+      "index": 24,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "勝手にじゃないわ、頼んだらよ。チャットジーピーティーやクロードが、フォトショップやイラストレーター、プレミアを操作できるようになる予定なの。",
+      "news_index": 2,
+      "start_sec": 155.92,
+      "end_sec": 163.82
+    },
+    {
+      "index": 25,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "よそのAIが、どうやってアドビのアプリに入り込むのだ?",
+      "news_index": 2,
+      "start_sec": 163.97,
+      "end_sec": 167.87
+    },
+    {
+      "index": 26,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "エムシーピーっていう共通の規格を使うの。ようは、AIとアプリをつなぐコンセントの形を、世界で揃えたものね。",
+      "news_index": 2,
+      "start_sec": 168.02,
+      "end_sec": 175.3
+    },
+    {
+      "index": 27,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、どの家電も、コンセントに挿せば動くあれじゃん!",
+      "news_index": 2,
+      "start_sec": 175.45,
+      "end_sec": 179.01
+    },
+    {
+      "index": 28,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そういうこと。アドビは、パソコンの中にその差し込み口を用意するってわけ。",
+      "news_index": 2,
+      "start_sec": 179.16,
+      "end_sec": 183.96
+    },
+    {
+      "index": 29,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "今までも、AIからアドビの機能を呼べなかったっけ?",
+      "news_index": 2,
+      "start_sec": 184.11,
+      "end_sec": 188.0
+    },
+    {
+      "index": 30,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "呼べたけど、ネット経由で一部の機能だけ。今度は手元のファイルを、レイヤーを残したまま編集できるのが違いね。",
+      "news_index": 2,
+      "start_sec": 188.15,
+      "end_sec": 195.56
+    },
+    {
+      "index": 31,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "レイヤーが残るなら、あとでボクが手直しできるのだ。それは助かるのだー。",
+      "news_index": 2,
+      "start_sec": 195.71,
+      "end_sec": 200.91
+    },
+    {
+      "index": 32,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ちなみに、このエムシーピーを作ったアンソロピックは十一月二十四日に、開発用の部品のダウンロードが月に7億回を超えたって発表してるわ。",
+      "news_index": 2,
+      "start_sec": 201.06,
+      "end_sec": 210.17
+    },
+    {
+      "index": 33,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "7億回!? 日本の人口の、五倍以上じゃん!",
+      "news_index": 2,
+      "start_sec": 210.32,
+      "end_sec": 213.68
+    },
+    {
+      "index": 34,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "7億人が使ってるわけじゃないわよ。自動の仕組みが何度も取りに行く分も入ってるから、勢いの目安くらいにね。",
+      "news_index": 2,
+      "start_sec": 213.83,
+      "end_sec": 220.7
+    },
+    {
+      "index": 35,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、ボクはいつフォトショップをAIに任せられるのだ?",
+      "news_index": 2,
+      "start_sec": 220.85,
+      "end_sec": 224.5
+    },
+    {
+      "index": 36,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "報道だと、外のAIとつなぐ仕組みは、2027年の初めに限られた人向けのお試しから始まる予定よ。",
+      "news_index": 2,
+      "start_sec": 224.65,
+      "end_sec": 231.79
+    },
+    {
+      "index": 37,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "じゃあ、それまではボクが自分で切り抜きを頑張るのだ。",
+      "news_index": 2,
+      "start_sec": 231.94,
+      "end_sec": 235.95
+    },
+    {
+      "index": 38,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "要するに、考えるのはAI、手を動かすのは自分のパソコン、って分業が当たり前になりそうって話。画像の大きさ直しみたいな地味な作業は、頼めば済む時代が来そうね。",
+      "news_index": 2,
+      "start_sec": 236.1,
+      "end_sec": 247.94
+    },
+    {
+      "index": 39,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "面倒な作業が減るのは、ほっこりなのだ。次なのだ!",
+      "news_index": 2,
+      "start_sec": 248.09,
+      "end_sec": 251.76
+    },
+    {
+      "index": 40,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目。アンソロピックが十一月二十三日に、クロード シップっていう仕組みを出したの。中心はまだお試し段階のベータね。",
+      "news_index": 3,
+      "start_sec": 251.91,
+      "end_sec": 259.87
+    },
+    {
+      "index": 41,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "シップ? 船なのだ? クロードが船長になるのだ?",
+      "news_index": 3,
+      "start_sec": 260.02,
+      "end_sec": 263.87
+    },
+    {
+      "index": 42,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "半分正解、英語のシップには、出荷するって意味もあるの。プログラムの直しを、世に出すところまで手伝う仕組みよ。",
+      "news_index": 3,
+      "start_sec": 264.02,
+      "end_sec": 271.27
+    },
+    {
+      "index": 43,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "プログラムの直しを出荷って、どういうこと?",
+      "news_index": 3,
+      "start_sec": 271.42,
+      "end_sec": 274.65
+    },
+    {
+      "index": 44,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "会社の開発だと、誰かが直したら、別の人が中身を確かめてオッケーを出してから本番に入れるの。その確認のお願いを、プルリクエストって呼ぶわ。",
+      "news_index": 3,
+      "start_sec": 274.8,
+      "end_sec": 284.28
+    },
+    {
+      "index": 45,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、宿題を出して、先生が丸をつけるやつなのだ!",
+      "news_index": 3,
+      "start_sec": 284.43,
+      "end_sec": 288.14
+    },
+    {
+      "index": 46,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "いい例えね。クロード シップには、中身を見る係、自動の試験で落ちたところを直す係、条件を満たせば丸までつける係がいるの。",
+      "news_index": 3,
+      "start_sec": 288.29,
+      "end_sec": 296.89
+    },
+    {
+      "index": 47,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "宿題をAIが書いて直して、丸までつけるのか!? 先生いらないじゃん!",
+      "news_index": 3,
+      "start_sec": 297.04,
+      "end_sec": 301.87
+    },
+    {
+      "index": 48,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "いなくはならないわよ。丸をつけていい範囲は、チームが自分で文章のルールに書いて決めるの。",
+      "news_index": 3,
+      "start_sec": 302.02,
+      "end_sec": 307.51
+    },
+    {
+      "index": 49,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "全部任せちゃうのは、ちょっと怖くないのだ?",
+      "news_index": 3,
+      "start_sec": 307.66,
+      "end_sec": 310.79
+    },
+    {
+      "index": 50,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "会社もそこは慎重で、最初は見てるだけのモードで、一か所から試すのがおすすめって案内してるわ。",
+      "news_index": 3,
+      "start_sec": 310.94,
+      "end_sec": 317.24
+    },
+    {
+      "index": 51,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "いきなり運転を任せずに、助手席で様子見からなのだ。",
+      "news_index": 3,
+      "start_sec": 317.39,
+      "end_sec": 321.13
+    },
+    {
+      "index": 52,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "その通り。対象はチームや大企業向けのプランで、ギットハブっていうプログラムの置き場を使ってるところね。",
+      "news_index": 3,
+      "start_sec": 321.28,
+      "end_sec": 328.07
+    },
+    {
+      "index": 53,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ボクたちが使うアプリにも、関係あるのだ?",
+      "news_index": 3,
+      "start_sec": 328.22,
+      "end_sec": 331.25
+    },
+    {
+      "index": 54,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "要するに、人の確認待ちを減らして、開発を速く回すのを目指す仕組みって話。アプリの修正が早く届くかもしれない反面、最後に人がどこを見るかが問われるわね。",
+      "news_index": 3,
+      "start_sec": 331.4,
+      "end_sec": 342.48
+    },
+    {
+      "index": 55,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "速さと安心の、綱引きなのだ。ラストいくのだ!",
+      "news_index": 3,
+      "start_sec": 342.63,
+      "end_sec": 346.06
+    },
+    {
+      "index": 56,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四本目は中国から。ゼットエーアイっていう会社が十一月二十三日に、ジーエルエム ゴーテンヨンっていうAIを出したの。",
+      "news_index": 4,
+      "start_sec": 346.21,
+      "end_sec": 353.89
+    },
+    {
+      "index": 57,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "来たのだ、最初に言ってた、同じ道を二周するAI!",
+      "news_index": 4,
+      "start_sec": 354.04,
+      "end_sec": 357.99
+    },
+    {
+      "index": 58,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "よく覚えてたわね。ふつうのAIは、何十段もある考える層を、上から下まで一回通って答えを出すの。",
+      "news_index": 4,
+      "start_sec": 358.14,
+      "end_sec": 365.1
+    },
+    {
+      "index": 59,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "層って、ミルフィーユみたいなやつなのだ?",
+      "news_index": 4,
+      "start_sec": 365.25,
+      "end_sec": 368.12
+    },
+    {
+      "index": 60,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "近いわ、このAIは28段分のかたまりを、同じ中身のまま二回通すの。ループ型って呼ばれる作りね。",
+      "news_index": 4,
+      "start_sec": 368.27,
+      "end_sec": 375.21
+    },
+    {
+      "index": 61,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "同じ問題集を二周すると、二周目はスラスラ解ける、あれなのだ!",
+      "news_index": 4,
+      "start_sec": 375.36,
+      "end_sec": 380.51
+    },
+    {
+      "index": 62,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "まさにそれ。問題集は増やさずに、考える深さだけ増やそうって作戦よ。",
+      "news_index": 4,
+      "start_sec": 380.66,
+      "end_sec": 385.84
+    },
+    {
+      "index": 63,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、肝心の頭の良さは?",
+      "news_index": 4,
+      "start_sec": 385.99,
+      "end_sec": 388.32
+    },
+    {
+      "index": 64,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "会社は、自分より何倍も大きいAIと同じくらい強いって言ってるわ。ただ、このジーエルエム ゴーテンヨン自身の詳しいベンチマーク得点は示してなくて、公開された比較実験は小さい三百億規模のモデルなのよ。",
+      "news_index": 4,
+      "start_sec": 388.47,
+      "end_sec": 402.39
+    },
+    {
+      "index": 65,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "点数を隠して、ボク天才って言ってる子みたいなのだ。",
+      "news_index": 4,
+      "start_sec": 402.54,
+      "end_sec": 405.95
+    },
+    {
+      "index": 66,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "言い方はきついけど、そこは外の検証待ちね。中身の公開も、安全の点検が済んでからの予定だって。",
+      "news_index": 4,
+      "start_sec": 406.1,
+      "end_sec": 412.93
+    },
+    {
+      "index": 67,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクたちには、どう関係あるのだ?",
+      "news_index": 4,
+      "start_sec": 413.08,
+      "end_sec": 415.65
+    },
+    {
+      "index": 68,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに、AIをただ大きくするだけじゃなく、同じ部品を何回も使って性能を伸ばす流れが出てきたって話。ただし、このモデル自体は七千五百億規模で、同じ層を二度通るぶん計算も増えるから、安い機械で動くとまでは言えないわね。",
+      "news_index": 4,
+      "start_sec": 415.8,
+      "end_sec": 430.79
+    },
+    {
+      "index": 69,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ただ大きくする以外の工夫でも賢くできるなら、夢があるのだー!",
+      "news_index": 4,
+      "start_sec": 430.94,
+      "end_sec": 435.74
+    },
+    {
+      "index": 70,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今朝は、アマゾンの一兆円の買い物、フォトショップを動かすAI、丸をつけるクロード、二周するAIの四本だったわ。",
+      "news_index": 0,
+      "start_sec": 435.89,
+      "end_sec": 443.93
+    },
+    {
+      "index": 71,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "特大カートと、世界のコンセントと、AIの先生と、問題集の二周目。今日の雑談で使うのだ!",
+      "news_index": 0,
+      "start_sec": 444.08,
+      "end_sec": 452.09
+    },
+    {
+      "index": 72,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "カートは違うって言ったでしょ。でも、まあいいわ。",
+      "news_index": 0,
+      "start_sec": 452.24,
+      "end_sec": 455.26
+    },
+    {
+      "index": 73,
+      "type": "speech",
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "聴いてくれてるかた、いってらっしゃい。気になった話は、各社の発表や報道をのぞいてみてね。",
+      "news_index": 0,
+      "start_sec": 455.34,
+      "end_sec": 461.24
+    },
+    {
+      "index": 74,
+      "type": "speech",
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "また明日のテック朝便で会うのだー! いってらっしゃいなのだ!",
+      "news_index": 0,
+      "start_sec": 461.39,
+      "end_sec": 465.12
+    },
+    {
+      "index": 9999,
+      "type": "outro",
+      "text": "🎵 ジングル + またね！",
+      "start_sec": 465.82,
+      "end_sec": 474.13
+    }
+  ],
+  "wall_time_sec": 12.65,
+  "audio_url": "/audio/ai/20261125_050614.mp3?v=1795557787"
+}

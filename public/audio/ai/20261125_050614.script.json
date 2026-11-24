@@ -1,0 +1,474 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-11-24T20:06:14.723640+00:00",
+  "title": "靴選びと二周目の朝 〜一兆円の調整係と、丸をつけるAI〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "intro",
+      "text": "おはようございます、旅の道ラジオ朝便、テックニュースの回よ。四国めたんです。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝も通勤のお供に、テックの話をサクッといくのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今朝は四本。一兆円規模の買い物、AIが動かすフォトショップ、AIが丸をつける宿題、それと中国の、同じ道を二周するAIね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "同じ道を二周? 迷子になっちゃったのだ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "迷子じゃないわ、わざとよ。最後に種明かしするから、とっておいて。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "気になるやつは後回し、デザート方式じゃん!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。アマゾンが、イスラエル発のデカートが持つAIチップ最適化技術を買う契約を結んだの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "デカート? アマゾンの買い物かごの、特大サイズ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "かごじゃないわ。金額は報道だと70億ドル前後、日本円で一兆円くらいの話よ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "一兆円!? ボクがお年玉を縄文時代から毎年もらい続けても、届かないのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "縄文時代からでも、全然足りないわね。で、欲しいのは、チップの性能を引き出すソフトなの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "チップって、ポテトチップスじゃない方の?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そっちよ、AIの計算をする専用の半導体ね。アマゾンは自前のトレイニアムを持ってるけど、王者はエヌビディアなの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、ゲームのグラボの会社なのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そう、チップはAIとの間のソフトが噛み合わないと、本来の速さが出ないの。デカートのソフトは、チップごとのクセに合わせて処理を組み替えて、速くするんだって。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "足の速い選手に、ぴったりの靴を選んであげる係なのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "いい例えね。エヌビディアやグーグルのチップにも対応してて、乗り換えもしやすくなるらしいわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも、もう買っちゃったわけじゃないってこと?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこが大事で、契約は結んだけど、買うのは会社全部じゃなくて最適化技術なの。取引の完了には当局の承認などが必要で、正式な金額も公表されてないわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあ一兆円は、契約の公式金額じゃなくて報道ベースなのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "要するに、AIの戦いでは、チップの性能だけじゃなく、ソフトで使いこなす力もますます重要になってるって話。AIを動かす費用が下がれば、そのうち私たちが払う値段にも響くかもね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "安くなるなら、ボクは大歓迎なのだ。次いくのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目は、絵や動画を作る人向け。アドビが十一月十日のアドビ マックスっていうイベントで、外のAIが手元のフォトショップを直接動かす仕組みを見せたの。",
+      "news_index": 2,
+      "reading": "にほんめは、えやどうがをつくるひとむけ。アドビがじゅういちがつとおかのアドビマックスっていうイベントで、そとのAIがてもとのフォトショップをちょくせつうごかすしくみをみせたの。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? チャットジーピーティーが、ボクのパソコンのフォトショップを勝手にいじるのか!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "勝手にじゃないわ、頼んだらよ。チャットジーピーティーやクロードが、フォトショップやイラストレーター、プレミアを操作できるようになる予定なの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "よそのAIが、どうやってアドビのアプリに入り込むのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "エムシーピーっていう共通の規格を使うの。ようは、AIとアプリをつなぐコンセントの形を、世界で揃えたものね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、どの家電も、コンセントに挿せば動くあれじゃん!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そういうこと。アドビは、パソコンの中にその差し込み口を用意するってわけ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "今までも、AIからアドビの機能を呼べなかったっけ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "呼べたけど、ネット経由で一部の機能だけ。今度は手元のファイルを、レイヤーを残したまま編集できるのが違いね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "レイヤーが残るなら、あとでボクが手直しできるのだ。それは助かるのだー。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ちなみに、このエムシーピーを作ったアンソロピックは十一月二十四日に、開発用の部品のダウンロードが月に7億回を超えたって発表してるわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "7億回!? 日本の人口の、五倍以上じゃん!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "7億人が使ってるわけじゃないわよ。自動の仕組みが何度も取りに行く分も入ってるから、勢いの目安くらいにね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、ボクはいつフォトショップをAIに任せられるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "報道だと、外のAIとつなぐ仕組みは、2027年の初めに限られた人向けのお試しから始まる予定よ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "じゃあ、それまではボクが自分で切り抜きを頑張るのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "要するに、考えるのはAI、手を動かすのは自分のパソコン、って分業が当たり前になりそうって話。画像の大きさ直しみたいな地味な作業は、頼めば済む時代が来そうね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "面倒な作業が減るのは、ほっこりなのだ。次なのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目。アンソロピックが十一月二十三日に、クロード シップっていう仕組みを出したの。中心はまだお試し段階のベータね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "シップ? 船なのだ? クロードが船長になるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "半分正解、英語のシップには、出荷するって意味もあるの。プログラムの直しを、世に出すところまで手伝う仕組みよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "プログラムの直しを出荷って、どういうこと?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "会社の開発だと、誰かが直したら、別の人が中身を確かめてオッケーを出してから本番に入れるの。その確認のお願いを、プルリクエストって呼ぶわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、宿題を出して、先生が丸をつけるやつなのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "いい例えね。クロード シップには、中身を見る係、自動の試験で落ちたところを直す係、条件を満たせば丸までつける係がいるの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "宿題をAIが書いて直して、丸までつけるのか!? 先生いらないじゃん!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "いなくはならないわよ。丸をつけていい範囲は、チームが自分で文章のルールに書いて決めるの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "全部任せちゃうのは、ちょっと怖くないのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "会社もそこは慎重で、最初は見てるだけのモードで、一か所から試すのがおすすめって案内してるわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "いきなり運転を任せずに、助手席で様子見からなのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "その通り。対象はチームや大企業向けのプランで、ギットハブっていうプログラムの置き場を使ってるところね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ボクたちが使うアプリにも、関係あるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "要するに、人の確認待ちを減らして、開発を速く回すのを目指す仕組みって話。アプリの修正が早く届くかもしれない反面、最後に人がどこを見るかが問われるわね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "速さと安心の、綱引きなのだ。ラストいくのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四本目は中国から。ゼットエーアイっていう会社が十一月二十三日に、ジーエルエム ゴーテンヨンっていうAIを出したの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "来たのだ、最初に言ってた、同じ道を二周するAI!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "よく覚えてたわね。ふつうのAIは、何十段もある考える層を、上から下まで一回通って答えを出すの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "層って、ミルフィーユみたいなやつなのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "近いわ、このAIは28段分のかたまりを、同じ中身のまま二回通すの。ループ型って呼ばれる作りね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "同じ問題集を二周すると、二周目はスラスラ解ける、あれなのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "まさにそれ。問題集は増やさずに、考える深さだけ増やそうって作戦よ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "で、肝心の頭の良さは?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "会社は、自分より何倍も大きいAIと同じくらい強いって言ってるわ。ただ、このジーエルエム ゴーテンヨン自身の詳しいベンチマーク得点は示してなくて、公開された比較実験は小さい三百億規模のモデルなのよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "tsuntsun",
+      "text": "点数を隠して、ボク天才って言ってる子みたいなのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "言い方はきついけど、そこは外の検証待ちね。中身の公開も、安全の点検が済んでからの予定だって。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクたちには、どう関係あるのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに、AIをただ大きくするだけじゃなく、同じ部品を何回も使って性能を伸ばす流れが出てきたって話。ただし、このモデル自体は七千五百億規模で、同じ層を二度通るぶん計算も増えるから、安い機械で動くとまでは言えないわね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ただ大きくする以外の工夫でも賢くできるなら、夢があるのだー!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今朝は、アマゾンの一兆円の買い物、フォトショップを動かすAI、丸をつけるクロード、二周するAIの四本だったわ。",
+      "news_index": 0,
+      "reading": "けさは、アマゾンのいっちょうえんのかいもの、フォトショップをうごかすAI、まるをつけるクロード、にしゅうするえーあいのAIのよんほんだったわ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "特大カートと、世界のコンセントと、AIの先生と、問題集の二周目。今日の雑談で使うのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "カートは違うって言ったでしょ。でも、まあいいわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "聴いてくれてるかた、いってらっしゃい。気になった話は、各社の発表や報道をのぞいてみてね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "また明日のテック朝便で会うのだー! いってらっしゃいなのだ!",
+      "news_index": 0
+    }
+  ],
+  "program_description": "通勤・通学のお供に、テックの話題を四本サクッとまとめる朝便。一本目は、アマゾンがデカートのAIチップ最適化技術を買う契約を結び、事前には一兆円規模とも報じられていた話。二本目は、アドビが発表した、チャットジーピーティーやクロードが手元のフォトショップを直接動かせる仕組みと、その土台になる共通規格エムシーピーの広がり。三本目は、AIがプログラムの直しを確認し、修正し、条件付きで承認まで進めるアンソロピックのクロード シップ。四本目は、同じ考える層を二周させて賢くする、中国ゼットエーアイの新しいAI。ずんだもんの特大カートの勘違いや宿題の例えを交えつつ、めたんが噛み砕いて、私たちの生活への影響まで整理する回です。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20261125_050614_chars.webp",
+    "hero_rel": "/images/topics/tech_20261125_050614.webp",
+    "title": "靴選びと二周目の朝 〜一兆円の調整係と、丸をつけるAI〜",
+    "companies": [
+      "Claude",
+      "Amazon",
+      "OpenAI",
+      "NVIDIA"
+    ],
+    "thumbnail_ready": true
+  },
+  "summary_short": "アマゾンのデカート買収報道から、アドビのフォトショップをAIが直接操作する仕組み、コードを承認までこなすクロード シップ、思考層を二周させる中国ゼットエーアイの新AIまで。テック四本を朝にまとめて整理します。",
+  "published_at": "2026-11-25T07:01:59+09:00"
+}
