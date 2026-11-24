@@ -1,0 +1,739 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-11-24T08:09:45.091825+00:00",
+  "title": "ChatGPTの「いつもの会話」の頭脳が入れ替わった 〜GPT-6.2 Sol、画像理解47.4%から71.7%へ〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "intro",
+      "text": "こんばんは、旅の道ラジオ夜便、テック深掘り回。四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだ! 今夜は一本だけ、じっくりいくのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今夜のテーマは、チャットジーピーティーの、いつもの会話の頭脳が入れ替わった話よ。",
+      "news_index": 0,
+      "reading": "こんやのテーマは、チャットジーピーティーの、いつものかいわのずのうがいれかわったはなしよ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "いつもの会話? 新しいAIの発表じゃないのだ?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "派手な新作の発表じゃないの。みんなが毎日話しかけてる普通のチャットの中身が、十一月二十三日に、ジーピーティー ロクテンニ ソルに替わったのよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、ボクが寝てる間に、話し相手が入れ替わってたのだ!?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "地味に見えて、使う人の数で言えば一番効いてくる更新なの。だから今夜は、背景から順番にほどいていくわね。",
+      "news_index": 0,
+      "reading": "じみにみえて、つかうひとのかずでいえばいちばんきいてくるこうしんなの。だからこんやは、はいけいからじゅんばんにほどいていくわね。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "まず、ソルって何なのだ? お料理の塩なのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "塩はソルトね。ソルは、スペイン語なんかで太陽のことよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "太陽! じゃあ相棒のアストラは、お星さまなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "いい読みね。十一月十七日に、ロクテンニの世代はアストラとソルの二本立てで出たの。",
+      "news_index": 1,
+      "reading": "いいよみね。じゅういちがつじゅうしちにちに、ロクテンニのせだいはアストラとソルのふたほんだてでだしたの。"
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "オープンエーアイの説明だと、アストラは一番難しい仕事向けの最上位で、ソルは普段の仕事向けの効率のいい係よ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "最上位と、普段使い。お寿司の特上と、並なのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "並って言うと怒られそうだけど、近いわ。社員の多くが、ふだんはソルを使ってるって話も出てるの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "作ってる人たちが、自分で並を選んで食べてるのだ。それは信用できるのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ここで大事なのは、今のチャットジーピーティーは画面が三つに分かれてること。普通の会話のチャット、仕事用のワーク、プログラミング用のコーデックスよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "三つも!? 学校の、普通教室と職員室と、パソコン室みたいなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "たとえとしては上出来ね。で、十七日にロクテンニが入ったのは、職員室とパソコン室だけだったの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "普通教室は、置いてけぼりだったのだ!?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。普通の会話は、十月七日に始まったロクの世代のまま、一週間待たされてたの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "それが二十三日に、普段の会話向けに調整したソルが、普通教室にも来たってわけ。",
+      "news_index": 1,
+      "reading": "それがにじゅうさんにちに、ふだんのかいわむけにちょうせいしたソルが、ふつうきょうしつにもきたってわけ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "で、誰の教室に来たのだ? ボクのクラスにも来るのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "対象は有料のプラス、プロ、ビジネス、エンタープライズで、世界同時よ。ただ、アカウントに届くまで数日かかることもあるって。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kanashimi",
+      "text": "無料のボクは、どうなるのだ……?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "shitazuke",
+      "text": "無料とゴーのプランは、当面ジーピーティー ゴーテンロク ルナのままよ。いつ替わるかは、まだ書かれてないわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ところで、なんで今なのだ? 一週間ずらす意味、あるのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "普通の会話への展開を一週間ずらした理由は、公式には説明されてないわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "それにこの時期は、ライバルが立て続けに動いてたの。十一月九日にアンソロピックのクロード フェイブル ゴーテンニが外部の総合採点で首位を取り返して、十八日にはグーグルのジェミニ フォー ネオンも出たわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "うわ、運動会のリレーで、バトンが毎週入れ替わってるのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "hisohiso",
+      "text": "ちなみに十七日の発表は、アンソロピックの上場にぶつけて急いだんじゃないか、っていう憶測も一部で出てたわ。あくまで噂で、確かめられた話じゃないけどね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "噂は噂として、メモの端っこに小さく書いておくのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに、最上位の競り合いが激しい中で、オープンエーアイは、仕事用に続いて普通の会話にもロクテンニを広げた、って流れね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "じゃあ中身なのだ! どのくらい賢くなったのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "先に断っておくと、ここからの数字は、オープンエーアイが普通の会話の画面で測った社内テストよ。比べる相手は、前のジーピーティー ロク。",
+      "news_index": 2,
+      "reading": "さきにことわっておくと、ここからのすうじは、オープンエーアイがふつうのかいわのがめんではかったしゃないテストよ。くらべるあいては、まえのジーピーティーロク。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "自分ちで測った体重計の数字ってことなのだ。覚えておくのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "一つ目は画像の理解。47.4%から71.7%に上がったの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "二十四ポイントも!? テストの点が、赤点ギリギリから、いきなり優等生なのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "画像の理解って、写真やスクリーンショットを見せて質問することよ。レシートの写真、グラフの画像、エラーが出た画面なんかね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ボク、冷蔵庫の中身を撮って、晩ごはん何作れるか聞くのが好きなのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "まさにそういう使い方ね。写真を見て外すことが減る、っていう方向の伸びよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二つ目は、難しい指示を守れるか。特に厳しい注文の問題で、62.5%から78.1%になったの。",
+      "news_index": 2,
+      "reading": "ふたつめは、むずかしいしじをまもれるか。とくにきびしいちゅうもんのもんだいで、ろくじゅうにてんごぱーせんとから78.1%になったの。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "難しい指示? 宿題を代わりにやって、とかなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "それは指示じゃなくて悪だくみ。たとえば、三百字以内で、箇条書き三つ、専門用語なしで、みたいな条件を全部まとめて守れるかよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "条件が三つあると、ボクは二つ目で一つ目を忘れるのだ……。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "AIも前はそうだったの。つまり、注文の多いお客さんにも、聞き漏らしが減ったってこと。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三つ目は専門的な社内の課題。一番軽い考え方の設定で、だいたい52%から65%に上がったそうよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "一番軽い設定って、手を抜いたモードで測ったのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "手抜きというより、じっくり考える時間を一番短くした設定ね。すぐ返事が欲しい普段の会話に近い条件よ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "四つ目は? 指が足りなくなってきたのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四つ目は、ブラウズコンプっていうテストの社内版よ。ネットを調べ回って、なかなか見つからない答えを探し当てる力を測るの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kamera",
+      "text": "ネットの宝探しなのだ! 結果はどうだったのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "考える深さの設定が四段階あって、全部で前の版を上回ったわ。一番深い設定だと、54.4%から64.5%よ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "約十ポイントなのだ。宝の地図が、ちょっと読めるようになったのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "それと、普段の会話向けの調整として、条件をいくつも同時に考えるのが得意になったって。ホテル探しなら、値段と場所を両方にらむ、みたいなことね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "その先で、値下がりしたら知らせましょうか、みたいな次の一手も提案してくれるそうよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "気が利く旅館の仲居さんみたいなのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "で、私が今回いちばん注目してるのが、安全面なの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "安全面? AIが転んでケガしないように、ってことなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "転ばないわよ。十八歳未満向けの難しい会話で、安全方針を守れた割合のことよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "これが77から80%だったのが、91から94%に上がったの。伸びが大きかったのは、感情への依存、食事の乱れ、年齢制限のある商品や危ない遊びの話題よ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "感情への依存って、どういうことなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "AIとの会話に気持ちが寄りかかりすぎて、周りの人や暮らしから離れていっちゃう状態のことね。そこで寄り添いつつ、ほかの支えにもつなげるのが求められる対応なの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "優しいけど、ずっと抱え込まない保健室の先生なのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "いいたとえ。ただ注意点として、これはルールを守れたかの数字で、答えが正確かどうかの数字じゃないわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、外の人が測った成績はないのだ? 体重計、自分ちのだけじゃ不安なのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "外部の採点会社、アーティフィシャル アナリシスの総合指数があるわ。ただ、これは先週の仕事用の版のソルを測ったものよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ソルは57点で、前のロクテンイチのソルから2点アップ。上にはフェイブル ゴーテンニの65、アストラの62、ネオンの61、オーパス ゴーテンゴの59が並んでるわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、トップじゃないのだ!? 太陽なのに、まぶしさ足りないのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そもそも首位を狙う係じゃないの。注目は値段で、その採点を一通り走らせる一問あたりの費用が、ソルは約1ドル。フェイブル ゴーテンニは約26ドルよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "二十六倍!? 学食のカレーと、ホテルのフルコースくらい違うのだ!",
+      "news_index": 2,
+      "reading": "にじゅうろくばい!?がくしょくのカレーと、ホテルのフルコースくらいちがうのだ!"
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "その代わり、弱点もあるの。プログラミングの作業を測る指数では、ソルは前の版の52から49に下がったわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "下がっちゃったのだ!? 新しくなったのに、苦手科目ができたのだ?",
+      "news_index": 2,
+      "reading": "さがっちゃったのだ!?あたらしくなったのに、にがてかもくができたのだ?"
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、全部が伸びたわけじゃないの。それと今朝も話したけど、答えが短めになって、わからないと認める度合いが下がった、っていう外部の文体評価もあったわね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "shitazuke",
+      "text": "まとめると、写真と注文と安全はしっかり伸びた、でもプログラミングは一歩後退で、総合の首位はほかの会社。安くて外さない普段使いの係、ってところね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ここからが本題なのだ。ボクたちの生活には、何が変わるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "分けて考えましょう。まず有料プランで普通の会話の最新モデルを使ってる人は、届き次第、自動でソル系のロクテンニに替わるわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "設定いじらなくていいのだ。ズボラなボク向きなのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "一番わかりやすい変化は写真ね。手書きのメモやレシート、説明書の一部を撮って聞く人は、違いを感じやすいと思う。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクの冷蔵庫の写真で、賞味期限切れの牛乳も見つけてくれるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "それは自分で確かめなさい。ただ、細かい条件を付けた頼みごとは、通りやすくなるはずよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "次に、無料の人。当面はルナのままだから、有料と無料の差は少し開いたことになるわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kanashimi",
+      "text": "格差社会なのだ……ボクのお小遣いでは、プラスは月二十ドルで大きいのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "でもこれまでも、新しい頭脳はまず有料で出て、あとから無料に降りてくる流れが多かったの。待つのも一つの手よ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "三つ目は、十八歳未満の人が気持ちの相談相手に使う場合ね。未成年向けの難しい話題で対応が改善したのは、安心材料の一つよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "夜中に眠れなくて、AIに話しかけちゃう人もいるのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。未成年向けの難しい評価で、安全方針を守る割合が九割を超えたのは意味があるの。ただ、本当にしんどい時は、身近な人や専門の窓口にもつないでほしいわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "子どもがいるおうちにも、関係あるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "あるわね。年齢制限のある商品や危ない遊びの話題でも改善したから、子どもが触る機会がある家庭には、うれしい方向よ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "それと注意点。仕事用のソルでは、答えが短めで不確かさを認めにくいという外部評価もあるけど、会話向けの版で同じ傾向かはまだ分からないわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "自信満々の友だちほど、たまに道を間違えるのと同じなのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "もう一つ、前の世代のゴーテンロク ソルは、十二月二十三日に普通の会話の選択肢から外れる予定よ。前の話し方が好きだった人は、慣れる期間は一か月ってことね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "miage",
+      "text": "お気に入りの先生が、年末で転勤しちゃうのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "次は、AIを組み込んだサービスを作る開発者の人。ソルの料金は、百万トークンあたり入力2ドル、出力10ドルで、前の版と同じ値段のまま性能が上がったの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "とーくん? 前に聞いた、文章の薄切りハムなのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "覚えてたのね。同じハム代で味が良くなったんだから、普段使いのサービスには乗り換えの理由になるわ。プログラミング用なら、他社と比べて選ぶ必要があるけど。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "最後に業界全体。最上位の点数争いとは別に、安くて、普段の質問で外さない係の勝負がはっきりしてきたの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "グーグルの、速い係のハイドロジェンとか、真ん中の子のネオンとかなのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そのとおり。みんなが一日に何度も話しかけるのは、特上じゃなくて並の方だから、ここの出来が実は一番お客さんを左右するのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "shitazuke",
+      "text": "つまり、今日から生活がガラッと変わる話ではないけど、毎日の小さな外れが減っていく話。業界の目線では、普段使いの質と値段が主戦場になってきた、ってことね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "じゃあ、これから何を見ておけばいいのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四つあるわ。一つ目は外の検証。今回の会話向けの数字は社内テストだから、外の採点会社が会話向けのソルを測ったらどうなるかね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "自分ちの体重計と、健康診断の数字が合うか、なのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二つ目は、無料とゴーのプランにいつソルが降りてくるか。ここで一気に使う人の数が増えるわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ボクのクラスに太陽が来る日を、待つのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "三つ目は、ライバルの打ち返し。グーグルやアンソロピックが、普段使いの係を値段か性能で更新してくるかよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四つ目は、もっと先の話。オープンエーアイの主席科学者が、監視技術などが一定の水準に届くまでは、開発各社が共通の基準で能力向上に歯止めをかけようって提案したのは、前に話したわね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "覚えてるのだ。社内では、最新の内部モデルが研究にどれだけ役立つかも調べてるって話なのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そう。ただ、その研究の話と今回のチャット向け更新が直接つながってるかは、公式には説明されてないわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "それと設計の追いかけっこ。中国のゼットエーアイが、新しいジーエルエム ゴーテンヨンで、二十八層のまとまりを二回通す、ループ トランスフォーマーを採用したの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、同じ層をもう一度通して、考えを深めるのだ!?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "昔からある設計のアイデアが、大規模なモデルで実用化されることもあるのよ。だから差を付けるのは、普段の会話での細かい仕上げになっていくかもしれないわね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "最後は、お味噌汁の出汁の取り方で勝負なのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "今夜は、チャットジーピーティーの普通の会話が、ジーピーティー ロクテンニ ソルに替わった話だったのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "まとめるわね。有料プランで画像の理解が47.4%から71.7%、難しい指示が62.5%から78.1%、つらい会話での安全対応も九割台に伸びた。ただ社内の数字で、プログラミングは後退、総合の首位はほかの会社よ。",
+      "news_index": 5,
+      "reading": "まとめるわね。ゆうりょうプランでがぞうのりかいが47.4%から71.7%、むずかしいしじがろくじゅうにてんごぱーせんとから78.1%、つらいかいわでのあんぜんたいおうもきゅうわりだいにのびた。ただしゃないのすうじで、プログラミングはこうたい、そうごうのしゅいはほかのかいしゃよ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "冷蔵庫の写真と、注文の多いお客さんと、保健室の先生。明日の雑談で言うのだ!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "冷蔵庫は余計だけど、まあいいわ。聴いてくれてるかた、今夜もお疲れさま。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "気になる人は、オープンエーアイのリリースノートや、各社の報道をのぞいてみてね。また大きなニュースがあったら、夜便で深掘りするわ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "おやすみなのだー! また聴いてほしいのだ!",
+      "news_index": 5
+    }
+  ],
+  "program_description": "チャットジーピーティーの普通の会話を担う頭脳が、十一月二十三日に有料プランでジーピーティー ロクテンニ ソルへ替わった話をじっくり掘り下げた回。背景では、仕事用のワークとプログラミング用のコーデックスに一週間先に入った流れと、アストラとソルの役割分担、ライバル各社の新モデルが続いた時期を整理。技術では、画像理解や難しい指示の遵守、ネット調べもの、つらい話題での安全対応の伸びを噛み砕き、外部採点の順位やプログラミングでの後退にも触れた。含意では、有料と無料の差、心の相談に使う人、開発者の費用への影響を話し、展望では外部検証と無料版への展開、設計の追随を見どころに挙げた。",
+  "variant": "tech_deepdive",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20261124_170945_chars.webp",
+    "hero_rel": "/images/topics/tech_20261124_170945.webp",
+    "title": "ChatGPTの「いつもの会話」の頭脳が入れ替わった 〜GPT-6.2 Sol、画像理解47.4%から71.7%へ〜",
+    "companies": [
+      "OpenAI",
+      "Claude",
+      "Google",
+      "Gemini"
+    ],
+    "thumbnail_ready": true
+  },
+  "summary_short": "ChatGPTの普段の会話を担うモデルが有料プランでGPT-6.2 Solに交代。画像理解や難しい指示への対応、ネット調べものが伸びた一方、プログラミングは後退。有料と無料の差や開発費への影響も読み解きます。"
+}

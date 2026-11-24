@@ -7,8 +7,8 @@
     <description>ずんだもん × めたん × つむぎが届ける、ゲーム &amp; テックニュース雑談ラジオ。朝便と夜便で毎日更新、レトロから新作まで、最新 AI 動向から業界マクロまで雑談形式でサクッと。</description>
     <language>ja</language>
     <copyright>© 2026 tabinomichi</copyright>
-    <lastBuildDate>Tue, 24 Nov 2026 07:03:11 +0900</lastBuildDate>
-    <pubDate>Tue, 24 Nov 2026 07:01:47 +0900</pubDate>
+    <lastBuildDate>Tue, 24 Nov 2026 17:47:34 +0900</lastBuildDate>
+    <pubDate>Tue, 24 Nov 2026 17:09:45 +0900</pubDate>
     <generator>build_rss_feed.py (tabinomichi radio)</generator>
     <image>
       <url>https://news.tabinomichi.jp/podcast-cover.png?v=1779005902</url>
@@ -29,6 +29,21 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>ChatGPTの「いつもの会話」の頭脳が入れ替わった 〜GPT-6.2 Sol、画像理解47.4%から71.7%へ〜</title>
+      <link>https://news.tabinomichi.jp/radio/20261124_170945</link>
+      <guid isPermaLink="false">tabinomichi-radio-20261124_170945</guid>
+      <pubDate>Tue, 24 Nov 2026 17:09:45 +0900</pubDate>
+      <description>チャットジーピーティーの普通の会話を担う頭脳が、十一月二十三日に有料プランでジーピーティー ロクテンニ ソルへ替わった話をじっくり掘り下げた回。背景では、仕事用のワークとプログラミング用のコーデックスに一週間先に入った流れと、アストラとソルの役割分担、ライバル各社の新モデルが続いた時期を整理。技術では、画像理解や難しい指示の遵守、ネット調べもの、つらい話題での安全対応の伸びを噛み砕き、外部採点の順位やプログラミングでの後退にも触れた。含意では、有料と無料の差、心の相談に使う人、開発者の費用への影響を話し、展望では外部検証と無料版への展開、設計の追随を見どころに挙げた。</description>
+      <content:encoded><![CDATA[チャットジーピーティーの普通の会話を担う頭脳が、十一月二十三日に有料プランでジーピーティー ロクテンニ ソルへ替わった話をじっくり掘り下げた回。背景では、仕事用のワークとプログラミング用のコーデックスに一週間先に入った流れと、アストラとソルの役割分担、ライバル各社の新モデルが続いた時期を整理。技術では、画像理解や難しい指示の遵守、ネット調べもの、つらい話題での安全対応の伸びを噛み砕き、外部採点の順位やプログラミングでの後退にも触れた。含意では、有料と無料の差、心の相談に使う人、開発者の費用への影響を話し、展望では外部検証と無料版への展開、設計の追随を見どころに挙げた。]]></content:encoded>
+      <enclosure url="https://news.tabinomichi.jp/audio/ai/20261124_170945.mp3?v=1795510049" length="12909548" type="audio/mpeg"/>
+      <itunes:title>ChatGPTの「いつもの会話」の頭脳が入れ替わった 〜GPT-6.2 Sol、画像理解47.4%から71.7%へ〜</itunes:title>
+      <itunes:summary>チャットジーピーティーの普通の会話を担う頭脳が、十一月二十三日に有料プランでジーピーティー ロクテンニ ソルへ替わった話をじっくり掘り下げた回。背景では、仕事用のワークとプログラミング用のコーデックスに一週間先に入った流れと、アストラとソルの役割分担、ライバル各社の新モデルが続いた時期を整理。技術では、画像理解や難しい指示の遵守、ネット調べもの、つらい話題での安全対応の伸びを噛み砕き、外部採点の順位やプログラミングでの後退にも触れた。含意では、有料と無料の差、心の相談に使う人、開発者の費用への影響を話し、展望では外部検証と無料版への展開、設計の追随を見どころに挙げた。</itunes:summary>
+      <itunes:image href="https://news.tabinomichi.jp/images/og/20261124_170945.jpg"/>
+      <itunes:duration>13:26</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>言い切るAIと貸し出す倉庫の朝 〜短くなった答えと、月31億ドルの台所〜</title>
       <link>https://news.tabinomichi.jp/radio/20261124_050905</link>
@@ -1511,21 +1526,6 @@
       <itunes:summary>旅の道ラジオ朝便、テックニュース雑談回。ドイツのブラック フォレスト ラボが出した画像AI、フラックス スリー イメージは、直したい場所だけを箱で囲んで描き直せて、触っていない部分は1ピクセルも変わらないという話から。続いてメモリ大手マイクロンが、パソコンやスマホのメモリ不足は2028年まで続き、来年分はもう大半が売約済みと語った件。三本目は、グーグルの検索のAI要約をめぐる出版社側の独禁法訴訟を裁判所が退けたニュースを手短に。最後は千葉の火力発電所の敷地に、JERAとデルたちが2.3兆円以上をかけて国内最大級のAIデータセンターを作る構想。発電所の横に計算の倉庫を建てる理由を、ずんだもんとめたんが朝の軽さでサクッとまとめる回です。</itunes:summary>
       <itunes:image href="https://news.tabinomichi.jp/images/og/20261002_170443.jpg"/>
       <itunes:duration>7:08</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>あと100日の夕方 〜噂だけが街を動かした〜</title>
-      <link>https://news.tabinomichi.jp/radio/20261002_170306</link>
-      <guid isPermaLink="false">tabinomichi-radio-20261002_170306</guid>
-      <pubDate>Sat, 03 Oct 2026 05:01:32 +0900</pubDate>
-      <description>1999年にスパイクから発売されたプレイステーションの都市伝承＆心霊体験アドベンチャー『夕闇通り探検隊』を、ずんだもんと春日部つむぎで掘り下げる回。高度成長期にベッドタウンとして膨らんだ架空の街・陽見市を舞台に、飼い犬メロスの散歩を口実に森の烏塚へ向かった中学生3人が、人面ガラスから「あと100日で、誰か死ぬ」と告げられる導入をまず紹介。5分の休み時間で校内を回って生徒から噂を集める学校パートと、操作キャラを選んで2Dの街を歩き回る調査パートという二段構えのシステム、実写を元にした画作りとパノラマビューの生々しい質感、グロ描写に頼らず音と間だけで攻めてくる怖さまで話が及ぶ。トワイライトシンドロームの主要スタッフが一部参加した系譜、そして今も配信版が無く中古がプレミア価格という「ソフト自体が都市伝説」状態についても語る。ずんだもんが探検隊を虫取りだと勘違いし続ける回でもある。</description>
-      <content:encoded><![CDATA[1999年にスパイクから発売されたプレイステーションの都市伝承＆心霊体験アドベンチャー『夕闇通り探検隊』を、ずんだもんと春日部つむぎで掘り下げる回。高度成長期にベッドタウンとして膨らんだ架空の街・陽見市を舞台に、飼い犬メロスの散歩を口実に森の烏塚へ向かった中学生3人が、人面ガラスから「あと100日で、誰か死ぬ」と告げられる導入をまず紹介。5分の休み時間で校内を回って生徒から噂を集める学校パートと、操作キャラを選んで2Dの街を歩き回る調査パートという二段構えのシステム、実写を元にした画作りとパノラマビューの生々しい質感、グロ描写に頼らず音と間だけで攻めてくる怖さまで話が及ぶ。トワイライトシンドロームの主要スタッフが一部参加した系譜、そして今も配信版が無く中古がプレミア価格という「ソフト自体が都市伝説」状態についても語る。ずんだもんが探検隊を虫取りだと勘違いし続ける回でもある。]]></content:encoded>
-      <enclosure url="https://news.tabinomichi.jp/audio/indie/20261002_170306.mp3?v=1790971363" length="5116281" type="audio/mpeg"/>
-      <itunes:title>あと100日の夕方 〜噂だけが街を動かした〜</itunes:title>
-      <itunes:summary>1999年にスパイクから発売されたプレイステーションの都市伝承＆心霊体験アドベンチャー『夕闇通り探検隊』を、ずんだもんと春日部つむぎで掘り下げる回。高度成長期にベッドタウンとして膨らんだ架空の街・陽見市を舞台に、飼い犬メロスの散歩を口実に森の烏塚へ向かった中学生3人が、人面ガラスから「あと100日で、誰か死ぬ」と告げられる導入をまず紹介。5分の休み時間で校内を回って生徒から噂を集める学校パートと、操作キャラを選んで2Dの街を歩き回る調査パートという二段構えのシステム、実写を元にした画作りとパノラマビューの生々しい質感、グロ描写に頼らず音と間だけで攻めてくる怖さまで話が及ぶ。トワイライトシンドロームの主要スタッフが一部参加した系譜、そして今も配信版が無く中古がプレミア価格という「ソフト自体が都市伝説」状態についても語る。ずんだもんが探検隊を虫取りだと勘違いし続ける回でもある。</itunes:summary>
-      <itunes:image href="https://news.tabinomichi.jp/images/og/20261002_170306.jpg"/>
-      <itunes:duration>5:19</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
