@@ -1,0 +1,539 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-11-25T20:06:07.224657+00:00",
+  "title": "自分で作る道具と宇宙の倉庫の朝 〜六割のAIと、消える2,900万曲〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "intro",
+      "text": "おはようございます、旅の道ラジオ朝便、テックニュースの回。四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝もテックの話、サクッといくのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今朝は六本。自分専用のアプリを作るAIに、音楽配信の大掃除、それから宇宙に浮かぶ倉庫の話まであるわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "宇宙に倉庫!? 朝から話のスケールがおかしいじゃん!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "最後にちゃんと回収するから、楽しみにしてて。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "了解なのだ! じゃあ一本目、いってみよー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。アンソロピックが十一月二十四日に、クロードで作ったものをパソコンのアプリとして入れられる機能を、お試し版で出したの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "クロードで作ったもの? クロードって、おしゃべりするAIだっけ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そう。でもクロードには、頼むと小さな道具を組み立てて見せてくれる、アーティファクトっていう機能があるのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "あーてぃふぁくと? 遺跡から出てくる、古代の秘宝なのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "掘り出し物じゃないわ。チャットの横に出てくる、AIが作った成果物のこと。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ今までは、チャットの画面の中でしか使えなかったってこと?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そういうこと。今回は共有メニューから選ぶだけで、マックやウィンドウズに専用アイコン付きのアプリとして入るの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "マジか!? プログラムを書けないボクでも、自分専用のソフトが持てちゃうじゃん!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "全部の料金プランが対象で、使った分はプランの利用枠から減っていく仕組み。通知を出したり、メニューバーに常駐したりもできるって。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ボク専用の、おやつの時間を知らせるアプリを作るのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "かわいい使い道ね。ただ、パソコンのファイルを書き換えられる強い許可は、作った人を信用できるときだけ出して、ってアンソロピックも注意してるわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "知らない人からもらったアプリには、家の合鍵を渡さないってことなのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "要するに、AIが答えを返す係から、ちょっとした道具を作ってくれる係になりつつあるって話。仕事の小さな手間を、自分で片付けられる人が増えそうね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "夢が広がるのだ。次いこ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目は、今の話にちょっと冷や水。AIに日常の事務仕事をどこまで任せられるか、を測る新しいテストが出たの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "テスト? AIにも、期末試験があるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "近いわ。名前はシェルベンチで、オープンクローっていう団体が十一月二十四日に公開して、カリフォルニア大学バークレー校などの研究者も作りに加わってるの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "どんな問題が出るのだ? 難しい方程式とか?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そこが違うのよ。メールやチャット、領収書が散らかった中から、最新版の書類を探す、みたいな実務が百問。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "それ、ボクの机の上と同じ状態なのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "だから現実的なのよ。結果は、一番よくできたAIでも62.5%だったわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? 最強のAIでも、十回に四回くらいはしくじるのだ!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "しかも、同じ条件で三回やらせて三回とも正解できたのは、その一番のAIでも半分に届かなかったって。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "天才なのに、たまに宿題を家に忘れてくる子なのだ……。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "うまいこと言うじゃない。要するに、AIに任せるのはいいけど、最後の確認は人間がやる、がまだ正解ってことね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "さっきのおやつアプリも、ボクがちゃんと見張るのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目は音楽。音楽配信のタイダルが、まるごとAIで作った曲を、十二月九日から消していくって発表したの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "タイダル? 海の潮のことなのだ? ザブーンってやつ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "英語の意味はそうだけど、ここでは音楽が聴き放題の配信アプリの名前。スポティファイの仲間ね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも、なんでわざわざ消すのだ? AIの曲でも、聴きたい人はいるじゃん?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "数字を聞くと分かるわ。直近の九十日に届いた曲の43%が、まるごとAIで作られたものだったの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "43%!? 半分近くがAIの曲なのだ!?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "しかもその96%は、ここ三か月の再生がゼロ。誰にも聴かれない曲が、棚を埋め尽くしてたってわけ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、お客さんの来ない本屋さんに、白紙の本が毎日トラックで届く感じなのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "言い得て妙ね。消える曲は、来年の頭までに2,900万曲以上になる見込みだって。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "2,900万曲!? 一曲三分でぶっ通しで聴いても、百年以上かかるのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ちなみに、AIを手伝いに使っただけの曲はセーフ。対象は、AIがまるごと作った曲だけよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、ボクの鼻歌をAIで整えた曲は残るってこと?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "それは残るわね。要するに、人が作った曲が量産品に埋もれないように、配信する側が線を引き始めたって話。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "好きなアーティストの新曲が、見つけやすくなるのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "四本目は買い物の話。アマゾンとメタが、ミューズっていうAIの扱いで話し合ってるって、フォーチュンが報じたの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "メタって、インスタの会社だっけ? ミューズは何者なのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "正解。ミューズはメタの買い物エージェント、ようは頼むと商品を比べて、注文まで手伝ってくれるAIのこと。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ボクの代わりに、お店をはしごしてくれる係なのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そう。でもアマゾンは九月に、そのミューズを自分のお店から締め出したのよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? お客さんの代理なのに、入口で止められちゃったのだ!?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一番の引っかかりは広告。アマゾンの広告の売上は年に686億ドルもあって、AIが間に入ると、おすすめ広告を素通りされちゃうの。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "レジ前のお菓子コーナーを、AIが全部スルーしちゃうってことなのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "そういうこと。ブラックフライデーの直前だけど合意はまだで、決まるには両社のトップの承認が要るらしいわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクたちの買い物は、どうなるのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "今すぐ変わる話じゃないわ。ただこれからは、どのAIを通して買うかで、並ぶお店の顔ぶれが変わるかもね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "買い物の入口を、AIとお店で取り合ってるのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "五本目はパソコン。エイスースの仕事向けノート、エキスパートブック エーセブンを、アイティーメディアが試してたの。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "仕事向け? 遊びには使えないパソコンなのだ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "使えるわよ。会社でまとめて買う人向けに、丈夫さや管理のしやすさを足したシリーズってだけ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ふむふむ。で、何がすごいのだ?",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "見出しは電池の持ち。四年前のノートと比べて、約2.5倍も長持ちしたって。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "2.5倍!? お昼に充電が切れてたのが、夜までもつってことなのだ!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "ざっくりだけど、そんな感覚ね。中身はエーエムディーのライゼン エーアイ セブンっていうチップで、AIの処理を省エネでこなす部品も入ってるの。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "お値段は? そこが一番大事なのだ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "試した構成は通常23万9,800円で、記事の時点だと19万9,800円。画面は14型の有機ELよ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "ボクのお小遣いだと、何年ぶんの貯金なのだ……。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "要するに、四、五年前のノートを使ってる人は、買い替えると電池の持ちで差を感じやすいって話。外で作業することが多い人向けね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ラスト六本目が、最初に言った宇宙の倉庫。アメリカの通信の役所、エフシーシーが十一月二十五日に、スペースエックスの計画を認めたの。",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "スペースエックスって、ロケットの会社だっけ? 何を認めてもらったのだ?",
+      "news_index": 6
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "AIの計算をする衛星を、最大で100万基打ち上げる計画。名前はスターマインドよ。",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "100万基!? 夜空が、星より衛星だらけになっちゃうのだ!?",
+      "news_index": 6
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "狙いは、データセンター、ようはAIを動かす巨大なサーバー倉庫を宇宙に置くこと。宇宙なら太陽の光で電気を集めやすいのよ。",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、地上だと電気と水の取り合いで、ご近所ともめてたやつなのだ!",
+      "news_index": 6
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "よく覚えてたわね。ただ期限は気が長くて、最初の一基が2033年まで、全部そろうのは2040年まで。",
+      "news_index": 6,
+      "reading": "よくおぼえてたわね。ただきげんはきがながくて、さいしょのいっきがにせんさんじゅうさんねんまで、すべてそろうのはにせんよんじゅうねんまで。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "気の遠くなるような先の話なのだ。気長に待つのだ。",
+      "news_index": 6
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "それに、使い終わった衛星の片付け方は説明が足りないってことで、一部は別の許可待ち。天文学の学会やアマゾンも反対の意見を出してたわ。",
+      "news_index": 6
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、ボクたちの生活には?",
+      "news_index": 6
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "今すぐは何も変わらないわね。でも、AIの電気が足りない問題を空に逃がして解こうって動きが、役所の許可が出るところまで来たってことね。",
+      "news_index": 6
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今朝は六本。自分専用アプリに、六割のAI、消える2,900万曲、レジ前のお菓子、長持ちノート、宇宙の倉庫だったわ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "AIが道具を作ってくれても、最後の確認はボク。今日いちばんの教訓なのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "珍しく、ちゃんとまとめたじゃない。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "amaama",
+      "text": "えへへ、ボクだってやるときはやるのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "kamera",
+      "text": "聴いてくれてるかた、いってらっしゃい。気になった話は、各社の発表や報道をのぞいてみてね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "また明日のテック朝便で会うのだー!",
+      "news_index": 0
+    }
+  ],
+  "program_description": "テックの話題を六本、サクッと流す朝便。クロードで作った小さな道具をパソコンのアプリとして入れられる新機能、日常の事務仕事でAIがどこまでやれるかを測る新しいテストで最強のAIでも正解は六割ほどだった話、音楽配信のタイダルがまるごとAIで作った曲を十二月から消していく話、アマゾンとメタが買い物AIミューズの締め出しをめぐって話し合っている話、電池が長持ちするエイスースの仕事向けノート、そしてスペースエックスがAIの計算をする衛星を最大100万基打ち上げる計画に役所の許可が出た話まで。ずんだもんのおやつアプリ構想と、四国めたんのツッコミでお届けします。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20261126_050607_chars.webp",
+    "hero_rel": "/images/topics/tech_20261126_050607.webp",
+    "title": "自分で作る道具と宇宙の倉庫の朝 〜六割のAIと、消える2,900万曲〜",
+    "companies": [
+      "Claude",
+      "Amazon",
+      "Meta",
+      "AMD"
+    ],
+    "thumbnail_ready": true
+  },
+  "summary_short": "クロードの自作ツールのアプリ化、AIの事務仕事テストは最強でも正解六割、タイダルがAI生成曲を12月に削除など、テック六本をサクッと。ずんだもんのおやつアプリ構想に、めたんのツッコミも光る朝便です。",
+  "published_at": "2026-11-26T07:01:58+09:00"
+}
