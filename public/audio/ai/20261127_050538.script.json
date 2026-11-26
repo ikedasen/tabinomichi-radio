@@ -1,0 +1,418 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-11-26T20:05:38.079197+00:00",
+  "title": "穴と金庫の朝 〜1,000件の修理と、闇値でほぼ三倍のAIサーバー〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "おはようございます、旅の道ラジオ朝便、テックニュースの回よ。四国めたんです。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 金曜の朝も、テックの話をサクッといくのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今朝は四本。穴だらけのソフト、闇市場のチップ、のぞかない約束、それからAIのコンセントの話ね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "穴に闇にのぞきに、コンセント? 朝から推理小説みたいな並びじゃん?",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "犯人は出てこないから安心して。一本ずつ、通勤のお供にどうぞ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "じゃあさっそく、一本目いくのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一本目。マイクロソフトが毎月出してる修理の詰め合わせで、十一月分の直した穴が1,000件を超えたの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "1,000件!? この前のクロームの二百四件でもびっくりしたのに、桁が増えてるじゃん!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "穴っていうのは脆弱性、ようはソフトの弱点で、悪い人が入り込める隙間のことね。そのうち63件が、一番危ない緊急って判定よ。",
+      "news_index": 1,
+      "reading": "あなたがいいえっていうのはぜいじゃくせい、ようはソフトのじゃくてんで、わるいひとがはいりこめるすきまのことね。そのうちろくじゅうさんけんが、いちばんあぶないきんきゅうってはんていよ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "なんで急にそんなに増えたのだ? マイクロソフト、手抜き工事しちゃったってこと?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "逆よ、逆。AIで穴を探す仕組みを入れたから、今まで見落としてた穴まで、自分たちで見つけられるようになったって説明なの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、虫めがねを最新のやつに替えたら、ホコリが急に見えるようになった感じなのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "いいたとえね。しかもメールソフトのアウトルックで悪用が始まってた穴には、クロードを使うアンソロピックの研究者の名前が、発見者として載ってるわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? よその会社のAIが、マイクロソフトの穴を見つけてあげたのだ!?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そう。ただ怖いのは、攻める側もAIを使えること。見つけて直す速さの勝負になってきてるのよ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあボクたちは、何をすればいいのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "更新のお知らせを、後で後でって放置しないこと。要するに、再起動ボタンが一番安い防犯グッズって話ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "再起動、今日から寝る前にやるのだ。歯みがきと同じ枠に入れちゃうよ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "えらいわ。じゃあ次は、ちょっと物騒な市場の話。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二本目。エヌビディアのビー三百を八基積んだ、ディージーエックス・ビー三百というAIサーバーが、中国の闇市場で高値で売られてるって話よ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "闇市場? 路地裏で、コートの内側からチップを見せてくるおじさんがいるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "映画の見すぎ。アメリカは最先端のAIチップを中国に売っちゃダメってルールにしてて、ビー三百も中国では売れない品なの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "売っちゃダメなのに、なんで売られてるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "よその国を経由したりして、こっそり流れ込んでるみたいね。報道だと、そのチップを積んだサーバーが、中国では一台800万元以上、つまり1億円を軽く超える値段らしいわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "1億円を超えるサーバー!? ボクの自作パソコンなら、何百台も組めちゃう金額なのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "しかもアメリカだと40万ドルくらいの品だから、中国ではほぼ三倍の値段ってわけ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "ダメって言われるほど欲しくなって、値段が上がるのだ! 限定スニーカーと一緒じゃん!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "スニーカーと違って、こっちは国同士の綱引きよ。それでも払う人がいるくらい、AIの計算力は取り合いってことね。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でもそれ、日本に住んでるボクたちにも関係あるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "遠回りだけど、あるわ。直接パソコン代が上がる話ではないけれど、輸出規制をかいくぐる流通と、中国での強いAI計算需要が見えるニュースなの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "herohero",
+      "text": "なるほど、ボクたちのグラボやメモリの値段に、直接つながる話ではないのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "要するに、遠い国の闇値段から、規制をかいくぐる流通とAI計算力の争奪戦が見えるって話ね。次いくわよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三本目。オープンエーアイが会社向けに、プライベート インテリジェンスっていう仕組みを出してきたの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ぷらいべーと? ボクの日記を、こっそり読まないでくれるサービスなのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "惜しい、だいたい合ってる。会社がAIに相談した中身を、オープンエーアイ自身ものぞけないようにするのが売りなのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? 作った会社なのに、中身を見ないのだ!?",
+      "news_index": 3,
+      "reading": "えっ!?つくったかいしゃなのに、なかみをみないのだ!?"
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう。柱になるプライベート インファレンスは、推論、ようはAIが答えを作る計算を、外から開けられない金庫みたいな機械の中でやる仕組みね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "金庫の中で、AIがこっそり宿題を解いてるってこと?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そんな感じね。使い終わったデータを残さない設定もセットで九月末の発表会で出たけれど、まだお試しの段階で対象は会社だけよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "なんでそこまでするのだ? 普通に使えばいいじゃん?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "病院の記録や会社の秘密みたいに、外に見せられないものほど、AIに任せにくかったからね。そこの扉を開けに来たわけ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "でも、本当にのぞいてないかは、どうやって分かるのだ? ボクなら絶対チラ見するのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "あなたには任せないわ。実際、暗号の専門家からは、この仕組みだけでは十分に守り切れないって声も出てるわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、金庫が立派でも、窓が開いてたら意味ないってことなのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "近いわね。私たちへの影響で言うと、銀行や病院の窓口の裏で、AIが使われる場面がじわじわ増えるかもってことよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "窓口の待ち時間が減るなら、大歓迎なのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ラスト四本目。エムシーピーっていう、AIと道具をつなぐ共通ルールが、すごい勢いで広がってるの。",
+      "news_index": 4,
+      "reading": "らすとよんほんめ。えむしーピーっていう、AIとどうぐをつなぐきょうつうルールが、すごいいきおいでひろがってるの。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "えむしーぴー? ラップバトルの司会者なのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "それはエムシー。エムシーピーはアンソロピックが作って公開した規格で、AIとカレンダーやメールみたいな道具をつなぐ、共通のコンセントみたいなものよ。",
+      "news_index": 4,
+      "reading": "それはえむしー。えむしーピーはアンソロピックがつくってこうかいしたきかくで、AIとカレンダーやメールみたいなどうぐをつなぐ、きょうつうのコンセントみたいなものよ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "あ、どのスマホも同じ充電ケーブルで挿せる、みたいなやつなのだ!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "まさにそれ。七月の公式の発表だと、これを使うための部品のダウンロードが、月に5億回近くあったそうよ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "月に5億回!? 日本の人口の四倍くらい、毎月ダウンロードされてるのだ!?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "人じゃなくて、プログラムが何度も取りに来る数だけどね。それでも、ほぼ業界の標準になったって言っていいわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "標準になると、何がうれしいのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "時間のかかる仕事を預けて、終わったら結果だけ受け取る仕組みも、正式な追加機能になったの。AIに長いお使いを頼みやすくなるわけね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "ボクが寝てる間に、AIが長いおつかいを済ませてくれるのだー!",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そうね。ただ、つなぐ先が増えるほど、一本目みたいな穴の心配も増えるから、鍵の管理は大事よ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "便利なコンセントほど、変なものを挿さないように気をつけるのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "今の一言が正解よ。要するに、AIがいろんなアプリを渡り歩く時代の、土台ができつつあるって話ね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "yubisashi",
+      "text": "今朝は、穴を見つけるAI、闇市場のチップ、のぞかない金庫、AIのコンセントの四本だったのだ!",
+      "news_index": 0,
+      "reading": "けさは、あなをみつけるAI、やみいちばのえチップ、のぞかないきんこ、AIのコンセントのよんほんだったのだ!"
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "共通してたのは、AIが便利になるほど、守りと信頼の仕組みも一緒に問われてるってことね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ボクは今夜、まず再起動するのだ。あと、限定スニーカーは買わないよ。",
+      "news_index": 0,
+      "reading": "ボクはこんや、まずさいきどうするのだ。あと、げんていスニーカーはかわないよ。"
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "スニーカーは関係ないけど、まあいいわ。聴いてくれてるかた、いってらっしゃい。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "また次のテック朝便で会うのだー!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "気になった話があったら、各社の発表や報道ものぞいてみてね。",
+      "news_index": 0
+    }
+  ],
+  "program_description": "旅の道ラジオ朝便のテックニュース回。マイクロソフトの十一月の更新で直した弱点が1,000件を超え、AIで穴を探す仕組みが効いてきた話。アメリカが中国への販売を禁じているエヌビディアのAIサーバー、ディージーエックス・ビー三百が、中国ではアメリカのほぼ三倍の値段で出回っているという報道。オープンエーアイが会社向けに出した、自分たちも中身をのぞけない仕組みのプライベート インテリジェンス。そしてAIと道具をつなぐ共通ルール、エムシーピーが業界の標準になりつつある話。便利になるほど守りと信頼が問われる、をテーマにサクッとまとめた回です。",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20261127_050538_chars.webp",
+    "hero_rel": "/images/topics/tech_20261127_050538.webp",
+    "title": "穴と金庫の朝 〜1,000件の修理と、闇値でほぼ三倍のAIサーバー〜",
+    "companies": [
+      "OpenAI",
+      "Microsoft",
+      "NVIDIA",
+      "Claude"
+    ],
+    "thumbnail_ready": true
+  },
+  "summary_short": "マイクロソフトの更新で直した弱点が1,000件超え、AIによる穴探しが実を結んだ。中国でアメリカの約3倍で出回るエヌビディアのAIサーバー、OpenAIの「中身を見られない」企業向けAI、業界標準になるMCP。便利さの裏で問われる守りと信頼を駆け足で。",
+  "published_at": "2026-11-27T07:01:53+09:00"
+}
