@@ -1,0 +1,697 @@
+{
+  "profile": "ai",
+  "generated_at": "2026-11-27T20:05:56.503185+00:00",
+  "title": "OpenAIがAppleを訴え返す 〜持ち出された100件以上のファイルと、部品工場の奪い合い〜",
+  "segments": [
+    {
+      "speaker": "metan",
+      "tone": "intro",
+      "text": "おはようございます、旅の道ラジオ朝便、テック深掘り回。四国めたんよ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "ボク、ずんだもんなのだー! 今朝は1本がっつりいくのだ!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "今朝のテーマは、チャットジーピーティーのオープンエーアイが、アイフォーンのアップルを訴え返したって話よ。",
+      "news_index": 0,
+      "reading": "けさのテーマは、チャットジーピーティーのオープンエーアイが、アイフォーンのアップルをうったえかえしたってはなしよ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ!? その二社って、仲良しじゃなかったのだ? アイフォーンの中に、チャットジーピーティーが入ってたじゃん!",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこがポイント。二年前に手を組んだ相棒が、今は営業秘密を盗んだって、お互いを訴え合ってるの。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "元相棒同士の泥沼なのだ……朝から胃がキュッとするのだ。",
+      "news_index": 0
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "大丈夫、怖い話じゃなくて、AIの戦場がどこに移ったかが見える話よ。通勤・通学のお供に、順番にほどいていくわね。",
+      "news_index": 0
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "まず、二年前に何があったのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "2024年の六月、アップルが新しいAI機能を発表したとき、チャットジーピーティーを組み込むって一緒に打ち出したの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "あ、シリに難しいことを聞くと、チャットジーピーティーに回してくれるやつなのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そう、それ。発表のときは、すっかり仲良しの二社って感じだったわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "で、どこでケンカが始まったのだ? お弁当のおかずの取り合いなのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "おかずじゃなくて、人と機械の取り合いよ。オープンエーアイが、自分でAIの機械を作り始めたの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "機械!? チャットのAIの会社が、スマホみたいなのを作るのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "2025年に、ジョニー・アイブさんが立ち上げたアイオーっていう会社を買ったの。報道だと買収額は65億ドル前後、日本円で一兆円規模よ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ジョニー・アイブさん? どこかで聞いた名前なのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "アップルでデザインのトップを長く務めて、アイフォーンの形を作った立役者の一人よ。2019年に、アップルを離れてるわ。",
+      "news_index": 1,
+      "reading": "アップルでデザインのトップをながくつとめて、アイフォーンのかたをつくったたてやくしゃのひとりよ。にせんじゅうきゅうねんに、アップルをはなれてるわ。"
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "アイフォーンの生みの親の一人を、ライバルが丸ごと迎えたのだ!? そりゃアップル、ムッとするのだ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "しかもアップルの訴えによると、アップル出身の社員が400人以上、今オープンエーアイで働いてるの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "gurugru",
+      "text": "400人! ボクの学校の十クラス分が、まるごと転校したくらいなのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "niyari",
+      "text": "転校で済めばよかったんだけどね。2026年の七月十日、アップルが先に訴えたの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "何て言って訴えたのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "元社員の二人が、アップルの秘密の情報をオープンエーアイの機械づくりに流した、って主張よ。訴えた先はオープンエーアイと、さっきのアイオー、それに元社員二人ね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "その二人って、誰なのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一人はタン・タンさん、アップルに24年いて、アイフォーンとアップルウォッチの製品デザインを率いた副社長で、今はオープンエーアイのハードウェアの責任者よ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "アイフォーンの形を決めてた側の人なのだ!? とんでもない大物じゃん!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そうよ。もう一人はエンジニアのチャン・リウさんで、未発表の製品の資料を含む、何十ものファイルを持ち出したとされてるわ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "hisohiso",
+      "text": "こっそりユーエスビーに入れて、ポケットに隠したのだ……?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "手口はアップル側の主張だから、まだ確かめられてないわ。ちなみにジョニー・アイブさん本人は、訴えられてもいないし、悪いことをしたとも言われてないの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "そもそも営業秘密って、何なのだ? 会社の日記帳なのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "会社が隠して守ってる、お金になる情報のことよ。設計図や部品の仕入れ先、発売前の計画なんかね。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "秘伝のタレのレシピなのだ! ラーメン屋さんの命なのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "いい例えね。要するに、アップルは秘伝のタレを元店員に持っていかれたって怒ってるわけ。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "オープンエーアイは、なんて言い返したのだ?",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "他社の営業秘密に興味はない、って否定したわ。アップルの申し立ては、雑で攻撃的で、妙に個人的だとまで言ったの。",
+      "news_index": 1
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "妙に個人的! 言い返しのキレがすごいのだ!",
+      "news_index": 1
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "ここからが中身。十月に、オープンエーアイが逆に、うちの秘密も持っていかれたって言い出したの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "えっ、今度は逆向きなのだ!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "アップルから来て、半年ほどでアップルに戻った元社員が、未発表の機械のファイルを100件以上、個人のアカウントに送ってた、という主張よ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "個人のアカウント? 自分ちのメールみたいなものなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、会社のじゃない、自分用のメールやクラウドの保管場所ね。中身は機械の画像や、設計と製造のデータだったとされてるわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "夏休みの宿題を、こっそり家に持ち帰ったみたいなのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "宿題ならいいけど、他人のものよ。しかも一部は、最終出社日の六月二日、シンガポールの真夜中すぎに送られたって。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "sasayaki",
+      "text": "真夜中……ドラマなら、ここで雷が鳴るのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "さらに、その社員がアップルの幹部たちに、オープンエーアイの計画を説明するプレゼンをした、とも主張してるの。その中には、アジアの製造を見る副社長もいたって。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "ライバルの作戦会議に、相手の作戦をそのまま持ち込んだってことなのだ!?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "オープンエーアイの言い分では、ね。アップルは、社内のシステムを調べたけど証拠は見つからなかった、と反論してるわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "ふむふむ。じゃあ今回の、十一月二十七日の反訴って何なのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "反訴は、訴えられた側が、同じ裁判の中で相手を訴え返すことよ。今回はその十月の話も含めて、正式に訴え返したの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "ドッジボールで、当てられたボールをキャッチして投げ返すやつなのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "まさにそれ。で、投げ返したボールは大きく三つあるわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "一つ目、どうぞなのだ!",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "一つ目は、さっきの営業秘密の窃盗。二つ目は、両社が共通で使ってる部品の会社を、アップルが脅して締めつけてるっていう主張よ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "脅す!? うちと縁を切らないと、どうなっても知らないぞ、みたいなやつなのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "報道では、強要して脅してる、という言葉が出てるけど、どの会社に何を言ったかは、まだ明らかになってないの。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "部品屋さんって、なんでそんなに大事なのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "スマホみたいな機械は、画面も電池もカメラも、ほとんど外の工場から買って組み立てるの。サプライヤー、ようは部品の仕入れ先が動いてくれないと、作れないのよ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "カレー屋さんが、ジャガイモ農家さんにそっぽを向かれたら、カレーが作れないのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そういうこと。しかもアップルは大口のお客さんだから、部品の会社に強い影響力を持ちうるの。ただし、今回どの会社にどんな働きかけをしたかは、まだ明らかになってないわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "namidame",
+      "text": "一番のお得意様に、あっちと付き合うなって言われたら……ボクなら泣いちゃうのだ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三つ目は、アップルの雇用契約。社員がライバルの技術に関われないよう縛る、わなみたいな仕組みだって主張してるわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "わな? 落とし穴なのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "例えよ、転職しようとすると、元の会社との約束で身動きが取れなくなるってこと。ほかにも、ズルい戦い方をしてるっていう、不公正な競争の訴えも入ってるわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "結局、どっちが正しいのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "まだ誰にも分からないわ。どっちの主張も、裁判で確かめる前の言い分よ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "でも、裁判所はどう見てるのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "担当はカリフォルニア北部の連邦の裁判所で、エドワード・ダビラ判事よ。十月には、アップルが求める仮差し止めを認める可能性が高い、と口にしたって報じられてるわ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "かりさしとめ? ……お刺身の仲間なのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "違うわよ。裁判の結論が出る前に、とりあえずその情報を使っちゃダメ、って止めておく命令のこと。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "じゃあ、アップルがちょっと優勢なのだ?",
+      "news_index": 2
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "有利不利はまだ言い切れないわ。裁判所が盗用を認定したわけじゃなくて、オープンエーアイ側が問題の情報を使わず、対象の端末などを専門家に調べさせることで合意したの。その直後に、攻めの反訴を打ってきた構図よ。",
+      "news_index": 2
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "ここからが本題なのだ。ボクたちの生活には、何が変わるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "分けて考えましょう。まず、アイフォーンでチャットジーピーティーを使ってる人は、今日すぐ何かが止まるって発表は出てないわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "nagomi",
+      "text": "ふぅ、ボクのシリ経由の宿題係は無事なのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "ただ、提携が今どうなってるかは、報道でも食い違ってるの。ケンカ相手のAIを看板機能に入れ続けるのは気まずいから、長い目では見直しもありうると思う。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "シリの中の相棒が、別の会社のAIに替わるかもしれないってことなのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "可能性の話ね。どこと組むかを決めるのはアップルだし、アップル自身のAIも育ててるから、選択肢は複数あるわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "オープンエーアイの機械のほうは、どうなるのだ? 早く触りたいのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "二月の裁判資料で、最初の機械は2027年の二月末より前にはお客さんに届かない、と説明してるの。商標のもめごとで、アイオーって名前も使わないことになったわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "名前まで消えたのだ!? 発売前から、波乱万丈すぎるのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "そこに部品の会社への圧力が本当にあれば、量産の準備にも響くかもしれない。ただ、圧力が認められた場合に何が命じられるかは、まだ分からないわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "機械を作る人じゃないボクにも、関係あるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "あるわよ。部品の会社が複数の作り手と取引できるかどうかは、将来の製品づくりや競争に影響する可能性があるの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "たこ焼き屋さんが一軒しかない町より、二軒ある町のほうが、たこ焼きが安くておいしくなるのだ!",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "珍しく完璧な例えね。あと、会社で働いてる人には、転職の話が身近よ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "転職? ボクの将来の話なのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "前の会社の資料を、個人のメールやクラウドに送るのは、それだけで大問題になりうるって、今回よく分かるでしょ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "shock",
+      "text": "自分で作った資料でも、ダメなのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "会社の仕事で作ったものは、基本的に会社の持ち物よ。辞める前に、持ち出しの決まりを確かめておくのが身を守るコツね。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "エンジニアの人は、大きい会社同士の取り合いで、引っ張りだこなのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、ただ雇用契約の縛りがどこまで許されるかも、この裁判の争点の一つ。結果次第では、テック業界の転職のしやすさにも影響するかもしれないわ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "業界全体だと、何が変わるのだ?",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "少し前までAIの勝負は、モデルの賢さが中心だったでしょ。今は、それを載せる機械と、機械を作る工場の取り合いにまで広がってるの。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "料理の腕だけじゃなくて、キッチンと八百屋さんの取り合いになったのだ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "そういうこと。つまり、すぐ生活が変わる話じゃないけど、数年後に手に取るAIの機械の顔ぶれを決める綱引きなのよ。",
+      "news_index": 3
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "じゃあ、これから何を見ておけばいいのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三つあるわ。一つ目は、合意に基づく証拠調べがどこまで進むか。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "証拠調べ? どの端末やクラウドを調べるか、の線引きなのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "そう、合意では、アップルの秘密情報があるか、以前あったと分かった端末やクラウドなどを、専門家が調べることになってるわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "二つ目は何なのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "kangae",
+      "text": "アップルが反訴にどう答えるか。特に部品の会社への圧力の話に、中身のある証拠が出てくるかね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "kangae",
+      "text": "部品屋さんの名前が出てきたら、一気に話が大きくなるのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "三つ目は、オープンエーアイの最初の機械の発表よ。どんな形で、どの工場で作るのかが見えてくれば、今回の争いの重さも分かるわ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "裁判は、いつ決着するのだ?",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "報道だと、アップルの訴えの裁判は2027年の七月に予定されてるわ。その前に和解する可能性もあるけどね。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "niyari",
+      "text": "最後は仲直りの握手で終わるかもしれないのだ。",
+      "news_index": 4
+    },
+    {
+      "speaker": "metan",
+      "tone": "tsuntsun",
+      "text": "どうかしら。お互いに相手の手口をさらし合ってるから、簡単にはいかないと思う。",
+      "news_index": 4
+    },
+    {
+      "speaker": "zunda",
+      "tone": "normal",
+      "text": "今朝は、オープンエーアイがアップルを訴え返して、元相棒が全面対決になった話だったのだ。",
+      "news_index": 5,
+      "reading": "けさは、オープンエーアイがアップルをうったえかえして、もとあいぼうがぜんめんたいけつになったはなしだったのだ。"
+    },
+    {
+      "speaker": "metan",
+      "tone": "normal",
+      "text": "まとめるわね、アップルは元社員を通じた秘密の持ち出しを訴え、オープンエーアイは逆の持ち出しと、部品の会社への圧力、縛りの強い雇用契約を訴え返した。どれもまだ、裁判で確かめる前の言い分よ。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "mic",
+      "text": "秘伝のタレと、ドッジボールと、二軒のたこ焼き屋さん。今日の雑談で言うのだ!",
+      "news_index": 5
+    },
+    {
+      "speaker": "metan",
+      "tone": "amaama",
+      "text": "たこ焼きは余計だけど、まあいいわ。聴いてくれてるかた、いってらっしゃい、気になる人は各社の報道をのぞいてみてね。",
+      "news_index": 5
+    },
+    {
+      "speaker": "zunda",
+      "tone": "heart",
+      "text": "また大きいニュースがあったら、深掘りするのだ! いってらっしゃいなのだー!",
+      "news_index": 5,
+      "reading": "またおおきいニュースがあったら、ふかぼりするのだ!いってらっしゃいなのだー!"
+    }
+  ],
+  "program_description": "2024年に手を組んだオープンエーアイとアップルが、営業秘密をめぐって訴え合う関係になった。背景では、オープンエーアイがジョニー・アイブさんの会社アイオーを買って機械づくりに乗り出し、アップル出身者が大勢移ったこと、7月にアップルが元社員二人を通じた秘密の持ち出しで先に訴えたことを整理。中身では、アップルに戻った元社員が未発表の機械のファイルを100件以上送ったという主張と、11月27日の反訴で示された、部品の会社への圧力と縛りの強い雇用契約という論点を噛み砕いた。含意では、アイフォーンのチャットジーピーティー連携、来年以降のAIの機械の選択肢、転職時の資料の扱いへの影響を考え、展望では合意に基づく証拠調べの範囲、アップルの反論、来年夏の裁判を見どころに挙げた。",
+  "variant": "tech_deepdive",
+  "featured_game": {
+    "image_rel": "/images/topics/tech_20261128_050556_chars.webp",
+    "hero_rel": "/images/topics/tech_20261128_050556.webp",
+    "title": "OpenAIがAppleを訴え返す 〜持ち出された100件以上のファイルと、部品工場の奪い合い〜",
+    "companies": [
+      "Apple",
+      "OpenAI"
+    ],
+    "thumbnail_ready": true
+  },
+  "summary_short": "アップルが先に訴えた秘密持ち出し問題に、オープンエーアイが反訴で応戦。元社員による未発表機のファイル100件超の持ち出し疑惑と、部品会社への圧力という双方の主張を整理し、アイフォーンへのチャットジーピーティー連携や転職時の資料の扱いへの影響、来年夏の裁判の行方までを見通す。",
+  "published_at": "2026-11-28T07:02:41+09:00"
+}
